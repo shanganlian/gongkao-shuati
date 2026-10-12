@@ -1,0 +1,6 @@
+{
+  "name": "行岸公考",
+  "description": "专为国考、省考及事业编打造的智能化备考与沉浸式面试演练平台。涵盖初试真题题库、体系秘籍与语音听学、每日两题思维长线培养、游戏化面试对练大厅、不焦虑双向互勉评测、社区打卡与能力全景雷达。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
