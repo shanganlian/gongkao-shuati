@@ -745,7 +745,7 @@ export const PracticeArena: React.FC<PracticeArenaProps> = ({
 
               {/* Options */}
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-2">
-                {currentReviewQ.options?.map((opt) => {
+                {currentReviewQ.options?.map((opt: {key: string; text: string}) => {
                   const isSelected = reviewSelected[currentReviewQ.id] === opt.key;
                   const isCorrect = currentReviewQ.answer === opt.key;
                   const submitted = reviewSubmitted[currentReviewQ.id];
