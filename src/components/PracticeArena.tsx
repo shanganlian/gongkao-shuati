@@ -21,6 +21,7 @@ import { NoteList } from './NoteList';
 import { AuthModal } from './AuthModal';
 import { supabase } from '../lib/supabase';
 import { useAuth } from '../context/AuthContext';
+import { useQuestions } from '../hooks/useQuestions';
 
 type TargetCategory = ExamCategory | 'all';
 
@@ -80,6 +81,15 @@ export const PracticeArena: React.FC<PracticeArenaProps> = ({
   // 知识图谱跳转筛选
   const [currentKnowledgeFilter, setCurrentKnowledgeFilter] = useState<{ module: string; cardIds: string[]; keywords: string[] } | null>(null);
 
+  const { questionsPool, filteredQuestions, isLoading, indexData } = useQuestions(
+    selectedCategory,
+    activeProvince,
+    activeModule,
+    practiceMode,
+    mistakeList,
+    currentKnowledgeFilter
+  );
+
   // 响应外部 knowledgeFilter 变化
   useEffect(() => {
     if (knowledgeFilter) {
@@ -105,7 +115,7 @@ export const PracticeArena: React.FC<PracticeArenaProps> = ({
   // 按目标省份+联考抽题组卷
   const handleGenerateCustomPaper = () => {
     // 目标省份的题目 + 联考题
-    const pool = MOCK_QUESTIONS.filter(q =>
+    const pool = questionsPool.filter(q =>
       q.province === customProvince || q.province === '联考'
     );
     // 只抽客观题（有选项的）
@@ -134,48 +144,28 @@ export const PracticeArena: React.FC<PracticeArenaProps> = ({
   // 注意：从知识图谱跳转时（currentKnowledgeFilter 存在），忽略 category/province/module 筛选，只按知识图谱条件筛选
   const isKnowledgeFilterActive = !!currentKnowledgeFilter;
 
-  const filteredQuestions = MOCK_QUESTIONS.filter((q) => {
-    if (isKnowledgeFilterActive) {
-      // 知识图谱模式：只按知识图谱条件筛选
-      const { cardIds, keywords } = currentKnowledgeFilter!;
-      if (cardIds && cardIds.length > 0) {
-        return cardIds.includes(q.id);
-      } else if (keywords && keywords.length > 0) {
-        const searchText = [q.title, q.stem, ...(q.keyPoints || [])].join(' ');
-        return keywords.some(kw => searchText.includes(kw));
-      }
-      return true;
-    }
-
-    // 1. 目标考试筛选
-    const categoryMatch = selectedCategory === 'all'
-      ? true
-      : (q.category === selectedCategory);
-
-    // 2. 省份筛选（国考时省份已重置为 all，不生效）
-    let provinceMatch = true;
-    if (selectedCategory !== 'national' && activeProvince !== 'all') {
-      provinceMatch = q.province === activeProvince || q.province === '联考';
-    }
-
-    // 3. 模块筛选
-    const moduleMatch = activeModule === 'all' || q.module === activeModule;
-
-    return categoryMatch && provinceMatch && moduleMatch;
-  });
-
-  // 按模块统计题目数（用于模块标签上的计数）
+  // 按模块统计题目数（估算）
   const moduleCounts = Object.fromEntries(
-    Object.keys(EXAM_MODULE_NAMES).map(mod => [
-      mod,
-      MOCK_QUESTIONS.filter(q =>
-        (selectedCategory === 'all' || q.category === selectedCategory) &&
-        (selectedCategory === 'national' || activeProvince === 'all' || q.province === activeProvince || q.province === '联考') &&
-        q.module === mod
-      ).length
-    ])
+    Object.keys(EXAM_MODULE_NAMES).map(mod => {
+      let count = 0;
+      if (indexData) {
+        Object.keys(indexData).forEach(key => {
+          const [cat, prov, m] = key.split('-');
+          const catMatch = selectedCategory === 'all' || cat === selectedCategory;
+          const provMatch = activeProvince === 'all' || prov === activeProvince || (selectedCategory === 'national' && prov === 'none') || prov === '联考';
+          if (catMatch && provMatch && m === mod) {
+             count += indexData[key].length * 150;
+          }
+        });
+      }
+      return [mod, count];
+    })
   );
   const totalFilteredCount = Object.values(moduleCounts).reduce((a, b) => a + b, 0);
+
+  if (isLoading && questionsPool.length === 0) {
+    return <div className="flex justify-center items-center h-64"><div className="animate-spin rounded-full h-8 w-8 border-b-2 border-slate-900"></div></div>;
+  }
 
   const currentQ = filteredQuestions[currentQuestionIndex] || filteredQuestions[0];
 
@@ -297,7 +287,7 @@ export const PracticeArena: React.FC<PracticeArenaProps> = ({
       // 从题库中匹配出题目对象
       const questions = (data || [])
         .map(item => {
-          const q = MOCK_QUESTIONS.find(mq => mq.id === item.question_id);
+          const q = questionsPool.find(mq => mq.id === item.question_id);
           return q ? { ...q, review: item } : null;
         })
         .filter(Boolean) as Question[];
@@ -675,7 +665,7 @@ export const PracticeArena: React.FC<PracticeArenaProps> = ({
             </div>
           ) : (
             <div className="space-y-4">
-              {MOCK_QUESTIONS.filter(q => mistakeList.includes(q.id)).map((q) => (
+              {questionsPool.filter(q => mistakeList.includes(q.id)).map((q) => (
                 <div key={q.id} className="bg-white rounded-2xl p-5 border border-slate-200/80 space-y-3">
                   <div className="flex items-center justify-between text-xs">
                     <span className="font-semibold text-slate-800">

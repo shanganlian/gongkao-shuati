@@ -1,15 +1,8 @@
-import React, { useState } from 'react';
+import React, { useState, Suspense } from 'react';
 import { Navbar } from './components/Navbar';
-import { AnalyticsOverview } from './components/AnalyticsOverview';
-import { DailyMindset } from './components/DailyMindset';
 import { PracticeArena } from './components/PracticeArena';
-import { KnowledgeBase } from './components/KnowledgeBase';
-import { KnowledgeGraph } from './components/KnowledgeGraph';
+import { DailyMindset } from './components/DailyMindset';
 import { AuthModal } from './components/AuthModal';
-import { InterviewArena } from './components/InterviewArena';
-import { CommunityCheckIn } from './components/CommunityCheckIn';
-import { GrowthSystem } from './components/GrowthSystem';
-import { DailyPlanGenerator } from './components/DailyPlanGenerator';
 import { AudioPlayerFloating } from './components/AudioPlayerFloating';
 import { ExamCategory } from './types';
 import { AuthProvider } from './context/AuthContext';
@@ -23,6 +16,15 @@ import {
   Award,
   Calendar
 } from 'lucide-react';
+
+const AnalyticsOverview = React.lazy(() => import('./components/AnalyticsOverview').then(module => ({ default: module.AnalyticsOverview })));
+const KnowledgeBase = React.lazy(() => import('./components/KnowledgeBase').then(module => ({ default: module.KnowledgeBase })));
+const KnowledgeGraph = React.lazy(() => import('./components/KnowledgeGraph').then(module => ({ default: module.KnowledgeGraph })));
+const InterviewArena = React.lazy(() => import('./components/InterviewArena').then(module => ({ default: module.InterviewArena })));
+const CommunityCheckIn = React.lazy(() => import('./components/CommunityCheckIn').then(module => ({ default: module.CommunityCheckIn })));
+const GrowthSystem = React.lazy(() => import('./components/GrowthSystem').then(module => ({ default: module.GrowthSystem })));
+const DailyPlanGenerator = React.lazy(() => import('./components/DailyPlanGenerator').then(module => ({ default: module.DailyPlanGenerator })));
+
 
 // 支持 'all' 表示全部考试类型
 type TargetCategory = ExamCategory | 'all';
@@ -142,6 +144,7 @@ export default function App() {
 
       {/* Main Viewport Container */}
       <main className="flex-1 max-w-7xl w-full mx-auto px-4 sm:px-6 lg:px-8 py-6">
+        <Suspense fallback={<div className="flex justify-center items-center h-64"><div className="animate-spin rounded-full h-8 w-8 border-b-2 border-slate-900"></div></div>}>
         {activeTab === 'overview' && (
           <AnalyticsOverview
             onNavigate={(tab) => setActiveTab(tab)}
@@ -247,6 +250,7 @@ export default function App() {
             }}
           />
         )}
+        </Suspense>
       </main>
 
       {/* 登录弹窗（知识图谱未登录引导） */}

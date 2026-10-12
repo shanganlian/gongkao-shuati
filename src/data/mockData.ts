@@ -9,8 +9,6 @@ import {
   InterviewRoom, 
   CommunityPost 
 } from '../types';
-import { REAL_EXAM_QUESTIONS } from './realExamQuestions';
-import { PROVINCIAL_EXAM_QUESTIONS } from './provincialExamQuestions';
 import knowledgeTreeRaw from './knowledge.json';
 
 export const KNOWLEDGE_TREE: KnowledgeChapter[] = knowledgeTreeRaw as KnowledgeChapter[];
@@ -143,7 +141,7 @@ const MOCK_QUESTIONS_BASE: Question[] = [
   }
 ];
 
-export const MOCK_QUESTIONS: Question[] = [...REAL_EXAM_QUESTIONS, ...PROVINCIAL_EXAM_QUESTIONS, ...MOCK_QUESTIONS_BASE];
+export const MOCK_QUESTIONS: Question[] = [...MOCK_QUESTIONS_BASE];
 
 // 从题库中提取所有省份（用于筛选下拉框）
 export const ALL_PROVINCES: string[] = Array.from(
