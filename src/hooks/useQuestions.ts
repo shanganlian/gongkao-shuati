@@ -1,5 +1,6 @@
 import { useState, useEffect, useMemo } from 'react';
 import { Question, ExamCategory } from '../types';
+import { filterValidQuestions } from '../lib/questionValidation';
 
 export function useQuestions(
   selectedCategory: ExamCategory | 'all',
@@ -34,12 +35,14 @@ export function useQuestions(
     if (isKnowledgeFilterActive && currentKnowledgeFilter?.cardIds?.length) {
       currentKnowledgeFilter.cardIds.forEach(id => {
         const chunks = idMap[id];
-        if (chunks && chunks.length > 0) targetChunks.add(chunks[0]);
+        // 一个题目 ID 可能分布在多个分片中，必须全部加载，否则会漏题
+        if (chunks && chunks.length > 0) chunks.forEach(c => targetChunks.add(c));
       });
     } else if (practiceMode === 'review' || practiceMode === 'mistakes') {
       mistakeList.forEach(id => {
         const chunks = idMap[id];
-        if (chunks && chunks.length > 0) targetChunks.add(chunks[0]);
+        // 同上：加载该 ID 所在的全部匹配分片
+        if (chunks && chunks.length > 0) chunks.forEach(c => targetChunks.add(c));
       });
     } else {
       Object.keys(indexData).forEach(key => {
@@ -50,7 +53,8 @@ export function useQuestions(
 
         if (catMatch && provMatch && modMatch) {
           if (indexData[key] && indexData[key].length > 0) {
-            targetChunks.add(indexData[key][0]); // Load just the first chunk to save bandwidth
+            // 加载所有匹配的分片文件
+            indexData[key].forEach(c => targetChunks.add(c));
           }
         }
       });
@@ -60,8 +64,8 @@ export function useQuestions(
     
     if (chunksToFetch.length > 0) {
       setIsLoading(true);
-      // Fetch up to 10 chunks to avoid overwhelming the network
-      const limited = chunksToFetch.slice(0, 10);
+      // 每次最多并行加载 2 个分片，结合 useEffect 的依赖实现渐进式陆续加载
+      const limited = chunksToFetch.slice(0, 2);
       
       Promise.all(limited.map(c => fetch(`/data/questions/${c}`).then(r => r.json())))
         .then(results => {
@@ -84,7 +88,9 @@ export function useQuestions(
 
   const filteredQuestions = useMemo(() => {
     const isKnowledgeFilterActive = !!currentKnowledgeFilter;
-    return questionsPool.filter(q => {
+    // 统一数据校验：题干为空 / 选项为空（含选项文本为空）的题目直接跳过
+    const validPool = filterValidQuestions(questionsPool);
+    return validPool.filter(q => {
       if (isKnowledgeFilterActive) {
         const { cardIds, keywords } = currentKnowledgeFilter!;
         if (cardIds && cardIds.length > 0) return cardIds.includes(q.id);

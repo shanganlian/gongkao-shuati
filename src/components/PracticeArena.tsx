@@ -22,6 +22,9 @@ import { AuthModal } from './AuthModal';
 import { supabase } from '../lib/supabase';
 import { useAuth } from '../context/AuthContext';
 import { useQuestions } from '../hooks/useQuestions';
+import { QuestionErrorBoundary } from './QuestionErrorBoundary';
+import { filterValidQuestions, isValidQuestion, isMergedAbnormal } from '../lib/questionValidation';
+import { AbnormalQuestionPlaceholder } from './AbnormalQuestionPlaceholder';
 
 type TargetCategory = ExamCategory | 'all';
 
@@ -162,10 +165,6 @@ export const PracticeArena: React.FC<PracticeArenaProps> = ({
     })
   );
   const totalFilteredCount = Object.values(moduleCounts).reduce((a, b) => a + b, 0);
-
-  if (isLoading && questionsPool.length === 0) {
-    return <div className="flex justify-center items-center h-64"><div className="animate-spin rounded-full h-8 w-8 border-b-2 border-slate-900"></div></div>;
-  }
 
   const currentQ = filteredQuestions[currentQuestionIndex] || filteredQuestions[0];
 
@@ -380,6 +379,10 @@ export const PracticeArena: React.FC<PracticeArenaProps> = ({
     }
   };
 
+  if (isLoading && questionsPool.length === 0) {
+    return <div className="flex justify-center items-center h-64"><div className="animate-spin rounded-full h-8 w-8 border-b-2 border-slate-900"></div></div>;
+  }
+
   return (
     <div className="space-y-6">
       {/* Top Header & Mode Navigation */}
@@ -482,8 +485,9 @@ export const PracticeArena: React.FC<PracticeArenaProps> = ({
 
           {/* Question List in Paper */}
           <div className="space-y-6">
-            {activePaper.questions.map((q, idx) => (
-              <div key={q.id} className="p-4 bg-slate-50/70 rounded-xl border border-slate-200/60 space-y-3">
+            {filterValidQuestions(activePaper.questions).map((q, idx) => (
+              <QuestionErrorBoundary key={q.id} resetKey={`${activePaper.id}-${q.id}`}>
+              <div className="p-4 bg-slate-50/70 rounded-xl border border-slate-200/60 space-y-3">
                 <div className="flex items-center justify-between text-xs text-slate-500">
                   <span className="font-semibold text-slate-800">
                     第 {idx + 1} 题 · 【{EXAM_MODULE_NAMES[q.module] || q.module}】
@@ -491,6 +495,10 @@ export const PracticeArena: React.FC<PracticeArenaProps> = ({
                   <span>{q.difficulty}</span>
                 </div>
 
+                {isMergedAbnormal(q) ? (
+                  <AbnormalQuestionPlaceholder questionId={q.id} />
+                ) : (
+                <>
                 <p className="text-xs sm:text-sm text-slate-900 leading-relaxed font-medium">
                   {q.stem}
                 </p>
@@ -538,7 +546,10 @@ export const PracticeArena: React.FC<PracticeArenaProps> = ({
                     <p className="text-emerald-700 font-medium pt-1">{q.thinkingTip}</p>
                   </div>
                 )}
+                </>
+                )}
               </div>
+              </QuestionErrorBoundary>
             ))}
           </div>
 
@@ -665,21 +676,29 @@ export const PracticeArena: React.FC<PracticeArenaProps> = ({
             </div>
           ) : (
             <div className="space-y-4">
-              {questionsPool.filter(q => mistakeList.includes(q.id)).map((q) => (
-                <div key={q.id} className="bg-white rounded-2xl p-5 border border-slate-200/80 space-y-3">
+              {filterValidQuestions(questionsPool.filter(q => mistakeList.includes(q.id))).map((q) => (
+                <QuestionErrorBoundary key={q.id} resetKey={`mistake-${q.id}`}>
+                <div className="bg-white rounded-2xl p-5 border border-slate-200/80 space-y-3">
                   <div className="flex items-center justify-between text-xs">
                     <span className="font-semibold text-slate-800">
                       【{EXAM_MODULE_NAMES[q.module]}】{q.title}
                     </span>
                     <span className="text-rose-600 font-semibold">历史错题</span>
                   </div>
+                  {isMergedAbnormal(q) ? (
+                    <AbnormalQuestionPlaceholder questionId={q.id} compact />
+                  ) : (
+                  <>
                   <p className="text-xs sm:text-sm text-slate-800 font-medium">{q.stem}</p>
                   <div className="p-3 bg-slate-50 rounded-xl border border-slate-200 text-xs text-slate-700">
                     <strong className="text-slate-900">正确答案：{q.answer}</strong>
                     <p className="mt-1">{q.explanation}</p>
                     <p className="text-emerald-700 font-semibold mt-1">{q.thinkingTip}</p>
                   </div>
+                  </>
+                  )}
                 </div>
+                </QuestionErrorBoundary>
               ))}
             </div>
           )}
@@ -861,7 +880,18 @@ export const PracticeArena: React.FC<PracticeArenaProps> = ({
             </div>
           )}
 
+          {!currentQ && !isLoading && (
+            <div className="bg-white rounded-2xl p-12 text-center border border-slate-200/80">
+              <HelpCircle className="w-10 h-10 text-slate-300 mx-auto mb-2" />
+              <h4 className="text-sm font-bold text-slate-800">当前筛选条件下暂无可用题目</h4>
+              <p className="text-xs text-slate-500 mt-1">
+                请切换模块或省份筛选，或稍候等待题库分片加载完成。
+              </p>
+            </div>
+          )}
+
           {currentQ && (
+            <QuestionErrorBoundary resetKey={`drill-${currentQ.id}`}>
             <div className="bg-white rounded-2xl p-6 border border-slate-200/80 shadow-xs space-y-4">
               <div className="flex items-center justify-between text-xs text-slate-500 border-b border-slate-100 pb-3">
                 <div className="flex items-center gap-2">
@@ -883,6 +913,10 @@ export const PracticeArena: React.FC<PracticeArenaProps> = ({
                 </div>
               </div>
 
+              {isMergedAbnormal(currentQ) ? (
+                <AbnormalQuestionPlaceholder questionId={currentQ.id} />
+              ) : (
+              <>
               {/* Stem */}
               <h3 className="text-sm sm:text-base font-semibold text-slate-900 leading-relaxed">
                 {currentQ.stem}
@@ -927,7 +961,15 @@ export const PracticeArena: React.FC<PracticeArenaProps> = ({
                       )}
                     </button>
                   );
-                }) : (
+                }) : currentQ.isImageQuestion ? (
+                  <div className="bg-sky-50/60 border border-sky-200 rounded-xl p-4 text-xs sm:text-sm text-sky-900 space-y-1">
+                    <p className="font-semibold">本题为图片题（图形推理 / 图表类）</p>
+                    <p className="text-sky-700">
+                      原题选项为图片，文本化时未能保留。可先查看下方解析与标准答案
+                      {currentQ.answer ? `（正确答案：${currentQ.answer}）` : ''}，或跳过本题继续练习。
+                    </p>
+                  </div>
+                ) : (
                   <div className="bg-amber-50/50 border border-amber-200 rounded-xl p-4 text-xs sm:text-sm text-amber-900">
                     本题为主观题（申论/综应），无固定选项。请在下方查看参考答案要点后自行对照评分。
                   </div>
@@ -1007,7 +1049,10 @@ export const PracticeArena: React.FC<PracticeArenaProps> = ({
                   />
                 </div>
               )}
+              </>
+              )}
             </div>
+            </QuestionErrorBoundary>
           )}
         </div>
       )}

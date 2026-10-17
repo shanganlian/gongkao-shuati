@@ -6,4 +6,9 @@ coverage/
 *.log
 .env*
 !.env.example
-*.cjs
+
+# 临时中间产物（脚本 stdout 重定向、调试输出）
+scripts/*.txt
+dev.log
+
+# 注意：scripts/*.cjs 是题库治理与校验脚本，需要纳入版本管理，不要忽略

@@ -24,6 +24,10 @@ export interface Question {
   difficulty: '基础' | '中等' | '拔高';
   source: string; // 如：2025国考行政执法卷
   province?: string; // 省份，如"浙江"、"联考"，国考留空
+  /** 图片题：选项为图片，文本化时丢失，前端显示占位提示 */
+  isImageQuestion?: boolean;
+  /** 异常题标记（多题合并等脏数据），前端显示「本题数据整理中」占位 */
+  isAbnormal?: boolean;
 }
 
 export interface Paper {

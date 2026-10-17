@@ -1,6 +1,7 @@
 import React, { useState, Suspense } from 'react';
 import { Navbar } from './components/Navbar';
 import { PracticeArena } from './components/PracticeArena';
+import { ErrorBoundary } from './components/ErrorBoundary';
 import { DailyMindset } from './components/DailyMindset';
 import { AuthModal } from './components/AuthModal';
 import { AudioPlayerFloating } from './components/AudioPlayerFloating';
@@ -164,12 +165,14 @@ export default function App() {
 
         {/* 笔试专区: 题库刷题与真题卷 */}
         {activeTab === 'practice' && (
-          <PracticeArena
-            selectedCategory={selectedCategory}
-            onRecordQuestionAnswered={handleRecordQuestionAnswered}
-            reviewTrigger={reviewTrigger}
-            knowledgeFilter={knowledgeFilter}
-          />
+          <ErrorBoundary>
+            <PracticeArena
+              selectedCategory={selectedCategory}
+              onRecordQuestionAnswered={handleRecordQuestionAnswered}
+              reviewTrigger={reviewTrigger}
+              knowledgeFilter={knowledgeFilter}
+            />
+          </ErrorBoundary>
         )}
 
         {/* 笔试专区: 知识点体系、通关秘籍与语音播放 */}
