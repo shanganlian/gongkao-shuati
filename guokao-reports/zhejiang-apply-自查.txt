@@ -1,0 +1,162 @@
+浙江 publish apply 自查
+生成时间：2026-10-19T12:05:13.211Z
+检查基准：HEAD e48d615（apply 前）
+
+## 1. 浙江分片替换 / 新增 / 删除清单
+HEAD 旧浙江分片：11 个 / 1337 题
+源目录新分片：27 个 / 4743 题
+当前线上浙江分片：27 个 / 4743 题
+覆盖：11 / 新增：16 / 删除：0
+
+| 动作 | 目标分片 | 旧题数 | 新题数 |
+|---|---|---:|---:|
+| 覆盖 | provincial-浙江-changshi-0.json | 150 | 200 |
+| 覆盖 | provincial-浙江-changshi-1.json | 150 | 200 |
+| 覆盖 | provincial-浙江-changshi-2.json | 150 | 200 |
+| 覆盖 | provincial-浙江-changshi-3.json | 143 | 80 |
+| 覆盖 | provincial-浙江-panduan-0.json | 150 | 200 |
+| 覆盖 | provincial-浙江-panduan-1.json | 100 | 200 |
+| 新增 | provincial-浙江-panduan-2.json | — | 200 |
+| 新增 | provincial-浙江-panduan-3.json | — | 200 |
+| 新增 | provincial-浙江-panduan-4.json | — | 200 |
+| 新增 | provincial-浙江-panduan-5.json | — | 200 |
+| 新增 | provincial-浙江-panduan-6.json | — | 170 |
+| 覆盖 | provincial-浙江-shuliang-0.json | 150 | 200 |
+| 覆盖 | provincial-浙江-shuliang-1.json | 5 | 200 |
+| 新增 | provincial-浙江-shuliang-2.json | — | 200 |
+| 新增 | provincial-浙江-shuliang-3.json | — | 200 |
+| 新增 | provincial-浙江-shuliang-4.json | — | 19 |
+| 覆盖 | provincial-浙江-yanyu-0.json | 150 | 200 |
+| 覆盖 | provincial-浙江-yanyu-1.json | 56 | 200 |
+| 新增 | provincial-浙江-yanyu-2.json | — | 200 |
+| 新增 | provincial-浙江-yanyu-3.json | — | 200 |
+| 新增 | provincial-浙江-yanyu-4.json | — | 200 |
+| 新增 | provincial-浙江-yanyu-5.json | — | 200 |
+| 新增 | provincial-浙江-yanyu-6.json | — | 34 |
+| 覆盖 | provincial-浙江-ziliao-0.json | 133 | 200 |
+| 新增 | provincial-浙江-ziliao-1.json | — | 200 |
+| 新增 | provincial-浙江-ziliao-2.json | — | 200 |
+| 新增 | provincial-浙江-ziliao-3.json | — | 40 |
+
+## 2. 其他省 / 国考零触碰
+非浙江分片 diff：0
+国考 national-* diff：0
+其他省 provincial-*（非浙江）diff：0
+index.json：M
+idMap.json：M
+questions.json：无变更
+当前非浙江分片：272 个 / 28350 题（未改动由 diff 证明）
+
+## 3. index / idMap 重建后总数
+旧总数：29687
+旧浙江：1337
+新浙江：4743
+公式：29687 - 1337 + 4743 = 33093
+实际当前总数：33093
+分片：299（HEAD 283）
+index keys：167；引用分片：299；悬空：0；未引用：0
+idMap：30009（HEAD 26590，净增 3419）
+idMap 缺 ID：0；多余 ID：0；坏分片引用：0
+旧浙江唯一 ID：1324
+
+## 4. git status 摘要
+变更条目：81
+M=18 / ??=63
+
+全部变更：
+M PROGRESS.md
+ M guokao-reports/v2-缺选项待回填.md
+ M package.json
+ M public/data/questions/idMap.json
+ M public/data/questions/index.json
+ M public/data/questions/provincial-浙江-changshi-0.json
+ M public/data/questions/provincial-浙江-changshi-1.json
+ M public/data/questions/provincial-浙江-changshi-2.json
+ M public/data/questions/provincial-浙江-changshi-3.json
+ M public/data/questions/provincial-浙江-panduan-0.json
+ M public/data/questions/provincial-浙江-panduan-1.json
+ M public/data/questions/provincial-浙江-shuliang-0.json
+ M public/data/questions/provincial-浙江-shuliang-1.json
+ M public/data/questions/provincial-浙江-yanyu-0.json
+ M public/data/questions/provincial-浙江-yanyu-1.json
+ M public/data/questions/provincial-浙江-ziliao-0.json
+ M scripts/convert-guokao.js
+ M validate-questions-questions-v2.csv
+?? guokao-reports/2024-安徽行测答案册-逐题比对.csv
+?? guokao-reports/_check-zj-apply.cjs
+?? guokao-reports/_overnight-probe.mjs
+?? guokao-reports/_overnight-sample-old.mjs
+?? guokao-reports/_overnight-samples/
+?? guokao-reports/_overnight-source-inventory.txt
+?? guokao-reports/_overnight-target-inventory.txt
+?? guokao-reports/_overnight-test-base.mjs
+?? guokao-reports/_overnight-安徽-docx.txt
+?? guokao-reports/_overnight-浙江-docx.txt
+?? guokao-reports/_overnight-福建-docx.txt
+?? guokao-reports/_zj-apply-baseline.txt
+?? guokao-reports/backup-fujian-v2-2026-10-19T11-36-56-040Z/
+?? guokao-reports/fujian-v2-修复后账本.md
+?? guokao-reports/fujian-v2-修复对照.csv
+?? guokao-reports/fujian-v2-修复对照.md
+?? guokao-reports/fujian-v2-内部字段清理.txt
+?? guokao-reports/fujian-v2-校验.txt
+?? guokao-reports/overnight-summary.md
+?? guokao-reports/publish-zhejiang-plan.md
+?? guokao-reports/v2-缺选项回填对照-2026-10-19.md
+?? guokao-reports/v2-解析错配-三省.csv
+?? guokao-reports/v2-解析错配-三省.md
+?? guokao-reports/zhejiang-apply-自查.txt
+?? guokao-reports/省考-人工修复记录-安徽.md
+?? guokao-reports/省考-人工修复记录-江西.md
+?? guokao-reports/省考-人工修复记录-湖北.md
+?? guokao-reports/省考-人工修复记录-湖南.md
+?? guokao-reports/省考-修复清单-安徽.csv
+?? guokao-reports/省考-修复清单-江西.csv
+?? guokao-reports/省考-修复清单-湖北.csv
+?? guokao-reports/省考-修复清单-湖南.csv
+?? guokao-reports/省考-安徽-转换/
+?? guokao-reports/省考-审计-安徽.md
+?? guokao-reports/省考-审计-江西.md
+?? guokao-reports/省考-审计-湖北.md
+?? guokao-reports/省考-审计-湖南.md
+?? guokao-reports/省考-浙江-转换/
+?? guokao-reports/省考-福建-转换/
+?? guokao-reports/联考共用卷-安徽.csv
+?? public/data/questions-v2-provincial/
+?? public/data/questions/provincial-浙江-panduan-2.json
+?? public/data/questions/provincial-浙江-panduan-3.json
+?? public/data/questions/provincial-浙江-panduan-4.json
+?? public/data/questions/provincial-浙江-panduan-5.json
+?? public/data/questions/provincial-浙江-panduan-6.json
+?? public/data/questions/provincial-浙江-shuliang-2.json
+?? public/data/questions/provincial-浙江-shuliang-3.json
+?? public/data/questions/provincial-浙江-shuliang-4.json
+?? public/data/questions/provincial-浙江-yanyu-2.json
+?? public/data/questions/provincial-浙江-yanyu-3.json
+?? public/data/questions/provincial-浙江-yanyu-4.json
+?? public/data/questions/provincial-浙江-yanyu-5.json
+?? public/data/questions/provincial-浙江-yanyu-6.json
+?? public/data/questions/provincial-浙江-ziliao-1.json
+?? public/data/questions/provincial-浙江-ziliao-2.json
+?? public/data/questions/provincial-浙江-ziliao-3.json
+?? scripts/audit-v2-explanation-module.cjs
+?? scripts/clean-fujian-v2-internal.cjs
+?? scripts/overnight-provinces.cjs
+?? scripts/publish-merge-zhejiang.cjs
+?? scripts/repair-fujian-v2.cjs
+?? scripts/verify-fujian-v2.cjs
+
+数据目录 diff 文件：
+M	public/data/questions/idMap.json
+M	public/data/questions/index.json
+M	public/data/questions/provincial-浙江-changshi-0.json
+M	public/data/questions/provincial-浙江-changshi-1.json
+M	public/data/questions/provincial-浙江-changshi-2.json
+M	public/data/questions/provincial-浙江-changshi-3.json
+M	public/data/questions/provincial-浙江-panduan-0.json
+M	public/data/questions/provincial-浙江-panduan-1.json
+M	public/data/questions/provincial-浙江-shuliang-0.json
+M	public/data/questions/provincial-浙江-shuliang-1.json
+M	public/data/questions/provincial-浙江-yanyu-0.json
+M	public/data/questions/provincial-浙江-yanyu-1.json
+M	public/data/questions/provincial-浙江-ziliao-0.json

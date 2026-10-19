@@ -50,6 +50,7 @@ const MODULE_MAP = {
   常识判断: 'changshi',
   言语理解与表达: 'yanyu',
   言语理解: 'yanyu',
+  言语能力: 'yanyu',
   数量关系: 'shuliang',
   判断推理: 'panduan',
   资料分析: 'ziliao',
@@ -125,6 +126,8 @@ function listDocx(dir) {
 
 function normalizeText(text) {
   return String(text || '')
+    // 省考真题里常见康熙部首（如「⼀」「⼆」「⽂」），NFKC 后才是标准汉字
+    .replace(/[\u2E80-\u2EFF\u2F00-\u2FDF]/g, ch => ch.normalize('NFKC'))
     .replace(/\r\n?/g, '\n')
     .replace(/\u00a0/g, ' ')
     .replace(/\u3000/g, ' ')
@@ -434,7 +437,7 @@ function pairShenlunFiles(sDir) {
 /* ------------------------------------------------------------------ */
 
 // 2023 起模块标题常与说明同段：「一、常识判断。第一部分 常识判断。 根据题目要求……」
-const HEADER_RE = /^(?:第[一二三四五六七八九十]+部分\s*[、.．]?\s*|[一二三四五六七八九十]{1,3}\s*[、.．]\s*)(常识判断|言语理解与表达|言语理解|数量关系|判断推理|资料分析)(?=\s*(?:[。.．，,（(]|$)).*$/;
+const HEADER_RE = /^(?:第[一二三四五六七八九十]+部分\s*[、.．]?\s*|[一二三四五六七八九十]{1,3}\s*[、.．]\s*)(常识判断|言语理解与表达|言语理解|言语能力|数量关系|判断推理|资料分析)(?=\s*(?:[。.．，,（(]|$)).*$/;
 // 选项标记：A、/A./A）/A：，以及老卷常见的「A 总书记 B 中央…」纯空格分隔
 const OPTION_RE = /(?<![A-Za-z])([A-D])(?:\s*[、.．\)）:：]\s*|\s+)(?=[^\s])/g;
 const QTAG_RE = /(?<![\d.])[（(]?(\d{1,3})[）)]?\s*(?:、|[.．](?=\s*(?:(?:19|20)\d{2}(?:\s*年)?|[\u4e00-\u9fa5“《（(【]))|[:：])\s*/g;
@@ -447,11 +450,34 @@ function detectImageQuestion(stem) {
   return GRAPH_HINT_RE.test(stem);
 }
 
+/**
+ * 省考老卷题干里常有「1、张飞 2、程咬金 3、李逵 4、牛皋」这类列表。
+ * 若列表序号恰好等于 lastNum+1，会被 scanBlocks 误判成下一题；统一转成圈号。
+ */
+function protectInlineNumberList(line) {
+  const marks = [...String(line).matchAll(/(^|[\s（(])(\d{1,2})\s*[、.．]\s*(?=[\u4e00-\u9fa5“《（(【])/g)];
+  if (marks.length < 2) return line;
+  const nums = marks.map(m => Number(m[2]));
+  if (nums[0] !== 1 || nums[nums.length - 1] > 20) return line;
+  for (let i = 1; i < nums.length; i++) {
+    if (nums[i] !== nums[i - 1] + 1) return line;
+  }
+  return line.replace(
+    /(^|[\s（(])(\d{1,2})(\s*[、.．]\s*)(?=[\u4e00-\u9fa5“《（(【])/g,
+    (all, pre, n) => `${pre}${String.fromCodePoint(0x2460 + Number(n) - 1)}`
+  );
+}
+
 /** 预处理：把黏在同一段里的题号切开 */
 function preSplitText(text) {
   return text
     .replace(/([。：:？?；;】）)])\s*(?=\d{1,3}\s*[、.．]\s*[\u4e00-\u9fa5“《（(【])/g, '$1\n')
     .replace(/(题\s*[。.]?)\s*(?=\d{1,3}\s*[、.．]\s*[\u4e00-\u9fa5“《（(【])/g, '$1\n')
+    // 省考老卷：模块标题黏在上一行选项/句末（如「D、…… 第三部分 数量关系」）
+    .replace(/([^\n])\s*(第[一二三四五六七八九十]+部分\s*(?:常识判断|言语理解与表达|言语理解|言语能力|数量关系|判断推理|资料分析))/g, '$1\n$2')
+    .replace(/([。；;）)\]】]|[A-D]\s*[、.．])\s*([一二三四五六七八九十]{1,3}\s*[、.．]\s*(?:常识判断|言语理解与表达|言语理解|言语能力|数量关系|判断推理|资料分析))/g, '$1\n$2')
+    // 题干内部的有序列表不要被当成题号
+    .replace(/^.*$/gm, line => protectInlineNumberList(line))
     // 选项行尾黏连下一题（如「D、……发展过程 52、作者举……」）
     // 下一题题干也可能以数字开头（如「128、2018 年……」）；只切同一行内的黏连，
     // 不能跨行匹配，否则会把独立的「125、」「126、」两行粘成一行。

@@ -508,14 +508,51 @@ WARN 412 构成：`W01` 题干过短 121、`W02` 缺少解析 135（全部是 20
 - 可渲染 28,175（图片题占位 2,107、主观题 312），跳过 1,512（多为 v1 旧省考脏数据，前端本就会过滤）。
 - v2 内部重复 ID 0、与省考老数据 ID 冲突 0；index / idMap 自检通过。
 
+### 0.12.5 浙江 publish 合并（2026-10-19，已 apply）
 
-
+- 合并脚本 `scripts/publish-merge-zhejiang.cjs`：`npm run publish:zj:dry`（只写报告）/ `npm run publish:zj:apply`。
+- 源分片名 `zhejiang-none-*` 必须映射为 `provincial-浙江-*`；否则 loader 按 `zhejiang / none` 解析，浙江分类加载不到。
+- dry-run：源 27 分片 / 4,743 题；旧浙江 11 分片 / 1,337 题（1,324 个唯一 ID）。
+- 覆盖 11 / 新增 16 / 删除 0 / 未触碰 272；合并后 299 文件 / 33,093 题 / 167 index keys / 30,009 idMap。
+- 三项检查：index 引用存在、index 精确覆盖、idMap 覆盖全部 ID，全部通过；新分片重复 ID 0、跨省冲突 0。
+- 新浙江可渲染 4,679 / 4,743（98.7%）；旧浙江 1,284 / 1,337。
+- ID 策略 A1：旧 `prov-浙江-*` 不迁移；对外文案照旧“题库已整体翻新，历史做题记录已重置”。
+- **2026-10-19 已执行 `npm run publish:zj:apply`**：写入 27 个浙江分片并重建 index/idMap；合并后 299 分片 / 33,093 题 / 167 index keys / 30,009 idMap，自检通过。
+- 加载校验：浙江 4,743 题，可渲染 4,679（98.7%）；全库有效 31,262 题，可渲染 30,271，跳过率 3.170%。`npm run build` 通过（8.22s）。
+- 报告：`guokao-reports/publish-zhejiang-plan.md`（模式 APPLIED）。
 
 - **前端完整实现**：行岸公考刷题平台（React + Vite + TypeScript + Supabase），包含笔试专区、面试专区、学情总览、全局成长、备考社区等模块。
 - **Git 仓库**：已初始化并提交全部代码（50 个文件）。
 - **GitHub 仓库**：公开仓库 `shanganlian/gongkao-shuati` 已创建并推送。
 - **Netlify 部署**：已成功上线并自动部署，线上地址：https://elaborate-faloodeh-f2ba0e.netlify.app
 - **构建链路修复**：添加了 `netlify.toml`（构建命令 & 发布目录）、`.nvmrc`（Node 20）、`.npmrc`（legacy-peer-deps），并放宽了 `tsconfig.json` 严格检查。
+
+### 0.12.6 v2 缺选项回填（2026-10-19）
+
+- `v2-缺选项待回填.md` 的 7 道 E05 题已全部找到原文选项并回填，没有触发 2007 Q21 的 `missing` 分支。
+- 分片：`national-none-yanyu-0.json`、`national-none-shuliang-0.json`、`national-none-ziliao-1.json`、`national-none-ziliao-3.json`。
+- 校验：ERROR 75→65，E05 7→0，E06 23→20（3 道题的标准答案原先落在缺失项上）。
+- 幂等命令：`node scripts/patches/2026-10-19-gk-missing-options.cjs`。
+- 对照记录：`guokao-reports/v2-缺选项回填对照-2026-10-19.md`。
+
+### 0.12.7 三省 v2 解析错配扫描（2026-10-19，福建已修复）
+
+- 脚本：`scripts/audit-v2-explanation-module.cjs`（只读，不改数据）。
+- 修复前：57 分片、9,629 条记录（9,389 个唯一 ID）；常识→言语核心 31 / 扩展 53，言语→资料核心 11 / 扩展 59；人工分层真候选 44 条（A2 25 + A1 19，全部福建）。
+- 福建修复后重跑：58 分片、9,629 条记录（9,629 个唯一 ID）；常识→言语 7/8、言语→资料 11/53，分层全部为 A3 / B2 / B4 误报，真候选 **0**。
+- 福建 2010 春季 Q36–Q60 已迁回 `yanyu`；2011 917 常识 Q2–Q20 已挂回 917 自己的解析（Q11 已复核）。
+- 报告 / 明细：`guokao-reports/v2-解析错配-三省.md`、`guokao-reports/v2-解析错配-三省.csv`。
+
+### 0.12.8 福建 v2 定向修复（2026-10-19）
+
+- 根因：① 2010 春季模块标题为「二、言语能力」，旧 `HEADER_RE` 未识别；② 2011 / 2012 同年两套联考共用 label「联考」，产生同 ID 覆盖并导致答案解析串挂。
+- 解析器修复：`convert-guokao.js` 增加精确标题「言语能力」；`overnight-provinces.cjs` 的 `parsePaperLabel` 将同一年联考按文件名日期拆为 `424联考 / 917联考 / 421联考 / 915联考`。
+- 定向重转 5 套卷：2010 福建春季、2011 424、2011 917、2012 421、2012 915；未按关键词批量改 `module`。
+- 结果：福建 2,564 题 / 唯一 ID 2,564 / 重复 ID 组 0；2010 Q36–Q60 言语 25/25；2011 917 常识 Q1–Q20 20/20 且解析归位。
+- 账本 / 对照：`guokao-reports/fujian-v2-修复后账本.md`、`guokao-reports/fujian-v2-修复对照.md`、`guokao-reports/fujian-v2-修复对照.csv`、`guokao-reports/fujian-v2-校验.txt`。
+- 写入后清理：首次写入误带审计字段 `__file` 1,964 条，已用 `scripts/clean-fujian-v2-internal.cjs --apply` 清除；分片与 `questions.json` 残留 0，记录见 `guokao-reports/fujian-v2-内部字段清理.txt`。
+- 备份：`guokao-reports/backup-fujian-v2-2026-10-19T11-36-56-040Z/`（修复前干净数据）。
+- 边界：只改 `public/data/questions-v2-provincial/福建/`；线上 `public/data/questions/` 本次仅含浙江 apply 变更，未写福建。
 
 ## 2. 正在进行、尚未完成的改动
 
