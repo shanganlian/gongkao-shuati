@@ -24,9 +24,10 @@ const REPORT_DIR = path.join(ROOT, 'guokao-reports');
 const SRC_ROOT = path.join(ROOT, 'source-data', '国考真题（2000--2026)');
 const SUMMARY_FILE = path.join(REPORT_DIR, 'summary.json');
 
+// 豁免名单只在 missingAnswers > 0 时参与分类，卷子补齐后即失效。
+// 2026-10-19：2021-副省级-行测（OCR 旁挂回收 135 答案）、2022-地市级-行测（解析对齐修复）
+// 两卷缺失已归零，规则移除；若将来再次出现缺失，应作为真实缺口暴露，而不是被"已登记空洞"掩盖。
 const KNOWN_GAP_RE = [
-  /^2021-副省级-行测$/,
-  /^2022-地市级-行测$/,
   /^2025-.*-申论$/,
   /^2008-.*-申论$/,
   /^2003-A卷-行测$/,
