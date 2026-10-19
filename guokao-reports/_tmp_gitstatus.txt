@@ -1,0 +1,22 @@
+﻿ M PROGRESS.md
+ M scripts/validate-questions.cjs
+?? guokao-reports/
+?? guokao-reportssummary-errors.json
+?? guokao-reportssummary-totals.json
+?? public/data/questions-v2/
+?? scripts/convert-guokao.js
+?? scripts/diag-2023.js
+?? scripts/inspect-v2.js
+?? scripts/probe-a.js
+?? scripts/probe-b.js
+?? scripts/probe-shenlun.js
+?? scripts/report-v2.js
+?? scripts/tmp-aggregate-errors.cjs
+?? scripts/tmp-analyze-answers.cjs
+?? scripts/tmp-diagnose-shenlun.cjs
+?? scripts/tmp-extract-answers.mjs
+?? scripts/validate-questions.js
+?? source-data/
+?? tmp-debug-answer.mjs
+?? validate-questions-questions-v2.csv
+?? "\346\226\260\345\273\272\346\226\207\344\273\266\345\244\271 (2)/"

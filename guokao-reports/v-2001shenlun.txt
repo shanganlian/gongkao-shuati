@@ -1,0 +1,4 @@
+﻿"level","code","num","id","module","detail"
+"WARN","ANSWER_COUNT_MISMATCH","0","","","题目 3 道，答案段 2 段，需人工核对答案归属"
+"ERROR","MISSING_ANSWER","3","","","申论参考答案缺失"
+"ERROR","MISSING_ANSWER","3","gk-2001-未标注-申论-3","shenlun","主观题答案为空"

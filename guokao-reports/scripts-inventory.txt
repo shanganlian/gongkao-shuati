@@ -1,0 +1,47 @@
+﻿
+Name                          Length LastWriteTime      
+----                          ------ -------------      
+analyze.ts                       482 2026/10/12 21:23:09
+analyze2.ts                      974 2026/10/12 21:24:03
+analyze-missing-options.cjs     3280 2026/10/17 14:45:54
+audit-missing-answers.js        6209 2026/10/18 21:49:24
+check-groups.ts                  473 2026/10/12 21:12:15
+convert-guokao.js              87863 2026/10/18 22:14:22
+diag-2023.js                     713 2026/10/18 17:15:28
+fix-data.ts                     4448 2026/10/12 21:32:27
+fix-missing-options.cjs         5744 2026/10/17 15:14:43
+fix-options-v2.js               5587 2026/10/17 11:17:39
+fix-stem-trailing-option.cjs    8237 2026/10/17 16:17:41
+inspect-v2.js                   5163 2026/10/18 13:26:02
+mark-abnormal-merged.cjs        3665 2026/10/17 16:33:17
+migrate.ts                      1806 2026/10/12 21:12:15
+missing-options-analysis.txt    3147 2026/10/17 14:46:03
+out.txt                           42 2026/10/12 20:42:44
+peek-empty-stem.cjs             1642 2026/10/17 14:15:51
+peek-empty-stem.txt            13170 2026/10/17 14:15:58
+peek-missing-options.cjs        1507 2026/10/17 14:45:34
+peek-suspicious-trailing.cjs    2570 2026/10/17 16:11:57
+probe-a.js                      2554 2026/10/18 11:51:48
+probe-b.js                      2459 2026/10/18 11:51:55
+probe-shenlun.js                2094 2026/10/18 13:59:17
+repair-empty-stem.cjs           7364 2026/10/17 14:27:48
+report-v2.js                    6413 2026/10/18 13:56:56
+run-guokao-full-check.ps1       1147 2026/10/18 22:12:49
+run-guokao-tests.ps1            1947 2026/10/18 22:08:37
+scan-abnormal-merged.cjs        7102 2026/10/17 16:35:14
+scan-anomalies.js               2290 2026/10/17 11:14:25
+scan-empty-stem.cjs             3064 2026/10/17 14:05:46
+scan-stem-trailing-option.cjs   5069 2026/10/17 16:03:28
+test.ts                          252 2026/10/12 21:12:15
+test-convert-guokao.js          9751 2026/10/18 22:00:54
+tmp-aggregate-errors.cjs        1684 2026/10/18 17:41:20
+tmp-analyze-answers.cjs         4302 2026/10/18 17:59:44
+tmp-diagnose-shenlun.cjs        2649 2026/10/18 17:38:39
+tmp-extract-answers.mjs         1074 2026/10/18 17:44:17
+validate.ts                     1613 2026/10/12 21:12:15
+validate-questions.cjs          7734 2026/10/18 11:20:08
+validate-questions.js           7844 2026/10/18 13:56:40
+verify-question-loading.cjs     4434 2026/10/17 15:16:18
+verify-question-loading.txt    17382 2026/10/17 16:41:20
+
+

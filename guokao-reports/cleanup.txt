@@ -1,0 +1,4 @@
+﻿CJS_EXISTS=False
+JS_EXISTS=True
+node scripts/inspect-v2.js --seed=20261018
+> `scripts/inspect-v2.js`：按模块分层随机抽查（常识/言语/数量/判断/资料各 4 道 + 申论 2 道），

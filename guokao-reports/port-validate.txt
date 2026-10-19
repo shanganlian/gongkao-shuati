@@ -1,0 +1,7 @@
+﻿VALIDATE_CHECK=0
+30: import fs from 'node:fs';
+32: import { fileURLToPath } from 'node:url';
+34: const __dirname = path.dirname(fileURLToPath(import.meta.url));
+39: : path.join(__dirname, '..', 'public', 'data', 'questions');
+41: ? path.join(__dirname, '..', `validate-questions-${path.basename(DATA_DIR)}.csv`)
+42: : path.join(__dirname, '..', 'validate-questions-report.csv');

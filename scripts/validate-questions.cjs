@@ -30,8 +30,13 @@
 const fs = require('fs');
 const path = require('path');
 
-const DATA_DIR = path.join(__dirname, '..', 'public', 'data', 'questions');
-const OUT_CSV = path.join(__dirname, '..', 'validate-questions-report.csv');
+const DIR_IDX = process.argv.indexOf('--dir');
+const DATA_DIR = DIR_IDX > -1
+  ? path.resolve(process.argv[DIR_IDX + 1])
+  : path.join(__dirname, '..', 'public', 'data', 'questions');
+const OUT_CSV = DIR_IDX > -1
+  ? path.join(__dirname, '..', `validate-questions-${path.basename(DATA_DIR)}.csv`)
+  : path.join(__dirname, '..', 'validate-questions-report.csv');
 const STRICT = process.argv.includes('--strict');
 const limitIdx = process.argv.indexOf('--limit');
 const LIMIT = limitIdx > -1 ? parseInt(process.argv[limitIdx + 1], 10) : 10;
@@ -44,7 +49,13 @@ const STEM_OPTION_MARK = /(?:^|[\s\n])[A-Da-d]\s*[、.．\)）:：]\s*\S/;
 // 题干中的题号（如 "17\n" 或 "17、"）
 const STEM_QUESTION_NO = /(?:^|[\s\n])\d{1,3}\s*(?:[、.．]|\n)/;
 
-const index = JSON.parse(fs.readFileSync(path.join(DATA_DIR, 'index.json'), 'utf8'));
+const INDEX_FILE = path.join(DATA_DIR, 'index.json');
+if (!fs.existsSync(INDEX_FILE)) {
+  console.error(`[致命] 未找到 index.json: ${INDEX_FILE}`);
+  console.error('请先用转换脚本生成 index.json，或用 --dir 指向正确目录。');
+  process.exit(1);
+}
+const index = JSON.parse(fs.readFileSync(INDEX_FILE, 'utf8'));
 
 const cache = {};
 const load = f => (cache[f] ||= JSON.parse(fs.readFileSync(path.join(DATA_DIR, f), 'utf8')));

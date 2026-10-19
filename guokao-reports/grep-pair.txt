@@ -1,0 +1,22 @@
+﻿228: function parsePaperLabel(name) {
+287: function resolveDirs() {
+315: if (ARGS.all) return true;
+316: return !ARGS.year || year === ARGS.year;
+319: if (ARGS.all || !ARGS.papers.length) return true;
+320: return ARGS.papers.includes(parsePaperLabel(name));
+330: function pairXingceFiles(qDir, aDir) {
+334: const unpaired = [];
+343: unpaired.push({ year, label, file: qf, reason: '未找到同年同卷解析文件' });
+367: return { pairs, unpaired };
+370: function pairShenlunFiles(sDir) {
+1334: const unpairedList = [];
+1337: const { pairs, unpaired } = pairXingceFiles(qDir, aDir);
+1338: unpairedList.push(...unpaired);
+1457: filter: { all: ARGS.all, year: ARGS.year, papers: ARGS.papers },
+1463: unpaired: unpairedList,
+D:\行岸公考\scripts\validate-questions.cjs:7: *   node scripts/validate-questions.js              # 全量校验，输出报告
+D:\行岸公考\scripts\validate-questions.cjs:8: *   node scripts/validate-questions.js --strict     # 有 ERROR 时退出码 1（可用于 CI）
+D:\行岸公考\scripts\validate-questions.cjs:9: *   node scripts/validate-questions.js --limit 50   # 每类最多打印 50 条样例
+D:\行岸公考\scripts\validate-questions.cjs:28: *   - validate-questions-report.csv（全量问题明细）
+D:\行岸公考\scripts\validate-questions.cjs:38: ? path.join(__dirname, '..', `validate-questions-${path.basename(DATA_DIR)}.csv`)
+D:\行岸公考\scripts\validate-questions.cjs:39: : path.join(__dirname, '..', 'validate-questions-report.csv');

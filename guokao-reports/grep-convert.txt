@@ -1,0 +1,26 @@
+﻿LINES=1493
+HAS_VALIDATE_JS=False
+10: * 产出：public/data/questions-v2/national-none-{module}-{n}.json
+11: *       public/data/questions-v2/index.json
+12: *       guokao-reports/{year}-{paper}-{kind}-validation.csv
+13: *       guokao-reports/summary.json
+26: *   node scripts/convert-guokao.js --year 2021 --papers 副省级,地市级
+27: *   node scripts/convert-guokao.js --all                # 全量（确认后再跑）
+28: *   node scripts/convert-guokao.js --dry-run            # 只解析不落盘
+41: const OUT_DIR = path.join(ROOT, 'public', 'data', 'questions-v2');
+83: const yearRaw = get('--year', '2021');
+85: all: has('--all'),
+86: dryRun: has('--dry-run'),
+90: papers: get('--papers', '副省级,地市级').split(/[,，]/).map(s => s.trim()).filter(Boolean),
+96: const ARGS = readArgs(process.argv.slice(2));
+272: fs.writeFileSync(file, `\uFEFF${body}`, 'utf8');
+1259: fs.writeFileSync(path.join(OUT_DIR, name), JSON.stringify(chunk, null, 2), 'utf8');
+1265: fs.writeFileSync(path.join(OUT_DIR, 'index.json'), JSON.stringify(index), 'utf8');
+1271: const name = `${meta.year}-${meta.label}-${meta.kind}-validation.csv`;
+1308: fs.writeFileSync(path.join(RAW_DIR, `${safeName(name)}.txt`), text, 'utf8');
+1330: const listMode = process.argv.includes('--list');
+1451: log('\n[dry-run] 未写入 questions-v2。');
+1455: const summary = {
+1467: fs.writeFileSync(path.join(REPORT_DIR, 'summary.json'), JSON.stringify(summary, null, 2), 'utf8');
+1473: writeCsv(path.join(REPORT_DIR, 'all-issues.csv'), issueRows);
+1479: log(`总计 ${questionsAll.length} 道，ERROR ${summary.totalErrors} / 问题 ${summary.totalIssues}`);

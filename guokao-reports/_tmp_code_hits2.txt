@@ -1,0 +1,12 @@
+﻿22: *   纯图片材料统一记为 material = '【图片材料】'，并标记 isImageQuestion。
+436: const QTAG_RE = /(?<![\d.])[（(]?(\d{1,3})[）)]?\s*(?:、|[.．](?=\s*(?:(?:19|20)\d{2}(?:\s*年)?|[\u4e00-\u9fa5“《（(【]))|[:：])\s*/g;
+459: function splitStemAndOptions(blockText) {
+543: const parsed = splitStemAndOptions(last.body);
+611: // 图片：材料内计数；材料外保留标记，供题目侧判断 isImageQuestion
+755: QTAG_RE.lastIndex = 0;
+759: while ((im = QTAG_RE.exec(line)) !== null) {
+978: const parsed = splitStemAndOptions(cleanBody);
+1032: isImageQuestion: image || undefined,
+1673: const imageNums = new Set(questions.filter(q => q.isImageQuestion).map(q => q.num));
+1693: const optLevel = q.isImageQuestion ? 'WARN' : 'ERROR';
+1749: imageQuestions: questions.filter(q => q.isImageQuestion).length,

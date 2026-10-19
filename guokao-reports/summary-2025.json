@@ -1,0 +1,125 @@
+[
+  {
+    "paper": "2025-副省级-行测",
+    "questionCount": 136,
+    "maxNum": 176,
+    "gapCount": 1,
+    "byModule": {
+      "changshi": 20,
+      "yanyu": 35,
+      "shuliang": 15,
+      "panduan": 40,
+      "ziliao": 26
+    },
+    "withMaterial": 0,
+    "imageQuestions": 28,
+    "withAnswer": 135,
+    "withAnalysis": 135,
+    "errors": 13,
+    "warnings": 170,
+    "source": "2025年国家公务员录用考试《行测》题（副省级）.docx",
+    "answerSource": "2025年国考《行测》（副省级）答案+解析.docx",
+    "report": "2025-副省级-行测-validation.csv"
+  },
+  {
+    "paper": "2025-地市级-行测",
+    "questionCount": 130,
+    "maxNum": 130,
+    "gapCount": 0,
+    "byModule": {
+      "changshi": 20,
+      "yanyu": 35,
+      "shuliang": 15,
+      "panduan": 35,
+      "ziliao": 25
+    },
+    "withMaterial": 0,
+    "imageQuestions": 25,
+    "withAnswer": 129,
+    "withAnalysis": 130,
+    "errors": 7,
+    "warnings": 163,
+    "source": "2025年国家公务员录用考试《行测》题（地市级）.docx",
+    "answerSource": "2025年国考《行测》（地市级）答案+解析.docx",
+    "report": "2025-地市级-行测-validation.csv"
+  },
+  {
+    "paper": "2025-行政执法-行测",
+    "questionCount": 130,
+    "maxNum": 130,
+    "gapCount": 0,
+    "byModule": {
+      "changshi": 20,
+      "yanyu": 35,
+      "shuliang": 15,
+      "panduan": 35,
+      "ziliao": 25
+    },
+    "withMaterial": 0,
+    "imageQuestions": 31,
+    "withAnswer": 130,
+    "withAnalysis": 130,
+    "errors": 4,
+    "warnings": 159,
+    "source": "2025年国家公务员录用考试《行测》题（行政执法卷）.docx",
+    "answerSource": "2025年国考《行测》（行政执法卷）答案+解析.docx",
+    "report": "2025-行政执法-行测-validation.csv"
+  },
+  {
+    "paper": "2025-副省级-申论",
+    "questionCount": 30,
+    "maxNum": 30,
+    "gapCount": 0,
+    "byModule": {
+      "shenlun": 30
+    },
+    "withMaterial": 0,
+    "imageQuestions": 0,
+    "withAnswer": 0,
+    "withAnalysis": 30,
+    "errors": 61,
+    "warnings": 0,
+    "materialLength": 0,
+    "source": "2025年国家公考《申论》题（副省级）真题+答案.docx",
+    "answerSource": null,
+    "report": "2025-副省级-申论-validation.csv"
+  },
+  {
+    "paper": "2025-地市级-申论",
+    "questionCount": 53,
+    "maxNum": 53,
+    "gapCount": 0,
+    "byModule": {
+      "shenlun": 53
+    },
+    "withMaterial": 0,
+    "imageQuestions": 0,
+    "withAnswer": 0,
+    "withAnalysis": 53,
+    "errors": 107,
+    "warnings": 0,
+    "materialLength": 0,
+    "source": "2025年国家公考《申论》题（地市级）真题+解析.docx",
+    "answerSource": null,
+    "report": "2025-地市级-申论-validation.csv"
+  },
+  {
+    "paper": "2025-行政执法-申论",
+    "questionCount": 45,
+    "maxNum": 45,
+    "gapCount": 0,
+    "byModule": {
+      "shenlun": 45
+    },
+    "withMaterial": 0,
+    "imageQuestions": 0,
+    "withAnswer": 0,
+    "withAnalysis": 45,
+    "errors": 91,
+    "warnings": 0,
+    "materialLength": 0,
+    "source": "2025年国家公考《申论》题（行政执法类）真题+答案.docx",
+    "answerSource": null,
+    "report": "2025-行政执法-申论-validation.csv"
+  }
+]

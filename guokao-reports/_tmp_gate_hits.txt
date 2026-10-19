@@ -1,0 +1,9 @@
+22: *   纯图片材料统一记为 material = '【图片材料】'，并标记 isImageQuestion。
+611:    // 图片：材料内计数；材料外保留标记，供题目侧判断 isImageQuestion
+1032:      isImageQuestion: image || undefined,
+1653:const IMAGE_TOLERANT_CODES = new Set(['OPT_SPLIT_FAIL', 'OPT_COUNT', 'OPT_NOT_4', 'OPT_EMPTY']);
+1673:  const imageNums = new Set(questions.filter(q => q.isImageQuestion).map(q => q.num));
+1693:    const optLevel = q.isImageQuestion ? 'WARN' : 'ERROR';
+1699:      issues.push({ level: optLevel, code: 'OPT_NOT_4', num: q.num, id: q.id, module: q.module, detail: `选项数 ${q.options.length}` });
+1736:    issues.push({ level: 'ERROR', code: 'QNO_GAP', num: 0, id: '', module: '', detail: `题号缺号：${gaps.join('、')}` });
+1749:    imageQuestions: questions.filter(q => q.isImageQuestion).length,

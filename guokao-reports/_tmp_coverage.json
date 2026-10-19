@@ -1,0 +1,755 @@
+{
+  "totals": {
+    "q": 6261,
+    "answer": 5315,
+    "analysis": 5967,
+    "image": 689,
+    "material": 1219,
+    "errors": 2265,
+    "warnings": 1801,
+    "papers": 92,
+    "answerPct": 84.9,
+    "analysisPct": 95.3
+  },
+  "byKind": {
+    "行测": {
+      "papers": 46,
+      "q": 5932,
+      "answer": 5134,
+      "analysis": 5638,
+      "image": 689,
+      "material": 1018,
+      "errors": 1965,
+      "warnings": 1785,
+      "answerPct": 86.5,
+      "analysisPct": 95
+    },
+    "申论": {
+      "papers": 46,
+      "q": 329,
+      "answer": 181,
+      "analysis": 329,
+      "image": 0,
+      "material": 201,
+      "errors": 300,
+      "warnings": 16,
+      "answerPct": 55,
+      "analysisPct": 100
+    }
+  },
+  "years": [
+    {
+      "year": 2000,
+      "xingceLabels": [
+        "未标注"
+      ],
+      "shenlunLabels": [
+        "未标注"
+      ],
+      "xingceQ": 100,
+      "shenlunQ": 3,
+      "xingceAnswer": 72,
+      "shenlunAnswer": 3,
+      "papers": 2,
+      "q": 103,
+      "answer": 75
+    },
+    {
+      "year": 2001,
+      "xingceLabels": [
+        "未标注"
+      ],
+      "shenlunLabels": [
+        "未标注"
+      ],
+      "xingceQ": 110,
+      "shenlunQ": 3,
+      "xingceAnswer": 83,
+      "shenlunAnswer": 2,
+      "papers": 2,
+      "q": 113,
+      "answer": 85
+    },
+    {
+      "year": 2002,
+      "xingceLabels": [
+        "A卷",
+        "B卷"
+      ],
+      "shenlunLabels": [
+        "未标注"
+      ],
+      "xingceQ": 231,
+      "shenlunQ": 3,
+      "xingceAnswer": 227,
+      "shenlunAnswer": 3,
+      "papers": 3,
+      "q": 234,
+      "answer": 230
+    },
+    {
+      "year": 2003,
+      "xingceLabels": [
+        "A卷",
+        "B卷"
+      ],
+      "shenlunLabels": [
+        "未标注"
+      ],
+      "xingceQ": 249,
+      "shenlunQ": 2,
+      "xingceAnswer": 104,
+      "shenlunAnswer": 2,
+      "papers": 3,
+      "q": 251,
+      "answer": 106
+    },
+    {
+      "year": 2004,
+      "xingceLabels": [
+        "A卷",
+        "B卷"
+      ],
+      "shenlunLabels": [
+        "未标注"
+      ],
+      "xingceQ": 211,
+      "shenlunQ": 2,
+      "xingceAnswer": 207,
+      "shenlunAnswer": 2,
+      "papers": 3,
+      "q": 213,
+      "answer": 209
+    },
+    {
+      "year": 2005,
+      "xingceLabels": [
+        "一卷",
+        "二卷"
+      ],
+      "shenlunLabels": [
+        "未标注"
+      ],
+      "xingceQ": 270,
+      "shenlunQ": 3,
+      "xingceAnswer": 62,
+      "shenlunAnswer": 3,
+      "papers": 3,
+      "q": 273,
+      "answer": 65
+    },
+    {
+      "year": 2006,
+      "xingceLabels": [
+        "一卷",
+        "二卷"
+      ],
+      "shenlunLabels": [
+        "未标注"
+      ],
+      "xingceQ": 263,
+      "shenlunQ": 3,
+      "xingceAnswer": 172,
+      "shenlunAnswer": 3,
+      "papers": 3,
+      "q": 266,
+      "answer": 175
+    },
+    {
+      "year": 2007,
+      "xingceLabels": [
+        "未标注"
+      ],
+      "shenlunLabels": [
+        "未标注"
+      ],
+      "xingceQ": 140,
+      "shenlunQ": 11,
+      "xingceAnswer": 139,
+      "shenlunAnswer": 5,
+      "papers": 2,
+      "q": 151,
+      "answer": 144
+    },
+    {
+      "year": 2008,
+      "xingceLabels": [
+        "未标注"
+      ],
+      "shenlunLabels": [
+        "未标注"
+      ],
+      "xingceQ": 140,
+      "shenlunQ": 0,
+      "xingceAnswer": 139,
+      "shenlunAnswer": 0,
+      "papers": 2,
+      "q": 140,
+      "answer": 139
+    },
+    {
+      "year": 2009,
+      "xingceLabels": [
+        "未标注"
+      ],
+      "shenlunLabels": [
+        "地市级"
+      ],
+      "xingceQ": 137,
+      "shenlunQ": 4,
+      "xingceAnswer": 135,
+      "shenlunAnswer": 4,
+      "papers": 2,
+      "q": 141,
+      "answer": 139
+    },
+    {
+      "year": 2010,
+      "xingceLabels": [
+        "未标注"
+      ],
+      "shenlunLabels": [
+        "副省级",
+        "地市级"
+      ],
+      "xingceQ": 139,
+      "shenlunQ": 10,
+      "xingceAnswer": 139,
+      "shenlunAnswer": 7,
+      "papers": 3,
+      "q": 149,
+      "answer": 146
+    },
+    {
+      "year": 2011,
+      "xingceLabels": [
+        "未标注"
+      ],
+      "shenlunLabels": [
+        "副省级",
+        "地市级"
+      ],
+      "xingceQ": 135,
+      "shenlunQ": 10,
+      "xingceAnswer": 135,
+      "shenlunAnswer": 8,
+      "papers": 3,
+      "q": 145,
+      "answer": 143
+    },
+    {
+      "year": 2012,
+      "xingceLabels": [
+        "未标注"
+      ],
+      "shenlunLabels": [
+        "副省级",
+        "地市级"
+      ],
+      "xingceQ": 134,
+      "shenlunQ": 10,
+      "xingceAnswer": 134,
+      "shenlunAnswer": 8,
+      "papers": 3,
+      "q": 144,
+      "answer": 142
+    },
+    {
+      "year": 2013,
+      "xingceLabels": [
+        "未标注"
+      ],
+      "shenlunLabels": [
+        "副省级",
+        "地市级"
+      ],
+      "xingceQ": 134,
+      "shenlunQ": 10,
+      "xingceAnswer": 134,
+      "shenlunAnswer": 10,
+      "papers": 3,
+      "q": 144,
+      "answer": 144
+    },
+    {
+      "year": 2014,
+      "xingceLabels": [
+        "未标注"
+      ],
+      "shenlunLabels": [
+        "副省级",
+        "地市级"
+      ],
+      "xingceQ": 135,
+      "shenlunQ": 10,
+      "xingceAnswer": 133,
+      "shenlunAnswer": 10,
+      "papers": 3,
+      "q": 145,
+      "answer": 143
+    },
+    {
+      "year": 2015,
+      "xingceLabels": [
+        "副省级",
+        "地市级"
+      ],
+      "shenlunLabels": [
+        "副省级",
+        "地市级"
+      ],
+      "xingceQ": 262,
+      "shenlunQ": 10,
+      "xingceAnswer": 262,
+      "shenlunAnswer": 10,
+      "papers": 4,
+      "q": 272,
+      "answer": 272
+    },
+    {
+      "year": 2016,
+      "xingceLabels": [
+        "副省级",
+        "地市级"
+      ],
+      "shenlunLabels": [
+        "副省级",
+        "地市级"
+      ],
+      "xingceQ": 252,
+      "shenlunQ": 11,
+      "xingceAnswer": 243,
+      "shenlunAnswer": 9,
+      "papers": 4,
+      "q": 263,
+      "answer": 252
+    },
+    {
+      "year": 2017,
+      "xingceLabels": [
+        "副省级",
+        "地市级"
+      ],
+      "shenlunLabels": [
+        "副省级",
+        "地市级"
+      ],
+      "xingceQ": 258,
+      "shenlunQ": 10,
+      "xingceAnswer": 256,
+      "shenlunAnswer": 10,
+      "papers": 4,
+      "q": 268,
+      "answer": 266
+    },
+    {
+      "year": 2018,
+      "xingceLabels": [
+        "副省级",
+        "地市级"
+      ],
+      "shenlunLabels": [
+        "副省级",
+        "地市级"
+      ],
+      "xingceQ": 263,
+      "shenlunQ": 10,
+      "xingceAnswer": 261,
+      "shenlunAnswer": 10,
+      "papers": 4,
+      "q": 273,
+      "answer": 271
+    },
+    {
+      "year": 2019,
+      "xingceLabels": [
+        "副省级",
+        "地市级"
+      ],
+      "shenlunLabels": [
+        "副省级",
+        "地市级"
+      ],
+      "xingceQ": 264,
+      "shenlunQ": 9,
+      "xingceAnswer": 262,
+      "shenlunAnswer": 9,
+      "papers": 4,
+      "q": 273,
+      "answer": 271
+    },
+    {
+      "year": 2020,
+      "xingceLabels": [
+        "副省级",
+        "地市级"
+      ],
+      "shenlunLabels": [
+        "副省级",
+        "地市级"
+      ],
+      "xingceQ": 262,
+      "shenlunQ": 10,
+      "xingceAnswer": 261,
+      "shenlunAnswer": 10,
+      "papers": 4,
+      "q": 272,
+      "answer": 271
+    },
+    {
+      "year": 2021,
+      "xingceLabels": [
+        "副省级",
+        "地市级"
+      ],
+      "shenlunLabels": [
+        "副省级",
+        "地市级"
+      ],
+      "xingceQ": 265,
+      "shenlunQ": 12,
+      "xingceAnswer": 129,
+      "shenlunAnswer": 10,
+      "papers": 4,
+      "q": 277,
+      "answer": 139
+    },
+    {
+      "year": 2022,
+      "xingceLabels": [
+        "副省级",
+        "地市级",
+        "行政执法"
+      ],
+      "shenlunLabels": [
+        "副省级",
+        "地市级",
+        "行政执法"
+      ],
+      "xingceQ": 395,
+      "shenlunQ": 15,
+      "xingceAnswer": 264,
+      "shenlunAnswer": 13,
+      "papers": 6,
+      "q": 410,
+      "answer": 277
+    },
+    {
+      "year": 2023,
+      "xingceLabels": [
+        "副省级",
+        "地市级",
+        "行政执法"
+      ],
+      "shenlunLabels": [
+        "副省级",
+        "地市级",
+        "行政执法"
+      ],
+      "xingceQ": 395,
+      "shenlunQ": 15,
+      "xingceAnswer": 395,
+      "shenlunAnswer": 15,
+      "papers": 6,
+      "q": 410,
+      "answer": 410
+    },
+    {
+      "year": 2024,
+      "xingceLabels": [
+        "副省级",
+        "地市级",
+        "行政执法"
+      ],
+      "shenlunLabels": [
+        "副省级",
+        "地市级",
+        "行政执法"
+      ],
+      "xingceQ": 392,
+      "shenlunQ": 15,
+      "xingceAnswer": 392,
+      "shenlunAnswer": 15,
+      "papers": 6,
+      "q": 407,
+      "answer": 407
+    },
+    {
+      "year": 2025,
+      "xingceLabels": [
+        "副省级",
+        "地市级",
+        "行政执法"
+      ],
+      "shenlunLabels": [
+        "副省级",
+        "地市级",
+        "行政执法"
+      ],
+      "xingceQ": 396,
+      "shenlunQ": 128,
+      "xingceAnswer": 394,
+      "shenlunAnswer": 0,
+      "papers": 6,
+      "q": 524,
+      "answer": 394
+    },
+    {
+      "year": 2026,
+      "xingceLabels": [],
+      "shenlunLabels": [],
+      "xingceQ": 0,
+      "shenlunQ": 0,
+      "xingceAnswer": 0,
+      "shenlunAnswer": 0,
+      "papers": 0,
+      "q": 0,
+      "answer": 0
+    }
+  ],
+  "coverage": [
+    {
+      "year": 2000,
+      "xingce_fushengji": false,
+      "xingce_dishiji": false,
+      "xingce_xingzheng": false,
+      "shenlun_fushengji": false,
+      "shenlun_dishiji": false,
+      "shenlun_xingzheng": false
+    },
+    {
+      "year": 2001,
+      "xingce_fushengji": false,
+      "xingce_dishiji": false,
+      "xingce_xingzheng": false,
+      "shenlun_fushengji": false,
+      "shenlun_dishiji": false,
+      "shenlun_xingzheng": false
+    },
+    {
+      "year": 2002,
+      "xingce_fushengji": false,
+      "xingce_dishiji": false,
+      "xingce_xingzheng": false,
+      "shenlun_fushengji": false,
+      "shenlun_dishiji": false,
+      "shenlun_xingzheng": false
+    },
+    {
+      "year": 2003,
+      "xingce_fushengji": false,
+      "xingce_dishiji": false,
+      "xingce_xingzheng": false,
+      "shenlun_fushengji": false,
+      "shenlun_dishiji": false,
+      "shenlun_xingzheng": false
+    },
+    {
+      "year": 2004,
+      "xingce_fushengji": false,
+      "xingce_dishiji": false,
+      "xingce_xingzheng": false,
+      "shenlun_fushengji": false,
+      "shenlun_dishiji": false,
+      "shenlun_xingzheng": false
+    },
+    {
+      "year": 2005,
+      "xingce_fushengji": false,
+      "xingce_dishiji": false,
+      "xingce_xingzheng": false,
+      "shenlun_fushengji": false,
+      "shenlun_dishiji": false,
+      "shenlun_xingzheng": false
+    },
+    {
+      "year": 2006,
+      "xingce_fushengji": false,
+      "xingce_dishiji": false,
+      "xingce_xingzheng": false,
+      "shenlun_fushengji": false,
+      "shenlun_dishiji": false,
+      "shenlun_xingzheng": false
+    },
+    {
+      "year": 2007,
+      "xingce_fushengji": false,
+      "xingce_dishiji": false,
+      "xingce_xingzheng": false,
+      "shenlun_fushengji": false,
+      "shenlun_dishiji": false,
+      "shenlun_xingzheng": false
+    },
+    {
+      "year": 2008,
+      "xingce_fushengji": false,
+      "xingce_dishiji": false,
+      "xingce_xingzheng": false,
+      "shenlun_fushengji": false,
+      "shenlun_dishiji": false,
+      "shenlun_xingzheng": false
+    },
+    {
+      "year": 2009,
+      "xingce_fushengji": false,
+      "xingce_dishiji": false,
+      "xingce_xingzheng": false,
+      "shenlun_fushengji": false,
+      "shenlun_dishiji": true,
+      "shenlun_xingzheng": false
+    },
+    {
+      "year": 2010,
+      "xingce_fushengji": false,
+      "xingce_dishiji": false,
+      "xingce_xingzheng": false,
+      "shenlun_fushengji": true,
+      "shenlun_dishiji": true,
+      "shenlun_xingzheng": false
+    },
+    {
+      "year": 2011,
+      "xingce_fushengji": false,
+      "xingce_dishiji": false,
+      "xingce_xingzheng": false,
+      "shenlun_fushengji": true,
+      "shenlun_dishiji": true,
+      "shenlun_xingzheng": false
+    },
+    {
+      "year": 2012,
+      "xingce_fushengji": false,
+      "xingce_dishiji": false,
+      "xingce_xingzheng": false,
+      "shenlun_fushengji": true,
+      "shenlun_dishiji": true,
+      "shenlun_xingzheng": false
+    },
+    {
+      "year": 2013,
+      "xingce_fushengji": false,
+      "xingce_dishiji": false,
+      "xingce_xingzheng": false,
+      "shenlun_fushengji": true,
+      "shenlun_dishiji": true,
+      "shenlun_xingzheng": false
+    },
+    {
+      "year": 2014,
+      "xingce_fushengji": false,
+      "xingce_dishiji": false,
+      "xingce_xingzheng": false,
+      "shenlun_fushengji": true,
+      "shenlun_dishiji": true,
+      "shenlun_xingzheng": false
+    },
+    {
+      "year": 2015,
+      "xingce_fushengji": true,
+      "xingce_dishiji": true,
+      "xingce_xingzheng": false,
+      "shenlun_fushengji": true,
+      "shenlun_dishiji": true,
+      "shenlun_xingzheng": false
+    },
+    {
+      "year": 2016,
+      "xingce_fushengji": true,
+      "xingce_dishiji": true,
+      "xingce_xingzheng": false,
+      "shenlun_fushengji": true,
+      "shenlun_dishiji": true,
+      "shenlun_xingzheng": false
+    },
+    {
+      "year": 2017,
+      "xingce_fushengji": true,
+      "xingce_dishiji": true,
+      "xingce_xingzheng": false,
+      "shenlun_fushengji": true,
+      "shenlun_dishiji": true,
+      "shenlun_xingzheng": false
+    },
+    {
+      "year": 2018,
+      "xingce_fushengji": true,
+      "xingce_dishiji": true,
+      "xingce_xingzheng": false,
+      "shenlun_fushengji": true,
+      "shenlun_dishiji": true,
+      "shenlun_xingzheng": false
+    },
+    {
+      "year": 2019,
+      "xingce_fushengji": true,
+      "xingce_dishiji": true,
+      "xingce_xingzheng": false,
+      "shenlun_fushengji": true,
+      "shenlun_dishiji": true,
+      "shenlun_xingzheng": false
+    },
+    {
+      "year": 2020,
+      "xingce_fushengji": true,
+      "xingce_dishiji": true,
+      "xingce_xingzheng": false,
+      "shenlun_fushengji": true,
+      "shenlun_dishiji": true,
+      "shenlun_xingzheng": false
+    },
+    {
+      "year": 2021,
+      "xingce_fushengji": true,
+      "xingce_dishiji": true,
+      "xingce_xingzheng": false,
+      "shenlun_fushengji": true,
+      "shenlun_dishiji": true,
+      "shenlun_xingzheng": false
+    },
+    {
+      "year": 2022,
+      "xingce_fushengji": true,
+      "xingce_dishiji": true,
+      "xingce_xingzheng": true,
+      "shenlun_fushengji": true,
+      "shenlun_dishiji": true,
+      "shenlun_xingzheng": true
+    },
+    {
+      "year": 2023,
+      "xingce_fushengji": true,
+      "xingce_dishiji": true,
+      "xingce_xingzheng": true,
+      "shenlun_fushengji": true,
+      "shenlun_dishiji": true,
+      "shenlun_xingzheng": true
+    },
+    {
+      "year": 2024,
+      "xingce_fushengji": true,
+      "xingce_dishiji": true,
+      "xingce_xingzheng": true,
+      "shenlun_fushengji": true,
+      "shenlun_dishiji": true,
+      "shenlun_xingzheng": true
+    },
+    {
+      "year": 2025,
+      "xingce_fushengji": true,
+      "xingce_dishiji": true,
+      "xingce_xingzheng": true,
+      "shenlun_fushengji": true,
+      "shenlun_dishiji": true,
+      "shenlun_xingzheng": true
+    },
+    {
+      "year": 2026,
+      "xingce_fushengji": false,
+      "xingce_dishiji": false,
+      "xingce_xingzheng": false,
+      "shenlun_fushengji": false,
+      "shenlun_dishiji": false,
+      "shenlun_xingzheng": false
+    }
+  ]
+}

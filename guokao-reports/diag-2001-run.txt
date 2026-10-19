@@ -1,0 +1,36 @@
+﻿===== 鍥借€冪湡棰樿浆鎹?=====
+婧愮洰褰? D:\琛屽哺鍏€僜source-data\鍥借€冪湡棰橈紙2000--2026)
+琛屾祴鐪熼: D:\琛屽哺鍏€僜source-data\鍥借€冪湡棰橈紙2000--2026)\4-琛屾祴\1-琛屾祴-鐪熼\word
+琛屾祴瑙ｆ瀽: D:\琛屽哺鍏€僜source-data\鍥借€冪湡棰橈紙2000--2026)\4-琛屾祴\2-琛屾祴-绛旀鍙婅В鏋怽word
+鐢宠鐩綍: D:\琛屽哺鍏€僜source-data\鍥借€冪湡棰橈紙2000--2026)\5-鐢宠\word
+
+鈻?2001 鏈爣娉?| 2001骞村浗瀹跺綍鐢ㄥ叕鍔″憳鑰冭瘯銆婄敵璁恒€嬬湡棰樺嵎鍙婄瓟妗?docx
+node : [shenlun] 2001 鏈爣娉?{
+所在位置 行:1 字符: 49
++ ... HENLUN='1'; node scripts\convert-guokao.js --year 2001 --no-xingce -- ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: ([shenlun] 2001 鏈爣娉?{:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+  reqIdx: 1973,
+  ansIdx: 2232,
+  material: 1791,
+  qPart: 253,
+  aPart: 1552,
+  qSections: 3,
+  aSections: 3,
+  qNums: [ 1, 2, 3 ],
+  aNums: [ 1, 2, 3 ],
+  qHead: '||1锛庢湁鏉＄悊鍦版杩拌繖浜涙潗鏂欑殑涓昏鍐呭锛屽瓧鏁颁笉瓒呰繃 200 瀛椼€?(20 鍒?||2锛庡亣瀹氫綘鏄煇鑱岃兘閮ㄩ棬鐨勫伐浣滀汉鍛橈紝璇蜂綘灏盤PA 椋庢尝鎵€寮曞彂鐨勯棶棰樻彁鍑哄杽鍚庡
+鐞嗘剰',
+  aHead: '鍙傝€冪瓟妗堝強渚嬫枃||1.銆愮瓟妗堟彁绀恒€慞PA 浜嬩欢鎴愪负 2000 骞村尰鑽晫鐨勭垎鐐告€ф柊闂汇€侾PA 璇濋鎴愪负涓€涓叏鐞冩€р€滅儹鐐?鈥濄€倈|鍚勫浗鍚勭晫瀵?PPA 鍙嶅簲涓嶄竴銆備
+粠瀹?
+}
+  棰樼洰 3 / 鏉愭枡 1791 瀛?/ 绛旀 3
+  ERROR 0  WARN 0 鈫?guokao-reports\2001-鏈爣娉?鐢宠-validation.csv
+
+[dry-run] 鏈啓鍏?questions-v2銆?
+===== 姹囨€?=====
+2001-鏈爣娉?鐢宠: 棰樼洰 3 / ERROR 0 / WARN 0
+鎬昏 3 閬擄紝ERROR 0 / 闂 0
+鎶ュ憡鐩綍: guokao-reports

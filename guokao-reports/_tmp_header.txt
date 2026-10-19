@@ -1,0 +1,3 @@
+﻿"level","code","id","file","module","detail"
+"ERROR","E04","real-2018-副省级-4","national-none-changshi-0.json","changshi","选项 key 重复 [ACABCD]"
+"ERROR","E05","real-2018-副省级-4","national-none-changshi-0.json","changshi","选项 key 非标准序列 [ACABCD]，期望 [ABCDEF]"

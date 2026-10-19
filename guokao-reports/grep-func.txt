@@ -1,0 +1,9 @@
+﻿455: function splitStemAndOptions(blockText) {
+523: function scanBlocks(text) {
+710: function buildXingceQuestions(text, meta) {
+888: function splitAnswerBySequential(text, questionNums) {
+932: function mergeAnswers(questions, answerText) {
+1004: function splitShenlunQuestions(text) {
+1021: function splitShenlunAnswers(text) {
+1037: function parseShenlun(text, meta) {
+1163: function validatePaper(questions, meta, baseIssues) {

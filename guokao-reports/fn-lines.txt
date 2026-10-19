@@ -1,0 +1,5 @@
+﻿1045: function normalizeShenlunText(text) {
+1055: function collectShenlunQuestionMarks(text) {
+1073: function splitShenlunByScore(text) {
+1093: function splitShenlunQuestions(text) {
+1132: function splitShenlunAnswers(text) {

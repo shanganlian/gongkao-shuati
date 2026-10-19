@@ -1,0 +1,15 @@
+﻿1137: function validatePaper(questions, meta, baseIssues) {
+1201: const byModule = {};
+1202: for (const q of questions) byModule[q.module] = (byModule[q.module] || 0) + 1;
+1205: paper: `${meta.year}-${meta.label}-${meta.kind}`,
+1209: byModule,
+1210: withMaterial: questions.filter(q => q.material).length,
+1211: imageQuestions: questions.filter(q => q.isImageQuestion).length,
+1212: withAnswer: questions.filter(q => q.answer).length,
+1213: withAnalysis: questions.filter(q => q.explanation).length,
+1349: issuesAll.push({ paper: `${pair.year}-${pair.label}-行测`, level: 'ERROR', code: 'EXTRACT_FAIL', detail: pair.name });
+1390: for (const it of issues) issuesAll.push({ paper: stats.paper, ...it });
+1392: log(`  答案 ${stats.withAnswer} / 解析 ${stats.withAnalysis} / 图片题 ${stats.imageQuestions} / 带材料 ${stats.withMaterial}`);
+1409: issuesAll.push({ paper: `${pair.year}-${pair.label}-申论`, level: 'ERROR', code: 'EXTRACT_FAIL', detail: pair.name });
+1434: for (const it of issues) issuesAll.push({ paper: stats.paper, ...it });
+1436: log(`  题目 ${stats.questionCount} / 材料 ${parsed.materialLength} 字 / 答案 ${stats.withAnswer}`);

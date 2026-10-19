@@ -12,3 +12,17 @@ scripts/*.txt
 dev.log
 
 # 注意：scripts/*.cjs 是题库治理与校验脚本，需要纳入版本管理，不要忽略
+
+# 原始素材（约 4.4 GB docx/pdf/图片，不入库；仅 2021 副省级行测 OCR 旁挂答案文本用 git add -f 单独入库）
+source-data/
+
+# 转换器可再生的中间产物
+guokao-reports/raw/
+
+# 重转前的本地回滚备份（确认新数据无误后可删）
+guokao-reports.bak-ocr/
+public/data/questions-v2.bak-ocr/
+
+# 临时截图（未整理的素材）
+新建文件夹 (2)/
+
