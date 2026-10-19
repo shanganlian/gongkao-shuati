@@ -470,7 +470,43 @@ WARN 412 构成：`W01` 题干过短 121、`W02` 缺少解析 135（全部是 20
 - 该命令**按源文件重建** `public/data/questions-v2/`（35 分片 + `index.json`），会覆盖手工修改的分片
   → 缺选项回填等数据修复必须安排在 apply **之后**，否则会被重转冲掉。
 - 前端仍加载 `/data/questions/`（v1），且 v2 目录**没有 `idMap.json`**（错题本 / 知识点筛选依赖它查分片）。
-  直接切目录会导致这两个功能取不到数据；上线前需补 `idMap.json` 并改 loader，待单独确认。
+  直接切目录会导致这两个功能取不到数据 → 已由 **§0.12.4 方案 A** 定稿：不改 loader，publish 时合并并重建 idMap。
+
+### 0.12.4 publish 方案定稿：方案 A（合并进 /data/questions/）（2026-10-19，已确认）
+
+**顺序锁定**：dry-run（`run-guokao-full-check.ps1`）→ apply（`node scripts/convert-guokao.js --all`）
+→ Codex 回填 7 道缺选项 → `validate-questions.cjs` 复校验 → 提交 → publish 合并。
+
+**1. 数据回填必须双写（已写入 Codex 移交清单第 6/7 条）**
+
+- 只改 `public/data/questions-v2/` 分片不算完成：必须同时改 `source-data` 源文档，或提供幂等 patch 脚本
+  `scripts/patches/<名称>.cjs`，保证 `convert-guokao.js --all` 重转后不丢。
+- 重转必须发生在回填**之前**；回填之后只跑校验与合并。
+
+**2. loader 不切目录（方案 A）**
+
+- `src/hooks/useQuestions.ts` 继续读 `/data/questions/`；publish = 把 v2 的 `national-*` 分片并入该目录，
+  删除 v1 多出的旧国考分片（`national-none-changshi-6.json`，68 题），再重建索引
+  → 一个数据目录、一套索引，省考老数据零影响。
+- 只覆盖同名文件是不够的：v1 多出的分片不删会以旧题继续留在索引里。
+
+**3. 索引随 publish 重建（硬性）**
+
+- 合并脚本 `scripts/publish-merge-v2.cjs`：`npm run publish:dry`（只写报告）/ `npm run publish:apply`。
+- `index.json` 与 `idMap.json` 按合并后的**实际文件全量重建**（167 keys / 约 2.66 万 ID），覆盖省考老数据；
+  错题本、知识点筛选的反查表不再缺。
+- `--apply` 自检：旧国考分片清零、题目数与计划一致、index 精确覆盖全部文件、idMap 覆盖全部 ID，任一失败即中止。
+
+**4. 错题 ID 不迁移（A1）**
+
+- v1 `real-*` 与 v2 `gk-*` 无交集，历史错题记录自然失效，不做映射。
+- 对外更新日志口径：**“题库已整体翻新，历史做题记录已重置”**。
+
+**dry-run 基线（2026-10-19 实测，报告 `guokao-reports/publish-plan.md`）**
+
+- 覆盖同名 17 / 新增 18 / 删除 1（68 题）/ 未触碰 248；合并后 283 文件 / 29,687 题。
+- 可渲染 28,175（图片题占位 2,107、主观题 312），跳过 1,512（多为 v1 旧省考脏数据，前端本就会过滤）。
+- v2 内部重复 ID 0、与省考老数据 ID 冲突 0；index / idMap 自检通过。
 
 
 

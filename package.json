@@ -10,7 +10,9 @@
     "preview": "vite preview",
     "clean": "rm -rf dist server.js",
     "lint": "tsc --noEmit",
-    "test:e07": "node scripts/test-e07-rule.cjs"
+    "test:e07": "node scripts/test-e07-rule.cjs",
+    "publish:dry": "node scripts/publish-merge-v2.cjs",
+    "publish:apply": "node scripts/publish-merge-v2.cjs --apply"
   },
   "dependencies": {
     "@google/genai": "^2.4.0",
