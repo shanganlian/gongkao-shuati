@@ -2005,36 +2005,49 @@ function publicQuestion(q) {
   return out;
 }
 
-function writeShards(allQuestions) {
-  if (!allQuestions.length) return { index: {}, files: 0 };
-
-  fs.rmSync(OUT_DIR, { recursive: true, force: true });
-  ensureDir(OUT_DIR);
-
+/** 计算分片清单（纯函数，不落盘）：dry-run 也要能写出一致的 shardFiles/shardIndex */
+function planShards(allQuestions) {
   const groups = new Map();
   for (const q of allQuestions) {
     const key = `national-none-${q.module}`;
     if (!groups.has(key)) groups.set(key, []);
-    groups.get(key).push(publicQuestion(q));
+    groups.get(key).push(q);
   }
 
   const index = {};
+  const chunks = [];
   let files = 0;
 
   for (const [key, list] of groups) {
     index[key] = [];
     for (let i = 0; i * SHARD_SIZE < list.length; i++) {
       const name = `${key}-${i}.json`;
-      const chunk = list.slice(i * SHARD_SIZE, (i + 1) * SHARD_SIZE);
-      fs.writeFileSync(path.join(OUT_DIR, name), JSON.stringify(chunk, null, 2), 'utf8');
+      const chunk = list.slice(i * SHARD_SIZE, (i + 1) * SHARD_SIZE).map(publicQuestion);
       index[key].push(name);
+      chunks.push([name, chunk]);
       files++;
     }
   }
 
-  fs.writeFileSync(path.join(OUT_DIR, 'index.json'), JSON.stringify(index), 'utf8');
-  return { index, files };
+  return { index, files, chunks };
 }
+
+function writeShards(allQuestions) {
+  if (!allQuestions.length) return { index: {}, files: 0 };
+
+  const plan = planShards(allQuestions);
+
+  fs.rmSync(OUT_DIR, { recursive: true, force: true });
+  ensureDir(OUT_DIR);
+
+  for (const [name, chunk] of plan.chunks) {
+    fs.writeFileSync(path.join(OUT_DIR, name), JSON.stringify(chunk, null, 2), 'utf8');
+  }
+
+  fs.writeFileSync(path.join(OUT_DIR, 'index.json'), JSON.stringify(plan.index), 'utf8');
+  return { index: plan.index, files: plan.files };
+}
+
 
 function writePaperReport(meta, issues) {
   ensureDir(REPORT_DIR);
@@ -2225,6 +2238,9 @@ async function main() {
   if (!ARGS.dryRun && questionsAll.length) {
     written = writeShards(questionsAll);
     log(`\n已写入 ${written.files} 个分片 → ${path.relative(ROOT, OUT_DIR)}`);
+  } else if (questionsAll.length) {
+    written = planShards(questionsAll);
+    log(`\n[dry-run] 未写入 questions-v2（按当前数据将产出 ${written.files} 个分片）`);
   } else {
     log('\n[dry-run] 未写入 questions-v2。');
   }
