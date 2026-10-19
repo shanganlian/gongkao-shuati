@@ -15,7 +15,8 @@
  *   [ERROR] E04 选项 key 重复（如 [CDABCDABC]，多为多题合并）
  *   [ERROR] E05 选项 key 不是 A/B/C/D 序列
  *   [ERROR] E06 答案不在选项范围内
- *   [ERROR] E07 stem 含选项标记（选项被粘进题干，如 "…的是： A、xxx"）
+ *   [ERROR] E07 stem 含选项标记（选项被粘进题干，如 "…的是： A、xxx"；
+ *           题干中全部为「A、B 两地」式变量枚举时豁免，见 lib/stem-option-mark.cjs）
  *   [WARN]  W01 题干过短（< 8 字）
  *   [WARN]  W02 缺少解析
  *   [WARN]  W03 缺少 thinkingTip
@@ -45,7 +46,8 @@ const SUBJECTIVE = ['shenlun', 'gongji'];
 const VALID_KEYS = ['A', 'B', 'C', 'D', 'E', 'F'];
 
 // stem 中的选项标记：行首/空白后的 A、/A./A．/A)/A：，且后面紧跟内容
-const STEM_OPTION_MARK = /(?:^|[\s\n])[A-Da-d]\s*[、.．\)）:：]\s*\S/;
+// 变量枚举（"A、B 两地"）由 lib/stem-option-mark.cjs 豁免，见该文件说明
+const { hasStemOptionMark, firstMarkPos } = require('./lib/stem-option-mark.cjs');
 // 题干中的题号（如 "17\n" 或 "17、"）
 const STEM_QUESTION_NO = /(?:^|[\s\n])\d{1,3}\s*(?:[、.．]|\n)/;
 
@@ -84,10 +86,9 @@ for (const key of Object.keys(index)) {
         continue; // 题干为空时后续规则无意义
       }
 
-      // ---- E07 stem 含选项标记 ----
-      if (STEM_OPTION_MARK.test(stem)) {
-        const m = stem.match(STEM_OPTION_MARK);
-        const pos = m ? stem.indexOf(m[0]) : -1;
+      // ---- E07 stem 含选项标记（变量枚举已豁免，见 lib/stem-option-mark.cjs） ----
+      if (hasStemOptionMark(stem, opts)) {
+        const pos = firstMarkPos(stem);
         add('ERROR', 'E07', q, f, `stem 含选项标记: ${JSON.stringify(stem.slice(Math.max(0, pos), pos + 60))}`);
       }
 
