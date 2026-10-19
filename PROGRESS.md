@@ -358,6 +358,18 @@ node scripts/report-v2.js; node scripts/audit-missing-answers.js
 
 > 本轮改动前的账本与分片备份：`guokao-reports.bak-ocr/`、`public/data/questions-v2.bak-ocr/`。
 
+**独立复核（2026-10-19）**
+
+- `scripts/run-guokao-full-check.ps1`（全量 dry-run → summary.md → 缺失账本）：92 卷 / 6,210 题 /
+  答案 100.0% / ERROR **0** / WARN 1,543 / QNO_GAP 0；异常分布含 `ANSWER_FROM_OCR_KEY ×1`、
+  `ANSWER_FROM_QUICKKEY ×1`。
+- `scripts/run-guokao-tests.ps1`：回归测试 **PASS 10 / FAIL 0**；2017、2021 两卷 dry-run 均 ERROR 0、
+  无缺失答案，2021 副省日志出现 `[旁挂] 解析 使用 OCR 文本 …（1752 字）`。
+- **顺带修复**：dry-run 生成的 `summary.json` 原本丢失 `shardFiles` / `shardIndex`（只有落盘才写），
+  复核一次就会把账本降级。已将 `writeShards` 拆出纯函数 `planShards`，dry-run 只计算不落盘；
+  实测 dry-run 账本与落盘账本除 `generatedAt` 外逐字段一致（35 个分片、`shardIndex` 深度相等）。
+
+
 ## 1. 已完成的功能
 
 - **前端完整实现**：行岸公考刷题平台（React + Vite + TypeScript + Supabase），包含笔试专区、面试专区、学情总览、全局成长、备考社区等模块。
