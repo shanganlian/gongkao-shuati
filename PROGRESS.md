@@ -554,6 +554,20 @@ WARN 412 构成：`W01` 题干过短 121、`W02` 缺少解析 135（全部是 20
 - 备份：`guokao-reports/backup-fujian-v2-2026-10-19T11-36-56-040Z/`（修复前干净数据）。
 - 边界：只改 `public/data/questions-v2-provincial/福建/`；线上 `public/data/questions/` 本次仅含浙江 apply 变更，未写福建。
 
+### 0.12.9 福建 v2 文本层清洗 + publish apply（2026-10-20）
+
+- 清洗脚本 `scripts/fix-fujian-ocr-spaces.cjs`（dry-run 默认，`--apply` 写入并备份）；备份 `guokao-reports/backup-fujian-v2-spaces-2026-10-20T11-32-22-388Z`。
+- 结果：2,564 题全部过检，2,496 条有变更（选项 2,050 处 / 764 题、解析 2,463 条、keyPoints 1,250 条）；残留空格 32,448 → 1,046（记录 2,487 → 132），剩余均为并列项 / 表格 / 英文词组空格。
+- keyPoints：删除模板残句 430 项；整组残句时首句回填 53 条、置空 119 条；`本题考查…` 作为考点标签保留。
+- 写后自检：分片与 `questions.json` 一致（2,564 / 2,564 唯一 ID）、清洗幂等、index 自检通过；空白不变式 4,513 处 / 失败 0。
+- 回归：`verify-fujian-repair` ✅（Q40 改为去空白比对）；`verify-fujian-v2` ✅（16 分片 / 2,564 题 / 重复 ID 0）；福建 `validate-questions` 清洗前后均为 ERROR 25 / WARN 192（E02 17 + E03 2 + E07 6）；全库 `validate-questions`（apply 前）30,009 题 / ERROR 1,970 / WARN 20,811 不变；`verify-question-loading`（apply 前）31,262 题 / 可渲染 30,271 / 跳过率 3.170%。
+- publish 脚本 `scripts/publish-merge-fujian.cjs`（`publish:fj:dry` / `publish:fj:apply`）完成 dry-run：源 16 分片 / 2,564 题；旧福建 8 分片 / 712 题；覆盖 8 / 新增 8 / 删除 0 / 未触碰 291；合并后 307 分片 / 34,945 题 / index 167 keys / idMap 31,937。
+- 三项对账全通过：① 变更文件全部命中 `provincial-福建-*`，国考 / 其他省 0 改动；② `299 − 8 + 16 = 307`、`33,093 − 712 + 2,564 = 34,945`；③ index / idMap 三项一致性检查通过，无阻塞项。
+- 报告：`guokao-reports/publish-fujian-plan.md`；账本：`guokao-reports/fujian-v2-修复后账本.md` 第 6–8 节；清洗明细 `guokao-reports/fujian-v2-空格清洗.md`。
+- **已执行 apply（2026-10-20）**：`npm run publish:fj:apply` 写入 16 个 `provincial-福建-*` 分片并重建 index / idMap；线上 `public/data/questions/` = 307 分片 / 34,945 题 / index 167 keys / idMap 31,937，福建 16 分片 / 2,564 题。
+- 写后复核：三项对账复跑通过；`verify-question-loading` 全库 33,160 题 / 可渲染 32,189 / 跳过率 2.928%，福建 2,564 题 / 可渲染 2,545；全库 `validate-questions` 31,937 题 / ERROR 1,935 / WARN 20,335（旧福建 712 题换成新 2,564 题后 ERROR 净减 35）。
+- `npm run build` 通过（exit 0，1,728 模块 / 1.51s）。
+
 ## 2. 正在进行、尚未完成的改动
 
 - **AI 功能**：依赖 `server.ts`（Express 后端），纯静态部署后不可用，尚未改造为 Netlify Serverless Functions，也未配置 `GEMINI_API_KEY` 环境变量。

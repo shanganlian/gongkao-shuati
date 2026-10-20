@@ -14,7 +14,9 @@
     "publish:dry": "node scripts/publish-merge-v2.cjs",
     "publish:apply": "node scripts/publish-merge-v2.cjs --apply",
     "publish:zj:dry": "node scripts/publish-merge-zhejiang.cjs",
-    "publish:zj:apply": "node scripts/publish-merge-zhejiang.cjs --apply"
+    "publish:zj:apply": "node scripts/publish-merge-zhejiang.cjs --apply",
+    "publish:fj:dry": "node scripts/publish-merge-fujian.cjs",
+    "publish:fj:apply": "node scripts/publish-merge-fujian.cjs --apply"
   },
   "dependencies": {
     "@google/genai": "^2.4.0",

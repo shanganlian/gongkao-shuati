@@ -1374,7 +1374,8 @@ function mergeAnswers(questions, answerText, meta) {
     }
 
     q.answer = answer;
-    q.explanation = answerOnlySource ? '' : (block ? block.text.trim() : '');
+    // 答案解析里也可能夹带空表格/图片占位标记，前端只应看到纯文本
+    q.explanation = answerOnlySource ? '' : stripDocMarkers(block ? block.text : '');
     q.keyPoints = extractKeyPoints(q.explanation);
 
     if (!answerOnlySource && (!block || !q.explanation)) {

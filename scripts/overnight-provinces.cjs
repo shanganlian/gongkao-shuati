@@ -17,6 +17,13 @@
  *   node scripts/overnight-provinces.cjs
  *   node scripts/overnight-provinces.cjs --province 浙江 --limit 2 --dry-run
  *   node scripts/overnight-provinces.cjs --probe
+ *   node scripts/overnight-provinces.cjs --province 福建 --reports-only --keep-summary
+ *   node scripts/overnight-provinces.cjs --province 福建 --reports-only --keep-summary \
+ *     --sample-include prov-fujian-2011-917联考-11
+ *
+ *   --reports-only   基于现有 questions.json 重算账本/样本，不重写题目分片（用于修复数据后补报告）
+ *   --keep-summary   不覆盖三省级 overnight-summary.md（单省重算报告时使用）
+ *   --sample-include 逗号分隔的 ID，强制进入 sample-20（仅限答案/解析/4 选项完整题）
  */
 
 const fs = require('node:fs');
@@ -99,6 +106,9 @@ function readArgs(argv) {
     verbose: has('--verbose'),
     strict: has('--strict'),
     noReports: has('--no-reports'),
+    reportsOnly: has('--reports-only'),
+    keepSummary: has('--keep-summary'),
+    sampleInclude: get('--sample-include', '').split(/[,，]/).map(s => s.trim()).filter(Boolean),
   };
 }
 
@@ -988,7 +998,7 @@ function paperTitle(paper) {
   return `${paper.year}年${paper.label && paper.label !== '未标注' ? `（${paper.label}）` : ''}`;
 }
 
-function pickSamples(questions, count, seedText) {
+function pickSamples(questions, count, seedText, mustInclude = []) {
   const random = mulberry32(hashString(seedText));
   const complete = questions.filter(q => !q.isPlaceholder && q.answer && q.explanation && q.options && q.options.length === 4);
   const fallback = questions.filter(q => !q.isPlaceholder && q.answer);
@@ -997,7 +1007,15 @@ function pickSamples(questions, count, seedText) {
   const picked = [];
   const used = new Set();
 
-  // 先保证模块覆盖：每个模块最多先取 2 题
+  // 回归样本必须先入样，且只接受字段完整的题，避免出现空解析样本
+  for (const id of mustInclude) {
+    const q = complete.find(x => x.id === id);
+    if (!q || used.has(q.id)) continue;
+    picked.push(q);
+    used.add(q.id);
+  }
+
+  // 再保证模块覆盖：每个模块最多先取 2 题
   for (const module of MODULE_ORDER) {
     const list = shuffled.filter(q => q.module === module);
     for (const q of list.slice(0, 2)) {
@@ -1016,7 +1034,7 @@ function pickSamples(questions, count, seedText) {
   return picked.slice(0, count);
 }
 
-function writeSampleReport(file, jsonFile, cfg, samples) {
+function writeSampleReport(file, jsonFile, cfg, samples, mustInclude = []) {
   const lines = [
     `# ${cfg.province}省考行测 20 题完整字段样本`,
     '',
@@ -1025,6 +1043,10 @@ function writeSampleReport(file, jsonFile, cfg, samples) {
     '抽样规则：优先抽取「答案 + 解析 + 4 个选项」齐全的题目，并尽量覆盖五个模块；使用固定种子，重复运行结果一致。',
     '',
   ];
+  if (mustInclude.length) {
+    lines.push(`回归样本（强制包含）：${mustInclude.map(id => `\`${id}\``).join('、')}`);
+    lines.push('');
+  }
   samples.forEach((q, i) => {
     lines.push(`## ${i + 1}. ${q.id}`);
     lines.push('');
@@ -1251,8 +1273,52 @@ function writeKnownLosses(file, cfg, agg, records) {
   fs.writeFileSync(file, lines.join('\n'), 'utf8');
 }
 
+function readExistingQuestions(province) {
+  const file = path.join(OUT_ROOT, province, 'questions.json');
+  if (!fs.existsSync(file)) return null;
+  try {
+    const rows = JSON.parse(fs.readFileSync(file, 'utf8'));
+    return Array.isArray(rows) ? rows : null;
+  } catch {
+    return null;
+  }
+}
+
+function reconcileAggWithQuestions(agg, questions) {
+  const zero = () => Object.fromEntries(MODULE_ORDER.map(m => [m, 0]));
+  const counts = zero();
+  const answers = zero();
+  const explanations = zero();
+  const placeholders = zero();
+  const images = zero();
+  for (const q of questions) {
+    if (!(q.module in counts)) continue;
+    counts[q.module] += 1;
+    if (q.answer) answers[q.module] += 1;
+    if (String(q.explanation || '').trim()) explanations[q.module] += 1;
+    if (q.isPlaceholder) placeholders[q.module] += 1;
+    if (q.isImageQuestion) images[q.module] += 1;
+  }
+  agg.questions = questions.length;
+  agg.withAnswer = questions.filter(q => q.answer).length;
+  agg.withExplanation = questions.filter(q => String(q.explanation || '').trim()).length;
+  agg.placeholders = questions.filter(q => q.isPlaceholder).length;
+  agg.imageQuestions = questions.filter(q => q.isImageQuestion).length;
+  agg.moduleCounts = counts;
+  agg.moduleAnswers = answers;
+  agg.moduleExplanations = explanations;
+  agg.modulePlaceholders = placeholders;
+  agg.moduleImages = images;
+  agg.questionsList = questions;
+}
+
 function writeProvinceReports(cfg, records, agg, startedAt) {
   ensureDir(cfg.reportDir);
+  const existingQuestions = ARGS.reportsOnly ? readExistingQuestions(cfg.province) : null;
+  if (existingQuestions) {
+    reconcileAggWithQuestions(agg, existingQuestions);
+    log(`  [reports-only] 统计与样本基于现有 questions.json（${existingQuestions.length} 题）`);
+  }
   writeLedger(path.join(cfg.reportDir, 'ledger.md'), cfg, agg, records, startedAt);
 
   const csv = [['省份', '年份', '卷别', '题本', '答案文件', '级别', '代码', '题号', '模块', '说明']];
@@ -1267,8 +1333,19 @@ function writeProvinceReports(cfg, records, agg, startedAt) {
   }
   writeCsv(path.join(cfg.reportDir, 'exceptions.csv'), csv);
 
-  const samples = pickSamples(agg.questionsList, 20, `${cfg.province}-2024`);
-  writeSampleReport(path.join(cfg.reportDir, 'sample-20.md'), path.join(cfg.reportDir, 'sample-20.json'), cfg, samples);
+  const samples = pickSamples(existingQuestions || agg.questionsList, 20, `${cfg.province}-2024`, ARGS.sampleInclude);
+  const includedForcedIds = ARGS.sampleInclude.filter(id => samples.some(q => q.id === id));
+  const missingForcedIds = ARGS.sampleInclude.filter(id => !includedForcedIds.includes(id));
+  if (missingForcedIds.length) {
+    log(`  [sample] 回归题未入样（不存在或字段不完整）：${missingForcedIds.join('、')}`);
+  }
+  writeSampleReport(
+    path.join(cfg.reportDir, 'sample-20.md'),
+    path.join(cfg.reportDir, 'sample-20.json'),
+    cfg,
+    samples,
+    includedForcedIds
+  );
   writeKnownLosses(path.join(cfg.reportDir, 'known-losses.md'), cfg, agg, records);
 
   writeJson(path.join(cfg.reportDir, 'paper-stats.json'), {
@@ -1577,7 +1654,9 @@ async function processProvince(cfg, startedAt) {
   const status = agg.okPapers === 0 ? 'failed' : (hasFatal ? 'partial' : 'ok');
 
   if (!ARGS.dryRun) {
-    if (agg.questionsList.length) {
+    if (ARGS.reportsOnly) {
+      log(`  [reports-only] 保留现有分片，不重写 ${relPath(path.join(OUT_ROOT, cfg.province))}`);
+    } else if (agg.questionsList.length) {
       const out = writeProvinceShards(cfg.province, cfg.slug, agg.questionsList);
       log(`  输出：${relPath(out.outDir)}（${agg.questionsList.length} 题，${out.files} 个分片）`);
     } else {
@@ -1661,7 +1740,7 @@ async function main() {
     }
   }
 
-  if (!ARGS.dryRun && !ARGS.noReports) {
+  if (!ARGS.dryRun && !ARGS.noReports && !ARGS.keepSummary) {
     const endedAt = stamp();
     writeSummary(results, startedAt, endedAt);
     log(`汇总：${relPath(SUMMARY_PATH)}`);

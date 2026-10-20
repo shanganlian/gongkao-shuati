@@ -5,22 +5,23 @@
 - 入口：`node scripts/overnight-provinces.cjs`
 - 隔离输出：`public/data/questions-v2-provincial/<省>/`
 - 注意：本次运行未写入 `public/data/questions/` 与 `public/data/questions-v2/`，未执行 git push。
+- 福建重出：2026-10-19 21:43:51（按修复后数据 `--reports-only` 重算账本与样本；浙江/安徽仍为 18:46 运行结果）
 
 ## 总览
 
 | 省份 | 题本 | 成功/失败 | 题数 | 答案覆盖 | 解析覆盖 | 占位 | 图片 | ERROR | WARN | 输出 | 报告 |
 | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | --- | --- |
 | 浙江 | 39 | 39/0 | 4743 | 94.3% | 94.3% | 57 | 650 | 641 | 1126 | `public/data/questions-v2-provincial/浙江/` | `guokao-reports/省考-浙江-转换/` |
-| 福建 | 21 | 21/0 | 2564 | 96.3% | 96.5% | 11 | 179 | 224 | 270 | `public/data/questions-v2-provincial/福建/` | `guokao-reports/省考-福建-转换/` |
+| 福建 | 21 | 21/0 | 2564 | 97.1% | 97.2% | 11 | 179 | 183 | 270 | `public/data/questions-v2-provincial/福建/` | `guokao-reports/省考-福建-转换/` |
 | 安徽 | 21 | 21/0 | 2322 | 96.7% | 96.9% | 29 | 235 | 201 | 314 | `public/data/questions-v2-provincial/安徽/` | `guokao-reports/省考-安徽-转换/` |
 
 ## 合计
 
 - 总题数（含占位）：**9629**
-- 有答案：**9188**（95.4%）
-- 有解析：**9198**（95.5%）
+- 有答案：**9209**（95.6%）
+- 有解析：**9218**（95.7%）
 - 占位题：**97**
-- ERROR：**1066**；WARN：**1710**
+- ERROR：**1025**；WARN：**1710**
 
 ## 分省报告
 
@@ -41,6 +42,7 @@
 - 已知损失：`guokao-reports/省考-福建-转换/known-losses.md`
 - 机器统计：`guokao-reports/省考-福建-转换/paper-stats.json`
 - 题本数：21；失败：0；占位：11；仅答案卷：0
+- 回归样本：`prov-fujian-2011-917联考-11`（已强制纳入 `sample-20.md`）
 
 ### 安徽
 
