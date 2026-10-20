@@ -1,8 +1,0 @@
-﻿2cbef2d fix: 淇绗旇瘯涓撳尯绌虹櫧涓庨搴撹剰鏁版嵁
-9fed36f fix: repair concatenated options into A/B/C/D and normalize provinces (merge 骞垮窞/娣卞湷 to 骞夸笢)
-24eb861 Add PROGRESS.md with project status summary
-22ffbb7 perf: optimize bundle size with dynamic JSON chunks and React lazy loading
-695b9e7 Add netlify.toml to fix build command
-4f5ff6f Fix TypeScript errors for Netlify build
-97bbf28 Add .npmrc with legacy-peer-deps to fix npm install conflict
-5de35ff Add .nvmrc to specify Node 20 for Netlify build

@@ -11,6 +11,12 @@ coverage/
 scripts/*.txt
 dev.log
 
+# 本地回滚备份 / 临时输出（不入 Git）
+backup-*/
+_*.txt
+_*.mjs
+*.bak.docx
+
 # 注意：scripts/*.cjs 是题库治理与校验脚本，需要纳入版本管理，不要忽略
 
 # 原始素材（约 4.4 GB docx/pdf/图片，不入库；仅 2021 副省级行测 OCR 旁挂答案文本用 git add -f 单独入库）
