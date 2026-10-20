@@ -16,7 +16,10 @@
     "publish:zj:dry": "node scripts/publish-merge-zhejiang.cjs",
     "publish:zj:apply": "node scripts/publish-merge-zhejiang.cjs --apply",
     "publish:fj:dry": "node scripts/publish-merge-fujian.cjs",
-    "publish:fj:apply": "node scripts/publish-merge-fujian.cjs --apply"
+    "publish:fj:apply": "node scripts/publish-merge-fujian.cjs --apply",
+    "publish:ah:dry": "node scripts/publish-merge-anhui.cjs",
+    "publish:ah:apply": "node scripts/publish-merge-anhui.cjs --apply",
+    "publish:ah:apply:drop": "node scripts/publish-merge-anhui.cjs --apply --drop-uncovered"
   },
   "dependencies": {
     "@google/genai": "^2.4.0",

@@ -568,10 +568,23 @@ WARN 412 构成：`W01` 题干过短 121、`W02` 缺少解析 135（全部是 20
 - 写后复核：三项对账复跑通过；`verify-question-loading` 全库 33,160 题 / 可渲染 32,189 / 跳过率 2.928%，福建 2,564 题 / 可渲染 2,545；全库 `validate-questions` 31,937 题 / ERROR 1,935 / WARN 20,335（旧福建 712 题换成新 2,564 题后 ERROR 净减 35）。
 - `npm run build` 通过（exit 0，1,728 模块 / 1.51s）。
 
+### 0.12.10 安徽 v2 文本层清洗 + publish apply（2026-10-20，已 apply + drop）
+
+- 清洗脚本 `scripts/fix-anhui-ocr-spaces.cjs`（dry-run 默认，`--apply` 写入并备份）：只清洗 `options[].text` / `explanation` / `keyPoints`，不改 `stem` / `title` / `answer` / `module` / `id`，不动线上目录；`questions.json` 保留原始试卷顺序，分片按模块顺序，两者 ID 集合 / 内容一致。
+- 清洗结果：2,322 题全部过检，2,226 条有变更（选项 1,923 处 / 688 题、解析 2,207 条、keyPoints 1,136 条）；空白变更 4,130 处 / 失败 0；keyPoints 删除模板残句 355 项、首句回填 58 条、置空 80 条（空数组 201 → 281）；行内残留空格 34,042 → 464 处（记录 2,227 → 62），剩余为并列项 / 表格 / 英文词组空格。
+- 写后自检：2,322 题 / 2,322 唯一 ID；分片与 `questions.json` 内容一致；清洗幂等（复跑 0 变更）；index 自检通过。备份 `guokao-reports/backup-anhui-v2-spaces-2026-10-20T12-56-47-890Z/`（不入 Git）。
+- publish 脚本 `scripts/publish-merge-anhui.cjs` 以 `--apply --drop-uncovered` 执行（`npm run publish:ah:apply:drop`）：源 15 分片 / 2,322 题；旧安徽 7 分片 / 597 题；覆盖 6（1,200 新 / 585 旧）、新增 9（1,122）、删除 1（旧 `provincial-安徽-shenlun-0.json`，12 题）、未触碰 300 / 34,348 题。
+- 合并后线上 `public/data/questions/`：315 分片 / 36,670 题 / index 166 keys / idMap 33,735；安徽 15 分片 / 2,322 题（常识 465、判断 656、数量 406、言语 501、资料 294），旧 `prov-安徽省-*` 524 个唯一 ID 全部退出 idMap，无残留。
+- 三项对账全通过：① 变更文件全部命中 `provincial-安徽-*`，国考 / 其他省 0 改动；② `307 − 7 + 15 = 315`、`34,945 − 597 + 2,322 = 36,670`；③ index 精确覆盖 / idMap 覆盖全部 33,735 个 ID / 无悬空引用。
+- 写后复核：`verify-question-loading` 全库 34,933 题 / 可渲染 33,939 / 跳过率 2.845%；安徽 2,322 题 / 可渲染 2,287（98.5%）；浙江 4,743、国考 6,210、福建 2,564 均未变。`npm run build` 通过（exit 0，1,728 模块 / 1.65s）。
+- 报告：`guokao-reports/publish-anhui-plan.md`（APPLIED，含 `--drop-uncovered` 说明）、`guokao-reports/anhui-v2-空格清洗.md` / `.csv`。
+- **待办：安徽申论补录**。按 A1 原则本次全量替换已删除旧 `provincial-安徽-shenlun-0.json`（2024 A/B/C 卷 12 题，旧 ID `prov-安徽省-2024-*`，可从 Git 历史取回原文），安徽暂为 100% 新管线客观题、申论缺口 12 题；后续用正规申论流水线补录后，重建 index / idMap 并复跑 `verify-question-loading` + `npm run build`。
+
 ## 2. 正在进行、尚未完成的改动
 
 - **AI 功能**：依赖 `server.ts`（Express 后端），纯静态部署后不可用，尚未改造为 Netlify Serverless Functions，也未配置 `GEMINI_API_KEY` 环境变量。
 - **数据库迁移**：`supabase/migrations/create_knowledge_progress.sql`（知识点掌握进度表 + RLS）尚未应用到远程 Supabase。
+- **安徽申论补录**：2024 A/B/C 卷 12 题（旧 `provincial-安徽-shenlun-0.json` 已按 A1 全量替换删除），待正规申论流水线补录；补录后重建 index / idMap 并复跑加载校验与构建。
 
 ## 3. 下一个任务从哪里继续
 
