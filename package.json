@@ -19,7 +19,13 @@
     "publish:fj:apply": "node scripts/publish-merge-fujian.cjs --apply",
     "publish:ah:dry": "node scripts/publish-merge-anhui.cjs",
     "publish:ah:apply": "node scripts/publish-merge-anhui.cjs --apply",
-    "publish:ah:apply:drop": "node scripts/publish-merge-anhui.cjs --apply --drop-uncovered"
+    "publish:ah:apply:drop": "node scripts/publish-merge-anhui.cjs --apply --drop-uncovered",
+    "publish:hunan:dry": "node scripts/publish-merge-provinces.cjs --province 湖南 --drop-uncovered",
+    "publish:hunan:apply": "node scripts/publish-merge-provinces.cjs --province 湖南 --apply --drop-uncovered",
+    "publish:hubei:dry": "node scripts/publish-merge-provinces.cjs --province 湖北 --drop-uncovered",
+    "publish:hubei:apply": "node scripts/publish-merge-provinces.cjs --province 湖北 --apply --drop-uncovered",
+    "publish:jiangxi:dry": "node scripts/publish-merge-provinces.cjs --province 江西 --drop-uncovered",
+    "publish:jiangxi:apply": "node scripts/publish-merge-provinces.cjs --province 江西 --apply --drop-uncovered"
   },
   "dependencies": {
     "@google/genai": "^2.4.0",

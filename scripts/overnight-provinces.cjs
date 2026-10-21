@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 /**
- * 省考行测真题夜间转换器（浙江 → 福建 → 安徽）
+ * 省考行测真题夜间转换器（浙江 → 福建 → 安徽 → 湖南 → 湖北 → 江西）
  *
  * 目标：
  *   1. 依次转换三个省的《行测》题本 + 答案解析；
@@ -81,6 +81,33 @@ const PROVINCES = [
     answerDir: path.join(SRC_ROOT, '安徽省公务员考试真题', '3-行测', '2-答案及解析', 'word'),
     reportDir: path.join(REPORT_ROOT, '省考-安徽-转换'),
     order: 3,
+  },
+  {
+    province: '湖南',
+    slug: 'hunan',
+    sourceDir: path.join(SRC_ROOT, '湖南公务员考试真题'),
+    questionDir: path.join(SRC_ROOT, '湖南公务员考试真题', '3-行测', '1-题本', 'word'),
+    answerDir: path.join(SRC_ROOT, '湖南公务员考试真题', '3-行测', '2-答案及解析', 'word'),
+    reportDir: path.join(REPORT_ROOT, '省考-湖南-转换'),
+    order: 4,
+  },
+  {
+    province: '湖北',
+    slug: 'hubei',
+    sourceDir: path.join(SRC_ROOT, '湖北公务员考试真题'),
+    questionDir: path.join(SRC_ROOT, '湖北公务员考试真题', '3-行测', '1-题本', 'word'),
+    answerDir: path.join(SRC_ROOT, '湖北公务员考试真题', '3-行测', '2-答案及解析', 'word'),
+    reportDir: path.join(REPORT_ROOT, '省考-湖北-转换'),
+    order: 5,
+  },
+  {
+    province: '江西',
+    slug: 'jiangxi',
+    sourceDir: path.join(SRC_ROOT, '江西公务员考试真题'),
+    questionDir: path.join(SRC_ROOT, '江西公务员考试真题', '3-行测', '1-题本', 'word'),
+    answerDir: path.join(SRC_ROOT, '江西公务员考试真题', '3-行测', '2-答案及解析', 'word'),
+    reportDir: path.join(REPORT_ROOT, '省考-江西-转换'),
+    order: 6,
   },
 ];
 
@@ -447,6 +474,61 @@ function normalizeProvinceQuestionText(raw) {
   return out.join('\n').replace(/\n{3,}/g, '\n\n').trim();
 }
 
+function isBareAnswerLine(lines, index, stop) {
+  const line = lines[index].trim();
+  if (!/^[A-D]$/.test(line)) return false;
+  let end = index + 1;
+  while (end < stop) {
+    const next = lines[end].trim();
+    if (/^[A-D]$/.test(next) || /^\d{1,3}\s*[、.．:：]\s*[A-D](?![A-Za-z\u4e00-\u9fa5])/.test(next)) break;
+    end++;
+  }
+  const body = lines.slice(index + 1, end).join('\n');
+  return body.length >= 20 && /正确答案|答案选|故选/.test(body) && extractAnswer(body) === line;
+}
+
+// 2025 江西答案 docx 用 Word 自动编号，转换后部分题号丢失，只剩一行答案字母（"B"）。
+// 在相邻两个带号标记之间的空缺数与该区间独立答案行数一致时按顺序补号；
+// 末尾连续答案行也逐个校验后补号。
+function repairBareAnswerMarkers(text) {
+  const lines = text.split('\n');
+  const marks = [];
+  for (let i = 0; i < lines.length; i++) {
+    const m = lines[i].trim().match(/^(\d{1,3})\s*[、.．:：]\s*([A-D])(?![A-Za-z\u4e00-\u9fa5])/);
+    if (m) marks.push({ index: i, num: Number(m[1]) });
+  }
+  if (!marks.length) return text;
+
+  const fixes = [];
+  for (let k = 0; k + 1 < marks.length; k++) {
+    const from = marks[k];
+    const to = marks[k + 1];
+    const gap = to.num - from.num - 1;
+    if (gap <= 0) continue;
+    const bare = [];
+    for (let i = from.index + 1; i < to.index; i++) {
+      if (isBareAnswerLine(lines, i, to.index)) bare.push(i);
+    }
+    if (bare.length !== gap) continue;
+    bare.forEach((i, offset) => fixes.push({ index: i, num: from.num + 1 + offset }));
+  }
+
+  const last = marks[marks.length - 1];
+  const tail = [];
+  for (let i = last.index + 1; i < lines.length; i++) {
+    if (isBareAnswerLine(lines, i, lines.length)) tail.push(i);
+  }
+  if (tail.length) {
+    tail.forEach((i, offset) => fixes.push({ index: i, num: last.num + 1 + offset }));
+  }
+
+  if (!fixes.length) return text;
+  for (const fix of fixes) {
+    lines[fix.index] = `${fix.num}.${lines[fix.index].trim()}`;
+  }
+  return lines.join('\n');
+}
+
 function normalizeAnswerText(raw) {
   let text = normalizeText(raw);
   text = normalizeKangxiSmart(text);
@@ -458,6 +540,7 @@ function normalizeAnswerText(raw) {
   text = text.replace(/([。！？；])\s+(\d{1,3})\s*(?=\n|$)/g, '$1\n$2');
   // 2025 等浙江答案把下一题标记黏在上一句句末（“故正确答案为 D。 6.参考答案：D”）
   text = text.replace(/([^\n])\s*(\d{1,3})\s*[.、．]\s*(参考答案|答案|解析|详解)/g, '$1\n$2.$3');
+  text = repairBareAnswerMarkers(text);
   return text.trim();
 }
 
