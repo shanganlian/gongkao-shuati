@@ -1,0 +1,354 @@
+{
+  "province": "湖南",
+  "slug": "hunan",
+  "module": "shenlun",
+  "generatedAt": "2026-10-21T13:55:12.815Z",
+  "generator": "scripts/convert-provincial-shenlun.cjs",
+  "sourceBase": "source-data/34省考真题合集",
+  "shard": "hunan-none-shenlun-0.json",
+  "count": 106,
+  "answerCount": 91,
+  "shardSha256": "19b59c82e548ccfd6476fe50cb297421179977d592fa6d8299c9a37a5aa01c1b",
+  "files": [
+    {
+      "file": "source-data/34省考真题合集/湖南公务员考试真题/2-申论/word/2004年湖南省公务员考试《申论》真题及参考答案.docx",
+      "year": 2004,
+      "label": "未标注",
+      "questions": 3,
+      "answers": 3,
+      "status": "OK",
+      "branch": "di+di",
+      "issues": []
+    },
+    {
+      "file": "source-data/34省考真题合集/湖南公务员考试真题/2-申论/word/2005年湖南省公务员考试《申论》真题及参考答案.docx",
+      "year": 2005,
+      "label": "未标注",
+      "questions": 3,
+      "answers": 3,
+      "status": "OK",
+      "branch": "paren-cn+digit-answer",
+      "issues": []
+    },
+    {
+      "file": "source-data/34省考真题合集/湖南公务员考试真题/2-申论/word/2006年湖南省公务员考试《申论》真题及参考答案.docx",
+      "year": 2006,
+      "label": "未标注",
+      "questions": 3,
+      "answers": 3,
+      "status": "OK",
+      "branch": "digit+digit-answer",
+      "issues": []
+    },
+    {
+      "file": "source-data/34省考真题合集/湖南公务员考试真题/2-申论/word/2007年湖南省公务员考试《申论》真题及参考答案.docx",
+      "year": 2007,
+      "label": "未标注",
+      "questions": 2,
+      "answers": 0,
+      "status": "WARN",
+      "branch": "di+digit",
+      "issues": [
+        {
+          "code": "ANSWER_COUNT_MISMATCH",
+          "detail": "题目 2 道，答案段 3 段"
+        },
+        {
+          "code": "ANSWER_UNMAPPED",
+          "detail": "答案段 3 段多于题目 2 道，未自动映射"
+        }
+      ]
+    },
+    {
+      "file": "source-data/34省考真题合集/湖南公务员考试真题/2-申论/word/2008年湖南省公务员考试《申论》真题及参考答案.docx",
+      "year": 2008,
+      "label": "未标注",
+      "questions": 3,
+      "answers": 3,
+      "status": "OK",
+      "branch": "digit+digit-answer",
+      "issues": []
+    },
+    {
+      "file": "source-data/34省考真题合集/湖南公务员考试真题/2-申论/word/2009年湖南省公务员考试《申论》真题及参考答案.docx",
+      "year": 2009,
+      "label": "未标注",
+      "questions": 3,
+      "answers": 3,
+      "status": "OK",
+      "branch": "digit+digit-answer",
+      "issues": []
+    },
+    {
+      "file": "source-data/34省考真题合集/湖南公务员考试真题/2-申论/word/2010年425公务员联考《申论》卷及参考答案（广西、江苏、辽宁、天津、海南、湖南、蒙古、重庆、陕西、云南、宁夏）.docx",
+      "year": 2010,
+      "label": "未标注",
+      "questions": 4,
+      "answers": 4,
+      "status": "OK",
+      "branch": "paren-cn+cn-answer",
+      "issues": []
+    },
+    {
+      "file": "source-data/34省考真题合集/湖南公务员考试真题/2-申论/word/2011年424公务员联考《申论》卷及参考答案（福建、广西、四川、江苏、辽宁、天津、海南、江西、湖南、湖北、山西、黑龙江、贵州、重庆、陕西、云南、山东）.docx",
+      "year": 2011,
+      "label": "未标注",
+      "questions": 4,
+      "answers": 4,
+      "status": "OK",
+      "branch": "paren-cn+cn-answer",
+      "issues": []
+    },
+    {
+      "file": "source-data/34省考真题合集/湖南公务员考试真题/2-申论/word/2012年421公务员联考《申论》卷及参考答案（福建、广西、四川、辽宁、海南、湖南、湖北、山西、黑龙江、重庆、陕西、云南、新疆、宁夏、青海）.docx",
+      "year": 2012,
+      "label": "未标注",
+      "questions": 4,
+      "answers": 4,
+      "status": "OK",
+      "branch": "paren-cn+cn-answer",
+      "issues": []
+    },
+    {
+      "file": "source-data/34省考真题合集/湖南公务员考试真题/2-申论/word/2013年湖南省公务员考试《申论》真题及参考答案.docx",
+      "year": 2013,
+      "label": "未标注",
+      "questions": 4,
+      "answers": 4,
+      "status": "OK",
+      "branch": "paren-cn+paren-cn-answer",
+      "issues": []
+    },
+    {
+      "file": "source-data/34省考真题合集/湖南公务员考试真题/2-申论/word/2014年412公务员联考《申论》(广西、海南、湖南、内蒙古、贵州、重庆、云南、宁夏)卷及答案.docx",
+      "year": 2014,
+      "label": "未标注",
+      "questions": 4,
+      "answers": 4,
+      "status": "OK",
+      "branch": "paren-cn+cn-answer",
+      "issues": []
+    },
+    {
+      "file": "source-data/34省考真题合集/湖南公务员考试真题/2-申论/word/2015年425联考《申论》真题（湖南卷）及参考答案.docx",
+      "year": 2015,
+      "label": "未标注",
+      "questions": 4,
+      "answers": 4,
+      "status": "OK",
+      "branch": "cn+cn-answer",
+      "issues": []
+    },
+    {
+      "file": "source-data/34省考真题合集/湖南公务员考试真题/2-申论/word/2016年423联考《申论》真题（湖南卷）及参考答案.docx",
+      "year": 2016,
+      "label": "未标注",
+      "questions": 4,
+      "answers": 3,
+      "status": "WARN",
+      "branch": "cn+cn-answer",
+      "issues": [
+        {
+          "code": "ANSWER_COUNT_MISMATCH",
+          "detail": "题目 4 道，答案段 3 段"
+        }
+      ]
+    },
+    {
+      "file": "source-data/34省考真题合集/湖南公务员考试真题/2-申论/word/2017年422公务员联考《申论》（湖南卷）真题答案及解析.docx",
+      "year": 2017,
+      "label": "未标注",
+      "questions": 3,
+      "answers": 0,
+      "status": "WARN",
+      "branch": "cn+cn-answer",
+      "issues": [
+        {
+          "code": "ANSWER_COUNT_MISMATCH",
+          "detail": "题目 3 道，答案段 4 段"
+        },
+        {
+          "code": "ANSWER_UNMAPPED",
+          "detail": "答案段 4 段多于题目 3 道，未自动映射"
+        }
+      ]
+    },
+    {
+      "file": "source-data/34省考真题合集/湖南公务员考试真题/2-申论/word/2018年421联考《申论》真题（湖南通用卷）及参考答案.docx",
+      "year": 2018,
+      "label": "通用",
+      "questions": 4,
+      "answers": 4,
+      "status": "OK",
+      "branch": "paren-cn+digit-answer",
+      "issues": []
+    },
+    {
+      "file": "source-data/34省考真题合集/湖南公务员考试真题/2-申论/word/2018年421联考《申论》真题（湖南乡镇卷）及参考答案.docx",
+      "year": 2018,
+      "label": "乡镇",
+      "questions": 2,
+      "answers": 2,
+      "status": "OK",
+      "branch": "digit-loose+cn",
+      "issues": []
+    },
+    {
+      "file": "source-data/34省考真题合集/湖南公务员考试真题/2-申论/word/2019年420联考《申论》真题（湖南通用卷）及参考答案.docx",
+      "year": 2019,
+      "label": "通用",
+      "questions": 4,
+      "answers": 4,
+      "status": "OK",
+      "branch": "paren-cn+digit-answer",
+      "issues": []
+    },
+    {
+      "file": "source-data/34省考真题合集/湖南公务员考试真题/2-申论/word/2019年420联考《申论》真题（湖南乡镇卷）及参考答案.docx",
+      "year": 2019,
+      "label": "乡镇",
+      "questions": 4,
+      "answers": 4,
+      "status": "OK",
+      "branch": "paren-cn+digit-answer",
+      "issues": []
+    },
+    {
+      "file": "source-data/34省考真题合集/湖南公务员考试真题/2-申论/word/2020年0725公务员多省联考《申论》题（湖南通用卷）及参考答案.docx",
+      "year": 2020,
+      "label": "通用",
+      "questions": 4,
+      "answers": 4,
+      "status": "OK",
+      "branch": "di+cn-answer",
+      "issues": []
+    },
+    {
+      "file": "source-data/34省考真题合集/湖南公务员考试真题/2-申论/word/2020年0725公务员多省联考《申论》题（湖南乡镇卷）及参考答案.docx",
+      "year": 2020,
+      "label": "乡镇",
+      "questions": 4,
+      "answers": 4,
+      "status": "OK",
+      "branch": "di+cn-answer",
+      "issues": []
+    },
+    {
+      "file": "source-data/34省考真题合集/湖南公务员考试真题/2-申论/word/2021年公务员多省联考《申论》题（湖南通用卷）及参考答案.docx",
+      "year": 2021,
+      "label": "通用",
+      "questions": 4,
+      "answers": 4,
+      "status": "OK",
+      "branch": "paren-cn+cn-answer",
+      "issues": []
+    },
+    {
+      "file": "source-data/34省考真题合集/湖南公务员考试真题/2-申论/word/2021年公务员多省联考《申论》题（湖南乡镇卷）及参考答案.docx",
+      "year": 2021,
+      "label": "乡镇",
+      "questions": 4,
+      "answers": 4,
+      "status": "OK",
+      "branch": "cn+cn-answer",
+      "issues": []
+    },
+    {
+      "file": "source-data/34省考真题合集/湖南公务员考试真题/2-申论/word/2021年公务员多省联考《申论》题（湖南行政执法卷）及参考答案.docx",
+      "year": 2021,
+      "label": "行政执法",
+      "questions": 4,
+      "answers": 4,
+      "status": "OK",
+      "branch": "cn+cn-answer",
+      "issues": []
+    },
+    {
+      "file": "source-data/34省考真题合集/湖南公务员考试真题/2-申论/word/2022年0709湖南公务员考试申论真题及答案（县乡卷）.docx",
+      "year": 2022,
+      "label": "县乡",
+      "questions": 4,
+      "answers": 3,
+      "status": "WARN",
+      "branch": "digit+cn",
+      "issues": [
+        {
+          "code": "MATERIAL_MISSING",
+          "detail": "未识别到有效给定材料"
+        }
+      ]
+    },
+    {
+      "file": "source-data/34省考真题合集/湖南公务员考试真题/2-申论/word/2022年公务员多省联考《申论》题（湖南行政执法卷）及参考答案.docx",
+      "year": 2022,
+      "label": "行政执法",
+      "questions": 4,
+      "answers": 0,
+      "status": "WARN",
+      "branch": "cn+cn",
+      "issues": [
+        {
+          "code": "ANSWER_COUNT_MISMATCH",
+          "detail": "题目 4 道，答案段 5 段"
+        },
+        {
+          "code": "ANSWER_UNMAPPED",
+          "detail": "答案段 5 段多于题目 4 道，未自动映射"
+        }
+      ]
+    },
+    {
+      "file": "source-data/34省考真题合集/湖南公务员考试真题/2-申论/word/2023年公务员多省联考《申论》（湖南省市卷）真题及答案.docx",
+      "year": 2023,
+      "label": "省市",
+      "questions": 4,
+      "answers": 4,
+      "status": "OK",
+      "branch": "cn+bracket-shiti",
+      "issues": []
+    },
+    {
+      "file": "source-data/34省考真题合集/湖南公务员考试真题/2-申论/word/2023年0225湖南公务员《申论》题及参考答案.docx",
+      "year": 2023,
+      "label": "未标注",
+      "questions": 4,
+      "answers": 0,
+      "status": "WARN",
+      "branch": "digit+digit",
+      "issues": [
+        {
+          "code": "MATERIAL_MISSING",
+          "detail": "未识别到有效给定材料"
+        },
+        {
+          "code": "ANSWER_COUNT_MISMATCH",
+          "detail": "题目 4 道，答案段 14 段"
+        },
+        {
+          "code": "ANSWER_UNMAPPED",
+          "detail": "答案段 14 段多于题目 4 道，未自动映射"
+        }
+      ]
+    },
+    {
+      "file": "source-data/34省考真题合集/湖南公务员考试真题/2-申论/word/2024年公务员多省联考《申论》题（湖南省市卷）题及参考答案.docx",
+      "year": 2024,
+      "label": "省市",
+      "questions": 4,
+      "answers": 4,
+      "status": "OK",
+      "branch": "bracket-problem+bracket-problem",
+      "issues": []
+    },
+    {
+      "file": "source-data/34省考真题合集/湖南公务员考试真题/2-申论/word/2025年湖南省公务员考试《申论》真题（行政执法卷）题本及答案.docx",
+      "year": 2025,
+      "label": "行政执法",
+      "questions": 4,
+      "answers": 4,
+      "status": "OK",
+      "branch": "paren-cn+repeat-stem",
+      "issues": []
+    }
+  ]
+}

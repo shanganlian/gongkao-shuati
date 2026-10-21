@@ -1,0 +1,385 @@
+{
+  "province": "福建",
+  "slug": "fujian",
+  "module": "shenlun",
+  "generatedAt": "2026-10-21T13:55:12.929Z",
+  "generator": "scripts/convert-provincial-shenlun.cjs",
+  "sourceBase": "source-data/34省考真题合集",
+  "shard": "fujian-none-shenlun-0.json",
+  "count": 114,
+  "answerCount": 106,
+  "shardSha256": "21d28e8e3abcff2352a77d1e096ef7aca5d81904bda636385ec00e7f5be921a1",
+  "files": [
+    {
+      "file": "source-data/34省考真题合集/福建公务员考试真题/2-申论/word/2006年福建省公务员考试《申论》真题（春季）及参考答案.docx",
+      "year": 2006,
+      "label": "未标注",
+      "questions": 3,
+      "answers": 3,
+      "status": "OK",
+      "branch": "digit+digit",
+      "issues": []
+    },
+    {
+      "file": "source-data/34省考真题合集/福建公务员考试真题/2-申论/word/2007年福建省公务员考试真题《申论》真题（秋季）及参考答案.docx",
+      "year": 2007,
+      "label": "未标注",
+      "questions": 3,
+      "answers": 3,
+      "status": "OK",
+      "branch": "digit+di",
+      "issues": []
+    },
+    {
+      "file": "source-data/34省考真题合集/福建公务员考试真题/2-申论/word/2008年福建省公务员考试《申论》真题（秋季）及参考答案.docx",
+      "year": 2008,
+      "label": "未标注",
+      "questions": 3,
+      "answers": 3,
+      "status": "OK",
+      "branch": "digit+di",
+      "issues": []
+    },
+    {
+      "file": "source-data/34省考真题合集/福建公务员考试真题/2-申论/word/2009年913公务员联考《申论》及参考答案（福建、重庆、海南、辽宁、内蒙古、新疆 ）.docx",
+      "year": 2009,
+      "label": "未标注",
+      "questions": 4,
+      "answers": 4,
+      "status": "OK",
+      "branch": "paren-cn+digit-answer",
+      "issues": []
+    },
+    {
+      "file": "source-data/34省考真题合集/福建公务员考试真题/2-申论/word/2009年福建省公务员考试《申论》真题（春季）及参考答案.docx",
+      "year": 2009,
+      "label": "未标注",
+      "questions": 3,
+      "answers": 3,
+      "status": "OK",
+      "branch": "digit+di",
+      "issues": []
+    },
+    {
+      "file": "source-data/34省考真题合集/福建公务员考试真题/2-申论/word/2010年918公务员联考《申论》卷及参考答案（福建、辽宁、河南、海南、山西、内蒙、重庆、陕西、宁夏、青海、西藏）.docx",
+      "year": 2010,
+      "label": "未标注",
+      "questions": 4,
+      "answers": 4,
+      "status": "OK",
+      "branch": "paren-cn+paren-cn-answer",
+      "issues": []
+    },
+    {
+      "file": "source-data/34省考真题合集/福建公务员考试真题/2-申论/word/2010年福建省公务员考试《申论》真题（春季）及参考答案.docx",
+      "year": 2010,
+      "label": "未标注",
+      "questions": 3,
+      "answers": 3,
+      "status": "OK",
+      "branch": "cn+cn",
+      "issues": []
+    },
+    {
+      "file": "source-data/34省考真题合集/福建公务员考试真题/2-申论/word/2011年424公务员联考《申论》卷及参考答案（福建、广西、四川、江苏、辽宁、天津、海南、江西、湖南、湖北、山西、黑龙江、贵州、重庆、陕西、云南、山东）.docx",
+      "year": 2011,
+      "label": "未标注",
+      "questions": 4,
+      "answers": 4,
+      "status": "OK",
+      "branch": "paren-cn+cn-answer",
+      "issues": []
+    },
+    {
+      "file": "source-data/34省考真题合集/福建公务员考试真题/2-申论/word/2011年917公务员联考《申论》卷及参考答案（福建、河南、重庆、甘肃、新疆）.docx",
+      "year": 2011,
+      "label": "未标注",
+      "questions": 4,
+      "answers": 4,
+      "status": "OK",
+      "branch": "paren-cn+paren-cn-answer",
+      "issues": []
+    },
+    {
+      "file": "source-data/34省考真题合集/福建公务员考试真题/2-申论/word/2012年421公务员联考《申论》卷及参考答案（福建、广西、四川、辽宁、海南、湖南、湖北、山西、黑龙江、重庆、陕西、云南、新疆、宁夏、青海）.docx",
+      "year": 2012,
+      "label": "未标注",
+      "questions": 4,
+      "answers": 4,
+      "status": "OK",
+      "branch": "paren-cn+cn-answer",
+      "issues": []
+    },
+    {
+      "file": "source-data/34省考真题合集/福建公务员考试真题/2-申论/word/2012年915公务员联考《申论》卷及参考答案（福建、河南、重庆、吉林、陕西）.docx",
+      "year": 2012,
+      "label": "未标注",
+      "questions": 3,
+      "answers": 3,
+      "status": "OK",
+      "branch": "paren-cn+paren-cn-answer",
+      "issues": []
+    },
+    {
+      "file": "source-data/34省考真题合集/福建公务员考试真题/2-申论/word/2013年413公务员联考《申论》卷及参考答案（福建、广西、安徽、四川、辽宁、海南、山西、内蒙古、黑龙江、贵州）.docx",
+      "year": 2013,
+      "label": "未标注",
+      "questions": 4,
+      "answers": 4,
+      "status": "OK",
+      "branch": "paren-cn+cn-answer",
+      "issues": []
+    },
+    {
+      "file": "source-data/34省考真题合集/福建公务员考试真题/2-申论/word/2014年412公务员联考《申论》卷及参考答案（福建、广西、安徽、海南、湖南、内蒙古、贵州、重庆、陕西、云南、宁夏）.docx",
+      "year": 2014,
+      "label": "未标注",
+      "questions": 4,
+      "answers": 4,
+      "status": "OK",
+      "branch": "paren-cn+cn-answer",
+      "issues": []
+    },
+    {
+      "file": "source-data/34省考真题合集/福建公务员考试真题/2-申论/word/2015年425公务员联考《申论》（福建卷）及参考答案.docx",
+      "year": 2015,
+      "label": "未标注",
+      "questions": 3,
+      "answers": 3,
+      "status": "OK",
+      "branch": "paren-cn+paren-cn-answer",
+      "issues": []
+    },
+    {
+      "file": "source-data/34省考真题合集/福建公务员考试真题/2-申论/word/2016年423公务员联考《申论》（福建卷）及参考答案.docx",
+      "year": 2016,
+      "label": "未标注",
+      "questions": 3,
+      "answers": 3,
+      "status": "OK",
+      "branch": "cn+cn-answer",
+      "issues": []
+    },
+    {
+      "file": "source-data/34省考真题合集/福建公务员考试真题/2-申论/word/2017年422公务员联考《申论》（福建卷）真题答案及解析.docx",
+      "year": 2017,
+      "label": "未标注",
+      "questions": 3,
+      "answers": 3,
+      "status": "OK",
+      "branch": "cn+cn-answer",
+      "issues": []
+    },
+    {
+      "file": "source-data/34省考真题合集/福建公务员考试真题/2-申论/word/2018年联考《申论》真题（福建县级卷）及答案.docx",
+      "year": 2018,
+      "label": "县级",
+      "questions": 3,
+      "answers": 3,
+      "status": "OK",
+      "branch": "cn+digit-answer",
+      "issues": []
+    },
+    {
+      "file": "source-data/34省考真题合集/福建公务员考试真题/2-申论/word/2018年联考《申论》真题（福建乡镇卷）及答案.docx",
+      "year": 2018,
+      "label": "乡镇",
+      "questions": 4,
+      "answers": 4,
+      "status": "OK",
+      "branch": "cn+digit-answer",
+      "issues": []
+    },
+    {
+      "file": "source-data/34省考真题合集/福建公务员考试真题/2-申论/word/2019年420联考《申论》真题（福县级卷）参考答案.docx",
+      "year": 2019,
+      "label": "县级",
+      "questions": 2,
+      "answers": 0,
+      "status": "WARN",
+      "branch": "paren-cn-loose+digit-answer",
+      "issues": [
+        {
+          "code": "ANSWER_COUNT_MISMATCH",
+          "detail": "题目 2 道，答案段 3 段"
+        },
+        {
+          "code": "ANSWER_UNMAPPED",
+          "detail": "答案段 3 段多于题目 2 道，未自动映射"
+        }
+      ]
+    },
+    {
+      "file": "source-data/34省考真题合集/福建公务员考试真题/2-申论/word/2019年420联考《申论》真题（福建乡镇卷）参考答案.docx",
+      "year": 2019,
+      "label": "乡镇",
+      "questions": 4,
+      "answers": 4,
+      "status": "OK",
+      "branch": "paren-cn+digit-answer",
+      "issues": []
+    },
+    {
+      "file": "source-data/34省考真题合集/福建公务员考试真题/2-申论/word/2020年0725公务员多省联考《申论》题（福建县级卷）两套答案.docx",
+      "year": 2020,
+      "label": "县级",
+      "questions": 3,
+      "answers": 3,
+      "status": "OK",
+      "branch": "paren-cn+cn-answer",
+      "issues": []
+    },
+    {
+      "file": "source-data/34省考真题合集/福建公务员考试真题/2-申论/word/2020年0725公务员多省联考《申论》题（福建乡镇卷）两套答案.docx",
+      "year": 2020,
+      "label": "乡镇",
+      "questions": 4,
+      "answers": 4,
+      "status": "OK",
+      "branch": "paren-cn+di",
+      "issues": []
+    },
+    {
+      "file": "source-data/34省考真题合集/福建公务员考试真题/2-申论/word/2021年公务员多省联考《申论》题（福建县级及以上卷）及参考答案.docx",
+      "year": 2021,
+      "label": "县级",
+      "questions": 3,
+      "answers": 3,
+      "status": "OK",
+      "branch": "paren-cn+cn-answer",
+      "issues": []
+    },
+    {
+      "file": "source-data/34省考真题合集/福建公务员考试真题/2-申论/word/2021年公务员多省联考《申论》题（福建乡镇卷）及参考答案.docx",
+      "year": 2021,
+      "label": "乡镇",
+      "questions": 4,
+      "answers": 4,
+      "status": "OK",
+      "branch": "paren-cn+cn-answer",
+      "issues": []
+    },
+    {
+      "file": "source-data/34省考真题合集/福建公务员考试真题/2-申论/word/2022公务员多省联考《申论》（福建省市卷）真题及答案.docx",
+      "year": 2022,
+      "label": "省市",
+      "questions": 3,
+      "answers": 0,
+      "status": "WARN",
+      "branch": "score-fallback",
+      "issues": [
+        {
+          "code": "QUESTION_BY_SCORE",
+          "detail": "未识别到题号，按分值段兜底切题"
+        },
+        {
+          "code": "ANSWER_MISSING",
+          "detail": "未识别到参考答案/解析"
+        }
+      ]
+    },
+    {
+      "file": "source-data/34省考真题合集/福建公务员考试真题/2-申论/word/2022公务员多省联考《申论》（福建县乡卷）真题及答案.docx",
+      "year": 2022,
+      "label": "县乡",
+      "questions": 2,
+      "answers": 0,
+      "status": "WARN",
+      "branch": "cn-loose+cn-answer",
+      "issues": [
+        {
+          "code": "ANSWER_COUNT_MISMATCH",
+          "detail": "题目 2 道，答案段 3 段"
+        },
+        {
+          "code": "ANSWER_UNMAPPED",
+          "detail": "答案段 3 段多于题目 2 道，未自动映射"
+        }
+      ]
+    },
+    {
+      "file": "source-data/34省考真题合集/福建公务员考试真题/2-申论/word/2023年公务员多省联考《申论》（福建省市卷）真题及答案.docx",
+      "year": 2023,
+      "label": "省市",
+      "questions": 4,
+      "answers": 4,
+      "status": "OK",
+      "branch": "cn+bracket-shiti",
+      "issues": []
+    },
+    {
+      "file": "source-data/34省考真题合集/福建公务员考试真题/2-申论/word/2023年公务员多省联考《申论》（福建县乡卷）真题及答案.docx",
+      "year": 2023,
+      "label": "县乡",
+      "questions": 3,
+      "answers": 3,
+      "status": "OK",
+      "branch": "cn+score",
+      "issues": []
+    },
+    {
+      "file": "source-data/34省考真题合集/福建公务员考试真题/2-申论/word/2023年公务员多省联考《申论》（福建行政执法卷）真题及答案.docx",
+      "year": 2023,
+      "label": "行政执法",
+      "questions": 4,
+      "answers": 4,
+      "status": "OK",
+      "branch": "cn+bracket-shiti",
+      "issues": []
+    },
+    {
+      "file": "source-data/34省考真题合集/福建公务员考试真题/2-申论/word/2024年公务员多省联考《申论》（福建省市卷）题及参考答案.docx",
+      "year": 2024,
+      "label": "省市",
+      "questions": 4,
+      "answers": 4,
+      "status": "WARN",
+      "branch": "digit+digit",
+      "issues": [
+        {
+          "code": "MATERIAL_MISSING",
+          "detail": "未识别到有效给定材料"
+        }
+      ]
+    },
+    {
+      "file": "source-data/34省考真题合集/福建公务员考试真题/2-申论/word/2024年福建申论（县乡级）真题及参考答案.docx",
+      "year": 2024,
+      "label": "县乡",
+      "questions": 4,
+      "answers": 4,
+      "status": "OK",
+      "branch": "cn+bracket-problem",
+      "issues": []
+    },
+    {
+      "file": "source-data/34省考真题合集/福建公务员考试真题/2-申论/word/2024年公务员多省联考《申论》（福建行政执法卷）题及参考答案.docx",
+      "year": 2024,
+      "label": "行政执法",
+      "questions": 4,
+      "answers": 3,
+      "status": "WARN",
+      "branch": "digit+cn",
+      "issues": [
+        {
+          "code": "MATERIAL_MISSING",
+          "detail": "未识别到有效给定材料"
+        },
+        {
+          "code": "ANSWER_COUNT_MISMATCH",
+          "detail": "题目 4 道，答案段 3 段"
+        }
+      ]
+    },
+    {
+      "file": "source-data/34省考真题合集/福建公务员考试真题/2-申论/word/2025年公务员多省联考《申论》真题及参考答案（福建通用卷）.docx",
+      "year": 2025,
+      "label": "通用",
+      "questions": 4,
+      "answers": 4,
+      "status": "OK",
+      "branch": "paren-cn+repeat-stem",
+      "issues": []
+    }
+  ]
+}

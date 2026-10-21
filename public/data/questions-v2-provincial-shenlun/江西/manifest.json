@@ -1,0 +1,339 @@
+{
+  "province": "江西",
+  "slug": "jiangxi",
+  "module": "shenlun",
+  "generatedAt": "2026-10-21T13:55:12.868Z",
+  "generator": "scripts/convert-provincial-shenlun.cjs",
+  "sourceBase": "source-data/34省考真题合集",
+  "shard": "jiangxi-none-shenlun-0.json",
+  "count": 120,
+  "answerCount": 113,
+  "shardSha256": "6691287145917b3d3603cafa16e15e90c86686dee7b7918954c08a92af65fe6c",
+  "files": [
+    {
+      "file": "source-data/34省考真题合集/江西公务员考试真题/2-申论/word/2006年江西公务员考试《申论》真题及参考答案.docx",
+      "year": 2006,
+      "label": "未标注",
+      "questions": 3,
+      "answers": 1,
+      "status": "OK",
+      "branch": "paren-cn+digit",
+      "issues": []
+    },
+    {
+      "file": "source-data/34省考真题合集/江西公务员考试真题/2-申论/word/2007年江西公务员考试《申论》真题及参考答案.docx",
+      "year": 2007,
+      "label": "未标注",
+      "questions": 5,
+      "answers": 0,
+      "status": "WARN",
+      "branch": "cn",
+      "issues": [
+        {
+          "code": "ANSWER_MISSING",
+          "detail": "未识别到参考答案/解析"
+        }
+      ]
+    },
+    {
+      "file": "source-data/34省考真题合集/江西公务员考试真题/2-申论/word/2008年江西公务员考试《申论》真题及参考答案.docx",
+      "year": 2008,
+      "label": "未标注",
+      "questions": 4,
+      "answers": 4,
+      "status": "OK",
+      "branch": "digit+digit",
+      "issues": []
+    },
+    {
+      "file": "source-data/34省考真题合集/江西公务员考试真题/2-申论/word/2009年江西公务员考试《申论》真题及参考答案.docx",
+      "year": 2009,
+      "label": "未标注",
+      "questions": 4,
+      "answers": 4,
+      "status": "OK",
+      "branch": "paren-cn+score",
+      "issues": []
+    },
+    {
+      "file": "source-data/34省考真题合集/江西公务员考试真题/2-申论/word/2010年江西省公务员考试《申论》真题及参考答案.docx",
+      "year": 2010,
+      "label": "未标注",
+      "questions": 4,
+      "answers": 4,
+      "status": "OK",
+      "branch": "paren-cn+di",
+      "issues": []
+    },
+    {
+      "file": "source-data/34省考真题合集/江西公务员考试真题/2-申论/word/2011年424公务员联考《申论》卷及参考答案（福建、广西、四川、江苏、辽宁、天津、海南、江西、湖南、湖北、山西、黑龙江、贵州、重庆、陕西、云南、山东）.docx",
+      "year": 2011,
+      "label": "未标注",
+      "questions": 4,
+      "answers": 4,
+      "status": "OK",
+      "branch": "paren-cn+cn-answer",
+      "issues": []
+    },
+    {
+      "file": "source-data/34省考真题合集/江西公务员考试真题/2-申论/word/2012年江西公务员考试《申论》真题及参考答案.docx",
+      "year": 2012,
+      "label": "未标注",
+      "questions": 4,
+      "answers": 4,
+      "status": "OK",
+      "branch": "paren-cn+paren-cn-answer",
+      "issues": []
+    },
+    {
+      "file": "source-data/34省考真题合集/江西公务员考试真题/2-申论/word/2013年江西公务员考试《申论》真题及参考答案.docx",
+      "year": 2013,
+      "label": "未标注",
+      "questions": 4,
+      "answers": 4,
+      "status": "OK",
+      "branch": "problem+problem",
+      "issues": []
+    },
+    {
+      "file": "source-data/34省考真题合集/江西公务员考试真题/2-申论/word/2014年江西公务员考试《申论》卷及参考答案.docx",
+      "year": 2014,
+      "label": "未标注",
+      "questions": 4,
+      "answers": 4,
+      "status": "OK",
+      "branch": "cn+cn-answer",
+      "issues": []
+    },
+    {
+      "file": "source-data/34省考真题合集/江西公务员考试真题/2-申论/word/2015年425公务员联考《申论》（江西卷）及参考答案.docx",
+      "year": 2015,
+      "label": "未标注",
+      "questions": 4,
+      "answers": 4,
+      "status": "OK",
+      "branch": "cn+cn-answer",
+      "issues": []
+    },
+    {
+      "file": "source-data/34省考真题合集/江西公务员考试真题/2-申论/word/2016年423公务员联考《申论》（江西卷）及参考答案.docx",
+      "year": 2016,
+      "label": "未标注",
+      "questions": 4,
+      "answers": 4,
+      "status": "OK",
+      "branch": "cn+cn-answer",
+      "issues": []
+    },
+    {
+      "file": "source-data/34省考真题合集/江西公务员考试真题/2-申论/word/2017年422公务员联考《申论》（江西卷）真题答案及解析.docx",
+      "year": 2017,
+      "label": "未标注",
+      "questions": 4,
+      "answers": 4,
+      "status": "OK",
+      "branch": "cn+cn-answer",
+      "issues": []
+    },
+    {
+      "file": "source-data/34省考真题合集/江西公务员考试真题/2-申论/word/2018年江西录用公务员考试《申论》真题卷（法院、检察院）及答案.docx",
+      "year": 2018,
+      "label": "法检",
+      "questions": 4,
+      "answers": 4,
+      "status": "OK",
+      "branch": "paren-cn+digit-answer",
+      "issues": []
+    },
+    {
+      "file": "source-data/34省考真题合集/江西公务员考试真题/2-申论/word/2018年421联考《申论》真题（江西卷）及参考答案.docx",
+      "year": 2018,
+      "label": "未标注",
+      "questions": 4,
+      "answers": 4,
+      "status": "OK",
+      "branch": "paren-cn+digit-answer",
+      "issues": []
+    },
+    {
+      "file": "source-data/34省考真题合集/江西公务员考试真题/2-申论/word/2019年420联考《申论》真题（江西县级以上卷）及答案.docx",
+      "year": 2019,
+      "label": "县级",
+      "questions": 4,
+      "answers": 4,
+      "status": "OK",
+      "branch": "paren-cn+digit-answer",
+      "issues": []
+    },
+    {
+      "file": "source-data/34省考真题合集/江西公务员考试真题/2-申论/word/2019年420联考《申论》真题（江西县乡镇卷）及答案.docx",
+      "year": 2019,
+      "label": "乡镇",
+      "questions": 4,
+      "answers": 4,
+      "status": "OK",
+      "branch": "digit+digit-answer",
+      "issues": []
+    },
+    {
+      "file": "source-data/34省考真题合集/江西公务员考试真题/2-申论/word/2020年0822公务员多省联考《申论》题（江西省级卷）及参考答案.docx",
+      "year": 2020,
+      "label": "省市",
+      "questions": 4,
+      "answers": 4,
+      "status": "OK",
+      "branch": "paren-cn+cn-answer",
+      "issues": []
+    },
+    {
+      "file": "source-data/34省考真题合集/江西公务员考试真题/2-申论/word/2020年0822公务员多省联考《申论》题（江西市县卷）及参考答案.docx",
+      "year": 2020,
+      "label": "未标注",
+      "questions": 4,
+      "answers": 4,
+      "status": "OK",
+      "branch": "paren-cn+cn-answer",
+      "issues": []
+    },
+    {
+      "file": "source-data/34省考真题合集/江西公务员考试真题/2-申论/word/2020年0822公务员多省联考《申论》题（江西乡镇卷）及参考答案.docx",
+      "year": 2020,
+      "label": "乡镇",
+      "questions": 4,
+      "answers": 4,
+      "status": "OK",
+      "branch": "paren-cn+cn-answer",
+      "issues": []
+    },
+    {
+      "file": "source-data/34省考真题合集/江西公务员考试真题/2-申论/word/2021年公务员多省联考《申论》题（江西省市县卷）及参考答案.docx",
+      "year": 2021,
+      "label": "省市县",
+      "questions": 4,
+      "answers": 4,
+      "status": "OK",
+      "branch": "paren-cn+cn-answer",
+      "issues": []
+    },
+    {
+      "file": "source-data/34省考真题合集/江西公务员考试真题/2-申论/word/2021年公务员多省联考《申论》题（江西乡镇卷）及参考答案.docx",
+      "year": 2021,
+      "label": "乡镇",
+      "questions": 4,
+      "answers": 4,
+      "status": "OK",
+      "branch": "cn+cn-answer",
+      "issues": []
+    },
+    {
+      "file": "source-data/34省考真题合集/江西公务员考试真题/2-申论/word/2021年公务员多省联考《申论》题（江西行政执法卷）及参考答案.docx",
+      "year": 2021,
+      "label": "行政执法",
+      "questions": 0,
+      "answers": 0,
+      "status": "FAIL",
+      "branch": "",
+      "issues": [
+        {
+          "code": "NO_QUESTIONS",
+          "detail": "未解析出申论题目"
+        }
+      ]
+    },
+    {
+      "file": "source-data/34省考真题合集/江西公务员考试真题/2-申论/word/2022年0709江西省公务员考试申论真题及答案（省市卷）.docx",
+      "year": 2022,
+      "label": "省市",
+      "questions": 4,
+      "answers": 4,
+      "status": "OK",
+      "branch": "cn+score",
+      "issues": []
+    },
+    {
+      "file": "source-data/34省考真题合集/江西公务员考试真题/2-申论/word/2022年0709江西省公务员考试申论真题及答案（县乡卷）.docx",
+      "year": 2022,
+      "label": "县乡",
+      "questions": 4,
+      "answers": 4,
+      "status": "OK",
+      "branch": "problem+problem",
+      "issues": []
+    },
+    {
+      "file": "source-data/34省考真题合集/江西公务员考试真题/2-申论/word/2022年0709江西省公务员联考申论真题及答案（行政执法类卷）.docx",
+      "year": 2022,
+      "label": "行政执法",
+      "questions": 4,
+      "answers": 4,
+      "status": "WARN",
+      "branch": "digit+score",
+      "issues": [
+        {
+          "code": "MATERIAL_MISSING",
+          "detail": "未识别到有效给定材料"
+        }
+      ]
+    },
+    {
+      "file": "source-data/34省考真题合集/江西公务员考试真题/2-申论/word/2023年公务员多省联考《申论》题（江西省市卷）及参考答案.docx",
+      "year": 2023,
+      "label": "省市",
+      "questions": 4,
+      "answers": 4,
+      "status": "OK",
+      "branch": "cn+cn",
+      "issues": []
+    },
+    {
+      "file": "source-data/34省考真题合集/江西公务员考试真题/2-申论/word/2023年公务员多省联考《申论》题及答案（江西县乡卷）.docx",
+      "year": 2023,
+      "label": "县乡",
+      "questions": 4,
+      "answers": 4,
+      "status": "OK",
+      "branch": "paren-cn+repeat-stem",
+      "issues": []
+    },
+    {
+      "file": "source-data/34省考真题合集/江西公务员考试真题/2-申论/word/2023年公务员多省联考《申论》题及答案（江西行政执法卷）.docx",
+      "year": 2023,
+      "label": "行政执法",
+      "questions": 4,
+      "answers": 4,
+      "status": "OK",
+      "branch": "paren-cn+repeat-stem",
+      "issues": []
+    },
+    {
+      "file": "source-data/34省考真题合集/江西公务员考试真题/2-申论/word/2024年公务员多省联考《申论》题（江西省市卷）题本及答案.docx",
+      "year": 2024,
+      "label": "省市",
+      "questions": 4,
+      "answers": 4,
+      "status": "OK",
+      "branch": "cn+repeat-stem",
+      "issues": []
+    },
+    {
+      "file": "source-data/34省考真题合集/江西公务员考试真题/2-申论/word/2024年公务员多省联考《申论》题（江西县乡卷）题及参考答案.docx",
+      "year": 2024,
+      "label": "县乡",
+      "questions": 4,
+      "answers": 4,
+      "status": "OK",
+      "branch": "cn+score",
+      "issues": []
+    },
+    {
+      "file": "source-data/34省考真题合集/江西公务员考试真题/2-申论/word/2024年公务员多省联考《申论》题（江西行政执法卷）题及参考答案.docx",
+      "year": 2024,
+      "label": "行政执法",
+      "questions": 4,
+      "answers": 4,
+      "status": "OK",
+      "branch": "bracket-problem+bracket-problem",
+      "issues": []
+    }
+  ]
+}

@@ -1,0 +1,417 @@
+{
+  "province": "浙江",
+  "slug": "zhejiang",
+  "module": "shenlun",
+  "generatedAt": "2026-10-21T13:55:12.898Z",
+  "generator": "scripts/convert-provincial-shenlun.cjs",
+  "sourceBase": "source-data/34省考真题合集",
+  "shard": "zhejiang-none-shenlun-0.json",
+  "count": 109,
+  "answerCount": 102,
+  "shardSha256": "4668e58859016e6594edb873e6c68861b0b53d9e019ead27160094c2b5ce3b32",
+  "files": [
+    {
+      "file": "source-data/34省考真题合集/浙江公务员考试真题/2-申论/word/2004年浙江公务员考试《申论》真题及参考答案.docx",
+      "year": 2004,
+      "label": "未标注",
+      "questions": 2,
+      "answers": 0,
+      "status": "WARN",
+      "branch": "digit+di",
+      "issues": [
+        {
+          "code": "ANSWER_COUNT_MISMATCH",
+          "detail": "题目 2 道，答案段 6 段"
+        },
+        {
+          "code": "ANSWER_UNMAPPED",
+          "detail": "答案段 6 段多于题目 2 道，未自动映射"
+        }
+      ]
+    },
+    {
+      "file": "source-data/34省考真题合集/浙江公务员考试真题/2-申论/word/2005年浙江公务员考试《申论》真题及参考答案.docx",
+      "year": 2005,
+      "label": "未标注",
+      "questions": 3,
+      "answers": 3,
+      "status": "OK",
+      "branch": "digit+digit",
+      "issues": []
+    },
+    {
+      "file": "source-data/34省考真题合集/浙江公务员考试真题/2-申论/word/2006年浙江公务员考试《申论》真题及参考答案.docx",
+      "year": 2006,
+      "label": "未标注",
+      "questions": 3,
+      "answers": 3,
+      "status": "OK",
+      "branch": "digit+digit-answer",
+      "issues": []
+    },
+    {
+      "file": "source-data/34省考真题合集/浙江公务员考试真题/2-申论/word/2007年浙江公务员考试《申论》真题及参考答案.docx",
+      "year": 2007,
+      "label": "未标注",
+      "questions": 3,
+      "answers": 3,
+      "status": "OK",
+      "branch": "digit+digit",
+      "issues": []
+    },
+    {
+      "file": "source-data/34省考真题合集/浙江公务员考试真题/2-申论/word/2008年浙江公务员考试《申论》真题及参考答案.docx",
+      "year": 2008,
+      "label": "未标注",
+      "questions": 3,
+      "answers": 0,
+      "status": "WARN",
+      "branch": "digit+digit",
+      "issues": [
+        {
+          "code": "ANSWER_COUNT_MISMATCH",
+          "detail": "题目 3 道，答案段 7 段"
+        },
+        {
+          "code": "ANSWER_UNMAPPED",
+          "detail": "答案段 7 段多于题目 3 道，未自动映射"
+        }
+      ]
+    },
+    {
+      "file": "source-data/34省考真题合集/浙江公务员考试真题/2-申论/word/2009年浙江公务员考试《申论》真题及参考答案.docx",
+      "year": 2009,
+      "label": "未标注",
+      "questions": 3,
+      "answers": 3,
+      "status": "OK",
+      "branch": "digit+cn-answer",
+      "issues": []
+    },
+    {
+      "file": "source-data/34省考真题合集/浙江公务员考试真题/2-申论/word/2010年浙江公务员考试《申论》真题及参考答案.docx",
+      "year": 2010,
+      "label": "未标注",
+      "questions": 3,
+      "answers": 3,
+      "status": "OK",
+      "branch": "cn+di",
+      "issues": []
+    },
+    {
+      "file": "source-data/34省考真题合集/浙江公务员考试真题/2-申论/word/2011年浙江公务员考试《申论》真题及参考答案.docx",
+      "year": 2011,
+      "label": "未标注",
+      "questions": 3,
+      "answers": 3,
+      "status": "OK",
+      "branch": "paren-cn+cn",
+      "issues": []
+    },
+    {
+      "file": "source-data/34省考真题合集/浙江公务员考试真题/2-申论/word/2012年浙江公务员考试《申论》真题及参考答案.docx",
+      "year": 2012,
+      "label": "未标注",
+      "questions": 3,
+      "answers": 2,
+      "status": "WARN",
+      "branch": "di+di",
+      "issues": [
+        {
+          "code": "ANSWER_COUNT_MISMATCH",
+          "detail": "题目 3 道，答案段 2 段"
+        }
+      ]
+    },
+    {
+      "file": "source-data/34省考真题合集/浙江公务员考试真题/2-申论/word/2013年浙江公务员考试《申论》真题（A卷）及参考答案　.docx",
+      "year": 2013,
+      "label": "A卷",
+      "questions": 3,
+      "answers": 3,
+      "status": "OK",
+      "branch": "di+di",
+      "issues": []
+    },
+    {
+      "file": "source-data/34省考真题合集/浙江公务员考试真题/2-申论/word/2013年浙江公务员考试《申论》真题（B卷）及参考答案　.docx",
+      "year": 2013,
+      "label": "B卷",
+      "questions": 3,
+      "answers": 3,
+      "status": "OK",
+      "branch": "di+di",
+      "issues": []
+    },
+    {
+      "file": "source-data/34省考真题合集/浙江公务员考试真题/2-申论/word/2014年浙江公务员考试《申论》真题（A卷）及参考答案(两套答案).docx",
+      "year": 2014,
+      "label": "A卷",
+      "questions": 3,
+      "answers": 3,
+      "status": "OK",
+      "branch": "di+cn-answer",
+      "issues": []
+    },
+    {
+      "file": "source-data/34省考真题合集/浙江公务员考试真题/2-申论/word/2014年浙江公务员考试《申论》真题（B卷）及参考答案(两套答案).docx",
+      "year": 2014,
+      "label": "B卷",
+      "questions": 3,
+      "answers": 3,
+      "status": "OK",
+      "branch": "di+digit",
+      "issues": []
+    },
+    {
+      "file": "source-data/34省考真题合集/浙江公务员考试真题/2-申论/word/2015年浙江公务员考试《申论》真题（A类）及参考答案.docx",
+      "year": 2015,
+      "label": "A卷",
+      "questions": 3,
+      "answers": 3,
+      "status": "OK",
+      "branch": "paren-cn+cn-answer",
+      "issues": []
+    },
+    {
+      "file": "source-data/34省考真题合集/浙江公务员考试真题/2-申论/word/2015年浙江公务员考试《申论》真题（B类）及参考答案.docx",
+      "year": 2015,
+      "label": "B卷",
+      "questions": 3,
+      "answers": 3,
+      "status": "OK",
+      "branch": "paren-cn+repeat-stem",
+      "issues": []
+    },
+    {
+      "file": "source-data/34省考真题合集/浙江公务员考试真题/2-申论/word/2016年浙江公务员考试《申论》真题（A类）及参考答案.docx",
+      "year": 2016,
+      "label": "A卷",
+      "questions": 3,
+      "answers": 2,
+      "status": "WARN",
+      "branch": "paren-cn+di",
+      "issues": [
+        {
+          "code": "ANSWER_COUNT_MISMATCH",
+          "detail": "题目 3 道，答案段 2 段"
+        }
+      ]
+    },
+    {
+      "file": "source-data/34省考真题合集/浙江公务员考试真题/2-申论/word/2016年浙江公务员考试《申论》真题（B类）及参考答案.docx",
+      "year": 2016,
+      "label": "B卷",
+      "questions": 3,
+      "answers": 3,
+      "status": "OK",
+      "branch": "di+di",
+      "issues": []
+    },
+    {
+      "file": "source-data/34省考真题合集/浙江公务员考试真题/2-申论/word/2017年浙江公务员考试《申论》真题（A类）及参考答案.docx",
+      "year": 2017,
+      "label": "A卷",
+      "questions": 3,
+      "answers": 3,
+      "status": "OK",
+      "branch": "paren-cn+cn-answer",
+      "issues": []
+    },
+    {
+      "file": "source-data/34省考真题合集/浙江公务员考试真题/2-申论/word/2017年浙江公务员考试《申论》真题（B类）及参考答案.docx",
+      "year": 2017,
+      "label": "B卷",
+      "questions": 3,
+      "answers": 3,
+      "status": "OK",
+      "branch": "paren-cn+cn-answer",
+      "issues": []
+    },
+    {
+      "file": "source-data/34省考真题合集/浙江公务员考试真题/2-申论/word/2018年浙江公务员考试《申论》真题（A类）.docx",
+      "year": 2018,
+      "label": "A卷",
+      "questions": 3,
+      "answers": 3,
+      "status": "OK",
+      "branch": "paren-cn+digit-answer",
+      "issues": []
+    },
+    {
+      "file": "source-data/34省考真题合集/浙江公务员考试真题/2-申论/word/2018年浙江公务员考试《申论》真题（B类）.docx",
+      "year": 2018,
+      "label": "B卷",
+      "questions": 3,
+      "answers": 3,
+      "status": "WARN",
+      "branch": "cn+digit-answer",
+      "issues": [
+        {
+          "code": "MATERIAL_MISSING",
+          "detail": "未识别到有效给定材料"
+        }
+      ]
+    },
+    {
+      "file": "source-data/34省考真题合集/浙江公务员考试真题/2-申论/word/2019年浙江公务员考试《申论》真题（A卷）及参考答案.docx",
+      "year": 2019,
+      "label": "A卷",
+      "questions": 4,
+      "answers": 4,
+      "status": "OK",
+      "branch": "paren-cn+paren-cn-answer",
+      "issues": []
+    },
+    {
+      "file": "source-data/34省考真题合集/浙江公务员考试真题/2-申论/word/2019年浙江公务员考试《申论》真题（B卷）及参考答案.docx",
+      "year": 2019,
+      "label": "B卷",
+      "questions": 3,
+      "answers": 3,
+      "status": "OK",
+      "branch": "paren-cn+digit-answer",
+      "issues": []
+    },
+    {
+      "file": "source-data/34省考真题合集/浙江公务员考试真题/2-申论/word/2020年浙江省公考《申论》题（A类）及参考答案.docx",
+      "year": 2020,
+      "label": "A卷",
+      "questions": 2,
+      "answers": 2,
+      "status": "OK",
+      "branch": "paren-cn+cn-answer",
+      "issues": []
+    },
+    {
+      "file": "source-data/34省考真题合集/浙江公务员考试真题/2-申论/word/2020年浙江省公考《申论》题（B类）及两套参考答案.docx",
+      "year": 2020,
+      "label": "B卷",
+      "questions": 2,
+      "answers": 2,
+      "status": "OK",
+      "branch": "paren-cn+cn-answer",
+      "issues": []
+    },
+    {
+      "file": "source-data/34省考真题合集/浙江公务员考试真题/2-申论/word/2021年浙江省公考《申论》题（A类）及参考答案.docx",
+      "year": 2021,
+      "label": "A卷",
+      "questions": 3,
+      "answers": 3,
+      "status": "OK",
+      "branch": "paren-cn+cn-answer",
+      "issues": []
+    },
+    {
+      "file": "source-data/34省考真题合集/浙江公务员考试真题/2-申论/word/2021年浙江省公考《申论》题（B类）及参考答案.docx",
+      "year": 2021,
+      "label": "B卷",
+      "questions": 3,
+      "answers": 3,
+      "status": "OK",
+      "branch": "paren-cn+cn-answer",
+      "issues": []
+    },
+    {
+      "file": "source-data/34省考真题合集/浙江公务员考试真题/2-申论/word/2021年浙江省公考《申论》题（C类）及参考答案.docx",
+      "year": 2021,
+      "label": "C卷",
+      "questions": 3,
+      "answers": 3,
+      "status": "OK",
+      "branch": "paren-cn+cn-answer",
+      "issues": []
+    },
+    {
+      "file": "source-data/34省考真题合集/浙江公务员考试真题/2-申论/word/2023年浙江省公考《申论》真题（A类）及答案.docx",
+      "year": 2023,
+      "label": "A卷",
+      "questions": 3,
+      "answers": 3,
+      "status": "OK",
+      "branch": "cn+bracket-shiti",
+      "issues": []
+    },
+    {
+      "file": "source-data/34省考真题合集/浙江公务员考试真题/2-申论/word/2023年浙江省公考《申论》真题（B类）及答案.docx",
+      "year": 2023,
+      "label": "B卷",
+      "questions": 3,
+      "answers": 3,
+      "status": "OK",
+      "branch": "cn+bracket-shiti",
+      "issues": []
+    },
+    {
+      "file": "source-data/34省考真题合集/浙江公务员考试真题/2-申论/word/2023年浙江省公考《申论》真题（C类）及答案.docx",
+      "year": 2023,
+      "label": "C卷",
+      "questions": 3,
+      "answers": 3,
+      "status": "OK",
+      "branch": "cn+bracket-shiti",
+      "issues": []
+    },
+    {
+      "file": "source-data/34省考真题合集/浙江公务员考试真题/2-申论/word/2024年浙江申论真题（A卷）题及参考答案.docx",
+      "year": 2024,
+      "label": "A卷",
+      "questions": 3,
+      "answers": 3,
+      "status": "OK",
+      "branch": "cn+problem",
+      "issues": []
+    },
+    {
+      "file": "source-data/34省考真题合集/浙江公务员考试真题/2-申论/word/2024年浙江申论真题（B卷）题及参考答案.docx",
+      "year": 2024,
+      "label": "B卷",
+      "questions": 3,
+      "answers": 3,
+      "status": "OK",
+      "branch": "cn+problem",
+      "issues": []
+    },
+    {
+      "file": "source-data/34省考真题合集/浙江公务员考试真题/2-申论/word/2024年浙江申论真题（C卷）题及参考答案.docx",
+      "year": 2024,
+      "label": "C卷",
+      "questions": 3,
+      "answers": 3,
+      "status": "OK",
+      "branch": "cn+problem",
+      "issues": []
+    },
+    {
+      "file": "source-data/34省考真题合集/浙江公务员考试真题/2-申论/word/2025年浙江省公务员录用考试《申论》题（A卷）试题及答案.docx",
+      "year": 2025,
+      "label": "A卷",
+      "questions": 3,
+      "answers": 3,
+      "status": "OK",
+      "branch": "paren-cn+repeat-stem",
+      "issues": []
+    },
+    {
+      "file": "source-data/34省考真题合集/浙江公务员考试真题/2-申论/word/2025年浙江省公务员录用考试《申论》题（B卷）试题及答案.docx",
+      "year": 2025,
+      "label": "B卷",
+      "questions": 3,
+      "answers": 3,
+      "status": "OK",
+      "branch": "paren-cn+repeat-stem",
+      "issues": []
+    },
+    {
+      "file": "source-data/34省考真题合集/浙江公务员考试真题/2-申论/word/2025年浙江省公务员录用考试《申论》题（C卷）试题及答案.docx",
+      "year": 2025,
+      "label": "C卷",
+      "questions": 3,
+      "answers": 3,
+      "status": "OK",
+      "branch": "paren-cn+repeat-stem",
+      "issues": []
+    }
+  ]
+}
