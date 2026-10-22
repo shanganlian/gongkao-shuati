@@ -610,6 +610,68 @@ function findFirstQuestionStemStart(lines) {
   return -1;
 }
 
+/**
+ * 选项表格：老卷（天津 2012 等）把双词选项排成 2×4 表格，
+ * htmlToText 会把单元格拼成「A、天方夜谭 | 想方设法 | B、荒谬之词 | 尽心尽力」。
+ * 识别出 A→B→C→D 四组单元格后还原成正常选项行，否则返回 null 交给材料逻辑。
+ * 表格可能跨题（Q47 选项 + Q48 题号与选项同表），因此返回 consumed：
+ * 只消费到本选项块结束，其余行由调用方还原后继续扫描，避免吞掉下一题。
+ */
+function parseOptionTable(bodyLines) {
+  if (!bodyLines.length || bodyLines.length > 6) return null;
+  if (bodyLines.some(l => l.includes(IMG_MARK))) return null;
+  const opts = [];
+  const optLine = [];
+  let stopLine = null;
+
+  outer: for (let i = 0; i < bodyLines.length; i++) {
+    const cells = String(bodyLines[i]).split('|');
+    for (const cell of cells) {
+      const cellText = cell.trim();
+      if (!cellText) continue;
+      // 四个选项已齐：再遇到题号或新的 A，说明表格里排着下一题，停在这里
+      if (opts.length === 4) {
+        if (/^\d{1,3}\s*[、.．:：]/.test(cellText) || /^A\s*[、.．:：)）]/.test(cellText)) {
+          stopLine = i;
+          break outer;
+        }
+      }
+      const m = cellText.match(/^([A-D])\s*[、.．:：)）]\s*([\s\S]*)$/);
+      const expect = String.fromCharCode(65 + opts.length);
+      if (m && opts.length < 4 && m[1] === expect) {
+        opts.push([m[2].trim()]);
+        optLine.push(i);
+        continue;
+      }
+      if (opts.length) {
+        opts[opts.length - 1].push(cellText);
+        optLine[optLine.length - 1] = i;
+      }
+    }
+  }
+
+  if (opts.length !== 4) return null;
+  if (!opts.every(parts => parts.join('').trim())) return null;
+  // 纯数字/百分比的「A→D」更可能是数据表表头，不是选项
+  if (opts.every(parts => /^[\d.,%\s\-—~～/]+$/.test(parts.join(' ')))) return null;
+
+  const lines = opts.map((parts, idx) => {
+    const key = String.fromCharCode(65 + idx);
+    return `${key}、${parts.filter(Boolean).join(' ')}`;
+  });
+  const consumed = stopLine == null ? optLine[3] : stopLine - 1;
+  return { lines, consumed };
+}
+
+/** 多题共表的选项行（「A、甲 | B、乙 | C、丙 | D、丁」）：拆掉单元格竖线 */
+function depipeOptionRow(line) {
+  const text = String(line);
+  if (!text.includes('|')) return text;
+  const marks = text.match(/(?:^|\s)[A-D]\s*[、.．:：)）]/g);
+  if (!marks || marks.length < 2) return text;
+  return text.split('|').map(s => s.trim()).filter(Boolean).join(' ');
+}
+
 /** 逐行扫描，产出：模块标记 / 材料块 / 题目块 */
 function scanBlocks(text) {
   const lines = preSplitText(text).split('\n');
@@ -646,7 +708,18 @@ function scanBlocks(text) {
     pendingMaterial = null;
   };
 
-  for (const rawLine of lines) {
+  /** 选项表格回挂：只补最近一道选项未闭合的题，选项已齐则放弃（交给材料逻辑） */
+  const attachOptionsToLast = optLines => {
+    const last = items[items.length - 1];
+    if (!last || last.type !== 'question') return false;
+    const parsed = splitStemAndOptions(last.body);
+    if (parsed.options.length === 4 && parsed.options.every(o => o.text.trim())) return false;
+    last.body += `\n${optLines.join('\n')}`;
+    return true;
+  };
+
+  for (let li = 0; li < lines.length; li++) {
+    const rawLine = lines[li];
     const line = rawLine.trim();
     if (!line) {
       if (pendingMaterial) pendingMaterial.lines.push('');
@@ -674,6 +747,26 @@ function scanBlocks(text) {
       const tableImages = Number(tm[1]);
       const tableRows = Number(tm[2]);
       if (tableRows === 0 && tableImages === 0) continue;
+      // 选项表格：4 个选项被排成表格（含双词选项各占一格的 2×4 版式），
+      // 还原成 A→D 选项行回挂上一题；否则整块会被当成下一题的材料。
+      if (!pendingMaterial && tableImages === 0) {
+        const closeIdx = lines.findIndex((l, i) => i > li && l.trim() === TABLE_CLOSE);
+        if (closeIdx > li) {
+          const bodyStart = li + 1;
+          const bodyLines = lines.slice(bodyStart, closeIdx).map(l => l.trim());
+          const parsed = parseOptionTable(bodyLines);
+          if (parsed && attachOptionsToLast(parsed.lines)) {
+            // 表格里可能还排着下一题：只消费本选项块，其余行还原后继续扫描
+            const leftover = bodyLines
+              .slice(parsed.consumed + 1)
+              .filter(Boolean)
+              .map(depipeOptionRow);
+            lines.splice(bodyStart, closeIdx - bodyStart + 1, ...leftover);
+            li = bodyStart - 1;
+            continue;
+          }
+        }
+      }
       if (!pendingMaterial && (currentModule === 'ziliao' || currentModule === 'yanyu')) {
         startMaterial(null, null);
       }
@@ -790,8 +883,12 @@ function scanBlocks(text) {
       && /^\d{3,4}\s*[\u4e00-\u9fa5]/.test(qBody);
     const decimalAfterDot = !!qm && /^[.．]$/.test(qm[2]) && /^\d/.test(qBody)
       && !dateAfterDot && !sequenceAfterDot && !numericSeriesAfterDot && !longIntegerAfterDot;
+    // 「80、90 年代，他在世界流行乐坛的地位 ……」：跨年代表述不是题目 80，属上一题题干续行
+    const decadeSpanAfterMark = !!qm
+      && /^\d{1,3}\s*(?:年代|年)/.test(qBody)
+      && qnum > lastNum + 1;
     // 题号严格递增，避免把解析里的数字/材料编号当成重复题号
-    if (qm && qnum <= 200 && qnum > lastNum && !decimalAfterDot && !/^\d{1,3}\s*[:：]\s*\d/.test(line)) {
+    if (qm && qnum <= 200 && qnum > lastNum && !decimalAfterDot && !decadeSpanAfterMark && !/^\d{1,3}\s*[:：]\s*\d/.test(line)) {
       flushMaterial();
       items.push({ type: 'question', num: qnum, module: currentModule, body: stripChoiceType(qBody) });
       lastNum = qnum;

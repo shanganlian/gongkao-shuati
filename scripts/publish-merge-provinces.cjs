@@ -15,6 +15,8 @@
  * 用法：
  *   node scripts/publish-merge-provinces.cjs --province 湖南 --drop-uncovered
  *   node scripts/publish-merge-provinces.cjs --province 湖南 --apply --drop-uncovered
+ *   node scripts/publish-merge-provinces.cjs --province 天津 --apply --allow-id-overwrite
+ *     （重转已发布省份：ID 前后一致，仅内容覆盖；仅放行「新旧 ID 交集」这一项阻塞）
  *   node scripts/publish-merge-provinces.cjs --province 湖北 --apply --drop-uncovered
  *   node scripts/publish-merge-provinces.cjs --province 江西 --apply --drop-uncovered
  *   node scripts/publish-merge-provinces.cjs --province 海南 --drop-uncovered
@@ -82,6 +84,9 @@ const DST = path.join(ROOT, 'public', 'data', 'questions');
 const REPORT = path.join(ROOT, 'guokao-reports', `publish-${SLUG}-plan.md`);
 const APPLY = ARGV.includes('--apply');
 const DROP_UNCOVERED = ARGV.includes('--drop-uncovered');
+// 重转已发布省份时新旧 ID 本应完全一致（内容替换、ID 不变），
+// 显式开关只放行「新旧 ID 交集」这一项，其余检查（越界/守恒/索引）保持生效。
+const ALLOW_ID_OVERWRITE = ARGV.includes('--allow-id-overwrite');
 
 /** 主观题模块：允许无选项 */
 const SUBJECTIVE = new Set(['shenlun', 'gongji']);
@@ -915,7 +920,9 @@ function main() {
   if (plan.changedDupes.length) blockers.push(`变更清单重复 ${plan.changedDupes.length} 个文件`);
   if (plan.dupInSource.length) blockers.push(`新分片内部重复 ID ${plan.dupInSource.length}`);
   if (plan.collisions.length) blockers.push(`与未触碰分片 ID 冲突 ${plan.collisions.length}`);
-  if (plan.oldNewOverlap.length) blockers.push(`新旧${PROVINCE} ID 交集 ${plan.oldNewOverlap.length}`);
+  if (plan.oldNewOverlap.length && !ALLOW_ID_OVERWRITE) {
+    blockers.push(`新旧${PROVINCE} ID 交集 ${plan.oldNewOverlap.length}`);
+  }
   if (plan.keptNewOverlap.length) blockers.push(`新 ID 与保留主观题 ID 交集 ${plan.keptNewOverlap.length}`);
   if (!projected.indexOk) blockers.push('index 存在悬空引用');
   if (!projected.indexExact) blockers.push('index 未精确覆盖分片');
@@ -953,6 +960,11 @@ function main() {
   if (plan.badOldIds.length) {
     console.log(
       `  旧分片混入外省 ID ${plan.badOldIds.length} 个（随替换 / 删除消失，不阻塞；保留件 0 个）`
+    );
+  }
+  if (plan.oldNewOverlap.length && ALLOW_ID_OVERWRITE) {
+    console.log(
+      `  --allow-id-overwrite：放行新旧${PROVINCE} ID 交集 ${plan.oldNewOverlap.length}（ID 不变、内容覆盖）`
     );
   }
   const expectedTotal = plan.beforeTotal - plan.oldTotal + EXPECTED_SRC_TOTAL;
