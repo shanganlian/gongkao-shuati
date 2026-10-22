@@ -591,3 +591,74 @@ WARN 412 构成：`W01` 题干过短 121、`W02` 缺少解析 135（全部是 20
 - **若继续做数据库**：先调用 `supabase_get_project` 确认连接，再用 `supabase_apply_migration` 应用 `create_knowledge_progress.sql`。
 - **若继续做 AI**：在 Netlify 配置 `GEMINI_API_KEY` 环境变量，并将 `server.ts` 改造为 Netlify Serverless Functions。
 - 日常开发推送至 GitHub `main` 分支后，Netlify 会自动构建部署。
+
+## 4. 2026-10-22 省考 v2：五省上线 + 重复卷 ID + 五省修复轮
+
+### 4.0 远端基线核对
+
+- 昨晚提交 `3868fc7 add provincial shenlun v2 draft` **已在 GitHub 远端**（本次 push 前 `origin/main` 即该提交）。
+- 本轮 push 后远端 HEAD：`43878a1 publish shaanxi ningxia yunnan gansu hebei`。
+
+### 4.1 五省 publish（陕西 / 宁夏 / 云南 / 甘肃 / 河北，已 apply + build + push）
+
+- 逐省执行 `node scripts/publish-merge-provinces.cjs --province <省> --apply --drop-uncovered`，五省均 `EXIT=0`、阻塞项 0。
+- 线上规模：**330 分片 / 41,384 题 → 365 分片 / 49,467 题**，`index` 165 keys。
+- 增量：陕西 2,355（旧分片 −802）、宁夏 1,972（−446）、云南 1,360、甘肃 1,316、河北 2,328（首次上线，无旧河北分片）。
+- 加载校验 `node scripts/verify-question-loading.cjs`：`EXIT=0`，**47,943 题 / 可渲染 46,979 / 跳过率 2.011%**。
+- 构建 `vite build`：`EXIT=0`，1,728 模块 / 2.85s。
+- 提交 `43878a1`（75 files），普通 `git push` 6.6s 成功：`3868fc7..43878a1`。
+- 报告：`guokao-reports/publish-{shaanxi,ningxia,yunnan,gansu,hebei}-plan.md`（均为 APPLIED）。
+
+### 4.2 同年重复卷 ID 修复（海南 / 山西 / 北京）
+
+- `scripts/overnight-provinces.cjs`：`pairDocs` 按 `${year}|${label}` 分组，第二套起 `dupIndex>0`；`buildPaperQuestions` 的正题与占位题 ID 统一追加 `-2` / `-3` 后缀，卷别 label 不变。
+- 重转结果：海南 2,219 / 2,219 唯一 ID（120 个 `-2`）、山西 2,431 / 2,431（135）、北京 2,597 / 2,597（135），`dupGroups=0`。
+- 三份 dry-run 重出（`EXIT=0`、**阻塞项：无**、`dupInSource=0`）：
+  - 海南：源 13 分片 / 2,219 题（旧 6 / 699）→ 372 分片 / 50,987 题；
+  - 山西：源 14 分片 / 2,431 题（旧 7 / 714）→ 372 分片 / 51,184 题；
+  - 北京：源 15 分片 / 2,597 题（旧 8 / 759）→ 372 分片 / 51,305 题。
+- 报告：`guokao-reports/publish-{hainan,shanxi,beijing}-plan.md`。待审核后再 apply。
+
+### 4.3 五省诊断修复（逐省重转，未 publish）
+
+有效覆盖 = `withAnswer ÷ (questionCount − placeholderCount)`。
+
+| 省 | 根因 | 修复 | 有效覆盖 |
+| --- | --- | --- | --- |
+| 上海 | 多选 `正确答案：BC/ABCD` 被单字母规则截断 | 多选优先模式 + `故正确答案为X{1,4}` + `【N—正确答案X】` 标记 + 同 label 多答案按“纯答案册 → 相似度”消歧 | 3,615/4,088 **88.4% → 4,020/4,088 98.3%** |
+| 深圳 | 2025 速查表 `1、D` 在 HTML 文本层压成一行；2020 行测1/2/思维能力同 label 串答案 | 速查逐行 + 连续 token 解析；速查覆盖 ≥80% 时以表为准；新增 行测1 / 行测2 / 思维能力 卷别 | 1,583/1,671 **94.7% → 1,639/1,671 98.1%**；2025 答案 2 → 20 |
+| 黑龙江 | 2009/2015/2018/2019/2021 多套卷同 label 串答案；2019 `2 本题…` 无标点合并题块 | 新增 省直/公检法/边远/边境/公安/B卷 卷别；无标点题号仅在“题号==期望值”时接受；`【N—正确答案X】` 标记 | 3,056/3,474 **88.0% → 3,321/3,474 95.6%**；2019 省直 1→126、公检法 1→83；2024 1→117 |
+| 天津 | 2025 源册仅 5KB、只有 13 题答案（有效 114 题）；2015 0322/0919 同 label | 未标注多候选按文件名相似度消歧 | 1,973/2,119 **93.1% → 1,976/2,119 93.3%**；2025 仍 13/114（待源册补录） |
+| 广东 | 2004/05 上下半年、2013 一卷/三卷、2019/20 选调同 label 串答案；2008 裸字母答案 | 新增 上半年/下半年/一卷/三卷/思维能力/综合行政/选调 卷别；题本目录排除申论；裸字母 `D毋庸置疑` 规则（排除 `B项…`） | 3,075/3,350 **91.8% → 3,129/3,350 93.4%**（旧口径含误收申论卷为 90.4%） |
+
+- 说明：广东 2021 县级 `q=9` 是源 docx 仅约 2KB（题本截断），不是解析规则问题。
+- 修复仅写 `public/data/questions-v2-provincial/<省>/` 与 `guokao-reports/省考-<省>-转换/`，**未写线上 `public/data/questions/`**。
+
+### 4.4 剩余与下一步
+
+- **P2 源册补录**：天津 2025（缺约 101 题答案）、上海 2007（缺 13）、广东 2008（缺 24）、黑龙江 2010（缺 53）、广东 2021 县级（题本截断）。
+- 海南 / 山西 / 北京：三份 dry-run 已无阻塞，待审核后按五省流程 apply → `verify-question-loading` → `build` → commit → push。
+- 上海 / 深圳 / 黑龙江 / 天津 / 广东：修复版 v2 已重转，需先重出 publish dry-run 再决定 apply。
+
+### 4.5 本机锦囊
+
+- **push 首选 curloptResolve**（直连被重置 / 超时 / `Empty reply from server` 时）：
+
+  ```powershell
+  git -c http.version=HTTP/1.1 `
+      -c http.curloptResolve=github.com:443:20.205.243.165 `
+      -c http.curloptResolve=api.github.com:443:20.205.243.165 `
+      push origin main
+  ```
+
+- 备选 IP（逐个替换 `20.205.243.165` 重试）：`20.205.243.165`、`20.205.243.168`、`140.82.112.3`、`140.82.114.3`。
+- 自动化脚本：`node _push_with_timeout.cjs`（先普通 push；失败后逐个 IP 走 curloptResolve，每次 60s）。
+- 推送前后核对：
+
+  ```powershell
+  git log origin/main -1 --oneline
+  git ls-remote origin main
+  ```
+
+- 2026-10-22 实测：普通 push 6.6s 成功（`3868fc7..43878a1`）；上述 curloptResolve 命令作为首选备用口径，若普通 push 失败直接改用。
+

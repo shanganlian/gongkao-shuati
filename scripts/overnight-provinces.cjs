@@ -30,12 +30,13 @@ const fs = require('node:fs');
 const path = require('node:path');
 const mammoth = require('mammoth');
 const { pathToFileURL } = require('node:url');
+const { scanProvinces } = require('./audit-provincial-semantics.cjs');
 
 const ROOT = path.resolve(__dirname, '..');
 const SRC_ROOT = path.join(ROOT, 'source-data', '34省考真题合集');
 const OUT_ROOT = path.join(ROOT, 'public', 'data', 'questions-v2-provincial');
 const REPORT_ROOT = path.join(ROOT, 'guokao-reports');
-const SUMMARY_PATH = path.join(REPORT_ROOT, 'overnight-summary.md');
+const SUMMARY_PATH = path.join(REPORT_ROOT, 'overnight-all-summary.md');
 const LOG_PATH = path.join(REPORT_ROOT, 'overnight-run.log');
 
 const MODULE_ORDER = ['changshi', 'yanyu', 'shuliang', 'panduan', 'ziliao'];
@@ -54,7 +55,7 @@ const DIFFICULTY = {
   ziliao: '中等',
 };
 
-const PROVINCES = [
+const BUILTIN_PROVINCES = [
   {
     province: '浙江',
     slug: 'zhejiang',
@@ -111,6 +112,110 @@ const PROVINCES = [
   },
 ];
 
+const ONLINE_PROVINCES = new Set(BUILTIN_PROVINCES.map(cfg => cfg.province));
+
+const PROVINCE_SLUGS = {
+  上海: 'shanghai',
+  云南: 'yunnan',
+  内蒙古: 'neimenggu',
+  北京: 'beijing',
+  吉林: 'jilin',
+  四川: 'sichuan',
+  天津: 'tianjin',
+  宁夏: 'ningxia',
+  安徽: 'anhui',
+  山东: 'shandong',
+  山西: 'shanxi',
+  广东: 'guangdong',
+  广州: 'guangzhou',
+  广西: 'guangxi',
+  新疆: 'xinjiang',
+  江苏: 'jiangsu',
+  江西: 'jiangxi',
+  河北: 'hebei',
+  河南: 'henan',
+  浙江: 'zhejiang',
+  海南: 'hainan',
+  深圳: 'shenzhen',
+  湖北: 'hubei',
+  湖南: 'hunan',
+  甘肃: 'gansu',
+  福建: 'fujian',
+  西藏: 'xizang',
+  贵州: 'guizhou',
+  辽宁: 'liaoning',
+  重庆: 'chongqing',
+  陕西: 'shaanxi',
+  青海: 'qinghai',
+  黑龙江: 'heilongjiang',
+};
+
+function provinceFromDirName(dirName) {
+  return String(dirName)
+    .replace(/--+$/, '')
+    .replace(/(?:省)?公务员考试真题$/, '')
+    .replace(/公务员真题$/, '')
+    .trim();
+}
+
+function findDocxSubdir(parent) {
+  if (!parent || !fs.existsSync(parent)) return '';
+  const dirs = fs
+    .readdirSync(parent, { withFileTypes: true })
+    .filter(entry => entry.isDirectory())
+    .map(entry => entry.name);
+  const preferred = ['word', '精编word版本']
+    .map(name => dirs.find(dir => dir.toLowerCase() === name.toLowerCase()))
+    .find(Boolean);
+  if (preferred) return path.join(parent, preferred);
+  for (const dir of dirs) {
+    const full = path.join(parent, dir);
+    const hasDocx = fs
+      .readdirSync(full)
+      .some(file => /\.docx$/i.test(file) && !/\.bak\.docx$/i.test(file));
+    if (hasDocx) return full;
+  }
+  return '';
+}
+
+function discoverProvinceConfigs() {
+  if (!fs.existsSync(SRC_ROOT)) return BUILTIN_PROVINCES.slice();
+  const builtins = new Map(BUILTIN_PROVINCES.map(cfg => [
+    cfg.province,
+    { ...cfg, online: true },
+  ]));
+  const discovered = [];
+  const sourceDirs = fs
+    .readdirSync(SRC_ROOT, { withFileTypes: true })
+    .filter(entry => entry.isDirectory())
+    .map(entry => entry.name)
+    .sort((a, b) => a.localeCompare(b, 'zh-CN'));
+
+  for (const dirName of sourceDirs) {
+    const province = provinceFromDirName(dirName);
+    if (!province || !PROVINCE_SLUGS[province]) continue;
+    if (builtins.has(province)) {
+      discovered.push(builtins.get(province));
+      continue;
+    }
+    const sourceDir = path.join(SRC_ROOT, dirName);
+    const questionBase = path.join(sourceDir, '3-行测', '1-题本');
+    const answerBase = path.join(sourceDir, '3-行测', '2-答案及解析');
+    discovered.push({
+      province,
+      slug: PROVINCE_SLUGS[province],
+      sourceDir,
+      questionDir: findDocxSubdir(questionBase) || path.join(questionBase, 'word'),
+      answerDir: findDocxSubdir(answerBase) || path.join(answerBase, 'word'),
+      reportDir: path.join(REPORT_ROOT, `省考-${province}-转换`),
+      online: false,
+    });
+  }
+  return discovered.map((cfg, index) => ({ ...cfg, order: index + 1 }));
+}
+
+const PROVINCES = discoverProvinceConfigs();
+
 /* ------------------------------------------------------------------ */
 /* 参数与日志                                                          */
 /* ------------------------------------------------------------------ */
@@ -130,10 +235,12 @@ function readArgs(argv) {
     only: get('--only', ''),
     dryRun: has('--dry-run'),
     probe: has('--probe'),
+    summaryOnly: has('--summary-only'),
     verbose: has('--verbose'),
     strict: has('--strict'),
     noReports: has('--no-reports'),
     reportsOnly: has('--reports-only'),
+    reconvertOnline: has('--reconvert-online'),
     keepSummary: has('--keep-summary'),
     sampleInclude: get('--sample-include', '').split(/[,，]/).map(s => s.trim()).filter(Boolean),
   };
@@ -348,12 +455,39 @@ function parsePaperLabel(name) {
   const s = String(name);
   const ab = s.match(/[（(]?\s*([ABC])\s*(类|卷)\s*[）)]?/i);
   if (ab) return `${ab[1].toUpperCase()}${ab[2]}`;
+
+  // 括号内单字母卷别（如黑龙江「（B）」）
+  const single = s.match(/[（(]\s*([ABC])\s*[）)]/i);
+  if (single) return `${single[1].toUpperCase()}卷`;
+
+  if (/上半年/.test(s)) return '上半年';
+  if (/下半年/.test(s)) return '下半年';
   if (/春季/.test(s)) return '春季';
   if (/秋季/.test(s)) return '秋季';
   if (/乡镇/.test(s)) return '乡镇';
   if (/县乡|县级/.test(s)) return '县乡';
+
+  // 同年多套卷的卷别：必须分开 label，否则同 ID 覆盖 / 答案串卷
+  if (/思维能力/.test(s)) return '思维能力';
+  if (/综合行政/.test(s)) return '综合行政';
   if (/选调/.test(s)) return '选调';
+  if (/公检法/.test(s)) return '公检法';
+  if (/省直/.test(s)) return '省直';
   if (/行政执法|执法类|执法卷/.test(s)) return '行政执法';
+  if (/边境/.test(s)) return '边境';
+  if (/边远/.test(s)) return '边远';
+  if (/公安机关|公安专项|人民警察专项/.test(s)) return '公安';
+  if (/应届/.test(s)) return '应届';
+  if (/社招/.test(s)) return '社招';
+
+  // 深圳 2020：行测1 / 行测2 与《思维能力测验》为同年三套卷
+  const xingce = s.match(/行测\s*([12])(?!\d)/);
+  if (xingce) return `行测${xingce[1]}`;
+
+  // 广东 2013：一卷 / 三卷
+  const cnVolume = s.match(/([一二三四五])\s*卷/);
+  if (cnVolume) return `${cnVolume[1]}卷`;
+
   // 同年可能有多场联考（如福建 2011 的 424 / 917）。只用「联考」会把两套卷
   // 压成同一个 label，进而产生同 ID 覆盖；这里把卷别日期写进 label。
   const batch = s.match(/(?:^|[^\d])(\d{3})\s*(?:公务员)?联考/);
@@ -540,6 +674,9 @@ function normalizeAnswerText(raw) {
   text = text.replace(/([。！？；])\s+(\d{1,3})\s*(?=\n|$)/g, '$1\n$2');
   // 2025 等浙江答案把下一题标记黏在上一句句末（“故正确答案为 D。 6.参考答案：D”）
   text = text.replace(/([^\n])\s*(\d{1,3})\s*[.、．]\s*(参考答案|答案|解析|详解)/g, '$1\n$2.$3');
+  // 黑龙江 2019：部分题号后没有标点（“2 本题考查……”），补成标准标记，
+  // 否则逐行块会把相邻题目合并成一块，答案只剩 1 条。
+  text = text.replace(/^(\d{1,3})[ \t]+(?=(?:本题|答案|解析|参考|【))/gm, '$1.');
   text = repairBareAnswerMarkers(text);
   return text.trim();
 }
@@ -549,10 +686,14 @@ function normalizeAnswerText(raw) {
 /* ------------------------------------------------------------------ */
 
 const ANSWER_PATTERNS = [
+  // 多选题（上海等）：正确答案：BC / 参考答案：ABCD，必须先于单字母规则匹配
+  /正\s*确\s*答\s*案\s*[:：]\s*([A-D]{1,4})(?![A-Za-z])/i,
+  /参\s*考\s*答\s*案\s*[:：]\s*([A-D]{1,4})(?![A-Za-z])/i,
+  /答\s*案\s*[:：]\s*([A-D]{1,4})(?![A-Za-z])/i,
   /【\s*答\s*案\s*】\s*[:：]?\s*([A-D]{1,4})(?![A-Za-z])/i,
   /答\s*案\s*[】\]]\s*[:：]?\s*([A-D]{1,4})(?![A-Za-z])/i,
-  /故\s*正\s*确\s*答\s*案\s*为\s*[:：]?\s*([A-D])/i,
-  /故\s*正\s*确\s*答\s*案\s*选\s*[:：]?\s*([A-D])/i,
+  /故\s*正\s*确\s*答\s*案\s*为\s*[:：]?\s*([A-D]{1,4})(?![A-Za-z])/i,
+  /故\s*正\s*确\s*答\s*案\s*选\s*[:：]?\s*([A-D]{1,4})(?![A-Za-z])/i,
   /故\s*正\s*确\s*选\s*项\s*(?:应)?\s*(?:为|是)\s*[:：]?\s*([A-D])(?![A-Za-z])/i,
   /正\s*确\s*选\s*项\s*(?:应)?\s*(?:为|是)\s*[:：]?\s*([A-D])(?![A-Za-z])/i,
   /故\s*答\s*案\s*选\s*([A-D])/i,
@@ -588,6 +729,13 @@ function extractAnswer(text) {
   const leadExplanation = body.match(/^(?:【|［|\[)\s*解\s*析\s*(?:】|］|\])?\s*[:：]?\s*([A-D]{1,4})(?![A-Za-z\u4e00-\u9fa5])/);
   if (leadExplanation) return normalizeChoiceAnswer(leadExplanation[1]);
 
+  // 广东 2008 等老卷：答案块直接以字母开头且无分隔（“D毋庸置疑……”）。
+  // 排除“B项……”这类选项分析句，避免把解析正文误当答案。
+  const bareLead = body.match(/^([A-D])(?=[\u4e00-\u9fa5])/);
+  if (bareLead && !new RegExp(`^${bareLead[1]}\\s*[项、.．]`).test(body)) {
+    return normalizeChoiceAnswer(bareLead[1]);
+  }
+
   for (const re of ANSWER_PATTERNS) {
     const m = body.match(re);
     if (m) return normalizeChoiceAnswer(m[1]);
@@ -600,7 +748,8 @@ function extractAnswer(text) {
 }
 
 const ANSWER_MARKER_DEFS = [
-  { re: /【\s*解析\s*(\d{1,3})\s*[—\-－~～至]\s*正确答案\s*([A-D])\s*】/g, priority: 5, answer: 2, kind: '解析N—正确答案X' },
+  { re: /【\s*(\d{1,3})\s*[—\-－~～至]\s*正确答案\s*([A-D]{1,4})\s*】/g, priority: 5, answer: 2, kind: 'N—正确答案X' },
+  { re: /【\s*解析\s*(\d{1,3})\s*[—\-－~～至]\s*正确答案\s*([A-D]{1,4})\s*】/g, priority: 5, answer: 2, kind: '解析N—正确答案X' },
   { re: /【\s*解析\s*(\d{1,3})\s*】/g, priority: 4, kind: '解析N' },
   { re: /【\s*(\d{1,3})\s*】\s*解析/g, priority: 4, kind: 'N解析' },
   { re: /第\s*[【\[]?\s*(\d{1,3})\s*[】\]]?\s*题/g, priority: 3, kind: '第N题' },
@@ -704,6 +853,19 @@ function parseSequentialBlocks(text, maxNum) {
     }
     const m = line.match(/^(\d{1,3})\s*[、.．:：]\s*(.*)$/);
     const bare = !m && line.match(/^(\d{1,3})$/);
+    // 无标点题号（“21 第一空……”）：只在题号正好等于期望值时接受，
+    // 避免把解析正文里的“48 小时”“1 份馒头”误判成新题。
+    const spaced = !m && !bare && line.match(/^[ \t]*(\d{1,3})[ \t]+([\u4e00-\u9fa5].*)$/);
+    if (spaced) {
+      const num = Number(spaced[1]);
+      if (expected !== null && num === expected) {
+        flush();
+        current = num;
+        buf = [spaced[2]];
+        expected = num + 1;
+        continue;
+      }
+    }
     if (m || bare) {
       const num = Number((m || bare)[1]);
       const rest = m ? m[2] : '';
@@ -757,6 +919,26 @@ function parseQuickKeys(text, maxNum) {
       else addRange(m[2], m[3], m[1]);
     }
   }
+
+  // 深圳 2025 等：表格式速查表逐行给答案（“1、D”“12.D”），整行只有题号+字母
+  const linePattern = /(?:^|\n)\s*(\d{1,3})\s*[、.．:：]\s*([A-D])\s*(?=\n|$)/g;
+  let lm;
+  while ((lm = linePattern.exec(head)) !== null) {
+    const num = Number(lm[1]);
+    if (maxNum && num > maxNum + 5) continue;
+    if (!map.has(num)) map.set(num, lm[2]);
+  }
+
+  // Word 表格在 HTML 文本层可能被压成一行（“1、D2、D3、A…”），
+  // 此时按 token 连续扫描；排除“3、A项……”这类解析正文。
+  const inlinePattern = /(\d{1,3})\s*[、.．:：]\s*([A-D])(?![A-Za-z\u4e00-\u9fa5])/g;
+  let im;
+  while ((im = inlinePattern.exec(head)) !== null) {
+    const num = Number(im[1]);
+    if (maxNum && num > maxNum + 5) continue;
+    if (!map.has(num)) map.set(num, im[2]);
+  }
+
   return map;
 }
 
@@ -807,6 +989,16 @@ function parseAnswerDocument(answerText, questions) {
     if (validNums.has(num) && !result.answers.get(num)) result.answers.set(num, answer);
   }
 
+  // 速查表若完整覆盖本卷（如深圳 2025 的 1–100 表），以速查表为准：
+  // 解析正文的题号块在 HTML 文本层可能错位，个别题会串到邻题答案。
+  const quickCovered = [...result.quickAnswers.keys()].filter(n => validNums.has(n)).length;
+  if (questions.length && quickCovered / questions.length >= 0.8) {
+    for (const num of validNums) {
+      const quick = result.quickAnswers.get(num);
+      if (quick) result.answers.set(num, quick);
+    }
+  }
+
   const withBody = [...result.blocks.values()].filter(b => b.explanation.length >= 10).length;
   result.answerOnlySource = result.blocks.size > 0 && withBody / result.blocks.size < 0.35;
   return result;
@@ -847,7 +1039,7 @@ function buildPaperQuestions(rawText, answerText, meta, sourceFile, answerFile) 
   for (const q of questions) {
     q.category = 'provincial';
     q.province = meta.province;
-    q.id = `prov-${meta.slug}-${meta.year}-${labelSlug(meta.label)}-${q.num}`;
+    q.id = `prov-${meta.slug}-${meta.year}-${labelSlug(meta.label)}-${q.num}${meta.idSuffix || ''}`;
     q.source = `${meta.year}年${meta.province}公务员考试《行测》${labelText(meta.label)}第${q.num}题`;
     const block = parsedAnswers.blocks.get(q.num);
     q.answer = parsedAnswers.answers.get(q.num) || '';
@@ -873,7 +1065,7 @@ function buildPaperQuestions(rawText, answerText, meta, sourceFile, answerFile) 
     const next = questions.filter(q => q.num > num).sort((a, b) => a.num - b.num)[0];
     const module = prev?.module || next?.module || 'changshi';
     const placeholder = {
-      id: `prov-${meta.slug}-${meta.year}-${labelSlug(meta.label)}-${num}`,
+      id: `prov-${meta.slug}-${meta.year}-${labelSlug(meta.label)}-${num}${meta.idSuffix || ''}`,
       category: 'provincial',
       province: meta.province,
       module,
@@ -958,8 +1150,30 @@ function isAnswerName(name) {
   return /答案|解析|详解|参考答案/.test(name);
 }
 
+function fileSimilarity(questionFile, answerFile) {
+  const norm = p => path.basename(p, path.extname(p)).replace(/[（）()《》【】\s]/g, '');
+  const grams = s => {
+    const m = new Map();
+    for (let i = 0; i + 1 < s.length; i++) {
+      const g = s.slice(i, i + 2);
+      m.set(g, (m.get(g) || 0) + 1);
+    }
+    return m;
+  };
+  const a = norm(questionFile);
+  const b = norm(answerFile);
+  const ga = grams(a);
+  const gb = grams(b);
+  let hit = 0;
+  for (const [g, n] of ga) hit += Math.min(n, gb.get(g) || 0);
+  return hit / Math.max(1, Math.min(a.length - 1, b.length - 1));
+}
+
 function pairDocs(cfg) {
-  const qFiles = listDocx(cfg.questionDir).filter(f => !isAnswerName(f));
+  const qFiles = listDocx(cfg.questionDir)
+    .filter(f => !isAnswerName(f))
+    // 题本目录里偶有申论/专业科目混入，不能按行测解析
+    .filter(f => !/申论/.test(f));
   const aFiles = listDocx(cfg.answerDir).filter(f => isAnswerName(f));
   const answersByYear = new Map();
   for (const file of aFiles) {
@@ -976,11 +1190,69 @@ function pairDocs(cfg) {
     const label = parsePaperLabel(qFile);
     const family = labelFamily(label);
     const candidates = answersByYear.get(year) || [];
-    let answerFile = candidates.find(f => parsePaperLabel(f) === label);
-    if (!answerFile) answerFile = candidates.find(f => labelFamily(parsePaperLabel(f)) === family);
-    if (!answerFile && candidates.length === 1) answerFile = candidates[0];
-    if (!answerFile && candidates.length > 1) {
-      answerFile = candidates.find(f => !/[ABC]\s*(类|卷)/i.test(path.basename(f)));
+    let answerFile = '';
+    let pairNote = 'answer-not-found';
+    if (candidates.length) {
+      const tagged = candidates.map(f => ({ file: f, label: parsePaperLabel(f) }));
+      const exact = tagged.filter(x => x.label === label);
+      if (exact.length === 1) {
+        answerFile = exact[0].file;
+        pairNote = 'same-year-and-label';
+      } else if (exact.length > 1) {
+        // 同 label 多份答案：优先“纯答案册”（文件名不含「试题」），再按相似度；
+        // 仍分不出就留空，绝不默认取第一份。
+        const pure = exact.filter(x => !/试题/.test(x.file));
+        if (pure.length === 1) {
+          answerFile = pure[0].file;
+          pairNote = 'same-year-answer-book';
+        } else {
+          const ranked = exact
+            .map(x => ({ ...x, score: fileSimilarity(qFile, x.file) }))
+            .sort((a, b) => b.score - a.score);
+          if (ranked[0].score > ranked[1].score + 1e-9) {
+            answerFile = ranked[0].file;
+            pairNote = 'same-year-and-label-similarity';
+          } else {
+            pairNote = 'ambiguous-label';
+          }
+        }
+      } else if (label === '未标注') {
+        // 未标注题本只能配未标注答案；多个候选时按文件名相似度取唯一最高分
+        const unlabeled = tagged.filter(x => x.label === '未标注');
+        if (unlabeled.length === 1) {
+          answerFile = unlabeled[0].file;
+          pairNote = 'same-year-unlabeled';
+        } else if (unlabeled.length > 1) {
+          const ranked = unlabeled
+            .map(x => ({ ...x, score: fileSimilarity(qFile, x.file) }))
+            .sort((a, b) => b.score - a.score);
+          if (ranked[0].score > ranked[1].score + 1e-9) {
+            answerFile = ranked[0].file;
+            pairNote = 'same-year-unlabeled-similarity';
+          } else {
+            pairNote = 'ambiguous-label';
+          }
+        } else if (tagged.length === 1) {
+          answerFile = tagged[0].file;
+          pairNote = 'same-year-only-one';
+        } else {
+          pairNote = 'ambiguous-label';
+        }
+      } else if (/^[ABC]/.test(label)) {
+        // A卷 / B类 等同一 family 的互通（仅当唯一）
+        const sameFamily = tagged.filter(x => labelFamily(x.label) === family);
+        if (sameFamily.length === 1) {
+          answerFile = sameFamily[0].file;
+          pairNote = 'same-year-family';
+        } else {
+          pairNote = 'ambiguous-label';
+        }
+      } else if (tagged.length === 1) {
+        answerFile = tagged[0].file;
+        pairNote = 'same-year-only-one';
+      } else {
+        pairNote = 'ambiguous-label';
+      }
     }
     pairs.push({
       year,
@@ -989,11 +1261,28 @@ function pairDocs(cfg) {
       answerFile: answerFile ? path.join(cfg.answerDir, answerFile) : '',
       questionName: qFile,
       answerName: answerFile || '',
-      pairNote: answerFile ? 'same-year-and-label' : 'answer-not-found',
+      pairNote,
     });
   }
 
   pairs.sort((a, b) => a.year - b.year || String(a.label).localeCompare(String(b.label), 'zh-CN'));
+
+  // 同年同卷别多套试卷（如海南 2009 两份 913 联考、北京 应届/社招）会生成相同 ID。
+  // 按文件名顺序编号，第二套起在 ID 末尾追加 -2 / -3；卷别 label 保持不变。
+  const byYearLabel = new Map();
+  for (const pair of pairs) {
+    const key = `${pair.year}|${pair.label}`;
+    const list = byYearLabel.get(key) || [];
+    list.push(pair);
+    byYearLabel.set(key, list);
+  }
+  for (const list of byYearLabel.values()) {
+    list.forEach((pair, index) => {
+      pair.dupIndex = index;
+      pair.dupTotal = list.length;
+    });
+  }
+
   return pairs;
 }
 
@@ -1395,9 +1684,53 @@ function reconcileAggWithQuestions(agg, questions) {
   agg.questionsList = questions;
 }
 
-function writeProvinceReports(cfg, records, agg, startedAt) {
+function provinceResultFromOutput(cfg) {
+  const questions = readExistingQuestions(cfg.province);
+  const agg = aggregateProvince(cfg, []);
+  if (!questions) {
+    return { cfg, records: [], agg, status: 'failed' };
+  }
+  reconcileAggWithQuestions(agg, questions);
+  const statsFile = path.join(cfg.reportDir, 'paper-stats.json');
+  if (fs.existsSync(statsFile)) {
+    try {
+      const stats = JSON.parse(fs.readFileSync(statsFile, 'utf8'));
+      const saved = stats.aggregate || {};
+      for (const key of [
+        'papers', 'okPapers', 'failedPapers', 'errors', 'warnings',
+        'missingAnswerPapers', 'answerOnlyPapers',
+      ]) {
+        if (Number.isFinite(saved[key])) agg[key] = saved[key];
+      }
+      if (saved.moduleCounts) agg.moduleCounts = saved.moduleCounts;
+      if (saved.issueCodes) agg.issueCodes = saved.issueCodes;
+    } catch {
+      // 汇总只读：报告损坏时保留 questions.json 的基础统计。
+    }
+  }
+  return {
+    cfg,
+    records: [],
+    agg,
+    status: agg.failedPapers > 0 ? 'partial' : 'ok',
+  };
+}
+
+function readRunTimesFromLog() {
+  if (!fs.existsSync(LOG_PATH)) return {};
+  try {
+    const text = fs.readFileSync(LOG_PATH, 'utf8');
+    const start = text.match(/\]\s*开始：(\d{4}-\d{2}-\d{2} \d{2}:\d{2}:\d{2})/);
+    const end = text.match(/\]\s*结束：(\d{4}-\d{2}-\d{2} \d{2}:\d{2}:\d{2})/);
+    return { start: start?.[1], end: end?.[1] };
+  } catch {
+    return {};
+  }
+}
+
+function writeProvinceReports(cfg, records, agg, startedAt, reportsOnly) {
   ensureDir(cfg.reportDir);
-  const existingQuestions = ARGS.reportsOnly ? readExistingQuestions(cfg.province) : null;
+  const existingQuestions = reportsOnly ? readExistingQuestions(cfg.province) : null;
   if (existingQuestions) {
     reconcileAggWithQuestions(agg, existingQuestions);
     log(`  [reports-only] 统计与样本基于现有 questions.json（${existingQuestions.length} 题）`);
@@ -1464,18 +1797,20 @@ function writeProvinceReports(cfg, records, agg, startedAt) {
 function writeSummary(provinceResults, startedAt, endedAt) {
   ensureDir(REPORT_ROOT);
   const lines = [
-    '# 省考行测夜间转换汇总',
+    '# 省考行测全量转换汇总',
     '',
     `- 开始：${startedAt}`,
     `- 结束：${endedAt}`,
     `- 入口：\`node scripts/overnight-provinces.cjs\``,
     `- 隔离输出：\`${relPath(OUT_ROOT)}/<省>/\``,
+    `- 范围：源目录 ${PROVINCES.length} 个；本批新增转换 ${PROVINCES.filter(cfg => !ONLINE_PROVINCES.has(cfg.province)).length} 个；既有六省 ${ONLINE_PROVINCES.size} 个仅重算报告与语义扫描。`,
+    '- 口径说明：任务描述称新增 28 省，但当前源目录实际为 33 个；排除已上线六省后为 27 个。本汇总按实际目录如实记录，不补造省份。',
     `- 注意：本次运行未写入 \`public/data/questions/\` 与 \`public/data/questions-v2/\`，未执行 git push。`,
     '',
     '## 总览',
     '',
-    '| 省份 | 题本 | 成功/失败 | 题数 | 答案覆盖 | 解析覆盖 | 占位 | 图片 | ERROR | WARN | 输出 | 报告 |',
-    '| --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | --- | --- |',
+    '| 省份 | 题本 | 成功/失败 | 题数 | 答案覆盖 | 解析覆盖 | 配齐率 | 占位 | 图片 | ERROR | WARN | 输出 | 报告 |',
+    '| --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | ---: | --- | --- |',
   ];
   let totalQuestions = 0;
   let totalAnswers = 0;
@@ -1483,15 +1818,25 @@ function writeSummary(provinceResults, startedAt, endedAt) {
   let totalPlaceholders = 0;
   let totalErrors = 0;
   let totalWarnings = 0;
+  let totalComplete = 0;
 
   for (const result of provinceResults) {
     const { cfg, agg, status } = result;
+    const storedQuestions = readExistingQuestions(cfg.province) || agg.questionsList || [];
+    const complete = storedQuestions.filter(q =>
+      q.answer &&
+      String(q.explanation || '').trim() &&
+      Array.isArray(q.options) &&
+      q.options.length >= 4 &&
+      !q.isPlaceholder
+    ).length;
     totalQuestions += agg.questions;
     totalAnswers += agg.withAnswer;
     totalExplanations += agg.withExplanation;
     totalPlaceholders += agg.placeholders;
     totalErrors += agg.errors;
     totalWarnings += agg.warnings;
+    totalComplete += complete;
     lines.push([
       `${cfg.province}${status === 'ok' ? '' : '（异常）'}`,
       agg.papers,
@@ -1499,6 +1844,7 @@ function writeSummary(provinceResults, startedAt, endedAt) {
       agg.questions,
       formatPct(agg.withAnswer, agg.questions),
       formatPct(agg.withExplanation, agg.questions),
+      formatPct(complete, agg.questions),
       agg.placeholders,
       agg.imageQuestions,
       agg.errors,
@@ -1515,6 +1861,7 @@ function writeSummary(provinceResults, startedAt, endedAt) {
     `- 总题数（含占位）：**${totalQuestions}**`,
     `- 有答案：**${totalAnswers}**（${formatPct(totalAnswers, totalQuestions)}）`,
     `- 有解析：**${totalExplanations}**（${formatPct(totalExplanations, totalQuestions)}）`,
+    `- 答案+解析+四选项全配齐：**${totalComplete}**（${formatPct(totalComplete, totalQuestions)}）`,
     `- 占位题：**${totalPlaceholders}**`,
     `- ERROR：**${totalErrors}**；WARN：**${totalWarnings}**`,
     '',
@@ -1526,6 +1873,7 @@ function writeSummary(provinceResults, startedAt, endedAt) {
     const { cfg, agg } = result;
     lines.push(`### ${cfg.province}`);
     lines.push('');
+    lines.push(`- 处理方式：${ONLINE_PROVINCES.has(cfg.province) ? '既有六省，保留题目分片并重算报告' : '本轮新增转换'}`);
     lines.push(`- 账本：\`${relPath(path.join(cfg.reportDir, 'ledger.md'))}\``);
     lines.push(`- 异常 CSV：\`${relPath(path.join(cfg.reportDir, 'exceptions.csv'))}\``);
     lines.push(`- 20 题样本：\`${relPath(path.join(cfg.reportDir, 'sample-20.md'))}\``);
@@ -1573,6 +1921,8 @@ async function runPaper(cfg, pair) {
     label: pair.label,
     slug: cfg.slug,
     province: cfg.province,
+    // 同一年同一卷别的第二套及以后试卷，ID 追加 -2 / -3 后缀，避免互相覆盖
+    idSuffix: pair.dupIndex ? `-${pair.dupIndex + 1}` : '',
   };
   const record = {
     year: pair.year,
@@ -1679,6 +2029,7 @@ async function processProvince(cfg, startedAt) {
   log('');
   log(`===== ${cfg.province} =====`);
   const records = [];
+  const reportsOnly = ARGS.reportsOnly || (ONLINE_PROVINCES.has(cfg.province) && !ARGS.reconvertOnline);
   if (!ARGS.dryRun && !ARGS.noReports) ensureDir(cfg.reportDir);
 
   if (!fs.existsSync(cfg.questionDir)) {
@@ -1737,7 +2088,7 @@ async function processProvince(cfg, startedAt) {
   const status = agg.okPapers === 0 ? 'failed' : (hasFatal ? 'partial' : 'ok');
 
   if (!ARGS.dryRun) {
-    if (ARGS.reportsOnly) {
+    if (reportsOnly) {
       log(`  [reports-only] 保留现有分片，不重写 ${relPath(path.join(OUT_ROOT, cfg.province))}`);
     } else if (agg.questionsList.length) {
       const out = writeProvinceShards(cfg.province, cfg.slug, agg.questionsList);
@@ -1746,7 +2097,7 @@ async function processProvince(cfg, startedAt) {
       log('  [警告] 无题目可输出，未创建分片');
     }
     if (!ARGS.noReports) {
-      writeProvinceReports(cfg, records, agg, startedAt);
+      writeProvinceReports(cfg, records, agg, startedAt, reportsOnly);
       log(`  报告：${relPath(cfg.reportDir)}`);
     }
   } else {
@@ -1790,6 +2141,18 @@ async function main() {
   const t0 = Date.now();
   await loadBase();
 
+  if (ARGS.summaryOnly) {
+    const runTimes = readRunTimesFromLog();
+    const results = PROVINCES
+      .filter(cfg => fs.existsSync(path.join(OUT_ROOT, cfg.province, 'questions.json')))
+      .map(provinceResultFromOutput);
+    writeSummary(results, runTimes.start || startedAt, runTimes.end || stamp());
+    log(`汇总：${relPath(SUMMARY_PATH)}`);
+    log(`完成：${results.length} 省，共 ${results.reduce((sum, r) => sum + r.agg.questions, 0)} 题`);
+    closeLog();
+    return;
+  }
+
   if (ARGS.probe) {
     await runProbe();
     return;
@@ -1820,6 +2183,16 @@ async function main() {
         status: 'failed',
         agg: aggregateProvince(cfg, []),
       });
+    }
+  }
+
+  if (!ARGS.dryRun && !ARGS.noReports) {
+    const semanticProvinces = selected
+      .map(cfg => cfg.province)
+      .filter(province => fs.existsSync(path.join(OUT_ROOT, province, 'questions.json')));
+    if (semanticProvinces.length) {
+      log(`语义扫描：${semanticProvinces.length} 省`);
+      scanProvinces(semanticProvinces);
     }
   }
 
