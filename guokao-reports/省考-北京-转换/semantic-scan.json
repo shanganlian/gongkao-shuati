@@ -1,0 +1,403 @@
+{
+  "province": "北京",
+  "generatedAt": "2026-10-22T11:14:04.311Z",
+  "thresholds": {
+    "answerDistribution": "有效答案>=20，且最大字母占比>=55%；最大占比>=65%或字母缺项为严重失衡",
+    "explanationWindow": 120
+  },
+  "counts": {
+    "questions": 2597,
+    "papers": 20,
+    "answerAnomalyPapers": 0,
+    "e07": 8,
+    "explanationHighConfidence": 0,
+    "explanationWeak": 2
+  },
+  "answerDistribution": [
+    {
+      "paper": "2008年北京公务员考试《行测》（应届）",
+      "counts": {
+        "A": 30,
+        "B": 35,
+        "C": 39,
+        "D": 31
+      },
+      "total": 135,
+      "invalid": 0,
+      "maxShare": 0.28888888888888886,
+      "zeroLetters": [],
+      "status": "正常",
+      "anomaly": false
+    },
+    {
+      "paper": "2009年北京公务员考试《行测》（社招）",
+      "counts": {
+        "A": 35,
+        "B": 36,
+        "C": 40,
+        "D": 24
+      },
+      "total": 135,
+      "invalid": 0,
+      "maxShare": 0.2962962962962963,
+      "zeroLetters": [],
+      "status": "正常",
+      "anomaly": false
+    },
+    {
+      "paper": "2009年北京公务员考试《行测》（应届）",
+      "counts": {
+        "A": 36,
+        "B": 38,
+        "C": 27,
+        "D": 34
+      },
+      "total": 135,
+      "invalid": 0,
+      "maxShare": 0.2814814814814815,
+      "zeroLetters": [],
+      "status": "正常",
+      "anomaly": false
+    },
+    {
+      "paper": "2010年北京公务员考试《行测》",
+      "counts": {
+        "A": 36,
+        "B": 27,
+        "C": 29,
+        "D": 27
+      },
+      "total": 119,
+      "invalid": 6,
+      "maxShare": 0.3025210084033613,
+      "zeroLetters": [],
+      "status": "正常",
+      "anomaly": false
+    },
+    {
+      "paper": "2011年北京公务员考试《行测》",
+      "counts": {
+        "A": 33,
+        "B": 38,
+        "C": 33,
+        "D": 31
+      },
+      "total": 135,
+      "invalid": 0,
+      "maxShare": 0.2814814814814815,
+      "zeroLetters": [],
+      "status": "正常",
+      "anomaly": false
+    },
+    {
+      "paper": "2012年北京公务员考试《行测》",
+      "counts": {
+        "A": 37,
+        "B": 39,
+        "C": 27,
+        "D": 28
+      },
+      "total": 131,
+      "invalid": 4,
+      "maxShare": 0.29770992366412213,
+      "zeroLetters": [],
+      "status": "正常",
+      "anomaly": false
+    },
+    {
+      "paper": "2013年北京公务员考试《行测》",
+      "counts": {
+        "A": 37,
+        "B": 33,
+        "C": 31,
+        "D": 34
+      },
+      "total": 135,
+      "invalid": 0,
+      "maxShare": 0.2740740740740741,
+      "zeroLetters": [],
+      "status": "正常",
+      "anomaly": false
+    },
+    {
+      "paper": "2014年北京公务员考试《行测》",
+      "counts": {
+        "A": 35,
+        "B": 37,
+        "C": 29,
+        "D": 34
+      },
+      "total": 135,
+      "invalid": 0,
+      "maxShare": 0.2740740740740741,
+      "zeroLetters": [],
+      "status": "正常",
+      "anomaly": false
+    },
+    {
+      "paper": "2015年北京公务员考试《行测》",
+      "counts": {
+        "A": 32,
+        "B": 33,
+        "C": 31,
+        "D": 24
+      },
+      "total": 120,
+      "invalid": 15,
+      "maxShare": 0.275,
+      "zeroLetters": [],
+      "status": "正常",
+      "anomaly": false
+    },
+    {
+      "paper": "2016年北京公务员考试《行测》",
+      "counts": {
+        "A": 35,
+        "B": 35,
+        "C": 30,
+        "D": 34
+      },
+      "total": 134,
+      "invalid": 1,
+      "maxShare": 0.26119402985074625,
+      "zeroLetters": [],
+      "status": "正常",
+      "anomaly": false
+    },
+    {
+      "paper": "2017年北京公务员考试《行测》",
+      "counts": {
+        "A": 37,
+        "B": 34,
+        "C": 31,
+        "D": 32
+      },
+      "total": 134,
+      "invalid": 1,
+      "maxShare": 0.27611940298507465,
+      "zeroLetters": [],
+      "status": "正常",
+      "anomaly": false
+    },
+    {
+      "paper": "2018年北京公务员考试《行测》",
+      "counts": {
+        "A": 34,
+        "B": 35,
+        "C": 37,
+        "D": 29
+      },
+      "total": 135,
+      "invalid": 0,
+      "maxShare": 0.2740740740740741,
+      "zeroLetters": [],
+      "status": "正常",
+      "anomaly": false
+    },
+    {
+      "paper": "2019年北京公务员考试《行测》",
+      "counts": {
+        "A": 39,
+        "B": 37,
+        "C": 27,
+        "D": 30
+      },
+      "total": 133,
+      "invalid": 2,
+      "maxShare": 0.2932330827067669,
+      "zeroLetters": [],
+      "status": "正常",
+      "anomaly": false
+    },
+    {
+      "paper": "2020年北京公务员考试《行测》",
+      "counts": {
+        "A": 42,
+        "B": 33,
+        "C": 29,
+        "D": 30
+      },
+      "total": 134,
+      "invalid": 1,
+      "maxShare": 0.31343283582089554,
+      "zeroLetters": [],
+      "status": "正常",
+      "anomaly": false
+    },
+    {
+      "paper": "2020年北京公务员考试《行测》（乡镇）",
+      "counts": {
+        "A": 40,
+        "B": 27,
+        "C": 31,
+        "D": 29
+      },
+      "total": 127,
+      "invalid": 3,
+      "maxShare": 0.31496062992125984,
+      "zeroLetters": [],
+      "status": "正常",
+      "anomaly": false
+    },
+    {
+      "paper": "2021年北京公务员考试《行测》",
+      "counts": {
+        "A": 39,
+        "B": 31,
+        "C": 36,
+        "D": 28
+      },
+      "total": 134,
+      "invalid": 1,
+      "maxShare": 0.291044776119403,
+      "zeroLetters": [],
+      "status": "正常",
+      "anomaly": false
+    },
+    {
+      "paper": "2021年北京公务员考试《行测》（乡镇）",
+      "counts": {
+        "A": 34,
+        "B": 34,
+        "C": 34,
+        "D": 28
+      },
+      "total": 130,
+      "invalid": 0,
+      "maxShare": 0.26153846153846155,
+      "zeroLetters": [],
+      "status": "正常",
+      "anomaly": false
+    },
+    {
+      "paper": "2022年北京公务员考试《行测》",
+      "counts": {
+        "A": 33,
+        "B": 31,
+        "C": 31,
+        "D": 29
+      },
+      "total": 124,
+      "invalid": 11,
+      "maxShare": 0.2661290322580645,
+      "zeroLetters": [],
+      "status": "正常",
+      "anomaly": false
+    },
+    {
+      "paper": "2023年北京公务员考试《行测》",
+      "counts": {
+        "A": 14,
+        "B": 11,
+        "C": 7,
+        "D": 12
+      },
+      "total": 44,
+      "invalid": 50,
+      "maxShare": 0.3181818181818182,
+      "zeroLetters": [],
+      "status": "正常",
+      "anomaly": false
+    },
+    {
+      "paper": "2025年北京公务员考试《行测》",
+      "counts": {
+        "A": 30,
+        "B": 22,
+        "C": 19,
+        "D": 21
+      },
+      "total": 92,
+      "invalid": 1,
+      "maxShare": 0.32608695652173914,
+      "zeroLetters": [],
+      "status": "正常",
+      "anomaly": false
+    }
+  ],
+  "e07": [
+    {
+      "id": "prov-beijing-2011-未标注-76",
+      "paper": "2011年北京公务员考试《行测》",
+      "module": "shuliang",
+      "pos": 112,
+      "excerpt": "得到 75%酒精溶液的可能性的多少 倍： A、 B、 C、 D、"
+    },
+    {
+      "id": "prov-beijing-2012-未标注-7",
+      "paper": "2012年北京公务员考试《行测》",
+      "module": "changshi",
+      "pos": 2,
+      "excerpt": "5% D、平稳较快发展 7% 3、第十一届全国人民代表大会常务委员会第二十三次会议表决通过了《关于修改居民身份证法的决定》，"
+    },
+    {
+      "id": "prov-beijing-2013-未标注-74",
+      "paper": "2013年北京公务员考试《行测》",
+      "module": "shuliang",
+      "pos": 65,
+      "excerpt": "规律 的数字组合，猜中的密码的概率为： A、 B、 C、 D、"
+    },
+    {
+      "id": "prov-beijing-2017-未标注-84",
+      "paper": "2017年北京公务员考试《行测》",
+      "module": "shuliang",
+      "pos": 89,
+      "excerpt": "X 米，那么 X 的值在以下哪个范围内？ A、X<15 B、 C、 D、"
+    },
+    {
+      "id": "prov-beijing-2020-未标注-6",
+      "paper": "2020年北京公务员考试《行测》",
+      "module": "changshi",
+      "pos": 46,
+      "excerpt": "总称。下列标志属于我国绿色食品标志的 是 A、 B、 C、 D、"
+    },
+    {
+      "id": "prov-beijing-2020-乡镇-8",
+      "paper": "2020年北京公务员考试《行测》（乡镇）",
+      "module": "changshi",
+      "pos": 46,
+      "excerpt": "总称。下列标志属于我国绿色食品标志的 是 A、 B、 C、 D、"
+    },
+    {
+      "id": "prov-beijing-2025-未标注-32",
+      "paper": "2025年北京公务员考试《行测》",
+      "module": "shuliang",
+      "pos": 0,
+      "excerpt": "A 、B两条生产线每小时共可生产100个零件，其中A的生产效率是B的1 . 5倍。则8小时A比 B多生 产多少个零件?"
+    },
+    {
+      "id": "prov-beijing-2025-未标注-49",
+      "paper": "2025年北京公务员考试《行测》",
+      "module": "shuliang",
+      "pos": 91,
+      "excerpt": "能准确描述m和n 之间的关系? A D.m-2"
+    }
+  ],
+  "explanationHighConfidence": [],
+  "explanationWeak": [
+    {
+      "id": "prov-beijing-2009-社招-100",
+      "paper": "2009年北京公务员考试《行测》（社招）",
+      "module": "yanyu",
+      "stem": "依据原文所提供的信息，下列推断正确的一项是：",
+      "excerpt": "本题为细节判断题。从第四段最后一句可推知D项与原文一致。A项“简单化”并不等于材料中的“欣赏群也有点顾不上美感的仓促”并不相符；B项“只要......就......\"将提高作家的哲学素养作为写出好的文",
+      "type": "yanyu->ziliao",
+      "tokens": [
+        "材料中"
+      ],
+      "triage": "B2/B4 言语正文提及资料词（弱命中）"
+    },
+    {
+      "id": "prov-beijing-2017-未标注-38",
+      "paper": "2017年北京公务员考试《行测》",
+      "module": "yanyu",
+      "stem": "历史上全球霸主衰落的原因往往是科技领袖地位的丧失，从工业革命到电气革命的变迁使得全球霸主从英国 变为美国，而目前美国仍然处于全球科技创新的前沿位置，仍然是发达国家的领头羊。尽管潜在增长率有所下降、 美国经济也许难以再现 20 世纪 80 年代的“里根繁荣 ”和 90 年代的“新经济繁荣 ”，但仍有很强的自我调整能\n力，在克服金融危机冲击之后，家庭、政府和企业的资产负债表修复均取得显著进展，美国实体经济竞争力将再 次显现王者底蕴。\n根据这段话，作者对美国经济前景的判断是：",
+      "excerpt": "文段开篇指出霸主的地位是由科技水平决定的，后文提到“潜在增长率有所下降，美国经济也许难以再现20世纪80年代的‘里根繁荣’和90年代的‘新经济繁荣’”，可知美国经济现今存在问题，不如从前，紧接着出现“",
+      "type": "yanyu->ziliao",
+      "tokens": [
+        "增长率"
+      ],
+      "triage": "B2/B4 言语正文提及资料词（弱命中）"
+    }
+  ]
+}

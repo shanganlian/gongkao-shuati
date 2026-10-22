@@ -1,0 +1,1215 @@
+{
+  "province": "宁夏",
+  "generatedAt": "2026-10-21 22:12:41",
+  "startedAt": "2026-10-21 22:11:16",
+  "outputDir": "public/data/questions-v2-provincial/宁夏",
+  "aggregate": {
+    "papers": 17,
+    "okPapers": 17,
+    "failedPapers": 0,
+    "questions": 1972,
+    "placeholders": 15,
+    "withAnswer": 1913,
+    "withExplanation": 1929,
+    "imageQuestions": 182,
+    "errors": 138,
+    "warnings": 169,
+    "missingAnswerPapers": 0,
+    "answerOnlyPapers": 0,
+    "moduleCounts": {
+      "changshi": 332,
+      "yanyu": 593,
+      "shuliang": 222,
+      "panduan": 530,
+      "ziliao": 295
+    },
+    "issueCodes": {
+      "OPT_SPLIT_FAIL": 4,
+      "QNO_PLACEHOLDER": 5,
+      "MISSING_ANSWER": 59,
+      "MISSING_ANALYSIS": 43,
+      "OPT_NOT_4": 19,
+      "IMAGE_OPTION": 101,
+      "MATERIAL_IMAGE": 35,
+      "OPT_EMPTY": 3,
+      "MATERIAL_MISSING": 6,
+      "ANSWER_CONFLICT": 4,
+      "MODULE_INFERRED": 27,
+      "ANSWER_COVERAGE_LOW": 1
+    }
+  },
+  "papers": [
+    {
+      "year": 2010,
+      "label": "425联考",
+      "questionName": "2010年425公务员联考《行测》（云南、湖南、海南、山东、内蒙古、重庆、广西、辽宁、宁夏、陕西、天津）.docx",
+      "answerName": "2010年425公务员联考《行测》答案及解析（云南、湖南、海南、山东、内蒙古、重庆、广西、辽宁、宁夏、陕西、天津）.docx",
+      "pairNote": "same-year-and-label",
+      "answerFileMissing": false,
+      "status": "ok",
+      "questionCount": 120,
+      "maxNum": 120,
+      "placeholderCount": 3,
+      "placeholders": [
+        15,
+        16,
+        20
+      ],
+      "missingNums": [
+        15,
+        16,
+        20
+      ],
+      "withAnswer": 114,
+      "withExplanation": 114,
+      "imageQuestions": 4,
+      "errors": 18,
+      "warnings": 3,
+      "issueCodes": {
+        "OPT_SPLIT_FAIL": 1,
+        "QNO_PLACEHOLDER": 1,
+        "MISSING_ANSWER": 6,
+        "MISSING_ANALYSIS": 6,
+        "OPT_NOT_4": 4,
+        "IMAGE_OPTION": 2,
+        "MATERIAL_IMAGE": 1
+      },
+      "moduleCounts": {
+        "changshi": 20,
+        "yanyu": 30,
+        "shuliang": 17,
+        "panduan": 33,
+        "ziliao": 20
+      },
+      "moduleAnswers": {
+        "changshi": 20,
+        "yanyu": 30,
+        "shuliang": 13,
+        "panduan": 32,
+        "ziliao": 19
+      },
+      "moduleExplanations": {
+        "changshi": 20,
+        "yanyu": 30,
+        "shuliang": 13,
+        "panduan": 32,
+        "ziliao": 19
+      },
+      "modulePlaceholders": {
+        "changshi": 0,
+        "yanyu": 0,
+        "shuliang": 2,
+        "panduan": 1,
+        "ziliao": 0
+      },
+      "moduleImages": {
+        "changshi": 0,
+        "yanyu": 0,
+        "shuliang": 2,
+        "panduan": 2,
+        "ziliao": 0
+      },
+      "answerSourceEmpty": false,
+      "answerOnlySource": false,
+      "rawLength": 19457,
+      "answerLength": 26811,
+      "elapsedMs": 140,
+      "note": "blocks=117, answers=114, quick=0"
+    },
+    {
+      "year": 2010,
+      "label": "918联考",
+      "questionName": "2010年918公务员联考《行测》（山西、河南、辽宁、福建、重庆、海南、青海、宁夏、内蒙古、陕西、西藏、甘肃）.docx",
+      "answerName": "2010年918公务员联考《行测》答案及解析（山西、河南、辽宁、福建、重庆、海南、青海、宁夏、内蒙古、陕西、西藏、甘肃）(1).docx",
+      "pairNote": "same-year-and-label",
+      "answerFileMissing": false,
+      "status": "ok",
+      "questionCount": 120,
+      "maxNum": 120,
+      "placeholderCount": 0,
+      "placeholders": [],
+      "missingNums": [],
+      "withAnswer": 120,
+      "withExplanation": 120,
+      "imageQuestions": 9,
+      "errors": 0,
+      "warnings": 10,
+      "issueCodes": {
+        "IMAGE_OPTION": 7,
+        "MATERIAL_IMAGE": 3
+      },
+      "moduleCounts": {
+        "changshi": 20,
+        "yanyu": 30,
+        "shuliang": 15,
+        "panduan": 35,
+        "ziliao": 20
+      },
+      "moduleAnswers": {
+        "changshi": 20,
+        "yanyu": 30,
+        "shuliang": 15,
+        "panduan": 35,
+        "ziliao": 20
+      },
+      "moduleExplanations": {
+        "changshi": 20,
+        "yanyu": 30,
+        "shuliang": 15,
+        "panduan": 35,
+        "ziliao": 20
+      },
+      "modulePlaceholders": {
+        "changshi": 0,
+        "yanyu": 0,
+        "shuliang": 0,
+        "panduan": 0,
+        "ziliao": 0
+      },
+      "moduleImages": {
+        "changshi": 0,
+        "yanyu": 0,
+        "shuliang": 3,
+        "panduan": 5,
+        "ziliao": 1
+      },
+      "answerSourceEmpty": false,
+      "answerOnlySource": false,
+      "rawLength": 18000,
+      "answerLength": 24501,
+      "elapsedMs": 123,
+      "note": "blocks=120, answers=120, quick=0"
+    },
+    {
+      "year": 2011,
+      "label": "424联考",
+      "questionName": "2011年424公务员联考《行测》（宁夏、贵州、四川、福建、黑龙江、湖北、山西、重庆、辽宁、海南、江西、天津、陕西、云南、广西、山东、湖南）.docx",
+      "answerName": "2011年424公务员联考《行测》答案及解析（宁夏、贵州、四川、福建、黑龙江、湖北、山西、重庆、辽宁、海南、江西、天津、陕西、云南、广西、山东、湖南）(1).docx",
+      "pairNote": "same-year-and-label",
+      "answerFileMissing": false,
+      "status": "ok",
+      "questionCount": 120,
+      "maxNum": 120,
+      "placeholderCount": 0,
+      "placeholders": [],
+      "missingNums": [],
+      "withAnswer": 119,
+      "withExplanation": 119,
+      "imageQuestions": 10,
+      "errors": 4,
+      "warnings": 16,
+      "issueCodes": {
+        "OPT_EMPTY": 2,
+        "IMAGE_OPTION": 10,
+        "MATERIAL_MISSING": 5,
+        "MATERIAL_IMAGE": 1,
+        "MISSING_ANSWER": 1,
+        "MISSING_ANALYSIS": 1
+      },
+      "moduleCounts": {
+        "changshi": 20,
+        "yanyu": 40,
+        "shuliang": 10,
+        "panduan": 30,
+        "ziliao": 20
+      },
+      "moduleAnswers": {
+        "changshi": 20,
+        "yanyu": 40,
+        "shuliang": 10,
+        "panduan": 30,
+        "ziliao": 19
+      },
+      "moduleExplanations": {
+        "changshi": 20,
+        "yanyu": 40,
+        "shuliang": 10,
+        "panduan": 30,
+        "ziliao": 19
+      },
+      "modulePlaceholders": {
+        "changshi": 0,
+        "yanyu": 0,
+        "shuliang": 0,
+        "panduan": 0,
+        "ziliao": 0
+      },
+      "moduleImages": {
+        "changshi": 0,
+        "yanyu": 0,
+        "shuliang": 0,
+        "panduan": 10,
+        "ziliao": 0
+      },
+      "answerSourceEmpty": false,
+      "answerOnlySource": false,
+      "rawLength": 21378,
+      "answerLength": 26131,
+      "elapsedMs": 133,
+      "note": "blocks=119, answers=119, quick=0"
+    },
+    {
+      "year": 2012,
+      "label": "421联考",
+      "questionName": "2012年421公务员联考《行测》（山西、辽宁、黑龙江、福建、湖北、 湖南、广西、海南、四川、重庆、 云南、西藏、陕西、青海、宁夏、新疆 、甘肃）.docx",
+      "answerName": "2012年421公务员联考《行测》答案及解析（山西、辽宁、黑龙江、福建、湖北、 湖南、广西、海南、四川、重庆、 云南、西藏、陕西、青海、宁夏、新疆、甘肃 ）.docx",
+      "pairNote": "same-year-and-label",
+      "answerFileMissing": false,
+      "status": "ok",
+      "questionCount": 120,
+      "maxNum": 120,
+      "placeholderCount": 0,
+      "placeholders": [],
+      "missingNums": [],
+      "withAnswer": 120,
+      "withExplanation": 120,
+      "imageQuestions": 8,
+      "errors": 0,
+      "warnings": 11,
+      "issueCodes": {
+        "IMAGE_OPTION": 8,
+        "MATERIAL_IMAGE": 3
+      },
+      "moduleCounts": {
+        "changshi": 20,
+        "yanyu": 30,
+        "shuliang": 15,
+        "panduan": 35,
+        "ziliao": 20
+      },
+      "moduleAnswers": {
+        "changshi": 20,
+        "yanyu": 30,
+        "shuliang": 15,
+        "panduan": 35,
+        "ziliao": 20
+      },
+      "moduleExplanations": {
+        "changshi": 20,
+        "yanyu": 30,
+        "shuliang": 15,
+        "panduan": 35,
+        "ziliao": 20
+      },
+      "modulePlaceholders": {
+        "changshi": 0,
+        "yanyu": 0,
+        "shuliang": 0,
+        "panduan": 0,
+        "ziliao": 0
+      },
+      "moduleImages": {
+        "changshi": 0,
+        "yanyu": 0,
+        "shuliang": 2,
+        "panduan": 5,
+        "ziliao": 1
+      },
+      "answerSourceEmpty": false,
+      "answerOnlySource": false,
+      "rawLength": 20097,
+      "answerLength": 29078,
+      "elapsedMs": 153,
+      "note": "blocks=120, answers=120, quick=0"
+    },
+    {
+      "year": 2013,
+      "label": "413联考",
+      "questionName": "2013年413公务员联考《行测》卷（辽宁、湖南、湖北、安徽、四川、福建、云南、黑龙江、江西、广西、贵州、海南、内蒙古、山西、重庆、宁夏、西藏）.docx",
+      "answerName": "2013年413公务员联考《行测》卷（辽宁、湖南、湖北、安徽、四川、福建、云南、黑龙江、江西、广西、贵州、海南、内蒙古、山西、重庆、宁夏、西藏）答案及解析(1).docx",
+      "pairNote": "same-year-and-label",
+      "answerFileMissing": false,
+      "status": "ok",
+      "questionCount": 154,
+      "maxNum": 154,
+      "placeholderCount": 3,
+      "placeholders": [
+        6,
+        7,
+        8
+      ],
+      "missingNums": [
+        6,
+        7,
+        8
+      ],
+      "withAnswer": 150,
+      "withExplanation": 150,
+      "imageQuestions": 11,
+      "errors": 12,
+      "warnings": 12,
+      "issueCodes": {
+        "QNO_PLACEHOLDER": 1,
+        "OPT_NOT_4": 3,
+        "MISSING_ANSWER": 4,
+        "MISSING_ANALYSIS": 4,
+        "IMAGE_OPTION": 9,
+        "MATERIAL_IMAGE": 3
+      },
+      "moduleCounts": {
+        "changshi": 25,
+        "yanyu": 50,
+        "shuliang": 15,
+        "panduan": 44,
+        "ziliao": 20
+      },
+      "moduleAnswers": {
+        "changshi": 22,
+        "yanyu": 50,
+        "shuliang": 14,
+        "panduan": 44,
+        "ziliao": 20
+      },
+      "moduleExplanations": {
+        "changshi": 22,
+        "yanyu": 50,
+        "shuliang": 14,
+        "panduan": 44,
+        "ziliao": 20
+      },
+      "modulePlaceholders": {
+        "changshi": 3,
+        "yanyu": 0,
+        "shuliang": 0,
+        "panduan": 0,
+        "ziliao": 0
+      },
+      "moduleImages": {
+        "changshi": 1,
+        "yanyu": 0,
+        "shuliang": 2,
+        "panduan": 8,
+        "ziliao": 0
+      },
+      "answerSourceEmpty": false,
+      "answerOnlySource": false,
+      "rawLength": 27626,
+      "answerLength": 32451,
+      "elapsedMs": 183,
+      "note": "blocks=153, answers=150, quick=0"
+    },
+    {
+      "year": 2014,
+      "label": "412联考",
+      "questionName": "2014年412公务员联考《行测》（宁夏卷）.docx",
+      "answerName": "2014年412公务员联考《行测》（宁夏卷）答案及解析.docx",
+      "pairNote": "same-year-and-label",
+      "answerFileMissing": false,
+      "status": "ok",
+      "questionCount": 120,
+      "maxNum": 120,
+      "placeholderCount": 0,
+      "placeholders": [],
+      "missingNums": [],
+      "withAnswer": 120,
+      "withExplanation": 120,
+      "imageQuestions": 6,
+      "errors": 1,
+      "warnings": 7,
+      "issueCodes": {
+        "IMAGE_OPTION": 4,
+        "OPT_EMPTY": 1,
+        "MATERIAL_IMAGE": 3
+      },
+      "moduleCounts": {
+        "changshi": 20,
+        "yanyu": 40,
+        "shuliang": 10,
+        "panduan": 35,
+        "ziliao": 15
+      },
+      "moduleAnswers": {
+        "changshi": 20,
+        "yanyu": 40,
+        "shuliang": 10,
+        "panduan": 35,
+        "ziliao": 15
+      },
+      "moduleExplanations": {
+        "changshi": 20,
+        "yanyu": 40,
+        "shuliang": 10,
+        "panduan": 35,
+        "ziliao": 15
+      },
+      "modulePlaceholders": {
+        "changshi": 0,
+        "yanyu": 0,
+        "shuliang": 0,
+        "panduan": 0,
+        "ziliao": 0
+      },
+      "moduleImages": {
+        "changshi": 0,
+        "yanyu": 0,
+        "shuliang": 1,
+        "panduan": 5,
+        "ziliao": 0
+      },
+      "answerSourceEmpty": false,
+      "answerOnlySource": false,
+      "rawLength": 21238,
+      "answerLength": 27860,
+      "elapsedMs": 126,
+      "note": "blocks=120, answers=120, quick=0"
+    },
+    {
+      "year": 2015,
+      "label": "425联考",
+      "questionName": "2015年425公务员联考《行测》（宁夏卷）.docx",
+      "answerName": "2015年425公务员联考《行测》（宁夏卷）答案及解析(1).docx",
+      "pairNote": "same-year-and-label",
+      "answerFileMissing": false,
+      "status": "ok",
+      "questionCount": 130,
+      "maxNum": 130,
+      "placeholderCount": 0,
+      "placeholders": [],
+      "missingNums": [],
+      "withAnswer": 130,
+      "withExplanation": 130,
+      "imageQuestions": 9,
+      "errors": 2,
+      "warnings": 7,
+      "issueCodes": {
+        "OPT_SPLIT_FAIL": 1,
+        "OPT_NOT_4": 1,
+        "IMAGE_OPTION": 5,
+        "MATERIAL_IMAGE": 2
+      },
+      "moduleCounts": {
+        "changshi": 23,
+        "yanyu": 43,
+        "shuliang": 10,
+        "panduan": 39,
+        "ziliao": 15
+      },
+      "moduleAnswers": {
+        "changshi": 23,
+        "yanyu": 43,
+        "shuliang": 10,
+        "panduan": 39,
+        "ziliao": 15
+      },
+      "moduleExplanations": {
+        "changshi": 23,
+        "yanyu": 43,
+        "shuliang": 10,
+        "panduan": 39,
+        "ziliao": 15
+      },
+      "modulePlaceholders": {
+        "changshi": 0,
+        "yanyu": 0,
+        "shuliang": 0,
+        "panduan": 0,
+        "ziliao": 0
+      },
+      "moduleImages": {
+        "changshi": 1,
+        "yanyu": 0,
+        "shuliang": 0,
+        "panduan": 8,
+        "ziliao": 0
+      },
+      "answerSourceEmpty": false,
+      "answerOnlySource": false,
+      "rawLength": 23600,
+      "answerLength": 29497,
+      "elapsedMs": 152,
+      "note": "blocks=130, answers=130, quick=0"
+    },
+    {
+      "year": 2016,
+      "label": "423联考",
+      "questionName": "2016年423公务员联考《行测》（宁夏卷）.docx",
+      "answerName": "2016年423公务员联考《行测》（宁夏卷）答案及解析.docx",
+      "pairNote": "same-year-and-label",
+      "answerFileMissing": false,
+      "status": "ok",
+      "questionCount": 120,
+      "maxNum": 120,
+      "placeholderCount": 0,
+      "placeholders": [],
+      "missingNums": [],
+      "withAnswer": 116,
+      "withExplanation": 120,
+      "imageQuestions": 7,
+      "errors": 4,
+      "warnings": 3,
+      "issueCodes": {
+        "IMAGE_OPTION": 3,
+        "MISSING_ANSWER": 4
+      },
+      "moduleCounts": {
+        "changshi": 25,
+        "yanyu": 50,
+        "shuliang": 10,
+        "panduan": 20,
+        "ziliao": 15
+      },
+      "moduleAnswers": {
+        "changshi": 25,
+        "yanyu": 50,
+        "shuliang": 10,
+        "panduan": 16,
+        "ziliao": 15
+      },
+      "moduleExplanations": {
+        "changshi": 25,
+        "yanyu": 50,
+        "shuliang": 10,
+        "panduan": 20,
+        "ziliao": 15
+      },
+      "modulePlaceholders": {
+        "changshi": 0,
+        "yanyu": 0,
+        "shuliang": 0,
+        "panduan": 0,
+        "ziliao": 0
+      },
+      "moduleImages": {
+        "changshi": 1,
+        "yanyu": 0,
+        "shuliang": 1,
+        "panduan": 5,
+        "ziliao": 0
+      },
+      "answerSourceEmpty": false,
+      "answerOnlySource": false,
+      "rawLength": 20400,
+      "answerLength": 32982,
+      "elapsedMs": 174,
+      "note": "blocks=120, answers=120, quick=0"
+    },
+    {
+      "year": 2017,
+      "label": "422联考",
+      "questionName": "2017年422公务员联考《行测》真题（宁夏卷）.docx",
+      "answerName": "2017年422公务员联考《行测》真题（宁夏卷）答案及解析(1).docx",
+      "pairNote": "same-year-and-label",
+      "answerFileMissing": false,
+      "status": "ok",
+      "questionCount": 120,
+      "maxNum": 120,
+      "placeholderCount": 0,
+      "placeholders": [],
+      "missingNums": [],
+      "withAnswer": 119,
+      "withExplanation": 119,
+      "imageQuestions": 17,
+      "errors": 2,
+      "warnings": 9,
+      "issueCodes": {
+        "IMAGE_OPTION": 7,
+        "MISSING_ANSWER": 1,
+        "MISSING_ANALYSIS": 1,
+        "MATERIAL_IMAGE": 2
+      },
+      "moduleCounts": {
+        "changshi": 20,
+        "yanyu": 35,
+        "shuliang": 10,
+        "panduan": 35,
+        "ziliao": 20
+      },
+      "moduleAnswers": {
+        "changshi": 20,
+        "yanyu": 34,
+        "shuliang": 10,
+        "panduan": 35,
+        "ziliao": 20
+      },
+      "moduleExplanations": {
+        "changshi": 20,
+        "yanyu": 34,
+        "shuliang": 10,
+        "panduan": 35,
+        "ziliao": 20
+      },
+      "modulePlaceholders": {
+        "changshi": 0,
+        "yanyu": 0,
+        "shuliang": 0,
+        "panduan": 0,
+        "ziliao": 0
+      },
+      "moduleImages": {
+        "changshi": 2,
+        "yanyu": 0,
+        "shuliang": 5,
+        "panduan": 5,
+        "ziliao": 5
+      },
+      "answerSourceEmpty": false,
+      "answerOnlySource": false,
+      "rawLength": 21389,
+      "answerLength": 35984,
+      "elapsedMs": 147,
+      "note": "blocks=119, answers=119, quick=0"
+    },
+    {
+      "year": 2018,
+      "label": "421联考",
+      "questionName": "2018年421联考《行测》真题（宁夏卷）.docx",
+      "answerName": "2018年421联考《行测》真题（宁夏卷）答案及解析.docx",
+      "pairNote": "same-year-and-label",
+      "answerFileMissing": false,
+      "status": "ok",
+      "questionCount": 120,
+      "maxNum": 120,
+      "placeholderCount": 0,
+      "placeholders": [],
+      "missingNums": [],
+      "withAnswer": 109,
+      "withExplanation": 119,
+      "imageQuestions": 15,
+      "errors": 12,
+      "warnings": 12,
+      "issueCodes": {
+        "MISSING_ANSWER": 11,
+        "IMAGE_OPTION": 9,
+        "MATERIAL_IMAGE": 3,
+        "MISSING_ANALYSIS": 1
+      },
+      "moduleCounts": {
+        "changshi": 15,
+        "yanyu": 35,
+        "shuliang": 10,
+        "panduan": 40,
+        "ziliao": 20
+      },
+      "moduleAnswers": {
+        "changshi": 14,
+        "yanyu": 34,
+        "shuliang": 10,
+        "panduan": 32,
+        "ziliao": 19
+      },
+      "moduleExplanations": {
+        "changshi": 15,
+        "yanyu": 35,
+        "shuliang": 10,
+        "panduan": 40,
+        "ziliao": 19
+      },
+      "modulePlaceholders": {
+        "changshi": 0,
+        "yanyu": 0,
+        "shuliang": 0,
+        "panduan": 0,
+        "ziliao": 0
+      },
+      "moduleImages": {
+        "changshi": 3,
+        "yanyu": 0,
+        "shuliang": 1,
+        "panduan": 11,
+        "ziliao": 0
+      },
+      "answerSourceEmpty": false,
+      "answerOnlySource": false,
+      "rawLength": 22635,
+      "answerLength": 36364,
+      "elapsedMs": 176,
+      "note": "blocks=119, answers=119, quick=0"
+    },
+    {
+      "year": 2019,
+      "label": "420联考",
+      "questionName": "2019年420联考《行测》真题（宁夏卷）.docx",
+      "answerName": "2019年420联考《行测》真题（宁夏卷）参考答案(1).docx",
+      "pairNote": "same-year-and-label",
+      "answerFileMissing": false,
+      "status": "ok",
+      "questionCount": 120,
+      "maxNum": 120,
+      "placeholderCount": 0,
+      "placeholders": [],
+      "missingNums": [],
+      "withAnswer": 118,
+      "withExplanation": 119,
+      "imageQuestions": 13,
+      "errors": 3,
+      "warnings": 11,
+      "issueCodes": {
+        "MISSING_ANSWER": 2,
+        "IMAGE_OPTION": 8,
+        "MISSING_ANALYSIS": 1,
+        "MATERIAL_IMAGE": 3
+      },
+      "moduleCounts": {
+        "changshi": 15,
+        "yanyu": 35,
+        "shuliang": 10,
+        "panduan": 40,
+        "ziliao": 20
+      },
+      "moduleAnswers": {
+        "changshi": 14,
+        "yanyu": 35,
+        "shuliang": 10,
+        "panduan": 39,
+        "ziliao": 20
+      },
+      "moduleExplanations": {
+        "changshi": 15,
+        "yanyu": 35,
+        "shuliang": 10,
+        "panduan": 39,
+        "ziliao": 20
+      },
+      "modulePlaceholders": {
+        "changshi": 0,
+        "yanyu": 0,
+        "shuliang": 0,
+        "panduan": 0,
+        "ziliao": 0
+      },
+      "moduleImages": {
+        "changshi": 0,
+        "yanyu": 0,
+        "shuliang": 3,
+        "panduan": 10,
+        "ziliao": 0
+      },
+      "answerSourceEmpty": false,
+      "answerOnlySource": false,
+      "rawLength": 22160,
+      "answerLength": 36774,
+      "elapsedMs": 180,
+      "note": "blocks=119, answers=119, quick=0"
+    },
+    {
+      "year": 2020,
+      "label": "未标注",
+      "questionName": "2020年0822宁夏公务员考试《行测》真题.docx",
+      "answerName": "2020年0822宁夏公务员考试《行测》真题参考答案及解析.docx",
+      "pairNote": "same-year-and-label",
+      "answerFileMissing": false,
+      "status": "ok",
+      "questionCount": 120,
+      "maxNum": 120,
+      "placeholderCount": 1,
+      "placeholders": [
+        110
+      ],
+      "missingNums": [
+        110
+      ],
+      "withAnswer": 117,
+      "withExplanation": 117,
+      "imageQuestions": 17,
+      "errors": 11,
+      "warnings": 11,
+      "issueCodes": {
+        "ANSWER_CONFLICT": 1,
+        "OPT_SPLIT_FAIL": 1,
+        "QNO_PLACEHOLDER": 1,
+        "MISSING_ANSWER": 3,
+        "MISSING_ANALYSIS": 3,
+        "OPT_NOT_4": 2,
+        "IMAGE_OPTION": 7,
+        "MATERIAL_IMAGE": 3,
+        "MATERIAL_MISSING": 1
+      },
+      "moduleCounts": {
+        "changshi": 15,
+        "yanyu": 40,
+        "shuliang": 10,
+        "panduan": 35,
+        "ziliao": 20
+      },
+      "moduleAnswers": {
+        "changshi": 14,
+        "yanyu": 39,
+        "shuliang": 10,
+        "panduan": 35,
+        "ziliao": 19
+      },
+      "moduleExplanations": {
+        "changshi": 14,
+        "yanyu": 39,
+        "shuliang": 10,
+        "panduan": 35,
+        "ziliao": 19
+      },
+      "modulePlaceholders": {
+        "changshi": 0,
+        "yanyu": 0,
+        "shuliang": 0,
+        "panduan": 0,
+        "ziliao": 1
+      },
+      "moduleImages": {
+        "changshi": 0,
+        "yanyu": 0,
+        "shuliang": 4,
+        "panduan": 8,
+        "ziliao": 5
+      },
+      "answerSourceEmpty": false,
+      "answerOnlySource": false,
+      "rawLength": 22702,
+      "answerLength": 45485,
+      "elapsedMs": 196,
+      "note": "blocks=118, answers=117, quick=0"
+    },
+    {
+      "year": 2021,
+      "label": "未标注",
+      "questionName": "2021年0327宁夏公务员考试《行测》真题.docx",
+      "answerName": "2021年0327宁夏公务员考试《行测》真题参考答案及解析.docx",
+      "pairNote": "same-year-and-label",
+      "answerFileMissing": false,
+      "status": "ok",
+      "questionCount": 120,
+      "maxNum": 120,
+      "placeholderCount": 0,
+      "placeholders": [],
+      "missingNums": [],
+      "withAnswer": 115,
+      "withExplanation": 115,
+      "imageQuestions": 18,
+      "errors": 13,
+      "warnings": 9,
+      "issueCodes": {
+        "ANSWER_CONFLICT": 3,
+        "IMAGE_OPTION": 7,
+        "MISSING_ANSWER": 5,
+        "MISSING_ANALYSIS": 5,
+        "MATERIAL_IMAGE": 2
+      },
+      "moduleCounts": {
+        "changshi": 15,
+        "yanyu": 40,
+        "shuliang": 10,
+        "panduan": 40,
+        "ziliao": 15
+      },
+      "moduleAnswers": {
+        "changshi": 15,
+        "yanyu": 35,
+        "shuliang": 10,
+        "panduan": 40,
+        "ziliao": 15
+      },
+      "moduleExplanations": {
+        "changshi": 15,
+        "yanyu": 35,
+        "shuliang": 10,
+        "panduan": 40,
+        "ziliao": 15
+      },
+      "modulePlaceholders": {
+        "changshi": 0,
+        "yanyu": 0,
+        "shuliang": 0,
+        "panduan": 0,
+        "ziliao": 0
+      },
+      "moduleImages": {
+        "changshi": 1,
+        "yanyu": 0,
+        "shuliang": 1,
+        "panduan": 11,
+        "ziliao": 5
+      },
+      "answerSourceEmpty": false,
+      "answerOnlySource": false,
+      "rawLength": 22513,
+      "answerLength": 43074,
+      "elapsedMs": 241,
+      "note": "blocks=115, answers=115, quick=0"
+    },
+    {
+      "year": 2022,
+      "label": "未标注",
+      "questionName": "2022年0709宁夏公务员考试《行测》真题.docx",
+      "answerName": "2022年0709宁夏公务员考试《行测》答案及解析.docx",
+      "pairNote": "same-year-and-label",
+      "answerFileMissing": false,
+      "status": "ok",
+      "questionCount": 125,
+      "maxNum": 125,
+      "placeholderCount": 0,
+      "placeholders": [],
+      "missingNums": [],
+      "withAnswer": 125,
+      "withExplanation": 125,
+      "imageQuestions": 13,
+      "errors": 0,
+      "warnings": 22,
+      "issueCodes": {
+        "MODULE_INFERRED": 15,
+        "IMAGE_OPTION": 5,
+        "MATERIAL_IMAGE": 2
+      },
+      "moduleCounts": {
+        "changshi": 15,
+        "yanyu": 40,
+        "shuliang": 50,
+        "panduan": 0,
+        "ziliao": 20
+      },
+      "moduleAnswers": {
+        "changshi": 15,
+        "yanyu": 40,
+        "shuliang": 50,
+        "panduan": 0,
+        "ziliao": 20
+      },
+      "moduleExplanations": {
+        "changshi": 15,
+        "yanyu": 40,
+        "shuliang": 50,
+        "panduan": 0,
+        "ziliao": 20
+      },
+      "modulePlaceholders": {
+        "changshi": 0,
+        "yanyu": 0,
+        "shuliang": 0,
+        "panduan": 0,
+        "ziliao": 0
+      },
+      "moduleImages": {
+        "changshi": 0,
+        "yanyu": 1,
+        "shuliang": 10,
+        "panduan": 0,
+        "ziliao": 2
+      },
+      "answerSourceEmpty": false,
+      "answerOnlySource": false,
+      "rawLength": 24078,
+      "answerLength": 43073,
+      "elapsedMs": 246,
+      "note": "blocks=125, answers=125, quick=0"
+    },
+    {
+      "year": 2023,
+      "label": "未标注",
+      "questionName": "2023年宁夏公务员录用考试《行测》题.docx",
+      "answerName": "2023年宁夏公务员录用考试《行测》题（解析）.docx",
+      "pairNote": "same-year-and-label",
+      "answerFileMissing": false,
+      "status": "ok",
+      "questionCount": 8,
+      "maxNum": 8,
+      "placeholderCount": 0,
+      "placeholders": [],
+      "missingNums": [],
+      "withAnswer": 2,
+      "withExplanation": 2,
+      "imageQuestions": 0,
+      "errors": 13,
+      "warnings": 0,
+      "issueCodes": {
+        "ANSWER_COVERAGE_LOW": 1,
+        "MISSING_ANSWER": 6,
+        "MISSING_ANALYSIS": 6
+      },
+      "moduleCounts": {
+        "changshi": 8,
+        "yanyu": 0,
+        "shuliang": 0,
+        "panduan": 0,
+        "ziliao": 0
+      },
+      "moduleAnswers": {
+        "changshi": 2,
+        "yanyu": 0,
+        "shuliang": 0,
+        "panduan": 0,
+        "ziliao": 0
+      },
+      "moduleExplanations": {
+        "changshi": 2,
+        "yanyu": 0,
+        "shuliang": 0,
+        "panduan": 0,
+        "ziliao": 0
+      },
+      "modulePlaceholders": {
+        "changshi": 0,
+        "yanyu": 0,
+        "shuliang": 0,
+        "panduan": 0,
+        "ziliao": 0
+      },
+      "moduleImages": {
+        "changshi": 0,
+        "yanyu": 0,
+        "shuliang": 0,
+        "panduan": 0,
+        "ziliao": 0
+      },
+      "answerSourceEmpty": false,
+      "answerOnlySource": false,
+      "rawLength": 22569,
+      "answerLength": 45304,
+      "elapsedMs": 208,
+      "note": "blocks=2, answers=2, quick=0"
+    },
+    {
+      "year": 2024,
+      "label": "未标注",
+      "questionName": "2024年宁夏公务员录用考试《行测》试题.docx",
+      "answerName": "2024年宁夏公务员录用考试《行测》答案+解析.docx",
+      "pairNote": "same-year-and-label",
+      "answerFileMissing": false,
+      "status": "ok",
+      "questionCount": 115,
+      "maxNum": 115,
+      "placeholderCount": 1,
+      "placeholders": [
+        41
+      ],
+      "missingNums": [
+        41
+      ],
+      "withAnswer": 107,
+      "withExplanation": 107,
+      "imageQuestions": 9,
+      "errors": 20,
+      "warnings": 4,
+      "issueCodes": {
+        "OPT_SPLIT_FAIL": 1,
+        "QNO_PLACEHOLDER": 1,
+        "OPT_NOT_4": 2,
+        "MISSING_ANSWER": 8,
+        "MISSING_ANALYSIS": 8,
+        "MATERIAL_IMAGE": 3,
+        "IMAGE_OPTION": 1
+      },
+      "moduleCounts": {
+        "changshi": 25,
+        "yanyu": 30,
+        "shuliang": 10,
+        "panduan": 35,
+        "ziliao": 15
+      },
+      "moduleAnswers": {
+        "changshi": 25,
+        "yanyu": 25,
+        "shuliang": 9,
+        "panduan": 33,
+        "ziliao": 15
+      },
+      "moduleExplanations": {
+        "changshi": 25,
+        "yanyu": 25,
+        "shuliang": 9,
+        "panduan": 33,
+        "ziliao": 15
+      },
+      "modulePlaceholders": {
+        "changshi": 0,
+        "yanyu": 1,
+        "shuliang": 0,
+        "panduan": 0,
+        "ziliao": 0
+      },
+      "moduleImages": {
+        "changshi": 1,
+        "yanyu": 0,
+        "shuliang": 2,
+        "panduan": 5,
+        "ziliao": 1
+      },
+      "answerSourceEmpty": false,
+      "answerOnlySource": false,
+      "rawLength": 21891,
+      "answerLength": 51400,
+      "elapsedMs": 221,
+      "note": "blocks=108, answers=107, quick=0"
+    },
+    {
+      "year": 2025,
+      "label": "未标注",
+      "questionName": "2025年315宁夏公务员录用考试《行测》题本.docx",
+      "answerName": "2025年315宁夏公务员录用考试《行测》答案及解析.docx",
+      "pairNote": "same-year-and-label",
+      "answerFileMissing": false,
+      "status": "ok",
+      "questionCount": 120,
+      "maxNum": 120,
+      "placeholderCount": 7,
+      "placeholders": [
+        2,
+        3,
+        4,
+        23,
+        83,
+        91,
+        95
+      ],
+      "missingNums": [
+        2,
+        3,
+        4,
+        23,
+        83,
+        91,
+        95
+      ],
+      "withAnswer": 112,
+      "withExplanation": 113,
+      "imageQuestions": 16,
+      "errors": 23,
+      "warnings": 22,
+      "issueCodes": {
+        "MODULE_INFERRED": 12,
+        "QNO_PLACEHOLDER": 1,
+        "MISSING_ANSWER": 8,
+        "OPT_NOT_4": 7,
+        "MISSING_ANALYSIS": 7,
+        "IMAGE_OPTION": 9,
+        "MATERIAL_IMAGE": 1
+      },
+      "moduleCounts": {
+        "changshi": 31,
+        "yanyu": 25,
+        "shuliang": 10,
+        "panduan": 34,
+        "ziliao": 20
+      },
+      "moduleAnswers": {
+        "changshi": 26,
+        "yanyu": 25,
+        "shuliang": 10,
+        "panduan": 31,
+        "ziliao": 20
+      },
+      "moduleExplanations": {
+        "changshi": 27,
+        "yanyu": 25,
+        "shuliang": 10,
+        "panduan": 31,
+        "ziliao": 20
+      },
+      "modulePlaceholders": {
+        "changshi": 4,
+        "yanyu": 0,
+        "shuliang": 0,
+        "panduan": 3,
+        "ziliao": 0
+      },
+      "moduleImages": {
+        "changshi": 0,
+        "yanyu": 0,
+        "shuliang": 3,
+        "panduan": 8,
+        "ziliao": 5
+      },
+      "answerSourceEmpty": false,
+      "answerOnlySource": false,
+      "rawLength": 19417,
+      "answerLength": 43241,
+      "elapsedMs": 208,
+      "note": "blocks=117, answers=113, quick=0"
+    }
+  ]
+}

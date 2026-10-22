@@ -46,6 +46,20 @@ const PROVINCES = {
   黑龙江: { slug: 'heilongjiang', expectedSrcTotal: 3680, oldIdPrefix: 'prov-黑龙江-' },
   天津: { slug: 'tianjin', expectedSrcTotal: 2431, oldIdPrefix: 'prov-天津-' },
   广东: { slug: 'guangdong', expectedSrcTotal: 3854, oldIdPrefix: 'prov-广东-' },
+  重庆: { slug: 'chongqing', expectedSrcTotal: 3324, oldIdPrefix: 'prov-重庆-' },
+  广西: { slug: 'guangxi', expectedSrcTotal: 2311, oldIdPrefix: 'prov-广西-' },
+  广州: { slug: 'guangzhou', expectedSrcTotal: 1300, oldIdPrefix: 'prov-广州-' },
+  贵州: { slug: 'guizhou', expectedSrcTotal: 2194, oldIdPrefix: 'prov-贵州-' },
+  河南: { slug: 'henan', expectedSrcTotal: 2700, oldIdPrefix: 'prov-河南-' },
+  吉林: { slug: 'jilin', expectedSrcTotal: 3410, oldIdPrefix: 'prov-吉林-' },
+  江苏: { slug: 'jiangsu', expectedSrcTotal: 6311, oldIdPrefix: 'prov-江苏-' },
+  辽宁: { slug: 'liaoning', expectedSrcTotal: 2444, oldIdPrefix: 'prov-辽宁-' },
+  内蒙古: { slug: 'neimenggu', expectedSrcTotal: 2175, oldIdPrefix: 'prov-内蒙古-' },
+  青海: { slug: 'qinghai', expectedSrcTotal: 2065, oldIdPrefix: 'prov-青海-' },
+  山东: { slug: 'shandong', expectedSrcTotal: 2414, oldIdPrefix: 'prov-山东-' },
+  四川: { slug: 'sichuan', expectedSrcTotal: 3234, oldIdPrefix: 'prov-四川-' },
+  西藏: { slug: 'xizang', expectedSrcTotal: 859, oldIdPrefix: 'prov-西藏-' },
+  新疆: { slug: 'xinjiang', expectedSrcTotal: 3018, oldIdPrefix: 'prov-新疆-' },
 };
 
 let TAG = '[publish-province]';

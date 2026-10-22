@@ -1,0 +1,1308 @@
+{
+  "province": "云南",
+  "generatedAt": "2026-10-21 22:13:20",
+  "startedAt": "2026-10-21 22:11:16",
+  "outputDir": "public/data/questions-v2-provincial/云南",
+  "aggregate": {
+    "papers": 18,
+    "okPapers": 18,
+    "failedPapers": 0,
+    "questions": 2134,
+    "placeholders": 26,
+    "withAnswer": 2072,
+    "withExplanation": 2076,
+    "imageQuestions": 200,
+    "errors": 166,
+    "warnings": 162,
+    "missingAnswerPapers": 0,
+    "answerOnlyPapers": 0,
+    "moduleCounts": {
+      "changshi": 346,
+      "yanyu": 617,
+      "shuliang": 296,
+      "panduan": 575,
+      "ziliao": 300
+    },
+    "issueCodes": {
+      "OPT_SPLIT_FAIL": 4,
+      "MISSING_ANSWER": 62,
+      "MISSING_ANALYSIS": 58,
+      "OPT_NOT_4": 30,
+      "IMAGE_OPTION": 108,
+      "QNO_PLACEHOLDER": 7,
+      "MATERIAL_IMAGE": 33,
+      "OPT_EMPTY": 3,
+      "MATERIAL_MISSING": 10,
+      "ANSWER_CONFLICT": 2,
+      "OPT_PARTIAL": 1,
+      "MODULE_INFERRED": 10
+    }
+  },
+  "papers": [
+    {
+      "year": 2008,
+      "label": "未标注",
+      "questionName": "2008年云南公务员考试《行测》卷.docx",
+      "answerName": "2008年云南公务员考试《行测》卷答案及解析.docx",
+      "pairNote": "same-year-and-label",
+      "answerFileMissing": false,
+      "status": "ok",
+      "questionCount": 130,
+      "maxNum": 130,
+      "placeholderCount": 0,
+      "placeholders": [],
+      "missingNums": [],
+      "withAnswer": 107,
+      "withExplanation": 108,
+      "imageQuestions": 10,
+      "errors": 47,
+      "warnings": 10,
+      "issueCodes": {
+        "OPT_SPLIT_FAIL": 1,
+        "MISSING_ANSWER": 23,
+        "MISSING_ANALYSIS": 22,
+        "OPT_NOT_4": 1,
+        "IMAGE_OPTION": 10
+      },
+      "moduleCounts": {
+        "changshi": 20,
+        "yanyu": 30,
+        "shuliang": 20,
+        "panduan": 40,
+        "ziliao": 20
+      },
+      "moduleAnswers": {
+        "changshi": 19,
+        "yanyu": 29,
+        "shuliang": 19,
+        "panduan": 31,
+        "ziliao": 9
+      },
+      "moduleExplanations": {
+        "changshi": 19,
+        "yanyu": 29,
+        "shuliang": 19,
+        "panduan": 32,
+        "ziliao": 9
+      },
+      "modulePlaceholders": {
+        "changshi": 0,
+        "yanyu": 0,
+        "shuliang": 0,
+        "panduan": 0,
+        "ziliao": 0
+      },
+      "moduleImages": {
+        "changshi": 0,
+        "yanyu": 0,
+        "shuliang": 0,
+        "panduan": 10,
+        "ziliao": 0
+      },
+      "answerSourceEmpty": false,
+      "answerOnlySource": false,
+      "rawLength": 20606,
+      "answerLength": 26043,
+      "elapsedMs": 135,
+      "note": "blocks=108, answers=108, quick=0"
+    },
+    {
+      "year": 2009,
+      "label": "未标注",
+      "questionName": "2009年云南公务员考试《行测》卷.docx",
+      "answerName": "2009年云南公务员考试《行测》卷答案及解析.docx",
+      "pairNote": "same-year-and-label",
+      "answerFileMissing": false,
+      "status": "ok",
+      "questionCount": 130,
+      "maxNum": 130,
+      "placeholderCount": 1,
+      "placeholders": [
+        45
+      ],
+      "missingNums": [
+        45
+      ],
+      "withAnswer": 129,
+      "withExplanation": 129,
+      "imageQuestions": 12,
+      "errors": 4,
+      "warnings": 10,
+      "issueCodes": {
+        "QNO_PLACEHOLDER": 1,
+        "IMAGE_OPTION": 8,
+        "OPT_NOT_4": 1,
+        "MISSING_ANSWER": 1,
+        "MISSING_ANALYSIS": 1,
+        "MATERIAL_IMAGE": 2
+      },
+      "moduleCounts": {
+        "changshi": 0,
+        "yanyu": 25,
+        "shuliang": 20,
+        "panduan": 65,
+        "ziliao": 20
+      },
+      "moduleAnswers": {
+        "changshi": 0,
+        "yanyu": 24,
+        "shuliang": 20,
+        "panduan": 65,
+        "ziliao": 20
+      },
+      "moduleExplanations": {
+        "changshi": 0,
+        "yanyu": 24,
+        "shuliang": 20,
+        "panduan": 65,
+        "ziliao": 20
+      },
+      "modulePlaceholders": {
+        "changshi": 0,
+        "yanyu": 1,
+        "shuliang": 0,
+        "panduan": 0,
+        "ziliao": 0
+      },
+      "moduleImages": {
+        "changshi": 0,
+        "yanyu": 0,
+        "shuliang": 6,
+        "panduan": 6,
+        "ziliao": 0
+      },
+      "answerSourceEmpty": false,
+      "answerOnlySource": false,
+      "rawLength": 14812,
+      "answerLength": 23601,
+      "elapsedMs": 99,
+      "note": "blocks=130, answers=129, quick=0"
+    },
+    {
+      "year": 2010,
+      "label": "425联考",
+      "questionName": "2010年425公务员联考《行测》（云南、湖南、海南、山东、内蒙古、重庆、广西、辽宁、宁夏、陕西、天津）.docx",
+      "answerName": "2010年425公务员联考《行测》答案及解析（云南、湖南、海南、山东、内蒙古、重庆、广西、辽宁、宁夏、陕西、天津）.docx",
+      "pairNote": "same-year-and-label",
+      "answerFileMissing": false,
+      "status": "ok",
+      "questionCount": 120,
+      "maxNum": 120,
+      "placeholderCount": 18,
+      "placeholders": [
+        15,
+        16,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33
+      ],
+      "missingNums": [
+        15,
+        16,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33
+      ],
+      "withAnswer": 101,
+      "withExplanation": 101,
+      "imageQuestions": 3,
+      "errors": 61,
+      "warnings": 1,
+      "issueCodes": {
+        "OPT_SPLIT_FAIL": 2,
+        "QNO_PLACEHOLDER": 1,
+        "MISSING_ANSWER": 19,
+        "MISSING_ANALYSIS": 19,
+        "OPT_NOT_4": 20,
+        "MATERIAL_IMAGE": 1
+      },
+      "moduleCounts": {
+        "changshi": 20,
+        "yanyu": 30,
+        "shuliang": 34,
+        "panduan": 16,
+        "ziliao": 20
+      },
+      "moduleAnswers": {
+        "changshi": 20,
+        "yanyu": 30,
+        "shuliang": 15,
+        "panduan": 16,
+        "ziliao": 20
+      },
+      "moduleExplanations": {
+        "changshi": 20,
+        "yanyu": 30,
+        "shuliang": 15,
+        "panduan": 16,
+        "ziliao": 20
+      },
+      "modulePlaceholders": {
+        "changshi": 0,
+        "yanyu": 0,
+        "shuliang": 18,
+        "panduan": 0,
+        "ziliao": 0
+      },
+      "moduleImages": {
+        "changshi": 0,
+        "yanyu": 0,
+        "shuliang": 3,
+        "panduan": 0,
+        "ziliao": 0
+      },
+      "answerSourceEmpty": false,
+      "answerOnlySource": false,
+      "rawLength": 19398,
+      "answerLength": 25812,
+      "elapsedMs": 94,
+      "note": "blocks=119, answers=101, quick=0"
+    },
+    {
+      "year": 2011,
+      "label": "424联考",
+      "questionName": "2011年424公务员联考《行测》（宁夏、贵州、四川、福建、黑龙江、湖北、山西、重庆、辽宁、海南、江西、天津、陕西、云南、广西、山东、湖南）.docx",
+      "answerName": "2011年424公务员联考《行测》答案及解析（宁夏、贵州、四川、福建、黑龙江、湖北、山西、重庆、辽宁、海南、江西、天津、陕西、云南、广西、山东、湖南）.docx",
+      "pairNote": "same-year-and-label",
+      "answerFileMissing": false,
+      "status": "ok",
+      "questionCount": 120,
+      "maxNum": 120,
+      "placeholderCount": 0,
+      "placeholders": [],
+      "missingNums": [],
+      "withAnswer": 120,
+      "withExplanation": 120,
+      "imageQuestions": 10,
+      "errors": 2,
+      "warnings": 16,
+      "issueCodes": {
+        "OPT_EMPTY": 2,
+        "IMAGE_OPTION": 10,
+        "MATERIAL_MISSING": 5,
+        "MATERIAL_IMAGE": 1
+      },
+      "moduleCounts": {
+        "changshi": 20,
+        "yanyu": 40,
+        "shuliang": 10,
+        "panduan": 30,
+        "ziliao": 20
+      },
+      "moduleAnswers": {
+        "changshi": 20,
+        "yanyu": 40,
+        "shuliang": 10,
+        "panduan": 30,
+        "ziliao": 20
+      },
+      "moduleExplanations": {
+        "changshi": 20,
+        "yanyu": 40,
+        "shuliang": 10,
+        "panduan": 30,
+        "ziliao": 20
+      },
+      "modulePlaceholders": {
+        "changshi": 0,
+        "yanyu": 0,
+        "shuliang": 0,
+        "panduan": 0,
+        "ziliao": 0
+      },
+      "moduleImages": {
+        "changshi": 0,
+        "yanyu": 0,
+        "shuliang": 0,
+        "panduan": 10,
+        "ziliao": 0
+      },
+      "answerSourceEmpty": false,
+      "answerOnlySource": false,
+      "rawLength": 20652,
+      "answerLength": 25416,
+      "elapsedMs": 98,
+      "note": "blocks=120, answers=120, quick=0"
+    },
+    {
+      "year": 2012,
+      "label": "421联考",
+      "questionName": "2012年421公务员联考《行测》（山西、辽宁、黑龙江、福建、湖北、 湖南、广西、海南、四川、重庆、 云南、西藏、陕西、青海、宁夏、新疆 、甘肃）.docx",
+      "answerName": "2012年421公务员联考《行测》答案及解析（山西、辽宁、黑龙江、福建、湖北、 湖南、广西、海南、四川、重庆、 云南、西藏、陕西、青海、宁夏、新疆、甘肃 ）.docx",
+      "pairNote": "same-year-and-label",
+      "answerFileMissing": false,
+      "status": "ok",
+      "questionCount": 120,
+      "maxNum": 120,
+      "placeholderCount": 0,
+      "placeholders": [],
+      "missingNums": [],
+      "withAnswer": 120,
+      "withExplanation": 120,
+      "imageQuestions": 8,
+      "errors": 0,
+      "warnings": 11,
+      "issueCodes": {
+        "IMAGE_OPTION": 8,
+        "MATERIAL_IMAGE": 3
+      },
+      "moduleCounts": {
+        "changshi": 20,
+        "yanyu": 30,
+        "shuliang": 15,
+        "panduan": 35,
+        "ziliao": 20
+      },
+      "moduleAnswers": {
+        "changshi": 20,
+        "yanyu": 30,
+        "shuliang": 15,
+        "panduan": 35,
+        "ziliao": 20
+      },
+      "moduleExplanations": {
+        "changshi": 20,
+        "yanyu": 30,
+        "shuliang": 15,
+        "panduan": 35,
+        "ziliao": 20
+      },
+      "modulePlaceholders": {
+        "changshi": 0,
+        "yanyu": 0,
+        "shuliang": 0,
+        "panduan": 0,
+        "ziliao": 0
+      },
+      "moduleImages": {
+        "changshi": 0,
+        "yanyu": 0,
+        "shuliang": 2,
+        "panduan": 5,
+        "ziliao": 1
+      },
+      "answerSourceEmpty": false,
+      "answerOnlySource": false,
+      "rawLength": 20127,
+      "answerLength": 28490,
+      "elapsedMs": 111,
+      "note": "blocks=120, answers=120, quick=0"
+    },
+    {
+      "year": 2013,
+      "label": "413联考",
+      "questionName": "2013年413公务员联考《行测》卷（辽宁、湖南、湖北、安徽、四川、福建、云南、黑龙江、江西、广西、贵州、海南、内蒙古、山西、重庆、宁夏、西藏）.docx",
+      "answerName": "2013年413公务员联考《行测》卷（辽宁、湖南、湖北、安徽、四川、福建、云南、黑龙江、江西、广西、贵州、海南、内蒙古、山西、重庆、宁夏、西藏）答案及解析.docx",
+      "pairNote": "same-year-and-label",
+      "answerFileMissing": false,
+      "status": "ok",
+      "questionCount": 154,
+      "maxNum": 154,
+      "placeholderCount": 3,
+      "placeholders": [
+        6,
+        7,
+        8
+      ],
+      "missingNums": [
+        6,
+        7,
+        8
+      ],
+      "withAnswer": 151,
+      "withExplanation": 151,
+      "imageQuestions": 11,
+      "errors": 10,
+      "warnings": 13,
+      "issueCodes": {
+        "QNO_PLACEHOLDER": 1,
+        "OPT_NOT_4": 3,
+        "MISSING_ANSWER": 3,
+        "MISSING_ANALYSIS": 3,
+        "IMAGE_OPTION": 10,
+        "MATERIAL_IMAGE": 3
+      },
+      "moduleCounts": {
+        "changshi": 25,
+        "yanyu": 50,
+        "shuliang": 15,
+        "panduan": 44,
+        "ziliao": 20
+      },
+      "moduleAnswers": {
+        "changshi": 22,
+        "yanyu": 50,
+        "shuliang": 15,
+        "panduan": 44,
+        "ziliao": 20
+      },
+      "moduleExplanations": {
+        "changshi": 22,
+        "yanyu": 50,
+        "shuliang": 15,
+        "panduan": 44,
+        "ziliao": 20
+      },
+      "modulePlaceholders": {
+        "changshi": 3,
+        "yanyu": 0,
+        "shuliang": 0,
+        "panduan": 0,
+        "ziliao": 0
+      },
+      "moduleImages": {
+        "changshi": 1,
+        "yanyu": 0,
+        "shuliang": 2,
+        "panduan": 8,
+        "ziliao": 0
+      },
+      "answerSourceEmpty": false,
+      "answerOnlySource": false,
+      "rawLength": 27694,
+      "answerLength": 31622,
+      "elapsedMs": 122,
+      "note": "blocks=154, answers=151, quick=0"
+    },
+    {
+      "year": 2014,
+      "label": "412联考",
+      "questionName": "2014年412公务员联考《行测》真题（云南卷）.docx",
+      "answerName": "2014年412公务员联考《行测》真题（云南卷）答案及解析.docx",
+      "pairNote": "same-year-and-label",
+      "answerFileMissing": false,
+      "status": "ok",
+      "questionCount": 120,
+      "maxNum": 120,
+      "placeholderCount": 0,
+      "placeholders": [],
+      "missingNums": [],
+      "withAnswer": 120,
+      "withExplanation": 120,
+      "imageQuestions": 5,
+      "errors": 1,
+      "warnings": 7,
+      "issueCodes": {
+        "IMAGE_OPTION": 4,
+        "OPT_EMPTY": 1,
+        "MATERIAL_IMAGE": 3
+      },
+      "moduleCounts": {
+        "changshi": 20,
+        "yanyu": 40,
+        "shuliang": 10,
+        "panduan": 35,
+        "ziliao": 15
+      },
+      "moduleAnswers": {
+        "changshi": 20,
+        "yanyu": 40,
+        "shuliang": 10,
+        "panduan": 35,
+        "ziliao": 15
+      },
+      "moduleExplanations": {
+        "changshi": 20,
+        "yanyu": 40,
+        "shuliang": 10,
+        "panduan": 35,
+        "ziliao": 15
+      },
+      "modulePlaceholders": {
+        "changshi": 0,
+        "yanyu": 0,
+        "shuliang": 0,
+        "panduan": 0,
+        "ziliao": 0
+      },
+      "moduleImages": {
+        "changshi": 0,
+        "yanyu": 0,
+        "shuliang": 0,
+        "panduan": 5,
+        "ziliao": 0
+      },
+      "answerSourceEmpty": false,
+      "answerOnlySource": false,
+      "rawLength": 21212,
+      "answerLength": 27884,
+      "elapsedMs": 99,
+      "note": "blocks=120, answers=120, quick=0"
+    },
+    {
+      "year": 2015,
+      "label": "425联考",
+      "questionName": "2015年425公务员联考《行测》(福建、云南、青海).docx",
+      "answerName": "2015年425公务员联考《行测》答案及解析(福建、云南、青海).docx",
+      "pairNote": "same-year-and-label",
+      "answerFileMissing": false,
+      "status": "ok",
+      "questionCount": 120,
+      "maxNum": 120,
+      "placeholderCount": 0,
+      "placeholders": [],
+      "missingNums": [],
+      "withAnswer": 119,
+      "withExplanation": 119,
+      "imageQuestions": 8,
+      "errors": 2,
+      "warnings": 5,
+      "issueCodes": {
+        "MISSING_ANSWER": 1,
+        "MISSING_ANALYSIS": 1,
+        "IMAGE_OPTION": 3,
+        "MATERIAL_IMAGE": 2
+      },
+      "moduleCounts": {
+        "changshi": 20,
+        "yanyu": 40,
+        "shuliang": 10,
+        "panduan": 35,
+        "ziliao": 15
+      },
+      "moduleAnswers": {
+        "changshi": 20,
+        "yanyu": 40,
+        "shuliang": 9,
+        "panduan": 35,
+        "ziliao": 15
+      },
+      "moduleExplanations": {
+        "changshi": 20,
+        "yanyu": 40,
+        "shuliang": 9,
+        "panduan": 35,
+        "ziliao": 15
+      },
+      "modulePlaceholders": {
+        "changshi": 0,
+        "yanyu": 0,
+        "shuliang": 0,
+        "panduan": 0,
+        "ziliao": 0
+      },
+      "moduleImages": {
+        "changshi": 1,
+        "yanyu": 0,
+        "shuliang": 1,
+        "panduan": 6,
+        "ziliao": 0
+      },
+      "answerSourceEmpty": false,
+      "answerOnlySource": false,
+      "rawLength": 22068,
+      "answerLength": 26306,
+      "elapsedMs": 98,
+      "note": "blocks=119, answers=119, quick=0"
+    },
+    {
+      "year": 2016,
+      "label": "423联考",
+      "questionName": "2016年423联考《行测》真题（云南卷）.docx",
+      "answerName": "2016年423联考《行测》真题（云南卷）答案及解析.docx",
+      "pairNote": "same-year-and-label",
+      "answerFileMissing": false,
+      "status": "ok",
+      "questionCount": 120,
+      "maxNum": 120,
+      "placeholderCount": 1,
+      "placeholders": [
+        21
+      ],
+      "missingNums": [
+        21
+      ],
+      "withAnswer": 119,
+      "withExplanation": 119,
+      "imageQuestions": 8,
+      "errors": 4,
+      "warnings": 7,
+      "issueCodes": {
+        "QNO_PLACEHOLDER": 1,
+        "OPT_NOT_4": 1,
+        "MISSING_ANSWER": 1,
+        "MISSING_ANALYSIS": 1,
+        "IMAGE_OPTION": 5,
+        "MATERIAL_IMAGE": 2
+      },
+      "moduleCounts": {
+        "changshi": 21,
+        "yanyu": 39,
+        "shuliang": 10,
+        "panduan": 35,
+        "ziliao": 15
+      },
+      "moduleAnswers": {
+        "changshi": 20,
+        "yanyu": 39,
+        "shuliang": 10,
+        "panduan": 35,
+        "ziliao": 15
+      },
+      "moduleExplanations": {
+        "changshi": 20,
+        "yanyu": 39,
+        "shuliang": 10,
+        "panduan": 35,
+        "ziliao": 15
+      },
+      "modulePlaceholders": {
+        "changshi": 1,
+        "yanyu": 0,
+        "shuliang": 0,
+        "panduan": 0,
+        "ziliao": 0
+      },
+      "moduleImages": {
+        "changshi": 1,
+        "yanyu": 0,
+        "shuliang": 2,
+        "panduan": 5,
+        "ziliao": 0
+      },
+      "answerSourceEmpty": false,
+      "answerOnlySource": false,
+      "rawLength": 20338,
+      "answerLength": 34253,
+      "elapsedMs": 109,
+      "note": "blocks=120, answers=119, quick=0"
+    },
+    {
+      "year": 2017,
+      "label": "422联考",
+      "questionName": "2017年422公务员联考《行测》真题（云南卷）.docx",
+      "answerName": "2017年422公务员联考《行测》真题（云南卷）答案及解析.docx",
+      "pairNote": "same-year-and-label",
+      "answerFileMissing": false,
+      "status": "ok",
+      "questionCount": 120,
+      "maxNum": 120,
+      "placeholderCount": 0,
+      "placeholders": [],
+      "missingNums": [],
+      "withAnswer": 118,
+      "withExplanation": 118,
+      "imageQuestions": 12,
+      "errors": 4,
+      "warnings": 9,
+      "issueCodes": {
+        "IMAGE_OPTION": 7,
+        "MISSING_ANSWER": 2,
+        "MISSING_ANALYSIS": 2,
+        "MATERIAL_IMAGE": 2
+      },
+      "moduleCounts": {
+        "changshi": 20,
+        "yanyu": 40,
+        "shuliang": 10,
+        "panduan": 35,
+        "ziliao": 15
+      },
+      "moduleAnswers": {
+        "changshi": 20,
+        "yanyu": 40,
+        "shuliang": 10,
+        "panduan": 33,
+        "ziliao": 15
+      },
+      "moduleExplanations": {
+        "changshi": 20,
+        "yanyu": 40,
+        "shuliang": 10,
+        "panduan": 33,
+        "ziliao": 15
+      },
+      "modulePlaceholders": {
+        "changshi": 0,
+        "yanyu": 0,
+        "shuliang": 0,
+        "panduan": 0,
+        "ziliao": 0
+      },
+      "moduleImages": {
+        "changshi": 2,
+        "yanyu": 0,
+        "shuliang": 5,
+        "panduan": 5,
+        "ziliao": 0
+      },
+      "answerSourceEmpty": false,
+      "answerOnlySource": false,
+      "rawLength": 21393,
+      "answerLength": 34936,
+      "elapsedMs": 118,
+      "note": "blocks=118, answers=118, quick=0"
+    },
+    {
+      "year": 2018,
+      "label": "421联考",
+      "questionName": "2018年421联考《行测》真题（云南卷）.docx",
+      "answerName": "2018年421联考《行测》真题（云南卷）答案及解析.docx",
+      "pairNote": "same-year-and-label",
+      "answerFileMissing": false,
+      "status": "ok",
+      "questionCount": 120,
+      "maxNum": 120,
+      "placeholderCount": 0,
+      "placeholders": [],
+      "missingNums": [],
+      "withAnswer": 119,
+      "withExplanation": 120,
+      "imageQuestions": 13,
+      "errors": 1,
+      "warnings": 13,
+      "issueCodes": {
+        "MISSING_ANSWER": 1,
+        "IMAGE_OPTION": 6,
+        "MATERIAL_IMAGE": 2,
+        "MATERIAL_MISSING": 5
+      },
+      "moduleCounts": {
+        "changshi": 20,
+        "yanyu": 40,
+        "shuliang": 45,
+        "panduan": 0,
+        "ziliao": 15
+      },
+      "moduleAnswers": {
+        "changshi": 19,
+        "yanyu": 40,
+        "shuliang": 45,
+        "panduan": 0,
+        "ziliao": 15
+      },
+      "moduleExplanations": {
+        "changshi": 20,
+        "yanyu": 40,
+        "shuliang": 45,
+        "panduan": 0,
+        "ziliao": 15
+      },
+      "modulePlaceholders": {
+        "changshi": 0,
+        "yanyu": 0,
+        "shuliang": 0,
+        "panduan": 0,
+        "ziliao": 0
+      },
+      "moduleImages": {
+        "changshi": 4,
+        "yanyu": 0,
+        "shuliang": 9,
+        "panduan": 0,
+        "ziliao": 0
+      },
+      "answerSourceEmpty": false,
+      "answerOnlySource": false,
+      "rawLength": 22657,
+      "answerLength": 36266,
+      "elapsedMs": 121,
+      "note": "blocks=120, answers=120, quick=0"
+    },
+    {
+      "year": 2019,
+      "label": "420联考",
+      "questionName": "2019年420联考《行测》真题（云南卷）.docx",
+      "answerName": "2019年420联考《行测》真题（云南卷）答案及解析.docx",
+      "pairNote": "same-year-and-label",
+      "answerFileMissing": false,
+      "status": "ok",
+      "questionCount": 120,
+      "maxNum": 120,
+      "placeholderCount": 1,
+      "placeholders": [
+        55
+      ],
+      "missingNums": [
+        55
+      ],
+      "withAnswer": 118,
+      "withExplanation": 118,
+      "imageQuestions": 15,
+      "errors": 6,
+      "warnings": 10,
+      "issueCodes": {
+        "QNO_PLACEHOLDER": 1,
+        "OPT_NOT_4": 1,
+        "MISSING_ANSWER": 2,
+        "MISSING_ANALYSIS": 2,
+        "IMAGE_OPTION": 8,
+        "MATERIAL_IMAGE": 2
+      },
+      "moduleCounts": {
+        "changshi": 20,
+        "yanyu": 35,
+        "shuliang": 10,
+        "panduan": 40,
+        "ziliao": 15
+      },
+      "moduleAnswers": {
+        "changshi": 20,
+        "yanyu": 34,
+        "shuliang": 9,
+        "panduan": 40,
+        "ziliao": 15
+      },
+      "moduleExplanations": {
+        "changshi": 20,
+        "yanyu": 34,
+        "shuliang": 9,
+        "panduan": 40,
+        "ziliao": 15
+      },
+      "modulePlaceholders": {
+        "changshi": 0,
+        "yanyu": 1,
+        "shuliang": 0,
+        "panduan": 0,
+        "ziliao": 0
+      },
+      "moduleImages": {
+        "changshi": 1,
+        "yanyu": 0,
+        "shuliang": 4,
+        "panduan": 10,
+        "ziliao": 0
+      },
+      "answerSourceEmpty": false,
+      "answerOnlySource": false,
+      "rawLength": 21818,
+      "answerLength": 36942,
+      "elapsedMs": 121,
+      "note": "blocks=119, answers=118, quick=0"
+    },
+    {
+      "year": 2020,
+      "label": "未标注",
+      "questionName": "2020年0822云南公务员考试《行测》真题.docx",
+      "answerName": "2020年0822云南公务员考试《行测》真题参考答案及解析.docx",
+      "pairNote": "same-year-and-label",
+      "answerFileMissing": false,
+      "status": "ok",
+      "questionCount": 120,
+      "maxNum": 120,
+      "placeholderCount": 0,
+      "placeholders": [],
+      "missingNums": [],
+      "withAnswer": 120,
+      "withExplanation": 120,
+      "imageQuestions": 23,
+      "errors": 0,
+      "warnings": 9,
+      "issueCodes": {
+        "IMAGE_OPTION": 8,
+        "MATERIAL_IMAGE": 1
+      },
+      "moduleCounts": {
+        "changshi": 20,
+        "yanyu": 35,
+        "shuliang": 10,
+        "panduan": 40,
+        "ziliao": 15
+      },
+      "moduleAnswers": {
+        "changshi": 20,
+        "yanyu": 35,
+        "shuliang": 10,
+        "panduan": 40,
+        "ziliao": 15
+      },
+      "moduleExplanations": {
+        "changshi": 20,
+        "yanyu": 35,
+        "shuliang": 10,
+        "panduan": 40,
+        "ziliao": 15
+      },
+      "modulePlaceholders": {
+        "changshi": 0,
+        "yanyu": 0,
+        "shuliang": 0,
+        "panduan": 0,
+        "ziliao": 0
+      },
+      "moduleImages": {
+        "changshi": 1,
+        "yanyu": 0,
+        "shuliang": 3,
+        "panduan": 9,
+        "ziliao": 10
+      },
+      "answerSourceEmpty": false,
+      "answerOnlySource": false,
+      "rawLength": 21541,
+      "answerLength": 47807,
+      "elapsedMs": 171,
+      "note": "blocks=120, answers=120, quick=0"
+    },
+    {
+      "year": 2021,
+      "label": "未标注",
+      "questionName": "2021年0327云南公务员考试《行测》真题.docx",
+      "answerName": "2021年0327云南公务员考试《行测》真题参考答案及解析.docx",
+      "pairNote": "same-year-and-label",
+      "answerFileMissing": false,
+      "status": "ok",
+      "questionCount": 100,
+      "maxNum": 100,
+      "placeholderCount": 0,
+      "placeholders": [],
+      "missingNums": [],
+      "withAnswer": 98,
+      "withExplanation": 98,
+      "imageQuestions": 14,
+      "errors": 6,
+      "warnings": 9,
+      "issueCodes": {
+        "ANSWER_CONFLICT": 2,
+        "MISSING_ANSWER": 2,
+        "MISSING_ANALYSIS": 2,
+        "IMAGE_OPTION": 7,
+        "OPT_PARTIAL": 1,
+        "MATERIAL_IMAGE": 1
+      },
+      "moduleCounts": {
+        "changshi": 20,
+        "yanyu": 25,
+        "shuliang": 10,
+        "panduan": 30,
+        "ziliao": 15
+      },
+      "moduleAnswers": {
+        "changshi": 20,
+        "yanyu": 23,
+        "shuliang": 10,
+        "panduan": 30,
+        "ziliao": 15
+      },
+      "moduleExplanations": {
+        "changshi": 20,
+        "yanyu": 23,
+        "shuliang": 10,
+        "panduan": 30,
+        "ziliao": 15
+      },
+      "modulePlaceholders": {
+        "changshi": 0,
+        "yanyu": 0,
+        "shuliang": 0,
+        "panduan": 0,
+        "ziliao": 0
+      },
+      "moduleImages": {
+        "changshi": 1,
+        "yanyu": 0,
+        "shuliang": 6,
+        "panduan": 6,
+        "ziliao": 1
+      },
+      "answerSourceEmpty": false,
+      "answerOnlySource": false,
+      "rawLength": 21010,
+      "answerLength": 40382,
+      "elapsedMs": 173,
+      "note": "blocks=98, answers=98, quick=0"
+    },
+    {
+      "year": 2022,
+      "label": "未标注",
+      "questionName": "2022年云南省公务员录用考试《行测》题.docx",
+      "answerName": "2022年云南省公务员录用考试《行测》题的答案与解析.docx",
+      "pairNote": "same-year-and-label",
+      "answerFileMissing": false,
+      "status": "ok",
+      "questionCount": 110,
+      "maxNum": 110,
+      "placeholderCount": 0,
+      "placeholders": [],
+      "missingNums": [],
+      "withAnswer": 110,
+      "withExplanation": 110,
+      "imageQuestions": 5,
+      "errors": 2,
+      "warnings": 5,
+      "issueCodes": {
+        "OPT_SPLIT_FAIL": 1,
+        "IMAGE_OPTION": 3,
+        "MATERIAL_IMAGE": 2,
+        "OPT_NOT_4": 1
+      },
+      "moduleCounts": {
+        "changshi": 20,
+        "yanyu": 38,
+        "shuliang": 37,
+        "panduan": 0,
+        "ziliao": 15
+      },
+      "moduleAnswers": {
+        "changshi": 20,
+        "yanyu": 38,
+        "shuliang": 37,
+        "panduan": 0,
+        "ziliao": 15
+      },
+      "moduleExplanations": {
+        "changshi": 20,
+        "yanyu": 38,
+        "shuliang": 37,
+        "panduan": 0,
+        "ziliao": 15
+      },
+      "modulePlaceholders": {
+        "changshi": 0,
+        "yanyu": 0,
+        "shuliang": 0,
+        "panduan": 0,
+        "ziliao": 0
+      },
+      "moduleImages": {
+        "changshi": 1,
+        "yanyu": 0,
+        "shuliang": 3,
+        "panduan": 0,
+        "ziliao": 1
+      },
+      "answerSourceEmpty": false,
+      "answerOnlySource": false,
+      "rawLength": 21177,
+      "answerLength": 45774,
+      "elapsedMs": 211,
+      "note": "blocks=110, answers=110, quick=0"
+    },
+    {
+      "year": 2023,
+      "label": "未标注",
+      "questionName": "2023年云南公务员录用考试《行测》题.docx",
+      "answerName": "2023年云南公务员录用考试《行测》题及答案解析.docx",
+      "pairNote": "same-year-and-label",
+      "answerFileMissing": false,
+      "status": "ok",
+      "questionCount": 100,
+      "maxNum": 100,
+      "placeholderCount": 1,
+      "placeholders": [
+        53
+      ],
+      "missingNums": [
+        53
+      ],
+      "withAnswer": 98,
+      "withExplanation": 99,
+      "imageQuestions": 10,
+      "errors": 5,
+      "warnings": 3,
+      "issueCodes": {
+        "QNO_PLACEHOLDER": 1,
+        "OPT_NOT_4": 1,
+        "MISSING_ANSWER": 2,
+        "MISSING_ANALYSIS": 1,
+        "MATERIAL_IMAGE": 2,
+        "IMAGE_OPTION": 1
+      },
+      "moduleCounts": {
+        "changshi": 20,
+        "yanyu": 25,
+        "shuliang": 10,
+        "panduan": 30,
+        "ziliao": 15
+      },
+      "moduleAnswers": {
+        "changshi": 20,
+        "yanyu": 25,
+        "shuliang": 8,
+        "panduan": 30,
+        "ziliao": 15
+      },
+      "moduleExplanations": {
+        "changshi": 20,
+        "yanyu": 25,
+        "shuliang": 9,
+        "panduan": 30,
+        "ziliao": 15
+      },
+      "modulePlaceholders": {
+        "changshi": 0,
+        "yanyu": 0,
+        "shuliang": 1,
+        "panduan": 0,
+        "ziliao": 0
+      },
+      "moduleImages": {
+        "changshi": 0,
+        "yanyu": 0,
+        "shuliang": 4,
+        "panduan": 5,
+        "ziliao": 1
+      },
+      "answerSourceEmpty": false,
+      "answerOnlySource": false,
+      "rawLength": 21538,
+      "answerLength": 43780,
+      "elapsedMs": 220,
+      "note": "blocks=100, answers=99, quick=0"
+    },
+    {
+      "year": 2024,
+      "label": "未标注",
+      "questionName": "2024年云南公务员录用考试《行测》题（网友回忆版）.docx",
+      "answerName": "2024年云南省公务员录用考试《行测》答案及解析.docx",
+      "pairNote": "same-year-and-label",
+      "answerFileMissing": false,
+      "status": "ok",
+      "questionCount": 100,
+      "maxNum": 100,
+      "placeholderCount": 0,
+      "placeholders": [],
+      "missingNums": [],
+      "withAnswer": 100,
+      "withExplanation": 100,
+      "imageQuestions": 19,
+      "errors": 0,
+      "warnings": 3,
+      "issueCodes": {
+        "MATERIAL_IMAGE": 2,
+        "IMAGE_OPTION": 1
+      },
+      "moduleCounts": {
+        "changshi": 20,
+        "yanyu": 25,
+        "shuliang": 10,
+        "panduan": 30,
+        "ziliao": 15
+      },
+      "moduleAnswers": {
+        "changshi": 20,
+        "yanyu": 25,
+        "shuliang": 10,
+        "panduan": 30,
+        "ziliao": 15
+      },
+      "moduleExplanations": {
+        "changshi": 20,
+        "yanyu": 25,
+        "shuliang": 10,
+        "panduan": 30,
+        "ziliao": 15
+      },
+      "modulePlaceholders": {
+        "changshi": 0,
+        "yanyu": 0,
+        "shuliang": 0,
+        "panduan": 0,
+        "ziliao": 0
+      },
+      "moduleImages": {
+        "changshi": 4,
+        "yanyu": 2,
+        "shuliang": 2,
+        "panduan": 8,
+        "ziliao": 3
+      },
+      "answerSourceEmpty": false,
+      "answerOnlySource": false,
+      "rawLength": 19921,
+      "answerLength": 45156,
+      "elapsedMs": 184,
+      "note": "blocks=100, answers=100, quick=0"
+    },
+    {
+      "year": 2025,
+      "label": "未标注",
+      "questionName": "2025年315云南省公务员录用考试《行测》题本.docx",
+      "answerName": "2025年315云南省公务员录用考试《行测》答案及解析.docx",
+      "pairNote": "same-year-and-label",
+      "answerFileMissing": false,
+      "status": "ok",
+      "questionCount": 110,
+      "maxNum": 110,
+      "placeholderCount": 1,
+      "placeholders": [
+        45
+      ],
+      "missingNums": [
+        45
+      ],
+      "withAnswer": 105,
+      "withExplanation": 106,
+      "imageQuestions": 14,
+      "errors": 11,
+      "warnings": 21,
+      "issueCodes": {
+        "MODULE_INFERRED": 10,
+        "QNO_PLACEHOLDER": 1,
+        "MISSING_ANSWER": 5,
+        "MISSING_ANALYSIS": 4,
+        "OPT_NOT_4": 1,
+        "IMAGE_OPTION": 9,
+        "MATERIAL_IMAGE": 2
+      },
+      "moduleCounts": {
+        "changshi": 20,
+        "yanyu": 30,
+        "shuliang": 10,
+        "panduan": 35,
+        "ziliao": 15
+      },
+      "moduleAnswers": {
+        "changshi": 16,
+        "yanyu": 29,
+        "shuliang": 10,
+        "panduan": 35,
+        "ziliao": 15
+      },
+      "moduleExplanations": {
+        "changshi": 17,
+        "yanyu": 29,
+        "shuliang": 10,
+        "panduan": 35,
+        "ziliao": 15
+      },
+      "modulePlaceholders": {
+        "changshi": 0,
+        "yanyu": 1,
+        "shuliang": 0,
+        "panduan": 0,
+        "ziliao": 0
+      },
+      "moduleImages": {
+        "changshi": 0,
+        "yanyu": 0,
+        "shuliang": 3,
+        "panduan": 7,
+        "ziliao": 4
+      },
+      "answerSourceEmpty": false,
+      "answerOnlySource": false,
+      "rawLength": 20745,
+      "answerLength": 44942,
+      "elapsedMs": 183,
+      "note": "blocks=107, answers=106, quick=0"
+    }
+  ]
+}

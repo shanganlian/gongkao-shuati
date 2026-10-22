@@ -1,0 +1,1275 @@
+{
+  "province": "浙江",
+  "generatedAt": "2026-10-21T14:13:30.283Z",
+  "thresholds": {
+    "answerDistribution": "有效答案>=20，且最大字母占比>=55%；最大占比>=65%或字母缺项为严重失衡",
+    "explanationWindow": 120
+  },
+  "counts": {
+    "questions": 4743,
+    "papers": 39,
+    "answerAnomalyPapers": 0,
+    "e07": 71,
+    "explanationHighConfidence": 0,
+    "explanationWeak": 14
+  },
+  "answerDistribution": [
+    {
+      "paper": "2005年浙江公务员考试《行测》",
+      "counts": {
+        "A": 19,
+        "B": 17,
+        "C": 25,
+        "D": 20
+      },
+      "total": 81,
+      "invalid": 22,
+      "maxShare": 0.30864197530864196,
+      "zeroLetters": [],
+      "status": "正常",
+      "anomaly": false
+    },
+    {
+      "paper": "2006年浙江公务员考试《行测》",
+      "counts": {
+        "A": 19,
+        "B": 24,
+        "C": 33,
+        "D": 23
+      },
+      "total": 99,
+      "invalid": 36,
+      "maxShare": 0.3333333333333333,
+      "zeroLetters": [],
+      "status": "正常",
+      "anomaly": false
+    },
+    {
+      "paper": "2007年浙江公务员考试《行测》",
+      "counts": {
+        "A": 32,
+        "B": 36,
+        "C": 27,
+        "D": 28
+      },
+      "total": 123,
+      "invalid": 2,
+      "maxShare": 0.2926829268292683,
+      "zeroLetters": [],
+      "status": "正常",
+      "anomaly": false
+    },
+    {
+      "paper": "2008年浙江公务员考试《行测》",
+      "counts": {
+        "A": 26,
+        "B": 29,
+        "C": 31,
+        "D": 24
+      },
+      "total": 110,
+      "invalid": 20,
+      "maxShare": 0.2818181818181818,
+      "zeroLetters": [],
+      "status": "正常",
+      "anomaly": false
+    },
+    {
+      "paper": "2009年浙江公务员考试《行测》",
+      "counts": {
+        "A": 24,
+        "B": 37,
+        "C": 37,
+        "D": 30
+      },
+      "total": 128,
+      "invalid": 2,
+      "maxShare": 0.2890625,
+      "zeroLetters": [],
+      "status": "正常",
+      "anomaly": false
+    },
+    {
+      "paper": "2010年浙江公务员考试《行测》",
+      "counts": {
+        "A": 29,
+        "B": 30,
+        "C": 39,
+        "D": 32
+      },
+      "total": 130,
+      "invalid": 0,
+      "maxShare": 0.3,
+      "zeroLetters": [],
+      "status": "正常",
+      "anomaly": false
+    },
+    {
+      "paper": "2011年浙江公务员考试《行测》",
+      "counts": {
+        "A": 26,
+        "B": 39,
+        "C": 35,
+        "D": 30
+      },
+      "total": 130,
+      "invalid": 0,
+      "maxShare": 0.3,
+      "zeroLetters": [],
+      "status": "正常",
+      "anomaly": false
+    },
+    {
+      "paper": "2012年浙江公务员考试《行测》",
+      "counts": {
+        "A": 27,
+        "B": 29,
+        "C": 40,
+        "D": 33
+      },
+      "total": 129,
+      "invalid": 1,
+      "maxShare": 0.31007751937984496,
+      "zeroLetters": [],
+      "status": "正常",
+      "anomaly": false
+    },
+    {
+      "paper": "2013年浙江公务员考试《行测》（A卷）",
+      "counts": {
+        "A": 33,
+        "B": 35,
+        "C": 31,
+        "D": 29
+      },
+      "total": 128,
+      "invalid": 2,
+      "maxShare": 0.2734375,
+      "zeroLetters": [],
+      "status": "正常",
+      "anomaly": false
+    },
+    {
+      "paper": "2013年浙江公务员考试《行测》（B卷）",
+      "counts": {
+        "A": 30,
+        "B": 34,
+        "C": 31,
+        "D": 25
+      },
+      "total": 120,
+      "invalid": 0,
+      "maxShare": 0.2833333333333333,
+      "zeroLetters": [],
+      "status": "正常",
+      "anomaly": false
+    },
+    {
+      "paper": "2014年浙江公务员考试《行测》（A卷）",
+      "counts": {
+        "A": 28,
+        "B": 41,
+        "C": 28,
+        "D": 29
+      },
+      "total": 126,
+      "invalid": 4,
+      "maxShare": 0.3253968253968254,
+      "zeroLetters": [],
+      "status": "正常",
+      "anomaly": false
+    },
+    {
+      "paper": "2014年浙江公务员考试《行测》（B卷）",
+      "counts": {
+        "A": 26,
+        "B": 38,
+        "C": 27,
+        "D": 26
+      },
+      "total": 117,
+      "invalid": 3,
+      "maxShare": 0.3247863247863248,
+      "zeroLetters": [],
+      "status": "正常",
+      "anomaly": false
+    },
+    {
+      "paper": "2015年浙江公务员考试《行测》（A卷）",
+      "counts": {
+        "A": 26,
+        "B": 32,
+        "C": 36,
+        "D": 28
+      },
+      "total": 122,
+      "invalid": 3,
+      "maxShare": 0.29508196721311475,
+      "zeroLetters": [],
+      "status": "正常",
+      "anomaly": false
+    },
+    {
+      "paper": "2015年浙江公务员考试《行测》（B卷）",
+      "counts": {
+        "A": 24,
+        "B": 30,
+        "C": 35,
+        "D": 28
+      },
+      "total": 117,
+      "invalid": 3,
+      "maxShare": 0.29914529914529914,
+      "zeroLetters": [],
+      "status": "正常",
+      "anomaly": false
+    },
+    {
+      "paper": "2016年浙江公务员考试《行测》（A卷）",
+      "counts": {
+        "A": 35,
+        "B": 30,
+        "C": 36,
+        "D": 24
+      },
+      "total": 125,
+      "invalid": 0,
+      "maxShare": 0.288,
+      "zeroLetters": [],
+      "status": "正常",
+      "anomaly": false
+    },
+    {
+      "paper": "2016年浙江公务员考试《行测》（B卷）",
+      "counts": {
+        "A": 32,
+        "B": 30,
+        "C": 33,
+        "D": 24
+      },
+      "total": 119,
+      "invalid": 1,
+      "maxShare": 0.2773109243697479,
+      "zeroLetters": [],
+      "status": "正常",
+      "anomaly": false
+    },
+    {
+      "paper": "2017年浙江公务员考试《行测》（A卷）",
+      "counts": {
+        "A": 20,
+        "B": 42,
+        "C": 32,
+        "D": 31
+      },
+      "total": 125,
+      "invalid": 0,
+      "maxShare": 0.336,
+      "zeroLetters": [],
+      "status": "正常",
+      "anomaly": false
+    },
+    {
+      "paper": "2017年浙江公务员考试《行测》（B卷）",
+      "counts": {
+        "A": 18,
+        "B": 41,
+        "C": 31,
+        "D": 30
+      },
+      "total": 120,
+      "invalid": 0,
+      "maxShare": 0.3416666666666667,
+      "zeroLetters": [],
+      "status": "正常",
+      "anomaly": false
+    },
+    {
+      "paper": "2018年浙江公务员考试《行测》（A卷）",
+      "counts": {
+        "A": 39,
+        "B": 33,
+        "C": 33,
+        "D": 33
+      },
+      "total": 138,
+      "invalid": 2,
+      "maxShare": 0.2826086956521739,
+      "zeroLetters": [],
+      "status": "正常",
+      "anomaly": false
+    },
+    {
+      "paper": "2018年浙江公务员考试《行测》（B卷）",
+      "counts": {
+        "A": 40,
+        "B": 34,
+        "C": 33,
+        "D": 33
+      },
+      "total": 140,
+      "invalid": 0,
+      "maxShare": 0.2857142857142857,
+      "zeroLetters": [],
+      "status": "正常",
+      "anomaly": false
+    },
+    {
+      "paper": "2019年浙江公务员考试《行测》（A类）",
+      "counts": {
+        "A": 35,
+        "B": 30,
+        "C": 32,
+        "D": 33
+      },
+      "total": 130,
+      "invalid": 0,
+      "maxShare": 0.2692307692307692,
+      "zeroLetters": [],
+      "status": "正常",
+      "anomaly": false
+    },
+    {
+      "paper": "2019年浙江公务员考试《行测》（B类）",
+      "counts": {
+        "A": 34,
+        "B": 30,
+        "C": 32,
+        "D": 34
+      },
+      "total": 130,
+      "invalid": 0,
+      "maxShare": 0.26153846153846155,
+      "zeroLetters": [],
+      "status": "正常",
+      "anomaly": false
+    },
+    {
+      "paper": "2020年浙江公务员考试《行测》（选调）",
+      "counts": {
+        "A": 14,
+        "B": 15,
+        "C": 14,
+        "D": 11
+      },
+      "total": 54,
+      "invalid": 1,
+      "maxShare": 0.2777777777777778,
+      "zeroLetters": [],
+      "status": "正常",
+      "anomaly": false
+    },
+    {
+      "paper": "2020年浙江公务员考试《行测》（A卷）",
+      "counts": {
+        "A": 25,
+        "B": 27,
+        "C": 25,
+        "D": 23
+      },
+      "total": 100,
+      "invalid": 0,
+      "maxShare": 0.27,
+      "zeroLetters": [],
+      "status": "正常",
+      "anomaly": false
+    },
+    {
+      "paper": "2020年浙江公务员考试《行测》（B卷）",
+      "counts": {
+        "A": 24,
+        "B": 27,
+        "C": 26,
+        "D": 23
+      },
+      "total": 100,
+      "invalid": 0,
+      "maxShare": 0.27,
+      "zeroLetters": [],
+      "status": "正常",
+      "anomaly": false
+    },
+    {
+      "paper": "2021年浙江公务员考试《行测》（A类）",
+      "counts": {
+        "A": 28,
+        "B": 40,
+        "C": 29,
+        "D": 33
+      },
+      "total": 130,
+      "invalid": 0,
+      "maxShare": 0.3076923076923077,
+      "zeroLetters": [],
+      "status": "正常",
+      "anomaly": false
+    },
+    {
+      "paper": "2021年浙江公务员考试《行测》（B类）",
+      "counts": {
+        "A": 26,
+        "B": 36,
+        "C": 29,
+        "D": 33
+      },
+      "total": 124,
+      "invalid": 1,
+      "maxShare": 0.2903225806451613,
+      "zeroLetters": [],
+      "status": "正常",
+      "anomaly": false
+    },
+    {
+      "paper": "2021年浙江公务员考试《行测》（C类）",
+      "counts": {
+        "A": 27,
+        "B": 35,
+        "C": 28,
+        "D": 28
+      },
+      "total": 118,
+      "invalid": 2,
+      "maxShare": 0.2966101694915254,
+      "zeroLetters": [],
+      "status": "正常",
+      "anomaly": false
+    },
+    {
+      "paper": "2022年浙江公务员考试《行测》（A类）",
+      "counts": {
+        "A": 25,
+        "B": 39,
+        "C": 34,
+        "D": 26
+      },
+      "total": 124,
+      "invalid": 1,
+      "maxShare": 0.31451612903225806,
+      "zeroLetters": [],
+      "status": "正常",
+      "anomaly": false
+    },
+    {
+      "paper": "2022年浙江公务员考试《行测》（C类）",
+      "counts": {
+        "A": 23,
+        "B": 38,
+        "C": 33,
+        "D": 24
+      },
+      "total": 118,
+      "invalid": 2,
+      "maxShare": 0.3220338983050847,
+      "zeroLetters": [],
+      "status": "正常",
+      "anomaly": false
+    },
+    {
+      "paper": "2023年浙江公务员考试《行测》（A类）",
+      "counts": {
+        "A": 26,
+        "B": 25,
+        "C": 29,
+        "D": 32
+      },
+      "total": 112,
+      "invalid": 13,
+      "maxShare": 0.2857142857142857,
+      "zeroLetters": [],
+      "status": "正常",
+      "anomaly": false
+    },
+    {
+      "paper": "2023年浙江公务员考试《行测》（B类）",
+      "counts": {
+        "A": 24,
+        "B": 24,
+        "C": 30,
+        "D": 29
+      },
+      "total": 107,
+      "invalid": 13,
+      "maxShare": 0.2803738317757009,
+      "zeroLetters": [],
+      "status": "正常",
+      "anomaly": false
+    },
+    {
+      "paper": "2023年浙江公务员考试《行测》（C类）",
+      "counts": {
+        "A": 23,
+        "B": 20,
+        "C": 27,
+        "D": 25
+      },
+      "total": 95,
+      "invalid": 20,
+      "maxShare": 0.28421052631578947,
+      "zeroLetters": [],
+      "status": "正常",
+      "anomaly": false
+    },
+    {
+      "paper": "2024年浙江公务员考试《行测》（A类）",
+      "counts": {
+        "A": 31,
+        "B": 32,
+        "C": 30,
+        "D": 31
+      },
+      "total": 124,
+      "invalid": 1,
+      "maxShare": 0.25806451612903225,
+      "zeroLetters": [],
+      "status": "正常",
+      "anomaly": false
+    },
+    {
+      "paper": "2024年浙江公务员考试《行测》（B类）",
+      "counts": {
+        "A": 29,
+        "B": 30,
+        "C": 29,
+        "D": 31
+      },
+      "total": 119,
+      "invalid": 1,
+      "maxShare": 0.2605042016806723,
+      "zeroLetters": [],
+      "status": "正常",
+      "anomaly": false
+    },
+    {
+      "paper": "2024年浙江公务员考试《行测》（C类）",
+      "counts": {
+        "A": 28,
+        "B": 28,
+        "C": 28,
+        "D": 30
+      },
+      "total": 114,
+      "invalid": 1,
+      "maxShare": 0.2631578947368421,
+      "zeroLetters": [],
+      "status": "正常",
+      "anomaly": false
+    },
+    {
+      "paper": "2025年浙江公务员考试《行测》（A类）",
+      "counts": {
+        "A": 31,
+        "B": 32,
+        "C": 30,
+        "D": 31
+      },
+      "total": 124,
+      "invalid": 1,
+      "maxShare": 0.25806451612903225,
+      "zeroLetters": [],
+      "status": "正常",
+      "anomaly": false
+    },
+    {
+      "paper": "2025年浙江公务员考试《行测》（B类）",
+      "counts": {
+        "A": 30,
+        "B": 30,
+        "C": 28,
+        "D": 31
+      },
+      "total": 119,
+      "invalid": 1,
+      "maxShare": 0.2605042016806723,
+      "zeroLetters": [],
+      "status": "正常",
+      "anomaly": false
+    },
+    {
+      "paper": "2025年浙江公务员考试《行测》（C类）",
+      "counts": {
+        "A": 0,
+        "B": 1,
+        "C": 3,
+        "D": 1
+      },
+      "total": 5,
+      "invalid": 110,
+      "maxShare": 0.6,
+      "zeroLetters": [
+        "A"
+      ],
+      "status": "样本不足",
+      "anomaly": false
+    }
+  ],
+  "e07": [
+    {
+      "id": "prov-zhejiang-2007-未标注-2",
+      "paper": "2007年浙江公务员考试《行测》",
+      "module": "shuliang",
+      "pos": 12,
+      "excerpt": "100 8 1 ( ) A、 B、 C、 D、"
+    },
+    {
+      "id": "prov-zhejiang-2007-未标注-22",
+      "paper": "2007年浙江公务员考试《行测》",
+      "module": "shuliang",
+      "pos": 68,
+      "excerpt": " 的两 倍， 问阴影部分的面积为多少？ A、 B、 C、 D、"
+    },
+    {
+      "id": "prov-zhejiang-2008-未标注-2",
+      "paper": "2008年浙江公务员考试《行测》",
+      "module": "shuliang",
+      "pos": 21,
+      "excerpt": " ，4 ，3 ，1 ， ， ， 。 A 、 B、 C、 D、"
+    },
+    {
+      "id": "prov-zhejiang-2008-未标注-4",
+      "paper": "2008年浙江公务员考试《行测》",
+      "module": "shuliang",
+      "pos": 24,
+      "excerpt": "-6 ，14 ，4 ，9 ， ， 。 A 、 B、 C、 D、"
+    },
+    {
+      "id": "prov-zhejiang-2008-未标注-6",
+      "paper": "2008年浙江公务员考试《行测》",
+      "module": "shuliang",
+      "pos": 16,
+      "excerpt": "，3 ， ， ， ， 。 A 、 B、 C、 D、"
+    },
+    {
+      "id": "prov-zhejiang-2008-未标注-8",
+      "paper": "2008年浙江公务员考试《行测》",
+      "module": "shuliang",
+      "pos": 16,
+      "excerpt": "， ， ， ， ， 。 A 、 B、 C、 D、"
+    },
+    {
+      "id": "prov-zhejiang-2008-未标注-12",
+      "paper": "2008年浙江公务员考试《行测》",
+      "module": "shuliang",
+      "pos": 4,
+      "excerpt": "的值是： A 、 B、 C、 D、"
+    },
+    {
+      "id": "prov-zhejiang-2009-未标注-39",
+      "paper": "2009年浙江公务员考试《行测》",
+      "module": "shuliang",
+      "pos": 14,
+      "excerpt": "， ， ， ， ， A、 B、 C、 D、"
+    },
+    {
+      "id": "prov-zhejiang-2010-未标注-72",
+      "paper": "2010年浙江公务员考试《行测》",
+      "module": "shuliang",
+      "pos": 19,
+      "excerpt": "， ， ，2 ， ， ， 。 A、 B、 C、 D、"
+    },
+    {
+      "id": "prov-zhejiang-2010-未标注-86",
+      "paper": "2010年浙江公务员考试《行测》",
+      "module": "shuliang",
+      "pos": 64,
+      "excerpt": "=4cm ，正方形HFGE的面积是： A、 B、 C、 D、"
+    },
+    {
+      "id": "prov-zhejiang-2011-未标注-61",
+      "paper": "2011年浙江公务员考试《行测》",
+      "module": "shuliang",
+      "pos": 14,
+      "excerpt": "， ， ， ， ( ) A、 B、 C、 D、"
+    },
+    {
+      "id": "prov-zhejiang-2012-未标注-62",
+      "paper": "2012年浙江公务员考试《行测》",
+      "module": "shuliang",
+      "pos": 19,
+      "excerpt": "， ，1， ， ， ， ( ) A、 B、 C、 D、"
+    },
+    {
+      "id": "prov-zhejiang-2013-A卷-65",
+      "paper": "2013年浙江公务员考试《行测》（A卷）",
+      "module": "shuliang",
+      "pos": 16,
+      "excerpt": "， ， ， ， ，（ ） A、 B、 C、 D、"
+    },
+    {
+      "id": "prov-zhejiang-2013-A卷-78",
+      "paper": "2013年浙江公务员考试《行测》（A卷）",
+      "module": "shuliang",
+      "pos": 77,
+      "excerpt": "取 出的卡片上的数字呈增序的几率是多少？ A、 B、 C、 D、"
+    },
+    {
+      "id": "prov-zhejiang-2013-B卷-45",
+      "paper": "2013年浙江公务员考试《行测》（B卷）",
+      "module": "shuliang",
+      "pos": 16,
+      "excerpt": "， ， ， ， ，（ ） A、 B、 C、 D、"
+    },
+    {
+      "id": "prov-zhejiang-2013-B卷-58",
+      "paper": "2013年浙江公务员考试《行测》（B卷）",
+      "module": "shuliang",
+      "pos": 77,
+      "excerpt": "取 出的卡片上的数字呈增序的几率是多少？ A、 B、 C、 D、"
+    },
+    {
+      "id": "prov-zhejiang-2014-A卷-66",
+      "paper": "2014年浙江公务员考试《行测》（A卷）",
+      "module": "shuliang",
+      "pos": 4,
+      "excerpt": "的值为： A、 B、 C、 D、"
+    },
+    {
+      "id": "prov-zhejiang-2014-B卷-61",
+      "paper": "2014年浙江公务员考试《行测》（B卷）",
+      "module": "shuliang",
+      "pos": 4,
+      "excerpt": "的值为： A、 B、 C、 D、"
+    },
+    {
+      "id": "prov-zhejiang-2015-A卷-54",
+      "paper": "2015年浙江公务员考试《行测》（A卷）",
+      "module": "shuliang",
+      "pos": 18,
+      "excerpt": "2， ， ， ， ， ( ) A、 B、 C、 D、"
+    },
+    {
+      "id": "prov-zhejiang-2015-B卷-54",
+      "paper": "2015年浙江公务员考试《行测》（B卷）",
+      "module": "shuliang",
+      "pos": 18,
+      "excerpt": "2， ， ， ， ， ( ) A、 B、 C、 D、"
+    },
+    {
+      "id": "prov-zhejiang-2016-A卷-52",
+      "paper": "2016年浙江公务员考试《行测》（A卷）",
+      "module": "shuliang",
+      "pos": 16,
+      "excerpt": "8，4，6，15， ， ( ) A、 B、 C、 D、"
+    },
+    {
+      "id": "prov-zhejiang-2016-A卷-55",
+      "paper": "2016年浙江公务员考试《行测》（A卷）",
+      "module": "shuliang",
+      "pos": 17,
+      "excerpt": "0，1， ， ， ， ( ) A、 B、 C、 D、"
+    },
+    {
+      "id": "prov-zhejiang-2016-B卷-42",
+      "paper": "2016年浙江公务员考试《行测》（B卷）",
+      "module": "shuliang",
+      "pos": 16,
+      "excerpt": "8，4，6，15， ， ( ) A、 B、 C、 D、"
+    },
+    {
+      "id": "prov-zhejiang-2016-B卷-45",
+      "paper": "2016年浙江公务员考试《行测》（B卷）",
+      "module": "shuliang",
+      "pos": 17,
+      "excerpt": "0，1， ， ， ， ( ) A、 B、 C、 D、"
+    },
+    {
+      "id": "prov-zhejiang-2016-B卷-46",
+      "paper": "2016年浙江公务员考试《行测》（B卷）",
+      "module": "shuliang",
+      "pos": 14,
+      "excerpt": "， ，4，2，5， ( ) A、3 B、 C、 D、"
+    },
+    {
+      "id": "prov-zhejiang-2017-A卷-37",
+      "paper": "2017年浙江公务员考试《行测》（A卷）",
+      "module": "shuliang",
+      "pos": 62,
+      "excerpt": "本书的编号恰好为相邻三个整数的 概率为： A、 B、 C、 D、"
+    },
+    {
+      "id": "prov-zhejiang-2017-A卷-124",
+      "paper": "2017年浙江公务员考试《行测》（A卷）",
+      "module": "ziliao",
+      "pos": 39,
+      "excerpt": "15 年民政部门接收捐赠衣被数量的变化？ A、 B、 C、 D、"
+    },
+    {
+      "id": "prov-zhejiang-2017-B卷-19",
+      "paper": "2017年浙江公务员考试《行测》（B卷）",
+      "module": "shuliang",
+      "pos": 16,
+      "excerpt": "如下图所示，某条河流一侧有 A D 、18米 B 两家工厂，与河岸的距离分别为 4km 和 5km ，且 A 与 B 的直线距离 为 11km 。为了处"
+    },
+    {
+      "id": "prov-zhejiang-2017-B卷-119",
+      "paper": "2017年浙江公务员考试《行测》（B卷）",
+      "module": "ziliao",
+      "pos": 39,
+      "excerpt": "15 年民政部门接收捐赠衣被数量的变化？ A、 B、 C、 D、"
+    },
+    {
+      "id": "prov-zhejiang-2018-A卷-138",
+      "paper": "2018年浙江公务员考试《行测》（A卷）",
+      "module": "ziliao",
+      "pos": 36,
+      "excerpt": "通航里程约占各水系内河航道通航总里程的： A、 B、 C、 62.5既 D、"
+    },
+    {
+      "id": "prov-zhejiang-2018-B卷-69",
+      "paper": "2018年浙江公务员考试《行测》（B卷）",
+      "module": "shuliang",
+      "pos": 91,
+      "excerpt": "机关，问借调的人来自同一办公室的概率为： A、 B、 C、 D、"
+    },
+    {
+      "id": "prov-zhejiang-2018-B卷-138",
+      "paper": "2018年浙江公务员考试《行测》（B卷）",
+      "module": "ziliao",
+      "pos": 36,
+      "excerpt": "通航里程约占各水系内河航道通航总里程的： A、 B、 C、 62.5既 D、"
+    },
+    {
+      "id": "prov-zhejiang-2019-A类-57",
+      "paper": "2019年浙江公务员考试《行测》（A类）",
+      "module": "shuliang",
+      "pos": 16,
+      "excerpt": "750 uim so ( ) A、 B、 C、 D、"
+    },
+    {
+      "id": "prov-zhejiang-2019-A类-59",
+      "paper": "2019年浙江公务员考试《行测》（A类）",
+      "module": "shuliang",
+      "pos": 12,
+      "excerpt": "5 3 2 1 ( ) A、 B、 C、 D、"
+    },
+    {
+      "id": "prov-zhejiang-2019-A类-66",
+      "paper": "2019年浙江公务员考试《行测》（A类）",
+      "module": "shuliang",
+      "pos": 87,
+      "excerpt": "问将剩下的纸展开，可能是以下哪个图形？ A、 B、 C、 D、"
+    },
+    {
+      "id": "prov-zhejiang-2019-B类-59",
+      "paper": "2019年浙江公务员考试《行测》（B类）",
+      "module": "shuliang",
+      "pos": 12,
+      "excerpt": "5 3 2 1 ( ) A、 B、 C、 D、"
+    },
+    {
+      "id": "prov-zhejiang-2019-B类-71",
+      "paper": "2019年浙江公务员考试《行测》（B类）",
+      "module": "shuliang",
+      "pos": 87,
+      "excerpt": "问将剩下的纸展开，可能是以下哪个图形？ A、 B、 C、 D、"
+    },
+    {
+      "id": "prov-zhejiang-2020-选调-5",
+      "paper": "2020年浙江公务员考试《行测》（选调）",
+      "module": "changshi",
+      "pos": 1,
+      "excerpt": "4 B 、4 ： 3 C 、 3 ：2 D 、2 ： 1、 5、实验室内有浓度分别为 10%和 25%的盐酸各 500 毫"
+    },
+    {
+      "id": "prov-zhejiang-2020-A卷-94",
+      "paper": "2020年浙江公务员考试《行测》（A卷）",
+      "module": "ziliao",
+      "pos": 46,
+      "excerpt": "累计装机容量同比增速的变化趋势？ A、 B、 C、 D、"
+    },
+    {
+      "id": "prov-zhejiang-2020-B卷-7",
+      "paper": "2020年浙江公务员考试《行测》（B卷）",
+      "module": "shuliang",
+      "pos": 0,
+      "excerpt": "B、 A、 C、 D、1"
+    },
+    {
+      "id": "prov-zhejiang-2020-B卷-94",
+      "paper": "2020年浙江公务员考试《行测》（B卷）",
+      "module": "ziliao",
+      "pos": 42,
+      "excerpt": "全球光伏累计装机容量同比增速的变化趋势？ A、 B、 C、 D、"
+    },
+    {
+      "id": "prov-zhejiang-2021-A类-58",
+      "paper": "2021年浙江公务员考试《行测》（A类）",
+      "module": "shuliang",
+      "pos": 68,
+      "excerpt": "不超过两次 就输入正确密码的概率为多少？ A、 B、 C、 D、"
+    },
+    {
+      "id": "prov-zhejiang-2021-C类-58",
+      "paper": "2021年浙江公务员考试《行测》（C类）",
+      "module": "shuliang",
+      "pos": 68,
+      "excerpt": "不超过两次 就输入正确密码的概率为多少？ A、 B、 C、 D、"
+    },
+    {
+      "id": "prov-zhejiang-2022-A类-52",
+      "paper": "2022年浙江公务员考试《行测》（A类）",
+      "module": "shuliang",
+      "pos": 14,
+      "excerpt": ", , 2 ，2 ， ( ) A.2 B. C.3 D."
+    },
+    {
+      "id": "prov-zhejiang-2022-A类-57",
+      "paper": "2022年浙江公务员考试《行测》（A类）",
+      "module": "shuliang",
+      "pos": 90,
+      "excerpt": "么甲、乙两名专家去了不同勘探点的概率是： A. B. C. D."
+    },
+    {
+      "id": "prov-zhejiang-2022-A类-59",
+      "paper": "2022年浙江公务员考试《行测》（A类）",
+      "module": "shuliang",
+      "pos": 118,
+      "excerpt": "等 ，则三位数中回文数是奇 数的概率为： A. B. C. D."
+    },
+    {
+      "id": "prov-zhejiang-2022-A类-67",
+      "paper": "2022年浙江公务员考试《行测》（A类）",
+      "module": "shuliang",
+      "pos": 0,
+      "excerpt": "A、B两个乡镇分布于山谷两侧 ， 山谷间有一条宽为2km的河道（如下图所示） 。当地政府决定在两个乡镇间修 建一条跨河公"
+    },
+    {
+      "id": "prov-zhejiang-2022-C类-2",
+      "paper": "2022年浙江公务员考试《行测》（C类）",
+      "module": "shuliang",
+      "pos": 14,
+      "excerpt": ", , 2 ，2 ， ( ) A.2 B. C.3 D."
+    },
+    {
+      "id": "prov-zhejiang-2022-C类-10",
+      "paper": "2022年浙江公务员考试《行测》（C类）",
+      "module": "shuliang",
+      "pos": 90,
+      "excerpt": "么甲、乙两名专家去了不同勘探点的概率是： A. B. C. D."
+    },
+    {
+      "id": "prov-zhejiang-2022-C类-15",
+      "paper": "2022年浙江公务员考试《行测》（C类）",
+      "module": "shuliang",
+      "pos": 118,
+      "excerpt": "等 ，则三位数中回文数是奇 数的概率为： A. B. C. D."
+    },
+    {
+      "id": "prov-zhejiang-2022-C类-18",
+      "paper": "2022年浙江公务员考试《行测》（C类）",
+      "module": "shuliang",
+      "pos": 0,
+      "excerpt": "A、B两个乡镇分布于山谷两侧 ， 山谷间有一条宽为2km的河道（如下图所示） 。当地政府决定在两个乡镇间修 建一条跨河公"
+    },
+    {
+      "id": "prov-zhejiang-2023-A类-60",
+      "paper": "2023年浙江公务员考试《行测》（A类）",
+      "module": "shuliang",
+      "pos": 53,
+      "excerpt": "意两辆车之间至少间隔一个 车位的概率为： A、 B、 C、 D、"
+    },
+    {
+      "id": "prov-zhejiang-2023-B类-34",
+      "paper": "2023年浙江公务员考试《行测》（B类）",
+      "module": "shuliang",
+      "pos": 16,
+      "excerpt": "2，2，2， ， ， ( ) A、 B、 C、 D、"
+    },
+    {
+      "id": "prov-zhejiang-2023-B类-40",
+      "paper": "2023年浙江公务员考试《行测》（B类）",
+      "module": "shuliang",
+      "pos": 57,
+      "excerpt": "意两辆车之间至少间隔一 个车位的概率为： A、 B、 C、 D、"
+    },
+    {
+      "id": "prov-zhejiang-2024-A类-54",
+      "paper": "2024年浙江公务员考试《行测》（A类）",
+      "module": "shuliang",
+      "pos": 17,
+      "excerpt": "9 ，18 ， ， ， ， ( ) A. B. C. D."
+    },
+    {
+      "id": "prov-zhejiang-2024-A类-62",
+      "paper": "2024年浙江公务员考试《行测》（A类）",
+      "module": "shuliang",
+      "pos": 89,
+      "excerpt": "题 ，那么两人作答顺序完全相同的概率是： A. B. C. D."
+    },
+    {
+      "id": "prov-zhejiang-2024-A类-68",
+      "paper": "2024年浙江公务员考试《行测》（A类）",
+      "module": "shuliang",
+      "pos": 71,
+      "excerpt": "该同学在14 ：00 之后起床的概率为： A. B. C. D."
+    },
+    {
+      "id": "prov-zhejiang-2024-A类-114",
+      "paper": "2024年浙江公务员考试《行测》（A类）",
+      "module": "ziliao",
+      "pos": 60,
+      "excerpt": "白色） 、基诺型（斜线） 占比 的是： A. B. C. D."
+    },
+    {
+      "id": "prov-zhejiang-2024-A类-120",
+      "paper": "2024年浙江公务员考试《行测》（A类）",
+      "module": "ziliao",
+      "pos": 75,
+      "excerpt": "技术服务收入以外收入累计值所占比例的是： A. B. C. D."
+    },
+    {
+      "id": "prov-zhejiang-2024-B类-54",
+      "paper": "2024年浙江公务员考试《行测》（B类）",
+      "module": "shuliang",
+      "pos": 17,
+      "excerpt": "9 ，18 ， ， ， ， ( ) A. B. C. D."
+    },
+    {
+      "id": "prov-zhejiang-2024-B类-62",
+      "paper": "2024年浙江公务员考试《行测》（B类）",
+      "module": "shuliang",
+      "pos": 89,
+      "excerpt": "题 ，那么两人作答顺序完全相同的概率是： A. B. C. D."
+    },
+    {
+      "id": "prov-zhejiang-2024-B类-68",
+      "paper": "2024年浙江公务员考试《行测》（B类）",
+      "module": "shuliang",
+      "pos": 71,
+      "excerpt": "该同学在14 ：00 之后起床的概率为： A. B. C. D."
+    },
+    {
+      "id": "prov-zhejiang-2024-B类-109",
+      "paper": "2024年浙江公务员考试《行测》（B类）",
+      "module": "ziliao",
+      "pos": 60,
+      "excerpt": "白色） 、基诺型（斜线） 占比 的是： A. B. C. D."
+    },
+    {
+      "id": "prov-zhejiang-2024-B类-115",
+      "paper": "2024年浙江公务员考试《行测》（B类）",
+      "module": "ziliao",
+      "pos": 76,
+      "excerpt": "术服务收入以外收入累计值所占比例的是： A. B. C. D."
+    },
+    {
+      "id": "prov-zhejiang-2024-C类-54",
+      "paper": "2024年浙江公务员考试《行测》（C类）",
+      "module": "shuliang",
+      "pos": 17,
+      "excerpt": "9 ，18 ， ， ， ， ( ) A. B. C. D."
+    },
+    {
+      "id": "prov-zhejiang-2024-C类-64",
+      "paper": "2024年浙江公务员考试《行测》（C类）",
+      "module": "shuliang",
+      "pos": 71,
+      "excerpt": "该同学在14 ：00 之后起床的概率为： A. B. C. D."
+    },
+    {
+      "id": "prov-zhejiang-2024-C类-104",
+      "paper": "2024年浙江公务员考试《行测》（C类）",
+      "module": "ziliao",
+      "pos": 60,
+      "excerpt": "白色） 、基诺型（斜线） 占比 的是： A. B. C. D."
+    },
+    {
+      "id": "prov-zhejiang-2024-C类-110",
+      "paper": "2024年浙江公务员考试《行测》（C类）",
+      "module": "ziliao",
+      "pos": 76,
+      "excerpt": "术服务收入以外收入累计值所占比例的是： A. B. C. D."
+    },
+    {
+      "id": "prov-zhejiang-2025-A类-70",
+      "paper": "2025年浙江公务员考试《行测》（A类）",
+      "module": "shuliang",
+      "pos": 62,
+      "excerpt": " 四朵荷花都划分在同一边的概率是多少? B. 口"
+    },
+    {
+      "id": "prov-zhejiang-2025-B类-70",
+      "paper": "2025年浙江公务员考试《行测》（B类）",
+      "module": "shuliang",
+      "pos": 62,
+      "excerpt": " 四朵荷花都划分在同一边的概率是多少? B. 口"
+    },
+    {
+      "id": "prov-zhejiang-2025-B类-110",
+      "paper": "2025年浙江公务员考试《行测》（B类）",
+      "module": "ziliao",
+      "pos": 65,
+      "excerpt": "量变化趋势的是(横轴位置代表增量为0): A. B. 材料 2023年，我国跨境电商进出口2.37万亿元人民币，比2022年(下同)增长15.3%,占同期我国货"
+    }
+  ],
+  "explanationHighConfidence": [],
+  "explanationWeak": [
+    {
+      "id": "prov-zhejiang-2006-未标注-43",
+      "paper": "2006年浙江公务员考试《行测》",
+      "module": "yanyu",
+      "stem": "有一种长方形小纸板，长为 19 9 毫米，宽为 11 1 毫米。现在用同样大小的这种小纸板 拼合成一个正方形，问最少要几块这样的小纸板拼合成一个正方形，问最少要几块这样的小纸板？",
+      "excerpt": "C【解析】由于这个长方形长宽各不相等，排斥关系，因此，拼成正方形必须是长和宽的公倍数，19与11的最小公倍数为19×11，即209，即组成正方形的边长为209，则正方形小纸板组成的块数为（209×20",
+      "type": "yanyu->ziliao",
+      "tokens": [
+        "倍数"
+      ],
+      "triage": "B2/B4 言语正文提及资料词（弱命中）"
+    },
+    {
+      "id": "prov-zhejiang-2008-未标注-27",
+      "paper": "2008年浙江公务员考试《行测》",
+      "module": "yanyu",
+      "stem": "《竹书纪年》的整理者也受到后世的一都独尊制度和思想的影响，在整理此书时，有意 删掉了一些不符合“更不徙都” 的材料。然而这样删削，却为人们廓清那些本来就不易弄清的遥远 的历史问题带来了更多的麻烦。幸好有一些文献，特别是《括地志》又将“更不徙都” 以外的一些 材料拾掇起来，乍看上去这些材料是相互矛盾的，实质上却是客观事实的反映。\n对这段话的主旨概括最恰当的一项是：",
+      "excerpt": "根据提问方式“主旨概括”一词可知本题为中心理解题。材料中出现“然而”、“幸好”两个转折词。出现两个转折词，重点关注后一个。材料第二个“转折词”幸好“后内容为材料的表面主旨，即“其他文献起到互证作用，从",
+      "type": "yanyu->ziliao",
+      "tokens": [
+        "材料中"
+      ],
+      "triage": "B2/B4 言语正文提及资料词（弱命中）"
+    },
+    {
+      "id": "prov-zhejiang-2008-未标注-29",
+      "paper": "2008年浙江公务员考试《行测》",
+      "module": "yanyu",
+      "stem": "面对心理辅导与治疗的本土化，我们要对西方的理论存有一种开明的态度，迫切的问题 是：我们如何以实证方式如结果研究，来检验有关理论在中国人中之有效性，然后去芜存菁。同 时，通过吸收、借鉴外国的理论和方法，发展或创造出适合中国文化和中国人特点的心理辅导和 治疗体系。\n对这段话的主要意思概括最恰当的一项是：",
+      "excerpt": "根据提问方式“概括”一词可知本题为中心理解题。材料中冒号后是“心理辅导与治疗的本土化”需要的态度：要“验证有效性，去芜存菁”。然后用“同时”引出第二个需要的态度：要“吸收、借鉴”。表面主旨必须包含这两",
+      "type": "yanyu->ziliao",
+      "tokens": [
+        "材料中"
+      ],
+      "triage": "B2/B4 言语正文提及资料词（弱命中）"
+    },
+    {
+      "id": "prov-zhejiang-2008-未标注-36",
+      "paper": "2008年浙江公务员考试《行测》",
+      "module": "yanyu",
+      "stem": "传统凯恩斯主义的缺陷，新古典主义的成效与失误启发了一些学者构建微观基础的宏观 经济学，并另辟蹊径地对劳动力市场与产品市场进行实证分析， 以期发展宏观失业与经济波动的 原因。他们以工资、价格刚性和非市场出清假设取代新古典主义的工资、价格灵活性和市场出清 假设，并把它结合到宏观产量与就业决定理论中而得出凯恩斯主义结论，这样就产生了新凯恩斯 主义。\n对以上文字理解正确的一项是：",
+      "excerpt": "此题考查细节判断。材料中提到“另辟蹊径地对劳动力市场与产品市场进行实证分析”，“另辟蹊径”一词说明这一举措具有突破性。因此，结合选项应该选择B。A项理解偏颇，材料讲新古典主义的成效与失误“启发”了一些",
+      "type": "yanyu->ziliao",
+      "tokens": [
+        "材料中"
+      ],
+      "triage": "B2/B4 言语正文提及资料词（弱命中）"
+    },
+    {
+      "id": "prov-zhejiang-2008-未标注-37",
+      "paper": "2008年浙江公务员考试《行测》",
+      "module": "yanyu",
+      "stem": "将传统节日纳入国家法定节日，体现的是对中国传统文化的尊重和回归。中国传统文化 是我们精神家园的重要组成部分。但是这些年来，一些“洋节”越来越成为时尚，传统节日反倒有 被人们，特别是青年人淡忘的趋势。\n下列不符合文意的一项是：",
+      "excerpt": "据提问可知此题是细节判断题。因此，结合选项应该选择C，选项C说法错误。材料中“传统节日反倒有被人们，特别是青年人淡忘的趋势”说的是一种趋势，而非“已经淡忘了”的现实；另外，原文中并未提到青年人的数量，",
+      "type": "yanyu->ziliao",
+      "tokens": [
+        "材料中"
+      ],
+      "triage": "B2/B4 言语正文提及资料词（弱命中）"
+    },
+    {
+      "id": "prov-zhejiang-2008-未标注-46",
+      "paper": "2008年浙江公务员考试《行测》",
+      "module": "yanyu",
+      "stem": "该书的资料来源显得有些杂乱，编辑也比较粗糙，但整本书却 了一个清晰的大主题： 提倡一种生活情调和处事哲学。\n填入横线部分最恰当的一项是：",
+      "excerpt": "此题考查实词语境搭配的辨析与填空。A项“贯穿”指从头到尾穿过一个或一系列事物，“整本书贯穿一个大主题”更符合语意。由材料中“清晰”一词可排除B、D项；C项“体现”仅强调结果。故正确答案为A。",
+      "type": "yanyu->ziliao",
+      "tokens": [
+        "材料中"
+      ],
+      "triage": "B2/B4 言语正文提及资料词（弱命中）"
+    },
+    {
+      "id": "prov-zhejiang-2008-未标注-53",
+      "paper": "2008年浙江公务员考试《行测》",
+      "module": "yanyu",
+      "stem": "晚清的新学之士，提及开通民智，总是首推报馆与学校。二者同为“教育人才指导” 、“传 播文明”之“利器” ，却因体制及利益不同，无法 。\n填入划横线部分最恰当的一项是：",
+      "excerpt": "考查成语的语境搭配。由材料中“二者同为‘教育人才指导’、‘传播文明’之‘利器’”可以判断，作者对报馆与学校均持肯定态度。“珠联璧合”比喻杰出的人才或美好的事物结合在一起，符合材料语意。因此，结合选项应",
+      "type": "yanyu->ziliao",
+      "tokens": [
+        "材料中"
+      ],
+      "triage": "B2/B4 言语正文提及资料词（弱命中）"
+    },
+    {
+      "id": "prov-zhejiang-2008-未标注-55",
+      "paper": "2008年浙江公务员考试《行测》",
+      "module": "yanyu",
+      "stem": "宋代周守中的《养生类纂》载有：“沟渠通浚，屋宇洁净无移气，不生瘟疫病” 。古代的 中国政府对于沟渠的通塞也很注意，每逢雨季之前，就命水利官员加以 以免泛滥。\n填入划横线部分最恰当的一项是：",
+      "excerpt": "考查实词的固定搭配。填入括号的词须与“沟渠”搭配，“疏浚沟渠”属于固定搭配，另外“疏浚”一词也与材料中引用的“沟渠通浚”相对应。因此，结合选项应该选择B。选项A“整理”一词包含的动作范围太大，不能精确",
+      "type": "yanyu->ziliao",
+      "tokens": [
+        "材料中"
+      ],
+      "triage": "B2/B4 言语正文提及资料词（弱命中）"
+    },
+    {
+      "id": "prov-zhejiang-2013-A卷-49",
+      "paper": "2013年浙江公务员考试《行测》（A卷）",
+      "module": "yanyu",
+      "stem": "1994 年到 1997 年 4 年时间，财政收入占 GDP 的比重仅 10%多一点，到 2011 年接近 22%，如果考虑到土地 出让和其他政府基金性收入，有专家估计政府收入占 GDP 的比重超过 30%。而同期，企业或者是资本收入占比 也大幅度提高。一个佐证是，2002 年底，企业存款为 64298.47 亿元，低于当时的个人存款，而到 2011 年底， 企业存款（央行新的统计科目为“单位存款 ”，口径相当）上升到 423086.61 亿元，增长了 5.58 倍，远超同期 个人存款 2.68 倍的增幅。\n通过这段文字，作者想表达的观点是：",
+      "excerpt": "第一步，分析文段。文段首先指出财政收入占GDP的比重不断提高。然后通过“而同期”引导并列，指出企业或资本收入占GDP比重也大幅度提高，接着通过“佐证”中的具体数据进行论证。文段为“分—分”结构，全面概",
+      "type": "yanyu->ziliao",
+      "tokens": [
+        "比重"
+      ],
+      "triage": "B2/B4 言语正文提及资料词（弱命中）"
+    },
+    {
+      "id": "prov-zhejiang-2013-B卷-29",
+      "paper": "2013年浙江公务员考试《行测》（B卷）",
+      "module": "yanyu",
+      "stem": "1994 年到 1997 年 4 年时间，财政收入占 GDP 的比重仅 10%多一点，到 2011 年接近 22%，如果考虑到土地 出让和其他政府基金性收入，有专家估计政府收入占 GDP 的比重超过 30%。而同期，企业或者是资本收入占比 也大幅度提高。一个佐证是，2002 年底，企业存款为 64298.47 亿元，低于当时的个人存款，而到 2011 年底， 企业存款（央行新的统计科目为“单位存款 ”，口径相当）上升到 423086.61 亿元，增长了 5.58 倍，远超同期 个人存款 2.68 倍的增幅。\n通过这段文字，作者想表达的观点是：",
+      "excerpt": "第一步，分析文段。文段首先指出财政收入占GDP的比重不断提高。然后通过“而同期”引导并列，指出企业或资本收入占GDP比重也大幅度提高，接着通过“佐证”中的具体数据进行论证。文段为“分—分”结构，全面概",
+      "type": "yanyu->ziliao",
+      "tokens": [
+        "比重"
+      ],
+      "triage": "B2/B4 言语正文提及资料词（弱命中）"
+    },
+    {
+      "id": "prov-zhejiang-2023-A类-49",
+      "paper": "2023年浙江公务员考试《行测》（A类）",
+      "module": "yanyu",
+      "stem": "阿宝十岁，邻居蓓蒂六岁。两个人从假三层爬上屋顶，瓦片温热，眼里是半个卢湾区，前面香山路， 东面复兴公园，东面偏北，看见祖父独幢洋房一角，西面后方，皋兰路尼古拉斯东正教堂，三十年代俄侨 建立，据说是纪念苏维埃处决的沙皇，尼古拉二世，打雷闪电阶段，阴森可惧，太阳底下，比较养眼。\n根据这段文字，能够确定的历史事实是哪一项？",
+      "excerpt": "A项，根据“两个人从假三层爬上屋顶······西面后方，皋兰路尼古拉斯东正教堂”可知，尼古拉斯东正教堂坐落于“屋顶”所在房屋的西面后方，而选项并未以“屋顶”所在的房屋为参照物，“西面后方”范围扩大，排",
+      "type": "yanyu->ziliao",
+      "tokens": [
+        "倍数"
+      ],
+      "triage": "B2/B4 言语正文提及资料词（弱命中）"
+    },
+    {
+      "id": "prov-zhejiang-2023-B类-30",
+      "paper": "2023年浙江公务员考试《行测》（B类）",
+      "module": "yanyu",
+      "stem": "用不了几十年，人工智能就会超越多种人类自认独有的能力。对我们这一代人来说，这是个巨大的挑 战，也许我们需要“非理性 ”地应对。计算机占领了曾专属于人类的工作——那些需要知识、策略甚至创 造力的工作。在这种“劳动分工 ”之下，我们应把人类的工作定位在与机器互补，而非与之相抗衡上。重 视机器带来的挑战，意味着我们需要作出改变，刻不容缓。同时，相信创造力是人类特有的价值，即使机 器超越人类，我们仍拥有地球上最具创造力的脑袋，里面装着天马行空的想法和深沉复杂的情感。\n下列哪一说法与作者的观点不相符？",
+      "excerpt": "A项，根据“重视机器带来的挑战，意味着我们需要作出改变，刻不容缓”可知，“及时应对人工智能带来的挑战”表述正确，排除；B项，根据“相信创造力是人类特有的价值，即使机器超越人类，我们仍拥有地球上最具创造",
+      "type": "yanyu->ziliao",
+      "tokens": [
+        "倍数"
+      ],
+      "triage": "B2/B4 言语正文提及资料词（弱命中）"
+    },
+    {
+      "id": "prov-zhejiang-2025-A类-52",
+      "paper": "2025年浙江公务员考试《行测》（A类）",
+      "module": "yanyu",
+      "stem": "(单选题)2,1, 1,\n\n\n,()",
+      "excerpt": "参考答案：D解析：观察数列，相邻两项之间存在明显的倍数关系，优先考虑作商。后项除以前项得到新数列：[[IMG]][[IMG]][[IMG]](),是公差为[[IMG]]的等差数,则新数列下一项为[[I",
+      "type": "yanyu->ziliao",
+      "tokens": [
+        "倍数"
+      ],
+      "triage": "B2/B4 言语正文提及资料词（弱命中）"
+    },
+    {
+      "id": "prov-zhejiang-2025-B类-52",
+      "paper": "2025年浙江公务员考试《行测》（B类）",
+      "module": "yanyu",
+      "stem": "(单选题)2,1,1,\n\n\n,()",
+      "excerpt": "参考答案：D解析：观察数列，相邻两项之间存在明显的倍数关系，优先考虑作商。后项除以前项得到新数列：[[IMG]][[IMG]][[IMG]](),,是公差为[[IMG]]的等差数,则新数列下一项为[[",
+      "type": "yanyu->ziliao",
+      "tokens": [
+        "倍数"
+      ],
+      "triage": "B2/B4 言语正文提及资料词（弱命中）"
+    }
+  ]
+}

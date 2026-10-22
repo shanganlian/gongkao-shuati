@@ -1,0 +1,278 @@
+{
+  "province": "广州",
+  "generatedAt": "2026-10-21T14:13:29.016Z",
+  "thresholds": {
+    "answerDistribution": "有效答案>=20，且最大字母占比>=55%；最大占比>=65%或字母缺项为严重失衡",
+    "explanationWindow": 120
+  },
+  "counts": {
+    "questions": 1300,
+    "papers": 12,
+    "answerAnomalyPapers": 0,
+    "e07": 2,
+    "explanationHighConfidence": 2,
+    "explanationWeak": 3
+  },
+  "answerDistribution": [
+    {
+      "paper": "2005年广州公务员考试《行测》",
+      "counts": {
+        "A": 14,
+        "B": 21,
+        "C": 16,
+        "D": 15
+      },
+      "total": 66,
+      "invalid": 34,
+      "maxShare": 0.3181818181818182,
+      "zeroLetters": [],
+      "status": "正常",
+      "anomaly": false
+    },
+    {
+      "paper": "2006年广州公务员考试《行测》",
+      "counts": {
+        "A": 18,
+        "B": 29,
+        "C": 26,
+        "D": 23
+      },
+      "total": 96,
+      "invalid": 4,
+      "maxShare": 0.3020833333333333,
+      "zeroLetters": [],
+      "status": "正常",
+      "anomaly": false
+    },
+    {
+      "paper": "2007年广州公务员考试《行测》",
+      "counts": {
+        "A": 19,
+        "B": 27,
+        "C": 21,
+        "D": 26
+      },
+      "total": 93,
+      "invalid": 7,
+      "maxShare": 0.2903225806451613,
+      "zeroLetters": [],
+      "status": "正常",
+      "anomaly": false
+    },
+    {
+      "paper": "2008年广州公务员考试《行测》",
+      "counts": {
+        "A": 22,
+        "B": 25,
+        "C": 25,
+        "D": 23
+      },
+      "total": 95,
+      "invalid": 5,
+      "maxShare": 0.2631578947368421,
+      "zeroLetters": [],
+      "status": "正常",
+      "anomaly": false
+    },
+    {
+      "paper": "2011年广州公务员考试《行测》",
+      "counts": {
+        "A": 24,
+        "B": 26,
+        "C": 25,
+        "D": 25
+      },
+      "total": 100,
+      "invalid": 0,
+      "maxShare": 0.26,
+      "zeroLetters": [],
+      "status": "正常",
+      "anomaly": false
+    },
+    {
+      "paper": "2012年广州公务员考试《行测》",
+      "counts": {
+        "A": 25,
+        "B": 28,
+        "C": 25,
+        "D": 22
+      },
+      "total": 100,
+      "invalid": 0,
+      "maxShare": 0.28,
+      "zeroLetters": [],
+      "status": "正常",
+      "anomaly": false
+    },
+    {
+      "paper": "2013年广州公务员考试《行测》",
+      "counts": {
+        "A": 24,
+        "B": 24,
+        "C": 27,
+        "D": 25
+      },
+      "total": 100,
+      "invalid": 0,
+      "maxShare": 0.27,
+      "zeroLetters": [],
+      "status": "正常",
+      "anomaly": false
+    },
+    {
+      "paper": "2014年广州公务员考试《行测》",
+      "counts": {
+        "A": 23,
+        "B": 25,
+        "C": 25,
+        "D": 25
+      },
+      "total": 98,
+      "invalid": 2,
+      "maxShare": 0.25510204081632654,
+      "zeroLetters": [],
+      "status": "正常",
+      "anomaly": false
+    },
+    {
+      "paper": "2015年广州公务员考试《行测》",
+      "counts": {
+        "A": 25,
+        "B": 21,
+        "C": 27,
+        "D": 23
+      },
+      "total": 96,
+      "invalid": 4,
+      "maxShare": 0.28125,
+      "zeroLetters": [],
+      "status": "正常",
+      "anomaly": false
+    },
+    {
+      "paper": "2016年广州公务员考试《行测》",
+      "counts": {
+        "A": 24,
+        "B": 26,
+        "C": 24,
+        "D": 25
+      },
+      "total": 99,
+      "invalid": 1,
+      "maxShare": 0.26262626262626265,
+      "zeroLetters": [],
+      "status": "正常",
+      "anomaly": false
+    },
+    {
+      "paper": "2017年广州公务员考试《行测》",
+      "counts": {
+        "A": 26,
+        "B": 25,
+        "C": 25,
+        "D": 23
+      },
+      "total": 99,
+      "invalid": 1,
+      "maxShare": 0.26262626262626265,
+      "zeroLetters": [],
+      "status": "正常",
+      "anomaly": false
+    },
+    {
+      "paper": "2018年广州公务员考试《行测》",
+      "counts": {
+        "A": 41,
+        "B": 42,
+        "C": 48,
+        "D": 46
+      },
+      "total": 177,
+      "invalid": 23,
+      "maxShare": 0.2711864406779661,
+      "zeroLetters": [],
+      "status": "正常",
+      "anomaly": false
+    }
+  ],
+  "e07": [
+    {
+      "id": "prov-guangzhou-2007-未标注-36",
+      "paper": "2007年广州公务员考试《行测》",
+      "module": "shuliang",
+      "pos": 39,
+      "excerpt": "第一次成直角，需要经历( )分钟。 10 A.10 B. C.11 11 D"
+    },
+    {
+      "id": "prov-guangzhou-2016-未标注-89",
+      "paper": "2016年广州公务员考试《行测》",
+      "module": "ziliao",
+      "pos": 109,
+      "excerpt": "2008年2009年2010年2011年 A、 外资净收入(亿美元) 120 160 80 120 80 40 40 0 0 2004年2005年2006年20"
+    }
+  ],
+  "explanationHighConfidence": [
+    {
+      "id": "prov-guangzhou-2012-未标注-41",
+      "paper": "2012年广州公务员考试《行测》",
+      "module": "changshi",
+      "stem": "对立：和谐",
+      "excerpt": "第一步：判断题干词语间逻辑关系。题干两词为并列关系中的矛盾关系，对立与和谐是反义词。第二步：判断各个选项的关系，找出与题干逻辑关系一致的，即为答案。A项，“创新”和“变革”是近义词，与题干逻辑关系不一",
+      "type": "changshi->yanyu",
+      "tokens": [
+        "近义词"
+      ],
+      "triage": "A1 解析像言语而题干非典型言语，疑似串题/挂错解析"
+    },
+    {
+      "id": "prov-guangzhou-2012-未标注-47",
+      "paper": "2012年广州公务员考试《行测》",
+      "module": "changshi",
+      "stem": "锦上添花：雪中送炭",
+      "excerpt": "第一步：判断题干词语间的逻辑关系。“锦上添花”比喻使美好的事物更加美好；“雪中送炭”比喻在别人急需的时候给以帮助；两者是近义词。第二步：判断选项词语间逻辑关系。A项：“见死不救”是指看见人家有急难而不",
+      "type": "changshi->yanyu",
+      "tokens": [
+        "近义词"
+      ],
+      "triage": "A1 解析像言语而题干非典型言语，疑似串题/挂错解析"
+    }
+  ],
+  "explanationWeak": [
+    {
+      "id": "prov-guangzhou-2008-未标注-11",
+      "paper": "2008年广州公务员考试《行测》",
+      "module": "yanyu",
+      "stem": "中国以世界上 9.6%的自然资源，9.4%的资本资源，1.85%的知识技术资源，要为占世界人口26%的劳 动力提供就业机会，毫不夸张地说，这本来就是一场就业战争。眼下， 国际金融危机日显，摆在中国面前的这 场仗，到底该怎么打？\n本文中“这场仗”指的是( )。",
+      "excerpt": "【答案】C。解析：“这场仗”指的是前文中的“就业战争”,即“中国以世界上9.6%的自然资源，9.4%的资本资源，1.85%的知识技术资源，要为占世界人口26%的劳动力提供就业机会”。A项“竞争激烈”在",
+      "type": "yanyu->ziliao",
+      "tokens": [
+        "材料中"
+      ],
+      "triage": "B2/B4 言语正文提及资料词（弱命中）"
+    },
+    {
+      "id": "prov-guangzhou-2013-未标注-4",
+      "paper": "2013年广州公务员考试《行测》",
+      "module": "yanyu",
+      "stem": "在过去 20 年间，世界经济经历了重大变化：新兴市场愈发 ，许多发展中国家增速远高于发达经济体。 依次填入画横线部分最恰当的一项是：",
+      "excerpt": "此题考查解释对应。根据“许多发展中国家增速远高于发达经济体”可知新兴市场地位越来越高、越来越重要。B项“举足轻重”指地位、作用很重要，包含这个意思。A项“举重若轻”指能力强，不能形容新兴市场，排除；C",
+      "type": "yanyu->ziliao",
+      "tokens": [
+        "增速"
+      ],
+      "triage": "B2/B4 言语正文提及资料词（弱命中）"
+    },
+    {
+      "id": "prov-guangzhou-2017-未标注-50",
+      "paper": "2017年广州公务员考试《行测》",
+      "module": "changshi",
+      "stem": "“洛阳纸贵”体现的经济学常识是：",
+      "excerpt": "本题考查经济常识。主要涉及商品与货币的相关内容。B项正确：洛阳纸贵，中国古代成语，原指西晋都城洛阳之纸，因大家争相传抄左思的作品《三都赋》,以至一时供不应求，货缺而贵。由故事内容可知是由于供求关系影响",
+      "type": "changshi->yanyu",
+      "tokens": [
+        "成语"
+      ],
+      "triage": "A3 仅正文提及言语词（弱命中）"
+    }
+  ]
+}

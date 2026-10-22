@@ -1,0 +1,1383 @@
+{
+  "province": "北京",
+  "generatedAt": "2026-10-22 19:13:55",
+  "startedAt": "2026-10-22 19:13:51",
+  "outputDir": "public/data/questions-v2-provincial/北京",
+  "aggregate": {
+    "papers": 20,
+    "okPapers": 20,
+    "failedPapers": 0,
+    "questions": 2597,
+    "placeholders": 7,
+    "withAnswer": 2501,
+    "withExplanation": 2521,
+    "imageQuestions": 180,
+    "errors": 203,
+    "warnings": 189,
+    "missingAnswerPapers": 0,
+    "answerOnlyPapers": 0,
+    "moduleCounts": {
+      "changshi": 656,
+      "yanyu": 665,
+      "shuliang": 330,
+      "panduan": 591,
+      "ziliao": 355
+    },
+    "issueCodes": {
+      "IMAGE_OPTION": 112,
+      "MATERIAL_IMAGE": 51,
+      "OPT_SPLIT_FAIL": 3,
+      "MISSING_ANALYSIS": 76,
+      "MISSING_ANSWER": 96,
+      "OPT_NOT_4": 10,
+      "QNO_PLACEHOLDER": 3,
+      "OPT_PARTIAL": 3,
+      "ANSWER_CONFLICT": 13,
+      "MATERIAL_MISSING": 12,
+      "OPT_EMPTY": 2,
+      "MODULE_INFERRED": 11
+    }
+  },
+  "papers": [
+    {
+      "year": 2008,
+      "label": "应届",
+      "questionName": "2008年北京公务员考试《行测》（应届）.docx",
+      "answerName": "2008年北京公务员考试《行测》（应届）参考答案及解析.docx",
+      "pairNote": "same-year-and-label",
+      "answerFileMissing": false,
+      "status": "ok",
+      "questionCount": 135,
+      "maxNum": 135,
+      "placeholderCount": 0,
+      "placeholders": [],
+      "missingNums": [],
+      "withAnswer": 135,
+      "withExplanation": 135,
+      "imageQuestions": 5,
+      "errors": 0,
+      "warnings": 8,
+      "issueCodes": {
+        "IMAGE_OPTION": 5,
+        "MATERIAL_IMAGE": 3
+      },
+      "moduleCounts": {
+        "changshi": 30,
+        "yanyu": 30,
+        "shuliang": 25,
+        "panduan": 30,
+        "ziliao": 20
+      },
+      "moduleAnswers": {
+        "changshi": 30,
+        "yanyu": 30,
+        "shuliang": 25,
+        "panduan": 30,
+        "ziliao": 20
+      },
+      "moduleExplanations": {
+        "changshi": 30,
+        "yanyu": 30,
+        "shuliang": 25,
+        "panduan": 30,
+        "ziliao": 20
+      },
+      "modulePlaceholders": {
+        "changshi": 0,
+        "yanyu": 0,
+        "shuliang": 0,
+        "panduan": 0,
+        "ziliao": 0
+      },
+      "moduleImages": {
+        "changshi": 0,
+        "yanyu": 0,
+        "shuliang": 0,
+        "panduan": 5,
+        "ziliao": 0
+      },
+      "answerSourceEmpty": false,
+      "answerOnlySource": false,
+      "rawLength": 22248,
+      "answerLength": 21714,
+      "elapsedMs": 273,
+      "note": "blocks=135, answers=135, quick=0"
+    },
+    {
+      "year": 2009,
+      "label": "社招",
+      "questionName": "2009年北京公务员考试《行测》（社招）.docx",
+      "answerName": "2009年北京公务员考试《行测》（社招）参考答案及解析.docx",
+      "pairNote": "same-year-and-label",
+      "answerFileMissing": false,
+      "status": "ok",
+      "questionCount": 135,
+      "maxNum": 135,
+      "placeholderCount": 0,
+      "placeholders": [],
+      "missingNums": [],
+      "withAnswer": 135,
+      "withExplanation": 135,
+      "imageQuestions": 7,
+      "errors": 0,
+      "warnings": 9,
+      "issueCodes": {
+        "IMAGE_OPTION": 6,
+        "MATERIAL_IMAGE": 3
+      },
+      "moduleCounts": {
+        "changshi": 30,
+        "yanyu": 30,
+        "shuliang": 25,
+        "panduan": 30,
+        "ziliao": 20
+      },
+      "moduleAnswers": {
+        "changshi": 30,
+        "yanyu": 30,
+        "shuliang": 25,
+        "panduan": 30,
+        "ziliao": 20
+      },
+      "moduleExplanations": {
+        "changshi": 30,
+        "yanyu": 30,
+        "shuliang": 25,
+        "panduan": 30,
+        "ziliao": 20
+      },
+      "modulePlaceholders": {
+        "changshi": 0,
+        "yanyu": 0,
+        "shuliang": 0,
+        "panduan": 0,
+        "ziliao": 0
+      },
+      "moduleImages": {
+        "changshi": 0,
+        "yanyu": 0,
+        "shuliang": 1,
+        "panduan": 5,
+        "ziliao": 1
+      },
+      "answerSourceEmpty": false,
+      "answerOnlySource": false,
+      "rawLength": 22620,
+      "answerLength": 20550,
+      "elapsedMs": 181,
+      "note": "blocks=135, answers=135, quick=0"
+    },
+    {
+      "year": 2009,
+      "label": "应届",
+      "questionName": "2009年北京公务员考试《行测》（应届）.docx",
+      "answerName": "2009年北京公务员考试《行测》（应届）参考答案及解析.docx",
+      "pairNote": "same-year-and-label",
+      "answerFileMissing": false,
+      "status": "ok",
+      "questionCount": 135,
+      "maxNum": 135,
+      "placeholderCount": 0,
+      "placeholders": [],
+      "missingNums": [],
+      "withAnswer": 135,
+      "withExplanation": 135,
+      "imageQuestions": 6,
+      "errors": 0,
+      "warnings": 7,
+      "issueCodes": {
+        "IMAGE_OPTION": 5,
+        "MATERIAL_IMAGE": 2
+      },
+      "moduleCounts": {
+        "changshi": 30,
+        "yanyu": 30,
+        "shuliang": 25,
+        "panduan": 30,
+        "ziliao": 20
+      },
+      "moduleAnswers": {
+        "changshi": 30,
+        "yanyu": 30,
+        "shuliang": 25,
+        "panduan": 30,
+        "ziliao": 20
+      },
+      "moduleExplanations": {
+        "changshi": 30,
+        "yanyu": 30,
+        "shuliang": 25,
+        "panduan": 30,
+        "ziliao": 20
+      },
+      "modulePlaceholders": {
+        "changshi": 0,
+        "yanyu": 0,
+        "shuliang": 0,
+        "panduan": 0,
+        "ziliao": 0
+      },
+      "moduleImages": {
+        "changshi": 0,
+        "yanyu": 0,
+        "shuliang": 1,
+        "panduan": 5,
+        "ziliao": 0
+      },
+      "answerSourceEmpty": false,
+      "answerOnlySource": false,
+      "rawLength": 24258,
+      "answerLength": 26892,
+      "elapsedMs": 191,
+      "note": "blocks=135, answers=135, quick=0"
+    },
+    {
+      "year": 2010,
+      "label": "未标注",
+      "questionName": "2010年北京公务员考试《行测》真题.docx",
+      "answerName": "2010年北京市公务员考试《行测》真题参考答案及解析（小部分题目解析不详细）.docx",
+      "pairNote": "same-year-and-label",
+      "answerFileMissing": false,
+      "status": "ok",
+      "questionCount": 125,
+      "maxNum": 125,
+      "placeholderCount": 0,
+      "placeholders": [],
+      "missingNums": [],
+      "withAnswer": 119,
+      "withExplanation": 118,
+      "imageQuestions": 11,
+      "errors": 15,
+      "warnings": 8,
+      "issueCodes": {
+        "OPT_SPLIT_FAIL": 1,
+        "MISSING_ANALYSIS": 7,
+        "MISSING_ANSWER": 6,
+        "OPT_NOT_4": 1,
+        "IMAGE_OPTION": 5,
+        "MATERIAL_IMAGE": 3
+      },
+      "moduleCounts": {
+        "changshi": 35,
+        "yanyu": 35,
+        "shuliang": 15,
+        "panduan": 25,
+        "ziliao": 15
+      },
+      "moduleAnswers": {
+        "changshi": 31,
+        "yanyu": 35,
+        "shuliang": 15,
+        "panduan": 23,
+        "ziliao": 15
+      },
+      "moduleExplanations": {
+        "changshi": 30,
+        "yanyu": 35,
+        "shuliang": 15,
+        "panduan": 23,
+        "ziliao": 15
+      },
+      "modulePlaceholders": {
+        "changshi": 0,
+        "yanyu": 0,
+        "shuliang": 0,
+        "panduan": 0,
+        "ziliao": 0
+      },
+      "moduleImages": {
+        "changshi": 0,
+        "yanyu": 0,
+        "shuliang": 1,
+        "panduan": 5,
+        "ziliao": 5
+      },
+      "answerSourceEmpty": false,
+      "answerOnlySource": false,
+      "rawLength": 21848,
+      "answerLength": 13397,
+      "elapsedMs": 109,
+      "note": "blocks=118, answers=119, quick=50"
+    },
+    {
+      "year": 2011,
+      "label": "未标注",
+      "questionName": "2011年北京公务员考试《行测》卷.docx",
+      "answerName": "2011年北京公务员考试《行测》卷参考答案及解析.docx",
+      "pairNote": "same-year-and-label",
+      "answerFileMissing": false,
+      "status": "ok",
+      "questionCount": 135,
+      "maxNum": 135,
+      "placeholderCount": 0,
+      "placeholders": [],
+      "missingNums": [],
+      "withAnswer": 135,
+      "withExplanation": 135,
+      "imageQuestions": 8,
+      "errors": 0,
+      "warnings": 9,
+      "issueCodes": {
+        "IMAGE_OPTION": 6,
+        "MATERIAL_IMAGE": 3
+      },
+      "moduleCounts": {
+        "changshi": 35,
+        "yanyu": 35,
+        "shuliang": 15,
+        "panduan": 30,
+        "ziliao": 20
+      },
+      "moduleAnswers": {
+        "changshi": 35,
+        "yanyu": 35,
+        "shuliang": 15,
+        "panduan": 30,
+        "ziliao": 20
+      },
+      "moduleExplanations": {
+        "changshi": 35,
+        "yanyu": 35,
+        "shuliang": 15,
+        "panduan": 30,
+        "ziliao": 20
+      },
+      "modulePlaceholders": {
+        "changshi": 0,
+        "yanyu": 0,
+        "shuliang": 0,
+        "panduan": 0,
+        "ziliao": 0
+      },
+      "moduleImages": {
+        "changshi": 0,
+        "yanyu": 0,
+        "shuliang": 3,
+        "panduan": 5,
+        "ziliao": 0
+      },
+      "answerSourceEmpty": false,
+      "answerOnlySource": false,
+      "rawLength": 23585,
+      "answerLength": 24749,
+      "elapsedMs": 176,
+      "note": "blocks=135, answers=135, quick=0"
+    },
+    {
+      "year": 2012,
+      "label": "未标注",
+      "questionName": "2012年北京公务员考试《行测》卷.docx",
+      "answerName": "2012年北京公务员考试《行测》卷参考答案及解析.docx",
+      "pairNote": "same-year-and-label",
+      "answerFileMissing": false,
+      "status": "ok",
+      "questionCount": 135,
+      "maxNum": 135,
+      "placeholderCount": 4,
+      "placeholders": [
+        3,
+        4,
+        5,
+        6
+      ],
+      "missingNums": [
+        3,
+        4,
+        5,
+        6
+      ],
+      "withAnswer": 131,
+      "withExplanation": 131,
+      "imageQuestions": 5,
+      "errors": 13,
+      "warnings": 7,
+      "issueCodes": {
+        "QNO_PLACEHOLDER": 1,
+        "OPT_PARTIAL": 1,
+        "OPT_NOT_4": 4,
+        "MISSING_ANSWER": 4,
+        "MISSING_ANALYSIS": 4,
+        "IMAGE_OPTION": 5,
+        "MATERIAL_IMAGE": 1
+      },
+      "moduleCounts": {
+        "changshi": 35,
+        "yanyu": 35,
+        "shuliang": 15,
+        "panduan": 30,
+        "ziliao": 20
+      },
+      "moduleAnswers": {
+        "changshi": 31,
+        "yanyu": 35,
+        "shuliang": 15,
+        "panduan": 30,
+        "ziliao": 20
+      },
+      "moduleExplanations": {
+        "changshi": 31,
+        "yanyu": 35,
+        "shuliang": 15,
+        "panduan": 30,
+        "ziliao": 20
+      },
+      "modulePlaceholders": {
+        "changshi": 4,
+        "yanyu": 0,
+        "shuliang": 0,
+        "panduan": 0,
+        "ziliao": 0
+      },
+      "moduleImages": {
+        "changshi": 0,
+        "yanyu": 0,
+        "shuliang": 0,
+        "panduan": 5,
+        "ziliao": 0
+      },
+      "answerSourceEmpty": false,
+      "answerOnlySource": false,
+      "rawLength": 24238,
+      "answerLength": 25666,
+      "elapsedMs": 168,
+      "note": "blocks=135, answers=131, quick=8"
+    },
+    {
+      "year": 2013,
+      "label": "未标注",
+      "questionName": "2013年北京公务员考试《行测》卷.docx",
+      "answerName": "2013年北京公务员考试《行测》卷参考答案及解析.docx",
+      "pairNote": "same-year-and-label",
+      "answerFileMissing": false,
+      "status": "ok",
+      "questionCount": 135,
+      "maxNum": 135,
+      "placeholderCount": 0,
+      "placeholders": [],
+      "missingNums": [],
+      "withAnswer": 135,
+      "withExplanation": 135,
+      "imageQuestions": 9,
+      "errors": 0,
+      "warnings": 10,
+      "issueCodes": {
+        "IMAGE_OPTION": 7,
+        "MATERIAL_IMAGE": 3
+      },
+      "moduleCounts": {
+        "changshi": 35,
+        "yanyu": 35,
+        "shuliang": 15,
+        "panduan": 30,
+        "ziliao": 20
+      },
+      "moduleAnswers": {
+        "changshi": 35,
+        "yanyu": 35,
+        "shuliang": 15,
+        "panduan": 30,
+        "ziliao": 20
+      },
+      "moduleExplanations": {
+        "changshi": 35,
+        "yanyu": 35,
+        "shuliang": 15,
+        "panduan": 30,
+        "ziliao": 20
+      },
+      "modulePlaceholders": {
+        "changshi": 0,
+        "yanyu": 0,
+        "shuliang": 0,
+        "panduan": 0,
+        "ziliao": 0
+      },
+      "moduleImages": {
+        "changshi": 0,
+        "yanyu": 1,
+        "shuliang": 2,
+        "panduan": 5,
+        "ziliao": 1
+      },
+      "answerSourceEmpty": false,
+      "answerOnlySource": false,
+      "rawLength": 23243,
+      "answerLength": 20884,
+      "elapsedMs": 153,
+      "note": "blocks=135, answers=135, quick=2"
+    },
+    {
+      "year": 2014,
+      "label": "未标注",
+      "questionName": "2014年北京公务员考试《行测》真题.docx",
+      "answerName": "2014年北京公务员考试《行测》真题参考答案及解析.docx",
+      "pairNote": "same-year-and-label",
+      "answerFileMissing": false,
+      "status": "ok",
+      "questionCount": 135,
+      "maxNum": 135,
+      "placeholderCount": 0,
+      "placeholders": [],
+      "missingNums": [],
+      "withAnswer": 135,
+      "withExplanation": 135,
+      "imageQuestions": 7,
+      "errors": 0,
+      "warnings": 8,
+      "issueCodes": {
+        "IMAGE_OPTION": 5,
+        "MATERIAL_IMAGE": 3
+      },
+      "moduleCounts": {
+        "changshi": 35,
+        "yanyu": 35,
+        "shuliang": 15,
+        "panduan": 30,
+        "ziliao": 20
+      },
+      "moduleAnswers": {
+        "changshi": 35,
+        "yanyu": 35,
+        "shuliang": 15,
+        "panduan": 30,
+        "ziliao": 20
+      },
+      "moduleExplanations": {
+        "changshi": 35,
+        "yanyu": 35,
+        "shuliang": 15,
+        "panduan": 30,
+        "ziliao": 20
+      },
+      "modulePlaceholders": {
+        "changshi": 0,
+        "yanyu": 0,
+        "shuliang": 0,
+        "panduan": 0,
+        "ziliao": 0
+      },
+      "moduleImages": {
+        "changshi": 0,
+        "yanyu": 0,
+        "shuliang": 2,
+        "panduan": 5,
+        "ziliao": 0
+      },
+      "answerSourceEmpty": false,
+      "answerOnlySource": false,
+      "rawLength": 24272,
+      "answerLength": 25745,
+      "elapsedMs": 164,
+      "note": "blocks=135, answers=135, quick=9"
+    },
+    {
+      "year": 2015,
+      "label": "未标注",
+      "questionName": "2015年北京公务员考试《行测》卷.docx",
+      "answerName": "2015年北京公务员考试《行测》卷参考答案及解析.docx",
+      "pairNote": "same-year-and-label",
+      "answerFileMissing": false,
+      "status": "ok",
+      "questionCount": 135,
+      "maxNum": 135,
+      "placeholderCount": 2,
+      "placeholders": [
+        126,
+        131
+      ],
+      "missingNums": [
+        126,
+        131
+      ],
+      "withAnswer": 120,
+      "withExplanation": 120,
+      "imageQuestions": 6,
+      "errors": 40,
+      "warnings": 12,
+      "issueCodes": {
+        "ANSWER_CONFLICT": 7,
+        "QNO_PLACEHOLDER": 1,
+        "MISSING_ANSWER": 15,
+        "MISSING_ANALYSIS": 15,
+        "IMAGE_OPTION": 6,
+        "MATERIAL_IMAGE": 4,
+        "OPT_NOT_4": 2,
+        "MATERIAL_MISSING": 2
+      },
+      "moduleCounts": {
+        "changshi": 35,
+        "yanyu": 35,
+        "shuliang": 15,
+        "panduan": 30,
+        "ziliao": 20
+      },
+      "moduleAnswers": {
+        "changshi": 30,
+        "yanyu": 29,
+        "shuliang": 15,
+        "panduan": 28,
+        "ziliao": 18
+      },
+      "moduleExplanations": {
+        "changshi": 30,
+        "yanyu": 29,
+        "shuliang": 15,
+        "panduan": 28,
+        "ziliao": 18
+      },
+      "modulePlaceholders": {
+        "changshi": 0,
+        "yanyu": 0,
+        "shuliang": 0,
+        "panduan": 0,
+        "ziliao": 2
+      },
+      "moduleImages": {
+        "changshi": 0,
+        "yanyu": 0,
+        "shuliang": 0,
+        "panduan": 5,
+        "ziliao": 1
+      },
+      "answerSourceEmpty": false,
+      "answerOnlySource": false,
+      "rawLength": 25449,
+      "answerLength": 44840,
+      "elapsedMs": 202,
+      "note": "blocks=122, answers=120, quick=0"
+    },
+    {
+      "year": 2016,
+      "label": "未标注",
+      "questionName": "2016年北京公务员考试《行测》卷.docx",
+      "answerName": "2016年北京公务员考试《行测》卷参考答案及解析.docx",
+      "pairNote": "same-year-and-label",
+      "answerFileMissing": false,
+      "status": "ok",
+      "questionCount": 135,
+      "maxNum": 135,
+      "placeholderCount": 0,
+      "placeholders": [],
+      "missingNums": [],
+      "withAnswer": 134,
+      "withExplanation": 135,
+      "imageQuestions": 6,
+      "errors": 1,
+      "warnings": 6,
+      "issueCodes": {
+        "MISSING_ANSWER": 1,
+        "IMAGE_OPTION": 2,
+        "MATERIAL_IMAGE": 4
+      },
+      "moduleCounts": {
+        "changshi": 35,
+        "yanyu": 35,
+        "shuliang": 15,
+        "panduan": 30,
+        "ziliao": 20
+      },
+      "moduleAnswers": {
+        "changshi": 34,
+        "yanyu": 35,
+        "shuliang": 15,
+        "panduan": 30,
+        "ziliao": 20
+      },
+      "moduleExplanations": {
+        "changshi": 35,
+        "yanyu": 35,
+        "shuliang": 15,
+        "panduan": 30,
+        "ziliao": 20
+      },
+      "modulePlaceholders": {
+        "changshi": 0,
+        "yanyu": 0,
+        "shuliang": 0,
+        "panduan": 0,
+        "ziliao": 0
+      },
+      "moduleImages": {
+        "changshi": 0,
+        "yanyu": 0,
+        "shuliang": 1,
+        "panduan": 5,
+        "ziliao": 0
+      },
+      "answerSourceEmpty": false,
+      "answerOnlySource": false,
+      "rawLength": 26409,
+      "answerLength": 27820,
+      "elapsedMs": 181,
+      "note": "blocks=135, answers=135, quick=7"
+    },
+    {
+      "year": 2017,
+      "label": "未标注",
+      "questionName": "2017年北京公务员考试《行测》真题.docx",
+      "answerName": "2017年北京公务员考试《行测》真题答案及解析.docx",
+      "pairNote": "same-year-and-label",
+      "answerFileMissing": false,
+      "status": "ok",
+      "questionCount": 135,
+      "maxNum": 135,
+      "placeholderCount": 0,
+      "placeholders": [],
+      "missingNums": [],
+      "withAnswer": 134,
+      "withExplanation": 135,
+      "imageQuestions": 7,
+      "errors": 1,
+      "warnings": 9,
+      "issueCodes": {
+        "IMAGE_OPTION": 6,
+        "MISSING_ANSWER": 1,
+        "MATERIAL_IMAGE": 3
+      },
+      "moduleCounts": {
+        "changshi": 35,
+        "yanyu": 35,
+        "shuliang": 15,
+        "panduan": 30,
+        "ziliao": 20
+      },
+      "moduleAnswers": {
+        "changshi": 35,
+        "yanyu": 35,
+        "shuliang": 14,
+        "panduan": 30,
+        "ziliao": 20
+      },
+      "moduleExplanations": {
+        "changshi": 35,
+        "yanyu": 35,
+        "shuliang": 15,
+        "panduan": 30,
+        "ziliao": 20
+      },
+      "modulePlaceholders": {
+        "changshi": 0,
+        "yanyu": 0,
+        "shuliang": 0,
+        "panduan": 0,
+        "ziliao": 0
+      },
+      "moduleImages": {
+        "changshi": 0,
+        "yanyu": 0,
+        "shuliang": 2,
+        "panduan": 5,
+        "ziliao": 0
+      },
+      "answerSourceEmpty": false,
+      "answerOnlySource": false,
+      "rawLength": 25881,
+      "answerLength": 35836,
+      "elapsedMs": 187,
+      "note": "blocks=135, answers=135, quick=22"
+    },
+    {
+      "year": 2018,
+      "label": "未标注",
+      "questionName": "2018年北京市公务员录用考试《行测》真题.docx",
+      "answerName": "2018年北京市公务员录用考试《行测》真题答案及解析.docx",
+      "pairNote": "same-year-and-label",
+      "answerFileMissing": false,
+      "status": "ok",
+      "questionCount": 135,
+      "maxNum": 135,
+      "placeholderCount": 0,
+      "placeholders": [],
+      "missingNums": [],
+      "withAnswer": 135,
+      "withExplanation": 135,
+      "imageQuestions": 10,
+      "errors": 0,
+      "warnings": 13,
+      "issueCodes": {
+        "IMAGE_OPTION": 6,
+        "MATERIAL_MISSING": 5,
+        "MATERIAL_IMAGE": 2
+      },
+      "moduleCounts": {
+        "changshi": 35,
+        "yanyu": 35,
+        "shuliang": 15,
+        "panduan": 30,
+        "ziliao": 20
+      },
+      "moduleAnswers": {
+        "changshi": 35,
+        "yanyu": 35,
+        "shuliang": 15,
+        "panduan": 30,
+        "ziliao": 20
+      },
+      "moduleExplanations": {
+        "changshi": 35,
+        "yanyu": 35,
+        "shuliang": 15,
+        "panduan": 30,
+        "ziliao": 20
+      },
+      "modulePlaceholders": {
+        "changshi": 0,
+        "yanyu": 0,
+        "shuliang": 0,
+        "panduan": 0,
+        "ziliao": 0
+      },
+      "moduleImages": {
+        "changshi": 1,
+        "yanyu": 0,
+        "shuliang": 3,
+        "panduan": 5,
+        "ziliao": 1
+      },
+      "answerSourceEmpty": false,
+      "answerOnlySource": false,
+      "rawLength": 26430,
+      "answerLength": 45337,
+      "elapsedMs": 243,
+      "note": "blocks=135, answers=135, quick=0"
+    },
+    {
+      "year": 2019,
+      "label": "未标注",
+      "questionName": "2019年北京公务员考试《行测》试卷.docx",
+      "answerName": "2019年北京公务员考试《行测》试卷答案及解析.docx",
+      "pairNote": "same-year-and-label",
+      "answerFileMissing": false,
+      "status": "ok",
+      "questionCount": 135,
+      "maxNum": 135,
+      "placeholderCount": 0,
+      "placeholders": [],
+      "missingNums": [],
+      "withAnswer": 133,
+      "withExplanation": 133,
+      "imageQuestions": 8,
+      "errors": 4,
+      "warnings": 9,
+      "issueCodes": {
+        "IMAGE_OPTION": 6,
+        "MISSING_ANSWER": 2,
+        "MISSING_ANALYSIS": 2,
+        "MATERIAL_IMAGE": 3
+      },
+      "moduleCounts": {
+        "changshi": 35,
+        "yanyu": 35,
+        "shuliang": 15,
+        "panduan": 30,
+        "ziliao": 20
+      },
+      "moduleAnswers": {
+        "changshi": 35,
+        "yanyu": 35,
+        "shuliang": 15,
+        "panduan": 28,
+        "ziliao": 20
+      },
+      "moduleExplanations": {
+        "changshi": 35,
+        "yanyu": 35,
+        "shuliang": 15,
+        "panduan": 28,
+        "ziliao": 20
+      },
+      "modulePlaceholders": {
+        "changshi": 0,
+        "yanyu": 0,
+        "shuliang": 0,
+        "panduan": 0,
+        "ziliao": 0
+      },
+      "moduleImages": {
+        "changshi": 0,
+        "yanyu": 0,
+        "shuliang": 2,
+        "panduan": 5,
+        "ziliao": 1
+      },
+      "answerSourceEmpty": false,
+      "answerOnlySource": false,
+      "rawLength": 28196,
+      "answerLength": 46509,
+      "elapsedMs": 235,
+      "note": "blocks=133, answers=133, quick=0"
+    },
+    {
+      "year": 2020,
+      "label": "未标注",
+      "questionName": "2020年北京公务员考试《行测》真题（区级及以上）.docx",
+      "answerName": "2020年北京公务员考试《行测》真题（区级及以上）参考答案及解析.docx",
+      "pairNote": "same-year-and-label",
+      "answerFileMissing": false,
+      "status": "ok",
+      "questionCount": 135,
+      "maxNum": 135,
+      "placeholderCount": 0,
+      "placeholders": [],
+      "missingNums": [],
+      "withAnswer": 134,
+      "withExplanation": 134,
+      "imageQuestions": 10,
+      "errors": 2,
+      "warnings": 9,
+      "issueCodes": {
+        "IMAGE_OPTION": 6,
+        "MISSING_ANSWER": 1,
+        "MISSING_ANALYSIS": 1,
+        "MATERIAL_IMAGE": 3
+      },
+      "moduleCounts": {
+        "changshi": 35,
+        "yanyu": 35,
+        "shuliang": 15,
+        "panduan": 30,
+        "ziliao": 20
+      },
+      "moduleAnswers": {
+        "changshi": 35,
+        "yanyu": 35,
+        "shuliang": 15,
+        "panduan": 29,
+        "ziliao": 20
+      },
+      "moduleExplanations": {
+        "changshi": 35,
+        "yanyu": 35,
+        "shuliang": 15,
+        "panduan": 29,
+        "ziliao": 20
+      },
+      "modulePlaceholders": {
+        "changshi": 0,
+        "yanyu": 0,
+        "shuliang": 0,
+        "panduan": 0,
+        "ziliao": 0
+      },
+      "moduleImages": {
+        "changshi": 1,
+        "yanyu": 0,
+        "shuliang": 2,
+        "panduan": 6,
+        "ziliao": 1
+      },
+      "answerSourceEmpty": false,
+      "answerOnlySource": false,
+      "rawLength": 29790,
+      "answerLength": 45832,
+      "elapsedMs": 204,
+      "note": "blocks=134, answers=134, quick=0"
+    },
+    {
+      "year": 2020,
+      "label": "乡镇",
+      "questionName": "2020年北京公务员考试《行测》真题（乡镇）（42、89题暂缺）.docx",
+      "answerName": "2020年北京公务员考试《行测》真题（乡镇）参考答案及解析（42、89题暂缺）.docx",
+      "pairNote": "same-year-and-label",
+      "answerFileMissing": false,
+      "status": "ok",
+      "questionCount": 130,
+      "maxNum": 130,
+      "placeholderCount": 0,
+      "placeholders": [],
+      "missingNums": [],
+      "withAnswer": 127,
+      "withExplanation": 129,
+      "imageQuestions": 10,
+      "errors": 4,
+      "warnings": 9,
+      "issueCodes": {
+        "IMAGE_OPTION": 6,
+        "MISSING_ANSWER": 3,
+        "MISSING_ANALYSIS": 1,
+        "MATERIAL_IMAGE": 3
+      },
+      "moduleCounts": {
+        "changshi": 35,
+        "yanyu": 35,
+        "shuliang": 10,
+        "panduan": 30,
+        "ziliao": 20
+      },
+      "moduleAnswers": {
+        "changshi": 35,
+        "yanyu": 34,
+        "shuliang": 10,
+        "panduan": 28,
+        "ziliao": 20
+      },
+      "moduleExplanations": {
+        "changshi": 35,
+        "yanyu": 35,
+        "shuliang": 10,
+        "panduan": 29,
+        "ziliao": 20
+      },
+      "modulePlaceholders": {
+        "changshi": 0,
+        "yanyu": 0,
+        "shuliang": 0,
+        "panduan": 0,
+        "ziliao": 0
+      },
+      "moduleImages": {
+        "changshi": 1,
+        "yanyu": 0,
+        "shuliang": 2,
+        "panduan": 6,
+        "ziliao": 1
+      },
+      "answerSourceEmpty": false,
+      "answerOnlySource": false,
+      "rawLength": 26450,
+      "answerLength": 43623,
+      "elapsedMs": 198,
+      "note": "blocks=129, answers=129, quick=0"
+    },
+    {
+      "year": 2021,
+      "label": "未标注",
+      "questionName": "2021年北京公务员考试《行测》真题（区级及以上）.docx",
+      "answerName": "2021年北京公务员考试《行测》真题（区级及以上）参考答案及解析.docx",
+      "pairNote": "same-year-and-label",
+      "answerFileMissing": false,
+      "status": "ok",
+      "questionCount": 135,
+      "maxNum": 135,
+      "placeholderCount": 0,
+      "placeholders": [],
+      "missingNums": [],
+      "withAnswer": 134,
+      "withExplanation": 134,
+      "imageQuestions": 11,
+      "errors": 6,
+      "warnings": 8,
+      "issueCodes": {
+        "ANSWER_CONFLICT": 3,
+        "MISSING_ANSWER": 1,
+        "MISSING_ANALYSIS": 1,
+        "IMAGE_OPTION": 5,
+        "OPT_EMPTY": 1,
+        "MATERIAL_IMAGE": 3
+      },
+      "moduleCounts": {
+        "changshi": 35,
+        "yanyu": 35,
+        "shuliang": 15,
+        "panduan": 30,
+        "ziliao": 20
+      },
+      "moduleAnswers": {
+        "changshi": 34,
+        "yanyu": 35,
+        "shuliang": 15,
+        "panduan": 30,
+        "ziliao": 20
+      },
+      "moduleExplanations": {
+        "changshi": 34,
+        "yanyu": 35,
+        "shuliang": 15,
+        "panduan": 30,
+        "ziliao": 20
+      },
+      "modulePlaceholders": {
+        "changshi": 0,
+        "yanyu": 0,
+        "shuliang": 0,
+        "panduan": 0,
+        "ziliao": 0
+      },
+      "moduleImages": {
+        "changshi": 1,
+        "yanyu": 0,
+        "shuliang": 0,
+        "panduan": 5,
+        "ziliao": 5
+      },
+      "answerSourceEmpty": false,
+      "answerOnlySource": false,
+      "rawLength": 29820,
+      "answerLength": 46989,
+      "elapsedMs": 336,
+      "note": "blocks=134, answers=134, quick=0"
+    },
+    {
+      "year": 2021,
+      "label": "乡镇",
+      "questionName": "2021年北京公务员考试《行测》真题（乡镇）.docx",
+      "answerName": "2021年北京公务员考试《行测》真题（乡镇）参考答案及解析.docx",
+      "pairNote": "same-year-and-label",
+      "answerFileMissing": false,
+      "status": "ok",
+      "questionCount": 130,
+      "maxNum": 130,
+      "placeholderCount": 0,
+      "placeholders": [],
+      "missingNums": [],
+      "withAnswer": 130,
+      "withExplanation": 130,
+      "imageQuestions": 11,
+      "errors": 4,
+      "warnings": 8,
+      "issueCodes": {
+        "ANSWER_CONFLICT": 3,
+        "IMAGE_OPTION": 5,
+        "OPT_EMPTY": 1,
+        "MATERIAL_IMAGE": 3
+      },
+      "moduleCounts": {
+        "changshi": 35,
+        "yanyu": 35,
+        "shuliang": 10,
+        "panduan": 30,
+        "ziliao": 20
+      },
+      "moduleAnswers": {
+        "changshi": 35,
+        "yanyu": 35,
+        "shuliang": 10,
+        "panduan": 30,
+        "ziliao": 20
+      },
+      "moduleExplanations": {
+        "changshi": 35,
+        "yanyu": 35,
+        "shuliang": 10,
+        "panduan": 30,
+        "ziliao": 20
+      },
+      "modulePlaceholders": {
+        "changshi": 0,
+        "yanyu": 0,
+        "shuliang": 0,
+        "panduan": 0,
+        "ziliao": 0
+      },
+      "moduleImages": {
+        "changshi": 1,
+        "yanyu": 0,
+        "shuliang": 0,
+        "panduan": 5,
+        "ziliao": 5
+      },
+      "answerSourceEmpty": false,
+      "answerOnlySource": false,
+      "rawLength": 26704,
+      "answerLength": 46349,
+      "elapsedMs": 238,
+      "note": "blocks=130, answers=130, quick=0"
+    },
+    {
+      "year": 2022,
+      "label": "未标注",
+      "questionName": "2022年北京公务员考试行测试题.docx",
+      "answerName": "2022年北京公务员考试行测试题答案解析.docx",
+      "pairNote": "same-year-and-label",
+      "answerFileMissing": false,
+      "status": "ok",
+      "questionCount": 135,
+      "maxNum": 135,
+      "placeholderCount": 0,
+      "placeholders": [],
+      "missingNums": [],
+      "withAnswer": 124,
+      "withExplanation": 135,
+      "imageQuestions": 10,
+      "errors": 11,
+      "warnings": 13,
+      "issueCodes": {
+        "MISSING_ANSWER": 11,
+        "IMAGE_OPTION": 6,
+        "MATERIAL_MISSING": 5,
+        "MATERIAL_IMAGE": 2
+      },
+      "moduleCounts": {
+        "changshi": 35,
+        "yanyu": 35,
+        "shuliang": 15,
+        "panduan": 30,
+        "ziliao": 20
+      },
+      "moduleAnswers": {
+        "changshi": 25,
+        "yanyu": 35,
+        "shuliang": 14,
+        "panduan": 30,
+        "ziliao": 20
+      },
+      "moduleExplanations": {
+        "changshi": 35,
+        "yanyu": 35,
+        "shuliang": 15,
+        "panduan": 30,
+        "ziliao": 20
+      },
+      "modulePlaceholders": {
+        "changshi": 0,
+        "yanyu": 0,
+        "shuliang": 0,
+        "panduan": 0,
+        "ziliao": 0
+      },
+      "moduleImages": {
+        "changshi": 1,
+        "yanyu": 0,
+        "shuliang": 2,
+        "panduan": 5,
+        "ziliao": 2
+      },
+      "answerSourceEmpty": false,
+      "answerOnlySource": false,
+      "rawLength": 30626,
+      "answerLength": 47431,
+      "elapsedMs": 224,
+      "note": "blocks=135, answers=135, quick=0"
+    },
+    {
+      "year": 2023,
+      "label": "未标注",
+      "questionName": "2023年北京市公务员录用考试《行测》题.docx",
+      "answerName": "2023年北京市公务员录用考试《行测》题（解析）.docx",
+      "pairNote": "same-year-and-label",
+      "answerFileMissing": false,
+      "status": "ok",
+      "questionCount": 94,
+      "maxNum": 94,
+      "placeholderCount": 0,
+      "placeholders": [],
+      "missingNums": [],
+      "withAnswer": 44,
+      "withExplanation": 56,
+      "imageQuestions": 11,
+      "errors": 92,
+      "warnings": 1,
+      "issueCodes": {
+        "OPT_SPLIT_FAIL": 2,
+        "OPT_PARTIAL": 1,
+        "MISSING_ANSWER": 50,
+        "MISSING_ANALYSIS": 38,
+        "OPT_NOT_4": 2
+      },
+      "moduleCounts": {
+        "changshi": 30,
+        "yanyu": 30,
+        "shuliang": 20,
+        "panduan": 14,
+        "ziliao": 0
+      },
+      "moduleAnswers": {
+        "changshi": 18,
+        "yanyu": 7,
+        "shuliang": 5,
+        "panduan": 14,
+        "ziliao": 0
+      },
+      "moduleExplanations": {
+        "changshi": 30,
+        "yanyu": 7,
+        "shuliang": 5,
+        "panduan": 14,
+        "ziliao": 0
+      },
+      "modulePlaceholders": {
+        "changshi": 0,
+        "yanyu": 0,
+        "shuliang": 0,
+        "panduan": 0,
+        "ziliao": 0
+      },
+      "moduleImages": {
+        "changshi": 0,
+        "yanyu": 0,
+        "shuliang": 1,
+        "panduan": 10,
+        "ziliao": 0
+      },
+      "answerSourceEmpty": false,
+      "answerOnlySource": false,
+      "rawLength": 22533,
+      "answerLength": 33622,
+      "elapsedMs": 188,
+      "note": "blocks=95, answers=62, quick=0"
+    },
+    {
+      "year": 2025,
+      "label": "未标注",
+      "questionName": "2025年北京市公务员考试《行测》真题.docx",
+      "answerName": "2025年北京市公务员考试《行测》答案及解析.docx",
+      "pairNote": "same-year-and-label",
+      "answerFileMissing": false,
+      "status": "ok",
+      "questionCount": 93,
+      "maxNum": 93,
+      "placeholderCount": 1,
+      "placeholders": [
+        46
+      ],
+      "missingNums": [
+        46
+      ],
+      "withAnswer": 92,
+      "withExplanation": 86,
+      "imageQuestions": 22,
+      "errors": 10,
+      "warnings": 26,
+      "issueCodes": {
+        "MODULE_INFERRED": 11,
+        "QNO_PLACEHOLDER": 1,
+        "MISSING_ANALYSIS": 7,
+        "IMAGE_OPTION": 14,
+        "OPT_NOT_4": 1,
+        "MISSING_ANSWER": 1,
+        "OPT_PARTIAL": 1
+      },
+      "moduleCounts": {
+        "changshi": 11,
+        "yanyu": 20,
+        "shuliang": 20,
+        "panduan": 42,
+        "ziliao": 0
+      },
+      "moduleAnswers": {
+        "changshi": 11,
+        "yanyu": 20,
+        "shuliang": 19,
+        "panduan": 42,
+        "ziliao": 0
+      },
+      "moduleExplanations": {
+        "changshi": 11,
+        "yanyu": 19,
+        "shuliang": 16,
+        "panduan": 40,
+        "ziliao": 0
+      },
+      "modulePlaceholders": {
+        "changshi": 0,
+        "yanyu": 0,
+        "shuliang": 1,
+        "panduan": 0,
+        "ziliao": 0
+      },
+      "moduleImages": {
+        "changshi": 0,
+        "yanyu": 0,
+        "shuliang": 4,
+        "panduan": 18,
+        "ziliao": 0
+      },
+      "answerSourceEmpty": false,
+      "answerOnlySource": false,
+      "rawLength": 14945,
+      "answerLength": 25590,
+      "elapsedMs": 200,
+      "note": "blocks=86, answers=92, quick=92"
+    }
+  ]
+}

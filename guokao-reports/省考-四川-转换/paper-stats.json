@@ -1,0 +1,2180 @@
+{
+  "province": "四川",
+  "generatedAt": "2026-10-21 22:13:08",
+  "startedAt": "2026-10-21 22:11:16",
+  "outputDir": "public/data/questions-v2-provincial/四川",
+  "aggregate": {
+    "papers": 31,
+    "okPapers": 31,
+    "failedPapers": 0,
+    "questions": 3234,
+    "placeholders": 36,
+    "withAnswer": 2931,
+    "withExplanation": 2933,
+    "imageQuestions": 314,
+    "errors": 683,
+    "warnings": 377,
+    "missingAnswerPapers": 0,
+    "answerOnlyPapers": 0,
+    "moduleCounts": {
+      "changshi": 435,
+      "yanyu": 925,
+      "shuliang": 442,
+      "panduan": 967,
+      "ziliao": 465
+    },
+    "issueCodes": {
+      "QNO_PLACEHOLDER": 7,
+      "OPT_NOT_4": 42,
+      "MISSING_ANSWER": 303,
+      "MISSING_ANALYSIS": 301,
+      "OPT_PARTIAL": 11,
+      "OPT_SPLIT_FAIL": 6,
+      "IMAGE_OPTION": 195,
+      "MATERIAL_IMAGE": 51,
+      "ANSWER_CONFLICT": 20,
+      "OPT_EMPTY": 2,
+      "MATERIAL_MISSING": 20,
+      "ANSWER_COVERAGE_LOW": 2,
+      "MODULE_INFERRED": 100
+    }
+  },
+  "papers": [
+    {
+      "year": 2007,
+      "label": "未标注",
+      "questionName": "2007年9月四川省招警考试《行测》真题.docx",
+      "answerName": "2007年9月四川省招警考试《行测》真题答案及解析.docx",
+      "pairNote": "same-year-and-label",
+      "answerFileMissing": false,
+      "status": "ok",
+      "questionCount": 100,
+      "maxNum": 100,
+      "placeholderCount": 12,
+      "placeholders": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        81,
+        82,
+        83,
+        84,
+        85
+      ],
+      "missingNums": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        81,
+        82,
+        83,
+        84,
+        85
+      ],
+      "withAnswer": 86,
+      "withExplanation": 86,
+      "imageQuestions": 1,
+      "errors": 41,
+      "warnings": 6,
+      "issueCodes": {
+        "QNO_PLACEHOLDER": 1,
+        "OPT_NOT_4": 12,
+        "MISSING_ANSWER": 14,
+        "MISSING_ANALYSIS": 14,
+        "OPT_PARTIAL": 6
+      },
+      "moduleCounts": {
+        "changshi": 30,
+        "yanyu": 30,
+        "shuliang": 15,
+        "panduan": 10,
+        "ziliao": 15
+      },
+      "moduleAnswers": {
+        "changshi": 25,
+        "yanyu": 30,
+        "shuliang": 8,
+        "panduan": 9,
+        "ziliao": 14
+      },
+      "moduleExplanations": {
+        "changshi": 25,
+        "yanyu": 30,
+        "shuliang": 8,
+        "panduan": 9,
+        "ziliao": 14
+      },
+      "modulePlaceholders": {
+        "changshi": 5,
+        "yanyu": 0,
+        "shuliang": 7,
+        "panduan": 0,
+        "ziliao": 0
+      },
+      "moduleImages": {
+        "changshi": 0,
+        "yanyu": 0,
+        "shuliang": 1,
+        "panduan": 0,
+        "ziliao": 0
+      },
+      "answerSourceEmpty": false,
+      "answerOnlySource": false,
+      "rawLength": 16552,
+      "answerLength": 11413,
+      "elapsedMs": 127,
+      "note": "blocks=97, answers=86, quick=0"
+    },
+    {
+      "year": 2007,
+      "label": "未标注",
+      "questionName": "2007年四川省公务员考试《行测》真题.docx",
+      "answerName": "2007年9月四川省招警考试《行测》真题答案及解析.docx",
+      "pairNote": "same-year-and-label",
+      "answerFileMissing": false,
+      "status": "ok",
+      "questionCount": 100,
+      "maxNum": 100,
+      "placeholderCount": 1,
+      "placeholders": [
+        6
+      ],
+      "missingNums": [
+        6
+      ],
+      "withAnswer": 96,
+      "withExplanation": 96,
+      "imageQuestions": 8,
+      "errors": 12,
+      "warnings": 7,
+      "issueCodes": {
+        "OPT_SPLIT_FAIL": 1,
+        "QNO_PLACEHOLDER": 1,
+        "MISSING_ANSWER": 4,
+        "MISSING_ANALYSIS": 4,
+        "OPT_NOT_4": 2,
+        "IMAGE_OPTION": 6,
+        "MATERIAL_IMAGE": 1
+      },
+      "moduleCounts": {
+        "changshi": 10,
+        "yanyu": 30,
+        "shuliang": 15,
+        "panduan": 30,
+        "ziliao": 15
+      },
+      "moduleAnswers": {
+        "changshi": 10,
+        "yanyu": 30,
+        "shuliang": 13,
+        "panduan": 29,
+        "ziliao": 14
+      },
+      "moduleExplanations": {
+        "changshi": 10,
+        "yanyu": 30,
+        "shuliang": 13,
+        "panduan": 29,
+        "ziliao": 14
+      },
+      "modulePlaceholders": {
+        "changshi": 0,
+        "yanyu": 0,
+        "shuliang": 1,
+        "panduan": 0,
+        "ziliao": 0
+      },
+      "moduleImages": {
+        "changshi": 0,
+        "yanyu": 0,
+        "shuliang": 3,
+        "panduan": 4,
+        "ziliao": 1
+      },
+      "answerSourceEmpty": false,
+      "answerOnlySource": false,
+      "rawLength": 15019,
+      "answerLength": 11413,
+      "elapsedMs": 90,
+      "note": "blocks=97, answers=96, quick=0"
+    },
+    {
+      "year": 2008,
+      "label": "未标注",
+      "questionName": "2008年四川公务员考试《行测》.docx",
+      "answerName": "2008年四川公务员考试《行测》答案及解析.docx",
+      "pairNote": "same-year-and-label",
+      "answerFileMissing": false,
+      "status": "ok",
+      "questionCount": 100,
+      "maxNum": 100,
+      "placeholderCount": 0,
+      "placeholders": [],
+      "missingNums": [],
+      "withAnswer": 93,
+      "withExplanation": 93,
+      "imageQuestions": 10,
+      "errors": 19,
+      "warnings": 12,
+      "issueCodes": {
+        "ANSWER_CONFLICT": 5,
+        "MISSING_ANSWER": 7,
+        "MISSING_ANALYSIS": 7,
+        "IMAGE_OPTION": 10,
+        "MATERIAL_IMAGE": 2
+      },
+      "moduleCounts": {
+        "changshi": 5,
+        "yanyu": 30,
+        "shuliang": 15,
+        "panduan": 35,
+        "ziliao": 15
+      },
+      "moduleAnswers": {
+        "changshi": 3,
+        "yanyu": 26,
+        "shuliang": 14,
+        "panduan": 35,
+        "ziliao": 15
+      },
+      "moduleExplanations": {
+        "changshi": 3,
+        "yanyu": 26,
+        "shuliang": 14,
+        "panduan": 35,
+        "ziliao": 15
+      },
+      "modulePlaceholders": {
+        "changshi": 0,
+        "yanyu": 0,
+        "shuliang": 0,
+        "panduan": 0,
+        "ziliao": 0
+      },
+      "moduleImages": {
+        "changshi": 0,
+        "yanyu": 0,
+        "shuliang": 0,
+        "panduan": 10,
+        "ziliao": 0
+      },
+      "answerSourceEmpty": false,
+      "answerOnlySource": false,
+      "rawLength": 13990,
+      "answerLength": 28626,
+      "elapsedMs": 134,
+      "note": "blocks=93, answers=93, quick=0"
+    },
+    {
+      "year": 2009,
+      "label": "未标注",
+      "questionName": "2009年四川公务员考试《行测》上半年卷.docx",
+      "answerName": "2009年四川公务员考试《行测》上半年卷答案及解析.docx",
+      "pairNote": "same-year-and-label",
+      "answerFileMissing": false,
+      "status": "ok",
+      "questionCount": 100,
+      "maxNum": 100,
+      "placeholderCount": 6,
+      "placeholders": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "missingNums": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "withAnswer": 94,
+      "withExplanation": 94,
+      "imageQuestions": 15,
+      "errors": 19,
+      "warnings": 11,
+      "issueCodes": {
+        "QNO_PLACEHOLDER": 1,
+        "IMAGE_OPTION": 11,
+        "OPT_NOT_4": 6,
+        "MISSING_ANSWER": 6,
+        "MISSING_ANALYSIS": 6
+      },
+      "moduleCounts": {
+        "changshi": 0,
+        "yanyu": 0,
+        "shuliang": 45,
+        "panduan": 40,
+        "ziliao": 15
+      },
+      "moduleAnswers": {
+        "changshi": 0,
+        "yanyu": 0,
+        "shuliang": 39,
+        "panduan": 40,
+        "ziliao": 15
+      },
+      "moduleExplanations": {
+        "changshi": 0,
+        "yanyu": 0,
+        "shuliang": 39,
+        "panduan": 40,
+        "ziliao": 15
+      },
+      "modulePlaceholders": {
+        "changshi": 0,
+        "yanyu": 0,
+        "shuliang": 6,
+        "panduan": 0,
+        "ziliao": 0
+      },
+      "moduleImages": {
+        "changshi": 0,
+        "yanyu": 0,
+        "shuliang": 4,
+        "panduan": 11,
+        "ziliao": 0
+      },
+      "answerSourceEmpty": false,
+      "answerOnlySource": false,
+      "rawLength": 12955,
+      "answerLength": 15958,
+      "elapsedMs": 112,
+      "note": "blocks=100, answers=94, quick=0"
+    },
+    {
+      "year": 2009,
+      "label": "未标注",
+      "questionName": "2009年四川公务员考试《行测》下半年卷（此套题不全，无资料分析题）.docx",
+      "answerName": "2009年四川公务员考试《行测》上半年卷答案及解析.docx",
+      "pairNote": "same-year-and-label",
+      "answerFileMissing": false,
+      "status": "ok",
+      "questionCount": 80,
+      "maxNum": 80,
+      "placeholderCount": 0,
+      "placeholders": [],
+      "missingNums": [],
+      "withAnswer": 80,
+      "withExplanation": 80,
+      "imageQuestions": 7,
+      "errors": 0,
+      "warnings": 7,
+      "issueCodes": {
+        "IMAGE_OPTION": 7
+      },
+      "moduleCounts": {
+        "changshi": 0,
+        "yanyu": 0,
+        "shuliang": 50,
+        "panduan": 30,
+        "ziliao": 0
+      },
+      "moduleAnswers": {
+        "changshi": 0,
+        "yanyu": 0,
+        "shuliang": 50,
+        "panduan": 30,
+        "ziliao": 0
+      },
+      "moduleExplanations": {
+        "changshi": 0,
+        "yanyu": 0,
+        "shuliang": 50,
+        "panduan": 30,
+        "ziliao": 0
+      },
+      "modulePlaceholders": {
+        "changshi": 0,
+        "yanyu": 0,
+        "shuliang": 0,
+        "panduan": 0,
+        "ziliao": 0
+      },
+      "moduleImages": {
+        "changshi": 0,
+        "yanyu": 0,
+        "shuliang": 1,
+        "panduan": 6,
+        "ziliao": 0
+      },
+      "answerSourceEmpty": false,
+      "answerOnlySource": false,
+      "rawLength": 13311,
+      "answerLength": 15958,
+      "elapsedMs": 107,
+      "note": "blocks=80, answers=80, quick=0"
+    },
+    {
+      "year": 2010,
+      "label": "未标注",
+      "questionName": "2010年四川公务员考试《行测》（11月26日）.docx",
+      "answerName": "2010年四川公务员考试《行测》（11月26日）答案及解析.docx",
+      "pairNote": "same-year-and-label",
+      "answerFileMissing": false,
+      "status": "ok",
+      "questionCount": 100,
+      "maxNum": 100,
+      "placeholderCount": 0,
+      "placeholders": [],
+      "missingNums": [],
+      "withAnswer": 100,
+      "withExplanation": 100,
+      "imageQuestions": 7,
+      "errors": 0,
+      "warnings": 6,
+      "issueCodes": {
+        "IMAGE_OPTION": 6
+      },
+      "moduleCounts": {
+        "changshi": 5,
+        "yanyu": 35,
+        "shuliang": 15,
+        "panduan": 30,
+        "ziliao": 15
+      },
+      "moduleAnswers": {
+        "changshi": 5,
+        "yanyu": 35,
+        "shuliang": 15,
+        "panduan": 30,
+        "ziliao": 15
+      },
+      "moduleExplanations": {
+        "changshi": 5,
+        "yanyu": 35,
+        "shuliang": 15,
+        "panduan": 30,
+        "ziliao": 15
+      },
+      "modulePlaceholders": {
+        "changshi": 0,
+        "yanyu": 0,
+        "shuliang": 0,
+        "panduan": 0,
+        "ziliao": 0
+      },
+      "moduleImages": {
+        "changshi": 1,
+        "yanyu": 0,
+        "shuliang": 1,
+        "panduan": 5,
+        "ziliao": 0
+      },
+      "answerSourceEmpty": false,
+      "answerOnlySource": false,
+      "rawLength": 16884,
+      "answerLength": 22451,
+      "elapsedMs": 147,
+      "note": "blocks=100, answers=100, quick=0"
+    },
+    {
+      "year": 2011,
+      "label": "424联考",
+      "questionName": "2011年424公务员联考《行测》（宁夏、贵州、四川、福建、黑龙江、湖北、山西、重庆、辽宁、海南、江西、天津、陕西、云南、广西、山东、湖南）.docx",
+      "answerName": "2011年424公务员联考《行测》答案及解析（宁夏、贵州、四川、福建、黑龙江、湖北、山西、重庆、辽宁、海南、江西、天津、陕西、云南、广西、山东、湖南）.docx",
+      "pairNote": "same-year-and-label",
+      "answerFileMissing": false,
+      "status": "ok",
+      "questionCount": 120,
+      "maxNum": 120,
+      "placeholderCount": 0,
+      "placeholders": [],
+      "missingNums": [],
+      "withAnswer": 120,
+      "withExplanation": 120,
+      "imageQuestions": 10,
+      "errors": 2,
+      "warnings": 16,
+      "issueCodes": {
+        "OPT_EMPTY": 2,
+        "IMAGE_OPTION": 10,
+        "MATERIAL_MISSING": 5,
+        "MATERIAL_IMAGE": 1
+      },
+      "moduleCounts": {
+        "changshi": 20,
+        "yanyu": 40,
+        "shuliang": 10,
+        "panduan": 30,
+        "ziliao": 20
+      },
+      "moduleAnswers": {
+        "changshi": 20,
+        "yanyu": 40,
+        "shuliang": 10,
+        "panduan": 30,
+        "ziliao": 20
+      },
+      "moduleExplanations": {
+        "changshi": 20,
+        "yanyu": 40,
+        "shuliang": 10,
+        "panduan": 30,
+        "ziliao": 20
+      },
+      "modulePlaceholders": {
+        "changshi": 0,
+        "yanyu": 0,
+        "shuliang": 0,
+        "panduan": 0,
+        "ziliao": 0
+      },
+      "moduleImages": {
+        "changshi": 0,
+        "yanyu": 0,
+        "shuliang": 0,
+        "panduan": 10,
+        "ziliao": 0
+      },
+      "answerSourceEmpty": false,
+      "answerOnlySource": false,
+      "rawLength": 20643,
+      "answerLength": 26559,
+      "elapsedMs": 137,
+      "note": "blocks=120, answers=120, quick=0"
+    },
+    {
+      "year": 2012,
+      "label": "421联考",
+      "questionName": "2012年421公务员联考《行测》（山西、辽宁、黑龙江、福建、湖北、 湖南、广西、海南、四川、重庆、 云南、西藏、陕西、青海、宁夏、新疆 、甘肃）.docx",
+      "answerName": "2012年421公务员联考《行测》答案及解析（山西、辽宁、黑龙江、福建、湖北、 湖南、广西、海南、四川、重庆、 云南、西藏、陕西、青海、宁夏、新疆、甘肃 ）.docx",
+      "pairNote": "same-year-and-label",
+      "answerFileMissing": false,
+      "status": "ok",
+      "questionCount": 120,
+      "maxNum": 120,
+      "placeholderCount": 0,
+      "placeholders": [],
+      "missingNums": [],
+      "withAnswer": 120,
+      "withExplanation": 120,
+      "imageQuestions": 8,
+      "errors": 0,
+      "warnings": 11,
+      "issueCodes": {
+        "IMAGE_OPTION": 8,
+        "MATERIAL_IMAGE": 3
+      },
+      "moduleCounts": {
+        "changshi": 20,
+        "yanyu": 30,
+        "shuliang": 15,
+        "panduan": 35,
+        "ziliao": 20
+      },
+      "moduleAnswers": {
+        "changshi": 20,
+        "yanyu": 30,
+        "shuliang": 15,
+        "panduan": 35,
+        "ziliao": 20
+      },
+      "moduleExplanations": {
+        "changshi": 20,
+        "yanyu": 30,
+        "shuliang": 15,
+        "panduan": 35,
+        "ziliao": 20
+      },
+      "modulePlaceholders": {
+        "changshi": 0,
+        "yanyu": 0,
+        "shuliang": 0,
+        "panduan": 0,
+        "ziliao": 0
+      },
+      "moduleImages": {
+        "changshi": 0,
+        "yanyu": 0,
+        "shuliang": 2,
+        "panduan": 5,
+        "ziliao": 1
+      },
+      "answerSourceEmpty": false,
+      "answerOnlySource": false,
+      "rawLength": 20097,
+      "answerLength": 29629,
+      "elapsedMs": 133,
+      "note": "blocks=120, answers=120, quick=0"
+    },
+    {
+      "year": 2012,
+      "label": "未标注",
+      "questionName": "2012年四川公务员《行测》真题试卷（下半年）.docx",
+      "answerName": "2012年四川公务员《行测》真题试卷（下半年）答案及解析.docx",
+      "pairNote": "same-year-and-label",
+      "answerFileMissing": false,
+      "status": "ok",
+      "questionCount": 120,
+      "maxNum": 120,
+      "placeholderCount": 0,
+      "placeholders": [],
+      "missingNums": [],
+      "withAnswer": 109,
+      "withExplanation": 109,
+      "imageQuestions": 11,
+      "errors": 32,
+      "warnings": 13,
+      "issueCodes": {
+        "ANSWER_CONFLICT": 6,
+        "OPT_SPLIT_FAIL": 2,
+        "MISSING_ANSWER": 11,
+        "MISSING_ANALYSIS": 11,
+        "OPT_NOT_4": 2,
+        "IMAGE_OPTION": 10,
+        "MATERIAL_IMAGE": 3
+      },
+      "moduleCounts": {
+        "changshi": 20,
+        "yanyu": 30,
+        "shuliang": 15,
+        "panduan": 35,
+        "ziliao": 20
+      },
+      "moduleAnswers": {
+        "changshi": 11,
+        "yanyu": 28,
+        "shuliang": 15,
+        "panduan": 35,
+        "ziliao": 20
+      },
+      "moduleExplanations": {
+        "changshi": 11,
+        "yanyu": 28,
+        "shuliang": 15,
+        "panduan": 35,
+        "ziliao": 20
+      },
+      "modulePlaceholders": {
+        "changshi": 0,
+        "yanyu": 0,
+        "shuliang": 0,
+        "panduan": 0,
+        "ziliao": 0
+      },
+      "moduleImages": {
+        "changshi": 1,
+        "yanyu": 0,
+        "shuliang": 0,
+        "panduan": 10,
+        "ziliao": 0
+      },
+      "answerSourceEmpty": false,
+      "answerOnlySource": false,
+      "rawLength": 20712,
+      "answerLength": 40199,
+      "elapsedMs": 224,
+      "note": "blocks=109, answers=109, quick=0"
+    },
+    {
+      "year": 2013,
+      "label": "413联考",
+      "questionName": "2013年413公务员联考《行测》卷（辽宁、湖南、湖北、安徽、四川、福建、云南、黑龙江、江西、广西、贵州、海南、内蒙古、山西、重庆、宁夏、西藏）.docx",
+      "answerName": "2013年413公务员联考《行测》卷（辽宁、湖南、湖北、安徽、四川、福建、云南、黑龙江、江西、广西、贵州、海南、内蒙古、山西、重庆、宁夏、西藏）答案及解析.docx",
+      "pairNote": "same-year-and-label",
+      "answerFileMissing": false,
+      "status": "ok",
+      "questionCount": 154,
+      "maxNum": 154,
+      "placeholderCount": 3,
+      "placeholders": [
+        6,
+        7,
+        8
+      ],
+      "missingNums": [
+        6,
+        7,
+        8
+      ],
+      "withAnswer": 151,
+      "withExplanation": 151,
+      "imageQuestions": 11,
+      "errors": 10,
+      "warnings": 12,
+      "issueCodes": {
+        "QNO_PLACEHOLDER": 1,
+        "OPT_NOT_4": 3,
+        "MISSING_ANSWER": 3,
+        "MISSING_ANALYSIS": 3,
+        "IMAGE_OPTION": 9,
+        "MATERIAL_IMAGE": 3
+      },
+      "moduleCounts": {
+        "changshi": 25,
+        "yanyu": 50,
+        "shuliang": 15,
+        "panduan": 44,
+        "ziliao": 20
+      },
+      "moduleAnswers": {
+        "changshi": 22,
+        "yanyu": 50,
+        "shuliang": 15,
+        "panduan": 44,
+        "ziliao": 20
+      },
+      "moduleExplanations": {
+        "changshi": 22,
+        "yanyu": 50,
+        "shuliang": 15,
+        "panduan": 44,
+        "ziliao": 20
+      },
+      "modulePlaceholders": {
+        "changshi": 3,
+        "yanyu": 0,
+        "shuliang": 0,
+        "panduan": 0,
+        "ziliao": 0
+      },
+      "moduleImages": {
+        "changshi": 1,
+        "yanyu": 0,
+        "shuliang": 2,
+        "panduan": 8,
+        "ziliao": 0
+      },
+      "answerSourceEmpty": false,
+      "answerOnlySource": false,
+      "rawLength": 27624,
+      "answerLength": 33147,
+      "elapsedMs": 168,
+      "note": "blocks=154, answers=151, quick=0"
+    },
+    {
+      "year": 2013,
+      "label": "未标注",
+      "questionName": "2013年四川公务员《行测》真题试卷（下半年）.docx",
+      "answerName": "2013年四川公务员《行测》真题试卷（下半年）答案及解析.docx",
+      "pairNote": "same-year-and-label",
+      "answerFileMissing": false,
+      "status": "ok",
+      "questionCount": 120,
+      "maxNum": 120,
+      "placeholderCount": 0,
+      "placeholders": [],
+      "missingNums": [],
+      "withAnswer": 120,
+      "withExplanation": 120,
+      "imageQuestions": 5,
+      "errors": 0,
+      "warnings": 8,
+      "issueCodes": {
+        "IMAGE_OPTION": 5,
+        "MATERIAL_IMAGE": 3
+      },
+      "moduleCounts": {
+        "changshi": 20,
+        "yanyu": 30,
+        "shuliang": 15,
+        "panduan": 35,
+        "ziliao": 20
+      },
+      "moduleAnswers": {
+        "changshi": 20,
+        "yanyu": 30,
+        "shuliang": 15,
+        "panduan": 35,
+        "ziliao": 20
+      },
+      "moduleExplanations": {
+        "changshi": 20,
+        "yanyu": 30,
+        "shuliang": 15,
+        "panduan": 35,
+        "ziliao": 20
+      },
+      "modulePlaceholders": {
+        "changshi": 0,
+        "yanyu": 0,
+        "shuliang": 0,
+        "panduan": 0,
+        "ziliao": 0
+      },
+      "moduleImages": {
+        "changshi": 0,
+        "yanyu": 0,
+        "shuliang": 0,
+        "panduan": 5,
+        "ziliao": 0
+      },
+      "answerSourceEmpty": false,
+      "answerOnlySource": false,
+      "rawLength": 18502,
+      "answerLength": 21347,
+      "elapsedMs": 128,
+      "note": "blocks=120, answers=120, quick=0"
+    },
+    {
+      "year": 2014,
+      "label": "未标注",
+      "questionName": "2014年四川公务员《行测》真题试卷（上半年）.docx",
+      "answerName": "2014年四川公务员《行测》真题试卷（上半年）答案及解析.docx",
+      "pairNote": "same-year-and-label",
+      "answerFileMissing": false,
+      "status": "ok",
+      "questionCount": 120,
+      "maxNum": 120,
+      "placeholderCount": 0,
+      "placeholders": [],
+      "missingNums": [],
+      "withAnswer": 120,
+      "withExplanation": 120,
+      "imageQuestions": 7,
+      "errors": 0,
+      "warnings": 7,
+      "issueCodes": {
+        "IMAGE_OPTION": 5,
+        "MATERIAL_IMAGE": 2
+      },
+      "moduleCounts": {
+        "changshi": 20,
+        "yanyu": 30,
+        "shuliang": 15,
+        "panduan": 35,
+        "ziliao": 20
+      },
+      "moduleAnswers": {
+        "changshi": 20,
+        "yanyu": 30,
+        "shuliang": 15,
+        "panduan": 35,
+        "ziliao": 20
+      },
+      "moduleExplanations": {
+        "changshi": 20,
+        "yanyu": 30,
+        "shuliang": 15,
+        "panduan": 35,
+        "ziliao": 20
+      },
+      "modulePlaceholders": {
+        "changshi": 0,
+        "yanyu": 0,
+        "shuliang": 0,
+        "panduan": 0,
+        "ziliao": 0
+      },
+      "moduleImages": {
+        "changshi": 0,
+        "yanyu": 0,
+        "shuliang": 2,
+        "panduan": 5,
+        "ziliao": 0
+      },
+      "answerSourceEmpty": false,
+      "answerOnlySource": false,
+      "rawLength": 18498,
+      "answerLength": 25364,
+      "elapsedMs": 139,
+      "note": "blocks=120, answers=120, quick=0"
+    },
+    {
+      "year": 2014,
+      "label": "未标注",
+      "questionName": "2014年四川公务员《行测》真题试卷（下半年）.docx",
+      "answerName": "2014年四川公务员《行测》真题试卷（上半年）答案及解析.docx",
+      "pairNote": "same-year-and-label",
+      "answerFileMissing": false,
+      "status": "ok",
+      "questionCount": 100,
+      "maxNum": 100,
+      "placeholderCount": 0,
+      "placeholders": [],
+      "missingNums": [],
+      "withAnswer": 100,
+      "withExplanation": 100,
+      "imageQuestions": 8,
+      "errors": 0,
+      "warnings": 8,
+      "issueCodes": {
+        "IMAGE_OPTION": 7,
+        "MATERIAL_IMAGE": 1
+      },
+      "moduleCounts": {
+        "changshi": 15,
+        "yanyu": 30,
+        "shuliang": 10,
+        "panduan": 30,
+        "ziliao": 15
+      },
+      "moduleAnswers": {
+        "changshi": 15,
+        "yanyu": 30,
+        "shuliang": 10,
+        "panduan": 30,
+        "ziliao": 15
+      },
+      "moduleExplanations": {
+        "changshi": 15,
+        "yanyu": 30,
+        "shuliang": 10,
+        "panduan": 30,
+        "ziliao": 15
+      },
+      "modulePlaceholders": {
+        "changshi": 0,
+        "yanyu": 0,
+        "shuliang": 0,
+        "panduan": 0,
+        "ziliao": 0
+      },
+      "moduleImages": {
+        "changshi": 0,
+        "yanyu": 0,
+        "shuliang": 2,
+        "panduan": 6,
+        "ziliao": 0
+      },
+      "answerSourceEmpty": false,
+      "answerOnlySource": false,
+      "rawLength": 17307,
+      "answerLength": 25364,
+      "elapsedMs": 131,
+      "note": "blocks=100, answers=100, quick=0"
+    },
+    {
+      "year": 2015,
+      "label": "未标注",
+      "questionName": "2015上半年四川公务员《行测》真题试卷.docx",
+      "answerName": "2015上半年四川公务员《行测》真题试卷答案及解析.docx",
+      "pairNote": "same-year-and-label",
+      "answerFileMissing": false,
+      "status": "ok",
+      "questionCount": 100,
+      "maxNum": 100,
+      "placeholderCount": 0,
+      "placeholders": [],
+      "missingNums": [],
+      "withAnswer": 100,
+      "withExplanation": 100,
+      "imageQuestions": 9,
+      "errors": 0,
+      "warnings": 10,
+      "issueCodes": {
+        "IMAGE_OPTION": 7,
+        "MATERIAL_IMAGE": 3
+      },
+      "moduleCounts": {
+        "changshi": 15,
+        "yanyu": 30,
+        "shuliang": 10,
+        "panduan": 30,
+        "ziliao": 15
+      },
+      "moduleAnswers": {
+        "changshi": 15,
+        "yanyu": 30,
+        "shuliang": 10,
+        "panduan": 30,
+        "ziliao": 15
+      },
+      "moduleExplanations": {
+        "changshi": 15,
+        "yanyu": 30,
+        "shuliang": 10,
+        "panduan": 30,
+        "ziliao": 15
+      },
+      "modulePlaceholders": {
+        "changshi": 0,
+        "yanyu": 0,
+        "shuliang": 0,
+        "panduan": 0,
+        "ziliao": 0
+      },
+      "moduleImages": {
+        "changshi": 0,
+        "yanyu": 0,
+        "shuliang": 2,
+        "panduan": 7,
+        "ziliao": 0
+      },
+      "answerSourceEmpty": false,
+      "answerOnlySource": false,
+      "rawLength": 17037,
+      "answerLength": 19014,
+      "elapsedMs": 101,
+      "note": "blocks=100, answers=100, quick=0"
+    },
+    {
+      "year": 2016,
+      "label": "未标注",
+      "questionName": "2016年0423四川公务员考试《行测》真题.docx",
+      "answerName": "2016年0423四川公务员考试《行测》真题参考答案及解析.docx",
+      "pairNote": "same-year-and-label",
+      "answerFileMissing": false,
+      "status": "ok",
+      "questionCount": 100,
+      "maxNum": 100,
+      "placeholderCount": 0,
+      "placeholders": [],
+      "missingNums": [],
+      "withAnswer": 100,
+      "withExplanation": 100,
+      "imageQuestions": 13,
+      "errors": 0,
+      "warnings": 8,
+      "issueCodes": {
+        "OPT_PARTIAL": 1,
+        "IMAGE_OPTION": 4,
+        "MATERIAL_IMAGE": 3
+      },
+      "moduleCounts": {
+        "changshi": 10,
+        "yanyu": 35,
+        "shuliang": 10,
+        "panduan": 30,
+        "ziliao": 15
+      },
+      "moduleAnswers": {
+        "changshi": 10,
+        "yanyu": 35,
+        "shuliang": 10,
+        "panduan": 30,
+        "ziliao": 15
+      },
+      "moduleExplanations": {
+        "changshi": 10,
+        "yanyu": 35,
+        "shuliang": 10,
+        "panduan": 30,
+        "ziliao": 15
+      },
+      "modulePlaceholders": {
+        "changshi": 0,
+        "yanyu": 0,
+        "shuliang": 0,
+        "panduan": 0,
+        "ziliao": 0
+      },
+      "moduleImages": {
+        "changshi": 1,
+        "yanyu": 0,
+        "shuliang": 1,
+        "panduan": 6,
+        "ziliao": 5
+      },
+      "answerSourceEmpty": false,
+      "answerOnlySource": false,
+      "rawLength": 16730,
+      "answerLength": 34675,
+      "elapsedMs": 159,
+      "note": "blocks=100, answers=100, quick=0"
+    },
+    {
+      "year": 2016,
+      "label": "未标注",
+      "questionName": "2016年四川省公务员录用考试《行测》真题（下半年）.docx",
+      "answerName": "2016年0423四川公务员考试《行测》真题参考答案及解析.docx",
+      "pairNote": "same-year-and-label",
+      "answerFileMissing": false,
+      "status": "ok",
+      "questionCount": 100,
+      "maxNum": 100,
+      "placeholderCount": 0,
+      "placeholders": [],
+      "missingNums": [],
+      "withAnswer": 100,
+      "withExplanation": 100,
+      "imageQuestions": 9,
+      "errors": 0,
+      "warnings": 9,
+      "issueCodes": {
+        "IMAGE_OPTION": 7,
+        "MATERIAL_IMAGE": 2
+      },
+      "moduleCounts": {
+        "changshi": 10,
+        "yanyu": 35,
+        "shuliang": 10,
+        "panduan": 30,
+        "ziliao": 15
+      },
+      "moduleAnswers": {
+        "changshi": 10,
+        "yanyu": 35,
+        "shuliang": 10,
+        "panduan": 30,
+        "ziliao": 15
+      },
+      "moduleExplanations": {
+        "changshi": 10,
+        "yanyu": 35,
+        "shuliang": 10,
+        "panduan": 30,
+        "ziliao": 15
+      },
+      "modulePlaceholders": {
+        "changshi": 0,
+        "yanyu": 0,
+        "shuliang": 0,
+        "panduan": 0,
+        "ziliao": 0
+      },
+      "moduleImages": {
+        "changshi": 0,
+        "yanyu": 0,
+        "shuliang": 0,
+        "panduan": 8,
+        "ziliao": 1
+      },
+      "answerSourceEmpty": false,
+      "answerOnlySource": false,
+      "rawLength": 17096,
+      "answerLength": 34675,
+      "elapsedMs": 149,
+      "note": "blocks=100, answers=100, quick=0"
+    },
+    {
+      "year": 2017,
+      "label": "422联考",
+      "questionName": "2017年422公务员联考《行测》真题（四川上半年卷）.docx",
+      "answerName": "2017年422公务员联考《行测》真题（四川上半年卷）答案及解析.docx",
+      "pairNote": "same-year-and-label",
+      "answerFileMissing": false,
+      "status": "ok",
+      "questionCount": 100,
+      "maxNum": 100,
+      "placeholderCount": 0,
+      "placeholders": [],
+      "missingNums": [],
+      "withAnswer": 67,
+      "withExplanation": 67,
+      "imageQuestions": 10,
+      "errors": 66,
+      "warnings": 10,
+      "issueCodes": {
+        "MISSING_ANSWER": 33,
+        "MISSING_ANALYSIS": 33,
+        "IMAGE_OPTION": 7,
+        "MATERIAL_IMAGE": 3
+      },
+      "moduleCounts": {
+        "changshi": 10,
+        "yanyu": 35,
+        "shuliang": 10,
+        "panduan": 30,
+        "ziliao": 15
+      },
+      "moduleAnswers": {
+        "changshi": 7,
+        "yanyu": 32,
+        "shuliang": 7,
+        "panduan": 14,
+        "ziliao": 7
+      },
+      "moduleExplanations": {
+        "changshi": 7,
+        "yanyu": 32,
+        "shuliang": 7,
+        "panduan": 14,
+        "ziliao": 7
+      },
+      "modulePlaceholders": {
+        "changshi": 0,
+        "yanyu": 0,
+        "shuliang": 0,
+        "panduan": 0,
+        "ziliao": 0
+      },
+      "moduleImages": {
+        "changshi": 1,
+        "yanyu": 0,
+        "shuliang": 3,
+        "panduan": 5,
+        "ziliao": 1
+      },
+      "answerSourceEmpty": false,
+      "answerOnlySource": false,
+      "rawLength": 17655,
+      "answerLength": 29110,
+      "elapsedMs": 135,
+      "note": "blocks=67, answers=67, quick=0"
+    },
+    {
+      "year": 2017,
+      "label": "未标注",
+      "questionName": "2017年0923四川公务员考试《行测》真题（下半年）.docx",
+      "answerName": "2017年四川公务员考试《行测》真题（下半年）答案及解析.docx",
+      "pairNote": "same-year-and-label",
+      "answerFileMissing": false,
+      "status": "ok",
+      "questionCount": 100,
+      "maxNum": 100,
+      "placeholderCount": 0,
+      "placeholders": [],
+      "missingNums": [],
+      "withAnswer": 11,
+      "withExplanation": 11,
+      "imageQuestions": 8,
+      "errors": 179,
+      "warnings": 4,
+      "issueCodes": {
+        "ANSWER_COVERAGE_LOW": 1,
+        "MISSING_ANSWER": 89,
+        "MISSING_ANALYSIS": 89,
+        "IMAGE_OPTION": 2,
+        "MATERIAL_IMAGE": 2
+      },
+      "moduleCounts": {
+        "changshi": 10,
+        "yanyu": 30,
+        "shuliang": 10,
+        "panduan": 35,
+        "ziliao": 15
+      },
+      "moduleAnswers": {
+        "changshi": 10,
+        "yanyu": 0,
+        "shuliang": 1,
+        "panduan": 0,
+        "ziliao": 0
+      },
+      "moduleExplanations": {
+        "changshi": 10,
+        "yanyu": 0,
+        "shuliang": 1,
+        "panduan": 0,
+        "ziliao": 0
+      },
+      "modulePlaceholders": {
+        "changshi": 0,
+        "yanyu": 0,
+        "shuliang": 0,
+        "panduan": 0,
+        "ziliao": 0
+      },
+      "moduleImages": {
+        "changshi": 0,
+        "yanyu": 0,
+        "shuliang": 3,
+        "panduan": 5,
+        "ziliao": 0
+      },
+      "answerSourceEmpty": false,
+      "answerOnlySource": false,
+      "rawLength": 19270,
+      "answerLength": 31405,
+      "elapsedMs": 144,
+      "note": "blocks=11, answers=11, quick=0"
+    },
+    {
+      "year": 2018,
+      "label": "421联考",
+      "questionName": "2018年421联考《行测》真题（四川卷）.docx",
+      "answerName": "2018年421联考《行测》真题（四川卷）答案及解析.docx",
+      "pairNote": "same-year-and-label",
+      "answerFileMissing": false,
+      "status": "ok",
+      "questionCount": 100,
+      "maxNum": 100,
+      "placeholderCount": 0,
+      "placeholders": [],
+      "missingNums": [],
+      "withAnswer": 99,
+      "withExplanation": 100,
+      "imageQuestions": 10,
+      "errors": 1,
+      "warnings": 9,
+      "issueCodes": {
+        "IMAGE_OPTION": 8,
+        "MISSING_ANSWER": 1,
+        "MATERIAL_IMAGE": 1
+      },
+      "moduleCounts": {
+        "changshi": 15,
+        "yanyu": 30,
+        "shuliang": 10,
+        "panduan": 30,
+        "ziliao": 15
+      },
+      "moduleAnswers": {
+        "changshi": 15,
+        "yanyu": 29,
+        "shuliang": 10,
+        "panduan": 30,
+        "ziliao": 15
+      },
+      "moduleExplanations": {
+        "changshi": 15,
+        "yanyu": 30,
+        "shuliang": 10,
+        "panduan": 30,
+        "ziliao": 15
+      },
+      "modulePlaceholders": {
+        "changshi": 0,
+        "yanyu": 0,
+        "shuliang": 0,
+        "panduan": 0,
+        "ziliao": 0
+      },
+      "moduleImages": {
+        "changshi": 1,
+        "yanyu": 0,
+        "shuliang": 3,
+        "panduan": 5,
+        "ziliao": 1
+      },
+      "answerSourceEmpty": false,
+      "answerOnlySource": false,
+      "rawLength": 18112,
+      "answerLength": 32050,
+      "elapsedMs": 153,
+      "note": "blocks=100, answers=100, quick=0"
+    },
+    {
+      "year": 2018,
+      "label": "未标注",
+      "questionName": "2018年四川省公务员录用考试《行测》真题（下半年）.docx",
+      "answerName": "2018年四川省公务员录用考试《行测》真题（下半年）答案及解析.docx",
+      "pairNote": "same-year-and-label",
+      "answerFileMissing": false,
+      "status": "ok",
+      "questionCount": 100,
+      "maxNum": 100,
+      "placeholderCount": 0,
+      "placeholders": [],
+      "missingNums": [],
+      "withAnswer": 100,
+      "withExplanation": 100,
+      "imageQuestions": 11,
+      "errors": 0,
+      "warnings": 14,
+      "issueCodes": {
+        "IMAGE_OPTION": 7,
+        "MATERIAL_IMAGE": 2,
+        "MATERIAL_MISSING": 5
+      },
+      "moduleCounts": {
+        "changshi": 15,
+        "yanyu": 30,
+        "shuliang": 10,
+        "panduan": 30,
+        "ziliao": 15
+      },
+      "moduleAnswers": {
+        "changshi": 15,
+        "yanyu": 30,
+        "shuliang": 10,
+        "panduan": 30,
+        "ziliao": 15
+      },
+      "moduleExplanations": {
+        "changshi": 15,
+        "yanyu": 30,
+        "shuliang": 10,
+        "panduan": 30,
+        "ziliao": 15
+      },
+      "modulePlaceholders": {
+        "changshi": 0,
+        "yanyu": 0,
+        "shuliang": 0,
+        "panduan": 0,
+        "ziliao": 0
+      },
+      "moduleImages": {
+        "changshi": 0,
+        "yanyu": 1,
+        "shuliang": 3,
+        "panduan": 7,
+        "ziliao": 0
+      },
+      "answerSourceEmpty": false,
+      "answerOnlySource": false,
+      "rawLength": 18799,
+      "answerLength": 35017,
+      "elapsedMs": 158,
+      "note": "blocks=100, answers=100, quick=0"
+    },
+    {
+      "year": 2019,
+      "label": "420联考",
+      "questionName": "2019年420联考《行测》真题（四川上半年卷）.docx",
+      "answerName": "2019年420联考《行测》真题（四川上半年卷）答案及解析.docx",
+      "pairNote": "same-year-and-label",
+      "answerFileMissing": false,
+      "status": "ok",
+      "questionCount": 100,
+      "maxNum": 100,
+      "placeholderCount": 0,
+      "placeholders": [],
+      "missingNums": [],
+      "withAnswer": 96,
+      "withExplanation": 97,
+      "imageQuestions": 10,
+      "errors": 7,
+      "warnings": 8,
+      "issueCodes": {
+        "IMAGE_OPTION": 7,
+        "MATERIAL_IMAGE": 1,
+        "MISSING_ANSWER": 4,
+        "MISSING_ANALYSIS": 3
+      },
+      "moduleCounts": {
+        "changshi": 15,
+        "yanyu": 30,
+        "shuliang": 10,
+        "panduan": 30,
+        "ziliao": 15
+      },
+      "moduleAnswers": {
+        "changshi": 15,
+        "yanyu": 30,
+        "shuliang": 10,
+        "panduan": 30,
+        "ziliao": 11
+      },
+      "moduleExplanations": {
+        "changshi": 15,
+        "yanyu": 30,
+        "shuliang": 10,
+        "panduan": 30,
+        "ziliao": 12
+      },
+      "modulePlaceholders": {
+        "changshi": 0,
+        "yanyu": 0,
+        "shuliang": 0,
+        "panduan": 0,
+        "ziliao": 0
+      },
+      "moduleImages": {
+        "changshi": 0,
+        "yanyu": 1,
+        "shuliang": 2,
+        "panduan": 5,
+        "ziliao": 2
+      },
+      "answerSourceEmpty": false,
+      "answerOnlySource": false,
+      "rawLength": 17828,
+      "answerLength": 36390,
+      "elapsedMs": 167,
+      "note": "blocks=97, answers=97, quick=0"
+    },
+    {
+      "year": 2019,
+      "label": "未标注",
+      "questionName": "2019年四川公务员考试《行测》真题（下半年卷）.docx",
+      "answerName": "2019年四川公务员考试《行测》真题（下半年卷）答案解析.docx",
+      "pairNote": "same-year-and-label",
+      "answerFileMissing": false,
+      "status": "ok",
+      "questionCount": 100,
+      "maxNum": 100,
+      "placeholderCount": 0,
+      "placeholders": [],
+      "missingNums": [],
+      "withAnswer": 99,
+      "withExplanation": 99,
+      "imageQuestions": 17,
+      "errors": 2,
+      "warnings": 10,
+      "issueCodes": {
+        "IMAGE_OPTION": 8,
+        "MISSING_ANSWER": 1,
+        "MISSING_ANALYSIS": 1,
+        "MATERIAL_IMAGE": 2
+      },
+      "moduleCounts": {
+        "changshi": 15,
+        "yanyu": 30,
+        "shuliang": 10,
+        "panduan": 30,
+        "ziliao": 15
+      },
+      "moduleAnswers": {
+        "changshi": 15,
+        "yanyu": 30,
+        "shuliang": 10,
+        "panduan": 29,
+        "ziliao": 15
+      },
+      "moduleExplanations": {
+        "changshi": 15,
+        "yanyu": 30,
+        "shuliang": 10,
+        "panduan": 29,
+        "ziliao": 15
+      },
+      "modulePlaceholders": {
+        "changshi": 0,
+        "yanyu": 0,
+        "shuliang": 0,
+        "panduan": 0,
+        "ziliao": 0
+      },
+      "moduleImages": {
+        "changshi": 1,
+        "yanyu": 0,
+        "shuliang": 5,
+        "panduan": 10,
+        "ziliao": 1
+      },
+      "answerSourceEmpty": false,
+      "answerOnlySource": false,
+      "rawLength": 18549,
+      "answerLength": 31901,
+      "elapsedMs": 122,
+      "note": "blocks=99, answers=99, quick=0"
+    },
+    {
+      "year": 2020,
+      "label": "未标注",
+      "questionName": "2020年0725四川公务员考试《行测》真题.docx",
+      "answerName": "2020年0725四川公务员考试《行测》真题参考答案及解析.docx",
+      "pairNote": "same-year-and-label",
+      "answerFileMissing": false,
+      "status": "ok",
+      "questionCount": 100,
+      "maxNum": 100,
+      "placeholderCount": 0,
+      "placeholders": [],
+      "missingNums": [],
+      "withAnswer": 99,
+      "withExplanation": 99,
+      "imageQuestions": 13,
+      "errors": 3,
+      "warnings": 7,
+      "issueCodes": {
+        "ANSWER_CONFLICT": 1,
+        "MISSING_ANSWER": 1,
+        "MISSING_ANALYSIS": 1,
+        "IMAGE_OPTION": 5,
+        "MATERIAL_IMAGE": 2
+      },
+      "moduleCounts": {
+        "changshi": 15,
+        "yanyu": 30,
+        "shuliang": 10,
+        "panduan": 30,
+        "ziliao": 15
+      },
+      "moduleAnswers": {
+        "changshi": 15,
+        "yanyu": 29,
+        "shuliang": 10,
+        "panduan": 30,
+        "ziliao": 15
+      },
+      "moduleExplanations": {
+        "changshi": 15,
+        "yanyu": 29,
+        "shuliang": 10,
+        "panduan": 30,
+        "ziliao": 15
+      },
+      "modulePlaceholders": {
+        "changshi": 0,
+        "yanyu": 0,
+        "shuliang": 0,
+        "panduan": 0,
+        "ziliao": 0
+      },
+      "moduleImages": {
+        "changshi": 0,
+        "yanyu": 0,
+        "shuliang": 3,
+        "panduan": 5,
+        "ziliao": 5
+      },
+      "answerSourceEmpty": false,
+      "answerOnlySource": false,
+      "rawLength": 19438,
+      "answerLength": 37135,
+      "elapsedMs": 151,
+      "note": "blocks=99, answers=99, quick=0"
+    },
+    {
+      "year": 2020,
+      "label": "未标注",
+      "questionName": "2020年1206四川公务员考试《行测》真题.docx",
+      "answerName": "2020年0725四川公务员考试《行测》真题参考答案及解析.docx",
+      "pairNote": "same-year-and-label",
+      "answerFileMissing": false,
+      "status": "ok",
+      "questionCount": 100,
+      "maxNum": 100,
+      "placeholderCount": 0,
+      "placeholders": [],
+      "missingNums": [],
+      "withAnswer": 99,
+      "withExplanation": 99,
+      "imageQuestions": 17,
+      "errors": 3,
+      "warnings": 8,
+      "issueCodes": {
+        "ANSWER_CONFLICT": 1,
+        "MISSING_ANSWER": 1,
+        "MISSING_ANALYSIS": 1,
+        "IMAGE_OPTION": 6,
+        "MATERIAL_IMAGE": 2
+      },
+      "moduleCounts": {
+        "changshi": 10,
+        "yanyu": 30,
+        "shuliang": 10,
+        "panduan": 35,
+        "ziliao": 15
+      },
+      "moduleAnswers": {
+        "changshi": 10,
+        "yanyu": 29,
+        "shuliang": 10,
+        "panduan": 35,
+        "ziliao": 15
+      },
+      "moduleExplanations": {
+        "changshi": 10,
+        "yanyu": 29,
+        "shuliang": 10,
+        "panduan": 35,
+        "ziliao": 15
+      },
+      "modulePlaceholders": {
+        "changshi": 0,
+        "yanyu": 0,
+        "shuliang": 0,
+        "panduan": 0,
+        "ziliao": 0
+      },
+      "moduleImages": {
+        "changshi": 0,
+        "yanyu": 0,
+        "shuliang": 2,
+        "panduan": 10,
+        "ziliao": 5
+      },
+      "answerSourceEmpty": false,
+      "answerOnlySource": false,
+      "rawLength": 18489,
+      "answerLength": 37135,
+      "elapsedMs": 157,
+      "note": "blocks=99, answers=99, quick=0"
+    },
+    {
+      "year": 2021,
+      "label": "未标注",
+      "questionName": "2021年四川下半年公务员录用考试《行测》试题.docx",
+      "answerName": "2021年四川下半年公务员录用考试《行测》试题解析.docx",
+      "pairNote": "same-year-and-label",
+      "answerFileMissing": false,
+      "status": "ok",
+      "questionCount": 100,
+      "maxNum": 100,
+      "placeholderCount": 0,
+      "placeholders": [],
+      "missingNums": [],
+      "withAnswer": 100,
+      "withExplanation": 100,
+      "imageQuestions": 10,
+      "errors": 0,
+      "warnings": 5,
+      "issueCodes": {
+        "IMAGE_OPTION": 3,
+        "MATERIAL_IMAGE": 2
+      },
+      "moduleCounts": {
+        "changshi": 15,
+        "yanyu": 30,
+        "shuliang": 10,
+        "panduan": 30,
+        "ziliao": 15
+      },
+      "moduleAnswers": {
+        "changshi": 15,
+        "yanyu": 30,
+        "shuliang": 10,
+        "panduan": 30,
+        "ziliao": 15
+      },
+      "moduleExplanations": {
+        "changshi": 15,
+        "yanyu": 30,
+        "shuliang": 10,
+        "panduan": 30,
+        "ziliao": 15
+      },
+      "modulePlaceholders": {
+        "changshi": 0,
+        "yanyu": 0,
+        "shuliang": 0,
+        "panduan": 0,
+        "ziliao": 0
+      },
+      "moduleImages": {
+        "changshi": 0,
+        "yanyu": 0,
+        "shuliang": 3,
+        "panduan": 6,
+        "ziliao": 1
+      },
+      "answerSourceEmpty": false,
+      "answerOnlySource": false,
+      "rawLength": 20797,
+      "answerLength": 40230,
+      "elapsedMs": 162,
+      "note": "blocks=100, answers=100, quick=0"
+    },
+    {
+      "year": 2021,
+      "label": "选调",
+      "questionName": "2021年0327四川省考&选调生招录考试《行测》真题.docx",
+      "answerName": "2021年0327四川省考&选调生招录考试《行测》真题参考答案及解析_Password_Removed.docx",
+      "pairNote": "same-year-and-label",
+      "answerFileMissing": false,
+      "status": "ok",
+      "questionCount": 100,
+      "maxNum": 100,
+      "placeholderCount": 0,
+      "placeholders": [],
+      "missingNums": [],
+      "withAnswer": 98,
+      "withExplanation": 98,
+      "imageQuestions": 11,
+      "errors": 9,
+      "warnings": 8,
+      "issueCodes": {
+        "ANSWER_CONFLICT": 1,
+        "OPT_SPLIT_FAIL": 2,
+        "MISSING_ANSWER": 2,
+        "MISSING_ANALYSIS": 2,
+        "IMAGE_OPTION": 7,
+        "MATERIAL_IMAGE": 1,
+        "OPT_NOT_4": 2
+      },
+      "moduleCounts": {
+        "changshi": 15,
+        "yanyu": 30,
+        "shuliang": 10,
+        "panduan": 30,
+        "ziliao": 15
+      },
+      "moduleAnswers": {
+        "changshi": 15,
+        "yanyu": 28,
+        "shuliang": 10,
+        "panduan": 30,
+        "ziliao": 15
+      },
+      "moduleExplanations": {
+        "changshi": 15,
+        "yanyu": 28,
+        "shuliang": 10,
+        "panduan": 30,
+        "ziliao": 15
+      },
+      "modulePlaceholders": {
+        "changshi": 0,
+        "yanyu": 0,
+        "shuliang": 0,
+        "panduan": 0,
+        "ziliao": 0
+      },
+      "moduleImages": {
+        "changshi": 0,
+        "yanyu": 0,
+        "shuliang": 3,
+        "panduan": 8,
+        "ziliao": 0
+      },
+      "answerSourceEmpty": false,
+      "answerOnlySource": false,
+      "rawLength": 18814,
+      "answerLength": 34764,
+      "elapsedMs": 158,
+      "note": "blocks=98, answers=98, quick=0"
+    },
+    {
+      "year": 2022,
+      "label": "未标注",
+      "questionName": "2022 上半年四川公务员考试行测真题.docx",
+      "answerName": "2022年0326四川公务员考试（行测）答案解析.docx",
+      "pairNote": "same-year-and-label",
+      "answerFileMissing": false,
+      "status": "ok",
+      "questionCount": 100,
+      "maxNum": 100,
+      "placeholderCount": 1,
+      "placeholders": [
+        73
+      ],
+      "missingNums": [
+        73
+      ],
+      "withAnswer": 92,
+      "withExplanation": 92,
+      "imageQuestions": 8,
+      "errors": 21,
+      "warnings": 10,
+      "issueCodes": {
+        "ANSWER_CONFLICT": 3,
+        "QNO_PLACEHOLDER": 1,
+        "IMAGE_OPTION": 7,
+        "OPT_PARTIAL": 1,
+        "OPT_NOT_4": 1,
+        "MISSING_ANSWER": 8,
+        "MISSING_ANALYSIS": 8,
+        "MATERIAL_IMAGE": 2
+      },
+      "moduleCounts": {
+        "changshi": 15,
+        "yanyu": 30,
+        "shuliang": 10,
+        "panduan": 30,
+        "ziliao": 15
+      },
+      "moduleAnswers": {
+        "changshi": 15,
+        "yanyu": 30,
+        "shuliang": 10,
+        "panduan": 29,
+        "ziliao": 8
+      },
+      "moduleExplanations": {
+        "changshi": 15,
+        "yanyu": 30,
+        "shuliang": 10,
+        "panduan": 29,
+        "ziliao": 8
+      },
+      "modulePlaceholders": {
+        "changshi": 0,
+        "yanyu": 0,
+        "shuliang": 0,
+        "panduan": 1,
+        "ziliao": 0
+      },
+      "moduleImages": {
+        "changshi": 1,
+        "yanyu": 0,
+        "shuliang": 1,
+        "panduan": 6,
+        "ziliao": 0
+      },
+      "answerSourceEmpty": false,
+      "answerOnlySource": false,
+      "rawLength": 21246,
+      "answerLength": 34939,
+      "elapsedMs": 212,
+      "note": "blocks=93, answers=92, quick=0"
+    },
+    {
+      "year": 2022,
+      "label": "未标注",
+      "questionName": "2022年四川下半年公务员录用考试《行测》 试题.docx",
+      "answerName": "2022年0326四川公务员考试（行测）答案解析.docx",
+      "pairNote": "same-year-and-label",
+      "answerFileMissing": false,
+      "status": "ok",
+      "questionCount": 100,
+      "maxNum": 100,
+      "placeholderCount": 0,
+      "placeholders": [],
+      "missingNums": [],
+      "withAnswer": 93,
+      "withExplanation": 93,
+      "imageQuestions": 13,
+      "errors": 17,
+      "warnings": 6,
+      "issueCodes": {
+        "ANSWER_CONFLICT": 3,
+        "OPT_PARTIAL": 3,
+        "MATERIAL_IMAGE": 2,
+        "MISSING_ANSWER": 7,
+        "MISSING_ANALYSIS": 7,
+        "IMAGE_OPTION": 1
+      },
+      "moduleCounts": {
+        "changshi": 10,
+        "yanyu": 30,
+        "shuliang": 10,
+        "panduan": 35,
+        "ziliao": 15
+      },
+      "moduleAnswers": {
+        "changshi": 10,
+        "yanyu": 30,
+        "shuliang": 10,
+        "panduan": 35,
+        "ziliao": 8
+      },
+      "moduleExplanations": {
+        "changshi": 10,
+        "yanyu": 30,
+        "shuliang": 10,
+        "panduan": 35,
+        "ziliao": 8
+      },
+      "modulePlaceholders": {
+        "changshi": 0,
+        "yanyu": 0,
+        "shuliang": 0,
+        "panduan": 0,
+        "ziliao": 0
+      },
+      "moduleImages": {
+        "changshi": 0,
+        "yanyu": 1,
+        "shuliang": 1,
+        "panduan": 10,
+        "ziliao": 1
+      },
+      "answerSourceEmpty": false,
+      "answerOnlySource": false,
+      "rawLength": 20804,
+      "answerLength": 34939,
+      "elapsedMs": 174,
+      "note": "blocks=93, answers=93, quick=0"
+    },
+    {
+      "year": 2023,
+      "label": "未标注",
+      "questionName": "2023年四川省公务员录用考试《行测》试题.docx",
+      "answerName": "2023年四川省公务员录用考试《行测》答案解析.docx",
+      "pairNote": "same-year-and-label",
+      "answerFileMissing": false,
+      "status": "ok",
+      "questionCount": 100,
+      "maxNum": 100,
+      "placeholderCount": 12,
+      "placeholders": [
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61
+      ],
+      "missingNums": [
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61
+      ],
+      "withAnswer": 88,
+      "withExplanation": 88,
+      "imageQuestions": 6,
+      "errors": 39,
+      "warnings": 12,
+      "issueCodes": {
+        "OPT_SPLIT_FAIL": 1,
+        "QNO_PLACEHOLDER": 1,
+        "OPT_NOT_4": 13,
+        "MISSING_ANSWER": 12,
+        "MISSING_ANALYSIS": 12,
+        "MATERIAL_MISSING": 10,
+        "IMAGE_OPTION": 2
+      },
+      "moduleCounts": {
+        "changshi": 15,
+        "yanyu": 30,
+        "shuliang": 17,
+        "panduan": 23,
+        "ziliao": 15
+      },
+      "moduleAnswers": {
+        "changshi": 15,
+        "yanyu": 30,
+        "shuliang": 5,
+        "panduan": 23,
+        "ziliao": 15
+      },
+      "moduleExplanations": {
+        "changshi": 15,
+        "yanyu": 30,
+        "shuliang": 5,
+        "panduan": 23,
+        "ziliao": 15
+      },
+      "modulePlaceholders": {
+        "changshi": 0,
+        "yanyu": 0,
+        "shuliang": 12,
+        "panduan": 0,
+        "ziliao": 0
+      },
+      "moduleImages": {
+        "changshi": 0,
+        "yanyu": 0,
+        "shuliang": 3,
+        "panduan": 0,
+        "ziliao": 3
+      },
+      "answerSourceEmpty": false,
+      "answerOnlySource": false,
+      "rawLength": 20483,
+      "answerLength": 39716,
+      "elapsedMs": 302,
+      "note": "blocks=100, answers=88, quick=0"
+    },
+    {
+      "year": 2024,
+      "label": "未标注",
+      "questionName": "2024年四川省公务员录用考试《行测》试题.docx",
+      "answerName": "2024年四川省公务员录用考试《行测》答案解析.docx",
+      "pairNote": "same-year-and-label",
+      "answerFileMissing": false,
+      "status": "ok",
+      "questionCount": 100,
+      "maxNum": 100,
+      "placeholderCount": 1,
+      "placeholders": [
+        44
+      ],
+      "missingNums": [
+        44
+      ],
+      "withAnswer": 1,
+      "withExplanation": 1,
+      "imageQuestions": 17,
+      "errors": 201,
+      "warnings": 3,
+      "issueCodes": {
+        "ANSWER_COVERAGE_LOW": 1,
+        "QNO_PLACEHOLDER": 1,
+        "MISSING_ANSWER": 99,
+        "MISSING_ANALYSIS": 99,
+        "OPT_NOT_4": 1,
+        "IMAGE_OPTION": 1,
+        "MATERIAL_IMAGE": 2
+      },
+      "moduleCounts": {
+        "changshi": 15,
+        "yanyu": 30,
+        "shuliang": 10,
+        "panduan": 30,
+        "ziliao": 15
+      },
+      "moduleAnswers": {
+        "changshi": 1,
+        "yanyu": 0,
+        "shuliang": 0,
+        "panduan": 0,
+        "ziliao": 0
+      },
+      "moduleExplanations": {
+        "changshi": 1,
+        "yanyu": 0,
+        "shuliang": 0,
+        "panduan": 0,
+        "ziliao": 0
+      },
+      "modulePlaceholders": {
+        "changshi": 0,
+        "yanyu": 1,
+        "shuliang": 0,
+        "panduan": 0,
+        "ziliao": 0
+      },
+      "moduleImages": {
+        "changshi": 1,
+        "yanyu": 2,
+        "shuliang": 2,
+        "panduan": 11,
+        "ziliao": 1
+      },
+      "answerSourceEmpty": false,
+      "answerOnlySource": false,
+      "rawLength": 20685,
+      "answerLength": 45314,
+      "elapsedMs": 286,
+      "note": "blocks=1, answers=1, quick=0"
+    },
+    {
+      "year": 2025,
+      "label": "选调",
+      "questionName": "2025年四川省考_选调公务员录用考试《行测》试题.docx",
+      "answerName": "2025年四川省考_选调公务员录用考试《行测》试题_答案解析.docx",
+      "pairNote": "same-year-and-label",
+      "answerFileMissing": false,
+      "status": "ok",
+      "questionCount": 100,
+      "maxNum": 100,
+      "placeholderCount": 0,
+      "placeholders": [],
+      "missingNums": [],
+      "withAnswer": 100,
+      "withExplanation": 100,
+      "imageQuestions": 14,
+      "errors": 0,
+      "warnings": 112,
+      "issueCodes": {
+        "MODULE_INFERRED": 100,
+        "IMAGE_OPTION": 12
+      },
+      "moduleCounts": {
+        "changshi": 20,
+        "yanyu": 35,
+        "shuliang": 15,
+        "panduan": 30,
+        "ziliao": 0
+      },
+      "moduleAnswers": {
+        "changshi": 20,
+        "yanyu": 35,
+        "shuliang": 15,
+        "panduan": 30,
+        "ziliao": 0
+      },
+      "moduleExplanations": {
+        "changshi": 20,
+        "yanyu": 35,
+        "shuliang": 15,
+        "panduan": 30,
+        "ziliao": 0
+      },
+      "modulePlaceholders": {
+        "changshi": 0,
+        "yanyu": 0,
+        "shuliang": 0,
+        "panduan": 0,
+        "ziliao": 0
+      },
+      "moduleImages": {
+        "changshi": 0,
+        "yanyu": 3,
+        "shuliang": 9,
+        "panduan": 2,
+        "ziliao": 0
+      },
+      "answerSourceEmpty": false,
+      "answerOnlySource": false,
+      "rawLength": 21097,
+      "answerLength": 39517,
+      "elapsedMs": 189,
+      "note": "blocks=100, answers=100, quick=0"
+    }
+  ]
+}

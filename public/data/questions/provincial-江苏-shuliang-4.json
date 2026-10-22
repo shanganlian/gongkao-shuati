@@ -1,0 +1,5303 @@
+[
+  {
+    "id": "prov-jiangsu-2022-A类-64",
+    "category": "provincial",
+    "module": "shuliang",
+    "title": "数量·某餐饮公司甲、乙两种外卖每份的售价分别为 30 元和 5…",
+    "stem": "某餐饮公司甲、乙两种外卖每份的售价分别为 30 元和 50 元，若该公司某天售出这两种外 卖共 500 份，销售收入为 21400 元，则售出的两种外卖数量相差",
+    "options": [
+      {
+        "key": "A",
+        "text": "140"
+      },
+      {
+        "key": "B",
+        "text": "160"
+      },
+      {
+        "key": "C",
+        "text": "180"
+      },
+      {
+        "key": "D",
+        "text": "200"
+      }
+    ],
+    "answer": "A",
+    "explanation": "[[IMG]]\n第一步，本题考查基础计算问题，方程法解题。\n第二步，设甲卖了x 份，乙卖了y 份，根据一共卖500份和收入21400元，可得方程x+y=500①; 30x+50y=21400②;解 得x=180,y=320, 所以差值为140。\n因此，选择A选项。\n[[IMG]]",
+    "keyPoints": [
+      "[[IMG]]",
+      "第一步，本题考查基础计算问题，方程法解题"
+    ],
+    "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "拔高",
+    "source": "2022年江苏公务员考试《行测》（A类）第64题",
+    "province": "江苏"
+  },
+  {
+    "id": "prov-jiangsu-2022-A类-65",
+    "category": "provincial",
+    "module": "shuliang",
+    "title": "数量·某企业举行职业技能大赛，3 个下属分公司均选 2 名员工…",
+    "stem": "某企业举行职业技能大赛，3 个下属分公司均选 2 名员工参赛。若同一分公司的员工比赛 时出场顺序不能相邻，则参赛的6 名员工不同的出场顺序共有",
+    "options": [
+      {
+        "key": "A",
+        "text": "80"
+      },
+      {
+        "key": "B",
+        "text": "120"
+      },
+      {
+        "key": "C",
+        "text": "160"
+      },
+      {
+        "key": "D",
+        "text": "240"
+      }
+    ],
+    "answer": "D",
+    "explanation": "[[IMG]]\n第一步，本题考查排列组合问题，用插空法解题。\n第二步，假设三个公司分别为A、B、C, 先排AB, 因此共有A²×A³×A3=8 种。此时排完有三种情况，第一 种 ：AABB, 此时只要把C 公司的两个人放入到两个A 和两个B 中间的那两个位置就可以了，共有A²=2 种；第\n[[IMG]]\n二种：ABAB, 此时形成5个空，将两个C 放入其中，共有种；第三种ABBA 或者BAAB, 最中间的位置 必须放一个，剩下的四个位置选一个，即C¹×C4=8 种。\n总的情况共有8×(2+20+8)=240种\n因此，选择D 选项。\n[[IMG]]",
+    "keyPoints": [
+      "[[IMG]]",
+      "第一步，本题考查排列组合问题，用插空法解题"
+    ],
+    "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "拔高",
+    "source": "2022年江苏公务员考试《行测》（A类）第65题",
+    "province": "江苏"
+  },
+  {
+    "id": "prov-jiangsu-2022-A类-66",
+    "category": "provincial",
+    "module": "shuliang",
+    "title": "数量·有 5 支足球队进行单循环比赛，每场比赛胜者得 3 分，…",
+    "stem": "有 5 支足球队进行单循环比赛，每场比赛胜者得 3 分，负者不得分，平局双方各得 1 分。 比赛结束后，若 5 支球队的总得分为 25 分，冠军得 12 分，则亚军得",
+    "options": [
+      {
+        "key": "A",
+        "text": "5 分"
+      },
+      {
+        "key": "B",
+        "text": "6 分"
+      },
+      {
+        "key": "C",
+        "text": "7 分"
+      },
+      {
+        "key": "D",
+        "text": "8 分"
+      }
+    ],
+    "answer": "A",
+    "explanation": "[[IMG]]\n第一步，本题考查比赛问题。\n第二步，5只足球队进行单循环比赛，共比赛C 弓=10场，10场比赛，有输赢一场共3分，平一场共2分，总分 为25分即5胜5平；每人打4场比赛，冠军得12分，只能是赢4场；亚军最多赢一场，两场平，一场输给冠 军；故亚军得分3+1+1=5分。\n因此，选择 A选项。\n[[IMG]]",
+    "keyPoints": [
+      "[[IMG]]",
+      "第一步，本题考查比赛问题"
+    ],
+    "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "拔高",
+    "source": "2022年江苏公务员考试《行测》（A类）第66题",
+    "province": "江苏"
+  },
+  {
+    "id": "prov-jiangsu-2022-A类-67",
+    "category": "provincial",
+    "module": "shuliang",
+    "title": "数量·如图所示，为测量珠穆朗玛峰上某点 C、的海拔高度，测量队…",
+    "stem": "如图所示，为测量珠穆朗玛峰上某点 C、的海拔高度，测量队选择了两个海拔高度相差\n100 米的珠峰测量点",
+    "options": [
+      {
+        "key": "A",
+        "text": "和"
+      },
+      {
+        "key": "B",
+        "text": "，测得∠A、B、"
+      },
+      {
+        "key": "C",
+        "text": "为 90° , 从 A、观测 B、、C、的仰角分别为 30° 和 45° , 从 B、观测 C、的仰角也为 30° , 则 C、点的海拔高度比 A、点高\n\nA、100V2米 B、 150 米 C、"
+      },
+      {
+        "key": "D",
+        "text": "200 米"
+      }
+    ],
+    "answer": "D",
+    "explanation": "[[IMG]]\n第一步，本题考查几何问题中的立体几何类。\n第二步，如图所示：\n[[IMG]]\nAD为水平面，AB的垂直高度差100,即 BD⊥AD,∠D 为90°,∠BAD为30°,所以AB=2BD=200。 从整个图形的一侧观察，可得下图：\n[[IMG]]\nBE和 AF 为水平面，CF 为垂直高度，假设 CE=x, 根据条件可知∠B=30°,BC=2x,EF=100,∠A 为45°,则\nAF=CF=100+x,AC= √2(100+x), 那么在△ABC 中，由于∠ABC 为90°,则有勾股定理\nBC²+AB²=AC², 代入数值计算可得，x=100, 所 以C比A 高的高度即CF=200。 因此，选择D 选项。\n[[TABLE imgs=0 rows=1]]",
+    "keyPoints": [
+      "[[IMG]]",
+      "第一步，本题考查几何问题中的立体几何类",
+      "第二步，如图所示："
+    ],
+    "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "拔高",
+    "source": "2022年江苏公务员考试《行测》（A类）第67题",
+    "isImageQuestion": true,
+    "province": "江苏"
+  },
+  {
+    "id": "prov-jiangsu-2022-B类-46",
+    "category": "provincial",
+    "module": "shuliang",
+    "title": "数量·（单选题）7，23，-1，35，-19， ( )",
+    "stem": "（单选题）7，23，-1，35，-19， ( )",
+    "options": [
+      {
+        "key": "A",
+        "text": "62"
+      },
+      {
+        "key": "B",
+        "text": "67"
+      },
+      {
+        "key": "C",
+        "text": "72"
+      },
+      {
+        "key": "D",
+        "text": "77"
+      }
+    ],
+    "answer": "A",
+    "explanation": "[[/TABLE]]\n第一步，本题考查多级数列。\n第二步，相邻两项做减法(后-前),得差数列16,-24,36,-54,是一个公比为-1.5的等比数列，下一项为-54 ×1.5=81,所求项为81-19=62。\n因此，选择A选项。\n[[IMG]]",
+    "keyPoints": [
+      "[[/TABLE]]",
+      "第一步，本题考查多级数列"
+    ],
+    "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "拔高",
+    "source": "2022年江苏公务员考试《行测》（B类）第46题",
+    "province": "江苏"
+  },
+  {
+    "id": "prov-jiangsu-2022-B类-47",
+    "category": "provincial",
+    "module": "shuliang",
+    "title": "数量·请根据题干信息选择正确答案。",
+    "stem": "请根据题干信息选择正确答案。",
+    "options": [],
+    "answer": "B",
+    "explanation": "[[IMG]]\n第一步，本题考查非整数数列中的分数数列。\n第二步，观察前三项分数发现每个分数的分子为前一项分数分母减分子之差，按照此规律将后两个分数进行反约分 5 1 11 921\n得数列6’12’20’30’4 2,那么所求分数分子部分为42-21=21。单独看各项分母为6,12,20,30,42,后 一项减前一项做差得6,8,10,12,为公差为2的等差数列，接下来应是14,那么所求分数分母部分为42+14=56,\n[[IMG]]\n最终分数为\n因此，选择B选项。\n[[IMG]]",
+    "keyPoints": [
+      "[[IMG]]",
+      "第一步，本题考查非整数数列中的分数数列"
+    ],
+    "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "拔高",
+    "source": "2022年江苏公务员考试《行测》（B类）第47题",
+    "isImageQuestion": true,
+    "province": "江苏"
+  },
+  {
+    "id": "prov-jiangsu-2022-B类-48",
+    "category": "provincial",
+    "module": "shuliang",
+    "title": "数量·2.5 ，2.4 ，8.9 ，56.13 ，560.22…",
+    "stem": "2.5 ，2.4 ，8.9 ，56.13 ，560.22 ， ()",
+    "options": [
+      {
+        "key": "A",
+        "text": "5600.36"
+      },
+      {
+        "key": "B",
+        "text": "6140.35"
+      },
+      {
+        "key": "C",
+        "text": "6720.36"
+      },
+      {
+        "key": "D",
+        "text": "7280.35"
+      }
+    ],
+    "answer": "D",
+    "explanation": "[[IMG]]\n第一步，本题考查非整数数列。\n第二步，小数数列，优先分组找规律，即小数部分一起看，整数部分一起看。\n整数部分为2,2,8,56,560,相邻两项之间倍数关系明显，后项÷前项得到1,4,7,10,够成公差为3的等 差数列，下一项为10+3=13,则所求项的整数部分为560×13=7280。\n小数部分为5,4,9,13,22,是递推和数列，则所求项的小数部分为13+22=35。 故所求项为7280.35。\n因此，选择D 选项。",
+    "keyPoints": [
+      "[[IMG]]",
+      "第一步，本题考查非整数数列",
+      "第二步，小数数列，优先分组找规律，即小数部分一起看，整数部分一起看"
+    ],
+    "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "拔高",
+    "source": "2022年江苏公务员考试《行测》（B类）第48题",
+    "province": "江苏"
+  },
+  {
+    "id": "prov-jiangsu-2022-B类-49",
+    "category": "provincial",
+    "module": "shuliang",
+    "title": "数量·√2，√27，10，7√5，√486，（ ）",
+    "stem": "√2，√27，10，7√5，√486，（ ）",
+    "options": [
+      {
+        "key": "A",
+        "text": "9√8"
+      },
+      {
+        "key": "B",
+        "text": "10√5"
+      },
+      {
+        "key": "C",
+        "text": "√847"
+      },
+      {
+        "key": "D",
+        "text": "√924"
+      }
+    ],
+    "answer": "C",
+    "explanation": "第一步，本题考查非整数数列。\n[[IMG]]\n第二步，把所有项都改成根式的形式，在根号内部找规律，原数列改成 √2, √27, √ 100, √245, √486\n()。\n第三步，通过观察不难发现，根号内的数字属于短数列增速比较慢，相邻项优先考虑做差，后减前依次是25,73,\n145,241,( );没发现明显的规律继续做二次差，得到48,72,96,( )。此时48,72,96形成的是\n公差为24的等差数列，最后一次括号内数字为96+24=120,反求一次差为241+120=361,最终求得的答案为\n361+486=847。\n因此，选择C 选项。\n[[IMG]]",
+    "keyPoints": [
+      "第一步，本题考查非整数数列",
+      "[[IMG]]"
+    ],
+    "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "拔高",
+    "source": "2022年江苏公务员考试《行测》（B类）第49题",
+    "province": "江苏"
+  },
+  {
+    "id": "prov-jiangsu-2022-B类-50",
+    "category": "provincial",
+    "module": "shuliang",
+    "title": "数量·1 ，3 ，7/2 ，5/2 ，31/24 ， ( )",
+    "stem": "1 ，3 ，7/2 ，5/2 ，31/24 ， ( )",
+    "options": [
+      {
+        "key": "A",
+        "text": "8/15"
+      },
+      {
+        "key": "B",
+        "text": "21/40"
+      },
+      {
+        "key": "C",
+        "text": "127/120"
+      },
+      {
+        "key": "D",
+        "text": "5"
+      }
+    ],
+    "answer": "B",
+    "explanation": "[[IMG]]\n第一步，本题考查非整数数列，用上下看解题。\n[[IMG]]\n第二步，分数数列，优先把不是分数形式的化成分数形式，化成的形式为\n3\n7\n2\n[[IMG]]\nī,\n5\n,2,24\n[[IMG]]\n( )。\n第三步，通过观察不难发现，该分数分母上的数字存在倍数的关系，优先从分母入手。前面三个分母为1,1,2, 存在后比前分别为1倍和2倍的关系，则后面应该是3倍的关系改成2×3=6,刚好最后一个分母为24是6的4 倍，最后所求的分母应该是24的5倍，为24×5=120。分子上的数字1,3,7,15,31,( ),后项减前项 的结果分别为2,4,8,16,(),这是一个公比为2的等比数列，最后的差值应该是32,故分子最后一个数字\n[[TABLE imgs=6 rows=1]]\n为31+32=63。最后得到的分数数列变成 | 声 | 声 | 声 | 声 | ,(120。化成最简形式，有\n[[/TABLE]]\n因此，选择B选项。\n[[IMG]]",
+    "keyPoints": [
+      "[[IMG]]",
+      "第一步，本题考查非整数数列，用上下看解题",
+      "[[IMG]]"
+    ],
+    "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "拔高",
+    "source": "2022年江苏公务员考试《行测》（B类）第50题",
+    "province": "江苏"
+  },
+  {
+    "id": "prov-jiangsu-2022-B类-51",
+    "category": "provincial",
+    "module": "shuliang",
+    "title": "数量·小王和小李进行七局四胜的乒乓球比赛，两人水平相当，每局胜…",
+    "stem": "小王和小李进行七局四胜的乒乓球比赛，两人水平相当，每局胜对方的概率都是 1/2 。若前 三局过后小王获胜的概率是 11/16 ，则她前三局的胜负情况是",
+    "options": [
+      {
+        "key": "A",
+        "text": "胜 3 局"
+      },
+      {
+        "key": "B",
+        "text": "胜 2 局、负 1 局"
+      },
+      {
+        "key": "C",
+        "text": "负 3 局"
+      },
+      {
+        "key": "D",
+        "text": "胜 1 局、负 2 局"
+      }
+    ],
+    "answer": "B",
+    "explanation": "[[IMG]]\n第一步，本题考查概率问题，属于分步分类概率。\n第二步，运用排除法解题，由于两人胜对方概率都是\n[[IMG]]\n,而前三尉时后小王获排的率是\n[[IMG]]\n,所以前三局小\n王应该胜多负少，排除C、D 选项；A 选项，如果小王前三局胜3局，则获胜的概率为1-后四局全败\n[[IMG]]\n,排除A 选项；此时可直接选择 B 选项。\n[[IMG]]\n第三步，分析 B 选项如下：\n[[IMG]]\nB选项，三局过后胜2局、负1局，之后的比赛获胜的情况有三种：①后面打两局并连胜两局，概率为\n②后面打三局并赢下其中两局，并且最后一局获胜，且前2局输了1局，此时概率为\n后面打四局并赢下2局，并且最后一局获胜且前三局输了2局，此时概率为\n[[IMG]]\n。此时小 王获胜的概率为\n[[IMG]]\n,符合题意。\n因此，选择B选项。\n[[IMG]]",
+    "keyPoints": [
+      "[[IMG]]",
+      "第一步，本题考查概率问题，属于分步分类概率",
+      "第二步，运用排除法解题，由于两人胜对方概率都是"
+    ],
+    "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "拔高",
+    "source": "2022年江苏公务员考试《行测》（B类）第51题",
+    "province": "江苏"
+  },
+  {
+    "id": "prov-jiangsu-2022-B类-52",
+    "category": "provincial",
+    "module": "shuliang",
+    "title": "数量·甲、乙两人对 100 个家庭进行电话调查。若甲、乙完成对…",
+    "stem": "甲、乙两人对 100 个家庭进行电话调查。若甲、乙完成对 1 个家庭的调查需要的时间分别 是 12 分钟和 20 分钟，则他们完成这次电话调查需要的时间至少是",
+    "options": [
+      {
+        "key": "A",
+        "text": "12 小时 28 分钟"
+      },
+      {
+        "key": "B",
+        "text": "12 小时 32 分钟"
+      },
+      {
+        "key": "C",
+        "text": "12 小时 36 分钟"
+      },
+      {
+        "key": "D",
+        "text": "12 小时 40 分钟"
+      }
+    ],
+    "answer": "C",
+    "explanation": "[[IMG]]\n第一步，本题考查工程问题和时间问题杂糅类题型，用方程法解题。\n第二步，根据题目可知，甲乙两人完成1个家庭所需要的时间分别为12分钟和20分钟，因为是共同完成，则需 找两人“共同之处”即每固定周期两人各完成数量。容易得到12和20的最小公倍数60,即每60分钟(1小时), 甲完成60÷12=5个、乙完成60÷20=3个，每一周期(1小时)甲乙共完成5+3=8(个)。\n第三步，需要100÷8=12……4,即需要12个周期(12小时),还余4个。此时，可选择甲完成2个乙完成2个 或者甲完成3个乙完成1个，分别需要20×2=40(分钟)和12×3=36(分钟),则最少的为12小时36分钟。 因此，选择C 选项。\n[[IMG]]",
+    "keyPoints": [
+      "[[IMG]]",
+      "第一步，本题考查工程问题和时间问题杂糅类题型，用方程法解题"
+    ],
+    "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "拔高",
+    "source": "2022年江苏公务员考试《行测》（B类）第52题",
+    "isImageQuestion": true,
+    "province": "江苏"
+  },
+  {
+    "id": "prov-jiangsu-2022-B类-53",
+    "category": "provincial",
+    "module": "shuliang",
+    "title": "数量·下列图形中，阴影部分面积为 2 的是 A. B. C. …",
+    "stem": "下列图形中，阴影部分面积为 2 的是\nA.\n\nB.\n\nC.\n\nD.",
+    "options": [],
+    "answer": "B",
+    "explanation": "[[IMG]]\n第一步，本题考查定积分的应用。\n第二步，曲边梯形面积的计算，采用定积分来解题。\nA 选项，\n[[IMG]]\n,A 选项错误；\nB选项，\n[[IMG]]\n,B 选项正确； C选项，\n[[IMG]]\n,C 选项错误； D 选项，\n[[IMG]]\n,D 选项错误。\n因此，选择B选项。\n[[IMG]]",
+    "keyPoints": [
+      "[[IMG]]",
+      "第一步，本题考查定积分的应用",
+      "第二步，曲边梯形面积的计算，采用定积分来解题"
+    ],
+    "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "拔高",
+    "source": "2022年江苏公务员考试《行测》（B类）第53题",
+    "isImageQuestion": true,
+    "province": "江苏"
+  },
+  {
+    "id": "prov-jiangsu-2022-B类-54",
+    "category": "provincial",
+    "module": "shuliang",
+    "title": "数量·（单选题）某疫苗接种点市民正在有序排队等候接种。假设之后…",
+    "stem": "（单选题）某疫苗接种点市民正在有序排队等候接种。假设之后每小时新增前来接种疫苗的市民 人数相同，且每个接种台的效率相同，经测算：若开 8 个接种台，6 小时后不再有人排队；若开 12 个接种\n台，3 小时后不再有人排队。如果每小时新增的市民人数比假设的多 25%，那么为保证 2 小时后不再有人排 队，需开接种台的数量至少为：",
+    "options": [
+      {
+        "key": "A",
+        "text": "14 个"
+      },
+      {
+        "key": "B",
+        "text": "15 个"
+      },
+      {
+        "key": "C",
+        "text": "16 个"
+      },
+      {
+        "key": "D",
+        "text": "17 个"
+      }
+    ],
+    "answer": "D",
+    "explanation": "[[IMG]]\n第一步，本题考查牛吃草问题。\n第二步，根据牛吃草公式y=(N-x)T,y 代表原有草量，即原有排队的市民数；N 代表牛的头数，即所开接种 台数量；x 为草生长的速度，即每小时新增市民数；T 代表时间。代入数据，y=(8-x)×6,y=(12-x)×3,\n解得x=4,y=24, 每小时新增市民人数增加25%,则x 变为4×(1+25%)=5,设至少需开N 个接种台能保 证2小时不再有人排队，代入公式得：24= (N-5)×2, 解 得N=17。\n因此，选择D 选项。\n[[IMG]]",
+    "keyPoints": [
+      "[[IMG]]",
+      "第一步，本题考查牛吃草问题"
+    ],
+    "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "拔高",
+    "source": "2022年江苏公务员考试《行测》（B类）第54题",
+    "province": "江苏"
+  },
+  {
+    "id": "prov-jiangsu-2022-B类-55",
+    "category": "provincial",
+    "module": "shuliang",
+    "title": "数量·（单选题）某人以每小时 10 公里的速度从甲地骑车前往乙…",
+    "stem": "（单选题）某人以每小时 10 公里的速度从甲地骑车前往乙地，中午 12:30 到达。若以每小时 15 公里的速 度行驶，上午 11:00 到达，则他出发的时间是：",
+    "options": [
+      {
+        "key": "A",
+        "text": "上午 7:15"
+      },
+      {
+        "key": "B",
+        "text": "上午 7:30"
+      },
+      {
+        "key": "C",
+        "text": "上午 7:45"
+      },
+      {
+        "key": "D",
+        "text": "上午 8:00"
+      }
+    ],
+    "answer": "D",
+    "explanation": "[[IMG]]\n第一步，本题考查行程问题，用方程法解题。\n第二步，设以10公里每小时的速度骑行耗时为t小时，则他以15公里每小时的速度骑行耗时为(t-1.5) 小时。\n总路程一定，根据路程=速度×时间可得，10×t=15×(t-1.5), 解得t=4.5 。 即以10公里每小时的速度骑行\n耗时为4.5小时，则他出发的时间为12时30分-4时30分=8(时),即上午8:00。\n因此，选择D选项。\n[[IMG]]",
+    "keyPoints": [
+      "[[IMG]]",
+      "第一步，本题考查行程问题，用方程法解题"
+    ],
+    "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "拔高",
+    "source": "2022年江苏公务员考试《行测》（B类）第55题",
+    "province": "江苏"
+  },
+  {
+    "id": "prov-jiangsu-2022-B类-56",
+    "category": "provincial",
+    "module": "shuliang",
+    "title": "数量·（单选题）某单位拟开展 3 场文化交流活动，安排给 3 …",
+    "stem": "（单选题）某单位拟开展 3 场文化交流活动，安排给 3 个部门进行策划。若每个部门最多承担 2 场活动的 策划，每场活动只安排给 1 个部门，则不同的安排方法共有：",
+    "options": [
+      {
+        "key": "A",
+        "text": "16 种"
+      },
+      {
+        "key": "B",
+        "text": "24 种"
+      },
+      {
+        "key": "C",
+        "text": "32 种"
+      },
+      {
+        "key": "D",
+        "text": "48 种"
+      }
+    ],
+    "answer": "B",
+    "explanation": "[[IMG]]\n第一步，本题考查排列组合问题中的基础排列组合。\n第二步，题干“每场活动只安排给1个部门”即安排活动直接没有交叉。根据“每个部门最多承担2场活动”,那 么,每个部门承担的活动数可以分为两大类：①1,1,1;②2,1,0。\n第三步，①按照1,1,1安排，排序，情况数为\n[[IMG]]\n种；②按照2,1,0来安排，不同部门的分配数目还需要 序 C₂C A3=3×6=18 种.综上所述，总的情况数有6+18=24种。\n因此，选择B选项。\n[[IMG]]",
+    "keyPoints": [
+      "[[IMG]]",
+      "第一步，本题考查排列组合问题中的基础排列组合",
+      "第二步，题干“每场活动只安排给1个部门”即安排活动直接没有交叉"
+    ],
+    "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "拔高",
+    "source": "2022年江苏公务员考试《行测》（B类）第56题",
+    "province": "江苏"
+  },
+  {
+    "id": "prov-jiangsu-2022-B类-57",
+    "category": "provincial",
+    "module": "shuliang",
+    "title": "数量·（单选题）某金融机构向9 家“专精特新 ”企业共发放了4…",
+    "stem": "（单选题）某金融机构向9 家“专精特新 ”企业共发放了4500 万元贷款，若这 9 家企业获得的贷款额从 少到多排列，恰好为一个等差数列，且排第 3 的企业获得 420 万元贷款，排第 8 的企业获得的贷款额为：",
+    "options": [
+      {
+        "key": "A",
+        "text": "620 万元"
+      },
+      {
+        "key": "B",
+        "text": "660 万元"
+      },
+      {
+        "key": "C",
+        "text": "720 万元"
+      },
+      {
+        "key": "D",
+        "text": "760 万元"
+      }
+    ],
+    "answer": "A",
+    "explanation": "[[IMG]]\n第一步，本题考查数列问题。\n第二步，9家企业共发放4500万元，数额呈等差数列，根据等差数列求和公式，总和=中间项×项数，可知排名第 5 的企业获得=4500÷9=500(万元)。题干给出排名第3的企业获得420万元，则等差数列的公差为(500-420) ÷(5-3)=40(万元),排名第8的企业获得500+40×(8-5)=620(万元)。\n因此，选择A选项。\n[[IMG]]",
+    "keyPoints": [
+      "[[IMG]]",
+      "第一步，本题考查数列问题"
+    ],
+    "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "拔高",
+    "source": "2022年江苏公务员考试《行测》（B类）第57题",
+    "province": "江苏"
+  },
+  {
+    "id": "prov-jiangsu-2022-B类-58",
+    "category": "provincial",
+    "module": "shuliang",
+    "title": "数量·（单选题）有 5 支足球队进行单循环比赛，每场比赛胜者得…",
+    "stem": "（单选题）有 5 支足球队进行单循环比赛，每场比赛胜者得 3 分，负者不得分，平局双方各得 1 分。比赛 结束后，若 5 支球队的总得分为 25 分，冠军得 12 分，则亚军得",
+    "options": [
+      {
+        "key": "A",
+        "text": "5 分"
+      },
+      {
+        "key": "B",
+        "text": "6 分"
+      },
+      {
+        "key": "C",
+        "text": "7 分"
+      },
+      {
+        "key": "D",
+        "text": "8 分"
+      }
+    ],
+    "answer": "A",
+    "explanation": "[[IMG]]\n第一步，本题考查比赛问题。\n第二步，5只足球队进行单循环比赛，共比赛Cs=10 场，10场比赛，有输赢一场共3分，平一场共2分，总分为 25分即5胜5平；每人打4场比赛，冠军得12分，只能是赢4场；亚军最多赢一场，两场平，一场输给冠军；\n故亚军得分3+1+1=5分。\n因此，选择A选项。\n[[IMG]]",
+    "keyPoints": [
+      "[[IMG]]",
+      "第一步，本题考查比赛问题"
+    ],
+    "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "拔高",
+    "source": "2022年江苏公务员考试《行测》（B类）第58题",
+    "province": "江苏"
+  },
+  {
+    "id": "prov-jiangsu-2022-B类-59",
+    "category": "provincial",
+    "module": "shuliang",
+    "title": "数量·（单选题）某机构对全运会收视情况进行调查，在 1000 …",
+    "stem": "（单选题）某机构对全运会收视情况进行调查，在 1000 名受访者中，观看过乒乓球比赛的占87%，观看 过跳水比赛的占 75%，观看过田径比赛的占69%。这 1000 名受访者中，乒乓球、跳水和田径比赛都观看过 的至少有：",
+    "options": [
+      {
+        "key": "A",
+        "text": "310 人"
+      },
+      {
+        "key": "B",
+        "text": "440 人"
+      },
+      {
+        "key": "C",
+        "text": "620 人"
+      },
+      {
+        "key": "D",
+        "text": "690 人"
+      }
+    ],
+    "answer": "A",
+    "explanation": "[[IMG]]\n第一步，本题考查最值问题，属于多集合反向构造。\n第二步，根据多集合反向构造的思路，“反向——求和——做差”。\n反向：未观看乒乓球比赛的人数为1000×(1-87%)=130人，未观看跳水比赛的人数为1000×(1-75%)=250 人，未观看田径比赛的人数为1000×(1-69%)=310人。\n求和：三种比赛有人没看过的最多有130+250+310=690人。\n做差：三种比赛都观看过的至少为1000-690=310人。\n因此，选择A 选项。\n[[IMG]]",
+    "keyPoints": [
+      "[[IMG]]",
+      "第一步，本题考查最值问题，属于多集合反向构造",
+      "第二步，根据多集合反向构造的思路，“反向——求和——做差”"
+    ],
+    "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "拔高",
+    "source": "2022年江苏公务员考试《行测》（B类）第59题",
+    "province": "江苏"
+  },
+  {
+    "id": "prov-jiangsu-2022-B类-60",
+    "category": "provincial",
+    "module": "shuliang",
+    "title": "数量·（单选题）如图所示，考古队在 B 和 C 两处发现重要遗…",
+    "stem": "（单选题）如图所示，考古队在 B 和 C 两处发现重要遗址，根据对周边环境考察，确定以 A 和 D 为顶点 划出一个正方形挖掘区域。已知 AB，CD 都与 BC 垂直，AB=7 米，BC=7 米，CD=42 米，则这个正方形挖掘区\n域的边长为：",
+    "options": [
+      {
+        "key": "A",
+        "text": "49 米"
+      },
+      {
+        "key": "B",
+        "text": "45 米"
+      },
+      {
+        "key": "C",
+        "text": "40 米"
+      },
+      {
+        "key": "D",
+        "text": "35 米"
+      }
+    ],
+    "answer": "D",
+    "explanation": "[[IMG]]\n第一步，本题考查平面几何问题。\n第二步，由题意可知，点A 和点D 是正方形的两个顶点。在正方形中，相邻的两个顶点即为正方形的边长，相对 的两个顶点为正方形的对角线。只有点A 和点D 为正方形的相对顶点，才能将点B 和点C 全部包含在内，故点A 和点D 为正方形中相对的两个顶点即AD 为正方形对角线的长度。过点A 做CD 的垂线与CD 的延长线交于点E,\n在直角三角形ADE中，AD= √7²+(7+42)²=35 √2,由此可推出正方形的边长为\n[[IMG]]\n(米)。\n[[IMG]]\n7 B\nA\n7\n7\n7\nE\nC\n42\n因此，选择D选项。\n[[IMG]]",
+    "keyPoints": [
+      "[[IMG]]",
+      "第一步，本题考查平面几何问题",
+      "第二步，由题意可知，点A 和点D 是正方形的两个顶点"
+    ],
+    "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "拔高",
+    "source": "2022年江苏公务员考试《行测》（B类）第60题",
+    "isImageQuestion": true,
+    "province": "江苏"
+  },
+  {
+    "id": "prov-jiangsu-2022-B类-61",
+    "category": "provincial",
+    "module": "shuliang",
+    "title": "数量·（单选题）甲、乙、丙三个物流公司合作完成两个仓库 K 和…",
+    "stem": "（单选题）甲、乙、丙三个物流公司合作完成两个仓库 K 和 L 的货物搬运任务。已知两个仓库的工作量 相同，他们先在 K 工作 2 小时，完成了K 工作量的 75%；然后乙、丙先去 L 工作，甲留在 K 继续工作，并 用 3 小时完成了 K 的剩余工作量后再去 L 工作，直至任务全部完成。甲在 L 工作的总时间为：",
+    "options": [
+      {
+        "key": "A",
+        "text": "20 分钟"
+      },
+      {
+        "key": "B",
+        "text": "30 分钟"
+      },
+      {
+        "key": "C",
+        "text": "40 分钟"
+      },
+      {
+        "key": "D",
+        "text": "50 分钟"
+      }
+    ],
+    "answer": "A",
+    "explanation": "[[IMG]]\n第一步，本题考查工程问题中的条件类。\n第二步，由题干可知，K 和 L 两个仓库的工作量是一样多的。甲乙丙三个公司合作2小时后完成了K 仓库任务量的\n[[IMG]]\n4,那甲乙=个公司合作1小时可完成在务的8;此时K合库还则 的任务量,交给甲公司3小时可以完\n[[IMG]]\n成，则甲公司1小时可完成任务量的\n[[IMG]]\n,故乙和丙公司1小时可以完成任务量的\n第三步，当甲花3小时完成K 仓库剩余的任务量时，乙和丙先去L仓库工作，工作时间为3小时，则乙和丙完成\n了 L 仓库任务量的\n[[IMG]]\n;此时剩余的任务量由甲、乙、丙三者合作完成，他们合作的时间即甲在L 仓库工作 的时间\n[[IMG]]\n小时=20分钟。\n因此，选择A 选项。\n[[IMG]]",
+    "keyPoints": [
+      "[[IMG]]",
+      "第一步，本题考查工程问题中的条件类",
+      "第二步，由题干可知，K 和 L 两个仓库的工作量是一样多的"
+    ],
+    "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "拔高",
+    "source": "2022年江苏公务员考试《行测》（B类）第61题",
+    "province": "江苏"
+  },
+  {
+    "id": "prov-jiangsu-2022-B类-62",
+    "category": "provincial",
+    "module": "shuliang",
+    "title": "数量·（单选题）正方体 ABCD-A1 B1C1 D1 中，E…",
+    "stem": "（单选题）正方体 ABCD-A1 B1C1 D1 中，E、F 分别为棱 AA1 和 C1C 的中点，则平面 D1 EF 截该正方 体所得截面的形状是：",
+    "options": [
+      {
+        "key": "A",
+        "text": "三角形"
+      },
+      {
+        "key": "B",
+        "text": "四边形"
+      },
+      {
+        "key": "C",
+        "text": "五边形"
+      },
+      {
+        "key": "D",
+        "text": "六边形"
+      }
+    ],
+    "answer": "B",
+    "explanation": "[[IMG]]\n第一步，本题考查几何问题中的立体几何。\n第二步，如图所示，连接B D₁与EF刚好相交，连接 BE、BF,平面D¹EF截正方体的截面 EBFD1为四边形。\n[[IMG]]\n因此，选择B选项。\n[[IMG]]",
+    "keyPoints": [
+      "[[IMG]]",
+      "第一步，本题考查几何问题中的立体几何"
+    ],
+    "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "拔高",
+    "source": "2022年江苏公务员考试《行测》（B类）第62题",
+    "isImageQuestion": true,
+    "province": "江苏"
+  },
+  {
+    "id": "prov-jiangsu-2022-B类-63",
+    "category": "provincial",
+    "module": "shuliang",
+    "title": "数量·（单选题）某餐饮公司甲、乙两种外卖每份的售价分别为 30…",
+    "stem": "（单选题）某餐饮公司甲、乙两种外卖每份的售价分别为 30 元和50 元，若该公司某天售出这两种外卖 共 500 份，销售收入为 21400 元，则售出的两种外卖数量相差",
+    "options": [
+      {
+        "key": "A",
+        "text": "140"
+      },
+      {
+        "key": "B",
+        "text": "160"
+      },
+      {
+        "key": "C",
+        "text": "180"
+      },
+      {
+        "key": "D",
+        "text": "200"
+      }
+    ],
+    "answer": "A",
+    "explanation": "[[IMG]]\n第一步，本题考查基础计算问题，方程法解题。\n第二步，设甲卖了x 份，乙卖了y 份，根据一共卖500份和收入21400元，可得方程x+y=500①;30x+50y=21400\n②;解得x=180,y=320, 所以差值为140。\n因此，选择A选项。\n[[IMG]]",
+    "keyPoints": [
+      "[[IMG]]",
+      "第一步，本题考查基础计算问题，方程法解题"
+    ],
+    "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "拔高",
+    "source": "2022年江苏公务员考试《行测》（B类）第63题",
+    "province": "江苏"
+  },
+  {
+    "id": "prov-jiangsu-2022-B类-64",
+    "category": "provincial",
+    "module": "shuliang",
+    "title": "数量·（单选题）某学者认为，人类的体力、情绪、智力自出生日起分…",
+    "stem": "（单选题）某学者认为，人类的体力、情绪、智力自出生日起分别以 22 天、28 天、33 天为周期开始往 复循环变化，前半个周期是“高潮期 ”，后半个周期是“低潮期 ”。根据该学者的观点，我们过公历生 日时，体力、情绪和智力同时处于“高潮期 ”的最小年龄是：",
+    "options": [
+      {
+        "key": "A",
+        "text": "4 周岁"
+      },
+      {
+        "key": "B",
+        "text": "3 周岁"
+      },
+      {
+        "key": "C",
+        "text": "2 周岁"
+      },
+      {
+        "key": "D",
+        "text": "1 周岁"
+      }
+    ],
+    "answer": "C",
+    "explanation": "[[IMG]]\n第一步，本题考查循环周期问题。\n第二步，问最小的年龄，选项从最小的开始代入。代入D 选项，1周岁=365天，体力处于365÷22=16个周期…… 13天，13天不属于22天的前半个周期的“高潮期”,排除。代入C 选项，2周岁=365×2=730天，体力、情绪、 智力分别处于730÷22=33个周期……4天、730÷28=26个周期……2天、730÷33=22个周期……4天，均处于每 个周期的前半个周期的“高潮期”,正确。\n因此，选择C 选项。\n[[IMG]]",
+    "keyPoints": [
+      "[[IMG]]",
+      "第一步，本题考查循环周期问题",
+      "第二步，问最小的年龄，选项从最小的开始代入"
+    ],
+    "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "拔高",
+    "source": "2022年江苏公务员考试《行测》（B类）第64题",
+    "province": "江苏"
+  },
+  {
+    "id": "prov-jiangsu-2022-B类-65",
+    "category": "provincial",
+    "module": "shuliang",
+    "title": "数量·（单选题）如图所示，为测量珠穆朗玛峰上某点 C 的海拔高…",
+    "stem": "（单选题）如图所示，为测量珠穆朗玛峰上某点 C 的海拔高度，测量队选择了两个海拔高度相差 100 米 的珠峰测量点 A 和 B，测得∠ABC 为 90 ° , 从 A 观测 B、C 的仰角分别为 30 °和 45 ° , 从 B 观测 C 的仰角 也为 30 ° , 则 C 点的海拔高度比 A 点高：",
+    "options": [
+      {
+        "key": "A",
+        "text": ""
+      },
+      {
+        "key": "B",
+        "text": "150 米"
+      },
+      {
+        "key": "C",
+        "text": ""
+      },
+      {
+        "key": "D",
+        "text": "200 米"
+      }
+    ],
+    "answer": "D",
+    "explanation": "[[IMG]]\n第一步，本题考查几何问题中的立体几何类。 第二步，如图所示：\n[[IMG]]\nAD 为水平面，AB 的垂直高度差100,即BD⊥AD,∠D 为90°,∠BAD 为30°,所以AB=2BD=200。\n从整个图形的一侧观察，可得下图：\n[[IMG]]\nBE和 AF为水平面，CF为垂直高度，假设CE=x,根据条件可知∠B=30°,BC=2x,EF=100,∠A 为45°,则 AF=CF=100+x,AC=√2(100+x), 那么在△ABC中，由于∠ABC为90°,则有勾股定理BC²+AB²=AC²,\n代入数值计算可得，x=100, 所 以C 比 A 高的高度即 CF=200。\n因此，选择D 选项。\n[[IMG]]",
+    "keyPoints": [
+      "[[IMG]]",
+      "第一步，本题考查几何问题中的立体几何类",
+      "第二步，如图所示："
+    ],
+    "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "拔高",
+    "source": "2022年江苏公务员考试《行测》（B类）第65题",
+    "isImageQuestion": true,
+    "province": "江苏"
+  },
+  {
+    "id": "prov-jiangsu-2023-A类-46",
+    "category": "provincial",
+    "module": "shuliang",
+    "title": "数量·-3 ， -1 ， 2 ， 7 ， 14 ， ( )",
+    "stem": "-3 ， -1 ， 2 ， 7 ， 14 ， ( )",
+    "options": [
+      {
+        "key": "A",
+        "text": "22"
+      },
+      {
+        "key": "B",
+        "text": "23"
+      },
+      {
+        "key": "C",
+        "text": "25"
+      },
+      {
+        "key": "D",
+        "text": "26"
+      }
+    ],
+    "answer": "B",
+    "explanation": "-3，-1， 2， 7， 14， ( )\nA. 22 B. 23 C. 25 D. 26\n【答案】B\n【解析】两两作差，后项-前项得出，2,3,5,7，（9）质数数列，故，括号内应为 9+14=23 故正确答案为 B",
+    "keyPoints": [
+      "-3，-1， 2， 7， 14， ( )",
+      "A. 22 B. 23 C. 25 D. 26"
+    ],
+    "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "拔高",
+    "source": "2023年江苏公务员考试《行测》（A类）第46题",
+    "province": "江苏"
+  },
+  {
+    "id": "prov-jiangsu-2023-A类-47",
+    "category": "provincial",
+    "module": "shuliang",
+    "title": "数量·60 ， 30 ， 20 ， 15 ， 12 ， ( )",
+    "stem": "60 ， 30 ， 20 ， 15 ， 12 ， ( )",
+    "options": [
+      {
+        "key": "A",
+        "text": "6"
+      },
+      {
+        "key": "B",
+        "text": "8"
+      },
+      {
+        "key": "C",
+        "text": "9"
+      },
+      {
+        "key": "D",
+        "text": "10"
+      }
+    ],
+    "answer": "D",
+    "explanation": "60， 30， 20， 15， 12， ( )\nA. 6\nC.9\nD.10\n【答案】D\n【解析】原数列之间变化幅度较小，但是任意两项间存在较大的约数，后项除以前项可以得到商数\n[[IMG]]\n[[IMG]]\n[[IMG]]\n[[IMG]]\n[[IMG]]\n[[IMG]]\n列： 商的分子部分：1,2,3,4,是公差为1的等差数列，故下项分子为5;\n商的分母部分：2,3,4,5是公差为1的等差数列，故下项分母为6,所以商数列的下一项为\n[[IMG]]\n; 则原数\n[[IMG]]\n列括号内的数字为\n。\n因此，本题答案为D 选项。",
+    "keyPoints": [
+      "， 30， 20， 15， 12， ( )",
+      "[[IMG]]"
+    ],
+    "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "拔高",
+    "source": "2023年江苏公务员考试《行测》（A类）第47题",
+    "province": "江苏"
+  },
+  {
+    "id": "prov-jiangsu-2023-A类-48",
+    "category": "provincial",
+    "module": "shuliang",
+    "title": "数量·9 ， 6 ， 5 ， 9/2 ， 21/5 ， ( )",
+    "stem": "9 ， 6 ， 5 ， 9/2 ， 21/5 ， ( )",
+    "options": [
+      {
+        "key": "A",
+        "text": "4"
+      },
+      {
+        "key": "C",
+        "text": "3"
+      },
+      {
+        "key": "D",
+        "text": "27/10"
+      }
+    ],
+    "answer": "A",
+    "explanation": "9,6,5,\n[[IMG]]\n中\nA.4\nB.\n[[IMG]]\n[[IMG]]\n( )\nC.3\n口\n[[IMG]]\n[[IMG]]\n【答案】A\n[[IMG]]\n,\n[[IMG]]\n[[IMG]]\n【解析】题干为分数数列。先通分再找规律。通分后数列\n[[IMG]]\n,\n4\n分子是公差为3\n)\n[[IMG]]\n的等差数列，括号处的分数分子应为21+3=24;分母是公差为1的等差数列，括号处分数的分母应为\n5+1=6.所以括号处分数应\n故正确答案为A。",
+    "keyPoints": [
+      ",6,5,",
+      "[[IMG]]",
+      "[[IMG]]"
+    ],
+    "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "拔高",
+    "source": "2023年江苏公务员考试《行测》（A类）第48题",
+    "province": "江苏"
+  },
+  {
+    "id": "prov-jiangsu-2023-A类-49",
+    "category": "provincial",
+    "module": "shuliang",
+    "title": "数量·√3 ， 4 ， √63， 16， 5 √43， ( )",
+    "stem": "√3 ， 4 ， √63， 16， 5 √43， ( )",
+    "options": [
+      {
+        "key": "A",
+        "text": "42"
+      },
+      {
+        "key": "B",
+        "text": "6 √59"
+      },
+      {
+        "key": "C",
+        "text": "49"
+      },
+      {
+        "key": "D",
+        "text": "12 √31"
+      }
+    ],
+    "answer": "D",
+    "explanation": "√3,4, √63,16,5 √43,( )\nA.42\nB.6√59\nC.49\nD.12√31 【答案】D\n【解析】观察原数列中的5 √43,需要把原数列中的所有根式统一为b√ ×,则原数列转变为：\n1√3,2√4,3√7,4√ 16,5√43,根号外的整数：1,2,3,4,5是公差为1的等差数列，故下一项的分\n母为5+1=6;根号内的数字3,4,7,16,43,变化幅度较大，优先考虑倍数为：3×3-5=4,4×3-5=7,\n7×3-5=16,16×3-5=43,满足前项×3-5=后项，故根号内下一项为43×3-5=124。所以原数列中括号内的 数字为6 √124=12 √31。\n因此，本题答案为D 选项。",
+    "keyPoints": [
+      "√3,4, √63,16,5 √43,( )",
+      "B.6√59",
+      "D.12√31 【答案】D"
+    ],
+    "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "拔高",
+    "source": "2023年江苏公务员考试《行测》（A类）第49题",
+    "province": "江苏"
+  },
+  {
+    "id": "prov-jiangsu-2023-A类-50",
+    "category": "provincial",
+    "province": "江苏",
+    "module": "shuliang",
+    "title": "第50题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 50 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "拔高",
+    "source": "2023年江苏公务员考试《行测》（A类）第50题",
+    "isPlaceholder": true
+  },
+  {
+    "id": "prov-jiangsu-2023-A类-51",
+    "category": "provincial",
+    "province": "江苏",
+    "module": "shuliang",
+    "title": "第51题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 51 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "拔高",
+    "source": "2023年江苏公务员考试《行测》（A类）第51题",
+    "isPlaceholder": true
+  },
+  {
+    "id": "prov-jiangsu-2023-A类-52",
+    "category": "provincial",
+    "province": "江苏",
+    "module": "shuliang",
+    "title": "第52题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 52 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "拔高",
+    "source": "2023年江苏公务员考试《行测》（A类）第52题",
+    "isPlaceholder": true
+  },
+  {
+    "id": "prov-jiangsu-2023-A类-53",
+    "category": "provincial",
+    "province": "江苏",
+    "module": "shuliang",
+    "title": "第53题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 53 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "拔高",
+    "source": "2023年江苏公务员考试《行测》（A类）第53题",
+    "isPlaceholder": true
+  },
+  {
+    "id": "prov-jiangsu-2023-A类-54",
+    "category": "provincial",
+    "province": "江苏",
+    "module": "shuliang",
+    "title": "第54题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 54 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "拔高",
+    "source": "2023年江苏公务员考试《行测》（A类）第54题",
+    "isPlaceholder": true
+  },
+  {
+    "id": "prov-jiangsu-2023-A类-55",
+    "category": "provincial",
+    "province": "江苏",
+    "module": "shuliang",
+    "title": "第55题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 55 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "拔高",
+    "source": "2023年江苏公务员考试《行测》（A类）第55题",
+    "isPlaceholder": true
+  },
+  {
+    "id": "prov-jiangsu-2023-A类-56",
+    "category": "provincial",
+    "module": "shuliang",
+    "title": "数量·8 C.",
+    "stem": "8\nC.",
+    "options": [],
+    "answer": "B",
+    "explanation": "小王经营一家鲜花网店，每位顾客均随机获赠一个装有一支康乃馨、玫瑰花或百合花的盲盒，3 种盲盒的成本分别为3元、5元、8元。某日该鲜花网店共有顾客24人，赠送盲盒的总成本为127元，则 获赠玫瑰花盲盒的顾客最多有\nA.19 B.20 C.21 D.22\n人 人 人 人\n【答案】B\n【解析】设获赠康乃馨、玫瑰花、百合花盲盒的人数分别为x、y、z, 那么有以下两个方程：x+y + z =24;3x+5y +8z =127,三个未知数两个方程，用消元法得出：2y+5z=55,问获赠玫瑰花盲盒的顾 客最多为多少，即求y 的最大值，用代入法将选项从大到小依次带入，为使方程有解，当y=20 时 ，z=3 有 解，即获赠玫瑰花盲盒的顾客最多有20人。\n故正确答案为B。",
+    "keyPoints": [
+      "A.19 B.20 C.21 D.22"
+    ],
+    "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "拔高",
+    "source": "2023年江苏公务员考试《行测》（A类）第56题",
+    "province": "江苏"
+  },
+  {
+    "id": "prov-jiangsu-2023-A类-57",
+    "category": "provincial",
+    "province": "江苏",
+    "module": "shuliang",
+    "title": "第57题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 57 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "拔高",
+    "source": "2023年江苏公务员考试《行测》（A类）第57题",
+    "isPlaceholder": true
+  },
+  {
+    "id": "prov-jiangsu-2023-A类-58",
+    "category": "provincial",
+    "province": "江苏",
+    "module": "shuliang",
+    "title": "第58题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 58 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "拔高",
+    "source": "2023年江苏公务员考试《行测》（A类）第58题",
+    "isPlaceholder": true
+  },
+  {
+    "id": "prov-jiangsu-2023-A类-59",
+    "category": "provincial",
+    "province": "江苏",
+    "module": "shuliang",
+    "title": "第59题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 59 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "拔高",
+    "source": "2023年江苏公务员考试《行测》（A类）第59题",
+    "isPlaceholder": true
+  },
+  {
+    "id": "prov-jiangsu-2023-A类-60",
+    "category": "provincial",
+    "province": "江苏",
+    "module": "shuliang",
+    "title": "第60题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 60 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "拔高",
+    "source": "2023年江苏公务员考试《行测》（A类）第60题",
+    "isPlaceholder": true
+  },
+  {
+    "id": "prov-jiangsu-2023-A类-61",
+    "category": "provincial",
+    "province": "江苏",
+    "module": "shuliang",
+    "title": "第61题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 61 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "拔高",
+    "source": "2023年江苏公务员考试《行测》（A类）第61题",
+    "isPlaceholder": true
+  },
+  {
+    "id": "prov-jiangsu-2023-A类-62",
+    "category": "provincial",
+    "province": "江苏",
+    "module": "shuliang",
+    "title": "第62题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 62 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "拔高",
+    "source": "2023年江苏公务员考试《行测》（A类）第62题",
+    "isPlaceholder": true
+  },
+  {
+    "id": "prov-jiangsu-2023-A类-63",
+    "category": "provincial",
+    "module": "shuliang",
+    "title": "数量·63 D.",
+    "stem": "63 D.",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "拔高",
+    "source": "2023年江苏公务员考试《行测》（A类）第63题",
+    "province": "江苏"
+  },
+  {
+    "id": "prov-jiangsu-2023-A类-64",
+    "category": "provincial",
+    "province": "江苏",
+    "module": "shuliang",
+    "title": "第64题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 64 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "拔高",
+    "source": "2023年江苏公务员考试《行测》（A类）第64题",
+    "isPlaceholder": true
+  },
+  {
+    "id": "prov-jiangsu-2023-A类-65",
+    "category": "provincial",
+    "province": "江苏",
+    "module": "shuliang",
+    "title": "第65题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 65 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "拔高",
+    "source": "2023年江苏公务员考试《行测》（A类）第65题",
+    "isPlaceholder": true
+  },
+  {
+    "id": "prov-jiangsu-2023-A类-66",
+    "category": "provincial",
+    "province": "江苏",
+    "module": "shuliang",
+    "title": "第66题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 66 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "拔高",
+    "source": "2023年江苏公务员考试《行测》（A类）第66题",
+    "isPlaceholder": true
+  },
+  {
+    "id": "prov-jiangsu-2023-A类-67",
+    "category": "provincial",
+    "province": "江苏",
+    "module": "shuliang",
+    "title": "第67题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 67 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "拔高",
+    "source": "2023年江苏公务员考试《行测》（A类）第67题",
+    "isPlaceholder": true
+  },
+  {
+    "id": "prov-jiangsu-2023-A类-68",
+    "category": "provincial",
+    "province": "江苏",
+    "module": "shuliang",
+    "title": "第68题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 68 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "拔高",
+    "source": "2023年江苏公务员考试《行测》（A类）第68题",
+    "isPlaceholder": true
+  },
+  {
+    "id": "prov-jiangsu-2023-A类-69",
+    "category": "provincial",
+    "province": "江苏",
+    "module": "shuliang",
+    "title": "第69题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 69 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "拔高",
+    "source": "2023年江苏公务员考试《行测》（A类）第69题",
+    "isPlaceholder": true
+  },
+  {
+    "id": "prov-jiangsu-2023-A类-70",
+    "category": "provincial",
+    "province": "江苏",
+    "module": "shuliang",
+    "title": "第70题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 70 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "拔高",
+    "source": "2023年江苏公务员考试《行测》（A类）第70题",
+    "isPlaceholder": true
+  },
+  {
+    "id": "prov-jiangsu-2023-A类-71",
+    "category": "provincial",
+    "province": "江苏",
+    "module": "shuliang",
+    "title": "第71题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 71 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "拔高",
+    "source": "2023年江苏公务员考试《行测》（A类）第71题",
+    "isPlaceholder": true
+  },
+  {
+    "id": "prov-jiangsu-2023-A类-72",
+    "category": "provincial",
+    "province": "江苏",
+    "module": "shuliang",
+    "title": "第72题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 72 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "拔高",
+    "source": "2023年江苏公务员考试《行测》（A类）第72题",
+    "isPlaceholder": true
+  },
+  {
+    "id": "prov-jiangsu-2023-A类-73",
+    "category": "provincial",
+    "province": "江苏",
+    "module": "shuliang",
+    "title": "第73题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 73 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "拔高",
+    "source": "2023年江苏公务员考试《行测》（A类）第73题",
+    "isPlaceholder": true
+  },
+  {
+    "id": "prov-jiangsu-2023-A类-74",
+    "category": "provincial",
+    "province": "江苏",
+    "module": "shuliang",
+    "title": "第74题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 74 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "拔高",
+    "source": "2023年江苏公务员考试《行测》（A类）第74题",
+    "isPlaceholder": true
+  },
+  {
+    "id": "prov-jiangsu-2023-A类-75",
+    "category": "provincial",
+    "province": "江苏",
+    "module": "shuliang",
+    "title": "第75题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 75 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "拔高",
+    "source": "2023年江苏公务员考试《行测》（A类）第75题",
+    "isPlaceholder": true
+  },
+  {
+    "id": "prov-jiangsu-2023-A类-76",
+    "category": "provincial",
+    "province": "江苏",
+    "module": "shuliang",
+    "title": "第76题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 76 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "拔高",
+    "source": "2023年江苏公务员考试《行测》（A类）第76题",
+    "isPlaceholder": true
+  },
+  {
+    "id": "prov-jiangsu-2023-A类-77",
+    "category": "provincial",
+    "province": "江苏",
+    "module": "shuliang",
+    "title": "第77题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 77 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "拔高",
+    "source": "2023年江苏公务员考试《行测》（A类）第77题",
+    "isPlaceholder": true
+  },
+  {
+    "id": "prov-jiangsu-2023-A类-78",
+    "category": "provincial",
+    "province": "江苏",
+    "module": "shuliang",
+    "title": "第78题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 78 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "拔高",
+    "source": "2023年江苏公务员考试《行测》（A类）第78题",
+    "isPlaceholder": true
+  },
+  {
+    "id": "prov-jiangsu-2023-A类-79",
+    "category": "provincial",
+    "province": "江苏",
+    "module": "shuliang",
+    "title": "第79题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 79 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "拔高",
+    "source": "2023年江苏公务员考试《行测》（A类）第79题",
+    "isPlaceholder": true
+  },
+  {
+    "id": "prov-jiangsu-2023-A类-80",
+    "category": "provincial",
+    "province": "江苏",
+    "module": "shuliang",
+    "title": "第80题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 80 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "拔高",
+    "source": "2023年江苏公务员考试《行测》（A类）第80题",
+    "isPlaceholder": true
+  },
+  {
+    "id": "prov-jiangsu-2023-A类-81",
+    "category": "provincial",
+    "province": "江苏",
+    "module": "shuliang",
+    "title": "第81题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 81 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "拔高",
+    "source": "2023年江苏公务员考试《行测》（A类）第81题",
+    "isPlaceholder": true
+  },
+  {
+    "id": "prov-jiangsu-2023-A类-82",
+    "category": "provincial",
+    "province": "江苏",
+    "module": "shuliang",
+    "title": "第82题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 82 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "拔高",
+    "source": "2023年江苏公务员考试《行测》（A类）第82题",
+    "isPlaceholder": true
+  },
+  {
+    "id": "prov-jiangsu-2023-A类-83",
+    "category": "provincial",
+    "province": "江苏",
+    "module": "shuliang",
+    "title": "第83题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 83 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "拔高",
+    "source": "2023年江苏公务员考试《行测》（A类）第83题",
+    "isPlaceholder": true
+  },
+  {
+    "id": "prov-jiangsu-2023-A类-84",
+    "category": "provincial",
+    "province": "江苏",
+    "module": "shuliang",
+    "title": "第84题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 84 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "拔高",
+    "source": "2023年江苏公务员考试《行测》（A类）第84题",
+    "isPlaceholder": true
+  },
+  {
+    "id": "prov-jiangsu-2023-A类-85",
+    "category": "provincial",
+    "province": "江苏",
+    "module": "shuliang",
+    "title": "第85题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 85 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "拔高",
+    "source": "2023年江苏公务员考试《行测》（A类）第85题",
+    "isPlaceholder": true
+  },
+  {
+    "id": "prov-jiangsu-2023-A类-86",
+    "category": "provincial",
+    "province": "江苏",
+    "module": "shuliang",
+    "title": "第86题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 86 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "拔高",
+    "source": "2023年江苏公务员考试《行测》（A类）第86题",
+    "isPlaceholder": true
+  },
+  {
+    "id": "prov-jiangsu-2023-A类-87",
+    "category": "provincial",
+    "province": "江苏",
+    "module": "shuliang",
+    "title": "第87题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 87 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "拔高",
+    "source": "2023年江苏公务员考试《行测》（A类）第87题",
+    "isPlaceholder": true
+  },
+  {
+    "id": "prov-jiangsu-2023-A类-88",
+    "category": "provincial",
+    "province": "江苏",
+    "module": "shuliang",
+    "title": "第88题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 88 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "拔高",
+    "source": "2023年江苏公务员考试《行测》（A类）第88题",
+    "isPlaceholder": true
+  },
+  {
+    "id": "prov-jiangsu-2023-A类-89",
+    "category": "provincial",
+    "province": "江苏",
+    "module": "shuliang",
+    "title": "第89题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 89 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "拔高",
+    "source": "2023年江苏公务员考试《行测》（A类）第89题",
+    "isPlaceholder": true
+  },
+  {
+    "id": "prov-jiangsu-2023-A类-90",
+    "category": "provincial",
+    "province": "江苏",
+    "module": "shuliang",
+    "title": "第90题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 90 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "拔高",
+    "source": "2023年江苏公务员考试《行测》（A类）第90题",
+    "isPlaceholder": true
+  },
+  {
+    "id": "prov-jiangsu-2023-A类-91",
+    "category": "provincial",
+    "province": "江苏",
+    "module": "shuliang",
+    "title": "第91题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 91 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "拔高",
+    "source": "2023年江苏公务员考试《行测》（A类）第91题",
+    "isPlaceholder": true
+  },
+  {
+    "id": "prov-jiangsu-2023-A类-92",
+    "category": "provincial",
+    "province": "江苏",
+    "module": "shuliang",
+    "title": "第92题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 92 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "拔高",
+    "source": "2023年江苏公务员考试《行测》（A类）第92题",
+    "isPlaceholder": true
+  },
+  {
+    "id": "prov-jiangsu-2023-A类-93",
+    "category": "provincial",
+    "province": "江苏",
+    "module": "shuliang",
+    "title": "第93题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 93 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "拔高",
+    "source": "2023年江苏公务员考试《行测》（A类）第93题",
+    "isPlaceholder": true
+  },
+  {
+    "id": "prov-jiangsu-2023-A类-94",
+    "category": "provincial",
+    "province": "江苏",
+    "module": "shuliang",
+    "title": "第94题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 94 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "拔高",
+    "source": "2023年江苏公务员考试《行测》（A类）第94题",
+    "isPlaceholder": true
+  },
+  {
+    "id": "prov-jiangsu-2023-A类-95",
+    "category": "provincial",
+    "province": "江苏",
+    "module": "shuliang",
+    "title": "第95题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 95 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "拔高",
+    "source": "2023年江苏公务员考试《行测》（A类）第95题",
+    "isPlaceholder": true
+  },
+  {
+    "id": "prov-jiangsu-2023-A类-96",
+    "category": "provincial",
+    "province": "江苏",
+    "module": "shuliang",
+    "title": "第96题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 96 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "拔高",
+    "source": "2023年江苏公务员考试《行测》（A类）第96题",
+    "isPlaceholder": true
+  },
+  {
+    "id": "prov-jiangsu-2023-A类-97",
+    "category": "provincial",
+    "province": "江苏",
+    "module": "shuliang",
+    "title": "第97题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 97 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "拔高",
+    "source": "2023年江苏公务员考试《行测》（A类）第97题",
+    "isPlaceholder": true
+  },
+  {
+    "id": "prov-jiangsu-2023-A类-98",
+    "category": "provincial",
+    "province": "江苏",
+    "module": "shuliang",
+    "title": "第98题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 98 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "拔高",
+    "source": "2023年江苏公务员考试《行测》（A类）第98题",
+    "isPlaceholder": true
+  },
+  {
+    "id": "prov-jiangsu-2023-A类-99",
+    "category": "provincial",
+    "province": "江苏",
+    "module": "shuliang",
+    "title": "第99题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 99 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "拔高",
+    "source": "2023年江苏公务员考试《行测》（A类）第99题",
+    "isPlaceholder": true
+  },
+  {
+    "id": "prov-jiangsu-2023-A类-100",
+    "category": "provincial",
+    "province": "江苏",
+    "module": "shuliang",
+    "title": "第100题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 100 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "拔高",
+    "source": "2023年江苏公务员考试《行测》（A类）第100题",
+    "isPlaceholder": true
+  },
+  {
+    "id": "prov-jiangsu-2023-A类-101",
+    "category": "provincial",
+    "province": "江苏",
+    "module": "shuliang",
+    "title": "第101题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 101 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "拔高",
+    "source": "2023年江苏公务员考试《行测》（A类）第101题",
+    "isPlaceholder": true
+  },
+  {
+    "id": "prov-jiangsu-2023-A类-102",
+    "category": "provincial",
+    "province": "江苏",
+    "module": "shuliang",
+    "title": "第102题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 102 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "拔高",
+    "source": "2023年江苏公务员考试《行测》（A类）第102题",
+    "isPlaceholder": true
+  },
+  {
+    "id": "prov-jiangsu-2023-A类-103",
+    "category": "provincial",
+    "province": "江苏",
+    "module": "shuliang",
+    "title": "第103题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 103 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "拔高",
+    "source": "2023年江苏公务员考试《行测》（A类）第103题",
+    "isPlaceholder": true
+  },
+  {
+    "id": "prov-jiangsu-2023-A类-104",
+    "category": "provincial",
+    "province": "江苏",
+    "module": "shuliang",
+    "title": "第104题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 104 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "拔高",
+    "source": "2023年江苏公务员考试《行测》（A类）第104题",
+    "isPlaceholder": true
+  },
+  {
+    "id": "prov-jiangsu-2023-A类-105",
+    "category": "provincial",
+    "province": "江苏",
+    "module": "shuliang",
+    "title": "第105题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 105 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "拔高",
+    "source": "2023年江苏公务员考试《行测》（A类）第105题",
+    "isPlaceholder": true
+  },
+  {
+    "id": "prov-jiangsu-2023-A类-106",
+    "category": "provincial",
+    "province": "江苏",
+    "module": "shuliang",
+    "title": "第106题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 106 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "拔高",
+    "source": "2023年江苏公务员考试《行测》（A类）第106题",
+    "isPlaceholder": true
+  },
+  {
+    "id": "prov-jiangsu-2023-A类-107",
+    "category": "provincial",
+    "province": "江苏",
+    "module": "shuliang",
+    "title": "第107题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 107 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "拔高",
+    "source": "2023年江苏公务员考试《行测》（A类）第107题",
+    "isPlaceholder": true
+  },
+  {
+    "id": "prov-jiangsu-2023-A类-108",
+    "category": "provincial",
+    "province": "江苏",
+    "module": "shuliang",
+    "title": "第108题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 108 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "拔高",
+    "source": "2023年江苏公务员考试《行测》（A类）第108题",
+    "isPlaceholder": true
+  },
+  {
+    "id": "prov-jiangsu-2023-A类-109",
+    "category": "provincial",
+    "province": "江苏",
+    "module": "shuliang",
+    "title": "第109题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 109 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "拔高",
+    "source": "2023年江苏公务员考试《行测》（A类）第109题",
+    "isPlaceholder": true
+  },
+  {
+    "id": "prov-jiangsu-2023-A类-110",
+    "category": "provincial",
+    "province": "江苏",
+    "module": "shuliang",
+    "title": "第110题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 110 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "拔高",
+    "source": "2023年江苏公务员考试《行测》（A类）第110题",
+    "isPlaceholder": true
+  },
+  {
+    "id": "prov-jiangsu-2023-A类-111",
+    "category": "provincial",
+    "province": "江苏",
+    "module": "shuliang",
+    "title": "第111题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 111 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "拔高",
+    "source": "2023年江苏公务员考试《行测》（A类）第111题",
+    "isPlaceholder": true
+  },
+  {
+    "id": "prov-jiangsu-2023-A类-112",
+    "category": "provincial",
+    "province": "江苏",
+    "module": "shuliang",
+    "title": "第112题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 112 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "拔高",
+    "source": "2023年江苏公务员考试《行测》（A类）第112题",
+    "isPlaceholder": true
+  },
+  {
+    "id": "prov-jiangsu-2023-A类-113",
+    "category": "provincial",
+    "province": "江苏",
+    "module": "shuliang",
+    "title": "第113题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 113 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "拔高",
+    "source": "2023年江苏公务员考试《行测》（A类）第113题",
+    "isPlaceholder": true
+  },
+  {
+    "id": "prov-jiangsu-2023-A类-114",
+    "category": "provincial",
+    "province": "江苏",
+    "module": "shuliang",
+    "title": "第114题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 114 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "拔高",
+    "source": "2023年江苏公务员考试《行测》（A类）第114题",
+    "isPlaceholder": true
+  },
+  {
+    "id": "prov-jiangsu-2023-A类-115",
+    "category": "provincial",
+    "province": "江苏",
+    "module": "shuliang",
+    "title": "第115题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 115 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "拔高",
+    "source": "2023年江苏公务员考试《行测》（A类）第115题",
+    "isPlaceholder": true
+  },
+  {
+    "id": "prov-jiangsu-2023-A类-116",
+    "category": "provincial",
+    "province": "江苏",
+    "module": "shuliang",
+    "title": "第116题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 116 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "拔高",
+    "source": "2023年江苏公务员考试《行测》（A类）第116题",
+    "isPlaceholder": true
+  },
+  {
+    "id": "prov-jiangsu-2023-A类-117",
+    "category": "provincial",
+    "province": "江苏",
+    "module": "shuliang",
+    "title": "第117题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 117 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "拔高",
+    "source": "2023年江苏公务员考试《行测》（A类）第117题",
+    "isPlaceholder": true
+  },
+  {
+    "id": "prov-jiangsu-2023-A类-118",
+    "category": "provincial",
+    "province": "江苏",
+    "module": "shuliang",
+    "title": "第118题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 118 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "拔高",
+    "source": "2023年江苏公务员考试《行测》（A类）第118题",
+    "isPlaceholder": true
+  },
+  {
+    "id": "prov-jiangsu-2023-A类-119",
+    "category": "provincial",
+    "province": "江苏",
+    "module": "shuliang",
+    "title": "第119题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 119 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "拔高",
+    "source": "2023年江苏公务员考试《行测》（A类）第119题",
+    "isPlaceholder": true
+  },
+  {
+    "id": "prov-jiangsu-2023-A类-120",
+    "category": "provincial",
+    "province": "江苏",
+    "module": "shuliang",
+    "title": "第120题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 120 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "拔高",
+    "source": "2023年江苏公务员考试《行测》（A类）第120题",
+    "isPlaceholder": true
+  },
+  {
+    "id": "prov-jiangsu-2023-A类-121",
+    "category": "provincial",
+    "province": "江苏",
+    "module": "shuliang",
+    "title": "第121题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 121 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "拔高",
+    "source": "2023年江苏公务员考试《行测》（A类）第121题",
+    "isPlaceholder": true
+  },
+  {
+    "id": "prov-jiangsu-2023-A类-122",
+    "category": "provincial",
+    "province": "江苏",
+    "module": "shuliang",
+    "title": "第122题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 122 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "拔高",
+    "source": "2023年江苏公务员考试《行测》（A类）第122题",
+    "isPlaceholder": true
+  },
+  {
+    "id": "prov-jiangsu-2023-A类-123",
+    "category": "provincial",
+    "province": "江苏",
+    "module": "shuliang",
+    "title": "第123题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 123 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "拔高",
+    "source": "2023年江苏公务员考试《行测》（A类）第123题",
+    "isPlaceholder": true
+  },
+  {
+    "id": "prov-jiangsu-2023-A类-124",
+    "category": "provincial",
+    "module": "shuliang",
+    "title": "数量·4 二 、数学运算 。请通过运算，选择正确的一项。 请开…",
+    "stem": "4\n二 、数学运算 。请通过运算，选择正确的一项。\n请开始答题（ 51~65 题）：\n51. 已知食用西红柿、猪大排、油炸土豆片 、牛奶各 100 克吸收的热量分别为 20 大卡、388 大卡 、612 大卡 、54 大卡，快走每 30 分钟可以消耗热量 132 大卡 。若小红午餐享用了西红 柿 84 克 、猪大排 120 克 、油炸土豆片 40 克和牛奶 120 克， 则她通过快走消耗掉午餐吸收 的热量所需的时间是",
+    "options": [
+      {
+        "key": "A",
+        "text": "1、5 小时"
+      },
+      {
+        "key": "B",
+        "text": "3 小时"
+      },
+      {
+        "key": "C",
+        "text": "4、5 小时"
+      },
+      {
+        "key": "D",
+        "text": "6 小时"
+      }
+    ],
+    "answer": "A",
+    "explanation": "2021年我国综艺益智类广播节目制作时长比“十三五”时期年均制作时长少\nA.5.5%\nB.6.9%\nC.7.3%\nD.8.0%\n【答案】A\n【解析】定位表格材料可知：2016-2021年我国综艺益智类广播节目制作时长。结合公式：\n[[IMG]]\n,可以得到“十三五”时期年均制作时长\n[[IMG]]\n万小时。2021年我国综艺益 智类广播节目制作时长比“十三五”时期年均制作时长少\n[[IMG]]\n, 最\n接近选项A的5.5%。 故正确答案为A",
+    "keyPoints": [
+      "年我国综艺益智类广播节目制作时长比“十三五”时期年均制作时长少",
+      "A.5.5%",
+      "B.6.9%"
+    ],
+    "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "拔高",
+    "source": "2023年江苏公务员考试《行测》（A类）第124题",
+    "province": "江苏"
+  },
+  {
+    "id": "prov-jiangsu-2023-B类-46",
+    "category": "provincial",
+    "module": "shuliang",
+    "title": "数量·-1，1，-1，-3，-9，( )",
+    "stem": "-1，1，-1，-3，-9，( )",
+    "options": [
+      {
+        "key": "A",
+        "text": "-39"
+      },
+      {
+        "key": "B",
+        "text": "-27"
+      },
+      {
+        "key": "C",
+        "text": "6"
+      },
+      {
+        "key": "D",
+        "text": "21"
+      }
+    ],
+    "answer": "A",
+    "explanation": "本题考查作差数列。原数列任意相邻两项有明显倍数，但是倍数无规律，考虑作差。 后项减去前项可得一级差数列：2,-2,-2,-6任意相邻项存在明显倍数，后项除以前 项可以得到二级商数列：-1,1,3,是公差为2的等差数列，故商数列的下一项为\n3+2=5,按照规律递推到原数列，可得括号内数字为-9+(-6×5)=-39。因此，本题答 案为A 选项。",
+    "keyPoints": [
+      "本题考查作差数列",
+      "原数列任意相邻两项有明显倍数，但是倍数无规律，考虑作差"
+    ],
+    "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "拔高",
+    "source": "2023年江苏公务员考试《行测》（B类）第46题",
+    "province": "江苏"
+  },
+  {
+    "id": "prov-jiangsu-2023-B类-47",
+    "category": "provincial",
+    "module": "shuliang",
+    "title": "数量·60，30，20，15，12，( )",
+    "stem": "60，30，20，15，12，( )",
+    "options": [
+      {
+        "key": "A",
+        "text": "6"
+      },
+      {
+        "key": "B",
+        "text": "8"
+      },
+      {
+        "key": "C",
+        "text": "9"
+      },
+      {
+        "key": "D",
+        "text": "10"
+      }
+    ],
+    "answer": "D",
+    "explanation": "本题考查作商数列。原数列之间变化幅度较小，但是任意两项间存在较大的约\n[[IMG]]\n[[IMG]]\n[[IMG]]\n[[IMG]]\n[[IMG]]\n[[IMG]]\n重\n[[IMG]]\n数，后项除以前项可以得到商数列： ,商的分子部分：1,2,\n3,\n4,是公差为1的等差数列，故下项分子为5;商的分母部分：2,3,4,5是公差为1 的等\n差数列，故下项分母为6,所以商数列的下一项为\n[[IMG]]\n[[IMG]]\n则原数列括号内的数字为\n[[IMG]]\n因此，本题答案为D选项。",
+    "keyPoints": [
+      "本题考查作商数列",
+      "原数列之间变化幅度较小，但是任意两项间存在较大的约",
+      "[[IMG]]"
+    ],
+    "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "拔高",
+    "source": "2023年江苏公务员考试《行测》（B类）第47题",
+    "province": "江苏"
+  },
+  {
+    "id": "prov-jiangsu-2023-B类-48",
+    "category": "provincial",
+    "module": "shuliang",
+    "title": "数量·1 ， 1 ， 1 ， 5 ， 3 ， ( ) 4 3 …",
+    "stem": "1 ， 1 ， 1 ， 5 ， 3 ， ( )\n4 3 2 6 2",
+    "options": [
+      {
+        "key": "A",
+        "text": "7\n\n3、\n17"
+      },
+      {
+        "key": "B",
+        "text": "6、\n16"
+      },
+      {
+        "key": "C",
+        "text": "5"
+      },
+      {
+        "key": "D",
+        "text": "9"
+      }
+    ],
+    "answer": "B",
+    "explanation": "[[IMG]]\n[[IMG]]\n[[IMG]]\n[[IMG]]\n[[IMG]]\n本题考查分数数列。观察分母都比较小，把分母进行通分，统一原数列的形式：\n[[IMG]]\n,\n[[IMG]]\n; ,分母部分为常数数列，故下一项的分母也是12;分子部 分：3,4,6,10,18,变化幅度不大，优先考虑作差，后项减去前项得到：1,2, 4,8是公比为2的等比数列，故差数列的下一项为16,按照规律递推可以得到分式\n…\n的分子为18+16=34。综上，括号内的分式为\n[[IMG]]\n,因此，本题答案为B选项。",
+    "keyPoints": [
+      "[[IMG]]",
+      "[[IMG]]",
+      "[[IMG]]"
+    ],
+    "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "拔高",
+    "source": "2023年江苏公务员考试《行测》（B类）第48题",
+    "isImageQuestion": true,
+    "province": "江苏"
+  },
+  {
+    "id": "prov-jiangsu-2023-B类-49",
+    "category": "provincial",
+    "module": "shuliang",
+    "title": "数量·√3 ，4，√63 ，16，5√43 ，( )",
+    "stem": "√3 ，4，√63 ，16，5√43 ，( )",
+    "options": [
+      {
+        "key": "A",
+        "text": "42"
+      },
+      {
+        "key": "B",
+        "text": "6√59"
+      },
+      {
+        "key": "C",
+        "text": "49"
+      },
+      {
+        "key": "D",
+        "text": "12√31"
+      }
+    ],
+    "answer": "D",
+    "explanation": "本题考查根式数列。观察原数列中的5 √43,需要把原数列中的所有根式统一为b√x,\n则原数列转变为：1 √ 3,2 √ 4,3 √ 7,4 √ 16,5 √ 43,根号外的整数：1,2,3,4,5是公\n差为1的等差数列，故下一项的分母为5+1=6;根号内的数字3,4,7,16,43,变 化幅度较大，优先考虑倍数为：3×3-5=4,4×3-5=7,7×3-5=16,16×3-5=43 ,满足前项\n×3-5=后项，故根号内下一项为43×3-5=124。所以原数列中括号内的数字为 6 √ 124=12 √31。因此，本题答案为D 选项。",
+    "keyPoints": [
+      "本题考查根式数列",
+      "观察原数列中的5 √43,需要把原数列中的所有根式统一为b√x,"
+    ],
+    "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "拔高",
+    "source": "2023年江苏公务员考试《行测》（B类）第49题",
+    "province": "江苏"
+  },
+  {
+    "id": "prov-jiangsu-2023-B类-50",
+    "category": "provincial",
+    "province": "江苏",
+    "module": "shuliang",
+    "title": "第50题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 50 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "拔高",
+    "source": "2023年江苏公务员考试《行测》（B类）第50题",
+    "isPlaceholder": true
+  },
+  {
+    "id": "prov-jiangsu-2023-B类-51",
+    "category": "provincial",
+    "module": "shuliang",
+    "title": "数量·已知食用西红柿、猪大排、油炸土豆片、牛奶各 100 克吸…",
+    "stem": "已知食用西红柿、猪大排、油炸土豆片、牛奶各 100 克吸收的热量分别为 20 大卡、388 大 卡、612大卡、54大卡，快走每 30分钟可以消耗热量 132大卡。若小红午餐享用了西红柿 84克、猪大排 120克、油炸土豆片40克和牛奶 120克，则她通过快走消耗掉午餐吸收的热 量所需的时间是( )",
+    "options": [
+      {
+        "key": "A",
+        "text": "1.5小时"
+      },
+      {
+        "key": "B",
+        "text": "3小时"
+      },
+      {
+        "key": "C",
+        "text": "4.5小时"
+      },
+      {
+        "key": "D",
+        "text": "6小时"
+      }
+    ],
+    "answer": "B",
+    "explanation": "本题考查计算问题。根据“食用西红柿、猪大排、油炸土豆片、牛奶各100克吸收的 热量分别为20大卡、388大卡、612大卡、54大卡，”可得享用了西红柿84克、猪大 排120克、油炸土豆片40克和牛奶120克吸收的热量为\n[[IMG]]\n卡，则通过快走消耗掉午餐吸收的热量所需时间为\n[[IMG]]\n小时。因此，本题答案为B\n选项。",
+    "keyPoints": [
+      "本题考查计算问题",
+      "[[IMG]]"
+    ],
+    "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "拔高",
+    "source": "2023年江苏公务员考试《行测》（B类）第51题",
+    "province": "江苏"
+  },
+  {
+    "id": "prov-jiangsu-2023-B类-52",
+    "category": "provincial",
+    "module": "shuliang",
+    "title": "数量·甲、乙、丙三个家庭去年的年收入比五年前分别增长了 50%…",
+    "stem": "甲、乙、丙三个家庭去年的年收入比五年前分别增长了 50%、60%、150%。这三个家庭去年的 年收入总和为 84万元，比五年前多 35万元。若去年丙家庭的年收入为 20万元，则五年前 乙家庭的年收入为( )",
+    "options": [
+      {
+        "key": "A",
+        "text": "16万元"
+      },
+      {
+        "key": "B",
+        "text": "20万元"
+      },
+      {
+        "key": "C",
+        "text": "25万元"
+      },
+      {
+        "key": "D",
+        "text": "36万元"
+      }
+    ],
+    "answer": "C",
+    "explanation": "本题考查普通方程问题。设五年前甲乙的年收入分别为x 万 元 、y 万元。根据收入之\n[[IMG]]\n和列方程组为： 解方程组可以得到v=25 万元,即五年前\n乙家庭的年收入为25万元。因此，本题答案为C 选项。",
+    "keyPoints": [
+      "本题考查普通方程问题",
+      "设五年前甲乙的年收入分别为x 万 元 、y 万元",
+      "[[IMG]]"
+    ],
+    "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "拔高",
+    "source": "2023年江苏公务员考试《行测》（B类）第52题",
+    "province": "江苏"
+  },
+  {
+    "id": "prov-jiangsu-2023-B类-53",
+    "category": "provincial",
+    "module": "shuliang",
+    "title": "数量·一个 A 型 4G基站的地面覆盖半径为 1～3 千米，一…",
+    "stem": "一个 A 型 4G基站的地面覆盖半径为 1～3 千米，一个 B 型 5G基站的地面覆盖半径为 100 ~ 200米。按此计算，一个 A 型 4G基站的地面覆盖面积为 B 型 5G基站的( )",
+    "options": [
+      {
+        "key": "A",
+        "text": "100～225倍"
+      },
+      {
+        "key": "B",
+        "text": "100～900倍"
+      },
+      {
+        "key": "C",
+        "text": "25～225倍"
+      },
+      {
+        "key": "D",
+        "text": "25～900倍"
+      }
+    ],
+    "answer": "D",
+    "explanation": "本题考查平面几何。根据覆盖半径，结合圆的面积公式：S=n², 可以得到一个A 型4G 基站的地面覆盖面积为1²π~3²π=π~9π平方千米；一个B型5G基站的地面覆 盖面积为0.1²π~0.2²n=0.01π~0.04π平方千米，则两个面积之比的最小值为\n[[IMG]]\n倍，面积之比的最大值为\n[[IMG]]\n倍。所以按此计算，一个A 型 4G 基站的地面覆盖\n面积为B型 5G基站的25～900倍。因此，本题答案为D 选项。",
+    "keyPoints": [
+      "本题考查平面几何",
+      "[[IMG]]"
+    ],
+    "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "拔高",
+    "source": "2023年江苏公务员考试《行测》（B类）第53题",
+    "province": "江苏"
+  },
+  {
+    "id": "prov-jiangsu-2023-B类-54",
+    "category": "provincial",
+    "module": "shuliang",
+    "title": "数量·某网店销售一款衬衫，进价为 100元，售价为 150元。…",
+    "stem": "某网店销售一款衬衫，进价为 100元，售价为 150元。为回馈顾客，该网店开展一天的促销 活动：每购买两件优惠 20元，每购买三件优惠 50元。已知促销当天的销售量是前一天的 2 倍，利润是前一天的 1.5倍，每位顾客购买衬衫的数量均为两件或三件。促销当天，购买两 件与购买三件衬衫的顾客人数比是( )",
+    "options": [
+      {
+        "key": "A",
+        "text": "5:2"
+      },
+      {
+        "key": "B",
+        "text": "5:3"
+      },
+      {
+        "key": "C",
+        "text": "3:2"
+      },
+      {
+        "key": "D",
+        "text": "3:1"
+      }
+    ],
+    "answer": "A",
+    "explanation": "本题考查不定方程。根据“进价为100元，售价为150元。为回馈顾客，该网店开展 一天的促销活动：每购买两件优惠20元，每购买三件优惠50元。”可得：每位顾客 购买一件衬衫，商家获利150-100=50元；每位顾客购买两件衬衫，商家获利50×2-\n20=80元；每位顾客购买两件衬衫，商家获利50×3-5=100元；设购买两件衬衫数量的 顾客为x名，购买三件衬衫数量的顾客为y名。根据“已知促销当天的销售量是前一天\n的2倍，利润是前一天的1.5倍，”列方程为：\n[[IMG]]\n,解方程可\n得x:y=5:2,即促销当天，购买两件与购买三件衬衫的顾客人数比是5:2,因此，本 题答案为A 选项。",
+    "keyPoints": [
+      "本题考查不定方程",
+      "根据“进价为100元，售价为150元"
+    ],
+    "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "拔高",
+    "source": "2023年江苏公务员考试《行测》（B类）第54题",
+    "province": "江苏"
+  },
+  {
+    "id": "prov-jiangsu-2023-B类-55",
+    "category": "provincial",
+    "module": "shuliang",
+    "title": "数量·某学校的运动场是椭圆形。边界椭圆上一点到中心距离的最小值…",
+    "stem": "某学校的运动场是椭圆形。边界椭圆上一点到中心距离的最小值是 20米，两点间距离的最 大值为 80米。若学生在该运动场上排成方阵，则所排成方阵面积的最大值为( )",
+    "options": [
+      {
+        "key": "A",
+        "text": "1280平方米"
+      },
+      {
+        "key": "B",
+        "text": "1360平方米"
+      },
+      {
+        "key": "C",
+        "text": "1440平方米"
+      },
+      {
+        "key": "D",
+        "text": "1600平方米"
+      }
+    ],
+    "answer": "D",
+    "explanation": "方法一：本题考查平面几何。根据“边界椭圆上一点到中心距离的最小值是20米，两 点间距离的最大值为80米。”,可知椭圆的短半轴b=20米，长半轴a=80÷2=40米。\n结合结论：同院内接矩形面积的最大值为2ab,可得若学生在该运动场上排成方阵， 则所排成长方形方阵面积的最大值为2×20×40=1600平方米。因此，本题答案为D 选 项。\n方法二：本题考查平面几何。根据“边界椭圆上一点到中心距离的最小值是20米，两 点间距离的最大值为80米。”,可知椭圆的短半轴b=20米，长半轴a=80÷2=40米。\n结合椭圆标准方程：\n[[IMG]]\n(a 为椭圆的长半轴，b 为椭圆的短半轴),设椭圆上 的坐标点 (x,y), 则xy满足方程：\n[[IMG]]\n整理方程可得：x²+4y²=1600,\n结合均值不等式可知：x²+4y²≥4xy,4xy的最大值为1600,即椭圆内接矩形的面积\n2x×2y=4xy=1600平方米，所以若学生在该运动场上排成方阵，则所排成长方形方阵面 积的最大值为2×20×40=1600平方米。因此，本题答案为D 选项。",
+    "keyPoints": [
+      "方法一：本题考查平面几何",
+      "根据“边界椭圆上一点到中心距离的最小值是20米，两 点间距离的最大值为80米",
+      "”,可知椭圆的短半轴b=20米，长半轴a=80÷2=40米"
+    ],
+    "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "拔高",
+    "source": "2023年江苏公务员考试《行测》（B类）第55题",
+    "province": "江苏"
+  },
+  {
+    "id": "prov-jiangsu-2023-B类-56",
+    "category": "provincial",
+    "module": "shuliang",
+    "title": "数量·某高新技术企业为扩大业务，招收了两批新员工，原计划每批招…",
+    "stem": "某高新技术企业为扩大业务，招收了两批新员工，原计划每批招收的人数相同，实际第二批 多招了4人，结果第一批和第二批招收后员工人数新增的百分比相同。若第二批再多招6人，\n2023年江苏省公务员录用考试《行测》B 类（网友回忆版）\n则员工总人数是两次招收前员工人数的 1.5 倍。该企业招收两批新员工前的员工人数是 ( )",
+    "options": [
+      {
+        "key": "A",
+        "text": "96"
+      },
+      {
+        "key": "B",
+        "text": "100"
+      },
+      {
+        "key": "C",
+        "text": "104"
+      },
+      {
+        "key": "D",
+        "text": "108"
+      }
+    ],
+    "answer": "B",
+    "explanation": "方法一：由于百分比相同，列方程相对复杂，可从选项代起，使用代入排除法。观察 选项，发现最好代的数字100,可从100代起。当该企业招收两批新员工前的员工人 数是100,根据“若第二批再多招6人，则员工总人数是两次招收前员工人数的1.5\n倍。”可得：该企业招收两批新员工后的员工总人数是100×1.5=150人，招收两批新员\n工人数为分别为：第一批招收人数为\n[[IMG]]\n,新增百分比为\n[[IMG]]\n,第二 批招收人数为20+4=24,新增百分比为\n[[IMG]]\n,满足题干所有条件，故B 正确。因\n此，本题答案为B 选项。\n方法二：本题考查普通方程。设第一批招收员工为n 人，新增百分比为x,根据“实际 第二批多招了4人，和若第二批再多招6人，则员工总人数是两次招收前员工人数的\n1.5倍。”,可以列方程组\n[[IMG]]\n整理方程组可得\nn²-16n-80=(n-20)×(n+4)=0, 解得n=20, 代入x=0.2,则该企业招收两批新员工前\n的员工人数是20÷0.2=100人。因此，本题答案为B 选项。",
+    "keyPoints": [
+      "方法一：由于百分比相同，列方程相对复杂，可从选项代起，使用代入排除法",
+      "观察 选项，发现最好代的数字100,可从100代起"
+    ],
+    "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "拔高",
+    "source": "2023年江苏公务员考试《行测》（B类）第56题",
+    "province": "江苏"
+  },
+  {
+    "id": "prov-jiangsu-2023-B类-57",
+    "category": "provincial",
+    "module": "shuliang",
+    "title": "数量·某食品企业为丰富产品造型，将一款甜点的外形由圆柱形改为半…",
+    "stem": "某食品企业为丰富产品造型，将一款甜点的外形由圆柱形改为半球形。若圆柱形甜点的底面\n半径是高的 2 倍，半球形甜点的体积缩小到圆柱形甜点的 9 ，则半球形甜点的底面半径是圆\n16\n柱形甜点底面半径的( )",
+    "options": [
+      {
+        "key": "A",
+        "text": "1\n\n4"
+      },
+      {
+        "key": "B",
+        "text": "1\n\n3"
+      },
+      {
+        "key": "C",
+        "text": "2\n\n3"
+      },
+      {
+        "key": "D",
+        "text": "3"
+      }
+    ],
+    "answer": "D",
+    "explanation": "本题考查立体几何。由于已知量全是比例，求解对象也是比例量，故可用赋值思想解 题。赋值圆柱形甜点的底面半径为4、高为2,结合公式：V在=S×h, 可以得到圆柱形\n甜点的体积为π×4²×2=32π,根据“半球形甜点的体积缩小到圆柱形甜点的9/16”,\n可以得到半球形甜点的体积为\n[[IMG]]\n,结合公式：\n[[IMG]]\n,可以得到半球形甜点 半径为\n[[IMG]]\n则半球形甜点的底面半径是圆柱形甜点底面半径的3/4,因\n此，本题答案为D选项。",
+    "keyPoints": [
+      "本题考查立体几何",
+      "由于已知量全是比例，求解对象也是比例量，故可用赋值思想解 题",
+      "赋值圆柱形甜点的底面半径为4、高为2,结合公式：V在=S×h, 可以得到圆柱形"
+    ],
+    "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "拔高",
+    "source": "2023年江苏公务员考试《行测》（B类）第57题",
+    "isImageQuestion": true,
+    "province": "江苏"
+  },
+  {
+    "id": "prov-jiangsu-2023-B类-58",
+    "category": "provincial",
+    "module": "shuliang",
+    "title": "数量·甲骑自行车，乙步行，同时从 A 地前往 B 地。已知 A…",
+    "stem": "甲骑自行车，乙步行，同时从 A 地前往 B 地。已知 A、B 两地相距 4000米， 甲的速度是乙的 3 倍。途中自行车发生故障，甲修车耽误了一段时间。当乙到达 B 地时，甲离 B 地还有 400 米。在甲修车的时间段内，乙走过的路程为( )",
+    "options": [
+      {
+        "key": "A",
+        "text": "3000米"
+      },
+      {
+        "key": "B",
+        "text": "2800米"
+      },
+      {
+        "key": "C",
+        "text": "2400米"
+      },
+      {
+        "key": "D",
+        "text": "2000米"
+      }
+    ],
+    "answer": "B",
+    "explanation": "本题考查行程问题。由于已知的是路程，求解的也是路程，所以可以用赋值思想。赋 值甲的速度为3米/分钟，则乙的速度为1米/分钟，则乙从出发到B地，用时\n4000÷1=4000分钟。而在这段时间内，甲所有的路程为4000-400=3600米，所用行驶 时间为3600÷3=1200分钟，则修车时间为4000-1200=2800分钟，则在甲修车的时间 段内，乙走过的路程为2800×1=2800米。因此，本题答案为B 选项。",
+    "keyPoints": [
+      "本题考查行程问题",
+      "由于已知的是路程，求解的也是路程，所以可以用赋值思想",
+      "赋 值甲的速度为3米/分钟，则乙的速度为1米/分钟，则乙从出发到B地，用时"
+    ],
+    "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "拔高",
+    "source": "2023年江苏公务员考试《行测》（B类）第58题",
+    "province": "江苏"
+  },
+  {
+    "id": "prov-jiangsu-2023-B类-59",
+    "category": "provincial",
+    "module": "shuliang",
+    "title": "数量·某企业篮球队 16 名队员进行投篮测试，每人投篮两次，这…",
+    "stem": "某企业篮球队 16 名队员进行投篮测试，每人投篮两次，这两次都命中得加投一次，每命中 一次得 1 分，不命中不得分。若 16 人的总得分为 26 分，则得分大于 1 分的队员至少有 ( )",
+    "options": [
+      {
+        "key": "A",
+        "text": "5人"
+      },
+      {
+        "key": "B",
+        "text": "6人"
+      },
+      {
+        "key": "C",
+        "text": "7人"
+      },
+      {
+        "key": "D",
+        "text": "8人"
+      }
+    ],
+    "answer": "A",
+    "explanation": "本题考查比赛问题。根据“每人投篮两次，这两次都命中得加投一次，每命中一次得1 分，不命中不得分。”可得：每名队员投篮得分可能为0分、1分、2分、3分。要想 让得分大于1分的队员尽可能少，则让不大于1分的人数尽可能多，且不大于1分的 人都得1分，同时得分大于1分的队员每名都能尽可能得最高分3分。设得1分的队 员数为x 人，得三分得队员数为y 人。根据“队员人数和总得分”列方程组为\n[[IMG]]\n,解方程可得y=5人，即得分大于1分的队员至少有5人，因此，\n本题答案为A 选项。",
+    "keyPoints": [
+      "本题考查比赛问题",
+      "根据“每人投篮两次，这两次都命中得加投一次，每命中一次得1 分，不命中不得分",
+      "”可得：每名队员投篮得分可能为0分、1分、2分、3分"
+    ],
+    "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "拔高",
+    "source": "2023年江苏公务员考试《行测》（B类）第59题",
+    "province": "江苏"
+  },
+  {
+    "id": "prov-jiangsu-2023-B类-60",
+    "category": "provincial",
+    "module": "shuliang",
+    "title": "数量·某博物馆拟举办一次为期 4 天的文物展览活动，展出的文物…",
+    "stem": "某博物馆拟举办一次为期 4 天的文物展览活动，展出的文物共有 5 类：青铜器、瓷器、玉 器、书法、国画。若要求每天仅展出 2 类文物，每类文物都要展出但不能连续 2 天展出，且 玉器和国画这 2 类文物不在第 1 天展出，则不同的展出方式共有( )",
+    "options": [
+      {
+        "key": "A",
+        "text": "72种"
+      },
+      {
+        "key": "B",
+        "text": "120种"
+      },
+      {
+        "key": "C",
+        "text": "216种\n2023年江苏省公务员录用考试《行测》B 类（网友回忆版）"
+      },
+      {
+        "key": "D",
+        "text": "360种"
+      }
+    ],
+    "answer": "A",
+    "explanation": "本题考查排列组合。5类文物要在连续的4天展出，根据“若要求每天仅展出2类文\n物，每类文物都要展出但不能连续2天展出，且玉器和国画这2类文物不在第1天展 出，”,从第一天到第四天分四步分析。第一步：第一天需要从除了“玉器和国画”这2 类文物之外的三类文物中选择2类，对应的方法数为C3种；第二步：第二天需要从第 一天选择的2类文物之外的三类文物中选择2类，对应的方法数为C3种；第三步：\n前面两天已经展出了4类，需要考虑第5类文物是否在第三天展出，若最后一类文物 在第三天展出，对应的方法数为¹×C2, 此类情况第四天只需要从不同第三天的2类\n文物之外的三类种选择两类就可，对应方法数为C3, 若最后一类不在第三天展出， 对应的方法数为 .此类情况第四天只就需要展出最后一类文物和不同与第三天的 文物类型，对应方法数为¹×C₂\n综上所述，不同的展出方式共有C²×C²×(C₂×C²+C²×C₂)=3×3×8=72 种。因\n此，本题答案为A 选项。",
+    "keyPoints": [
+      "本题考查排列组合",
+      "类文物要在连续的4天展出，根据“若要求每天仅展出2类文"
+    ],
+    "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "拔高",
+    "source": "2023年江苏公务员考试《行测》（B类）第60题",
+    "province": "江苏"
+  },
+  {
+    "id": "prov-jiangsu-2023-B类-61",
+    "category": "provincial",
+    "module": "shuliang",
+    "title": "数量·甲、乙两个工程队合作完成一项工程， 甲每工作 3 天休息…",
+    "stem": "甲、乙两个工程队合作完成一项工程， 甲每工作 3 天休息 1 天，乙每工作 5 天休息 2 天。若 甲先工作，2 天后乙加入，则再用 21天完工；若乙先工作，12天后甲加入，则再用 15天完 工。甲单独完成该项工程需要的天数是( )",
+    "options": [
+      {
+        "key": "A",
+        "text": "43"
+      },
+      {
+        "key": "B",
+        "text": "44"
+      },
+      {
+        "key": "C",
+        "text": "47"
+      },
+      {
+        "key": "D",
+        "text": "48"
+      }
+    ],
+    "answer": "C",
+    "explanation": "本题考查合作完工问题。根据“甲每工作3天休息1天，乙每工作5天休息2天。若 甲先工作，2天后乙加入，则再用21天完工；”可以得到甲乙合作完成这项工程，甲 需要工作的天数为\n[[IMG]]\n,即5个周期零3天，共计3×5+3=18天，乙需要的工作 天 数\n[[IMG]]\n个周期，共计3×5=15天；或者根据“若乙先工作，12天后甲加入，则再用\n15天完工。”可以得到甲乙合作完成这项工程，甲需要工作的天数为\n[[IMG]]\n, 即 3 个周期零3天，共计3×3+3=12天，乙需要的工作天数为\n[[IMG]]\n,即3个周期零6\n天，共计3×5+5=20天；根据工程量相同，列方程为：18甲+15乙=12甲+20乙，整理 可得：甲乙效率之比为甲：乙=5;6,赋值甲乙的效率分别为5和6,则工程总量为 18×5+15×6=180,则甲单独完成该项工程需要工作的天数是180÷5=36天，按照“每工\n作3天休息1天”则需要\n[[IMG]]\n天。因此，本题答案为C 选项。",
+    "keyPoints": [
+      "本题考查合作完工问题",
+      "根据“甲每工作3天休息1天，乙每工作5天休息2天"
+    ],
+    "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "拔高",
+    "source": "2023年江苏公务员考试《行测》（B类）第61题",
+    "province": "江苏"
+  },
+  {
+    "id": "prov-jiangsu-2023-B类-62",
+    "category": "provincial",
+    "module": "shuliang",
+    "title": "数量·如图所示，纸片 ABC的形状为直角三角形，AB=10厘米…",
+    "stem": "如图所示，纸片 ABC的形状为直角三角形，AB=10厘米，BC=8厘米。若将纸片沿 AD折叠， 直角边 AC恰好与斜边 AB重叠，则△ABD 的面积为( )",
+    "options": [
+      {
+        "key": "A",
+        "text": "15平方厘米"
+      },
+      {
+        "key": "B",
+        "text": "16平方厘米"
+      },
+      {
+        "key": "C",
+        "text": "18平方厘米"
+      },
+      {
+        "key": "D",
+        "text": "21平方厘米"
+      }
+    ],
+    "answer": "A",
+    "explanation": "本题考查平面几何。把AB 上 与AC 等长的线段记为AC, 如图，根据直角三角形三边关 系可以得到AC= √ 10²-8²=6厘米，则BC'=10-6=4厘米，由于△BC'D和△BCA对应的三\n个角相等，对应边成比例，所以△BC'D与 △BCA相似，所以满足\n[[IMG]]\n, 则CD=3, 结合直角三角形面积公式，可以得到\n[[IMG]]\n平方厘米，\n[[IMG]]\n平方厘米，则△ABD 的面积为24-9=15 平方 厘米。因此，本题答案为A 选项。",
+    "keyPoints": [
+      "本题考查平面几何",
+      "个角相等，对应边成比例，所以△BC'D与 △BCA相似，所以满足"
+    ],
+    "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "拔高",
+    "source": "2023年江苏公务员考试《行测》（B类）第62题",
+    "isImageQuestion": true,
+    "province": "江苏"
+  },
+  {
+    "id": "prov-jiangsu-2023-B类-63",
+    "category": "provincial",
+    "module": "shuliang",
+    "title": "数量·某公司实行弹性工作制，允许居家办公，但要求员工每周的周一…",
+    "stem": "某公司实行弹性工作制，允许居家办公，但要求员工每周的周一到周五至少有两天在公司工 作。小王、小李和小陈都是该公司的员工，若他们分别从下周的周一到周五中随机选 2 天、 3 天、4 天去公司工作，则他们下周三都去公司工作的概率是( )\n1",
+    "options": [
+      {
+        "key": "A",
+        "text": "25\n6"
+      },
+      {
+        "key": "B",
+        "text": "—— 125\n24"
+      },
+      {
+        "key": "C",
+        "text": "125\n3"
+      },
+      {
+        "key": "D",
+        "text": "—— 250"
+      }
+    ],
+    "answer": "C",
+    "explanation": "本题考查古典概率。根据“小王、小李和小陈都是该公司的员工，若他们分别从下周 的周一到周五中随机选2天、3天、4天去公司工作，”可以得到，他们三个做这件事\n情的所有方法数为： C3×C3×Cs=500种；符合条件的是他们三人选择的天数中都有 一个周三，所以只需要选择剩下的天数即可，小王在剩下的四天里选1天，小李在剩 下的四天里选2天，小陈在剩下的四天里选3天，对应的方法数为C×C²×C³=96\n种，则他们下周三都去公司工作的概率是\n[[IMG]]\n因此，本题答案为C 选项。",
+    "keyPoints": [
+      "本题考查古典概率"
+    ],
+    "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "拔高",
+    "source": "2023年江苏公务员考试《行测》（B类）第63题",
+    "isImageQuestion": true,
+    "province": "江苏"
+  },
+  {
+    "id": "prov-jiangsu-2023-B类-64",
+    "category": "provincial",
+    "module": "shuliang",
+    "title": "数量·浓度分别为 68%、72%、78%的三种酒精溶液的总质量…",
+    "stem": "浓度分别为 68%、72%、78%的三种酒精溶液的总质量为 240克。若将它们全部混合，则可得 浓度为 74%的酒精溶液；若只将浓度为 72%和 78%的酒精溶液混合，则得浓度为 76%的酒精溶 液。这三种酒精溶液中，浓度为 72%的酒精溶液质量为( )",
+    "options": [
+      {
+        "key": "A",
+        "text": "30克\n2023年江苏省公务员录用考试《行测》"
+      },
+      {
+        "key": "B",
+        "text": "类（网友回忆版）\nB.40克"
+      },
+      {
+        "key": "C",
+        "text": "48克"
+      },
+      {
+        "key": "D",
+        "text": "60克"
+      }
+    ],
+    "answer": "D",
+    "explanation": "本题考查溶液问题。设浓度分别为68%、72%、78%的三种酒精溶液的质量分别为x 克、y 克 、z 克，根据混合前后溶液溶质总量相等，可以列方程组为\n[[IMG]]\n解方程组可以得到y=60 克。因此，本题答案为D\n选项。",
+    "keyPoints": [
+      "本题考查溶液问题",
+      "[[IMG]]"
+    ],
+    "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "拔高",
+    "source": "2023年江苏公务员考试《行测》（B类）第64题",
+    "province": "江苏"
+  },
+  {
+    "id": "prov-jiangsu-2023-B类-65",
+    "category": "provincial",
+    "module": "shuliang",
+    "title": "数量·把 2022到 1 的所有整数按下图所示规律依次排列，2…",
+    "stem": "把 2022到 1 的所有整数按下图所示规律依次排列，2022排在第一行，第二行开始，每一行 比前一行多两个数，则第 30行中间的数是( )",
+    "options": [
+      {
+        "key": "A",
+        "text": "1092"
+      },
+      {
+        "key": "B",
+        "text": "1152"
+      },
+      {
+        "key": "C",
+        "text": "1210"
+      },
+      {
+        "key": "D",
+        "text": "1320"
+      }
+    ],
+    "answer": "B",
+    "explanation": "本题考查等差数列。根据题干中的图及规律发现，第二行中间数字需要第一行中间数 字减去2,第三行中间数字需要第二行中间数字减去4,第四行中间数字需要第三行\n中间数字减去6,.. …,依次枚举可得到规律，第n 行中间的数=第1行中间数- (2+4+6+……+2(n-1)), 所以第30行中间的数是2022-(2+4+6+....+58)\n[[IMG]]\n,因此，本题答案为B 选项。\n判断推理(单选)",
+    "keyPoints": [
+      "本题考查等差数列"
+    ],
+    "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "拔高",
+    "source": "2023年江苏公务员考试《行测》（B类）第65题",
+    "isImageQuestion": true,
+    "province": "江苏"
+  },
+  {
+    "id": "prov-jiangsu-2023-B类-66",
+    "category": "provincial",
+    "province": "江苏",
+    "module": "shuliang",
+    "title": "第66题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 66 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "拔高",
+    "source": "2023年江苏公务员考试《行测》（B类）第66题",
+    "isPlaceholder": true
+  },
+  {
+    "id": "prov-jiangsu-2024-A类-46",
+    "category": "provincial",
+    "module": "shuliang",
+    "title": "数量·-6 ，-2 ，-10 ，6 ，-26 ， ( )",
+    "stem": "-6 ，-2 ，-10 ，6 ，-26 ， ( )",
+    "options": [
+      {
+        "key": "A",
+        "text": "-90"
+      },
+      {
+        "key": "B",
+        "text": "90"
+      },
+      {
+        "key": "C",
+        "text": "-38"
+      },
+      {
+        "key": "D",
+        "text": "38"
+      }
+    ],
+    "answer": "B",
+    "explanation": "观察数列，无明显特征，优先考虑多级数列。后一项减前一项得到新数列：4,-8,16,-32,(), 是公比为-2的等比数列，则下一项为(-32)×(-2)=64。故题干所求项为(-26)+64=38。\n故正确答案为D。",
+    "keyPoints": [
+      "观察数列，无明显特征，优先考虑多级数列",
+      "故题干所求项为(-26)+64=38"
+    ],
+    "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "拔高",
+    "source": "2024年江苏公务员考试《行测》（A类）第46题",
+    "province": "江苏"
+  },
+  {
+    "id": "prov-jiangsu-2024-A类-47",
+    "category": "provincial",
+    "module": "shuliang",
+    "title": "数量·81 ，27 ，18 ，18 ，24 ， ( )",
+    "stem": "81 ，27 ，18 ，18 ，24 ， ( )",
+    "options": [
+      {
+        "key": "A",
+        "text": "36"
+      },
+      {
+        "key": "B",
+        "text": "40"
+      },
+      {
+        "key": "C",
+        "text": "44"
+      },
+      {
+        "key": "D",
+        "text": "48"
+      }
+    ],
+    "answer": "B",
+    "explanation": "观察数列，相邻两项之间存在明显的倍数关系，优先考虑作商数列。后一项除以前一项得到新数列：\n[[IMG]]\n;\n[[IMG]]\n[[IMG]]\n[[IMG]]\n, ( ) , 是 公 差 为\n等 类 列 ， 则 下 - 项 为\n[[IMG]]\n故题干所求项为\n[[IMG]]\n故正确答案为B。",
+    "keyPoints": [
+      "观察数列，相邻两项之间存在明显的倍数关系，优先考虑作商数列",
+      "后一项除以前一项得到新数列：",
+      "[[IMG]]"
+    ],
+    "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "拔高",
+    "source": "2024年江苏公务员考试《行测》（A类）第47题",
+    "province": "江苏"
+  },
+  {
+    "id": "prov-jiangsu-2024-A类-48",
+    "category": "provincial",
+    "province": "江苏",
+    "module": "shuliang",
+    "title": "第48题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 48 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "拔高",
+    "source": "2024年江苏公务员考试《行测》（A类）第48题",
+    "isPlaceholder": true
+  },
+  {
+    "id": "prov-jiangsu-2024-A类-49",
+    "category": "provincial",
+    "module": "shuliang",
+    "title": "数量·， ，9 ，18 ， ， ( )",
+    "stem": "，\n\n，9 ，18 ，\n\n， ( )",
+    "options": [
+      {
+        "key": "A",
+        "text": "27"
+      },
+      {
+        "key": "B",
+        "text": "30v5"
+      },
+      {
+        "key": "C",
+        "text": ""
+      },
+      {
+        "key": "D",
+        "text": "54"
+      }
+    ],
+    "answer": "C",
+    "explanation": "方法一：观察数列，出现根号，将原数列统一转化为根号形式：√3, √ 18, √81, √324, √ 1215,(),根号内数字变化趋势较大，可以考虑拆分。则原数列可转化为V1×3,√2×9, √3×27,√4×81,V5×243,() 。 根号内数列的左子列分别为1,2,3,4,5,(),\n是自然数数列，则下一项为6;右子列分别为3,9,27,81,243,(),是公比为3的等比数列，\n则下一项为243×3=3⁶=27²。故题干所求项为V6×272=27V6。\n方法二：数列局部之间存在明显的倍数关系，优先考虑作商数列。后一项除以前一项得到新数列：\n[[IMG]]\n,(),进 一 步可转化为\n[[IMG]]\n,()。根号\n内分母部分分别为1,2,3,4,(),是自然数数列，则下一项分母部分为5;根号内分子部分分别 为6,9,12,15,(),是公差为3的等差数列，则下一项分子部分为15+3=18。因此新数列下一项\n[[IMG]]\n为\n[[IMG]]\n。故题干所求项为\n故正确答案为C。",
+    "keyPoints": [
+      "根号内数列的左子列分别为1,2,3,4,5,(),"
+    ],
+    "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "拔高",
+    "source": "2024年江苏公务员考试《行测》（A类）第49题",
+    "isImageQuestion": true,
+    "province": "江苏"
+  },
+  {
+    "id": "prov-jiangsu-2024-A类-50",
+    "category": "provincial",
+    "module": "shuliang",
+    "title": "数量·, , , , , ( ) 。 A. B. C. D.",
+    "stem": ", , , , , ( ) 。\nA.\n\nB.\n\nC.\n\nD.",
+    "options": [],
+    "answer": "C",
+    "explanation": "数列各项均为分数，考虑分数数列。分子、分母分开看无明显规律，考虑整体看。各项分子、分母相\n加得到新数列：3,6,12,24,48,(),是公比为2的等比数列，则新数列下一项为48×2=96,即 所求项分子、分母之和为96,观察选项，只有C 项47+49=96满足。\n故正确答案为C。",
+    "keyPoints": [
+      "数列各项均为分数，考虑分数数列",
+      "分子、分母分开看无明显规律，考虑整体看",
+      "各项分子、分母相"
+    ],
+    "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "拔高",
+    "source": "2024年江苏公务员考试《行测》（A类）第50题",
+    "isImageQuestion": true,
+    "province": "江苏"
+  },
+  {
+    "id": "prov-jiangsu-2024-A类-51",
+    "category": "provincial",
+    "module": "shuliang",
+    "title": "数量·某厂推出含酒的新品种巧克力 ，每颗的质量为10克 ，其中…",
+    "stem": "某厂推出含酒的新品种巧克力 ，每颗的质量为10克 ，其中含酒2% ，售价为17.5元 ，若酒的密度为0.9克/毫升， 则500毫升酒做成的巧克力销售额为（ ）。",
+    "options": [
+      {
+        "key": "A",
+        "text": "35875元"
+      },
+      {
+        "key": "B",
+        "text": "36375元"
+      },
+      {
+        "key": "C",
+        "text": "37625元"
+      },
+      {
+        "key": "D",
+        "text": "39375元"
+      }
+    ],
+    "answer": "D",
+    "explanation": "根据公式：质量=密度×体积，可得500毫升酒的质量=0.9×500=450克，每颗巧克力含酒质量\n[[IMG]]\n=10×2%=0.2克。则500毫升酒做成的巧克力销售额\n故正确答案为D。",
+    "keyPoints": [
+      "[[IMG]]",
+      "=10×2%=0.2克"
+    ],
+    "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "拔高",
+    "source": "2024年江苏公务员考试《行测》（A类）第51题",
+    "province": "江苏"
+  },
+  {
+    "id": "prov-jiangsu-2024-A类-52",
+    "category": "provincial",
+    "module": "shuliang",
+    "title": "数量·一列长为210米的动车以180千米/小时的速度行驶 。某…",
+    "stem": "一列长为210米的动车以180千米/小时的速度行驶 。某乘客拍窗外风景视频时 ，恰好拍到平行铁轨上一列长420 米、相向而行的高速列车 ，该高速列车经过窗户的时间是3.6秒 。若不计窗户长度 ，则该高速列车的速度为\n( ) 。",
+    "options": [
+      {
+        "key": "A",
+        "text": "210千米/时"
+      },
+      {
+        "key": "B",
+        "text": "240千米/时"
+      },
+      {
+        "key": "C",
+        "text": "450千米/时"
+      },
+      {
+        "key": "D",
+        "text": "630千米/时"
+      }
+    ],
+    "answer": "B",
+    "explanation": "如下图所示，乘客拍到该高速列车即为车窗与平行列车的车头相对重合，该高速列车完全经过即为 车窗与平行列车的车尾相对重合，则本题可转化为车窗与平行列车车尾的相遇问题，相遇距离即为 平 行 列 车 的 车 长 。 根 据 相 遇 公 式 S和=V和×t , 可得\n[[IMG]]\n千米/时，则该高速列车的速度=420-180=240千米/\n时。\n[[IMG]]\n车尾\n故正确答案为B。",
+    "keyPoints": [
+      "根 据 相 遇 公 式 S和=V和×t , 可得",
+      "[[IMG]]"
+    ],
+    "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "拔高",
+    "source": "2024年江苏公务员考试《行测》（A类）第52题",
+    "province": "江苏"
+  },
+  {
+    "id": "prov-jiangsu-2024-A类-53",
+    "category": "provincial",
+    "module": "shuliang",
+    "title": "数量·某商店购进一款无线路由器 ，进价100元/个 ，加价30…",
+    "stem": "某商店购进一款无线路由器 ，进价100元/个 ，加价30%出售 ，半年后将剩下的打7折全部售出 ，共盈利7410元。 若成本利润率为19% ，则打7折售出的无线路由器共有（ ）。",
+    "options": [
+      {
+        "key": "A",
+        "text": "90个"
+      },
+      {
+        "key": "B",
+        "text": "100个"
+      },
+      {
+        "key": "C",
+        "text": "105个"
+      },
+      {
+        "key": "D",
+        "text": "110个"
+      }
+    ],
+    "answer": "D",
+    "explanation": "设打7折售出的无线路由器数量为x 个，打折前售出的无线路由器数量为 y 个。根据题意则有：\n30%×100y+[(100+30%×100)×0.7- 100]x=7410\n[[IMG]]\n,整\n理可得：30y-9x=7410-①;x+y=390…②, 解得x=110。\n故正确答案为D。",
+    "keyPoints": [
+      "设打7折售出的无线路由器数量为x 个，打折前售出的无线路由器数量为 y 个",
+      "根据题意则有：",
+      "%×100y+[(100+30%×100)×0.7- 100]x=7410"
+    ],
+    "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "拔高",
+    "source": "2024年江苏公务员考试《行测》（A类）第53题",
+    "province": "江苏"
+  },
+  {
+    "id": "prov-jiangsu-2024-A类-54",
+    "category": "provincial",
+    "module": "shuliang",
+    "title": "数量·市社保中心引进机器人提高服务效率 。某岗位小张、小王和小…",
+    "stem": "市社保中心引进机器人提高服务效率 。某岗位小张、小王和小李完结一单任务分别需要6分钟、5分钟和4分\n钟 ，3人一天最多可完结259单 。机器人处理一单仅需2分钟 ，处理工单中的80%可正常完结 ，剩余的20%仍需人\n工重新办理 。若某天小张出差 ，则当天小王、小李和机器人（机器人与人的工作时间相同）最多可以完结的工 单总量为：",
+    "options": [
+      {
+        "key": "A",
+        "text": "357单"
+      },
+      {
+        "key": "B",
+        "text": "399单"
+      },
+      {
+        "key": "C",
+        "text": "427单"
+      },
+      {
+        "key": "D",
+        "text": "469单"
+      }
+    ],
+    "answer": "A",
+    "explanation": "根据题意可知，小张、小王和小李每小时完结任务的单数分别为\n[[IMG]]\n单 、\n[[IMG]]\n单和\n[[IMG]]\n单，3人一天最多可完结259单，则一天工作时间为\n[[IMG]]\n小时。已知机\n器人每小时可处理\n[[IMG]]\n单，处理工单中的80%可正常完结，剩余20%仍需人工重新办理，若机\n器人剩余工单由人工重新办理，那么在相同时间内，人工少做的单数与其相同，故无需考虑机器人 处理失败的单数，由此可得当天小王、小李和机器人最多可完结30×7×80%+7×(12+15)=7×(24+27) =357单。\n故正确答案为A。",
+    "keyPoints": [
+      "根据题意可知，小张、小王和小李每小时完结任务的单数分别为",
+      "[[IMG]]",
+      "[[IMG]]"
+    ],
+    "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "拔高",
+    "source": "2024年江苏公务员考试《行测》（A类）第54题",
+    "province": "江苏"
+  },
+  {
+    "id": "prov-jiangsu-2024-A类-55",
+    "category": "provincial",
+    "module": "shuliang",
+    "title": "数量·某超市为回馈消费者 ，将举办购物抽奖活动 。每人只能抽奖…",
+    "stem": "某超市为回馈消费者 ，将举办购物抽奖活动 。每人只能抽奖一次 ，奖金有三种 ：一等奖888元 ，二等奖88元， 三等奖8元 。若前100个中奖者的奖金总额为2480元 ，则其中获得三等奖的最少有：",
+    "options": [
+      {
+        "key": "A",
+        "text": "95人"
+      },
+      {
+        "key": "B",
+        "text": "89人"
+      },
+      {
+        "key": "C",
+        "text": "79人"
+      },
+      {
+        "key": "D",
+        "text": "69人"
+      }
+    ],
+    "answer": "C",
+    "explanation": "设获得一、二、三等奖的人数分别为x 人 、y 人 、z 人，根据前100个中奖者的奖金总额为2480元，\n[[IMG]]\n可 列 方 程 组\n[[IMG]]\n, 整 理 可 得\n,①×11-②得到：10z-100x=790, 即 z=10x+79 。若 想\n要获得三等奖的人数z 最少，则x 应尽量小，则当x=0 时 ，z=79, 即获得三等奖的最少有79人。 故正确答案为C。",
+    "keyPoints": [
+      "[[IMG]]",
+      "可 列 方 程 组"
+    ],
+    "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "拔高",
+    "source": "2024年江苏公务员考试《行测》（A类）第55题",
+    "province": "江苏"
+  },
+  {
+    "id": "prov-jiangsu-2024-A类-56",
+    "category": "provincial",
+    "module": "shuliang",
+    "title": "数量·已知某家族4位成员的年龄总和为142岁 ，且他们的年龄恰…",
+    "stem": "已知某家族4位成员的年龄总和为142岁 ，且他们的年龄恰好成等差数列 ，若其中一位的年龄为47岁 ，则这4人 中最年长者的年龄为（ ）。",
+    "options": [
+      {
+        "key": "A",
+        "text": "65岁"
+      },
+      {
+        "key": "B",
+        "text": "70岁"
+      },
+      {
+        "key": "C",
+        "text": "83岁"
+      },
+      {
+        "key": "D",
+        "text": "90岁"
+      }
+    ],
+    "answer": "B",
+    "explanation": "根据选项可知，47岁不是最年长者的年龄。又根据等差数列性质可知，4位成员中，第二大和第三\n大的年龄和为\n[[IMG]]\n岁，且由于\n[[IMG]]\n,则47岁应是第二大的年龄，那么第三\n大的年龄为71-47=24岁，年龄公差为47-24=23岁，故这4人中最年长者的年龄为47+23=70岁。 故正确答案为B。",
+    "keyPoints": [
+      "根据选项可知，47岁不是最年长者的年龄",
+      "又根据等差数列性质可知，4位成员中，第二大和第三",
+      "大的年龄和为"
+    ],
+    "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "拔高",
+    "source": "2024年江苏公务员考试《行测》（A类）第56题",
+    "province": "江苏"
+  },
+  {
+    "id": "prov-jiangsu-2024-A类-57",
+    "category": "provincial",
+    "module": "shuliang",
+    "title": "数量·小王去超市买办公用品 ，经费恰好可以买18个计算器或者买…",
+    "stem": "小王去超市买办公用品 ，经费恰好可以买18个计算器或者买30个订书机或者买50个档案盒 ，若购买了6个计算 器、8个订书机后 ，剩下的经费全部购买了档案盒 ，则他购买档案盒的个数是：",
+    "options": [
+      {
+        "key": "A",
+        "text": "10"
+      },
+      {
+        "key": "B",
+        "text": "14"
+      },
+      {
+        "key": "C",
+        "text": "20"
+      },
+      {
+        "key": "D",
+        "text": "26"
+      }
+    ],
+    "answer": "C",
+    "explanation": "方法一 ：赋值小王购买办公用品的经费为450(18、30和50的最小公倍数)元，则每个计算器为\n[[IMG]]\n元，每个订书机为\n[[IMG]]\n元，每个档案盒为\n[[IMG]]\n元。若小王购买了6个计 算器、8个订书机，则剩余经费为450-25×6-15×8=180元，还可购买档案盒\n[[IMG]]\n个。\n方法二：设小王购买办公用品的经费为a 元，计算器的价格为x 元/个，订书机的价格为y 元/个，\n档案盒的价格为z 元/个。根据题意可得： a=18x=30y=50z, 即\n[[IMG]]\n重\n[[IMG]]\n重\n[[IMG]]\n。若\n小王购买了6个计算器、8个订书机，则剩余经费为\n[[IMG]]\n元，还可购 买档案盒\n[[IMG]]\n个。\n故正确答案为C。",
+    "keyPoints": [
+      "[[IMG]]",
+      "元，每个订书机为"
+    ],
+    "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "拔高",
+    "source": "2024年江苏公务员考试《行测》（A类）第57题",
+    "province": "江苏"
+  },
+  {
+    "id": "prov-jiangsu-2024-A类-58",
+    "category": "provincial",
+    "module": "shuliang",
+    "title": "数量·某品牌奶茶所用纸杯均为圆台型 。已知M型纸杯的上、下口直…",
+    "stem": "某品牌奶茶所用纸杯均为圆台型 。已知M型纸杯的上、下口直径分别为70毫米、50毫米 ，高为80毫米 ；N型纸杯 的上、下口直径分别为60毫米、45毫米 ，高为60毫米 。则M型纸杯与N型纸杯的侧面积之比为（ ）。",
+    "options": [
+      {
+        "key": "A",
+        "text": "16 ：7"
+      },
+      {
+        "key": "B",
+        "text": "32 ：21"
+      },
+      {
+        "key": "C",
+        "text": "48 ：35"
+      },
+      {
+        "key": "D",
+        "text": "64 ：49"
+      }
+    ],
+    "answer": "B",
+    "explanation": "本题考查求圆台的侧面积， S 圆台侧=π(r+R)l\n面 母 线 长 ( 如 下 图 所 示 ) 。M 型 纸 杯 ： l=√80²+(35-25)²=√80²+10²=10√8²+1²=10√65\n, 其 中r 和 R 分别为上、下底面的半径，1为侧\n[[IMG]]\n[[IMG]]\n毫 米 ， 则\n毫 米 ，\n[[IMG]]\n毫 米 ；N 型 纸 杯 ：\n[[IMG]]\nr=22.5 毫 米 ，R=30 毫米，则\nl=√60²+(30-22.5)²=√60²+7.5²=7.5√65\n[[IMG]]\n毫米。故\n所求比例\n[[IMG]]\n故正确答案为B。\n[[IMG]]",
+    "keyPoints": [
+      "本题考查求圆台的侧面积， S 圆台侧=π(r+R)l",
+      "面 母 线 长 ( 如 下 图 所 示 )"
+    ],
+    "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "拔高",
+    "source": "2024年江苏公务员考试《行测》（A类）第58题",
+    "province": "江苏"
+  },
+  {
+    "id": "prov-jiangsu-2024-A类-59",
+    "category": "provincial",
+    "module": "shuliang",
+    "title": "数量·小张所在单位共有4个科室 ，现以科室为单位组织文艺演出 …",
+    "stem": "小张所在单位共有4个科室 ，现以科室为单位组织文艺演出 ，每个科室出2个节目 。演出结束后 ， 因8个节目都 非常精彩 ，决定从中随机选3个节目参加上级组织的汇演 。则小张所在科室出的节目至少有一个被选送参加汇 演的概率是：\nA.\n\nB.\n\nC.\n\nD.",
+    "options": [],
+    "answer": "D",
+    "explanation": "根据题意，总情况是从8个节目中随机选出3个，情况数为\n种；符合条件的情况是小张所在科\n室出的2个节目中至少有一个被选送，即有1个节目或者2个节目被选送。正面情况较复杂，可从 反面分析。反面情况为3个选送节目均不来自小张所在的科室，则从另外8-2=6个节目中随机选出\n[[IMG]]\n3个，情况数为\n[[IMG]]\n种。故题干所求概率P=1-P3 个选送节目均不来自小张所在的科室\n[[IMG]]\n故正确答案为D。",
+    "keyPoints": [
+      "根据题意，总情况是从8个节目中随机选出3个，情况数为",
+      "种；符合条件的情况是小张所在科",
+      "室出的2个节目中至少有一个被选送，即有1个节目或者2个节目被选送"
+    ],
+    "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "拔高",
+    "source": "2024年江苏公务员考试《行测》（A类）第59题",
+    "isImageQuestion": true,
+    "province": "江苏"
+  },
+  {
+    "id": "prov-jiangsu-2024-A类-60",
+    "category": "provincial",
+    "module": "shuliang",
+    "title": "数量·某夫妇拟从2023年12月1 日（星期五）起实施健身计划…",
+    "stem": "某夫妇拟从2023年12月1 日（星期五）起实施健身计划 。妻子的计划是当天的日期为质数就游泳 ，丈夫的计划 是每周一、三、五游泳 。按该夫妇的计划 ，他们2023年12月同日游泳的天数是（ ）。",
+    "options": [
+      {
+        "key": "A",
+        "text": "5"
+      },
+      {
+        "key": "B",
+        "text": "4"
+      },
+      {
+        "key": "C",
+        "text": "3"
+      },
+      {
+        "key": "D",
+        "text": "2"
+      }
+    ],
+    "answer": "C",
+    "explanation": "因丈夫每周一 、三、五游泳，且2023年12月1日为周五，所以2023年12月丈夫前三次游泳的日 期为1日(周五)、4日(周一)、6日(周三),以7天一星期的周期进行推算，2023年12月丈夫游 泳的日期如下表所示：\n[[TABLE imgs=0 rows=6]]\n星期一 | 星期二 | 星期三 | 星期四 | 星期五 | 星期六 | 星期日\n第1周 | 1 日\n第2周 | 4日 | 6 日 | 8日\n第3周 | 11日 | 13日 | 15日\n第4周 | 18日 | 20日 | 2 2 日\n第5周 | 2 5 日 | 27日 | 29日\n[[/TABLE]]\n其中日期为质数的有11日、13日、29日，共3天，即该夫妇2023年12月同日游泳的天数是3天。 故正确答案为C。",
+    "keyPoints": [
+      "[[TABLE imgs=0 rows=6]]",
+      "星期一 | 星期二 | 星期三 | 星期四 | 星期五 | 星期六 | 星期日"
+    ],
+    "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "拔高",
+    "source": "2024年江苏公务员考试《行测》（A类）第60题",
+    "province": "江苏"
+  },
+  {
+    "id": "prov-jiangsu-2024-A类-61",
+    "category": "provincial",
+    "module": "shuliang",
+    "title": "数量·甲、乙、丙三人合作完成一项任务 。乙先做9天 ，再和甲合…",
+    "stem": "甲、乙、丙三人合作完成一项任务 。乙先做9天 ，再和甲合作6天 ，完成了任务的60% ，剩下的任务 ，若由丙 做 ，恰好10天完成 。甲、乙、丙三人的工作效率之比是：",
+    "options": [
+      {
+        "key": "A",
+        "text": "5 ：4 ：6"
+      },
+      {
+        "key": "B",
+        "text": "6 ：4 ：5"
+      },
+      {
+        "key": "C",
+        "text": "10： 15： 12"
+      },
+      {
+        "key": "D",
+        "text": "12： 15： 10"
+      }
+    ],
+    "answer": "A",
+    "explanation": "根据题意可得，9×乙+6×(甲+乙)=60%×工作总量 · · · · · ·①,10×丙=(1-60%)×工作总\n量 · · · · · ·②,①÷②可得：\n[[IMG]]\n,则2甲\n+5乙=5丙，依次代入选项：\nA项：赋值甲、乙、丙三人的工作效率分别为5、4、6,则2×5+5×4=30=5×6,满足题干条件，当 选；\nB项：赋值甲、乙、丙三人的工作效率分别为6、4、5,则2×6+5×4=32≠5×5,不满足题 干条件，排除；\nC项：赋值甲、乙、丙三人的工作效率分别为10、15、12,则2×10+5×15=95≠5×12, 不满足题干条件，排除；\nD项：赋值甲、乙、丙三人的工作效率分别为12、15、10,则2×12+5×15=99≠5×10,\n不满足题干条件，排除。 故正确答案为A。",
+    "keyPoints": [
+      "量 · · · · · ·②,①÷②可得：",
+      "[[IMG]]"
+    ],
+    "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "拔高",
+    "source": "2024年江苏公务员考试《行测》（A类）第61题",
+    "province": "江苏"
+  },
+  {
+    "id": "prov-jiangsu-2024-A类-62",
+    "category": "provincial",
+    "module": "shuliang",
+    "title": "数量·某公司派出5名人力资源专员去2个一线城市和2个二线城市参…",
+    "stem": "某公司派出5名人力资源专员去2个一线城市和2个二线城市参加秋季招聘会 。若每名专员只去其中1个城市 ，每 个一线城市至少派1名专员 ，每个二线城市只派1名专员 ，则不同的派出方法共有（ ）。",
+    "options": [
+      {
+        "key": "A",
+        "text": "60种"
+      },
+      {
+        "key": "B",
+        "text": "72种"
+      },
+      {
+        "key": "C",
+        "text": "120种"
+      },
+      {
+        "key": "D",
+        "text": "144种"
+      }
+    ],
+    "answer": "C",
+    "explanation": "5名专员分配到4个城市，其中每个一线城市至少派1名专员，每个二线城市只派1名专员，则5名 专员中有3名专员分配到2个一线城市(分别为2名专员和1名专员),其余2名专员分配到2个二 线城市(各1名专员)。从5名专员中选出2名专员，再从剩下3名专员中选出1名专员，这两组人\n分配到2个一线城市，有\n[[IMG]]\n种；剩下2名专员分配到2个二线城市，有\n[[IMG]]\n种。分步用乘法，则不同的派出方法共有60×2=120种。 故正确答案为C。",
+    "keyPoints": [
+      "从5名专员中选出2名专员，再从剩下3名专员中选出1名专员，这两组人",
+      "分配到2个一线城市，有"
+    ],
+    "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "拔高",
+    "source": "2024年江苏公务员考试《行测》（A类）第62题",
+    "province": "江苏"
+  },
+  {
+    "id": "prov-jiangsu-2024-A类-63",
+    "category": "provincial",
+    "module": "shuliang",
+    "title": "数量·小陆参加植树活动 ，他到达植树地点时 ，第一排预设点位中…",
+    "stem": "小陆参加植树活动 ，他到达植树地点时 ，第一排预设点位中的9个已有人在植树 ，若他在第一排剩余的任意点 位上植树 ，都恰好有一个相邻点位有人在植树 ，则该植树点第一排的预设点位最多有：",
+    "options": [
+      {
+        "key": "A",
+        "text": "27个"
+      },
+      {
+        "key": "B",
+        "text": "28个"
+      },
+      {
+        "key": "C",
+        "text": "29个"
+      },
+      {
+        "key": "D",
+        "text": "30个"
+      }
+    ],
+    "answer": "A",
+    "explanation": "根据题意，小陆在第一排剩余的任意点位上植树，都恰好有一个相邻点位有人在植树，且要求预设 点位数尽可能多，则每个已有人在植树的点位之间应该有两个无人植树的点位，如下图所示。(圆形 和三角形分别代表无人植树和已有人在植树的点位)\n[[IMG]]\n为使预设点位数尽可能多，则第一个已有人在植树的点位左侧最多可安排一个无人植树的点位，最 后一个已有人在植树的点位右侧最多可安排一个无人植树的点位，如下图所示。\n[[IMG]]\n即相当于每3个点位为一个周期，每个周期中有1个已有人在植树的点位，且位于中间位置。根据\n已有人在植树的点位有9个，则该植树点第一排最多有9×3=27个预设点位。 故正确答案为A。",
+    "keyPoints": [
+      "(圆形 和三角形分别代表无人植树和已有人在植树的点位)",
+      "[[IMG]]"
+    ],
+    "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "拔高",
+    "source": "2024年江苏公务员考试《行测》（A类）第63题",
+    "province": "江苏"
+  },
+  {
+    "id": "prov-jiangsu-2024-A类-64",
+    "category": "provincial",
+    "module": "shuliang",
+    "title": "数量·某基层工会共有180名会员 ，举行甲、乙两项工会活动 ，…",
+    "stem": "某基层工会共有180名会员 ，举行甲、乙两项工会活动 ，60%的会员参加甲活动 ，50%的会员参加参加乙活动， 若只参加甲活动的会员有80人 ，则只参加乙活动的会员有（ ）。",
+    "options": [
+      {
+        "key": "A",
+        "text": "10人"
+      },
+      {
+        "key": "B",
+        "text": "28人"
+      },
+      {
+        "key": "C",
+        "text": "62人"
+      },
+      {
+        "key": "D",
+        "text": "72人"
+      }
+    ],
+    "answer": "C",
+    "explanation": "根据题意可得，参加甲活动的会员人数为180×60%=108人，参加乙活动的会员人数为180×50%=90 人，根据“只参加甲活动的会员有80人”,可得甲、乙两项活动都参加的会员人数为108-80=28人， 如下图所示：\n甲活动 乙活动\n[[IMG]]\n则只参加乙活动的会员有90-28=62人。 故正确答案为C。",
+    "keyPoints": [
+      "甲活动 乙活动",
+      "[[IMG]]"
+    ],
+    "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "拔高",
+    "source": "2024年江苏公务员考试《行测》（A类）第64题",
+    "province": "江苏"
+  },
+  {
+    "id": "prov-jiangsu-2024-A类-65",
+    "category": "provincial",
+    "module": "shuliang",
+    "title": "数量·如图所示 ，ABCDEF是一个边长为2的正六边形 ， 圆…",
+    "stem": "如图所示 ，ABCDEF是一个边长为2的正六边形 ， 圆O是△ACE 的内切圆 ，则圆O的面积是（ ）。",
+    "options": [
+      {
+        "key": "A",
+        "text": "T"
+      },
+      {
+        "key": "B",
+        "text": "2m"
+      },
+      {
+        "key": "C",
+        "text": "D."
+      }
+    ],
+    "answer": "A",
+    "explanation": "方法一：由于 ABCDEF 是正六边形，可得 即 为正三角形，则 内切圆\n△ACE △ACE\n的圆心0即为正六边形ABCDEF的中心。作 如下图所示：\n△ACE\n的中线AH, 连接FO,\n△AOF\n为正三角形，\n[[IMG]]\n已 知 AF=FE=2, 且 正 六 边 形 内 角 ∠AFE=120°, 则∠FAE=∠FEA=30°,\nAE=√3×AF=2√3 。 在 直 角 △AEH 中 ， ∠AEH=60°\n[[IMG]]\n, 且A0=AF=2, 所以所求圆半径OH=AH-A0=3-2=1,所 求 圆\n面 积 = πr²=π×1²=π。\n方法二：如下图所示，连接 A0、FO, △AOF为正三角形，由干A0为\n[[IMG]]\n的中线且 ∠CAF=90°,则∠CAO=∠OAG=∠GAF=30°,AG为△A OF的中线，即所求圆半\n径\n[[IMG]]\n,所求圆面积=πr²=π×1²=π。\n[[IMG]]\n故正确答案为A。",
+    "keyPoints": [
+      "方法一：由于 ABCDEF 是正六边形，可得 即 为正三角形，则 内切圆",
+      "△ACE △ACE",
+      "的圆心0即为正六边形ABCDEF的中心"
+    ],
+    "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "拔高",
+    "source": "2024年江苏公务员考试《行测》（A类）第65题",
+    "isImageQuestion": true,
+    "province": "江苏"
+  },
+  {
+    "id": "prov-jiangsu-2024-B类-46",
+    "category": "provincial",
+    "module": "shuliang",
+    "title": "数量·10 ，15 ，25 ，35 ，55 ，（ ）。",
+    "stem": "10 ，15 ，25 ，35 ，55 ，（ ）。",
+    "options": [
+      {
+        "key": "A",
+        "text": "65"
+      },
+      {
+        "key": "B",
+        "text": "70"
+      },
+      {
+        "key": "C",
+        "text": "80"
+      },
+      {
+        "key": "D",
+        "text": "85"
+      }
+    ],
+    "answer": "A",
+    "explanation": "观察数列特征，数列各项均为 5 的倍数，优先考虑因数分解数列。原数列可转化为：2×5，3×5， 5×5，7×5，11×5，（ ）。乘号左侧为：2，3，5，7，11，（ ），是质数列，则下一项为 13；乘号右 侧各项均为 5，故所求项=13×5=65。\n故正确答案为 A。",
+    "keyPoints": [
+      "观察数列特征，数列各项均为 5 的倍数，优先考虑因数分解数列",
+      "原数列可转化为：2×5，3×5， 5×5，7×5，11×5，（ ）"
+    ],
+    "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "拔高",
+    "source": "2024年江苏公务员考试《行测》（B类）第46题",
+    "province": "江苏"
+  },
+  {
+    "id": "prov-jiangsu-2024-B类-47",
+    "category": "provincial",
+    "module": "shuliang",
+    "title": "数量·-9 ，-1 ，11 ，29 ，56 ，（ ）。",
+    "stem": "-9 ，-1 ，11 ，29 ，56 ，（ ）。",
+    "options": [
+      {
+        "key": "A",
+        "text": "78.5"
+      },
+      {
+        "key": "B",
+        "text": "93"
+      },
+      {
+        "key": "C",
+        "text": "96.5"
+      },
+      {
+        "key": "D",
+        "text": "100"
+      }
+    ],
+    "answer": "C",
+    "explanation": "数列无明显特征，优先考虑多级数列。后项-前项可得新数列：8，12，18，27，（ ），是公比为 1.5\n的等比数列，则新数列下一项为 27×1.5=40.5。故所求项=56+40.5=96.5。 故正确答案为 C。",
+    "keyPoints": [
+      "数列无明显特征，优先考虑多级数列",
+      "后项-前项可得新数列：8，12，18，27，（ ），是公比为 1.5",
+      "的等比数列，则新数列下一项为 27×1.5=40.5"
+    ],
+    "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "拔高",
+    "source": "2024年江苏公务员考试《行测》（B类）第47题",
+    "province": "江苏"
+  },
+  {
+    "id": "prov-jiangsu-2024-B类-48",
+    "category": "provincial",
+    "province": "江苏",
+    "module": "shuliang",
+    "title": "第48题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 48 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "拔高",
+    "source": "2024年江苏公务员考试《行测》（B类）第48题",
+    "isPlaceholder": true
+  },
+  {
+    "id": "prov-jiangsu-2024-B类-49",
+    "category": "provincial",
+    "module": "shuliang",
+    "title": "数量·， ， ， ， ，（ ）。 A. B. C. D.",
+    "stem": "，\n\n，\n\n，\n\n，\n\n，（ ）。\n\n\n\n\n\nA.\n\nB.\n\nC.\n\nD.",
+    "options": [],
+    "answer": "D",
+    "explanation": "观察数列，有开方数和被开方数，优先考虑机械划分。原数列可转化为：3,V5,V9,V17, V33.()。被开方数形成数列：3.5.9,17,33,(),后项减前项得到：2,4,8,16,(),\n是公比为2的等比数列，下一项为16×2=32,则所求项被开方数为33+32=65。开方数形成数列：2, 5,10,17,26,(),后项减前项得到：3,5,7,9,(),是公差为2的等差数列，下一项为9+2=11,\n则所求项开方数为26+11=37。故所求项为V65。 故正确答案为D。",
+    "keyPoints": [
+      "观察数列，有开方数和被开方数，优先考虑机械划分",
+      "原数列可转化为：3,V5,V9,V17, V33.()"
+    ],
+    "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "拔高",
+    "source": "2024年江苏公务员考试《行测》（B类）第49题",
+    "isImageQuestion": true,
+    "province": "江苏"
+  },
+  {
+    "id": "prov-jiangsu-2024-B类-50",
+    "category": "provincial",
+    "module": "shuliang",
+    "title": "数量·, , , , , ( ) 。 A. B. C. D.",
+    "stem": ", , , , , ( ) 。\nA.\n\nB.\n\nC.\n\nD.",
+    "options": [],
+    "answer": "C",
+    "explanation": "数列各项均为分数，考虑分数数列。分子、分母分开看无明显规律，考虑整体看。各项分子、分母相 加得到新数列：3,6,12,24,48,(),是公比为2的等比数列，则新数列下一项为48×2=96,即\n所求项分子、分母之和为96,观察选项，只有C 项47+49=96满足。 故正确答案为C。",
+    "keyPoints": [
+      "数列各项均为分数，考虑分数数列",
+      "分子、分母分开看无明显规律，考虑整体看"
+    ],
+    "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "拔高",
+    "source": "2024年江苏公务员考试《行测》（B类）第50题",
+    "isImageQuestion": true,
+    "province": "江苏"
+  },
+  {
+    "id": "prov-jiangsu-2024-B类-51",
+    "category": "provincial",
+    "module": "shuliang",
+    "title": "数量·某厂推出含酒的新品种巧克力 ，每颗的质量为10克 ，其中…",
+    "stem": "某厂推出含酒的新品种巧克力 ，每颗的质量为10克 ，其中含酒2% ，售价为17.5元 ，若酒的密度为0.9克/毫升， 则500毫升酒做成的巧克力销售额为（ ）。",
+    "options": [
+      {
+        "key": "A",
+        "text": "35875元"
+      },
+      {
+        "key": "B",
+        "text": "36375元"
+      },
+      {
+        "key": "C",
+        "text": "37625元"
+      },
+      {
+        "key": "D",
+        "text": "39375元"
+      }
+    ],
+    "answer": "D",
+    "explanation": "根据公式：质量=密度×体积，可得500毫升酒的质量=0.9×500=450克，每颗巧克力含酒质量\n=10×2%=0.2克。则500毫升酒做成的巧克力销售额 故正确答案为D。\n[[IMG]]\n元。",
+    "keyPoints": [
+      "=10×2%=0.2克",
+      "则500毫升酒做成的巧克力销售额 故正确答案为D"
+    ],
+    "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "拔高",
+    "source": "2024年江苏公务员考试《行测》（B类）第51题",
+    "province": "江苏"
+  },
+  {
+    "id": "prov-jiangsu-2024-B类-52",
+    "category": "provincial",
+    "module": "shuliang",
+    "title": "数量·一列长为210米的动车以180千米/小时的速度行驶 。某…",
+    "stem": "一列长为210米的动车以180千米/小时的速度行驶 。某乘客拍窗外风景视频时 ，恰好拍到平行铁轨上一列长420 米、相向而行的高速列车 ，该高速列车经过窗户的时间是3.6秒 。若不计窗户长度 ，则该高速列车的速度为\n( ) 。",
+    "options": [
+      {
+        "key": "A",
+        "text": "210千米/时"
+      },
+      {
+        "key": "B",
+        "text": "240千米/时"
+      },
+      {
+        "key": "C",
+        "text": "450千米/时"
+      },
+      {
+        "key": "D",
+        "text": "630千米/时"
+      }
+    ],
+    "answer": "B",
+    "explanation": "如下图所示，乘客拍到该高速列车即为车窗与平行列车的车头相对重合，该高速列车完全经过即为 车窗与平行列车的车尾相对重合，则本题可转化为车窗与平行列车车尾的相遇问题，相遇距离即为 平 行 列 车 的 车 长 。 根 据 相 遇 公 式 ： S 和=V和×t , 可 得\n[[IMG]]\n千米/时，则该高速列车的速度=420-180=240千米/\n时。\n[[IMG]]\n故正确答案为B。",
+    "keyPoints": [
+      "根 据 相 遇 公 式 ： S 和=V和×t , 可 得",
+      "[[IMG]]"
+    ],
+    "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "拔高",
+    "source": "2024年江苏公务员考试《行测》（B类）第52题",
+    "province": "江苏"
+  },
+  {
+    "id": "prov-jiangsu-2024-B类-53",
+    "category": "provincial",
+    "module": "shuliang",
+    "title": "数量·某商店购进一款无线路由器 ，进价100元/个 ，加价30…",
+    "stem": "某商店购进一款无线路由器 ，进价100元/个 ，加价30%出售 ，半年后将剩下的打7折全部售出 ，共盈利7410元。 若成本利润率为19% ，则打7折售出的无线路由器共有（ ）。",
+    "options": [
+      {
+        "key": "A",
+        "text": "90个"
+      },
+      {
+        "key": "B",
+        "text": "100个"
+      },
+      {
+        "key": "C",
+        "text": "105个"
+      },
+      {
+        "key": "D",
+        "text": "110个"
+      }
+    ],
+    "answer": "D",
+    "explanation": "设打7折售出的无线路由器数量为x 个，打折前售出的无线路由器数量为y 个。根据题意则有：\n30%×100y+[(100+30%×100)×0.7- 100]z=7410,\n[[IMG]]\n,整\n理可得：30y-9x=7410…①;x+y=390…②, 解 得x=110。\n故正确答案为D。",
+    "keyPoints": [
+      "设打7折售出的无线路由器数量为x 个，打折前售出的无线路由器数量为y 个",
+      "根据题意则有：",
+      "%×100y+[(100+30%×100)×0.7- 100]z=7410,"
+    ],
+    "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "拔高",
+    "source": "2024年江苏公务员考试《行测》（B类）第53题",
+    "province": "江苏"
+  },
+  {
+    "id": "prov-jiangsu-2024-B类-54",
+    "category": "provincial",
+    "module": "shuliang",
+    "title": "数量·市社保中心引进机器人提高服务效率 。某岗位小张、小王和小…",
+    "stem": "市社保中心引进机器人提高服务效率 。某岗位小张、小王和小李完结一单任务分别需要6分钟、5分钟和4分\n钟 ，3人一天最多可完结259单 。机器人处理一单仅需2分钟 ，处理工单中的80%可正常完结 ，剩余的20%仍需人 工重新办理 。若某天小张出差 ，则当天小王、小李和机器人（机器人与人的工作时间相同）最多可以完结的工 单总量为：",
+    "options": [
+      {
+        "key": "A",
+        "text": "357单"
+      },
+      {
+        "key": "B",
+        "text": "399单"
+      },
+      {
+        "key": "C",
+        "text": "427单"
+      },
+      {
+        "key": "D",
+        "text": "469单"
+      }
+    ],
+    "answer": "A",
+    "explanation": "[[IMG]]\n根据题意可知，小张、小王和小李每小时完结任务的单数分别为\n[[IMG]]\n单 、\n[[IMG]]\n单和 单，3人一天最多可完结259单，则一天工作时间为\n[[IMG]]\n小时。已知机\n器人每小时可处理\n[[IMG]]\n单，处理工单中的80%可正常完结，剩余20%仍需人工重新办理，若机\n器人剩余工单由人工重新办理，那么在相同时间内，人工少做的单数与其相同，故无需考虑机器人 处理失败的单数，由此可得当天小王、小李和机器人最多可完结30×7×80%+7×(12+15)=7×(24+27) =357单。\n故正确答案为A。",
+    "keyPoints": [
+      "[[IMG]]",
+      "根据题意可知，小张、小王和小李每小时完结任务的单数分别为",
+      "[[IMG]]"
+    ],
+    "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "拔高",
+    "source": "2024年江苏公务员考试《行测》（B类）第54题",
+    "province": "江苏"
+  },
+  {
+    "id": "prov-jiangsu-2024-B类-55",
+    "category": "provincial",
+    "module": "shuliang",
+    "title": "数量·新华书店在售的某书籍有精装本和平装本 ，精装本售价80元…",
+    "stem": "新华书店在售的某书籍有精装本和平装本 ，精装本售价80元/本 ，平装本售价50元/本 ，每购买20本精装本赠送1 本平装本 。若某单位花12100元购买了200本（含赠送的平装本） ，则其中精装本有：",
+    "options": [
+      {
+        "key": "A",
+        "text": "75本"
+      },
+      {
+        "key": "B",
+        "text": "77本"
+      },
+      {
+        "key": "C",
+        "text": "79本"
+      },
+      {
+        "key": "D",
+        "text": "81本"
+      }
+    ],
+    "answer": "A",
+    "explanation": "由选项可知，购买精装本的数量并非20的整数倍，考虑代入排除法解题，设购买了x 本平装本。\n代入 A 项：若精装本有75本，由\n[[IMG]]\n,可知赠送了3本平装本。由此可列式：\n75+x+3=200, 解 得x=122, 买这些书籍共花费75×80+122×50=12100元，满足题意，无需验证其他 选项。\n故正确答案为A。",
+    "keyPoints": [
+      "代入 A 项：若精装本有75本，由",
+      "[[IMG]]"
+    ],
+    "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "拔高",
+    "source": "2024年江苏公务员考试《行测》（B类）第55题",
+    "province": "江苏"
+  },
+  {
+    "id": "prov-jiangsu-2024-B类-56",
+    "category": "provincial",
+    "module": "shuliang",
+    "title": "数量·已知某家族4位成员的年龄总和为142岁 ，且他们的年龄恰…",
+    "stem": "已知某家族4位成员的年龄总和为142岁 ，且他们的年龄恰好成等差数列 ，若其中一位的年龄为47岁 ，则这4人 中最年长者的年龄为（ ）。",
+    "options": [
+      {
+        "key": "A",
+        "text": "65岁"
+      },
+      {
+        "key": "B",
+        "text": "70岁"
+      },
+      {
+        "key": "C",
+        "text": "83岁"
+      },
+      {
+        "key": "D",
+        "text": "90岁"
+      }
+    ],
+    "answer": "B",
+    "explanation": "根据选项可知，47岁不是最年长者的年龄。又根据等差数列性质可知，4位成员中，第二大和第三\n大的年龄和为\n[[IMG]]\n岁，且由于\n[[IMG]]\n,则47岁应是第二大的年龄，那么第三\n大的年龄为71-47=24岁，年龄公差为47-24=23岁，故这4人中最年长者的年龄为47+23=70岁。 故正确答案为B。",
+    "keyPoints": [
+      "根据选项可知，47岁不是最年长者的年龄",
+      "又根据等差数列性质可知，4位成员中，第二大和第三",
+      "大的年龄和为"
+    ],
+    "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "拔高",
+    "source": "2024年江苏公务员考试《行测》（B类）第56题",
+    "province": "江苏"
+  },
+  {
+    "id": "prov-jiangsu-2024-B类-57",
+    "category": "provincial",
+    "module": "shuliang",
+    "title": "数量·某公司6个部门共192名员工 ，其中5个部门的员工人数之…",
+    "stem": "某公司6个部门共192名员工 ，其中5个部门的员工人数之比为2 ：3 ：4 ：5 ：6 。现将6个部门合并成3个 ，每个部 门都由原来的两个部门合并而成 。若合并后3个部门的员工人数之比为3 ：4 ：5 ，则合并前人数最少的部门的员 工有：",
+    "options": [
+      {
+        "key": "A",
+        "text": "16人"
+      },
+      {
+        "key": "B",
+        "text": "17人"
+      },
+      {
+        "key": "C",
+        "text": "18人"
+      },
+      {
+        "key": "D",
+        "text": "19人"
+      }
+    ],
+    "answer": "A",
+    "explanation": "设其中5个部门的员工人数分别为2x、3x、4x、5x、6x, 另外1个部门的员工人数为 a, 则 有 2x+3x+4x+5x+6x+a=192, 整理可得20x+a=192。合并前人数最少的部门员工人数为2x或 a, 因人数 为整数，则20x的尾数为0 ,a 的尾数为2-0=2,观察选项尾数均不满足，则可判断合并前人数最少 的部门为2x人，根据所求应为2的倍数，可排除B 、D两项。由于求人数最少，则从小到大代入。 代入A项，2x=16, 解 得x=8, 即其中5个部门的员工人数分别为16、24、32、40、48,则a=192- 20x=32。设合并后3个部门的员工人数分别为3y、4y、5y,则 有 3y+4y+5y=192,解得y=16,即 合 并\n后3个部门的员工人数分别为48、64、80,因16+32=48,24+40=64,48+32=80,满足题干所有条件， 当选。\n故正确答案为A。",
+    "keyPoints": [
+      "由于求人数最少，则从小到大代入"
+    ],
+    "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "拔高",
+    "source": "2024年江苏公务员考试《行测》（B类）第57题",
+    "province": "江苏"
+  },
+  {
+    "id": "prov-jiangsu-2024-B类-58",
+    "category": "provincial",
+    "module": "shuliang",
+    "title": "数量·某品牌奶茶所用纸杯均为圆台型 。已知M型纸杯的上、下口直…",
+    "stem": "某品牌奶茶所用纸杯均为圆台型 。已知M型纸杯的上、下口直径分别为70毫米、50毫米 ，高为80毫米 ；N型纸杯 的上、下口直径分别为60毫米、45毫米 ，高为60毫米 。则M型纸杯与N型纸杯的侧面积之比为（ ）。",
+    "options": [
+      {
+        "key": "A",
+        "text": "16 ：7"
+      },
+      {
+        "key": "B",
+        "text": "32 ：21"
+      },
+      {
+        "key": "C",
+        "text": "48 ：35"
+      },
+      {
+        "key": "D",
+        "text": "64 ：49"
+      }
+    ],
+    "answer": "B",
+    "explanation": "本题考查求圆台的侧面积，S圆台侧=π(r+R)l.其中r和R分别为上、下底面的半径，1为侧\n面 母 线 长 ( 如 下 图 所 示 ) 。M 型 纸 杯 ：\n[[IMG]]\n毫米，\n[[IMG]]\n毫米，则\nl=√80²+(35-25)²=√80²+10²=10√8²+12=10√65\n[[IMG]]\n毫 米 ；N 型纸杯：\nr=22.5毫米，R=30 毫米，则l=√60²+(30-22.5)²=√60²+7.5²=7.5√65\n[[IMG]]\n毫米。故\n所求比例\n[[IMG]]\n[[IMG]]\n故正确答案为B。",
+    "keyPoints": [
+      "面 母 线 长 ( 如 下 图 所 示 )",
+      "M 型 纸 杯 ："
+    ],
+    "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "拔高",
+    "source": "2024年江苏公务员考试《行测》（B类）第58题",
+    "province": "江苏"
+  },
+  {
+    "id": "prov-jiangsu-2024-B类-59",
+    "category": "provincial",
+    "module": "shuliang",
+    "title": "数量·财务部推荐本部门员工小王和小李参加公司最佳员工评选 。若…",
+    "stem": "财务部推荐本部门员工小王和小李参加公司最佳员工评选 。若小王、小李成功入选的概率分别为0.6和0.5 ，两 人都成功入选的概率为0.25 ，则财务部有员工被评为公司最佳员工的概率为：",
+    "options": [
+      {
+        "key": "A",
+        "text": "0.6"
+      },
+      {
+        "key": "B",
+        "text": "0.75"
+      },
+      {
+        "key": "C",
+        "text": "0.8"
+      },
+      {
+        "key": "D",
+        "text": "0.85"
+      }
+    ],
+    "answer": "B",
+    "explanation": "财务部共推荐两名员工，则有员工被评为公司最佳员工的情况共有以下3种： 情况一：只有小王入选，而小李没入选，此时的概率=0.6×(1-0.5)=0.3; 情况二：只有小李入选，而小王没入选，此时的概率=(1-0.6)×0.5=0.2; 情况三：小王和小李同时入选，此时的概率=0.25。\n分类用加法，则所求概率=0.3+0.2+0.25=0.75。 故正确答案为B。\n【解析60一正确答案B】\n因丈夫每周一、三、五游泳，且2023年12月1日为周五，所以2023年12月丈夫前三次游泳的日 期为1日(周五)、4日(周一)、6日(周三),以7天一星期的周期进行推算，2023年12月丈夫游 泳的日期如下表所示：\n[[TABLE imgs=0 rows=6]]\n星期一 | 星期二 | 星期三 | 星期四 | 星期五 | 星期六 | 星期日\n第1周 | 1 日\n第2周 | 4日 | 6日 | 8日\n第3周 | 11日 | 13日 | 15日\n第4周 | 18日 | 20日 | 22日\n第5周 | 25日 | 27日 | 29日\n[[/TABLE]]\n其中日期为质数的有11日、13日、29日，共3天，即该夫妇2023年12月同日游泳的天数是3天。 故正确答案为C。",
+    "keyPoints": [
+      "分类用加法，则所求概率=0.3+0.2+0.25=0.75",
+      "故正确答案为B"
+    ],
+    "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "拔高",
+    "source": "2024年江苏公务员考试《行测》（B类）第59题",
+    "province": "江苏"
+  },
+  {
+    "id": "prov-jiangsu-2024-B类-60",
+    "category": "provincial",
+    "module": "shuliang",
+    "title": "数量·某夫妇拟从2023年12月1 日（星期五）起实施健身计划…",
+    "stem": "某夫妇拟从2023年12月1 日（星期五）起实施健身计划 。妻子的计划是当天的日期为质数就游泳 ，丈夫的计划 是每周一、三、五游泳 。按该夫妇的计划 ，他们2023年12月同日游泳的天数是（ ）。",
+    "options": [
+      {
+        "key": "A",
+        "text": "5"
+      },
+      {
+        "key": "B",
+        "text": "4"
+      },
+      {
+        "key": "C",
+        "text": "3"
+      },
+      {
+        "key": "D",
+        "text": "2"
+      }
+    ],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "拔高",
+    "source": "2024年江苏公务员考试《行测》（B类）第60题",
+    "province": "江苏"
+  },
+  {
+    "id": "prov-jiangsu-2024-B类-61",
+    "category": "provincial",
+    "module": "shuliang",
+    "title": "数量·一项工程由甲、乙、丙三个工程队合作完成 ，他们的工作效率…",
+    "stem": "一项工程由甲、乙、丙三个工程队合作完成 ，他们的工作效率之比为5 ：6 ：4 。已知甲、乙合作需60天完成， 现两人合作若干天后 ，剩余工程由丙单独完成 ，共用74天 ，则甲、乙合作的天数是：",
+    "options": [
+      {
+        "key": "A",
+        "text": "52"
+      },
+      {
+        "key": "B",
+        "text": "53"
+      },
+      {
+        "key": "C",
+        "text": "54"
+      },
+      {
+        "key": "D",
+        "text": "55"
+      }
+    ],
+    "answer": "A",
+    "explanation": "根据题意，赋值甲、乙、丙三个工程队的工作效率分别为5、6、4,已知甲、乙合作需60天完成， 则工作总量为60×(5+6)=660。设现甲、乙两人合作x 天，则剩余工程由丙单独完成需要(74-x)\n天，可得：(5+6)×x+4×(74-r)=660 ,解得： x=52, 即甲、乙合作的天数为52天。\n故正确答案为A。",
+    "keyPoints": [
+      "设现甲、乙两人合作x 天，则剩余工程由丙单独完成需要(74-x)"
+    ],
+    "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "拔高",
+    "source": "2024年江苏公务员考试《行测》（B类）第61题",
+    "province": "江苏"
+  },
+  {
+    "id": "prov-jiangsu-2024-B类-62",
+    "category": "provincial",
+    "module": "shuliang",
+    "title": "数量·某公司派出5名人力资源专员去2个一线城市和2个二线城市参…",
+    "stem": "某公司派出5名人力资源专员去2个一线城市和2个二线城市参加秋季招聘会 。若每名专员只去其中1个城市 ，每 个一线城市至少派1名专员 ，每个二线城市只派1名专员 ，则不同的派出方法共有（ ）。",
+    "options": [
+      {
+        "key": "A",
+        "text": "60种"
+      },
+      {
+        "key": "B",
+        "text": "72种"
+      },
+      {
+        "key": "C",
+        "text": "120种"
+      },
+      {
+        "key": "D",
+        "text": "144种"
+      }
+    ],
+    "answer": "C",
+    "explanation": "[[IMG]]\n5名专员分配到4个城市，其中每个一线城市至少派1名专员，每个二线城市只派1名专员，则5名 专员中有3名专员分配到2个一线城市(分别为2名专员和1名专员),其余2名专员分配到2个二 线城市(各1名专员)。从5名专员中选出2名专员，再从剩下3名专员中选出1名专员，这两组人\n分配到2个一线城市，有 C²×C3×A²=60 种；剩下2名专员分配到2个二线城市，有\n种。分步用乘法，则不同的派出方法共有60×2=120种。 故正确答案为C。",
+    "keyPoints": [
+      "[[IMG]]",
+      "从5名专员中选出2名专员，再从剩下3名专员中选出1名专员，这两组人"
+    ],
+    "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "拔高",
+    "source": "2024年江苏公务员考试《行测》（B类）第62题",
+    "province": "江苏"
+  },
+  {
+    "id": "prov-jiangsu-2024-B类-63",
+    "category": "provincial",
+    "module": "shuliang",
+    "title": "数量·某高校运动会开幕式的学生表演方阵中 ，有3排是研究生 ，…",
+    "stem": "某高校运动会开幕式的学生表演方阵中 ，有3排是研究生 ，其余都是本科生 。若本科生的人数是270 ，则研究生 的人数是：",
+    "options": [
+      {
+        "key": "A",
+        "text": "42"
+      },
+      {
+        "key": "B",
+        "text": "45"
+      },
+      {
+        "key": "C",
+        "text": "54"
+      },
+      {
+        "key": "D",
+        "text": "171"
+      }
+    ],
+    "answer": "C",
+    "explanation": "设本科生有x 排，则方阵为(x+3)排、(x+3)列，故研究生人数=(T+3)×3 ,本科生人数\n,因直接计算较复杂，考虑代入排除法。\n=(x+3)x=270\nA 项 ： 研 究 生 人 数 =(x+3)×3=42 (x+3)x=(11+3)×11=154≠270\n, 解 得 x=11 ,再 验 证 本 科 生 人 数\n,排除；\nB项：同理，(x+3)×3=45 ,解得x=12, 验证(x+3)xr=(12+3)×12=180≠270 排除；\nC 项：同理， (x+3)×3=54 , 解 得 x=15, 验 证(x+3)x=(15+3)×15=270,\nD 项 : 同 理 , (x+3)×3=171 解 得 x=54, (x+3)x=(54+3)×54=3078≠270 , 排 除 。\n故正确答案为C。\n当选；\n验 证",
+    "keyPoints": [
+      ",因直接计算较复杂，考虑代入排除法",
+      "=(x+3)x=270"
+    ],
+    "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "拔高",
+    "source": "2024年江苏公务员考试《行测》（B类）第63题",
+    "province": "江苏"
+  },
+  {
+    "id": "prov-jiangsu-2024-B类-64",
+    "category": "provincial",
+    "module": "shuliang",
+    "title": "数量·某基层工会共有180名会员 ，举行甲、乙两项工会活动 ，…",
+    "stem": "某基层工会共有180名会员 ，举行甲、乙两项工会活动 ，60%的会员参加甲活动 ，50%的会员参加参加乙活动， 若只参加甲活动的会员有80人 ，则只参加乙活动的会员有（ ）。",
+    "options": [
+      {
+        "key": "A",
+        "text": "10人"
+      },
+      {
+        "key": "B",
+        "text": "28人"
+      },
+      {
+        "key": "C",
+        "text": "62人"
+      },
+      {
+        "key": "D",
+        "text": "72人"
+      }
+    ],
+    "answer": "C",
+    "explanation": "根据题意可得，参加甲活动的会员人数为180×60%=108人，参加乙活动的会员人数为180×50%=90 人，根据“只参加甲活动的会员有80人”,可得甲、乙两项活动都参加的会员人数为108-80=28人， 如下图所示：\n[[IMG]]\n甲活动 乙活动 (108人)(90人)\n80人 28人\n则只参加乙活动的会员有90-28=62人。 故正确答案为C。",
+    "keyPoints": [
+      "[[IMG]]",
+      "甲活动 乙活动 (108人)(90人)"
+    ],
+    "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "拔高",
+    "source": "2024年江苏公务员考试《行测》（B类）第64题",
+    "province": "江苏"
+  },
+  {
+    "id": "prov-jiangsu-2024-B类-65",
+    "category": "provincial",
+    "module": "shuliang",
+    "title": "数量·如图所示 ，ABCDEF是一个边长为2的正六边形 ， 圆…",
+    "stem": "如图所示 ，ABCDEF是一个边长为2的正六边形 ， 圆O是△ACE 的内切圆 ，则圆O的面积是（ ）。",
+    "options": [
+      {
+        "key": "A",
+        "text": "T"
+      },
+      {
+        "key": "B",
+        "text": "2m"
+      },
+      {
+        "key": "C",
+        "text": "D."
+      }
+    ],
+    "answer": "A",
+    "explanation": "方法一 ：由于ABCDEF 是正六边形，可得 AC=CE=EA,即 △ACE 为正三角形，则△ACE 内切圆\n的圆心0即为正六边形 ABCDEF 的中心。作△ACE 的 中 线AH, 连 接FO, △AOF 为正三角形，\n如下图所示：\n[[IMG]]\n已知 AF=FE=2,且正六边形内角∠AFE=120°, 则 ∠FAE=∠FEA=30°,\nAE=√3×AF=2√3 。 在 直 角 △AEH 中 , ∠AEH=60°\n[[IMG]]\n, 且A0=AF=2, 所以所求圆半径OH=AH-A0=3-2=1, 所求圆\n面 积 = πr²=π×1²=π。\n方法二：如下图所示，连接 A0、FO, 为正三角形，由于 AO 为 的 中 线 且\n△AOF\n[[IMG]]\n∠CAF=90°,则∠CAO=∠OAG=∠GAF=30°,AG为△AOF的中线，即所求圆半 径\n[[IMG]]\n,所求圆面积=πr²=π×1²=π。\n[[IMG]]\n故正确答案为A。",
+    "keyPoints": [
+      "的圆心0即为正六边形 ABCDEF 的中心",
+      "作△ACE 的 中 线AH, 连 接FO, △AOF 为正三角形，"
+    ],
+    "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "拔高",
+    "source": "2024年江苏公务员考试《行测》（B类）第65题",
+    "isImageQuestion": true,
+    "province": "江苏"
+  },
+  {
+    "id": "prov-jiangsu-2024-C类-46",
+    "category": "provincial",
+    "module": "shuliang",
+    "title": "数量·-6 ，-2 ，-10 ，6 ，-26 ， ( )",
+    "stem": "-6 ，-2 ，-10 ，6 ，-26 ， ( )",
+    "options": [
+      {
+        "key": "A",
+        "text": "-90"
+      },
+      {
+        "key": "B",
+        "text": "90"
+      },
+      {
+        "key": "C",
+        "text": "-38"
+      },
+      {
+        "key": "D",
+        "text": "38"
+      }
+    ],
+    "answer": "D",
+    "explanation": "观察数列，无明显特征，优先考虑多级数列。后一项减前一项得到新数列：4,-8,16,-32,(),\n是公比为-2的等比数列，则下一项为(-32)×(-2)=64。故题干所求项为(-26)+64=38。 故正确答案为D。",
+    "keyPoints": [
+      "观察数列，无明显特征，优先考虑多级数列",
+      "后一项减前一项得到新数列：4,-8,16,-32,(),",
+      "是公比为-2的等比数列，则下一项为(-32)×(-2)=64"
+    ],
+    "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "拔高",
+    "source": "2024年江苏公务员考试《行测》（C类）第46题",
+    "province": "江苏"
+  },
+  {
+    "id": "prov-jiangsu-2024-C类-47",
+    "category": "provincial",
+    "module": "shuliang",
+    "title": "数量·10 ，15 ，25 ，35 ，55 ，（ ）。",
+    "stem": "10 ，15 ，25 ，35 ，55 ，（ ）。",
+    "options": [
+      {
+        "key": "A",
+        "text": "65"
+      },
+      {
+        "key": "B",
+        "text": "70"
+      },
+      {
+        "key": "C",
+        "text": "80"
+      },
+      {
+        "key": "D",
+        "text": "85"
+      }
+    ],
+    "answer": "A",
+    "explanation": "观察数列特征，数列各项均为5的倍数，优先考虑因数分解数列。原数列可转化为：2×5,3×5, 5×5,7×5,11×5,()。乘号左侧为：2,3,5,7,11,(),是质数列，则下 一 项为13;乘号右\n侧各项均为5,故所求项=13×5=65。 故正确答案为A。",
+    "keyPoints": [
+      "观察数列特征，数列各项均为5的倍数，优先考虑因数分解数列",
+      "原数列可转化为：2×5,3×5, 5×5,7×5,11×5,()",
+      "乘号左侧为：2,3,5,7,11,(),是质数列，则下 一 项为13;乘号右"
+    ],
+    "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "拔高",
+    "source": "2024年江苏公务员考试《行测》（C类）第47题",
+    "province": "江苏"
+  },
+  {
+    "id": "prov-jiangsu-2024-C类-48",
+    "category": "provincial",
+    "province": "江苏",
+    "module": "shuliang",
+    "title": "第48题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 48 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "拔高",
+    "source": "2024年江苏公务员考试《行测》（C类）第48题",
+    "isPlaceholder": true
+  },
+  {
+    "id": "prov-jiangsu-2024-C类-49",
+    "category": "provincial",
+    "module": "shuliang",
+    "title": "数量·， ， ， ， ，（ ）。 A. B. C. D.",
+    "stem": "，\n\n，\n\n，\n\n，\n\n，（ ）。\n\n\n\n\n\nA.\n\nB.\n\nC.\n\nD.",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "拔高",
+    "source": "2024年江苏公务员考试《行测》（C类）第49题",
+    "isImageQuestion": true,
+    "province": "江苏"
+  },
+  {
+    "id": "prov-jiangsu-2024-C类-50",
+    "category": "provincial",
+    "module": "shuliang",
+    "title": "数量·, , , , , ( ) 。 A. B. C. D.",
+    "stem": ", , , , , ( ) 。\nA.\n\nB.\n\nC.\n\nD.",
+    "options": [],
+    "answer": "C",
+    "explanation": "数列各项均为分数，考虑分数数列。分子、分母分开看无明显规律，考虑整体看。各项分子、分母相 加得到新数列：3,6,12,24,48,(),是公比为2的等比数列，则新数列下一项为48×2=96,即\n所求项分子、分母之和为96,观察选项，只有C 项47+49=96满足。 故正确答案为C。",
+    "keyPoints": [
+      "数列各项均为分数，考虑分数数列",
+      "分子、分母分开看无明显规律，考虑整体看"
+    ],
+    "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "拔高",
+    "source": "2024年江苏公务员考试《行测》（C类）第50题",
+    "isImageQuestion": true,
+    "province": "江苏"
+  },
+  {
+    "id": "prov-jiangsu-2024-C类-51",
+    "category": "provincial",
+    "module": "shuliang",
+    "title": "数量·某厂推出含酒的新品种巧克力 ，每颗的质量为10克 ，其中…",
+    "stem": "某厂推出含酒的新品种巧克力 ，每颗的质量为10克 ，其中含酒2% ，售价为17.5元 ，若酒的密度为0.9克/毫升， 则500毫升酒做成的巧克力销售额为（ ）。",
+    "options": [
+      {
+        "key": "A",
+        "text": "35875元"
+      },
+      {
+        "key": "B",
+        "text": "36375元"
+      },
+      {
+        "key": "C",
+        "text": "37625元"
+      },
+      {
+        "key": "D",
+        "text": "39375元"
+      }
+    ],
+    "answer": "D",
+    "explanation": "根据公式：质量=密度×体积，可得500毫升酒的质量=0.9×500=450克，每颗巧克力含酒质量\n=10×2%=0.2克。则500毫升酒做成的巧克力销售额 故正确答案为D。",
+    "keyPoints": [
+      "=10×2%=0.2克",
+      "则500毫升酒做成的巧克力销售额 故正确答案为D"
+    ],
+    "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "拔高",
+    "source": "2024年江苏公务员考试《行测》（C类）第51题",
+    "province": "江苏"
+  },
+  {
+    "id": "prov-jiangsu-2024-C类-52",
+    "category": "provincial",
+    "module": "shuliang",
+    "title": "数量·一列长为210米的动车以180千米/小时的速度行驶 。某…",
+    "stem": "一列长为210米的动车以180千米/小时的速度行驶 。某乘客拍窗外风景视频时 ，恰好拍到平行铁轨上一列长420 米、相向而行的高速列车 ，该高速列车经过窗户的时间是3.6秒 。若不计窗户长度 ，则该高速列车的速度为\n( ) 。",
+    "options": [
+      {
+        "key": "A",
+        "text": "210千米/时"
+      },
+      {
+        "key": "B",
+        "text": "240千米/时"
+      },
+      {
+        "key": "C",
+        "text": "450千米/时"
+      },
+      {
+        "key": "D",
+        "text": "630千米/时"
+      }
+    ],
+    "answer": "B",
+    "explanation": "如下图所示，乘客拍到该高速列车即为车窗与平行列车的车头相对重合，该高速列车完全经过即为 车窗与平行列车的车尾相对重合，则本题可转化为车窗与平行列车车尾的相遇问题，相遇距离即为 平行列车的车长。根据相遇公式 : S和=V和×t , 可得\n[[IMG]]\n时。\n千米/时，则该高速列车的速度=420-180=240千米/\n[[IMG]]\n车窗\n[[IMG]]\n车 尾\n故正确答案为B。",
+    "keyPoints": [
+      "根据相遇公式 : S和=V和×t , 可得",
+      "[[IMG]]"
+    ],
+    "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "拔高",
+    "source": "2024年江苏公务员考试《行测》（C类）第52题",
+    "province": "江苏"
+  },
+  {
+    "id": "prov-jiangsu-2024-C类-53",
+    "category": "provincial",
+    "module": "shuliang",
+    "title": "数量·元旦期间 ，某超市开展促销活动 ， 甲、乙两种商品的单价…",
+    "stem": "元旦期间 ，某超市开展促销活动 ， 甲、乙两种商品的单价之和为25元 ，购买甲商品2件及以上可享受八折优 惠 ，购买乙商品4件及以上可享受六折优惠 。小王下单购买了2件甲商品和4件乙商品 ，共优惠16元 ，则甲商品 的单价是：",
+    "options": [
+      {
+        "key": "A",
+        "text": "5元"
+      },
+      {
+        "key": "B",
+        "text": "10元"
+      },
+      {
+        "key": "C",
+        "text": "15元"
+      },
+      {
+        "key": "D",
+        "text": "20元"
+      }
+    ],
+    "answer": "D",
+    "explanation": "设甲商品的单价为x 元，则乙商品的单价为(25-x) 元。由于小王下单购买了2件甲商品和4件乙\n商品，共优惠16元，可列等式： 2x×(1-80%)+4×(25-x)×(1-60%)=16, 解\n得x=20,即甲商品的单价是20元。 故正确答案为D。",
+    "keyPoints": [
+      "设甲商品的单价为x 元，则乙商品的单价为(25-x) 元",
+      "由于小王下单购买了2件甲商品和4件乙"
+    ],
+    "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "拔高",
+    "source": "2024年江苏公务员考试《行测》（C类）第53题",
+    "province": "江苏"
+  },
+  {
+    "id": "prov-jiangsu-2024-C类-54",
+    "category": "provincial",
+    "module": "shuliang",
+    "title": "数量·某咖啡厅共有20个座位 ，每天上午11 ：00开始营业 …",
+    "stem": "某咖啡厅共有20个座位 ，每天上午11 ：00开始营业 ，14 ：00后不再接待新客人 ，营业期间任何时刻的上座率都 不低于80% 。若来喝咖啡的顾客从入座到离开的时间不超过50分钟 ，则该咖啡厅每天营业期间消费的总人数最 少为：",
+    "options": [
+      {
+        "key": "A",
+        "text": "48"
+      },
+      {
+        "key": "B",
+        "text": "56"
+      },
+      {
+        "key": "C",
+        "text": "64"
+      },
+      {
+        "key": "D",
+        "text": "72"
+      }
+    ],
+    "answer": "C",
+    "explanation": "根据题意，所求为总人数最少，需要营业期间上座率尽可能低，且来喝咖啡的顾客在咖啡厅的时间 尽可能长，即任何时刻的上座率为80%,来喝咖啡的顾客从入座到离开的时间均为50分钟。可知任\n[[IMG]]\n何时刻咖啡厅均有20×80%=16人，11:00—14:00经历了180分钟，由于 .. . ·36\n分钟，即需要4拨客人。则该咖啡厅每天营业期间消费的总人数最少为16×4=64人。 故正确答案为C。",
+    "keyPoints": [
+      "[[IMG]]"
+    ],
+    "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "拔高",
+    "source": "2024年江苏公务员考试《行测》（C类）第54题",
+    "province": "江苏"
+  },
+  {
+    "id": "prov-jiangsu-2024-C类-55",
+    "category": "provincial",
+    "module": "shuliang",
+    "title": "数量·某超市为回馈消费者 ，将举办购物抽奖活动 。每人只能抽奖…",
+    "stem": "某超市为回馈消费者 ，将举办购物抽奖活动 。每人只能抽奖一次 ，奖金有三种 ：一等奖888元 ，二等奖88元， 三等奖8元 。若前100个中奖者的奖金总额为2480元 ，则其中获得三等奖的最少有：",
+    "options": [
+      {
+        "key": "A",
+        "text": "95人"
+      },
+      {
+        "key": "B",
+        "text": "89人"
+      },
+      {
+        "key": "C",
+        "text": "79人"
+      },
+      {
+        "key": "D",
+        "text": "69人"
+      }
+    ],
+    "answer": "C",
+    "explanation": "设获得一、二、三等奖的人数分别为x 人 、y 人 、z 人，根据前100个中奖者的奖金总额为2480元，\n整理可得：\n[[IMG]]\n可 列 方 程 组 ：\n,①×11-②得到：10z-100x=790, 即 z=10x+79。若想 要获得三等奖的人数z 最少，则x 应尽量小，则当x=0时 ，z=79, 即获得三等奖的最少有79人。\n故正确答案为C。",
+    "keyPoints": [
+      "[[IMG]]",
+      "可 列 方 程 组 ："
+    ],
+    "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "拔高",
+    "source": "2024年江苏公务员考试《行测》（C类）第55题",
+    "province": "江苏"
+  },
+  {
+    "id": "prov-jiangsu-2024-C类-56",
+    "category": "provincial",
+    "module": "shuliang",
+    "title": "数量·已知某家族4位成员的年龄总和为142岁 ，且他们的年龄恰…",
+    "stem": "已知某家族4位成员的年龄总和为142岁 ，且他们的年龄恰好成等差数列 ，若其中一位的年龄为47岁 ，则这4人 中最年长者的年龄为（ ）。",
+    "options": [
+      {
+        "key": "A",
+        "text": "65岁"
+      },
+      {
+        "key": "B",
+        "text": "70岁"
+      },
+      {
+        "key": "C",
+        "text": "83岁"
+      },
+      {
+        "key": "D",
+        "text": "90岁"
+      }
+    ],
+    "answer": "B",
+    "explanation": "根据选项可知，47岁不是最年长者的年龄。又根据等差数列性质可知，4位成员中，第二大和第三\n大的年龄和为\n[[IMG]]\n岁，且由于\n[[IMG]]\n,则47岁应是第二大的年龄，那么第三\n大的年龄为71-47=24岁，年龄公差为47-24=23岁，故这4人中最年长者的年龄为47+23=70岁。 故正确答案为B。",
+    "keyPoints": [
+      "根据选项可知，47岁不是最年长者的年龄",
+      "又根据等差数列性质可知，4位成员中，第二大和第三",
+      "大的年龄和为"
+    ],
+    "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "拔高",
+    "source": "2024年江苏公务员考试《行测》（C类）第56题",
+    "isImageQuestion": true,
+    "province": "江苏"
+  },
+  {
+    "id": "prov-jiangsu-2024-C类-57",
+    "category": "provincial",
+    "module": "shuliang",
+    "title": "数量·某居民楼居住人数介于90和110之间 ，其中50岁及以上…",
+    "stem": "某居民楼居住人数介于90和110之间 ，其中50岁及以上居民占 ，女性占 。若该居民楼30岁及以上居民比30\n岁以下居民多20人 ，则30岁以下居民比50岁及以上居民多：",
+    "options": [
+      {
+        "key": "A",
+        "text": "30人"
+      },
+      {
+        "key": "B",
+        "text": "27人"
+      },
+      {
+        "key": "C",
+        "text": "23人"
+      },
+      {
+        "key": "D",
+        "text": "20人"
+      }
+    ],
+    "answer": "A",
+    "explanation": "根据题意可知，该居民楼居住总人数应既是12的整数倍又是16的整数倍，即是48(12和16的最 小公倍数)的整数倍；又根据总人数介于90和110之间，即总人数为96人。则30岁以下居民有\n[[IMG]]\n人，50岁及以上居民有\n[[IMG]]\n人，故30岁以下居民比50岁及以上居民\n多38-8=30人。 故正确答案为A。",
+    "keyPoints": [
+      "则30岁以下居民有",
+      "[[IMG]]"
+    ],
+    "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "拔高",
+    "source": "2024年江苏公务员考试《行测》（C类）第57题",
+    "province": "江苏"
+  },
+  {
+    "id": "prov-jiangsu-2024-C类-58",
+    "category": "provincial",
+    "module": "shuliang",
+    "title": "数量·圆柱形容器底部放有一个长方体铁块 ，打开水龙头开始往容器…",
+    "stem": "圆柱形容器底部放有一个长方体铁块 ，打开水龙头开始往容器中注水 ，6分钟水面恰好淹没铁块 ，再过16分钟 灌满容器 。若容器和铁块的高分别为45厘米和15厘米 ，则铁块和容器的体积之比是：",
+    "options": [
+      {
+        "key": "A",
+        "text": "1： 12"
+      },
+      {
+        "key": "B",
+        "text": "1 ：9"
+      },
+      {
+        "key": "C",
+        "text": "1 ：6"
+      },
+      {
+        "key": "D",
+        "text": "1 ：3"
+      }
+    ],
+    "answer": "A",
+    "explanation": "设圆柱形容器每厘米高的体积为a, 赋值水龙头每分钟的注水量为1,根据题干“6分钟水面恰好淹\n没铁块”,则有：15a=V铁块+6m.v根据题干“面讨16分钟灌满容器”,则有：45a-15a=162,\n联立①②两式，解得V铁 块 = 2 ,\n之比为2:24=1:12。 故正确答案为A。\n[[IMG]]\n。则圆柱形容器的体积为45a=24,故铁块和容器的体积\n[[IMG]]",
+    "keyPoints": [
+      "联立①②两式，解得V铁 块 = 2 ,"
+    ],
+    "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "拔高",
+    "source": "2024年江苏公务员考试《行测》（C类）第58题",
+    "province": "江苏"
+  },
+  {
+    "id": "prov-jiangsu-2024-C类-59",
+    "category": "provincial",
+    "module": "shuliang",
+    "title": "数量·小张所在单位共有4个科室 ，现以科室为单位组织文艺演出 …",
+    "stem": "小张所在单位共有4个科室 ，现以科室为单位组织文艺演出 ，每个科室出2个节目 。演出结束后 ， 因8个节目都 非常精彩 ，决定从中随机选3个节目参加上级组织的汇演 。则小张所在科室出的节目至少有一个被选送参加汇 演的概率是：\nA.\n\nB.\n\nC.\n\nD.",
+    "options": [],
+    "answer": "D",
+    "explanation": "根据题意，总情况是从8个节目中随机选出3个，情况数为\n种；符合条件的情况是小张所在科\n[[IMG]]\n室出的2个节目中至少有一个被选送，即有1个节目或者2个节目被选送。正面情况较复杂，可从 反面分析。反面情况为3个选送节目均不来自小张所在的科室，则从另外8-2=6个节目中随机选出\n[[IMG]]\n3个，情况数为\n[[IMG]]\n种。故题干所求概率P=1-P3个选送节目均不来自小张所在的科室\n[[IMG]]\n故正确答案为D。",
+    "keyPoints": [
+      "根据题意，总情况是从8个节目中随机选出3个，情况数为",
+      "种；符合条件的情况是小张所在科",
+      "[[IMG]]"
+    ],
+    "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "拔高",
+    "source": "2024年江苏公务员考试《行测》（C类）第59题",
+    "isImageQuestion": true,
+    "province": "江苏"
+  },
+  {
+    "id": "prov-jiangsu-2024-C类-60",
+    "category": "provincial",
+    "module": "shuliang",
+    "title": "数量·某夫妇拟从2023年12月1 日（星期五）起实施健身计划…",
+    "stem": "某夫妇拟从2023年12月1 日（星期五）起实施健身计划 。妻子的计划是当天的日期为质数就游泳 ，丈夫的计划 是每周一、三、五游泳 。按该夫妇的计划 ，他们2023年12月同日游泳的天数是（ ）。",
+    "options": [
+      {
+        "key": "A",
+        "text": "5"
+      },
+      {
+        "key": "B",
+        "text": "4"
+      },
+      {
+        "key": "C",
+        "text": "3"
+      },
+      {
+        "key": "D",
+        "text": "2"
+      }
+    ],
+    "answer": "C",
+    "explanation": "因丈夫每周一 、三、五游泳，且2023年12月1日为周五，所以2023年12月丈夫前三次游泳的日 期为1日(周五)、4日(周一)、6日(周三),以7天一星期的周期进行推算，2023年12月丈夫游 泳的日期如下表所示：\n[[TABLE imgs=0 rows=6]]\n星期一 | 星期二 | 星期三 | 星期四 | 星期五 | 星期六 | 星期日\n第1周 | 1 日\n第2周 | 4 日 | 6 日 | 8 日\n第3周 | 11日 | 13日 | 15日\n第4周 | 18日 | 20日 | 22日\n第5周 | 25日 | 2 7 日 | 29日\n[[/TABLE]]\n其中日期为质数的有11日、13日、29日，共3天，即该夫妇2023年12月同日游泳的天数是3天。 故正确答案为C。",
+    "keyPoints": [
+      "[[TABLE imgs=0 rows=6]]",
+      "星期一 | 星期二 | 星期三 | 星期四 | 星期五 | 星期六 | 星期日"
+    ],
+    "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "拔高",
+    "source": "2024年江苏公务员考试《行测》（C类）第60题",
+    "province": "江苏"
+  },
+  {
+    "id": "prov-jiangsu-2024-C类-61",
+    "category": "provincial",
+    "module": "shuliang",
+    "title": "数量·甲、乙、丙三人合作完成一项任务 。乙先做9天 ，再和甲合…",
+    "stem": "甲、乙、丙三人合作完成一项任务 。乙先做9天 ，再和甲合作6天 ，完成了任务的60% ，剩下的任务 ，若由丙 做 ，恰好10天完成 。甲、乙、丙三人的工作效率之比是：",
+    "options": [
+      {
+        "key": "A",
+        "text": "5 ：4 ：6"
+      },
+      {
+        "key": "B",
+        "text": "6 ：4 ：5"
+      },
+      {
+        "key": "C",
+        "text": "10： 15： 12"
+      },
+      {
+        "key": "D",
+        "text": "12： 15： 10"
+      }
+    ],
+    "answer": "A",
+    "explanation": "根据题意可得，9×乙+6×(甲+乙)=60%×工作总量 · · · · · · ①,10×丙=(1-60%)×工作总\n[[IMG]]\n量 · · · · · · ②,①÷②可得： , 则 2 甲\n+5乙=5丙，依次代入选项：\nA 项：赋值甲、乙、丙三人的工作效率分别为5、4、6,则2×5+5×4=30=5×6,满足题干条件，当 选 ；\nB项：赋值甲、乙、丙三人的工作效率分别为6、4、5,则2×6+5×4=32≠5× 5,不满足题 干条件，排除；\nC项：赋值甲、乙、丙三人的工作效率分别为10、15、12,则2×10+5×15=95≠5×12 不满足题干条件，排除；\nD项：赋值甲、乙、丙三人的工作效率分别为12、15、10,则2×12+5×15=99≠5×10,\n不满足题干条件，排除。 故正确答案为A。",
+    "keyPoints": [
+      "[[IMG]]",
+      "量 · · · · · · ②,①÷②可得： , 则 2 甲"
+    ],
+    "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "拔高",
+    "source": "2024年江苏公务员考试《行测》（C类）第61题",
+    "province": "江苏"
+  },
+  {
+    "id": "prov-jiangsu-2024-C类-62",
+    "category": "provincial",
+    "module": "shuliang",
+    "title": "数量·某公司派出5名人力资源专员去2个一线城市和2个二线城市参…",
+    "stem": "某公司派出5名人力资源专员去2个一线城市和2个二线城市参加秋季招聘会 。若每名专员只去其中1个城市 ，每 个一线城市至少派1名专员 ，每个二线城市只派1名专员 ，则不同的派出方法共有（ ）。",
+    "options": [
+      {
+        "key": "A",
+        "text": "60种"
+      },
+      {
+        "key": "B",
+        "text": "72种"
+      },
+      {
+        "key": "C",
+        "text": "120种"
+      },
+      {
+        "key": "D",
+        "text": "144种"
+      }
+    ],
+    "answer": "C",
+    "explanation": "5名专员分配到4个城市，其中每个一线城市至少派1名专员，每个二线城市只派1名专员，则5名 专员中有3名专员分配到2个一线城市(分别为2名专员和1名专员),其余2名专员分配到2个二 线城市(各1名专员)。从5名专员中选出2名专员，再从剩下3名专员中选出1名专员，这两组人\n[[IMG]]\n分配到2个一线城市，有\n[[IMG]]\n种；剩下2名专员分配到2个二线城市，有\n种。分步用乘法，则不同的派出方法共有60×2=120种。 故正确答案为C。",
+    "keyPoints": [
+      "从5名专员中选出2名专员，再从剩下3名专员中选出1名专员，这两组人",
+      "[[IMG]]"
+    ],
+    "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "拔高",
+    "source": "2024年江苏公务员考试《行测》（C类）第62题",
+    "province": "江苏"
+  },
+  {
+    "id": "prov-jiangsu-2024-C类-63",
+    "category": "provincial",
+    "module": "shuliang",
+    "title": "数量·甲瓶中有50克浓度为80%的溶液 ，加水50克混合后倒出…",
+    "stem": "甲瓶中有50克浓度为80%的溶液 ，加水50克混合后倒出40克至空瓶乙中 ；再往甲瓶中加水40克 ，混合后又倒出 40克至乙瓶中 。最终乙瓶中溶液的浓度是：",
+    "options": [
+      {
+        "key": "A",
+        "text": "38%"
+      },
+      {
+        "key": "B",
+        "text": "32%"
+      },
+      {
+        "key": "C",
+        "text": "26%"
+      },
+      {
+        "key": "D",
+        "text": "20%"
+      }
+    ],
+    "answer": "B",
+    "explanation": "2024江苏省公务员《行测》(C 类)解析\n起初甲瓶中有50克浓度为80%的溶液，加入50克水后变为100克浓度为80%÷2=40%的溶液，则首 次倒入乙瓶中的为40克浓度为40%的溶液；再往甲瓶中加水40克后，甲瓶中有100-40+40=100克\n浓度为\n[[IMG]]\n的溶液，则再次倒入乙瓶中的为40克浓度为24%的溶液，故 最终乙瓶中溶液的浓度是\n[[IMG]]\n故正确答案为B。",
+    "keyPoints": [
+      "江苏省公务员《行测》(C 类)解析",
+      "[[IMG]]"
+    ],
+    "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "拔高",
+    "source": "2024年江苏公务员考试《行测》（C类）第63题",
+    "province": "江苏"
+  },
+  {
+    "id": "prov-jiangsu-2024-C类-64",
+    "category": "provincial",
+    "module": "shuliang",
+    "title": "数量·某基层工会共有180名会员 ，举行甲、乙两项工会活动 ，…",
+    "stem": "某基层工会共有180名会员 ，举行甲、乙两项工会活动 ，60%的会员参加甲活动 ，50%的会员参加参加乙活动， 若只参加甲活动的会员有80人 ，则只参加乙活动的会员有（ ）。",
+    "options": [
+      {
+        "key": "A",
+        "text": "10人"
+      },
+      {
+        "key": "B",
+        "text": "28人"
+      },
+      {
+        "key": "C",
+        "text": "62人"
+      },
+      {
+        "key": "D",
+        "text": "72人"
+      }
+    ],
+    "answer": "C",
+    "explanation": "根据题意可得，参加甲活动的会员人数为180×60%=108人，参加乙活动的会员人数为180×50%=90 人，根据“只参加甲活动的会员有80人”,可得甲、乙两项活动都参加的会员人数为108-80=28人， 如下图所示：\n[[IMG]]\n甲活动 乙活动 (108人) (90人)\n80人 28人\n则只参加乙活动的会员有90-28=62人。 故正确答案为C。",
+    "keyPoints": [
+      "[[IMG]]",
+      "甲活动 乙活动 (108人) (90人)"
+    ],
+    "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "拔高",
+    "source": "2024年江苏公务员考试《行测》（C类）第64题",
+    "province": "江苏"
+  },
+  {
+    "id": "prov-jiangsu-2024-C类-65",
+    "category": "provincial",
+    "module": "shuliang",
+    "title": "数量·如图所示 ，ABCDEF是一个边长为2的正六边形 ， 圆…",
+    "stem": "如图所示 ，ABCDEF是一个边长为2的正六边形 ， 圆O是△ACE 的内切圆 ，则圆O的面积是（ ）。",
+    "options": [
+      {
+        "key": "A",
+        "text": "T"
+      },
+      {
+        "key": "B",
+        "text": "2m"
+      },
+      {
+        "key": "C",
+        "text": "D."
+      }
+    ],
+    "answer": "A",
+    "explanation": "方法一：由于 ABCDEF 是正六边形，可得\n的圆心0即为正六边形ABCDEF的中心。作△ACE 如下图所示：\n即△ACD 为正三角形，则△ACE 内切圆\n的中线AH,连 接FO,\n△AOF\n为正三角形，\n[[IMG]]\n[[IMG]]\n已 知 AF=FE=2, 且 正 六 边 形 内 角 ∠AFE=120°, 则∠FAE=∠FEA=30°,\n2024江苏省公务员《行测》(C 类)解析\nAE=√3×AF=2√3 。 在 直 角 △AEH 中 ， ∠AEH=60°\n[[IMG]]\n, 且A0=AF=2,所以所求圆半径OH=AH-A0=3-2=1, 所求圆\n面 积 = πr²=π×1²=π。\n方法二：如下图所示，连接 A0、FO, △AOF为正三角形，由干AO为\n[[IMG]]\n的中线且 ∠CAF=90°,则∠CAO=∠OAG=∠GAF=30°,AG为△A OF的中线，即所求圆半\n径\n[[IMG]]\n,所求圆面积=πr²=π×1²=π。\n[[IMG]]\n[[IMG]]\n故正确答案为 A。",
+    "keyPoints": [
+      "方法一：由于 ABCDEF 是正六边形，可得",
+      "的圆心0即为正六边形ABCDEF的中心",
+      "作△ACE 如下图所示："
+    ],
+    "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "拔高",
+    "source": "2024年江苏公务员考试《行测》（C类）第65题",
+    "isImageQuestion": true,
+    "province": "江苏"
+  },
+  {
+    "id": "prov-jiangsu-2025-A类-51",
+    "category": "provincial",
+    "module": "shuliang",
+    "title": "数量·2 ，5 ，14 ，35 ，74 ， ( )",
+    "stem": "2 ，5 ，14 ，35 ，74 ， ( )",
+    "options": [
+      {
+        "key": "A",
+        "text": "88"
+      },
+      {
+        "key": "B",
+        "text": "105"
+      },
+      {
+        "key": "C",
+        "text": "126"
+      },
+      {
+        "key": "D",
+        "text": "137"
+      }
+    ],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "拔高",
+    "source": "2025年江苏公务员考试《行测》（A类）第51题",
+    "province": "江苏"
+  },
+  {
+    "id": "prov-jiangsu-2025-A类-52",
+    "category": "provincial",
+    "module": "shuliang",
+    "title": "数量·12 ，311 ，7 ，234 ，83 ， ( )",
+    "stem": "12 ，311 ，7 ，234 ，83 ， ( )",
+    "options": [
+      {
+        "key": "A",
+        "text": "152"
+      },
+      {
+        "key": "B",
+        "text": "94"
+      },
+      {
+        "key": "C",
+        "text": "47"
+      },
+      {
+        "key": "D",
+        "text": "15"
+      }
+    ],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "拔高",
+    "source": "2025年江苏公务员考试《行测》（A类）第52题",
+    "province": "江苏"
+  },
+  {
+    "id": "prov-jiangsu-2025-A类-53",
+    "category": "provincial",
+    "module": "shuliang",
+    "title": "数量·1.13 ，3.18 ，7.25 ，4.25 ，9.33…",
+    "stem": "1.13 ，3.18 ，7.25 ，4.25 ，9.33 ， ( )",
+    "options": [
+      {
+        "key": "A",
+        "text": "6.34"
+      },
+      {
+        "key": "B",
+        "text": "8.35"
+      },
+      {
+        "key": "C",
+        "text": "10、43"
+      },
+      {
+        "key": "D",
+        "text": "12、45"
+      }
+    ],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "拔高",
+    "source": "2025年江苏公务员考试《行测》（A类）第53题",
+    "province": "江苏"
+  },
+  {
+    "id": "prov-jiangsu-2025-C类-51",
+    "category": "provincial",
+    "module": "shuliang",
+    "title": "数量·-4,-3,1,10,26,()",
+    "stem": "-4,-3,1,10,26,()",
+    "options": [
+      {
+        "key": "A",
+        "text": "38"
+      },
+      {
+        "key": "B",
+        "text": "51"
+      },
+      {
+        "key": "C",
+        "text": "77"
+      },
+      {
+        "key": "D",
+        "text": "73"
+      }
+    ],
+    "answer": "B",
+    "explanation": "正确答案是： B\n解析\n第一步，本题考查多级数列。\n第二步，观察已知项，数据呈缓慢递增趋势，优先考虑做差。后项减前项可得二级数列1、4、 9、16,依次为1²、2²、3²、4²,得到二级数列的下一项为5²=25,则未知项为26+25=51。\n因此，选择B 选项。",
+    "keyPoints": [
+      "正确答案是： B",
+      "第一步，本题考查多级数列",
+      "第二步，观察已知项，数据呈缓慢递增趋势，优先考虑做差"
+    ],
+    "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "拔高",
+    "source": "2025年江苏公务员考试《行测》（C类）第51题",
+    "province": "江苏"
+  },
+  {
+    "id": "prov-jiangsu-2025-C类-52",
+    "category": "provincial",
+    "module": "shuliang",
+    "title": "数量·12,311,7,234,83,()",
+    "stem": "12,311,7,234,83,()",
+    "options": [
+      {
+        "key": "A",
+        "text": "152"
+      },
+      {
+        "key": "B",
+        "text": "94"
+      },
+      {
+        "key": "C",
+        "text": "47"
+      },
+      {
+        "key": "D",
+        "text": "15"
+      }
+    ],
+    "answer": "B",
+    "explanation": "正确答案是： B\n解析\n第一步，本题考查特殊数列。\n第二步，观察数列已知项，数字大小变化紊乱，考虑各位数字之和。1+2=3、3+1+1=5、7、 2+3+4=9、8+3=11,是公差为2的等差数列，故未知项的各位数字之和为11+2=13。只有B 选项符 合(9+4=13)。\n因此，选择B选项。",
+    "keyPoints": [
+      "正确答案是： B",
+      "第一步，本题考查特殊数列",
+      "第二步，观察数列已知项，数字大小变化紊乱，考虑各位数字之和"
+    ],
+    "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "拔高",
+    "source": "2025年江苏公务员考试《行测》（C类）第52题",
+    "province": "江苏"
+  },
+  {
+    "id": "prov-jiangsu-2025-C类-53",
+    "category": "provincial",
+    "province": "江苏",
+    "module": "shuliang",
+    "title": "第53题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 53 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "拔高",
+    "source": "2025年江苏公务员考试《行测》（C类）第53题",
+    "isPlaceholder": true
+  },
+  {
+    "id": "prov-jiangsu-2025-C类-54",
+    "category": "provincial",
+    "province": "江苏",
+    "module": "shuliang",
+    "title": "第54题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 54 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "拔高",
+    "source": "2025年江苏公务员考试《行测》（C类）第54题",
+    "isPlaceholder": true
+  },
+  {
+    "id": "prov-jiangsu-2025-C类-55",
+    "category": "provincial",
+    "province": "江苏",
+    "module": "shuliang",
+    "title": "第55题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 55 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "拔高",
+    "source": "2025年江苏公务员考试《行测》（C类）第55题",
+    "isPlaceholder": true
+  },
+  {
+    "id": "prov-jiangsu-2025-C类-56",
+    "category": "provincial",
+    "module": "shuliang",
+    "title": "数量·2024年11月17日，我国自主设计建造的首艘大洋钻探船…",
+    "stem": "2024年11月17日，我国自主设计建造的首艘大洋钻探船“梦想”号正式入列，船上建有基础地质、 海洋科学、地球物理等实验室。假设这三个实验室各有1项实验需连续重复进行40次，3项实验同时开始，且 各实验室单次实验时长不变。若基础地质实验结束时，海洋科学实验还有8次未进行，地球物理实验还有16 次未进行，则海洋科学实验结束时，地球物理实验尚需进行：",
+    "options": [
+      {
+        "key": "A",
+        "text": "4次"
+      },
+      {
+        "key": "B",
+        "text": "8 次"
+      },
+      {
+        "key": "C",
+        "text": "10 次"
+      },
+      {
+        "key": "D",
+        "text": "12 次"
+      }
+    ],
+    "answer": "C",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "拔高",
+    "source": "2025年江苏公务员考试《行测》（C类）第56题",
+    "province": "江苏"
+  },
+  {
+    "id": "prov-jiangsu-2025-C类-57",
+    "category": "provincial",
+    "module": "shuliang",
+    "title": "数量·在巴黎奥运会男子10米气步枪射击决赛中，江苏选手以252…",
+    "stem": "在巴黎奥运会男子10米气步枪射击决赛中，江苏选手以252.2环的成绩夺得金牌并打破奥运会纪录。 10米气步枪射击比赛用的靶纸上有10个同心圆，最大圆的直径为45.5mm,相邻两个圆的直径均相差5mm(10 环直径为0.5mm)。如果随机向靶纸射击且未脱靶，那么命中6环到6.9环的概率：",
+    "options": [
+      {
+        "key": "A",
+        "text": "小于0. 1"
+      },
+      {
+        "key": "B",
+        "text": "介于0.1~0.2之间"
+      },
+      {
+        "key": "C",
+        "text": "介于0.2~0.3之间"
+      },
+      {
+        "key": "D",
+        "text": "介于0.3~0.4之间"
+      }
+    ],
+    "answer": "A",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "拔高",
+    "source": "2025年江苏公务员考试《行测》（C类）第57题",
+    "province": "江苏"
+  },
+  {
+    "id": "prov-jiangsu-2025-C类-58",
+    "category": "provincial",
+    "module": "shuliang",
+    "title": "数量·某单位组织45名员工参观第十五届中国国际航空航天博览会。…",
+    "stem": "某单位组织45名员工参观第十五届中国国际航空航天博览会。其中，21人参观了新一代隐身战斗机歼 -35A,22 人参观了嫦娥六号取回的月背月壤样品，19人参观了大型无人作战舰“虎鲸”。所有员工中，这三 种展览都未参加的有5人，至少参观2种的有12人，则这三种展览都参观的有：",
+    "options": [
+      {
+        "key": "A",
+        "text": "7 人"
+      },
+      {
+        "key": "B",
+        "text": "8 人"
+      },
+      {
+        "key": "C",
+        "text": "9 人"
+      },
+      {
+        "key": "D",
+        "text": "10 人"
+      }
+    ],
+    "answer": "D",
+    "explanation": "正确答案是：D 解析\n第一步，本题考查容斥问题，属于三集合容斥类，用公式法解题。\n第二步，设这三种展览都参观的有x 人，则参观其中2种的有12-x 人。根据三集合非标准\n型容斥原理公式，可列方程21+22+19-(12-x)-2x=45-5, 解 得x=10 人(或者使用尾数\n法解题);即这三种展览都参观的有10人。 因此，选择D选项。\n拓展\n三集合容斥非标准型公式：A+B+C-①-2×②= 总数一三者都不满足的情况数",
+    "keyPoints": [
+      "正确答案是：D 解析",
+      "第一步，本题考查容斥问题，属于三集合容斥类，用公式法解题",
+      "第二步，设这三种展览都参观的有x 人，则参观其中2种的有12-x 人"
+    ],
+    "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "拔高",
+    "source": "2025年江苏公务员考试《行测》（C类）第58题",
+    "province": "江苏"
+  },
+  {
+    "id": "prov-jiangsu-2025-C类-59",
+    "category": "provincial",
+    "module": "shuliang",
+    "title": "数量·借景是古典园林建筑中常用的构景手段之一。已知某景区中轴线…",
+    "stem": "借景是古典园林建筑中常用的构景手段之一。已知某景区中轴线(在同一水平面)上有两座相距200 米的建筑物，其中一座建筑物为平顶，高度为23.7米；另一座建筑物为尖顶，高度为133.7米，其中尖顶部 分高度为22米。若身高1.7米的小王从中轴线上某处看向平顶建筑物时，发现恰好能看到尖顶建筑物的整个 尖顶部分(如图所示),则小王所站位置和平顶建筑物的直线距离为：",
+    "options": [
+      {
+        "key": "A",
+        "text": "30米"
+      },
+      {
+        "key": "B",
+        "text": "40 米"
+      },
+      {
+        "key": "C",
+        "text": "50 米"
+      },
+      {
+        "key": "D",
+        "text": "60 米"
+      }
+    ],
+    "answer": "C",
+    "explanation": "正确答案是：C\n解析\n第一步，本题考查几何问题，属于平面几何类。\n第二步，如下图所示，令小王视线从0点发出，过平顶建筑顶部C点看到尖顶建筑的尖顶部 分的底端A点，连接OA; 过0点做中轴线的平行线OB, 交尖顶建筑、平顶建筑于B、D两点。OD 的长度即为所求。\n第三步，根据题意，可知BD=200米 ，CD=23.7-1.7=22 米 、AB=133.7-1.7-22=110 米。三\n角形CDO相似于三角形ABO, 有\n[[IMG]]\n, 即\n[[IMG]]\n, 解 得OD=50米。\n[[IMG]]\n因此，选择C 选项。",
+    "keyPoints": [
+      "正确答案是：C",
+      "第一步，本题考查几何问题，属于平面几何类"
+    ],
+    "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "拔高",
+    "source": "2025年江苏公务员考试《行测》（C类）第59题",
+    "isImageQuestion": true,
+    "province": "江苏"
+  },
+  {
+    "id": "prov-jiangsu-2025-C类-60",
+    "category": "provincial",
+    "module": "shuliang",
+    "title": "数量·为探访诗意乡村，聆听城市脉搏，父子两人报名参加半程马拉松…",
+    "stem": "为探访诗意乡村，聆听城市脉搏，父子两人报名参加半程马拉松。已知上坡路段父亲的速度是儿子的 1.2倍，下坡路段父亲的速度是儿子的80%,其他路段两人速度相同，结果父子同时到达终点。若上、下坡路 段的距离之比为1::2,则父亲上、下坡路段的速度之比为：",
+    "options": [
+      {
+        "key": "A",
+        "text": "1::3"
+      },
+      {
+        "key": "B",
+        "text": "2::5"
+      },
+      {
+        "key": "C",
+        "text": "5::12"
+      },
+      {
+        "key": "D",
+        "text": "1::2"
+      }
+    ],
+    "answer": "D",
+    "explanation": "正确答案是： D\n解析\n第一步，本题考查行程问题，属于基础行程类。\n第二步，根据已知，赋值儿子上坡的速度为1、设其下坡速度为v, 则父亲上、下坡的速度 分别为1.2、0.8v; 赋值上、下坡的路程分别为1.2、2.4。\n第三步，因其他路段二人速度相同，且两人用时相同，得到二人上、下坡所用时间也相同。\n有\n[[IMG]]\n, 解 得 v=3 。 得 到 父 亲 上 、 下 坡 路 段 的 速 度 之 比 为\n1.2::0.8v=1.2::2.4=1::2。\n因此，选择D选项。 61、正确答案是： B 解析\n第一步，本题考查工程问题，属于效率类，用赋值法解题。\n[[IMG]]\n第二步，M、N 无人机的喷洒效率分别用M、N表示。根据工作总量一定，有\n化简得M=2N。赋 值M、N 无人机的效率分别2、1,得到工作总量为2×2+5=9。则M 无人机单独喷\n洒完整片农田需要\n[[IMG]]\n小时。\n因此，选择B 选项。 62、正确答案是： B 解析\n第一步，本题考查基础计算问应用题。\n第二步，根据已知，全市规模以上企业中，未完成升级的企业与已完成升级的企业的数量之\n比为1.6:1;得到已完成升级的规模以上企业有\n[[IMG]]\n家。\n因此，选择B 选项。 63、正确答案是： A 解析\n第一步，本题考查溶液问题，属于溶液混合。\n第二步，在甲瓶中加入20克水、30克纯酒精后，浓度不变，则说明两瓶酒精溶液的初始浓\n度即为20克水中加入30克纯酒精溶液的浓度，即\n[[IMG]]\n。设乙瓶酒精溶液最初的质量是x 克，有\n[[IMG]]\n, 解 得x=100 克。\n因此，选择A选项。 64、正确答案是： A 解析\n第一步，本题考查排列组合问题，属于方法技巧类。\n第二步，两首歌曲分别作为开头曲和结尾曲，有A2种排法；舞蹈与杂技相邻演出，内部排序\n有 A2 种排法，然后将其看作一个整体，排在两首歌曲之间；小品和魔术有序插入开头曲、舞蹈与\nA2\n杂技、结尾曲中间的2个空中，有A2种排法。\n第三步，根据分步用乘法，则节目演出的排列顺序有\n[[IMG]]\n种。\n因此，选择A 选项。 65、正确答案是： D 解析\n第一步，本题考查几何问题，属于几何构造类。\n第二步，为了让保护罩表面积最小，则半球体的半径要最小；当长方体青铜器上面四个顶点 正好接触保护罩时，球体半径最小。此外，青铜器可横着放(60cm×60cm 为底面)、也可竖着放 (60cm×40cm 为底面)。\n[[IMG]]\n第三步，当青铜器横着放：如下图所示，长方体ABCD-A₁B₁C₁D₁,0 为底面对角线交点， 连接 OB₁ (为半球体半径)。在直角三角形ABD 中，根据勾股定理，得DB=√60²+60²=V7200 cm,\ncm; 在 直 角 三 角 形 OBB₁ 中 ， 求 得 保 护 罩 半 径\n[[IMG]]\nm。根据S 球=4πr², 代入数据得半球表面积为2×π×\n[[IMG]]\n[[IMG]]\n当青铜器竖着放：如下图所示，长方体ABCD-A₁B₁C₁D₁, 同理得 DB= √60²+40²= √5200cm,\n[[IMG]]\n;在直角三角形OBB1中，求得保护罩半径OB1=√ 1300+3600=70cm=0.7m。根\n据S球=4πr², 代入数据得半球表面积为2×π×0.7²=0.98πm²。\n[[IMG]]\n第四步，0.68πm²<0.98πm², 得到则该保护罩的表面积至少为0.68πm²。\n因此，选择D选项。 拓展\n本题有争议，有说法认为青铜器不能横着放，会选择C 选项。",
+    "keyPoints": [
+      "正确答案是： D",
+      "第一步，本题考查行程问题，属于基础行程类"
+    ],
+    "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "拔高",
+    "source": "2025年江苏公务员考试《行测》（C类）第60题",
+    "province": "江苏"
+  },
+  {
+    "id": "prov-jiangsu-2025-C类-61",
+    "category": "provincial",
+    "module": "shuliang",
+    "title": "数量·某农场使用M、N两架无人机喷洒农药，先由M无人机工作2小…",
+    "stem": "某农场使用M、N两架无人机喷洒农药，先由M无人机工作2小时，再由N无人机工作5小时，可喷洒 完整片农田；两架无人机同时工作1小时后，有三分之二的农田尚未喷洒。如果仅由M无人机喷洒农药，那么 喷洒完整片农田需要：",
+    "options": [
+      {
+        "key": "A",
+        "text": "3.5 小 时"
+      },
+      {
+        "key": "B",
+        "text": "4.5 小 时"
+      },
+      {
+        "key": "C",
+        "text": "5 小时"
+      },
+      {
+        "key": "D",
+        "text": "5.5 小时"
+      }
+    ],
+    "answer": "B",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "拔高",
+    "source": "2025年江苏公务员考试《行测》（C类）第61题",
+    "province": "江苏"
+  },
+  {
+    "id": "prov-jiangsu-2025-C类-62",
+    "category": "provincial",
+    "module": "shuliang",
+    "title": "数量·某市正在深入推进“智改数转网联”升级行动计划，力争实现全…",
+    "stem": "某市正在深入推进“智改数转网联”升级行动计划，力争实现全市规模以上企业全覆盖。目前，全市 规模以上企业2080家，其中未完成升级的规模以上企业比已完成升级的多0.6倍，那么已完成升级的规模以 上企业有：",
+    "options": [
+      {
+        "key": "A",
+        "text": "780 家"
+      },
+      {
+        "key": "B",
+        "text": "800 家"
+      },
+      {
+        "key": "C",
+        "text": "1280 家"
+      },
+      {
+        "key": "D",
+        "text": "1300 家"
+      }
+    ],
+    "answer": "B",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "拔高",
+    "source": "2025年江苏公务员考试《行测》（C类）第62题",
+    "province": "江苏"
+  },
+  {
+    "id": "prov-jiangsu-2025-C类-63",
+    "category": "provincial",
+    "module": "shuliang",
+    "title": "数量·甲、乙两瓶质量和浓度均相同的酒精溶液，在甲瓶中加入20克…",
+    "stem": "甲、乙两瓶质量和浓度均相同的酒精溶液，在甲瓶中加入20克水、乙瓶中加入50克浓度为30%的酒精 溶液后，浓度仍然相等。若继续在甲瓶中加入30克纯酒精，溶液又恢复到最初浓度，则乙瓶酒精溶液最初的 质量是：",
+    "options": [
+      {
+        "key": "A",
+        "text": "100 克"
+      },
+      {
+        "key": "B",
+        "text": "110克"
+      },
+      {
+        "key": "C",
+        "text": "120克"
+      },
+      {
+        "key": "D",
+        "text": "150克"
+      }
+    ],
+    "answer": "A",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "拔高",
+    "source": "2025年江苏公务员考试《行测》（C类）第63题",
+    "province": "江苏"
+  }
+]

@@ -1,0 +1,494 @@
+{
+  "province": "深圳",
+  "generatedAt": "2026-10-22T13:09:46.808Z",
+  "thresholds": {
+    "answerDistribution": "有效答案>=20，且最大字母占比>=55%；最大占比>=65%或字母缺项为严重失衡",
+    "explanationWindow": 120
+  },
+  "counts": {
+    "questions": 1862,
+    "papers": 19,
+    "answerAnomalyPapers": 0,
+    "e07": 19,
+    "explanationHighConfidence": 1,
+    "explanationWeak": 3
+  },
+  "answerDistribution": [
+    {
+      "paper": "2008年深圳公务员考试《行测》",
+      "counts": {
+        "A": 21,
+        "B": 28,
+        "C": 28,
+        "D": 23
+      },
+      "total": 100,
+      "invalid": 0,
+      "maxShare": 0.28,
+      "zeroLetters": [],
+      "status": "正常",
+      "anomaly": false
+    },
+    {
+      "paper": "2009年深圳公务员考试《行测》",
+      "counts": {
+        "A": 16,
+        "B": 25,
+        "C": 26,
+        "D": 33
+      },
+      "total": 100,
+      "invalid": 0,
+      "maxShare": 0.33,
+      "zeroLetters": [],
+      "status": "正常",
+      "anomaly": false
+    },
+    {
+      "paper": "2010年深圳公务员考试《行测》",
+      "counts": {
+        "A": 18,
+        "B": 25,
+        "C": 19,
+        "D": 24
+      },
+      "total": 86,
+      "invalid": 25,
+      "maxShare": 0.29069767441860467,
+      "zeroLetters": [],
+      "status": "正常",
+      "anomaly": false
+    },
+    {
+      "paper": "2011年深圳公务员考试《行测》",
+      "counts": {
+        "A": 19,
+        "B": 22,
+        "C": 27,
+        "D": 30
+      },
+      "total": 98,
+      "invalid": 2,
+      "maxShare": 0.30612244897959184,
+      "zeroLetters": [],
+      "status": "正常",
+      "anomaly": false
+    },
+    {
+      "paper": "2012年深圳公务员考试《行测》",
+      "counts": {
+        "A": 21,
+        "B": 33,
+        "C": 21,
+        "D": 15
+      },
+      "total": 90,
+      "invalid": 0,
+      "maxShare": 0.36666666666666664,
+      "zeroLetters": [],
+      "status": "正常",
+      "anomaly": false
+    },
+    {
+      "paper": "2013年深圳公务员考试《行测》",
+      "counts": {
+        "A": 19,
+        "B": 28,
+        "C": 23,
+        "D": 30
+      },
+      "total": 100,
+      "invalid": 0,
+      "maxShare": 0.3,
+      "zeroLetters": [],
+      "status": "正常",
+      "anomaly": false
+    },
+    {
+      "paper": "2014年深圳公务员考试《行测》",
+      "counts": {
+        "A": 14,
+        "B": 21,
+        "C": 25,
+        "D": 40
+      },
+      "total": 100,
+      "invalid": 0,
+      "maxShare": 0.4,
+      "zeroLetters": [],
+      "status": "正常",
+      "anomaly": false
+    },
+    {
+      "paper": "2015年深圳公务员考试《行测》",
+      "counts": {
+        "A": 24,
+        "B": 21,
+        "C": 21,
+        "D": 33
+      },
+      "total": 99,
+      "invalid": 1,
+      "maxShare": 0.3333333333333333,
+      "zeroLetters": [],
+      "status": "正常",
+      "anomaly": false
+    },
+    {
+      "paper": "2016年深圳公务员考试《行测》",
+      "counts": {
+        "A": 15,
+        "B": 30,
+        "C": 23,
+        "D": 32
+      },
+      "total": 100,
+      "invalid": 0,
+      "maxShare": 0.32,
+      "zeroLetters": [],
+      "status": "正常",
+      "anomaly": false
+    },
+    {
+      "paper": "2017年深圳公务员考试《行测》",
+      "counts": {
+        "A": 14,
+        "B": 27,
+        "C": 24,
+        "D": 21
+      },
+      "total": 86,
+      "invalid": 14,
+      "maxShare": 0.313953488372093,
+      "zeroLetters": [],
+      "status": "正常",
+      "anomaly": false
+    },
+    {
+      "paper": "2018年深圳公务员考试《行测》",
+      "counts": {
+        "A": 7,
+        "B": 5,
+        "C": 4,
+        "D": 7
+      },
+      "total": 23,
+      "invalid": 101,
+      "maxShare": 0.30434782608695654,
+      "zeroLetters": [],
+      "status": "正常",
+      "anomaly": false
+    },
+    {
+      "paper": "2019年深圳公务员考试《行测》",
+      "counts": {
+        "A": 23,
+        "B": 20,
+        "C": 23,
+        "D": 28
+      },
+      "total": 94,
+      "invalid": 63,
+      "maxShare": 0.2978723404255319,
+      "zeroLetters": [],
+      "status": "正常",
+      "anomaly": false
+    },
+    {
+      "paper": "2020年深圳公务员考试《行测》（思维能力）",
+      "counts": {
+        "A": 19,
+        "B": 20,
+        "C": 23,
+        "D": 18
+      },
+      "total": 80,
+      "invalid": 0,
+      "maxShare": 0.2875,
+      "zeroLetters": [],
+      "status": "正常",
+      "anomaly": false
+    },
+    {
+      "paper": "2020年深圳公务员考试《行测》（行测1）",
+      "counts": {
+        "A": 23,
+        "B": 24,
+        "C": 27,
+        "D": 26
+      },
+      "total": 100,
+      "invalid": 0,
+      "maxShare": 0.27,
+      "zeroLetters": [],
+      "status": "正常",
+      "anomaly": false
+    },
+    {
+      "paper": "2020年深圳公务员考试《行测》（行测2）",
+      "counts": {
+        "A": 25,
+        "B": 22,
+        "C": 15,
+        "D": 18
+      },
+      "total": 80,
+      "invalid": 0,
+      "maxShare": 0.3125,
+      "zeroLetters": [],
+      "status": "正常",
+      "anomaly": false
+    },
+    {
+      "paper": "2022年深圳公务员考试《行测》",
+      "counts": {
+        "A": 19,
+        "B": 32,
+        "C": 21,
+        "D": 28
+      },
+      "total": 100,
+      "invalid": 0,
+      "maxShare": 0.32,
+      "zeroLetters": [],
+      "status": "正常",
+      "anomaly": false
+    },
+    {
+      "paper": "2023年深圳公务员考试《行测》",
+      "counts": {
+        "A": 20,
+        "B": 24,
+        "C": 22,
+        "D": 17
+      },
+      "total": 83,
+      "invalid": 17,
+      "maxShare": 0.2891566265060241,
+      "zeroLetters": [],
+      "status": "正常",
+      "anomaly": false
+    },
+    {
+      "paper": "2024年深圳公务员考试《行测》",
+      "counts": {
+        "A": 24,
+        "B": 30,
+        "C": 24,
+        "D": 22
+      },
+      "total": 100,
+      "invalid": 0,
+      "maxShare": 0.3,
+      "zeroLetters": [],
+      "status": "正常",
+      "anomaly": false
+    },
+    {
+      "paper": "2025年深圳公务员考试《行测》",
+      "counts": {
+        "A": 5,
+        "B": 5,
+        "C": 5,
+        "D": 5
+      },
+      "total": 20,
+      "invalid": 0,
+      "maxShare": 0.25,
+      "zeroLetters": [],
+      "status": "正常",
+      "anomaly": false
+    }
+  ],
+  "e07": [
+    {
+      "id": "prov-shenzhen-2010-未标注-41",
+      "paper": "2010年深圳公务员考试《行测》",
+      "module": "shuliang",
+      "pos": 14,
+      "excerpt": "， ， ， ， ( ) A、 B、 C、 D、"
+    },
+    {
+      "id": "prov-shenzhen-2010-未标注-111",
+      "paper": "2010年深圳公务员考试《行测》",
+      "module": "ziliao",
+      "pos": 5,
+      "excerpt": "38 亿元 C、产业转移工业园承接的都是劳动密集型、附加值相对较低的行业 D、2008 年广东省产业转移工业园区吸纳的劳动力多为本"
+    },
+    {
+      "id": "prov-shenzhen-2011-未标注-43",
+      "paper": "2011年深圳公务员考试《行测》",
+      "module": "shuliang",
+      "pos": 15,
+      "excerpt": "0， ， ， ， ( ) A、 B、 C、 D、"
+    },
+    {
+      "id": "prov-shenzhen-2011-未标注-44",
+      "paper": "2011年深圳公务员考试《行测》",
+      "module": "shuliang",
+      "pos": 17,
+      "excerpt": "， ， ， ， ， ( ) A、 B、 C、 D、"
+    },
+    {
+      "id": "prov-shenzhen-2011-未标注-46",
+      "paper": "2011年深圳公务员考试《行测》",
+      "module": "shuliang",
+      "pos": 107,
+      "excerpt": "60%，则蒋老师应向银行贷 款（ ）元。 A、 B、 C、 D、"
+    },
+    {
+      "id": "prov-shenzhen-2012-未标注-43",
+      "paper": "2012年深圳公务员考试《行测》",
+      "module": "shuliang",
+      "pos": 13,
+      "excerpt": "， ， ， ， 。 A、 B、 C、 D、"
+    },
+    {
+      "id": "prov-shenzhen-2013-未标注-43",
+      "paper": "2013年深圳公务员考试《行测》",
+      "module": "shuliang",
+      "pos": 0,
+      "excerpt": "A、 B、 C、 D、"
+    },
+    {
+      "id": "prov-shenzhen-2013-未标注-53",
+      "paper": "2013年深圳公务员考试《行测》",
+      "module": "shuliang",
+      "pos": 95,
+      "excerpt": "那么他上班的在途时间就比原来的时间多: A、 B、 C、 D、"
+    },
+    {
+      "id": "prov-shenzhen-2015-未标注-51",
+      "paper": "2015年深圳公务员考试《行测》",
+      "module": "shuliang",
+      "pos": 13,
+      "excerpt": "， ， ， ，（ ） A、 B、 C、 D、"
+    },
+    {
+      "id": "prov-shenzhen-2016-未标注-2",
+      "paper": "2016年深圳公务员考试《行测》",
+      "module": "changshi",
+      "pos": 25,
+      "excerpt": "、面积大、活性强，更易附带病毒，有毒物质 C、在大气中的滞留时间长，输送距离短 D、直径小于等于 2、5 纳米的细颗粒物 2、党员干部违反有关规定从事营利活动，"
+    },
+    {
+      "id": "prov-shenzhen-2017-未标注-43",
+      "paper": "2017年深圳公务员考试《行测》",
+      "module": "shuliang",
+      "pos": 15,
+      "excerpt": "1，9，5，1， ， ( ) A、 B、 C、 D、"
+    },
+    {
+      "id": "prov-shenzhen-2017-未标注-91",
+      "paper": "2017年深圳公务员考试《行测》",
+      "module": "ziliao",
+      "pos": 3,
+      "excerpt": "5 元 D、高"
+    },
+    {
+      "id": "prov-shenzhen-2020-思维能力-4",
+      "paper": "2020年深圳公务员考试《行测》（思维能力）",
+      "module": "shuliang",
+      "pos": 13,
+      "excerpt": "， ， ，2， ( ) A、 B、 C、3 D、"
+    },
+    {
+      "id": "prov-shenzhen-2020-思维能力-8",
+      "paper": "2020年深圳公务员考试《行测》（思维能力）",
+      "module": "shuliang",
+      "pos": 15,
+      "excerpt": "6， ， ， ， ( ) A、 B、 C、 D、"
+    },
+    {
+      "id": "prov-shenzhen-2020-思维能力-9",
+      "paper": "2020年深圳公务员考试《行测》（思维能力）",
+      "module": "shuliang",
+      "pos": 16,
+      "excerpt": "0， ， ，1，1， ( ) A、 B、 C、 D、"
+    },
+    {
+      "id": "prov-shenzhen-2020-行测1-45",
+      "paper": "2020年深圳公务员考试《行测》（行测1）",
+      "module": "shuliang",
+      "pos": 14,
+      "excerpt": "2，3， ， ， ( ) A、1 B、 C、 D、"
+    },
+    {
+      "id": "prov-shenzhen-2020-行测1-54",
+      "paper": "2020年深圳公务员考试《行测》（行测1）",
+      "module": "shuliang",
+      "pos": 122,
+      "excerpt": "进食的狒狒是只吃香蕉的狒狒数量的（ ）。 A、 B、 C、 D、"
+    },
+    {
+      "id": "prov-shenzhen-2023-未标注-46",
+      "paper": "2023年深圳公务员考试《行测》",
+      "module": "shuliang",
+      "pos": 2,
+      "excerpt": "1， A、 B、 C、 | 1， | , , | , ( ) D、"
+    },
+    {
+      "id": "prov-shenzhen-2024-未标注-99",
+      "paper": "2024年深圳公务员考试《行测》",
+      "module": "ziliao",
+      "pos": 50,
+      "excerpt": "暴潮灾害直接经济损失比重的 是（ ）。 A. B. C. D."
+    }
+  ],
+  "explanationHighConfidence": [
+    {
+      "id": "prov-shenzhen-2014-未标注-11",
+      "paper": "2014年深圳公务员考试《行测》",
+      "module": "changshi",
+      "stem": "下列公文用语中，有歧义的一项是：",
+      "excerpt": "B项可以有两种理解：一是打击的对象是违规违纪的公务人员，这一部分人只占整个公务队伍的少数；二是打击的对象是违规违纪的公务人员中的少数人，因而有歧义。故正确答案为B。",
+      "type": "changshi->yanyu",
+      "tokens": [
+        "歧义"
+      ],
+      "triage": "A2 题干/解析均像言语，模块疑似错标"
+    }
+  ],
+  "explanationWeak": [
+    {
+      "id": "prov-shenzhen-2011-未标注-38",
+      "paper": "2011年深圳公务员考试《行测》",
+      "module": "yanyu",
+      "stem": "北京城最早的基础是唐代的幽州城。在此后的一千年中，北京曾经有过四次大规模的发展，或扩建，或新 修，分别为金代的中都、元代的大都、明代早期所修的内城及中叶以后所建的外城。北京的凸字形城墙就是这\n样完成的。清代承继了明朝的北京，对城市的整体布局系统未加改动，一直到了现代。 根据这段文字，下面表述正确的是：",
+      "excerpt": "39、正确答案：C，全站正确率：80%，易错项：D。解析第一步，分析文段，将选项与文段一一对应。第二步，辨析选项。A项对应“事实证明穿特定颜色的衣服，会影响我们的情绪”可知，符合原文，正确。B项对应“",
+      "type": "yanyu->ziliao",
+      "tokens": [
+        "比重",
+        "倍数"
+      ],
+      "triage": "B2/B4 言语正文提及资料词（弱命中）"
+    },
+    {
+      "id": "prov-shenzhen-2017-未标注-85",
+      "paper": "2017年深圳公务员考试《行测》",
+      "module": "yanyu",
+      "stem": "在美国的佛罗里达海岸，城市的灯光曾造成刚破壳而出的小海龟迷路，使一些小海龟忽然直奔错误的方向， 引导小海龟踏上了死亡之途。在很多场合下，即使动物们不直接暴露于灯光之下，它们也难以摆脱光污染的伤害， 城区里的灯光会通过云层反射下来，使夜空处在非自然的光亮下，科学家们称这种情形为天空赤热。最早指出天\n空赤热危害的是天文学家，因为这种光现象极大地妨碍了他们对星空的观测。 这段话主要支持了这样一种论点，即：",
+      "excerpt": "第一步，分析文段。文段前两句通过“小海龟”的例子论述了“光污染”对动物的伤害，最后一句论述了“光污染”对星空探测的阻碍。文段为“分—分”结构，主要论述的是光污染对动物和星空观测的危害。第二步，对比选项",
+      "type": "yanyu->ziliao",
+      "tokens": [
+        "同比",
+        "环比"
+      ],
+      "triage": "B2/B4 言语正文提及资料词（弱命中）"
+    },
+    {
+      "id": "prov-shenzhen-2023-未标注-85",
+      "paper": "2023年深圳公务员考试《行测》",
+      "module": "yanyu",
+      "stem": "各国央行对发展数字货币动机存在异同。一方面，各国对数字货币及其背后金融科技技术可能引发金 融变革感兴趣，并希望抢占数字货币尖端技术先机，避免货币主权旁落于缺乏必要约束的私营部门。另一 方面，各国央行也存在差异，有的希望通过研究和利用数字货币技术提升金融交易效率；有的希望通过发 展数字货币降低美元霸权对其经济的负面影响；而有的更倾向于实用主义，希望推动国际合作与跨境支付。\n根据上文，发展数字货币的功用不包括（ ）。",
+      "excerpt": "A项，根据“一方面，各国对数字货币及其背后金融科技技术可能引发金融变革感兴趣，并希望抢占数字货币尖端技术先机”可知，文中仅提及发展数字货币可能“引发金融变革”和“抢占数字货币尖端技术先机”,“引领金融",
+      "type": "yanyu->ziliao",
+      "tokens": [
+        "同比",
+        "百分数",
+        "增长率"
+      ],
+      "triage": "B2/B4 言语正文提及资料词（弱命中）"
+    }
+  ]
+}
