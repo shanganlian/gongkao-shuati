@@ -44,24 +44,25 @@ const keyStats = [];
 for (const key of Object.keys(index)) {
   const files = index[key];
   const seen = new Set();
-  let total = 0, valid = 0;
+  let total = 0, valid = 0, placeholders = 0;
   const reasons = {};
   for (const f of files) {
     for (const q of loadChunk(f)) {
       if (seen.has(q.id)) continue;
       seen.add(q.id);
       total++;
+      if (q.isPlaceholder) placeholders++;
       const r = getInvalidReason(q);
       if (r) reasons[r] = (reasons[r] || 0) + 1;
       else valid++;
     }
   }
-  keyStats.push({ key, files: files.length, total, valid, skipped: total - valid, reasons });
+  keyStats.push({ key, files: files.length, total, valid, skipped: total - valid, placeholders, reasons });
 }
 keyStats.sort((a, b) => b.total - a.total);
 for (const s of keyStats) {
   const r = Object.entries(s.reasons).map(([k, v]) => `${k}:${v}`).join(', ');
-  log(`  ${s.key.padEnd(28)} 分片${String(s.files).padStart(2)}  总${String(s.total).padStart(5)}  有效${String(s.valid).padStart(5)}  跳过${String(s.skipped).padStart(3)}${r ? '  [' + r + ']' : ''}`);
+  log(`  ${s.key.padEnd(28)} 分片${String(s.files).padStart(2)}  总${String(s.total).padStart(5)}  有效${String(s.valid).padStart(5)}  跳过${String(s.skipped).padStart(3)}${s.placeholders ? '  (占位' + s.placeholders + ')' : ''}${r ? '  [' + r + ']' : ''}`);
 }
 
 // 2. 多分片 ID 修复验证：对比 chunks[0] vs 全部分片
@@ -96,11 +97,15 @@ for (const [mod, st] of Object.entries(modStats)) {
 // 4. 结论
 const totalAll = keyStats.reduce((a, s) => a + s.total, 0);
 const validAll = keyStats.reduce((a, s) => a + s.valid, 0);
+const phAll = keyStats.reduce((a, s) => a + s.placeholders, 0);
 log('\n-- 4. 汇总 --');
 log(`  题目总数: ${totalAll}`);
 log(`  可渲染: ${validAll}`);
 log(`  被校验跳过: ${totalAll - validAll}`);
 log(`  跳过率: ${((totalAll - validAll) / totalAll * 100).toFixed(3)}%`);
+log(`  其中占位题（原卷文本缺失 isPlaceholder）: ${phAll}`);
+log(`  真实缺陷跳过（非占位）: ${totalAll - validAll - phAll}`);
+log(`  真实缺陷率: ${((totalAll - validAll - phAll) / totalAll * 100).toFixed(3)}%`);
 log(`\n  结论: ${validAll > 0 ? '✅ 笔试专区有大量可正常显示的题目' : '❌ 无可显示题目'}`);
 
 fs.writeFileSync(OUT, lines.join('\n'), 'utf8');
