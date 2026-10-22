@@ -1,7 +1,7 @@
 {
   "province": "江西",
-  "generatedAt": "2026-10-21 18:18:39",
-  "startedAt": "2026-10-21 18:18:25",
+  "generatedAt": "2026-10-21 22:12:31",
+  "startedAt": "2026-10-21 22:11:16",
   "outputDir": "public/data/questions-v2-provincial/江西",
   "aggregate": {
     "papers": 24,
@@ -114,7 +114,7 @@
       "answerOnlySource": false,
       "rawLength": 22272,
       "answerLength": 10757,
-      "elapsedMs": 121,
+      "elapsedMs": 102,
       "note": "blocks=120, answers=117, quick=0"
     },
     {
@@ -199,7 +199,7 @@
       "answerOnlySource": false,
       "rawLength": 19174,
       "answerLength": 15598,
-      "elapsedMs": 166,
+      "elapsedMs": 151,
       "note": "blocks=125, answers=118, quick=0"
     },
     {
@@ -297,7 +297,7 @@
       "answerOnlySource": false,
       "rawLength": 18984,
       "answerLength": 12755,
-      "elapsedMs": 119,
+      "elapsedMs": 102,
       "note": "blocks=105, answers=93, quick=0"
     },
     {
@@ -363,7 +363,7 @@
       "answerOnlySource": false,
       "rawLength": 16521,
       "answerLength": 14301,
-      "elapsedMs": 112,
+      "elapsedMs": 102,
       "note": "blocks=119, answers=119, quick=0"
     },
     {
@@ -435,7 +435,7 @@
       "answerOnlySource": false,
       "rawLength": 20982,
       "answerLength": 21967,
-      "elapsedMs": 168,
+      "elapsedMs": 144,
       "note": "blocks=135, answers=134, quick=0"
     },
     {
@@ -499,7 +499,7 @@
       "answerOnlySource": false,
       "rawLength": 21867,
       "answerLength": 26514,
-      "elapsedMs": 150,
+      "elapsedMs": 149,
       "note": "blocks=120, answers=120, quick=0"
     },
     {
@@ -571,7 +571,7 @@
       "answerOnlySource": false,
       "rawLength": 21085,
       "answerLength": 20880,
-      "elapsedMs": 183,
+      "elapsedMs": 171,
       "note": "blocks=135, answers=134, quick=0"
     },
     {
@@ -647,7 +647,7 @@
       "answerOnlySource": false,
       "rawLength": 28385,
       "answerLength": 33191,
-      "elapsedMs": 196,
+      "elapsedMs": 170,
       "note": "blocks=154, answers=151, quick=0"
     },
     {
@@ -712,7 +712,7 @@
       "answerOnlySource": false,
       "rawLength": 23924,
       "answerLength": 32461,
-      "elapsedMs": 207,
+      "elapsedMs": 154,
       "note": "blocks=135, answers=135, quick=0"
     },
     {
@@ -775,7 +775,7 @@
       "answerOnlySource": false,
       "rawLength": 24769,
       "answerLength": 30775,
-      "elapsedMs": 173,
+      "elapsedMs": 153,
       "note": "blocks=135, answers=135, quick=0"
     },
     {
@@ -841,7 +841,7 @@
       "answerOnlySource": false,
       "rawLength": 23118,
       "answerLength": 38268,
-      "elapsedMs": 212,
+      "elapsedMs": 180,
       "note": "blocks=134, answers=134, quick=0"
     },
     {
@@ -907,7 +907,7 @@
       "answerOnlySource": false,
       "rawLength": 21479,
       "answerLength": 32907,
-      "elapsedMs": 161,
+      "elapsedMs": 153,
       "note": "blocks=135, answers=135, quick=0"
     },
     {
@@ -972,7 +972,7 @@
       "answerOnlySource": false,
       "rawLength": 24040,
       "answerLength": 38688,
-      "elapsedMs": 212,
+      "elapsedMs": 189,
       "note": "blocks=135, answers=135, quick=0"
     },
     {
@@ -1038,7 +1038,7 @@
       "answerOnlySource": false,
       "rawLength": 21078,
       "answerLength": 33214,
-      "elapsedMs": 200,
+      "elapsedMs": 149,
       "note": "blocks=119, answers=119, quick=0"
     },
     {
@@ -1106,7 +1106,7 @@
       "answerOnlySource": false,
       "rawLength": 26350,
       "answerLength": 48924,
-      "elapsedMs": 240,
+      "elapsedMs": 232,
       "note": "blocks=134, answers=134, quick=0"
     },
     {
@@ -1172,7 +1172,7 @@
       "answerOnlySource": false,
       "rawLength": 22816,
       "answerLength": 43233,
-      "elapsedMs": 235,
+      "elapsedMs": 230,
       "note": "blocks=119, answers=119, quick=0"
     },
     {
@@ -1246,7 +1246,7 @@
       "answerOnlySource": false,
       "rawLength": 26734,
       "answerLength": 56072,
-      "elapsedMs": 327,
+      "elapsedMs": 321,
       "note": "blocks=134, answers=133, quick=0"
     },
     {
@@ -1313,7 +1313,7 @@
       "answerOnlySource": false,
       "rawLength": 25624,
       "answerLength": 52325,
-      "elapsedMs": 300,
+      "elapsedMs": 247,
       "note": "blocks=129, answers=129, quick=0"
     },
     {
@@ -1382,7 +1382,7 @@
       "answerOnlySource": false,
       "rawLength": 22300,
       "answerLength": 47087,
-      "elapsedMs": 283,
+      "elapsedMs": 217,
       "note": "blocks=119, answers=119, quick=0"
     },
     {
@@ -1449,7 +1449,7 @@
       "answerOnlySource": false,
       "rawLength": 28912,
       "answerLength": 54850,
-      "elapsedMs": 259,
+      "elapsedMs": 248,
       "note": "blocks=133, answers=133, quick=0"
     },
     {
@@ -1514,7 +1514,7 @@
       "answerOnlySource": false,
       "rawLength": 27411,
       "answerLength": 51495,
-      "elapsedMs": 251,
+      "elapsedMs": 250,
       "note": "blocks=135, answers=135, quick=0"
     },
     {
@@ -1578,7 +1578,7 @@
       "answerOnlySource": false,
       "rawLength": 28886,
       "answerLength": 51964,
-      "elapsedMs": 406,
+      "elapsedMs": 316,
       "note": "blocks=135, answers=135, quick=0"
     },
     {
@@ -1644,7 +1644,7 @@
       "answerOnlySource": false,
       "rawLength": 28861,
       "answerLength": 59612,
-      "elapsedMs": 377,
+      "elapsedMs": 335,
       "note": "blocks=135, answers=135, quick=0"
     },
     {
@@ -1717,7 +1717,7 @@
       "answerOnlySource": false,
       "rawLength": 27406,
       "answerLength": 50737,
-      "elapsedMs": 276,
+      "elapsedMs": 212,
       "note": "blocks=135, answers=134, quick=0"
     }
   ]

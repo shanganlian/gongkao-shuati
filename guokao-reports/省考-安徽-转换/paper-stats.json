@@ -1,7 +1,7 @@
 {
   "province": "安徽",
-  "generatedAt": "2026-10-19 18:46:53",
-  "startedAt": "2026-10-19 18:46:31",
+  "generatedAt": "2026-10-21 22:11:20",
+  "startedAt": "2026-10-21 22:11:16",
   "outputDir": "public/data/questions-v2-provincial/安徽",
   "aggregate": {
     "papers": 21,
@@ -110,7 +110,7 @@
       "answerOnlySource": false,
       "rawLength": 18135,
       "answerLength": 9075,
-      "elapsedMs": 260,
+      "elapsedMs": 227,
       "note": "blocks=100, answers=98, quick=0"
     },
     {
@@ -195,7 +195,7 @@
       "answerOnlySource": false,
       "rawLength": 14506,
       "answerLength": 8968,
-      "elapsedMs": 104,
+      "elapsedMs": 80,
       "note": "blocks=83, answers=76, quick=0"
     },
     {
@@ -259,7 +259,7 @@
       "answerOnlySource": false,
       "rawLength": 18097,
       "answerLength": 23493,
-      "elapsedMs": 194,
+      "elapsedMs": 123,
       "note": "blocks=140, answers=140, quick=0"
     },
     {
@@ -323,7 +323,7 @@
       "answerOnlySource": false,
       "rawLength": 19383,
       "answerLength": 25246,
-      "elapsedMs": 230,
+      "elapsedMs": 163,
       "note": "blocks=140, answers=140, quick=0"
     },
     {
@@ -387,7 +387,7 @@
       "answerOnlySource": false,
       "rawLength": 17402,
       "answerLength": 24246,
-      "elapsedMs": 204,
+      "elapsedMs": 121,
       "note": "blocks=130, answers=130, quick=0"
     },
     {
@@ -451,7 +451,7 @@
       "answerOnlySource": false,
       "rawLength": 18731,
       "answerLength": 27781,
-      "elapsedMs": 269,
+      "elapsedMs": 130,
       "note": "blocks=130, answers=130, quick=0"
     },
     {
@@ -516,7 +516,7 @@
       "answerOnlySource": false,
       "rawLength": 18671,
       "answerLength": 25094,
-      "elapsedMs": 207,
+      "elapsedMs": 134,
       "note": "blocks=130, answers=130, quick=0"
     },
     {
@@ -585,7 +585,7 @@
       "answerOnlySource": false,
       "rawLength": 25720,
       "answerLength": 51951,
-      "elapsedMs": 346,
+      "elapsedMs": 250,
       "note": "blocks=137, answers=137, quick=0"
     },
     {
@@ -653,12 +653,12 @@
       "answerOnlySource": false,
       "rawLength": 19236,
       "answerLength": 40619,
-      "elapsedMs": 279,
+      "elapsedMs": 191,
       "note": "blocks=108, answers=108, quick=0"
     },
     {
       "year": 2015,
-      "label": "联考",
+      "label": "425联考",
       "questionName": "2015年425公务员联考《行测》真题（安徽卷）.docx",
       "answerName": "2015年425公务员联考《行测》真题（安徽卷）参考答案及解析.docx",
       "pairNote": "same-year-and-label",
@@ -720,12 +720,12 @@
       "answerOnlySource": false,
       "rawLength": 19565,
       "answerLength": 36262,
-      "elapsedMs": 185,
+      "elapsedMs": 120,
       "note": "blocks=105, answers=105, quick=0"
     },
     {
       "year": 2016,
-      "label": "联考",
+      "label": "423联考",
       "questionName": "2016年423公务员联考《行测》真题（安徽卷）.docx",
       "answerName": "2016年423公务员联考《行测》真题（安徽卷）答案解析.docx",
       "pairNote": "same-year-and-label",
@@ -791,12 +791,12 @@
       "answerOnlySource": false,
       "rawLength": 18329,
       "answerLength": 29040,
-      "elapsedMs": 123,
+      "elapsedMs": 88,
       "note": "blocks=102, answers=101, quick=0"
     },
     {
       "year": 2017,
-      "label": "联考",
+      "label": "422联考",
       "questionName": "2017年422公务员联考《行测》真题（安徽卷）.docx",
       "answerName": "2017年422公务员联考《行测》真题（安徽卷）答案及解析.docx",
       "pairNote": "same-year-and-label",
@@ -855,12 +855,12 @@
       "answerOnlySource": false,
       "rawLength": 19339,
       "answerLength": 33621,
-      "elapsedMs": 382,
+      "elapsedMs": 169,
       "note": "blocks=110, answers=110, quick=0"
     },
     {
       "year": 2018,
-      "label": "联考",
+      "label": "421联考",
       "questionName": "2018年421联考《行测》真题（安徽卷）.docx",
       "answerName": "2018年421联考《行测》真题（安徽卷）答案及解析.docx",
       "pairNote": "same-year-and-label",
@@ -929,12 +929,12 @@
       "answerOnlySource": false,
       "rawLength": 20543,
       "answerLength": 36248,
-      "elapsedMs": 267,
+      "elapsedMs": 173,
       "note": "blocks=110, answers=108, quick=0"
     },
     {
       "year": 2019,
-      "label": "联考",
+      "label": "420联考",
       "questionName": "2019年420联考《行测》真题（安徽卷）.docx",
       "answerName": "2019年420联考《行测》真题（安徽卷）答案及解析.docx",
       "pairNote": "same-year-and-label",
@@ -994,7 +994,7 @@
       "answerOnlySource": false,
       "rawLength": 19823,
       "answerLength": 39657,
-      "elapsedMs": 299,
+      "elapsedMs": 174,
       "note": "blocks=110, answers=110, quick=0"
     },
     {
@@ -1060,7 +1060,7 @@
       "answerOnlySource": false,
       "rawLength": 20209,
       "answerLength": 45255,
-      "elapsedMs": 319,
+      "elapsedMs": 203,
       "note": "blocks=110, answers=110, quick=0"
     },
     {
@@ -1125,7 +1125,7 @@
       "answerOnlySource": false,
       "rawLength": 8643,
       "answerLength": 13834,
-      "elapsedMs": 118,
+      "elapsedMs": 88,
       "note": "blocks=40, answers=40, quick=0"
     },
     {
@@ -1192,7 +1192,7 @@
       "answerOnlySource": false,
       "rawLength": 23105,
       "answerLength": 44429,
-      "elapsedMs": 292,
+      "elapsedMs": 213,
       "note": "blocks=108, answers=108, quick=0"
     },
     {
@@ -1258,7 +1258,7 @@
       "answerOnlySource": false,
       "rawLength": 21138,
       "answerLength": 42174,
-      "elapsedMs": 227,
+      "elapsedMs": 184,
       "note": "blocks=109, answers=109, quick=0"
     },
     {
@@ -1361,7 +1361,7 @@
       "answerOnlySource": false,
       "rawLength": 21820,
       "answerLength": 40199,
-      "elapsedMs": 281,
+      "elapsedMs": 207,
       "note": "blocks=39, answers=25, quick=0"
     },
     {
@@ -1425,7 +1425,7 @@
       "answerOnlySource": false,
       "rawLength": 22960,
       "answerLength": 50323,
-      "elapsedMs": 435,
+      "elapsedMs": 246,
       "note": "blocks=110, answers=110, quick=0"
     },
     {
@@ -1490,7 +1490,7 @@
       "answerOnlySource": false,
       "rawLength": 26749,
       "answerLength": 47453,
-      "elapsedMs": 300,
+      "elapsedMs": 221,
       "note": "blocks=125, answers=125, quick=0"
     }
   ]

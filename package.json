@@ -25,7 +25,9 @@
     "publish:hubei:dry": "node scripts/publish-merge-provinces.cjs --province 湖北 --drop-uncovered",
     "publish:hubei:apply": "node scripts/publish-merge-provinces.cjs --province 湖北 --apply --drop-uncovered",
     "publish:jiangxi:dry": "node scripts/publish-merge-provinces.cjs --province 江西 --drop-uncovered",
-    "publish:jiangxi:apply": "node scripts/publish-merge-provinces.cjs --province 江西 --apply --drop-uncovered"
+    "publish:jiangxi:apply": "node scripts/publish-merge-provinces.cjs --province 江西 --apply --drop-uncovered",
+    "shenlun:dry": "node scripts/convert-provincial-shenlun.cjs --all --dry-run",
+    "shenlun:all": "node scripts/convert-provincial-shenlun.cjs --all --apply"
   },
   "dependencies": {
     "@google/genai": "^2.4.0",

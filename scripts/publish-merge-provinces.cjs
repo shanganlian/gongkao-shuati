@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 /**
- * publish-merge-provinces.cjs —— 湘 / 鄂 / 赣 v2 分片并入线上数据目录
+ * publish-merge-provinces.cjs —— 省考 v2 分片并入线上数据目录（湘 / 鄂 / 赣 / 第一梯队 8 省）
  *
  * 与 publish-merge-anhui.cjs（安徽）同构，复用同一套方案 A 检查口径：
  *   1) 读取 public/data/questions-v2-provincial/<省>/ 的 <slug>-none-*.json；
@@ -17,6 +17,8 @@
  *   node scripts/publish-merge-provinces.cjs --province 湖南 --apply --drop-uncovered
  *   node scripts/publish-merge-provinces.cjs --province 湖北 --apply --drop-uncovered
  *   node scripts/publish-merge-provinces.cjs --province 江西 --apply --drop-uncovered
+ *   node scripts/publish-merge-provinces.cjs --province 海南 --drop-uncovered
+ *   node scripts/publish-merge-provinces.cjs --province 北京 --drop-uncovered
  *
  * 退出码：0 成功；1 前置检查失败（失败时不会写任何题目数据）。
  */
@@ -29,6 +31,19 @@ const PROVINCES = {
   湖南: { slug: 'hunan', expectedSrcTotal: 2239, oldIdPrefix: 'prov-湖南-' },
   湖北: { slug: 'hubei', expectedSrcTotal: 2414, oldIdPrefix: 'prov-湖北-' },
   江西: { slug: 'jiangxi', expectedSrcTotal: 3164, oldIdPrefix: 'prov-江西-' },
+  海南: { slug: 'hainan', expectedSrcTotal: 2219, oldIdPrefix: 'prov-海南-' },
+  陕西: { slug: 'shaanxi', expectedSrcTotal: 2355, oldIdPrefix: 'prov-陕西-' },
+  宁夏: { slug: 'ningxia', expectedSrcTotal: 1972, oldIdPrefix: 'prov-宁夏-' },
+  云南: { slug: 'yunnan', expectedSrcTotal: 2134, oldIdPrefix: 'prov-云南-' },
+  甘肃: { slug: 'gansu', expectedSrcTotal: 1900, oldIdPrefix: 'prov-甘肃-' },
+  河北: { slug: 'hebei', expectedSrcTotal: 2328, oldIdPrefix: 'prov-河北-' },
+  山西: { slug: 'shanxi', expectedSrcTotal: 2431, oldIdPrefix: 'prov-山西-' },
+  北京: { slug: 'beijing', expectedSrcTotal: 2597, oldIdPrefix: 'prov-北京-' },
+  上海: { slug: 'shanghai', expectedSrcTotal: 4305, oldIdPrefix: 'prov-上海-' },
+  深圳: { slug: 'shenzhen', expectedSrcTotal: 1862, oldIdPrefix: 'prov-深圳-' },
+  黑龙江: { slug: 'heilongjiang', expectedSrcTotal: 3680, oldIdPrefix: 'prov-黑龙江-' },
+  天津: { slug: 'tianjin', expectedSrcTotal: 2431, oldIdPrefix: 'prov-天津-' },
+  广东: { slug: 'guangdong', expectedSrcTotal: 3854, oldIdPrefix: 'prov-广东-' },
 };
 
 let TAG = '[publish-province]';
@@ -327,12 +342,15 @@ function buildPlan() {
     if (id) oldIds.add(id);
   }
   const badOldIds = [...oldIds].filter(id => !id.startsWith(OLD_ID_PREFIX));
-  if (badOldIds.length) fail(`旧分片存在非 ${OLD_ID_PREFIX}* ID：${badOldIds.slice(0, 5).join(', ')}`);
-
+  /** 被整体替换 / 删除的旧分片即使混入外省 ID，也会随文件一起消失，不阻塞写入 */
   const keptIds = new Set();
   for (const q of keptQuestions) {
     const id = String(q?.id ?? '').trim();
     if (id) keptIds.add(id);
+  }
+  const badKeptIds = [...keptIds].filter(id => !id.startsWith(OLD_ID_PREFIX));
+  if (badKeptIds.length) {
+    fail(`保留旧分片存在非 ${OLD_ID_PREFIX}* ID：${badKeptIds.slice(0, 5).join(', ')}`);
   }
 
   const otherQuestions = [];
@@ -383,7 +401,9 @@ function buildPlan() {
     keptQuestions,
     keptTotal,
     oldIds,
+    badOldIds,
     keptIds,
+    badKeptIds,
     keptNewOverlap,
     oldIdsStillUsed,
     othersCount,
@@ -450,7 +470,7 @@ function pct(part, whole) {
   return `${((part / whole) * 100).toFixed(1)}%`;
 }
 
-function buildReport(plan, projected) {
+function buildReport(plan, projected, blockers = []) {
   const md = [];
   const overwriteOld = plan.overwrite.reduce((sum, s) => sum + (plan.oldCounts.get(s.target) || 0), 0);
   const overwriteNew = plan.overwrite.reduce((sum, s) => sum + s.count, 0);
@@ -478,11 +498,12 @@ function buildReport(plan, projected) {
   md.push(`# ${PROVINCE} publish 合并计划（方案 A：并入 /data/questions/）`);
   md.push('');
   md.push(`- 模式：**${APPLY ? 'APPLIED（已写入）' : 'dry-run（未写入）'}**`);
+  md.push(`- 阻塞项：**${blockers.length ? `${blockers.length} 项，当前不可 apply` : '无'}**`);
   md.push(`- 生成时间：${new Date().toISOString()}`);
   md.push(`- 源目录：\`public/data/questions-v2-provincial/${PROVINCE}/\`（ID 前缀 \`${NEW_ID_PREFIX}*\`）`);
   md.push('- 目标目录：`public/data/questions/`（线上目录，国考 + 其他省 + 旧省数据）');
   md.push(`- 分片映射：\`${SLUG}-none-<module>-<chunk>.json\` → \`provincial-${PROVINCE}-<module>-<chunk>.json\``);
-  md.push(`- 基线快照：当前线上 **${num(plan.beforeFiles)} 个分片 / ${num(plan.beforeTotal)} 题**（三省均未发布）`);
+  md.push(`- 基线快照：当前线上 **${num(plan.beforeFiles)} 个分片 / ${num(plan.beforeTotal)} 题**（以当前磁盘快照为准，含此前已发布省份）`);
   md.push('');
   if (plan.kept.length) {
     md.push(
@@ -532,8 +553,11 @@ function buildReport(plan, projected) {
       `0 个（旧${PROVINCE}分片已全部进入替换 / 删除 / 保留清单） |`
   );
   md.push(
-    `| 旧分片 ID 前缀 \`${OLD_ID_PREFIX}*\` | **${ok([...plan.oldIds].every(id => id.startsWith(OLD_ID_PREFIX)))}** | ` +
-      `${num(plan.oldIds.size)} 个唯一 ID |`
+    `| 保留旧分片 ID 前缀 \`${OLD_ID_PREFIX}*\` | **${ok(plan.badKeptIds.length === 0)}** | ` +
+      `${num(plan.keptIds.size)} 个唯一 ID |`
+  );
+  md.push(
+    `| 替换 / 删除旧分片混入外省 ID | 忽略 | ${num(plan.badOldIds.length)} 个（随旧分片一并消失） |`
   );
   md.push('');
   md.push(
@@ -710,6 +734,12 @@ function buildReport(plan, projected) {
   md.push(`- 源 \`questions.json\` 与分片一致：**是**（${num(plan.srcQuestions.length)} 题）`);
   md.push(`- 目标分片名可被 loader 解析：**是**（全部为 \`provincial-${PROVINCE}-*\`）`);
   md.push('');
+  if (blockers.length) {
+    md.push('### 4.1 阻塞项（apply 前必须清零）');
+    md.push('');
+    for (const blocker of blockers) md.push(`- ${blocker}`);
+    md.push('');
+  }
   md.push('## 5. 前端可渲染性预检');
   md.push('');
   md.push('口径同 `src/lib/questionValidation.ts`：题干为空或客观题选项不足会被 `filterValidQuestions` 跳过。');
@@ -920,6 +950,11 @@ function main() {
     `  一致性：index ${projected.indexOk && projected.indexExact ? 'OK' : 'FAIL'}，` +
       `idMap ${projected.idMapOk ? 'OK' : 'FAIL'}`
   );
+  if (plan.badOldIds.length) {
+    console.log(
+      `  旧分片混入外省 ID ${plan.badOldIds.length} 个（随替换 / 删除消失，不阻塞；保留件 0 个）`
+    );
+  }
   const expectedTotal = plan.beforeTotal - plan.oldTotal + EXPECTED_SRC_TOTAL;
   const replacedFiles = plan.overwrite.length + plan.stale.length;
   console.log(
@@ -935,7 +970,7 @@ function main() {
   }
 
   const final = APPLY ? applyPlan(plan, projected) : projected;
-  fs.writeFileSync(REPORT, buildReport(plan, final), 'utf8');
+  fs.writeFileSync(REPORT, buildReport(plan, final, blockers), 'utf8');
   if (APPLY) {
     console.log(`${TAG} 已写入 ${plan.src.length} 个${PROVINCE}分片，并重建 index.json / idMap.json`);
   }
