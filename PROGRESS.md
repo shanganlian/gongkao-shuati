@@ -784,3 +784,17 @@ WARN 412 构成：`W01` 题干过短 121、`W02` 缺少解析 135（全部是 20
 - **新省明细**：内蒙古 14 分片 / 2,175 题、西藏 7 / 859、江苏 34 / 6,311、山东 14 / 2,414，idMap 命中率均 100%，index 均含 changshi/panduan/shuliang/yanyu/ziliao 5 键。
 - **线上滞后（根因）**：`https://elaborate-faloodeh-f2ba0e.netlify.app` 仍是 `8ac4e6f` 的构建产物（index 167 键 / 440 条、idMap 65,464、内蒙古与西藏分片 404、江苏 `changshi-0` 仍为 150 题旧版）；`cc2ddbf` 未部署生效，需在 Netlify 侧重跑构建（证据与步骤见 `guokao-reports/index-idmap-audit-2026-10-23.md` §4–§5）。
 - **终验**：线上 `index.json` 达到 174 键 / 565 条、`idMap.json` 95,486 条、`provincial-内蒙古-*` 与 `provincial-西藏-*` 返回 200，即闭环。
+
+### 4.12 index / idMap 一致性复核（2026-10-23 晚）
+
+- **复核动因**：质疑「`cc2ddbf` 里 `index.json` 已含新省分片、但 `idMap.json` 仍是旧版」。
+- **结论：该前提不成立。** `cc2ddbf` 的 index 与 idMap 由同一次 publish 一起重建，且与 HEAD 的 blob 哈希完全相同：
+  `index.json` = `ceb560414e33ecf1aeb381017f7e15595d73c142`、`idMap.json` = `d9e86a9528fe15fa91ab1d910c95ff83c00e89c2`（`cc2ddbf` 与 `a335168` 一致；`cc2ddbf → a335168` 期间 `public/data/questions/` 改动文件数 = 0）。
+- **版本对账**：`5f5baec` = 167 键 / 440 分片引用 / idMap 65,464（旧，且自身自洽）；`cc2ddbf` = 174 / 565 / 95,486（新，且自身自洽）。
+- **双向核对（565 分片全量解析，非抽样）**：
+  - 正查：index 引用的 95,486 道题（去重后 95,486，重复 ID 0）**全部**命中 idMap，缺失 **0**；分片缺失 0。
+  - 反查：idMap 95,486 条**全部**指向真实分片文件（指向不存在分片 0 条），且目标分片确实包含该 ID（错配 0 条），value 结构异常 0；idMap 中未被 index 引用的孤儿条目 0。
+- **四省抽查**：江苏 34 分片 / 6,311 题、山东 14 / 2,414、内蒙古 14 / 2,175、西藏 7 / 859，idMap 命中率均 **100%**，index 均含 changshi / panduan / shuliang / yanyu / ziliao 5 键（样例 ID：`prov-jiangsu-2010-B类-1`、`prov-shandong-2006-未标注-66`、`prov-neimenggu-2008-未标注-1`、`prov-xizang-2009-未标注-1`）。
+- **重建复跑**：`node scripts/rebuild-question-index.cjs` → `exit=0`，`index.json` 24,731 B、`idMap.json` 6,515,947 B **字节一致，未写入**；因此本轮**没有**可提交的 idMap 变更（不制造空提交）。
+- **内蒙古 / 西藏「空转」结论：不是空转。** `_apply14.log` 有产出记录 —— 内蒙古「源分片 14 / 2175 题；新增 14、覆盖同名 0、删除旧分片 0」，累计 `85,262 → 87,437`（+2,175）；西藏「变更 7 个文件」，累计 `92,892 → 93,751`（+859）；两者随后都打印「一致性：index OK，idMap OK」。本地源目录同样存在且题数一致：`public/data/questions-v2-provincial/内蒙古` 14 分片 / 2,175 题、`西藏` 7 / 859。日志里内蒙古段落出现串行（`源分片` 行被 shell 交错断行）只影响**可读性**，不影响写入结果。
+- **唯一未闭环环节**：线上站点 index 仍为 167 键 / 440 条、内蒙古/西藏分片 `404` —— 属部署产物滞后，与本轮数据核查无关（证据见 `guokao-reports/index-idmap-audit-2026-10-23.md` §4 / §6）。
