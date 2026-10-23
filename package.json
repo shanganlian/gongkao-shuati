@@ -11,6 +11,8 @@
     "clean": "rm -rf dist server.js",
     "lint": "tsc --noEmit",
     "test:e07": "node scripts/test-e07-rule.cjs",
+    "index:check": "node scripts/rebuild-question-index.cjs",
+    "index:rebuild": "node scripts/rebuild-question-index.cjs --apply",
     "publish:dry": "node scripts/publish-merge-v2.cjs",
     "publish:apply": "node scripts/publish-merge-v2.cjs --apply",
     "publish:zj:dry": "node scripts/publish-merge-zhejiang.cjs",

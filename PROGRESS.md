@@ -777,4 +777,10 @@ WARN 412 构成：`W01` 题干过短 121、`W02` 缺少解析 135（全部是 20
 - **`material` 残留选项块复核**（37,759 新题逐题扫 A/B/C/D 块）：**369 题 / 0.98%** 命中，5 省 >1%——河南 2.67%、内蒙古 1.79%、广州 1.77%、江苏 1.47%、吉林 1.38%。根因分三类，**均非「粤深津式选项丢失」**：①占位题残留文案、②版块【例题】被当题干、③表格选项错序；逐题比对后仅 **8 题真破损 + 1 题粘连**，全部被 `renderStats` 过滤，**不进前端**。决策：本批只记不修（见 known-losses §6.3）。
 - **`--drop-uncovered` 删除 9 个旧分片 / 147 题**（含 `青海-changshi-2` 105 题），账本见 `guokao-reports/省考-v2-known-losses.md` §6.1。
 
+### 4.11 索引全量重建 + 线上部署核查（2026-10-23）
 
+- **新增脚本** `scripts/rebuild-question-index.cjs`：按 `public/data/questions/` 实际分片全量重建 `index.json` / `idMap.json`，默认只检查（有差异 `exit=1`），`--apply` 才写入，`--provinces` 输出指定省份明细。口径与 `publish-merge-provinces.cjs` 的 `buildIndex` / `buildIdMap` 完全一致（紧凑 JSON、无结尾换行）。npm 别名：`npm run index:check` / `npm run index:rebuild`。
+- **重建结果**：565 分片 / 95,486 题；index 174 键 / 565 条分片引用（覆盖完整）；idMap 95,486 条且全部指向真实分片；`index.json` 24,731 B、`idMap.json` 6,515,947 B，**与提交内容字节一致**，`public/data/questions/` 无改动。
+- **新省明细**：内蒙古 14 分片 / 2,175 题、西藏 7 / 859、江苏 34 / 6,311、山东 14 / 2,414，idMap 命中率均 100%，index 均含 changshi/panduan/shuliang/yanyu/ziliao 5 键。
+- **线上滞后（根因）**：`https://elaborate-faloodeh-f2ba0e.netlify.app` 仍是 `8ac4e6f` 的构建产物（index 167 键 / 440 条、idMap 65,464、内蒙古与西藏分片 404、江苏 `changshi-0` 仍为 150 题旧版）；`cc2ddbf` 未部署生效，需在 Netlify 侧重跑构建（证据与步骤见 `guokao-reports/index-idmap-audit-2026-10-23.md` §4–§5）。
+- **终验**：线上 `index.json` 达到 174 键 / 565 条、`idMap.json` 95,486 条、`provincial-内蒙古-*` 与 `provincial-西藏-*` 返回 200，即闭环。
