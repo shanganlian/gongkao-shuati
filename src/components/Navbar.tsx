@@ -69,11 +69,11 @@ export const Navbar: React.FC<NavbarProps> = ({
     { 
       id: 'interview', 
       label: '面试专区', 
-      desc: '严肃考场/提早开口/消怯场',
+      desc: '百题结构化/开口/逐点复盘',
       icon: Mic, 
       tag: '严肃实战',
       color: 'indigo',
-      keyFeatures: ['7人考官严肃考场', '成人执政思维训练', '视频自录/AI对练']
+      keyFeatures: ['100题结构化真题', '语音或打字作答', 'AI评分与逐点复盘']
     },
     { 
       id: 'plan', 
@@ -127,15 +127,15 @@ export const Navbar: React.FC<NavbarProps> = ({
       ]
     },
     {
-      badge: '面试专区 (严肃实战)',
+      badge: '面试专区 (结构化实战)',
       icon: Mic,
-      title: '面试专区：严肃考场模拟与执政思维破怯',
+      title: '面试专区：百题结构化题库 · 开口作答 · 逐点复盘',
       color: 'bg-indigo-600 text-white',
       parts: [
-        { name: '1. 严肃7人考官考场全真还原', text: '还原正规体制内考场长桌、主考官/业务考官/监督员/计时员席位，主考官威严宣读口令与鸣钟倒计时。' },
-        { name: '2. 提早开始 · 成人执政思维', text: '彻底告别死记硬背机构套话！重点锤炼“体察民情、解决复杂问题、从容担当”三大执政思维，把实务感练成肌肉记忆。' },
-        { name: '3. 结构化 & 无领导小组 (LGD)', text: '支持单人AI模拟对练或考友组队同行PK，无领导设四大战术定位（破冰者、框架搭建者、时间把控者、总结陈词者）。' },
-        { name: '4. 语音转写与视频自录复盘', text: '支持语音实时转写作答与摄像头自录视频回放，真实复盘眼神与微表情；AI提供反模板化诊断报告。' }
+        { name: '1. 100题结构化真题库', text: '覆盖综合分析、应急处突、基层治理、人际沟通等常考题型，按分类与难度检索，也可一键随机抽题。' },
+        { name: '2. 语音或打字双模式作答', text: '支持语音实时转写与打字输入，思考时间、作答倒计时与作答字数按题设定，先把观点完整说出口。' },
+        { name: '3. AI采分点逐条核对', text: '对照本题采分点逐条判断是否命中，给出表达指标、致命遗漏与改进建议，拒绝万能套话。' },
+        { name: '4. 本机练习记录复盘', text: '作答报告自动留存在本机，可按题目与得分回看历史作答，围绕同一道题反复打磨表达。' }
       ]
     },
     {
@@ -195,8 +195,8 @@ export const Navbar: React.FC<NavbarProps> = ({
     if (activeTab === 'interview') {
       return {
         tag: '🎙️ 当前模块：【面试专区】',
-        title: '严肃7人考官全真模拟考场 · 提早开口消弭怯场 · 成年人执政思维训练',
-        hint: '考官考的不是背套话技巧，而是“体察民情、解决复杂问题、从容担当”！提前开口练成肌肉记忆。'
+        title: '100题结构化面试题库 · 语音/打字作答 · AI逐点点评 · 练习记录复盘',
+        hint: '考官考的从来不是套话，而是“体察民情、解决复杂问题、从容担当”；先完整开口，再逐点打磨。'
       };
     }
     if (activeTab === 'plan') {
@@ -452,19 +452,19 @@ export const Navbar: React.FC<NavbarProps> = ({
             <div className="flex items-center gap-2 flex-wrap">
               <span className="font-extrabold text-indigo-400 flex items-center gap-1.5 mr-1 text-xs">
                 <Mic className="w-3.5 h-3.5 text-indigo-400" />
-                面试平台全景功能：
+                面试训练流程：
               </span>
               <span className="px-2.5 py-0.5 rounded bg-slate-900 text-slate-200 border border-slate-700/80 font-bold">
-                🏛️ 7人考官严肃考场
+                📚 100题结构化真题库
               </span>
               <span className="px-2.5 py-0.5 rounded bg-slate-900 text-slate-200 border border-slate-700/80 font-medium">
-                🎯 体察民情·解决复杂问题·从容担当
+                🎙️ 语音/打字双模式作答
               </span>
               <span className="px-2.5 py-0.5 rounded bg-slate-900 text-slate-200 border border-slate-700/80 font-medium">
-                👥 结构化 & 无领导小组 (LGD)
+                📊 AI采分点逐条核对
               </span>
               <span className="px-2.5 py-0.5 rounded bg-slate-900 text-slate-200 border border-slate-700/80 font-medium">
-                📹 摄像头视频自录复盘
+                📁 本机练习记录复盘
               </span>
               <span className="px-2.5 py-0.5 rounded bg-emerald-950 text-emerald-300 border border-emerald-700 font-bold">
                 🛡️ 拒绝焦虑：不显对手高分

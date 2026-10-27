@@ -1,4 +1,4 @@
-import React, { useState, Suspense } from 'react';
+import React, { useEffect, useState, Suspense } from 'react';
 import { Navbar } from './components/Navbar';
 import { PracticeArena } from './components/PracticeArena';
 import { ErrorBoundary } from './components/ErrorBoundary';
@@ -7,6 +7,7 @@ import { AuthModal } from './components/AuthModal';
 import { AudioPlayerFloating } from './components/AudioPlayerFloating';
 import { ExamCategory } from './types';
 import { AuthProvider } from './context/AuthContext';
+import { isInterviewHash } from './components/interview/interviewRoutes';
 import {
   BarChart3,
   Sparkles,
@@ -21,7 +22,7 @@ import {
 const AnalyticsOverview = React.lazy(() => import('./components/AnalyticsOverview').then(module => ({ default: module.AnalyticsOverview })));
 const KnowledgeBase = React.lazy(() => import('./components/KnowledgeBase').then(module => ({ default: module.KnowledgeBase })));
 const KnowledgeGraph = React.lazy(() => import('./components/KnowledgeGraph').then(module => ({ default: module.KnowledgeGraph })));
-const InterviewArena = React.lazy(() => import('./components/InterviewArena').then(module => ({ default: module.InterviewArena })));
+const InterviewHall = React.lazy(() => import('./components/interview/InterviewHall').then(module => ({ default: module.InterviewHall })));
 const CommunityCheckIn = React.lazy(() => import('./components/CommunityCheckIn').then(module => ({ default: module.CommunityCheckIn })));
 const GrowthSystem = React.lazy(() => import('./components/GrowthSystem').then(module => ({ default: module.GrowthSystem })));
 const DailyPlanGenerator = React.lazy(() => import('./components/DailyPlanGenerator').then(module => ({ default: module.DailyPlanGenerator })));
@@ -44,13 +45,28 @@ function getInitialCategory(): TargetCategory {
   return 'all';
 }
 
+/** 刷新 / 分享链接时，只要 hash 指向面试子路由，就直接回到面试 Tab */
+function getInitialTab(): string {
+  if (typeof window !== 'undefined' && isInterviewHash(window.location.hash)) {
+    return 'interview';
+  }
+  return 'overview';
+}
+
 export default function App() {
-  const [activeTab, setActiveTab] = useState<string>('overview');
+  const [activeTab, setActiveTab] = useState<string>(getInitialTab);
   const [selectedCategory, setSelectedCategory] = useState<TargetCategory>(getInitialCategory);
   const [reviewTrigger, setReviewTrigger] = useState<number>(0);
   const [knowledgeView, setKnowledgeView] = useState<'base' | 'graph'>('graph');
   const [knowledgeFilter, setKnowledgeFilter] = useState<{ module: string; cardIds: string[]; keywords: string[] } | null>(null);
   const [authOpen, setAuthOpen] = useState<boolean>(false);
+
+  // 离开面试模块时清掉面试子路由，避免 URL 仍停在 #/interview/report/... 导致刷新又跳回面试
+  useEffect(() => {
+    if (activeTab === 'interview') return;
+    if (typeof window === 'undefined' || !isInterviewHash(window.location.hash)) return;
+    window.history.replaceState(null, '', `${window.location.pathname}${window.location.search}`);
+  }, [activeTab]);
 
   const handleSetCategory = (cat: TargetCategory) => {
     setSelectedCategory(cat);
@@ -211,12 +227,11 @@ export default function App() {
           </div>
         )}
 
-        {/* 面试专区: 结构化 & 无领导小组讨论 (自练与组队、语音与自录视频) */}
+        {/* 面试专区: 结构化题库 → 抽题作答 → AI 报告 → 练习记录 */}
         {activeTab === 'interview' && (
-          <InterviewArena
-            onRecordPractice={handleRecordInterviewPractice}
-            streakDays={streakDays}
-          />
+          <ErrorBoundary fallbackMessage="面试模块加载异常，请刷新后重试">
+            <InterviewHall onRecordPractice={handleRecordInterviewPractice} />
+          </ErrorBoundary>
         )}
 
         {/* 定制学习计划: 根据个人情况描述AI自动生成每日计划 */}

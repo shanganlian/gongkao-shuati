@@ -1,6 +1,15 @@
 import express from 'express';
 import serverless from 'serverless-http';
 import { GoogleGenAI } from '@google/genai';
+import {
+  ANSWER_MIN_CHARS,
+  buildDegradedReview,
+  metricsOf,
+  normalizeInterviewReview,
+  parseJsonLoose,
+  requestDeepSeekReview,
+  sanitizeReviewRequest,
+} from '../../shared/interview-review';
 
 const app = express();
 
@@ -246,6 +255,57 @@ ${userAnswer}
       ],
       modelAnswerFramework: '1. 明确立场态度 -> 2. 深入辨析症结 -> 3. 闭环务实举措 -> 4. 长效机制升华',
       antiAnxietyEncouragement: '“按部就班就是伟大。日拱一卒，功不唐捐。”'
+    });
+  }
+});
+
+// 面试大厅 v1.0 · DeepSeek 三维评分 + 采分点逐条硬对照
+// 无 Key / 超时 / JSON 异常：一律返回本地规则报告（provider=local, degraded=true），不伪装 AI
+app.post('/api/interview-review', async (req, res) => {
+  const parsed = sanitizeReviewRequest(req.body);
+  if (!parsed.ok) {
+    return res.status(400).json({ error: parsed.error });
+  }
+
+  const input = parsed.value;
+  const metrics = metricsOf(input);
+
+  if (metrics.charCount < ANSWER_MIN_CHARS) {
+    return res.json({
+      review: buildDegradedReview(
+        input,
+        metrics,
+        `有效作答不足 ${ANSWER_MIN_CHARS} 字，未调用 AI，仅用本地规则对照采分点`
+      ),
+      note: 'answer-too-short',
+    });
+  }
+
+  const apiKey = process.env.DEEPSEEK_API_KEY;
+  if (!apiKey) {
+    return res.json({
+      review: buildDegradedReview(
+        input,
+        metrics,
+        '未配置 DEEPSEEK_API_KEY，已用本地规则评分（关键词与表达指标对照）'
+      ),
+      note: 'missing-api-key',
+    });
+  }
+
+  try {
+    const content = await requestDeepSeekReview(apiKey, input, metrics);
+    const review = normalizeInterviewReview(parseJsonLoose(content), input, metrics);
+    return res.json({ review });
+  } catch (err: any) {
+    console.error('DeepSeek interview review error:', err?.message || err);
+    return res.json({
+      review: buildDegradedReview(
+        input,
+        metrics,
+        `AI 评分失败：${err?.message || '未知错误'}，已用本地规则评分`
+      ),
+      note: 'deepseek-failed',
     });
   }
 });

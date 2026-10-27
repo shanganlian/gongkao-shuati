@@ -235,3 +235,125 @@ export interface CommunityPost {
   cheerCount: number; // 互勉次数
   hasCheered?: boolean;
 }
+
+/* ==========================================================================
+ * 面试大厅 v1.0：结构化面试单人闭环
+ * 注意：以下类型为新增，不改动上方既有 AIReviewResult / InterviewRoom，
+ *      旧 InterviewArena（v0 演示壳）保持可回滚。
+ * ========================================================================== */
+
+export type InterviewQuestionCategory =
+  | '综合分析'
+  | '组织管理'
+  | '应急应变'
+  | '人际沟通'
+  | '自我认知'
+  | '言语表达';
+
+export type InterviewQuestionDifficulty = '基础' | '中等' | '拔高';
+
+/** 采分点：critical=true 表示答题主线，漏掉必须在点评报告中点名 */
+export interface InterviewKeyPoint {
+  text: string;
+  critical?: boolean;
+}
+
+export interface InterviewQuestion {
+  id: string;
+  category: InterviewQuestionCategory;
+  subType: string;
+  difficulty: InterviewQuestionDifficulty;
+  /** 考场/角色设定，约 1/3 题目提供 */
+  scene?: string;
+  /** 题干：背景与矛盾 */
+  title: string;
+  /** 设问 */
+  task: string;
+  thinkingSeconds: number;
+  answerSeconds: number;
+  keyPoints: InterviewKeyPoint[];
+  /** 常见扣分点（报告里作为“别人在这儿丢分”提示，不作为命中判定） */
+  pitfalls: string[];
+  /** 参考提纲（逐条渲染） */
+  referenceOutline: string[];
+  tags: string[];
+  source: string;
+}
+
+export interface InterviewQuestionBank {
+  version: number;
+  updatedAt: string;
+  categories: InterviewQuestionCategory[];
+  questions: InterviewQuestion[];
+}
+
+/** 前端可客观测量的表达指标（服务端无法听音频，靠这份数据锚定“表达”维度） */
+export interface ExpressionMetrics {
+  charCount: number;
+  durationSeconds: number;
+  /** 字/分钟 */
+  speechRateWpm: number;
+  fillerCount: number;
+  fillerWords: string[];
+}
+
+/** 采分点逐条命中的硬对照结果，index 为 1 基序号（对应 ①…⑥） */
+export interface InterviewKeyPointHit {
+  index: number;
+  hit: boolean;
+  evidence?: string;
+}
+
+export interface InterviewDimensionScore {
+  score: number;
+  comment: string;
+  missing?: string[];
+}
+
+export interface InterviewImprovement {
+  dimension: '扣题度' | '逻辑结构' | '表达' | string;
+  issue: string;
+  action: string;
+  example: string;
+}
+
+export type InterviewReviewProvider = 'deepseek' | 'local';
+
+export interface InterviewReview {
+  provider: InterviewReviewProvider;
+  /** true 表示走了本地规则兜底（无 key / 超时 / 解析失败） */
+  degraded?: boolean;
+  reason?: string;
+  pointHits: InterviewKeyPointHit[];
+  pointsHitCount: number;
+  pointsTotal: number;
+  /** 漏掉的 critical 采分点序号（1 基） */
+  criticalMissed: number[];
+  relevance: InterviewDimensionScore;
+  structure: InterviewDimensionScore;
+  expression: InterviewDimensionScore;
+  overallScore: number;
+  grade: '优秀' | '良好' | '中等' | '需精进';
+  highlights: string[];
+  improvements: InterviewImprovement[];
+  modelOutline: string[];
+  encouragement: string;
+  metrics?: ExpressionMetrics;
+  createdAt?: string;
+}
+
+export interface InterviewSessionRecord {
+  id: string;
+  questionId: string;
+  questionTitle: string;
+  category: InterviewQuestionCategory;
+  difficulty: InterviewQuestionDifficulty;
+  startedAt: string;
+  durationSeconds: number;
+  answerText: string;
+  inputMode: 'voice' | 'typing';
+  metrics: ExpressionMetrics;
+  review: InterviewReview;
+  provider: InterviewReviewProvider;
+}
+

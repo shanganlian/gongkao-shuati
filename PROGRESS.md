@@ -1,6 +1,6 @@
 # 项目进度总结
 
-> 更新时间：2026-10-19
+> 更新时间：2026-10-27
 
 ## 0. 题库数据治理（2026-10-17）
 
@@ -798,3 +798,89 @@ WARN 412 构成：`W01` 题干过短 121、`W02` 缺少解析 135（全部是 20
 - **重建复跑**：`node scripts/rebuild-question-index.cjs` → `exit=0`，`index.json` 24,731 B、`idMap.json` 6,515,947 B **字节一致，未写入**；因此本轮**没有**可提交的 idMap 变更（不制造空提交）。
 - **内蒙古 / 西藏「空转」结论：不是空转。** `_apply14.log` 有产出记录 —— 内蒙古「源分片 14 / 2175 题；新增 14、覆盖同名 0、删除旧分片 0」，累计 `85,262 → 87,437`（+2,175）；西藏「变更 7 个文件」，累计 `92,892 → 93,751`（+859）；两者随后都打印「一致性：index OK，idMap OK」。本地源目录同样存在且题数一致：`public/data/questions-v2-provincial/内蒙古` 14 分片 / 2,175 题、`西藏` 7 / 859。日志里内蒙古段落出现串行（`源分片` 行被 shell 交错断行）只影响**可读性**，不影响写入结果。
 - **唯一未闭环环节**：线上站点 index 仍为 167 键 / 440 条、内蒙古/西藏分片 `404` —— 属部署产物滞后，与本轮数据核查无关（证据见 `guokao-reports/index-idmap-audit-2026-10-23.md` §4 / §6）。
+
+## 5. 面试大厅 v1.0（2026-10-26）
+
+### 5.1 结构化面试题库编写完成（100 题）
+
+- **数据文件**：`public/data/interview/questions.json`（`version: 1`、`updatedAt: 2026-10-26`、`categories` 6 类）。
+- **题型分布**：综合分析 25 / 组织管理 20 / 应急应变 18 / 人际沟通 17 / 自我认知 10 / 言语表达 10 = **100**；id 前缀分别为 `si-zh / si-zz / si-yj / si-rj / si-zw / si-yy` + 三位序号，无重复。
+- **难度分布**：基础 27 / 中等 45 / 拔高 28。
+- **字段口径**：`keyPoints` 5–6 条（对象 `{text, critical}`，每题 2–4 条 `critical`，供报告点名“主线必补”）；`pitfalls` 2–3 条常见扣分点；`referenceOutline` 3–6 条数组；`scene` 39 题（39%，仅约三分之一题给场景）；`source` 统一 `结构化面试经典题·改编`（不编造真题出处）。
+- **校验器**：`scripts/verify-interview-questions.cjs`（新增）校验 id 正则、6 类齐全、采分点/扣分点/提纲条数、title 15–160 字、task 8–120 字、时长区间、source 固定文案、id 唯一。本轮结果：`题量 100　唯一 id 100　含 scene 39（39%）`，**校验通过（exit 0）**。
+- **代码进度**：题库已完成；语音钩子 / 评分服务 / 双端路由已于 §5.2 落地，5 个页面组件与 App 路由接入已于 §5.3 完成。
+
+### 5.2 语音钩子 + 评分服务 + 双端路由落地（2026-10-26）
+
+- **新增文件与职责**：
+  - `shared/interview-review.ts`：前后端共享层。端点/DeepSeek URL/模型/26s 服务端超时常量；`sanitizeReviewRequest` 按字段白名单重建入参（采分点 ≤8 条、作答 ≤4000 字、时长 0–3600s）；`buildInterviewReviewPrompt`；`parseJsonLoose`；`normalizeInterviewReview`；`isInterviewReview`；`requestDeepSeekReview`（`response_format: json_object`、temperature 0.3、max_tokens 2200）；`buildDegradedReview`。
+  - `src/lib/interviewScoring.ts`：本地规则兜底。采分点判定用中文二元组重合（≥20%，或命中“小标题锚点”且 ≥10%），证据取最贴近的作答原句；结构分只认显性连接词、结尾收束、开场表态；表达分由字数/时长/语速/口头禅密度计算，评语必带数字；总分 = 0.45 扣题 + 0.30 结构 + 0.25 表达，再按每漏 1 条 critical 扣 3 分（上限 9 分）；输出固定 `provider: 'local'`、`degraded: true`。
+  - `src/hooks/useSpeechRecognition.ts`：Web Speech 封装。`isSupported` 先暴露给 UI 降级为手动输入；zh-CN、continuous、interim 实时上屏；静默 end 自动续录（单次作答最多 20 次）；`stop()` 保留 transcript 与累计时长，`start()` 续录；权限拒绝/无麦克风/断网/无语音/语言不支持全部转中文 `error` + `errorCode`；卸载自动 abort。
+  - `src/services/interviewReviewService.ts`：前端评分服务。30s 超时（大于服务端 26s）、`isInterviewReview` 校验、有效字数 <30 不调 AI；任何失败（超时/非 2xx/结构异常）都返回本地规则报告并写入具体 reason。历史留存 key `xingan_interview_sessions_v1`，上限 50 条，坏记录跳过；含删除、清空、`summarizeInterviewHistory`（次数/最高分/均分/各题型次数/降级次数）。
+  - `server.ts` 与 `netlify/functions/api.ts`：均新增 `POST /api/interview-review`，行为一致——参数非法 400；<30 字 / 无 `DEEPSEEK_API_KEY` / AI 异常均返回 200 + 本地规则版，`note` 分别为 `answer-too-short` / `missing-api-key` / `deepseek-failed`；DeepSeek 成功则走 `normalizeInterviewReview` 收敛。
+  - `.env.example` 增列 `DEEPSEEK_API_KEY`（2026-10-27 已收敛为单行占位符，scope 说明移至 `Netlify环境变量配置指南.md`）；`package.json` 增加 `interview:verify`、`interview:smoke`、`interview:endpoint`、`interview:sample`、`interview:sample:strict`。
+- **Prompt 硬对照（写死在 system + user）**：
+  - `pointHits` 必须与本题采分点条数一致、index 为 1…N；`hit` 只能是 true/false；true 必须引用考生原话片段（≤30 字）。
+  - `criticalMissed`、命中数、总分、等级全部由服务端重算，模型自报值不采信。
+  - 扣题度锚定命中率（<40% ≤65 分；40–60% ≤78；≥80% 才可 85+）；表达维度必须引用字数/语速/口头禅数字。
+  - 明令禁止“回答要有深度/站位要高/语言要流畅”这类无法验证的点评。
+- **诚实性约束**：AI 不可用时报告页必须原样展示 `provider='local'`、`degraded=true` 与 `reason`，不得包装成“AI 点评”。
+- **本轮验证（实跑）**：
+  - `node scripts/verify-interview-questions.cjs` → 100 题校验通过（exit 0）。
+  - `node --import tsx scripts/smoke-interview-review.ts` → **34/34 通过**：本地命中与证据、空泛作答明显低分、prompt 覆盖全部采分点且写死条数、normalize 补齐条目/重算 criticalMissed/扣分惩罚、JSON 围栏与前后语容错、入参白名单。
+  - 启动 `server.ts` 后 `node scripts/smoke-interview-endpoint.mjs` → **10/10 通过**：无 Key 返回 200 + `local`/`degraded`，空作答与缺 question 返回 400。
+  - `node node_modules/typescript/bin/tsc --noEmit` → **exit 0**（本机 `npx` 被执行策略禁用，故改用 node 直跑）。
+- **本轮修复记录**：
+  - `insert_line` 是“插在该行之前”，导致 `interviewScoring.ts` 函数被嵌套、TSC 报 TS1184；已按正确结构整文件重建。
+  - `netlify/functions/api.ts` 共享层相对路径 `../shared` 修正为 `../../shared`。
+  - `normalizeInterviewReview` 原逻辑在“模型给了 index 但缺条目”时会按数组位置错配（把第 3 条当成第 2 条）；已改为“只要有 index 就严格按 index 对齐，完全无 index 才按数组顺序”，并由冒烟测试锁定。
+- **样例导出（内容验收）**：`guokao-reports/面试样例-20题.json` + `guokao-reports/面试样例-20题.txt`（同源，txt 带 BOM 便于 Windows 直接打开通读）。
+  - 配额 综合 4 / 组织 4 / 应急 4 / 人际 3 / 自我 3 / 言语 2；每类按难度排序后等距抽取，脚本可重复运行结果一致。
+  - 每题附 `audit`：冒号分层、做法 ≥10 字、主观评价词黑名单、行动型/判断型标注；本次 20 题 120 条采分点 **120 条可判定（100%）**。
+  - 体检发现并修正 1 条：`si-yy-006` 第 6 条“收尾利落：用一句有力的话结束” → “用一句 20 字以内的表态句收束，点明‘服从组织安排、到岗就干’，不复述前文”。
+- **未完成（下一步）**：用户侧配置本地 `.env` 与 Netlify Functions 的 `DEEPSEEK_API_KEY`；Chrome/Edge 真机回归语音权限、静音续录、移动端 UI；部署仍由用户执行。
+
+### 5.3 五页组件 + App 路由接线完成（2026-10-26）
+
+- **新增页面组件**（`src/components/interview/`）：`InterviewLobby`（入口 + 历史统计 + 分类覆盖 + 最近练习）、`InterviewPicker`（6 类 / 3 难度 / 关键词筛选 + 随机抽题）、`InterviewSession`（ready → thinking → answering → reviewing，双倒计时、语音实时转写、手动改字、结束/放弃二次确认）、`InterviewReport`（采分点逐条 ✓/✗ + 原文证据 + 三维分 + critical 漏点 + 降级/引擎标识 + 重练）、`InterviewHistory`（统计、筛选、回看、删除、清空、重练）。
+- **新增外壳 `InterviewHall.tsx`**：唯一持有题库、练习记录与 hash 路由；题库统一走 `useInterviewQuestions`；记录持久化成功时重读 `localStorage`，失败时把本次记录放入 `pendingRecord` + 内存列表（不写本地存储），报告仍可正常渲染并明确提示“未保存”。
+- **取消回到入口**：`sessionOriginRef` 记住是从大厅 / 抽题 / 报告 / 记录页进入，作答中退出会回到原页面，不会一律丢回大厅。
+- **`App.tsx` 接入**：`InterviewArena` 的 lazy import 替换为 `InterviewHall`（旧文件保留可回滚），外包 `ErrorBoundary`；新增 `isInterviewHash` + `getInitialTab()`，刷新 / 分享 `#/interview/...` 深链可直接落在面试 Tab；离开面试 Tab 时 `replaceState` 清掉面试子路由，避免“URL 还在报告页、刷新却跳回面试”。
+- **`Navbar.tsx` 文案**：面试卡片描述、6 张功能透视卡、面试区功能 chip 全部改为 100 题结构化面试口径（题库抽题 / 双倒计时 / 语音转写 / 采分点硬对照 / 历史复盘），不再出现 v0 演示壳描述。
+- **路由边界**：`parseInterviewRoute` 对未知页面 / 缺题号 / 非面试 hash 一律回落大厅；`isInterviewHash` 收紧为 `#/interview` 或 `#/interview/...`，避免 `#/interviewx` 误判。
+- **本轮验证（实跑）**：
+  - `node .../typescript/bin/tsc --noEmit` → **exit 0**。
+  - `node node_modules/vite/bin/vite.js build` → **成功**：1742 modules，`InterviewHall-*.js` 102.95 kB（gzip 26.49 kB），产物已写入 `dist/`。
+  - `npm run interview:hall`（`scripts/smoke-interview-hall.tsx`）→ **19/19 通过**：5 条路由解析 + 非法 hash 回落 + 编码往返 + 前缀识别 + 大厅首屏（hero / 抽题 / 历史 / 题型覆盖）+ 报告缺记录兜底 + 记录页空态 SSR。
+  - `npm run interview:endpoint:deepseek` → **11/11 通过**：`HTTP 200`、`provider=deepseek`、`degraded=false`、无降级 note、采分点 6/6；端点冒烟同时支持 `--expect=local` 保留无 Key 降级回归。
+- **仍需真机确认**：Chrome / Edge 的麦克风权限、静音自动续录、切后台计时、移动端底部导航遮挡；这些无法在当前无浏览器环境中自动验证。
+
+### 5.4 上线前收尾（2026-10-27）
+
+- **真机验收通过**：Chrome / Edge 桌面 + Android 真机回归完成（语音权限、静音续录、切后台计时、移动端导航），DeepSeek 点评质量达标（采分点逐条命中 + 原话证据 + 三维分，无“要有深度/站位要高”这类空泛评语）。
+- **`.env.example` 收敛**：只保留 `DEEPSEEK_API_KEY` 一行占位符，删除 `GEMINI_API_KEY` / `APP_URL` 等 AI Studio 历史残留。
+- **代码提交**：面试大厅 v1 全量入库，commit 信息 `interview hall v1`（hash 子路由 / 5 页组件 + `InterviewHall` 外壳 / 语音钩子 / 评分服务 / 共享评分层 / 100 题题库 / 校验与冒烟脚本 / 端点接线）。
+- **暂不 push**：按计划等 **2026-10-30（周五）** Netlify 额度重置后再推送并触发线上构建。
+- **上线操作指南**：`Netlify环境变量配置指南.md`（Site configuration → Environment variables → `DEEPSEEK_API_KEY`，scope 勾 **Functions** → 保存后重新部署 → `--expect=deepseek` 冒烟验收）。
+
+### 5.5 待办与 v1.1 排期
+
+| 优先级 | 事项 | 说明 | 验收口径 |
+| --- | --- | --- | --- |
+| ✅ P0 | 5 个页面组件 + App 路由 | 已完成（§5.3）：大厅 / 抽题 / 计时录音 / 报告 / 历史 + `InterviewHall` 外壳 + Navbar 入口 | `tsc` exit 0、`vite build` 成功、路由与首屏冒烟 19/19；真机交互见下方 P1 |
+| ✅ P0 | DeepSeek Key 配置 | 本地 `.env` 已配置有效 `DEEPSEEK_API_KEY`（不入 Git，`.env.example` 保持占位符）；线上仍需在 Netlify Environment variables 配置同名 key（scope: Functions） | 本地 `interview:endpoint:deepseek` 11/11 通过：`provider='deepseek'`、`degraded=false`、`note` 为空 |
+| ✅ P0 | 上线前收尾 | `.env.example` 只保留 `DEEPSEEK_API_KEY` 占位符；`interview hall v1` 已提交、未 push；Netlify 配置指南已出（`Netlify环境变量配置指南.md`） | 2026-10-27 完成，2026-10-30（周五）push 并上线 |
+| ✅ P1 | 真机语音回归 | Chrome / Edge 桌面 + Android；iOS Safari 不支持 Web Speech 时走手动输入 | **2026-10-27 用户真机验收通过**，点评质量达标（详见 §5.4） |
+| P1 | 题库扩充 100 → 150 | 优先补应急应变、人际沟通；沿用现有字段与校验器 | `interview:verify` 通过、`interview:sample:strict` 无告警 |
+| **v1.1** | **Kimi（Moonshot）引擎接入** | 评分引擎可切换：DeepSeek 主用、Kimi 备用/对比；复用同一 prompt 与 `normalizeInterviewReview`，不另写一套评分逻辑 | 同一作答双引擎总分差 ≤10 分视为稳定；采分点命中差异逐条可解释；报告页显示实际引擎名 |
+
+**Kimi 接入拆解（v1.1 执行清单）**：
+1. `src/types/index.ts`：`InterviewReviewProvider` 扩为 `'deepseek' | 'kimi' | 'local'`（同步报告页标签与历史记录校验）。
+2. 共享层抽象：把 `requestDeepSeekReview` 抽成 `requestModelReview(engine, ...)`，新增 `MOONSHOT_API_URL = 'https://api.moonshot.cn/v1/chat/completions'`、`MOONSHOT_MODEL`、`MOONSHOT_API_KEY`；两家都要求 `response_format: json_object`。
+3. 路由选择：`INTERVIEW_REVIEW_ENGINE=deepseek|kimi|auto`；`auto` 时 DeepSeek 失败（超时/非 2xx/JSON 不可解析）再试 Kimi，两次都失败才落本地规则。
+4. `reason` 记账：降级报告必须写清“DeepSeek 失败原因 → Kimi 失败原因”，不允许只写“AI 不可用”。
+5. 回归：`interview:smoke` 增加 engine 分支用例（mock 失败链），端点冒烟增加 `note='kimi-failed'` / `note='all-engines-failed'` 两种断言。
+6. 成本控制：Kimi 仅作备用与抽检对比，默认不并发双跑；对比模式单独加开关，避免每次作答双倍 token。
+
+
+
