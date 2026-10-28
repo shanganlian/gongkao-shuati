@@ -1,4 +1,5 @@
 import { AIReviewResult } from '../types';
+import { authFetch } from '../lib/authFetch';
 
 export async function evaluateInterviewResponse(
   questionTitle: string,
@@ -6,7 +7,7 @@ export async function evaluateInterviewResponse(
   candidateArchetype: string = '基层实干破局者'
 ): Promise<AIReviewResult> {
   try {
-    const res = await fetch('/api/ai-review', {
+    const res = await authFetch('/api/ai-review', {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json'
@@ -88,7 +89,7 @@ export async function generateDailyStudyPlan(params: {
   additionalNotes: string;
 }): Promise<any> {
   try {
-    const res = await fetch('/api/generate-plan', {
+    const res = await authFetch('/api/generate-plan', {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json'

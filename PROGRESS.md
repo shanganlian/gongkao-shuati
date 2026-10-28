@@ -1,6 +1,6 @@
 # 项目进度总结
 
-> 更新时间：2026-10-27
+> 更新时间：2026-10-28
 
 ## 0. 题库数据治理（2026-10-17）
 
@@ -881,6 +881,112 @@ WARN 412 构成：`W01` 题干过短 121、`W02` 缺少解析 135（全部是 20
 4. `reason` 记账：降级报告必须写清“DeepSeek 失败原因 → Kimi 失败原因”，不允许只写“AI 不可用”。
 5. 回归：`interview:smoke` 增加 engine 分支用例（mock 失败链），端点冒烟增加 `note='kimi-failed'` / `note='all-engines-failed'` 两种断言。
 6. 成本控制：Kimi 仅作备用与抽检对比，默认不并发双跑；对比模式单独加开关，避免每次作答双倍 token。
+
+## 6. 登录墙 + 每日额度 + 答题历史（2026-10-28）
+
+### 6.1 产品规则
+
+| 身份 | 每日额度 | 计数位置 | 说明 |
+| --- | ---: | --- | --- |
+| 游客 | 10 题 | `localStorage`（`guestStore`） | 同日同题不重复扣；登录后自动并入云端 |
+| 登录用户 | 50 题 | Supabase `user_quota`（`Asia/Shanghai` 自然日） | 服务端原子扣减，客户端无写权限 |
+
+- 同一天同一道题重复作答**不重复扣额度**（`answer_records` 唯一键兜底）。
+- 额度耗尽只拦截「新题」，已答错题与历史记录仍可查看、复习。
+- 服务端 AI 接口（`/api/ai-review`、`/api/interview-review`、`/api/tts`、`/api/generate-plan`）改为**必须登录**；前端保留本地降级（本地评分 / 浏览器朗读 / 本地计划模板），不静默失败。
+
+### 6.2 数据库迁移（`supabase/migrations/`）
+
+**表**
+
+| 文件 | 表 | 关键约束 |
+| --- | --- | --- |
+| `create_review_items.sql` | `review_items` | `UNIQUE(user_id, question_id)` + 2 索引 |
+| `create_answer_records.sql` | `answer_records` | `UNIQUE(user_id, question_id, answered_on)` + 2 索引 |
+| `create_user_quota.sql` | `user_quota` | `PRIMARY KEY(user_id, quota_date)` + 1 索引 |
+
+**函数**（均 `SECURITY DEFINER` + `SET search_path = public`，已 `REVOKE` 匿名执行）
+
+| 函数 | 作用 |
+| --- | --- |
+| `get_daily_quota()` | 返回 `{authenticated, used, limit, remaining}` |
+| `consume_question_quota(...)` | 单题扣减，返回 `{allowed, charged, ...}` |
+| `consume_question_quota_batch(JSONB, TEXT)` | 交卷批量扣减，返回 `allowed_ids` / `blocked_ids` |
+| `_consume_quota_one(...)` | 内部原子实现：先写 `answer_records`（唯一键冲突视为已扣），再校验额度，超额回滚刚写入的记录 |
+| `merge_guest_data(TEXT[], JSONB, INTEGER)` | 游客错题 / 历史 / 已用额度并入账号，幂等 |
+| `get_leaderboard(INTEGER)` | 聚合排行榜，只输出脱敏昵称与聚合指标 |
+
+**幂等化改造（本轮重点）**
+
+线上曾报 `42710 policy "review_select_own" for table "review_items" already exists`，四份迁移统一改为可重复执行：
+
+- 表 / 索引：`CREATE ... IF NOT EXISTS`；
+- 策略：一律 `DROP POLICY IF EXISTS` → `CREATE POLICY`；
+- 函数：一律 `DROP FUNCTION IF EXISTS` → `CREATE OR REPLACE FUNCTION`（规避返回列变更时的 `42P13`）；
+- 唯一键兜底：`DO` 块查 `pg_constraint`（`array_agg(attname::TEXT ORDER BY attname)` 比对列集合），缺失才补 unique index，异常只 `RAISE NOTICE` 不中断（规避 `ON CONFLICT` 的 `42P10`）；
+- `merge_guest_data.sql` **自带 `review_items` 建表与 4 条策略**，即使 `create_review_items.sql` 从未执行也能单独跑通。
+
+**执行顺序**：`create_review_items` → `create_answer_records` → `create_user_quota` → `merge_guest_data`（全程无 `DROP TABLE`，不丢数据）。
+
+**自检 SQL**
+
+```sql
+select table_name from information_schema.tables
+where table_schema = 'public'
+  and table_name in ('answer_records','user_quota','review_items');   -- 期望 3 行
+
+select proname from pg_proc
+where pronamespace = 'public'::regnamespace
+  and proname in ('get_daily_quota','consume_question_quota','consume_question_quota_batch',
+                  'merge_guest_data','get_leaderboard','_consume_quota_one');  -- 期望 6 行
+
+select public.get_daily_quota();   -- 期望 {"authenticated": false, ...}
+```
+
+### 6.3 前端
+
+| 文件 | 变更 |
+| --- | --- |
+| `src/context/AuthContext.tsx` | 新增 `sendEmailOtp` / `verifyEmailOtp`（Supabase OTP）；登录后调用 `mergeGuestDataToAccount()`，成功则 `mergeVersion++` 触发额度与历史刷新 |
+| `src/context/AuthUIContext.tsx` | 新增：全站唯一登录弹窗，`openAuth('guest_limit' \| 'need_login' \| 'default')` |
+| `src/components/AuthModal.tsx` | 三模式（验证码 / 密码 / 注册）、发送 60s 冷却、按 `reason` 显示不同引导文案、错误与成功提示分离 |
+| `src/main.tsx` / `src/App.tsx` / `src/components/Navbar.tsx` | 移除各自持有的 `AuthModal` 与嵌套 `AuthProvider`，入口统一 `AuthProvider > AuthUIProvider > App` |
+| `src/hooks/useQuota.ts` | 登录态走 `supabase.rpc`；RPC 不可用时降级本地计数并标记 `degraded`（额度条显示「额度服务未初始化」） |
+| `src/lib/guestStore.ts` | 游客额度 / 错题 / 历史（各上限 200）+ `mergeGuestDataToAccount`（并发保护，失败保留本地待重试） |
+| `src/components/PracticeArena.tsx` | 接入额度条与耗尽弹窗；专项 / 试卷 / 错题复习三处答题前扣额度；新增「答题历史」tab |
+| `src/components/AnswerHistory.tsx` | 新增：读 `answer_records`（RLS 仅本人），支持全部 / 错题 / 正确筛选与重练 |
+| `src/components/QuotaBanner.tsx` / `src/components/QuotaLimitDialog.tsx` | 新增：额度进度条、耗尽拦截弹窗（升级会员占位） |
+| `src/components/SiteFooter.tsx` | 新增：页脚 + 用户协议 / 免责声明占位弹窗（含额度规则说明） |
+| `src/lib/authFetch.ts` | 新增：统一带 `Authorization: Bearer <access_token>` |
+| `src/services/aiService.ts` / `audioService.ts` / `interviewReviewService.ts` | 改用 `authFetch`，未登录命中 401 后走本地兜底 |
+
+### 6.4 服务端
+
+- **新增 `shared/api-auth.ts`**（`server.ts` 与 `netlify/functions/api.ts` 共用）：
+  - `authenticateRequest(req)`：解析 Bearer token → 以 anon key + 请求者 JWT 建 client → `auth.getUser(token)` 校验，返回 `{user, client}`；
+  - `buildStatsOverview(auth)`：近 7 日趋势、连续答题天数、活跃天数、正确率、今日额度（单次最多 2000 行）；
+  - `buildLeaderboard(auth, limit)`：调用 `get_leaderboard` RPC，`limit` 收敛到 1–100。
+- **鉴权中间件 `requireAuth`**：`/api/generate-plan`、`/api/ai-review`、`/api/interview-review`、`/api/tts` 未登录一律 `401 {error:'unauthorized'}`。
+- **新增接口**：`GET /api/stats/overview`、`GET /api/leaderboard`（均需登录）。
+- **兜底**：`/api/*` 未匹配路径返回 JSON 404，避免落到 SPA 的 `index.html`。
+
+### 6.5 验证
+
+- `tsc --noEmit` 通过（本轮提交前复跑）。
+- 四份迁移在 Supabase SQL Editor 可重复执行，不再出现 `42710` / `42P10` / `42P13`。
+- 数据库自检：3 张表 / 6 个函数 / `get_daily_quota()` 返回 JSON。
+- 前端链路：游客答满 10 题弹拦截 → 登录后额度变 50 且游客记录并入；未登录调用 AI 接口返回 401 并走本地兜底。
+- **运维前置**：Supabase Auth 邮件模板必须包含 `{{ .Token }}`（6 位验证码），否则 `verifyOtp` 无码可填。
+
+### 6.6 待办
+
+| 优先级 | 事项 | 说明 |
+| --- | --- | --- |
+| P0 | 线上 SQL 重跑 + 硬刷验证 | 四份迁移按序执行，确认不再提示「额度服务未初始化」 |
+| P1 | `AnalyticsOverview` 对接 `/api/stats/overview`、`/api/leaderboard` | 后端已就绪，前端仍用本地统计 |
+| P1 | 服务端按题下发（防爬 v2） | 当前静态分片可整包下载，`localStorage` 额度只能挡普通用户 |
+| P2 | 会员 / 付费入口替换占位 | `QuotaLimitDialog` 的「升级会员」目前仅为占位文案 |
+
 
 
 

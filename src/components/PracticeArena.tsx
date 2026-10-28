@@ -13,15 +13,21 @@ import {
   Layers,
   ArrowRight,
   Award,
-  Brain
+  Brain,
+  History
 } from 'lucide-react';
 import { Question, Paper, ExamCategory, ExamModule } from '../types';
 import { MOCK_QUESTIONS, MOCK_PAPERS, EXAM_MODULE_NAMES, PROVINCE_LIST } from '../data/mockData';
 import { NoteList } from './NoteList';
-import { AuthModal } from './AuthModal';
 import { supabase } from '../lib/supabase';
 import { useAuth } from '../context/AuthContext';
+import { useAuthUI } from '../context/AuthUIContext';
 import { useQuestions } from '../hooks/useQuestions';
+import { useQuota } from '../hooks/useQuota';
+import { addGuestMistake } from '../lib/guestStore';
+import { QuotaBanner } from './QuotaBanner';
+import { QuotaLimitDialog } from './QuotaLimitDialog';
+import { AnswerHistory } from './AnswerHistory';
 import { QuestionErrorBoundary } from './QuestionErrorBoundary';
 import { filterValidQuestions, isValidQuestion, isMergedAbnormal } from '../lib/questionValidation';
 import { AbnormalQuestionPlaceholder } from './AbnormalQuestionPlaceholder';
@@ -41,8 +47,10 @@ export const PracticeArena: React.FC<PracticeArenaProps> = ({
   reviewTrigger,
   knowledgeFilter
 }) => {
-  const { user } = useAuth();
-  const [practiceMode, setPracticeMode] = useState<'drill' | 'papers' | 'mistakes' | 'review'>('drill');
+  const { user, mergeVersion } = useAuth();
+  const { openAuth } = useAuthUI();
+  const quota = useQuota();
+  const [practiceMode, setPracticeMode] = useState<'drill' | 'papers' | 'mistakes' | 'review' | 'history'>('drill');
   const [activeModule, setActiveModule] = useState<string>('all');
   const [activeProvince, setActiveProvince] = useState<string>(() => {
     try {
@@ -111,7 +119,7 @@ export const PracticeArena: React.FC<PracticeArenaProps> = ({
 
   // Custom paper (mock exam by province) state
   const [showCustomPaper, setShowCustomPaper] = useState<boolean>(false);
-  const [authOpen, setAuthOpen] = useState<boolean>(false);
+  const [quotaBlockedOpen, setQuotaBlockedOpen] = useState<boolean>(false);
   const [customProvince, setCustomProvince] = useState<string>('联考');
   const [customCount, setCustomCount] = useState<number>(20);
 
@@ -212,19 +220,65 @@ export const PracticeArena: React.FC<PracticeArenaProps> = ({
     } catch (e) { /* ignore */ }
   };
 
-  const handleSubmitQuestion = (q: Question) => {
+  // 登录后把云端错题并入错题本（含游客数据合并结果）；游客态不展示错题本
+  useEffect(() => {
+    if (!user) {
+      setMistakeList([]);
+      return;
+    }
+    let alive = true;
+    (async () => {
+      try {
+        const { data } = await supabase
+          .from('review_items')
+          .select('question_id')
+          .eq('user_id', user.id);
+        if (!alive || !data) return;
+        const cloudIds = data.map(item => item.question_id).filter(Boolean);
+        setMistakeList(prev => Array.from(new Set([...prev, ...cloudIds])));
+      } catch (e) { /* ignore */ }
+    })();
+    return () => { alive = false; };
+  }, [user?.id, mergeVersion]);
+
+  const handleUpgrade = () => {
+    window.alert('会员体系随面试大厅上线开放，当前每日 50 题免费额度已足够完成一轮专项训练。');
+  };
+
+  const handleSubmitQuestion = async (q: Question) => {
     const isSubjective = !q.options || q.options.length === 0;
     const ans = selectedAnswers[q.id];
     if (!ans && !isSubjective) return;
+    if (submittedQuestions[q.id]) return;
+
+    const isCorrect = isSubjective ? null : ans === q.answer;
+    const outcome = await quota.consume(q.id, {
+      selectedKey: ans ?? null,
+      isCorrect,
+      source: 'drill',
+    });
+
+    if (!outcome.allowed) {
+      if (!user || outcome.reason === 'guest_limit') {
+        openAuth('guest_limit');
+      } else {
+        setQuotaBlockedOpen(true);
+      }
+      return;
+    }
 
     setSubmittedQuestions(prev => ({ ...prev, [q.id]: true }));
     onRecordQuestionAnswered();
 
-    if (!isSubjective && ans !== q.answer) {
+    if (isCorrect === false) {
       if (!mistakeList.includes(q.id)) {
         setMistakeList(prev => [...prev, q.id]);
       }
-      addToReviewQueue(q);
+      if (user) {
+        addToReviewQueue(q);
+      } else {
+        addGuestMistake(q.id);
+      }
     }
   };
 
@@ -241,25 +295,55 @@ export const PracticeArena: React.FC<PracticeArenaProps> = ({
     setPaperScore(null);
   };
 
-  const handleSubmitPaper = () => {
+  const handleSubmitPaper = async () => {
     if (!activePaper) return;
+
+    // 只对"已作答"的题目扣额度；空白题不计入额度消耗
+    const answeredQuestions = activePaper.questions.filter(q => !!paperAnswers[q.id]);
+    const batchResult = await quota.consumeBatch(
+      answeredQuestions.map(q => ({
+        question_id: q.id,
+        selected_key: paperAnswers[q.id],
+        is_correct: paperAnswers[q.id] === q.answer,
+        source: 'paper',
+      })),
+      'paper'
+    );
+    const allowedSet = new Set(batchResult.allowedIds);
+
     let correctCount = 0;
     activePaper.questions.forEach(q => {
       if (paperAnswers[q.id] === q.answer) {
         correctCount++;
-      } else {
-        if (!mistakeList.includes(q.id)) {
-          setMistakeList(prev => [...prev, q.id]);
-        }
+        return;
+      }
+      // 空白题或额度被拦截的题，不写入错题本，避免"没扣额度却产生错题"
+      if (!paperAnswers[q.id] || !allowedSet.has(q.id)) return;
+
+      if (!mistakeList.includes(q.id)) {
+        setMistakeList(prev => [...prev, q.id]);
+      }
+      if (user) {
         addToReviewQueue(q);
+      } else {
+        addGuestMistake(q.id);
       }
     });
 
     const calculatedScore = Math.round((correctCount / activePaper.questions.length) * 100);
     setPaperScore(calculatedScore);
     setIsPaperSubmitted(true);
-    for (let i = 0; i < activePaper.questions.length; i++) {
+
+    for (let i = 0; i < allowedSet.size; i++) {
       onRecordQuestionAnswered();
+    }
+
+    if (batchResult.blocked > 0) {
+      if (!user) {
+        openAuth('guest_limit');
+      } else {
+        setQuotaBlockedOpen(true);
+      }
     }
   };
 
@@ -325,6 +409,16 @@ export const PracticeArena: React.FC<PracticeArenaProps> = ({
     const ans = reviewSelected[q.id];
     if (!ans) return;
     if (!user || !q.review) return;
+
+    const outcome = await quota.consume(q.id, {
+      selectedKey: ans,
+      isCorrect: ans === q.answer,
+      source: 'review',
+    });
+    if (!outcome.allowed) {
+      setQuotaBlockedOpen(true);
+      return;
+    }
 
     setReviewSubmitted(prev => ({ ...prev, [q.id]: true }));
     onRecordQuestionAnswered();
@@ -431,8 +525,28 @@ export const PracticeArena: React.FC<PracticeArenaProps> = ({
             <Brain className="w-3.5 h-3.5" />
             错题复习
           </button>
+          <button
+            onClick={() => { setPracticeMode('history'); setActivePaper(null); }}
+            className={`flex items-center gap-1 px-3.5 py-1.5 text-xs font-semibold rounded-lg transition-colors cursor-pointer ${
+              practiceMode === 'history' ? 'bg-white text-slate-900 shadow-xs' : 'text-slate-600 hover:text-slate-900'
+            }`}
+          >
+            <History className="w-3.5 h-3.5" />
+            答题历史
+          </button>
         </div>
       </div>
+
+      <QuotaBanner
+        used={quota.used}
+        limit={quota.limit}
+        remaining={quota.remaining}
+        isGuest={quota.isGuest}
+        loading={quota.loading}
+        degraded={quota.degraded}
+        onLogin={() => openAuth('default')}
+        onUpgrade={handleUpgrade}
+      />
 
       {/* PAPER SIMULATION VIEW */}
       {activePaper ? (
@@ -660,6 +774,21 @@ export const PracticeArena: React.FC<PracticeArenaProps> = ({
           </div>
         </div>
       ) : practiceMode === 'mistakes' ? (
+        !user ? (
+          <div className="bg-white rounded-2xl p-12 text-center border border-slate-200/80">
+            <Award className="w-10 h-10 text-slate-300 mx-auto mb-2" />
+            <h4 className="text-sm font-bold text-slate-800">登录后查看错题本</h4>
+            <p className="text-xs text-slate-500 mt-1">
+              错题会云端保存，并自动进入艾宾浩斯复习队列。
+            </p>
+            <button
+              onClick={() => openAuth('need_login')}
+              className="mt-4 inline-flex items-center gap-1.5 px-4 py-2 bg-emerald-600 hover:bg-emerald-700 text-white text-xs font-semibold rounded-xl cursor-pointer"
+            >
+              立即登录
+            </button>
+          </div>
+        ) : (
         /* MISTAKES NOTEBOOK */
         <div className="space-y-4">
           <div className="bg-amber-50 border border-amber-200/80 rounded-xl p-4 text-xs text-amber-900">
@@ -703,6 +832,12 @@ export const PracticeArena: React.FC<PracticeArenaProps> = ({
             </div>
           )}
         </div>
+        )
+      ) : practiceMode === 'history' ? (
+        <AnswerHistory
+          questionsPool={questionsPool}
+          onRequireLogin={() => openAuth('need_login')}
+        />
       ) : practiceMode === 'review' ? (
         /* REVIEW MODE: 艾宾浩斯错题复习 */
         <div className="space-y-5">
@@ -727,6 +862,12 @@ export const PracticeArena: React.FC<PracticeArenaProps> = ({
               <p className="text-xs text-slate-500 mt-1">
                 复习记录将云端同步，换设备也不丢失。
               </p>
+              <button
+                onClick={() => openAuth('need_login')}
+                className="mt-4 inline-flex items-center gap-1.5 px-4 py-2 bg-emerald-600 hover:bg-emerald-700 text-white text-xs font-semibold rounded-xl cursor-pointer"
+              >
+                立即登录
+              </button>
             </div>
           ) : reviewItems.length === 0 ? (
             <div className="bg-white rounded-2xl p-12 text-center border border-slate-200/80">
@@ -1045,7 +1186,7 @@ export const PracticeArena: React.FC<PracticeArenaProps> = ({
 
                   <NoteList
                     questionId={currentQ.id}
-                    onRequireLogin={() => setAuthOpen(true)}
+                    onRequireLogin={() => openAuth('need_login')}
                   />
                 </div>
               )}
@@ -1056,7 +1197,12 @@ export const PracticeArena: React.FC<PracticeArenaProps> = ({
           )}
         </div>
       )}
-      <AuthModal open={authOpen} onClose={() => setAuthOpen(false)} />
+
+      <QuotaLimitDialog
+        open={quotaBlockedOpen}
+        onClose={() => setQuotaBlockedOpen(false)}
+        onUpgrade={handleUpgrade}
+      />
     </div>
   );
 };

@@ -3,10 +3,10 @@ import { Navbar } from './components/Navbar';
 import { PracticeArena } from './components/PracticeArena';
 import { ErrorBoundary } from './components/ErrorBoundary';
 import { DailyMindset } from './components/DailyMindset';
-import { AuthModal } from './components/AuthModal';
 import { AudioPlayerFloating } from './components/AudioPlayerFloating';
+import { SiteFooter } from './components/SiteFooter';
 import { ExamCategory } from './types';
-import { AuthProvider } from './context/AuthContext';
+import { useAuthUI } from './context/AuthUIContext';
 import { isInterviewHash } from './components/interview/interviewRoutes';
 import {
   BarChart3,
@@ -59,7 +59,7 @@ export default function App() {
   const [reviewTrigger, setReviewTrigger] = useState<number>(0);
   const [knowledgeView, setKnowledgeView] = useState<'base' | 'graph'>('graph');
   const [knowledgeFilter, setKnowledgeFilter] = useState<{ module: string; cardIds: string[]; keywords: string[] } | null>(null);
-  const [authOpen, setAuthOpen] = useState<boolean>(false);
+  const { openAuth } = useAuthUI();
 
   // 离开面试模块时清掉面试子路由，避免 URL 仍停在 #/interview/report/... 导致刷新又跳回面试
   useEffect(() => {
@@ -145,7 +145,6 @@ export default function App() {
   ];
 
   return (
-    <AuthProvider>
     <div className="min-h-screen bg-[#F3F4F6] text-slate-800 flex flex-col font-sans pb-20 md:pb-8">
       {/* Top Navigation */}
       <Navbar
@@ -215,7 +214,7 @@ export default function App() {
             </div>
             {knowledgeView === 'graph' ? (
               <KnowledgeGraph
-                onRequireLogin={() => setAuthOpen(true)}
+                onRequireLogin={() => openAuth('need_login')}
                 onJumpToPractice={(module, questionIds, keywords) => {
                   setKnowledgeFilter({ module, cardIds: questionIds, keywords });
                   setActiveTab('practice');
@@ -271,8 +270,7 @@ export default function App() {
         </Suspense>
       </main>
 
-      {/* 登录弹窗（知识图谱未登录引导） */}
-      <AuthModal open={authOpen} onClose={() => setAuthOpen(false)} />
+      <SiteFooter />
 
       {/* Floating Audio Player for background voice summaries */}
       <AudioPlayerFloating
@@ -300,6 +298,5 @@ export default function App() {
         })}
       </nav>
     </div>
-    </AuthProvider>
   );
 }

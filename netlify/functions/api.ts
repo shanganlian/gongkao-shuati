@@ -1,4 +1,4 @@
-import express from 'express';
+import express, { type NextFunction, type Request, type Response } from 'express';
 import serverless from 'serverless-http';
 import { GoogleGenAI } from '@google/genai';
 import {
@@ -10,13 +10,34 @@ import {
   requestDeepSeekReview,
   sanitizeReviewRequest,
 } from '../../shared/interview-review';
+import {
+  authenticateRequest,
+  buildLeaderboard,
+  buildStatsOverview,
+  type AuthContext,
+} from '../../shared/api-auth';
 
 const app = express();
 
 app.use(express.json());
 
+/** 受保护接口：必须携带 Supabase 登录态（Authorization: Bearer <access_token>） */
+async function requireAuth(req: Request, res: Response, next: NextFunction) {
+  try {
+    const auth = await authenticateRequest(req);
+    if (!auth) {
+      return res.status(401).json({ error: 'unauthorized', message: '请先登录后再使用该功能' });
+    }
+    (req as Request & { auth?: AuthContext }).auth = auth;
+    return next();
+  } catch (err: any) {
+    console.error('auth middleware error:', err?.message || err);
+    return res.status(401).json({ error: 'unauthorized' });
+  }
+}
+
 // AI Daily Study Plan Generator Endpoint
-app.post('/api/generate-plan', async (req, res) => {
+app.post('/api/generate-plan', requireAuth, async (req, res) => {
   const { userProfile, availableHours, weakPoints, targetExam, additionalNotes } = req.body;
 
   const apiKey = process.env.GEMINI_API_KEY;
@@ -155,7 +176,7 @@ app.post('/api/generate-plan', async (req, res) => {
 });
 
 // AI Review Endpoint for Interview Evaluation
-app.post('/api/ai-review', async (req, res) => {
+app.post('/api/ai-review', requireAuth, async (req, res) => {
   const { questionTitle, userAnswer, candidateArchetype } = req.body;
 
   if (!userAnswer || userAnswer.trim().length === 0) {
@@ -261,7 +282,7 @@ ${userAnswer}
 
 // 面试大厅 v1.0 · DeepSeek 三维评分 + 采分点逐条硬对照
 // 无 Key / 超时 / JSON 异常：一律返回本地规则报告（provider=local, degraded=true），不伪装 AI
-app.post('/api/interview-review', async (req, res) => {
+app.post('/api/interview-review', requireAuth, async (req, res) => {
   const parsed = sanitizeReviewRequest(req.body);
   if (!parsed.ok) {
     return res.status(400).json({ error: parsed.error });
@@ -311,7 +332,7 @@ app.post('/api/interview-review', async (req, res) => {
 });
 
 // High-Fidelity Emotional Voice Synthesis Endpoint using Gemini TTS
-app.post('/api/tts', async (req, res) => {
+app.post('/api/tts', requireAuth, async (req, res) => {
   const { text, voiceName = 'Charon', style } = req.body;
 
   if (!text || typeof text !== 'string') {
@@ -387,5 +408,38 @@ app.post('/api/tts', async (req, res) => {
     return res.status(500).json({ error: err.message || 'TTS generation failed', fallback: true });
   }
 });
+
+// ============================================
+// 个人统计与排行榜（需登录）
+// ============================================
+app.get('/api/stats/overview', async (req, res) => {
+  const auth = await authenticateRequest(req);
+  if (!auth) {
+    return res.status(401).json({ error: 'unauthorized', message: '请先登录后再查看统计' });
+  }
+  try {
+    const overview = await buildStatsOverview(auth);
+    return res.json(overview);
+  } catch (err: any) {
+    console.error('stats overview error:', err?.message || err);
+    return res.status(500).json({ error: 'stats_unavailable', message: err?.message });
+  }
+});
+
+app.get('/api/leaderboard', async (req, res) => {
+  const auth = await authenticateRequest(req);
+  if (!auth) {
+    return res.status(401).json({ error: 'unauthorized', message: '请先登录后再查看排行榜' });
+  }
+  const limit = Number(req.query.limit) || 20;
+  const result = await buildLeaderboard(auth, limit);
+  if (result.error) {
+    return res.status(500).json({ error: 'leaderboard_unavailable', message: result.error });
+  }
+  return res.json({ entries: result.entries });
+});
+
+// 未匹配的 /api 路径统一返回 JSON
+app.use('/api', (_req, res) => res.status(404).json({ error: 'not_found' }));
 
 export const handler = serverless(app);

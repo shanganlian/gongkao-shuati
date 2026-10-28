@@ -1,4 +1,5 @@
 -- 艾宾浩斯错题复习功能：review_items 表 + RLS
+-- 幂等：可重复执行（表 IF NOT EXISTS，策略先 DROP 再 CREATE）
 
 -- ============================================
 -- 1. review_items 表：错题复习队列
@@ -25,14 +26,18 @@ CREATE INDEX IF NOT EXISTS idx_review_items_due ON public.review_items(user_id, 
 -- ============================================
 ALTER TABLE public.review_items ENABLE ROW LEVEL SECURITY;
 
+DROP POLICY IF EXISTS "review_select_own" ON public.review_items;
 CREATE POLICY "review_select_own" ON public.review_items
   FOR SELECT USING (auth.uid() = user_id);
 
+DROP POLICY IF EXISTS "review_insert_own" ON public.review_items;
 CREATE POLICY "review_insert_own" ON public.review_items
   FOR INSERT WITH CHECK (auth.uid() = user_id);
 
+DROP POLICY IF EXISTS "review_update_own" ON public.review_items;
 CREATE POLICY "review_update_own" ON public.review_items
   FOR UPDATE USING (auth.uid() = user_id);
 
+DROP POLICY IF EXISTS "review_delete_own" ON public.review_items;
 CREATE POLICY "review_delete_own" ON public.review_items
   FOR DELETE USING (auth.uid() = user_id);

@@ -3,6 +3,8 @@
  * Integrates server-side Gemini AI TTS with emotional personas and low-latency fallback
  */
 
+import { authFetch } from '../lib/authFetch';
+
 export interface VoicePersona {
   id: string;
   name: string;
@@ -75,7 +77,7 @@ export async function playEmotionalSpeech(options: {
   // If not cached, fetch from backend Gemini TTS API
   if (!audioBase64) {
     try {
-      const res = await fetch('/api/tts', {
+      const res = await authFetch('/api/tts', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({

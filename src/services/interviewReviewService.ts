@@ -19,6 +19,7 @@ import {
   type InterviewReviewRequest,
 } from '../../shared/interview-review';
 import { buildLocalInterviewReview, computeExpressionMetrics } from '../lib/interviewScoring';
+import { authFetch } from '../lib/authFetch';
 
 /** 略大于服务端 26s，保证先收到服务端降级结果，而不是前端先 abort */
 const CLIENT_TIMEOUT_MS = 30000;
@@ -82,7 +83,7 @@ export async function requestInterviewReview(
   const controller = new AbortController();
   const timer = setTimeout(() => controller.abort(), CLIENT_TIMEOUT_MS);
   try {
-    const res = await fetch(INTERVIEW_REVIEW_ENDPOINT, {
+    const res = await authFetch(INTERVIEW_REVIEW_ENDPOINT, {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify(body),

@@ -24,7 +24,7 @@ import {
 } from 'lucide-react';
 import { ExamCategory } from '../types';
 import { useAuth } from '../context/AuthContext';
-import { AuthModal } from './AuthModal';
+import { useAuthUI } from '../context/AuthUIContext';
 import { User, LogOut } from 'lucide-react';
 
 type TargetCategory = ExamCategory | 'all';
@@ -51,8 +51,8 @@ export const Navbar: React.FC<NavbarProps> = ({
   onOpenCheckIn
 }) => {
   const [showModuleGuide, setShowModuleGuide] = useState<boolean>(false);
-  const [authOpen, setAuthOpen] = useState(false);
   const { user, signOut } = useAuth();
+  const { openAuth } = useAuthUI();
   const isWrittenTab = ['practice', 'knowledge', 'daily'].includes(activeTab);
 
   // 6 Primary Navigation Sections with explicit badges & descriptions
@@ -320,7 +320,7 @@ export const Navbar: React.FC<NavbarProps> = ({
               </div>
             ) : (
               <button
-                onClick={() => setAuthOpen(true)}
+                onClick={() => openAuth('default')}
                 className="flex items-center gap-1.5 px-3 py-1.5 bg-slate-900 hover:bg-slate-800 text-white text-xs font-bold rounded-xl cursor-pointer"
               >
                 <User className="w-3.5 h-3.5" />
@@ -569,8 +569,6 @@ export const Navbar: React.FC<NavbarProps> = ({
           </div>
         </div>
       )}
-
-      <AuthModal open={authOpen} onClose={() => setAuthOpen(false)} />
     </header>
   );
 };
