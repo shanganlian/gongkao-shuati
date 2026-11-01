@@ -1,6 +1,6 @@
 # 项目进度总结
 
-> 更新时间：2026-10-28
+> 更新时间：2026-11-01
 
 ## 0. 题库数据治理（2026-10-17）
 
@@ -986,6 +986,112 @@ select public.get_daily_quota();   -- 期望 {"authenticated": false, ...}
 | P1 | `AnalyticsOverview` 对接 `/api/stats/overview`、`/api/leaderboard` | 后端已就绪，前端仍用本地统计 |
 | P1 | 服务端按题下发（防爬 v2） | 当前静态分片可整包下载，`localStorage` 额度只能挡普通用户 |
 | P2 | 会员 / 付费入口替换占位 | `QuotaLimitDialog` 的「升级会员」目前仅为占位文案 |
+
+## 7. 阿里云迁移上线（2026-11-01）
+
+> 目标：从 Netlify/Vercel 托管迁到阿里云 ECS（Alibaba Cloud Linux 4），自有域名 + HTTPS，后端常驻 Node 进程。
+
+### 7.1 线上拓扑
+
+| 项 | 值 |
+| --- | --- |
+| 服务器 | 阿里云 ECS `47.106.172.207`（Alibaba Cloud Linux 4，x86_64，SELinux Enforcing） |
+| 域名 | `igoiget.com` / `www.igoiget.com`（A 记录 → 47.106.172.207） |
+| 入口 | nginx 80/443，站点配置 `/etc/nginx/conf.d/igoiget.conf` |
+| 静态产物 | `/var/www/bideti/current/dist`（`current` 为软链，发版原子切换） |
+| 应用 | `server.ts` 由 pm2 常驻，仅监听 `127.0.0.1:3002`，nginx 反代 `/api/` |
+| 运行用户 | `bideti`（`/home/bideti`，systemd 单元 `pm2-bideti.service`） |
+| 环境变量 | `/etc/bideti/bideti.env`（`root:bideti 640`，pm2 启动时由 dotenv 读取） |
+| 证书 | `/etc/letsencrypt/live/igoiget.com/fullchain.pem`（certbot `--nginx`） |
+| 部署脚本 | `/root/bideti-deploy/`（00 预检 / 01 初始化 / 02 发布 / 03 回滚 / 04 证书） |
+
+### 7.2 预检（00-preflight.sh）
+
+- 架构判断由「仅 x86_64」放宽为 `x86_64` / `aarch64` / `arm64`，与 Node 官方二进制口径一致。
+- 预检覆盖：OS 版本、磁盘、内存、端口占用、nginx / firewalld、`bideti.env` 是否存在，以及 `DEEPSEEK_API_KEY` 是否已填（只判断，不回显内容）。
+
+### 7.3 Node 24 安装改造（本次最大坑）
+
+**失败路径**（旧脚本）：
+
+1. `curl https://npmmirror.com/mirrors/node/latest-v24.x/` 抓目录列表再 grep 文件名 —— 该目录页不是标准文件列表，取不到 `node-v24.x.y-linux-x64.tar.xz`；
+2. 回退 NodeSource `setup_24.x` —— 只支持 RPM 系仓库，Alibaba Cloud Linux 4 上直接失败；
+3. 实测：`latest-v24.x/` 在阿里云镜像 404，npmmirror 的软链也滞后（仍指 24.9.0），**不能作为版本来源**。
+
+**现行实现**（`deploy/01-bootstrap.sh`）：
+
+1. 依次读取各镜像 `index.json`，`sort -uV` 取最新 `v24.x.y`（本次解析到 **v24.22.2**）；
+2. 按 `npmmirror → registry.npmmirror → 阿里云 → nodejs.org` 顺序尝试 `v<版本>/`；国内镜像解析成功后不再请求官方源；
+3. 下载 `node-v<版本>-linux-<arch>.tar.xz` 与同源 `SHASUMS256.txt`，`sha256sum -c` 校验后解压到 `/usr/local/lib/nodejs/`；
+4. 建 `current` 软链 + `/usr/local/bin/{node,npm,npx,corepack}`；tarball 安装的 pm2 全局 bin 落在 Node 目录内，额外软链 `/usr/local/bin/pm2`；
+5. 架构映射 `x86_64→x64`、`aarch64/arm64→arm64`；可选覆盖 `NODE_VERSION` / `NODE_MIRROR` / `NODE_SKIP_VERIFY`。
+
+**验证**：本地 `bash -n` 两个脚本通过；实际下载 30.55 MB、SHA256 通过、包内 `bin/node` 路径与脚本 `NODE_DIR` 一致。
+
+**提交**：`3e4638b fix(deploy): install Node 24 from npmmirror binary tarball`（连同 `1370e5c chore(deploy): prepare aliyun production runtime` 一并推送）。
+
+### 7.4 首次发布 EACCES 排障（已记录）
+
+**现象**：`02-release.sh` 走到最后一步 pm2 启动失败，重复 5 次：
+
+```
+[PM2] Spawning PM2 daemon with pm2_home=/home/bideti/.pm2
+spawn /usr/local/lib/nodejs/node-v24.22.2-linux-x64/bin/node EACCES
+[ERROR] pm2 启动失败，没有可回滚版本
+```
+
+**原因**：tarball 解压目录对 `bideti` 用户不可执行 / 不可穿越（叠加 SELinux Enforcing 下新目录未按默认策略打标）。
+
+**修复**：
+
+```bash
+chown -R root:root /usr/local/lib/nodejs
+chmod 755 /usr/local/lib/nodejs
+chmod -R a+rX /usr/local/lib/nodejs      # 只给目录和已有 x 位的文件补执行，不动 .so/.js
+restorecon -R /usr/local/lib/nodejs      # 重新套用 usr_t 默认上下文
+sudo -u bideti -H bash -lc 'node -v && pm2 -v'
+```
+
+**连带坑**：首次发布时 `02-release.sh` 先安装 nginx 站点配置并置 `INSTALLED_NGINX=1`，pm2 启动失败后 `fail()` 会删掉刚装的 `/etc/nginx/conf.d/igoiget.conf`（回滚分支的预期行为）。修复权限后要先补回配置再起 pm2：
+
+```bash
+[ -f /etc/nginx/conf.d/igoiget.conf ] || install -m 644 /var/www/bideti/current/deploy/nginx/igoiget.conf /etc/nginx/conf.d/igoiget.conf
+nginx -t && systemctl reload nginx
+sudo -u bideti -H bash -lc 'pm2 start /var/www/bideti/current/ecosystem.config.cjs && pm2 save'
+```
+
+### 7.5 发布链路（02-release.sh）
+
+1. `pack.ps1` 打包（`dist server.ts shared src package.json package-lock.json tsconfig.json deploy`，不含 `node_modules` / `.env` / `.git`），同目录生成 `<包>.sha256`；
+2. `upload.ps1` 把 tarball + 校验文件传到 `/tmp`（**不是** `/root/bideti-deploy/`，`02-release.sh` 参数必须用实际路径，否则报「发布包不存在」）；
+3. 脚本校验包存在 / 无绝对路径与 `..` 穿越、磁盘可用 ≥5GB、有 `.sha256` 时执行 `sha256sum -c`，解包到 `/var/www/bideti/releases/<时间戳>`；
+4. `npm ci --omit=dev`（registry 走 npmmirror）→ `chown bideti` → 原子切换 `current` 软链；
+5. 首次发布安装 `/etc/nginx/conf.d/igoiget.conf`；每次发布 `nginx -t` + `systemctl reload nginx`；
+6. `pm2 delete bideti` → `pm2 start ecosystem.config.cjs`（dotenv 重新读取 `bideti.env`，密钥改动无需单独 restart）→ `pm2 save`；
+7. 健康检查：`/api/stats/overview` 期望 **401**、首页正文含「必得题库」；失败自动回滚到上一版本，成功保留最近 3 个 release。
+
+### 7.6 访问诊断：IP 看到 nginx 欢迎页 ≠ 故障
+
+- 站点模板 `server_name igoiget.com www.igoiget.com` 未加 `default_server`，**用 IP 访问必然落到 nginx 默认站**（`/usr/share/nginx/html`）。
+- 验证要用 Host 头：`curl -s -H 'Host: igoiget.com' http://127.0.0.1/`；或本机 hosts 绑定域名预览。**不要**在证书签发前把 IP 写进 `server_name` —— certbot `--redirect` 后会 301 到 `https://IP`，证书不匹配。
+- 站点 `root` 就是 `/var/www/bideti/current/dist`，发版只切软链，不改 nginx 配置。
+
+### 7.7 DNS 切换与 HTTPS（04-certbot.sh）
+
+1. DNS A 记录 `igoiget.com` / `www.igoiget.com` → `47.106.172.207` 生效；
+2. `01-bootstrap.sh` 已放行 firewalld 80/443，站点配置此时只有 80；
+3. `04-certbot.sh` 先核对 DNS 解析、`nginx -t`、本机 Host 头 200，再 `certbot --nginx -d igoiget.com -d www.igoiget.com --redirect`，自动追加 443 / 证书 / HTTP→HTTPS 跳转；
+4. 续期：优先启用 `certbot-renew.timer`，否则写 `/etc/cron.d/certbot-renew`；末尾 `renew --dry-run` 演练；
+5. certbot 只改 nginx 配置，`02-release.sh` 之后只 `reload` 不覆盖。
+
+### 7.8 结果与后续
+
+- 线上：`https://igoiget.com` 已启用（证书覆盖 `igoiget.com` + `www`），Node **v24.22.2**，pm2 守护 `bideti`，后端 `127.0.0.1:3002`。
+- 待办：
+  - Netlify 侧补 `DEEPSEEK_API_KEY`（scope Functions）并跑 `scripts/smoke-interview-endpoint.mjs --expect=deepseek`（迁移前遗留项）；
+  - 到期前 30 天确认自动续期实际触发：`systemctl list-timers certbot-renew.timer`；
+  - `pm2 save` 后验证 `systemctl restart pm2-bideti` 能 `resurrect` 出 `bideti`；
+  - 备份：`/etc/bideti/bideti.env` 不入库，`deploy/` 变更已纳入仓库；建议定期备份 releases 与证书目录。
 
 
 
