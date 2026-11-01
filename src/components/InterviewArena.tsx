@@ -1509,7 +1509,7 @@ export const InterviewArena: React.FC<InterviewArenaProps> = ({
 
           {/* Anti-Anxiety Message */}
           <div className="p-4 bg-emerald-600 text-white rounded-xl text-center text-xs space-y-1 shadow-sm">
-            <span className="font-bold block">【行岸公考暖心寄语】：</span>
+            <span className="font-bold block">【必得题库暖心寄语】：</span>
             <p className="leading-relaxed italic">
               {reviewResult.antiAnxietyEncouragement}
             </p>

@@ -127,7 +127,10 @@ export const AuthModal: React.FC<AuthModalProps> = ({ open, onClose, reason = 'd
     <div className="fixed inset-0 z-50 flex items-center justify-center bg-black/50 p-4" onClick={onClose}>
       <div className="bg-white rounded-2xl p-6 w-full max-w-sm shadow-2xl max-h-[90vh] overflow-y-auto" onClick={e => e.stopPropagation()}>
         <div className="flex items-center justify-between mb-3">
-          <h3 className="text-lg font-bold text-slate-900">登录 / 注册</h3>
+          <div>
+            <p className="text-[10px] font-bold tracking-wide text-emerald-600">必得题库</p>
+            <h3 className="text-lg font-bold text-slate-900">登录 / 注册</h3>
+          </div>
           <button onClick={onClose} className="text-slate-400 hover:text-slate-700 cursor-pointer" aria-label="关闭">
             <X className="w-5 h-5" />
           </button>

@@ -21,7 +21,7 @@ const LEGAL_CONTENT: Record<Exclude<LegalKind, null>, { title: string; body: str
 };
 
 /**
- * 全站页脚：版权、协议入口、备案号占位。
+ * 全站页脚：版权、协议入口、备案号。
  * 移动端底部有固定导航，外层布局已留出 pb-20 安全区。
  */
 export const SiteFooter: React.FC = () => {
@@ -32,7 +32,17 @@ export const SiteFooter: React.FC = () => {
     <>
       <footer className="mt-10 border-t border-slate-200/80 bg-white/60">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-5 flex flex-col sm:flex-row items-center justify-between gap-2 text-[11px] text-slate-500">
-          <p>© {year} 行岸公考 · 国考 / 省考 / 事业编智能备考</p>
+          <p>
+            © {year} 必得题库 ·{' '}
+            <a
+              href="https://beian.miit.gov.cn/"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="hover:text-slate-800 hover:underline"
+            >
+              宁ICP备2026004293号
+            </a>
+          </p>
           <div className="flex items-center gap-4">
             <button
               onClick={() => setLegal('terms')}
@@ -48,7 +58,6 @@ export const SiteFooter: React.FC = () => {
               <ShieldCheck className="w-3 h-3" />
               免责声明
             </button>
-            <span className="text-slate-400">备案号：待填写</span>
           </div>
         </div>
       </footer>

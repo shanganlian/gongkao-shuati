@@ -296,7 +296,7 @@ export const GrowthSystem: React.FC<GrowthSystemProps> = ({
       <div className="p-4 bg-emerald-50 border border-emerald-200/80 rounded-2xl flex items-start gap-3">
         <Smile className="w-5 h-5 text-emerald-700 shrink-0 mt-0.5" />
         <div className="text-xs text-emerald-950 space-y-1">
-          <strong className="font-semibold block">【行岸抗焦虑宣言】：</strong>
+          <strong className="font-semibold block">【必得题库抗焦虑宣言】：</strong>
           <p className="leading-relaxed">
             任何公布分数排行榜的机制都会催生无意义的内卷与惶恐。每个人起点不同、可用时间不同。在这里，你唯一需要对比的就是昨天的自己。按部就班就是伟大，日拱一卒，功不唐捐。
           </p>

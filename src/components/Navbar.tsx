@@ -244,12 +244,12 @@ export const Navbar: React.FC<NavbarProps> = ({
               title="点击返回学情总览"
             >
               <div className="w-9 h-9 rounded-xl bg-slate-900 group-hover:bg-emerald-600 flex items-center justify-center text-white font-black text-lg shadow-sm transition-colors">
-                岸
+                必
               </div>
               <div>
                 <div className="flex items-center gap-1.5">
                   <span className="text-lg font-black tracking-tight text-slate-900 font-sans">
-                    行岸公考
+                    必得题库
                   </span>
                   <span className="text-[10px] px-1.5 py-0.5 rounded-full bg-slate-900 text-white font-bold tracking-wide">
                     官方专业版
@@ -505,7 +505,7 @@ export const Navbar: React.FC<NavbarProps> = ({
                 </div>
                 <div>
                   <h3 className="text-sm font-black text-slate-900">
-                    行岸公考 · 全站六大核心模块架构与功能导览
+                    必得题库 · 全站六大核心模块架构与功能导览
                   </h3>
                   <p className="text-xs text-slate-500">
                     一目了然看懂每个模块包含什么、解决什么备考痛点、如何协同使用

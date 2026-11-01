@@ -365,7 +365,7 @@ export const AnalyticsOverview: React.FC<AnalyticsOverviewProps> = ({
             <div className="relative rounded-xl overflow-hidden bg-slate-100 border border-slate-200/60 aspect-16/9 group">
               <img
                 src="/src/assets/images/hangan_hero_banner_1790412435905.jpg"
-                alt="行岸公考研习厅"
+                alt="必得题库研习厅"
                 className="w-full h-full object-cover transition-transform duration-500 group-hover:scale-102"
                 referrerPolicy="no-referrer"
               />
