@@ -84,7 +84,7 @@ bash /root/bideti-deploy/01-bootstrap.sh
 会完成：
 
 - 安装 nginx、firewalld、tar/xz、openssl、rsync；
-- 安装 Node 24（优先 npmmirror，失败回退 NodeSource）；
+- 安装 Node 24（npmmirror 二进制 tar.xz 直装到 `/usr/local`，失败依次回退 registry.npmmirror / 阿里云 / nodejs.org，不依赖 NodeSource）；
 - 安装 pm2，npm 全局镜像设为 npmmirror；
 - 创建 `bideti` 用户、`/var/www/bideti`、`/var/log/bideti`、`/etc/bideti`；
 - 创建并启用 `pm2-bideti.service`，配合 `pm2 save` 实现开机恢复；
@@ -93,6 +93,15 @@ bash /root/bideti-deploy/01-bootstrap.sh
 - SELinux 为 Enforcing 时放行 nginx 反代与静态目录。
 
 重复执行是安全的。
+
+Node 安装包默认从各镜像的 `index.json` 取最新 24.x，并在下载后做 SHA256 校验；如需固定版本或走内网镜像：
+
+```bash
+NODE_VERSION=24.22.2 bash /root/bideti-deploy/01-bootstrap.sh
+NODE_MIRROR=http://内网镜像/nodejs bash /root/bideti-deploy/01-bootstrap.sh
+```
+
+镜像按 `npmmirror → registry.npmmirror → 阿里云 → nodejs.org` 顺序回退；`NODE_SKIP_VERIFY=1` 可跳过校验（仅限完全可信的内网镜像）。
 
 ---
 

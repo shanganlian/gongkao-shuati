@@ -31,11 +31,10 @@ if [ -r /etc/os-release ]; then
 fi
 
 ARCH="$(uname -m)"
-if [ "$ARCH" = "x86_64" ]; then
-  ok "CPU 架构 $ARCH"
-else
-  bad "CPU 架构 $ARCH；deploy/01-bootstrap.sh 只准备了 x86_64 的 Node 包"
-fi
+case "$ARCH" in
+  x86_64|aarch64|arm64) ok "CPU 架构 $ARCH（Node 二进制可用）" ;;
+  *) bad "CPU 架构 $ARCH；deploy/01-bootstrap.sh 仅支持 x86_64 / aarch64" ;;
+esac
 
 MEM_MB="$(awk '/MemTotal/ {print int($2 / 1024)}' /proc/meminfo 2>/dev/null || echo 0)"
 if [ "${MEM_MB:-0}" -ge 2048 ]; then
