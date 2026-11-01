@@ -2,6 +2,7 @@ import express, { type NextFunction, type Request, type Response } from 'express
 import { createServer as createViteServer } from 'vite';
 import { GoogleGenAI } from '@google/genai';
 import path from 'path';
+import { fileURLToPath } from 'url';
 import dotenv from 'dotenv';
 import {
   ANSWER_MIN_CHARS,
@@ -23,6 +24,10 @@ dotenv.config();
 
 const app = express();
 const PORT = process.env.PORT ? parseInt(process.env.PORT, 10) : 3002;
+/** 生产默认只监听回环地址，由 nginx 反代；本地开发仍监听 0.0.0.0 */
+const HOST = process.env.HOST || (process.env.NODE_ENV === 'production' ? '127.0.0.1' : '0.0.0.0');
+/** ESM 下没有 __dirname；用 import.meta.url 还原项目根目录，生产模式静态托管依赖它 */
+const appRoot = path.dirname(fileURLToPath(import.meta.url));
 
 app.use(express.json());
 
@@ -452,9 +457,9 @@ app.use('/api', (_req, res) => res.status(404).json({ error: 'not_found' }));
 
 async function startServer() {
   if (process.env.NODE_ENV === 'production') {
-    app.use(express.static(path.resolve(__dirname, 'dist')));
+    app.use(express.static(path.resolve(appRoot, 'dist')));
     app.get('*', (_req, res) => {
-      res.sendFile(path.resolve(__dirname, 'dist', 'index.html'));
+      res.sendFile(path.resolve(appRoot, 'dist', 'index.html'));
     });
   } else {
     const vite = await createViteServer({
@@ -464,8 +469,8 @@ async function startServer() {
     app.use(vite.middlewares);
   }
 
-  app.listen(PORT, '0.0.0.0', () => {
-    console.log(`Server running at http://localhost:${PORT}`);
+  app.listen(PORT, HOST, () => {
+    console.log(`Server running at http://${HOST}:${PORT}`);
   });
 }
 
