@@ -32,7 +32,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年深圳公务员考试《行测》第31题",
-    "province": "深圳"
+    "province": "深圳",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shenzhen-2016-未标注-32",
@@ -66,7 +68,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年深圳公务员考试《行测》第32题",
-    "province": "深圳"
+    "province": "深圳",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shenzhen-2016-未标注-33",
@@ -102,7 +106,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年深圳公务员考试《行测》第33题",
-    "province": "深圳"
+    "province": "深圳",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shenzhen-2016-未标注-34",
@@ -138,7 +144,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年深圳公务员考试《行测》第34题",
-    "province": "深圳"
+    "province": "深圳",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shenzhen-2016-未标注-35",
@@ -172,7 +180,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年深圳公务员考试《行测》第35题",
-    "province": "深圳"
+    "province": "深圳",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shenzhen-2016-未标注-36",
@@ -206,7 +216,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年深圳公务员考试《行测》第36题",
-    "province": "深圳"
+    "province": "深圳",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shenzhen-2016-未标注-37",
@@ -242,7 +254,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年深圳公务员考试《行测》第37题",
-    "province": "深圳"
+    "province": "深圳",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shenzhen-2016-未标注-38",
@@ -276,7 +290,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年深圳公务员考试《行测》第38题",
-    "province": "深圳"
+    "province": "深圳",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shenzhen-2016-未标注-39",
@@ -310,7 +326,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年深圳公务员考试《行测》第39题",
-    "province": "深圳"
+    "province": "深圳",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shenzhen-2016-未标注-40",
@@ -346,7 +364,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年深圳公务员考试《行测》第40题",
-    "province": "深圳"
+    "province": "深圳",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shenzhen-2017-未标注-21",
@@ -366,7 +386,9 @@
     "difficulty": "中等",
     "source": "2017年深圳公务员考试《行测》第21题",
     "isImageQuestion": true,
-    "province": "深圳"
+    "province": "深圳",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shenzhen-2017-未标注-22",
@@ -386,7 +408,9 @@
     "difficulty": "中等",
     "source": "2017年深圳公务员考试《行测》第22题",
     "isImageQuestion": true,
-    "province": "深圳"
+    "province": "深圳",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shenzhen-2017-未标注-23",
@@ -405,7 +429,9 @@
     "difficulty": "中等",
     "source": "2017年深圳公务员考试《行测》第23题",
     "isImageQuestion": true,
-    "province": "深圳"
+    "province": "深圳",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shenzhen-2017-未标注-24",
@@ -425,7 +451,9 @@
     "difficulty": "中等",
     "source": "2017年深圳公务员考试《行测》第24题",
     "isImageQuestion": true,
-    "province": "深圳"
+    "province": "深圳",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shenzhen-2017-未标注-25",
@@ -445,7 +473,9 @@
     "difficulty": "中等",
     "source": "2017年深圳公务员考试《行测》第25题",
     "isImageQuestion": true,
-    "province": "深圳"
+    "province": "深圳",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shenzhen-2017-未标注-26",
@@ -480,7 +510,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年深圳公务员考试《行测》第26题",
-    "province": "深圳"
+    "province": "深圳",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shenzhen-2017-未标注-27",
@@ -515,7 +547,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年深圳公务员考试《行测》第27题",
-    "province": "深圳"
+    "province": "深圳",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shenzhen-2017-未标注-28",
@@ -550,7 +584,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年深圳公务员考试《行测》第28题",
-    "province": "深圳"
+    "province": "深圳",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shenzhen-2017-未标注-29",
@@ -585,7 +621,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年深圳公务员考试《行测》第29题",
-    "province": "深圳"
+    "province": "深圳",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shenzhen-2017-未标注-30",
@@ -620,7 +658,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年深圳公务员考试《行测》第30题",
-    "province": "深圳"
+    "province": "深圳",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shenzhen-2017-未标注-31",
@@ -656,7 +696,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年深圳公务员考试《行测》第31题",
-    "province": "深圳"
+    "province": "深圳",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shenzhen-2017-未标注-32",
@@ -692,7 +734,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年深圳公务员考试《行测》第32题",
-    "province": "深圳"
+    "province": "深圳",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shenzhen-2017-未标注-33",
@@ -728,7 +772,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年深圳公务员考试《行测》第33题",
-    "province": "深圳"
+    "province": "深圳",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shenzhen-2017-未标注-34",
@@ -763,7 +809,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年深圳公务员考试《行测》第34题",
-    "province": "深圳"
+    "province": "深圳",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shenzhen-2017-未标注-35",
@@ -799,7 +847,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年深圳公务员考试《行测》第35题",
-    "province": "深圳"
+    "province": "深圳",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shenzhen-2017-未标注-36",
@@ -835,7 +885,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年深圳公务员考试《行测》第36题",
-    "province": "深圳"
+    "province": "深圳",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shenzhen-2017-未标注-37",
@@ -871,7 +923,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年深圳公务员考试《行测》第37题",
-    "province": "深圳"
+    "province": "深圳",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shenzhen-2017-未标注-38",
@@ -907,7 +961,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年深圳公务员考试《行测》第38题",
-    "province": "深圳"
+    "province": "深圳",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shenzhen-2017-未标注-39",
@@ -943,7 +999,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年深圳公务员考试《行测》第39题",
-    "province": "深圳"
+    "province": "深圳",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shenzhen-2017-未标注-40",
@@ -979,7 +1037,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年深圳公务员考试《行测》第40题",
-    "province": "深圳"
+    "province": "深圳",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shenzhen-2018-未标注-21",
@@ -999,7 +1059,9 @@
     "difficulty": "中等",
     "source": "2018年深圳公务员考试《行测》第21题",
     "isImageQuestion": true,
-    "province": "深圳"
+    "province": "深圳",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shenzhen-2018-未标注-22",
@@ -1019,7 +1081,9 @@
     "difficulty": "中等",
     "source": "2018年深圳公务员考试《行测》第22题",
     "isImageQuestion": true,
-    "province": "深圳"
+    "province": "深圳",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shenzhen-2018-未标注-23",
@@ -1039,7 +1103,9 @@
     "difficulty": "中等",
     "source": "2018年深圳公务员考试《行测》第23题",
     "isImageQuestion": true,
-    "province": "深圳"
+    "province": "深圳",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shenzhen-2018-未标注-24",
@@ -1055,7 +1121,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2018年深圳公务员考试《行测》第24题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shenzhen-2018-未标注-25",
@@ -1071,7 +1139,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2018年深圳公务员考试《行测》第25题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shenzhen-2018-未标注-26",
@@ -1087,7 +1157,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2018年深圳公务员考试《行测》第26题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shenzhen-2018-未标注-27",
@@ -1103,7 +1175,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2018年深圳公务员考试《行测》第27题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shenzhen-2018-未标注-28",
@@ -1119,7 +1193,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2018年深圳公务员考试《行测》第28题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shenzhen-2018-未标注-29",
@@ -1135,7 +1211,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2018年深圳公务员考试《行测》第29题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shenzhen-2018-未标注-30",
@@ -1151,7 +1229,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2018年深圳公务员考试《行测》第30题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shenzhen-2018-未标注-31",
@@ -1167,7 +1247,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2018年深圳公务员考试《行测》第31题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shenzhen-2018-未标注-32",
@@ -1183,7 +1265,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2018年深圳公务员考试《行测》第32题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shenzhen-2018-未标注-33",
@@ -1199,7 +1283,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2018年深圳公务员考试《行测》第33题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shenzhen-2018-未标注-34",
@@ -1215,7 +1301,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2018年深圳公务员考试《行测》第34题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shenzhen-2018-未标注-35",
@@ -1231,7 +1319,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2018年深圳公务员考试《行测》第35题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shenzhen-2018-未标注-36",
@@ -1247,7 +1337,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2018年深圳公务员考试《行测》第36题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shenzhen-2018-未标注-37",
@@ -1263,7 +1355,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2018年深圳公务员考试《行测》第37题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shenzhen-2018-未标注-38",
@@ -1279,7 +1373,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2018年深圳公务员考试《行测》第38题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shenzhen-2018-未标注-39",
@@ -1295,7 +1391,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2018年深圳公务员考试《行测》第39题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shenzhen-2018-未标注-40",
@@ -1311,7 +1409,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2018年深圳公务员考试《行测》第40题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shenzhen-2018-未标注-41",
@@ -1327,7 +1427,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2018年深圳公务员考试《行测》第41题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shenzhen-2018-未标注-42",
@@ -1343,7 +1445,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2018年深圳公务员考试《行测》第42题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shenzhen-2018-未标注-43",
@@ -1359,7 +1463,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2018年深圳公务员考试《行测》第43题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shenzhen-2018-未标注-44",
@@ -1375,7 +1481,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2018年深圳公务员考试《行测》第44题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shenzhen-2018-未标注-45",
@@ -1391,7 +1499,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2018年深圳公务员考试《行测》第45题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shenzhen-2018-未标注-46",
@@ -1407,7 +1517,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2018年深圳公务员考试《行测》第46题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shenzhen-2018-未标注-47",
@@ -1423,7 +1535,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2018年深圳公务员考试《行测》第47题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shenzhen-2018-未标注-48",
@@ -1439,7 +1553,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2018年深圳公务员考试《行测》第48题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shenzhen-2018-未标注-49",
@@ -1455,7 +1571,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2018年深圳公务员考试《行测》第49题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shenzhen-2018-未标注-50",
@@ -1471,7 +1589,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2018年深圳公务员考试《行测》第50题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shenzhen-2018-未标注-51",
@@ -1487,7 +1607,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2018年深圳公务员考试《行测》第51题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shenzhen-2018-未标注-52",
@@ -1503,7 +1625,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2018年深圳公务员考试《行测》第52题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shenzhen-2018-未标注-53",
@@ -1519,7 +1643,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2018年深圳公务员考试《行测》第53题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shenzhen-2018-未标注-54",
@@ -1535,7 +1661,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2018年深圳公务员考试《行测》第54题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shenzhen-2018-未标注-55",
@@ -1551,7 +1679,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2018年深圳公务员考试《行测》第55题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shenzhen-2018-未标注-56",
@@ -1567,7 +1697,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2018年深圳公务员考试《行测》第56题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shenzhen-2018-未标注-57",
@@ -1583,7 +1715,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2018年深圳公务员考试《行测》第57题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shenzhen-2018-未标注-58",
@@ -1599,7 +1733,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2018年深圳公务员考试《行测》第58题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shenzhen-2018-未标注-59",
@@ -1615,7 +1751,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2018年深圳公务员考试《行测》第59题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shenzhen-2018-未标注-60",
@@ -1631,7 +1769,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2018年深圳公务员考试《行测》第60题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shenzhen-2018-未标注-61",
@@ -1647,7 +1787,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2018年深圳公务员考试《行测》第61题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shenzhen-2018-未标注-62",
@@ -1663,7 +1805,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2018年深圳公务员考试《行测》第62题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shenzhen-2018-未标注-63",
@@ -1679,7 +1823,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2018年深圳公务员考试《行测》第63题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shenzhen-2018-未标注-64",
@@ -1695,7 +1841,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2018年深圳公务员考试《行测》第64题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shenzhen-2018-未标注-65",
@@ -1711,7 +1859,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2018年深圳公务员考试《行测》第65题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shenzhen-2018-未标注-66",
@@ -1727,7 +1877,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2018年深圳公务员考试《行测》第66题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shenzhen-2018-未标注-67",
@@ -1743,7 +1895,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2018年深圳公务员考试《行测》第67题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shenzhen-2018-未标注-68",
@@ -1759,7 +1913,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2018年深圳公务员考试《行测》第68题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shenzhen-2018-未标注-69",
@@ -1775,7 +1931,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2018年深圳公务员考试《行测》第69题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shenzhen-2018-未标注-70",
@@ -1791,7 +1949,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2018年深圳公务员考试《行测》第70题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shenzhen-2018-未标注-71",
@@ -1807,7 +1967,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2018年深圳公务员考试《行测》第71题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shenzhen-2018-未标注-72",
@@ -1823,7 +1985,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2018年深圳公务员考试《行测》第72题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shenzhen-2018-未标注-73",
@@ -1839,7 +2003,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2018年深圳公务员考试《行测》第73题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shenzhen-2018-未标注-74",
@@ -1855,7 +2021,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2018年深圳公务员考试《行测》第74题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shenzhen-2018-未标注-75",
@@ -1871,7 +2039,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2018年深圳公务员考试《行测》第75题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shenzhen-2018-未标注-76",
@@ -1887,7 +2057,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2018年深圳公务员考试《行测》第76题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shenzhen-2018-未标注-77",
@@ -1903,7 +2075,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2018年深圳公务员考试《行测》第77题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shenzhen-2018-未标注-78",
@@ -1919,7 +2093,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2018年深圳公务员考试《行测》第78题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shenzhen-2018-未标注-79",
@@ -1935,7 +2111,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2018年深圳公务员考试《行测》第79题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shenzhen-2018-未标注-80",
@@ -1951,7 +2129,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2018年深圳公务员考试《行测》第80题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shenzhen-2018-未标注-81",
@@ -1967,7 +2147,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2018年深圳公务员考试《行测》第81题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shenzhen-2018-未标注-82",
@@ -1983,7 +2165,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2018年深圳公务员考试《行测》第82题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shenzhen-2018-未标注-83",
@@ -1999,7 +2183,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2018年深圳公务员考试《行测》第83题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shenzhen-2018-未标注-84",
@@ -2015,7 +2201,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2018年深圳公务员考试《行测》第84题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shenzhen-2018-未标注-85",
@@ -2031,7 +2219,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2018年深圳公务员考试《行测》第85题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shenzhen-2018-未标注-86",
@@ -2047,7 +2237,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2018年深圳公务员考试《行测》第86题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shenzhen-2018-未标注-87",
@@ -2063,7 +2255,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2018年深圳公务员考试《行测》第87题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shenzhen-2018-未标注-88",
@@ -2079,7 +2273,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2018年深圳公务员考试《行测》第88题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shenzhen-2018-未标注-89",
@@ -2095,7 +2291,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2018年深圳公务员考试《行测》第89题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shenzhen-2018-未标注-90",
@@ -2111,7 +2309,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2018年深圳公务员考试《行测》第90题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shenzhen-2018-未标注-91",
@@ -2127,7 +2327,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2018年深圳公务员考试《行测》第91题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shenzhen-2018-未标注-92",
@@ -2143,7 +2345,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2018年深圳公务员考试《行测》第92题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shenzhen-2018-未标注-93",
@@ -2159,7 +2363,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2018年深圳公务员考试《行测》第93题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shenzhen-2018-未标注-94",
@@ -2175,7 +2381,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2018年深圳公务员考试《行测》第94题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shenzhen-2018-未标注-95",
@@ -2191,7 +2399,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2018年深圳公务员考试《行测》第95题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shenzhen-2018-未标注-96",
@@ -2207,7 +2417,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2018年深圳公务员考试《行测》第96题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shenzhen-2018-未标注-97",
@@ -2223,7 +2435,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2018年深圳公务员考试《行测》第97题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shenzhen-2018-未标注-98",
@@ -2239,7 +2453,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2018年深圳公务员考试《行测》第98题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shenzhen-2018-未标注-99",
@@ -2255,7 +2471,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2018年深圳公务员考试《行测》第99题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shenzhen-2018-未标注-100",
@@ -2271,7 +2489,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2018年深圳公务员考试《行测》第100题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shenzhen-2018-未标注-101",
@@ -2287,7 +2507,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2018年深圳公务员考试《行测》第101题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shenzhen-2018-未标注-102",
@@ -2303,7 +2525,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2018年深圳公务员考试《行测》第102题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shenzhen-2018-未标注-103",
@@ -2319,7 +2543,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2018年深圳公务员考试《行测》第103题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shenzhen-2018-未标注-104",
@@ -2335,7 +2561,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2018年深圳公务员考试《行测》第104题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shenzhen-2018-未标注-105",
@@ -2351,7 +2579,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2018年深圳公务员考试《行测》第105题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shenzhen-2018-未标注-106",
@@ -2367,7 +2597,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2018年深圳公务员考试《行测》第106题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shenzhen-2018-未标注-107",
@@ -2383,7 +2615,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2018年深圳公务员考试《行测》第107题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shenzhen-2018-未标注-108",
@@ -2399,7 +2633,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2018年深圳公务员考试《行测》第108题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shenzhen-2018-未标注-109",
@@ -2415,7 +2651,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2018年深圳公务员考试《行测》第109题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shenzhen-2018-未标注-110",
@@ -2431,7 +2669,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2018年深圳公务员考试《行测》第110题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shenzhen-2018-未标注-111",
@@ -2447,7 +2687,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2018年深圳公务员考试《行测》第111题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shenzhen-2018-未标注-112",
@@ -2463,7 +2705,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2018年深圳公务员考试《行测》第112题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shenzhen-2018-未标注-113",
@@ -2479,7 +2723,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2018年深圳公务员考试《行测》第113题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shenzhen-2018-未标注-114",
@@ -2495,7 +2741,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2018年深圳公务员考试《行测》第114题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shenzhen-2018-未标注-115",
@@ -2511,7 +2759,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2018年深圳公务员考试《行测》第115题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shenzhen-2018-未标注-116",
@@ -2527,7 +2777,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2018年深圳公务员考试《行测》第116题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shenzhen-2018-未标注-117",
@@ -2543,7 +2795,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2018年深圳公务员考试《行测》第117题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shenzhen-2018-未标注-118",
@@ -2559,7 +2813,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2018年深圳公务员考试《行测》第118题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shenzhen-2018-未标注-119",
@@ -2575,7 +2831,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2018年深圳公务员考试《行测》第119题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shenzhen-2018-未标注-120",
@@ -2591,7 +2849,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2018年深圳公务员考试《行测》第120题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shenzhen-2018-未标注-121",
@@ -2607,7 +2867,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2018年深圳公务员考试《行测》第121题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shenzhen-2018-未标注-122",
@@ -2623,7 +2885,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2018年深圳公务员考试《行测》第122题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shenzhen-2018-未标注-123",
@@ -2639,7 +2903,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2018年深圳公务员考试《行测》第123题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shenzhen-2018-未标注-124",
@@ -2672,7 +2938,9 @@
     "difficulty": "中等",
     "source": "2018年深圳公务员考试《行测》第124题",
     "isImageQuestion": true,
-    "province": "深圳"
+    "province": "深圳",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shenzhen-2019-未标注-21",
@@ -2691,7 +2959,9 @@
     "difficulty": "中等",
     "source": "2019年深圳公务员考试《行测》第21题",
     "isImageQuestion": true,
-    "province": "深圳"
+    "province": "深圳",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shenzhen-2019-未标注-22",
@@ -2710,7 +2980,9 @@
     "difficulty": "中等",
     "source": "2019年深圳公务员考试《行测》第22题",
     "isImageQuestion": true,
-    "province": "深圳"
+    "province": "深圳",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shenzhen-2019-未标注-23",
@@ -2729,7 +3001,9 @@
     "difficulty": "中等",
     "source": "2019年深圳公务员考试《行测》第23题",
     "isImageQuestion": true,
-    "province": "深圳"
+    "province": "深圳",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shenzhen-2019-未标注-24",
@@ -2749,7 +3023,9 @@
     "difficulty": "中等",
     "source": "2019年深圳公务员考试《行测》第24题",
     "isImageQuestion": true,
-    "province": "深圳"
+    "province": "深圳",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shenzhen-2019-未标注-25",
@@ -2767,7 +3043,9 @@
     "difficulty": "中等",
     "source": "2019年深圳公务员考试《行测》第25题",
     "isImageQuestion": true,
-    "province": "深圳"
+    "province": "深圳",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shenzhen-2019-未标注-26",
@@ -2803,7 +3081,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年深圳公务员考试《行测》第26题",
-    "province": "深圳"
+    "province": "深圳",
+    "subModule": "类比推理",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shenzhen-2019-未标注-27",
@@ -2838,7 +3118,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年深圳公务员考试《行测》第27题",
-    "province": "深圳"
+    "province": "深圳",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shenzhen-2019-未标注-28",
@@ -2873,7 +3155,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年深圳公务员考试《行测》第28题",
-    "province": "深圳"
+    "province": "深圳",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shenzhen-2019-未标注-29",
@@ -2909,7 +3193,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年深圳公务员考试《行测》第29题",
-    "province": "深圳"
+    "province": "深圳",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shenzhen-2019-未标注-30",
@@ -2943,7 +3229,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年深圳公务员考试《行测》第30题",
-    "province": "深圳"
+    "province": "深圳",
+    "subModule": "类比推理",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shenzhen-2019-未标注-31",
@@ -2977,7 +3265,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年深圳公务员考试《行测》第31题",
-    "province": "深圳"
+    "province": "深圳",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shenzhen-2019-未标注-32",
@@ -3013,7 +3303,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年深圳公务员考试《行测》第32题",
-    "province": "深圳"
+    "province": "深圳",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shenzhen-2019-未标注-33",
@@ -3047,7 +3339,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年深圳公务员考试《行测》第33题",
-    "province": "深圳"
+    "province": "深圳",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shenzhen-2019-未标注-34",
@@ -3083,7 +3377,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年深圳公务员考试《行测》第34题",
-    "province": "深圳"
+    "province": "深圳",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shenzhen-2019-未标注-35",
@@ -3118,7 +3414,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年深圳公务员考试《行测》第35题",
-    "province": "深圳"
+    "province": "深圳",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shenzhen-2019-未标注-36",
@@ -3152,7 +3450,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年深圳公务员考试《行测》第36题",
-    "province": "深圳"
+    "province": "深圳",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shenzhen-2019-未标注-37",
@@ -3188,7 +3488,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年深圳公务员考试《行测》第37题",
-    "province": "深圳"
+    "province": "深圳",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shenzhen-2019-未标注-38",
@@ -3223,7 +3525,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年深圳公务员考试《行测》第38题",
-    "province": "深圳"
+    "province": "深圳",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shenzhen-2019-未标注-39",
@@ -3258,7 +3562,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年深圳公务员考试《行测》第39题",
-    "province": "深圳"
+    "province": "深圳",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shenzhen-2019-未标注-40",
@@ -3293,7 +3599,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年深圳公务员考试《行测》第40题",
-    "province": "深圳"
+    "province": "深圳",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shenzhen-2020-思维能力-31",
@@ -3328,7 +3636,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年深圳公务员考试《行测》（思维能力）第31题",
-    "province": "深圳"
+    "province": "深圳",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shenzhen-2020-思维能力-32",
@@ -3363,7 +3673,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年深圳公务员考试《行测》（思维能力）第32题",
-    "province": "深圳"
+    "province": "深圳",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shenzhen-2020-思维能力-33",
@@ -3397,7 +3709,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年深圳公务员考试《行测》（思维能力）第33题",
-    "province": "深圳"
+    "province": "深圳",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shenzhen-2020-思维能力-34",
@@ -3431,7 +3745,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年深圳公务员考试《行测》（思维能力）第34题",
-    "province": "深圳"
+    "province": "深圳",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shenzhen-2020-思维能力-35",
@@ -3466,7 +3782,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年深圳公务员考试《行测》（思维能力）第35题",
-    "province": "深圳"
+    "province": "深圳",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shenzhen-2020-思维能力-36",
@@ -3501,7 +3819,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年深圳公务员考试《行测》（思维能力）第36题",
-    "province": "深圳"
+    "province": "深圳",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shenzhen-2020-思维能力-37",
@@ -3536,7 +3856,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年深圳公务员考试《行测》（思维能力）第37题",
-    "province": "深圳"
+    "province": "深圳",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shenzhen-2020-思维能力-38",
@@ -3571,7 +3893,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年深圳公务员考试《行测》（思维能力）第38题",
-    "province": "深圳"
+    "province": "深圳",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shenzhen-2020-思维能力-39",
@@ -3607,7 +3931,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年深圳公务员考试《行测》（思维能力）第39题",
-    "province": "深圳"
+    "province": "深圳",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shenzhen-2020-思维能力-40",
@@ -3642,7 +3968,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年深圳公务员考试《行测》（思维能力）第40题",
-    "province": "深圳"
+    "province": "深圳",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shenzhen-2020-思维能力-41",
@@ -3662,7 +3990,9 @@
     "difficulty": "中等",
     "source": "2020年深圳公务员考试《行测》（思维能力）第41题",
     "isImageQuestion": true,
-    "province": "深圳"
+    "province": "深圳",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shenzhen-2020-思维能力-42",
@@ -3682,7 +4012,9 @@
     "difficulty": "中等",
     "source": "2020年深圳公务员考试《行测》（思维能力）第42题",
     "isImageQuestion": true,
-    "province": "深圳"
+    "province": "深圳",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shenzhen-2020-思维能力-43",
@@ -3702,7 +4034,9 @@
     "difficulty": "中等",
     "source": "2020年深圳公务员考试《行测》（思维能力）第43题",
     "isImageQuestion": true,
-    "province": "深圳"
+    "province": "深圳",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shenzhen-2020-思维能力-44",
@@ -3722,7 +4056,9 @@
     "difficulty": "中等",
     "source": "2020年深圳公务员考试《行测》（思维能力）第44题",
     "isImageQuestion": true,
-    "province": "深圳"
+    "province": "深圳",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shenzhen-2020-思维能力-45",
@@ -3742,7 +4078,9 @@
     "difficulty": "中等",
     "source": "2020年深圳公务员考试《行测》（思维能力）第45题",
     "isImageQuestion": true,
-    "province": "深圳"
+    "province": "深圳",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shenzhen-2020-思维能力-46",
@@ -3762,7 +4100,9 @@
     "difficulty": "中等",
     "source": "2020年深圳公务员考试《行测》（思维能力）第46题",
     "isImageQuestion": true,
-    "province": "深圳"
+    "province": "深圳",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shenzhen-2020-思维能力-47",
@@ -3782,7 +4122,9 @@
     "difficulty": "中等",
     "source": "2020年深圳公务员考试《行测》（思维能力）第47题",
     "isImageQuestion": true,
-    "province": "深圳"
+    "province": "深圳",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shenzhen-2020-思维能力-48",
@@ -3802,7 +4144,9 @@
     "difficulty": "中等",
     "source": "2020年深圳公务员考试《行测》（思维能力）第48题",
     "isImageQuestion": true,
-    "province": "深圳"
+    "province": "深圳",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shenzhen-2020-思维能力-49",
@@ -3822,7 +4166,9 @@
     "difficulty": "中等",
     "source": "2020年深圳公务员考试《行测》（思维能力）第49题",
     "isImageQuestion": true,
-    "province": "深圳"
+    "province": "深圳",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shenzhen-2020-思维能力-50",
@@ -3842,7 +4188,9 @@
     "difficulty": "中等",
     "source": "2020年深圳公务员考试《行测》（思维能力）第50题",
     "isImageQuestion": true,
-    "province": "深圳"
+    "province": "深圳",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shenzhen-2020-思维能力-51",
@@ -3879,7 +4227,9 @@
     "difficulty": "中等",
     "source": "2020年深圳公务员考试《行测》（思维能力）第51题",
     "isImageQuestion": true,
-    "province": "深圳"
+    "province": "深圳",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shenzhen-2020-思维能力-52",
@@ -3916,7 +4266,9 @@
     "difficulty": "中等",
     "source": "2020年深圳公务员考试《行测》（思维能力）第52题",
     "isImageQuestion": true,
-    "province": "深圳"
+    "province": "深圳",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shenzhen-2020-思维能力-53",
@@ -3953,7 +4305,9 @@
     "difficulty": "中等",
     "source": "2020年深圳公务员考试《行测》（思维能力）第53题",
     "isImageQuestion": true,
-    "province": "深圳"
+    "province": "深圳",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shenzhen-2020-思维能力-54",
@@ -3990,7 +4344,9 @@
     "difficulty": "中等",
     "source": "2020年深圳公务员考试《行测》（思维能力）第54题",
     "isImageQuestion": true,
-    "province": "深圳"
+    "province": "深圳",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shenzhen-2020-思维能力-55",
@@ -4027,7 +4383,9 @@
     "difficulty": "中等",
     "source": "2020年深圳公务员考试《行测》（思维能力）第55题",
     "isImageQuestion": true,
-    "province": "深圳"
+    "province": "深圳",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shenzhen-2020-思维能力-56",
@@ -4063,7 +4421,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年深圳公务员考试《行测》（思维能力）第56题",
-    "province": "深圳"
+    "province": "深圳",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shenzhen-2020-思维能力-57",
@@ -4098,7 +4458,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年深圳公务员考试《行测》（思维能力）第57题",
-    "province": "深圳"
+    "province": "深圳",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shenzhen-2020-思维能力-58",
@@ -4134,7 +4496,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年深圳公务员考试《行测》（思维能力）第58题",
-    "province": "深圳"
+    "province": "深圳",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shenzhen-2020-思维能力-59",
@@ -4169,7 +4533,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年深圳公务员考试《行测》（思维能力）第59题",
-    "province": "深圳"
+    "province": "深圳",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shenzhen-2020-思维能力-60",
@@ -4203,7 +4569,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年深圳公务员考试《行测》（思维能力）第60题",
-    "province": "深圳"
+    "province": "深圳",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shenzhen-2020-思维能力-61",
@@ -4238,7 +4606,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年深圳公务员考试《行测》（思维能力）第61题",
-    "province": "深圳"
+    "province": "深圳",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shenzhen-2020-思维能力-62",
@@ -4273,7 +4643,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年深圳公务员考试《行测》（思维能力）第62题",
-    "province": "深圳"
+    "province": "深圳",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shenzhen-2020-思维能力-63",
@@ -4308,7 +4680,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年深圳公务员考试《行测》（思维能力）第63题",
-    "province": "深圳"
+    "province": "深圳",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shenzhen-2020-思维能力-64",
@@ -4343,7 +4717,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年深圳公务员考试《行测》（思维能力）第64题",
-    "province": "深圳"
+    "province": "深圳",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shenzhen-2020-思维能力-65",
@@ -4378,7 +4754,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年深圳公务员考试《行测》（思维能力）第65题",
-    "province": "深圳"
+    "province": "深圳",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shenzhen-2020-思维能力-66",
@@ -4414,7 +4792,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年深圳公务员考试《行测》（思维能力）第66题",
-    "province": "深圳"
+    "province": "深圳",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shenzhen-2020-思维能力-67",
@@ -4450,7 +4830,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年深圳公务员考试《行测》（思维能力）第67题",
-    "province": "深圳"
+    "province": "深圳",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shenzhen-2020-思维能力-68",
@@ -4486,7 +4868,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年深圳公务员考试《行测》（思维能力）第68题",
-    "province": "深圳"
+    "province": "深圳",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shenzhen-2020-思维能力-69",
@@ -4522,7 +4906,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年深圳公务员考试《行测》（思维能力）第69题",
-    "province": "深圳"
+    "province": "深圳",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shenzhen-2020-思维能力-70",
@@ -4558,7 +4944,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年深圳公务员考试《行测》（思维能力）第70题",
-    "province": "深圳"
+    "province": "深圳",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shenzhen-2020-思维能力-71",
@@ -4594,7 +4982,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年深圳公务员考试《行测》（思维能力）第71题",
-    "province": "深圳"
+    "province": "深圳",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shenzhen-2020-思维能力-72",
@@ -4609,7 +4999,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年深圳公务员考试《行测》（思维能力）第72题",
-    "province": "深圳"
+    "province": "深圳",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shenzhen-2020-思维能力-73",
@@ -4645,7 +5037,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年深圳公务员考试《行测》（思维能力）第73题",
-    "province": "深圳"
+    "province": "深圳",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shenzhen-2020-思维能力-74",
@@ -4681,7 +5075,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年深圳公务员考试《行测》（思维能力）第74题",
-    "province": "深圳"
+    "province": "深圳",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shenzhen-2020-思维能力-75",
@@ -4717,7 +5113,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年深圳公务员考试《行测》（思维能力）第75题",
-    "province": "深圳"
+    "province": "深圳",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shenzhen-2020-思维能力-76",
@@ -4753,6 +5151,8 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年深圳公务员考试《行测》（思维能力）第76题",
-    "province": "深圳"
+    "province": "深圳",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   }
 ]

@@ -1,0 +1,5589 @@
+[
+  {
+    "id": "prov-shanghai-2006-未标注-1",
+    "category": "provincial",
+    "module": "changshi",
+    "title": "常识·6，7，9，13，21，（ ）。",
+    "stem": "6，7，9，13，21，（ ）。",
+    "options": [
+      {
+        "key": "A",
+        "text": "35"
+      },
+      {
+        "key": "B",
+        "text": "36"
+      },
+      {
+        "key": "C",
+        "text": "37"
+      },
+      {
+        "key": "D",
+        "text": "38"
+      }
+    ],
+    "answer": "C",
+    "explanation": "C\n［解析］ 两两做差后得一新数列：1，2，4，8，（16）。新数列为一组等比数列。故本题正确答案为 21+16=37， 应选 C 项。",
+    "keyPoints": [
+      "［解析］ 两两做差后得一新数列：1，2，4，8，（16）",
+      "新数列为一组等比数列",
+      "故本题正确答案为 21+16=37， 应选 C 项"
+    ],
+    "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "基础",
+    "source": "2006年上海公务员考试《行测》第1题",
+    "province": "上海",
+    "subModule": "生活常识",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shanghai-2006-未标注-2",
+    "category": "provincial",
+    "module": "changshi",
+    "title": "常识·1，2，5，10，13，26，29，（ ）。",
+    "stem": "1，2，5，10，13，26，29，（ ）。",
+    "options": [
+      {
+        "key": "A",
+        "text": "36"
+      },
+      {
+        "key": "B",
+        "text": "45"
+      },
+      {
+        "key": "C",
+        "text": "52"
+      },
+      {
+        "key": "D",
+        "text": "58"
+      }
+    ],
+    "answer": "D",
+    "explanation": "D\n［解析］ 本题为一个分组数列。原数列可化为：（1，2）（5，10）（13，26）［29，（58）］。每一组数列中后 一个数均为前一个数的 2 倍。",
+    "keyPoints": [
+      "［解析］ 本题为一个分组数列",
+      "原数列可化为：（1，2）（5，10）（13，26）［29，（58）］",
+      "每一组数列中后 一个数均为前一个数的 2 倍"
+    ],
+    "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "基础",
+    "source": "2006年上海公务员考试《行测》第2题",
+    "province": "上海",
+    "subModule": "生活常识",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shanghai-2006-未标注-3",
+    "category": "provincial",
+    "module": "changshi",
+    "title": "常识·请根据题干信息选择正确答案。",
+    "stem": "请根据题干信息选择正确答案。",
+    "options": [
+      {
+        "key": "A",
+        "text": "15"
+      },
+      {
+        "key": "B",
+        "text": "17"
+      },
+      {
+        "key": "C",
+        "text": "12"
+      },
+      {
+        "key": "D",
+        "text": "13"
+      }
+    ],
+    "answer": "A",
+    "explanation": "A\n［解析］ 本题是一个新题。我们可以把圆分为上下半圆，上半圆是一组公差为 2 的等差数列，下半圆是一 组公差为 4 的等差数列。故问号处应为 11+4=15。",
+    "keyPoints": [
+      "［解析］ 本题是一个新题",
+      "故问号处应为 11+4=15"
+    ],
+    "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "基础",
+    "source": "2006年上海公务员考试《行测》第3题",
+    "isImageQuestion": true,
+    "province": "上海",
+    "subModule": "生活常识",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shanghai-2006-未标注-4",
+    "category": "provincial",
+    "module": "changshi",
+    "title": "常识·0，1，1，2，3，（ ），22。",
+    "stem": "0，1，1，2，3，（ ），22。",
+    "options": [
+      {
+        "key": "A",
+        "text": "5"
+      },
+      {
+        "key": "B",
+        "text": "7"
+      },
+      {
+        "key": "C",
+        "text": "9"
+      },
+      {
+        "key": "D",
+        "text": "11"
+      }
+    ],
+    "answer": "B",
+    "explanation": "B\n［解析］ 本题是一个递推数列的变式，前两项的积加 1 等于第三项。0×1+1=1，1×1+1=2,1×2+1=3,2× 3+1=(7),3×(7)+1=22。",
+    "keyPoints": [
+      "［解析］ 本题是一个递推数列的变式，前两项的积加 1 等于第三项"
+    ],
+    "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "基础",
+    "source": "2006年上海公务员考试《行测》第4题",
+    "province": "上海",
+    "subModule": "生活常识",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shanghai-2006-未标注-5",
+    "category": "provincial",
+    "module": "changshi",
+    "title": "常识·5 | ? 63 | 35 3 | 8 56 | 21",
+    "stem": "5 | ?\n63 | 35\n3 | 8\n56 | 21",
+    "options": [
+      {
+        "key": "A",
+        "text": "7"
+      },
+      {
+        "key": "B",
+        "text": "9"
+      },
+      {
+        "key": "C",
+        "text": "11"
+      },
+      {
+        "key": "D",
+        "text": "13"
+      }
+    ],
+    "answer": "B",
+    "explanation": "B\n［解析］ 本题的规律是看对角上的数字，根据下面的图推出上面图的规律。下图中对角线之间是倍数关系 且倍数为一个固定值 7。故问号处为 63÷7=9，应选 B 项。\n二、数学运算",
+    "keyPoints": [
+      "［解析］ 本题的规律是看对角上的数字，根据下面的图推出上面图的规律",
+      "下图中对角线之间是倍数关系 且倍数为一个固定值 7",
+      "故问号处为 63÷7=9，应选 B 项"
+    ],
+    "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "基础",
+    "source": "2006年上海公务员考试《行测》第5题",
+    "province": "上海",
+    "subModule": "生活常识",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shanghai-2006-未标注-6",
+    "category": "provincial",
+    "module": "changshi",
+    "title": "常识·企业某种产品去年实际成本为 450 元，本年计划降低4％…",
+    "stem": "企业某种产品去年实际成本为 450 元，本年计划降低4％ ，实际降低了 5％ ，则成本降低计划超额完成程 度为（ ）。\nA. 95％ B.",
+    "options": [],
+    "answer": "D",
+    "explanation": "D\n［解析］ 由题意知，今年的计划成本是 450×（1-4%），超额降低成本为 450×（5%-4%），则成本降低计划 超额完成程度为［450×（5%-4%）］ ÷［450×（1-4%）］=1÷96≈1.04%。",
+    "keyPoints": [],
+    "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "基础",
+    "source": "2006年上海公务员考试《行测》第6题",
+    "province": "上海",
+    "isAbnormal": true,
+    "subModule": "经济管理",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shanghai-2006-未标注-7",
+    "category": "provincial",
+    "province": "上海",
+    "module": "changshi",
+    "title": "第7题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 7 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "基础",
+    "source": "2006年上海公务员考试《行测》第7题",
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shanghai-2006-未标注-8",
+    "category": "provincial",
+    "province": "上海",
+    "module": "changshi",
+    "title": "第8题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 8 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "基础",
+    "source": "2006年上海公务员考试《行测》第8题",
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shanghai-2006-未标注-9",
+    "category": "provincial",
+    "province": "上海",
+    "module": "changshi",
+    "title": "第9题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 9 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "基础",
+    "source": "2006年上海公务员考试《行测》第9题",
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shanghai-2006-未标注-10",
+    "category": "provincial",
+    "province": "上海",
+    "module": "changshi",
+    "title": "第10题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 10 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "基础",
+    "source": "2006年上海公务员考试《行测》第10题",
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shanghai-2006-未标注-11",
+    "category": "provincial",
+    "province": "上海",
+    "module": "changshi",
+    "title": "第11题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 11 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "基础",
+    "source": "2006年上海公务员考试《行测》第11题",
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shanghai-2006-未标注-12",
+    "category": "provincial",
+    "province": "上海",
+    "module": "changshi",
+    "title": "第12题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 12 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "基础",
+    "source": "2006年上海公务员考试《行测》第12题",
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shanghai-2006-未标注-13",
+    "category": "provincial",
+    "province": "上海",
+    "module": "changshi",
+    "title": "第13题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 13 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "基础",
+    "source": "2006年上海公务员考试《行测》第13题",
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shanghai-2006-未标注-14",
+    "category": "provincial",
+    "province": "上海",
+    "module": "changshi",
+    "title": "第14题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 14 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "基础",
+    "source": "2006年上海公务员考试《行测》第14题",
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shanghai-2006-未标注-15",
+    "category": "provincial",
+    "province": "上海",
+    "module": "changshi",
+    "title": "第15题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 15 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "基础",
+    "source": "2006年上海公务员考试《行测》第15题",
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shanghai-2006-未标注-16",
+    "category": "provincial",
+    "province": "上海",
+    "module": "changshi",
+    "title": "第16题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 16 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "基础",
+    "source": "2006年上海公务员考试《行测》第16题",
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shanghai-2006-未标注-17",
+    "category": "provincial",
+    "province": "上海",
+    "module": "changshi",
+    "title": "第17题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 17 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "基础",
+    "source": "2006年上海公务员考试《行测》第17题",
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shanghai-2006-未标注-18",
+    "category": "provincial",
+    "province": "上海",
+    "module": "changshi",
+    "title": "第18题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 18 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "基础",
+    "source": "2006年上海公务员考试《行测》第18题",
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shanghai-2006-未标注-19",
+    "category": "provincial",
+    "province": "上海",
+    "module": "changshi",
+    "title": "第19题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 19 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "基础",
+    "source": "2006年上海公务员考试《行测》第19题",
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shanghai-2006-未标注-20",
+    "category": "provincial",
+    "province": "上海",
+    "module": "changshi",
+    "title": "第20题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 20 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "基础",
+    "source": "2006年上海公务员考试《行测》第20题",
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shanghai-2006-未标注-21",
+    "category": "provincial",
+    "province": "上海",
+    "module": "changshi",
+    "title": "第21题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 21 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "基础",
+    "source": "2006年上海公务员考试《行测》第21题",
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shanghai-2006-未标注-22",
+    "category": "provincial",
+    "province": "上海",
+    "module": "changshi",
+    "title": "第22题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 22 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "基础",
+    "source": "2006年上海公务员考试《行测》第22题",
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shanghai-2006-未标注-23",
+    "category": "provincial",
+    "province": "上海",
+    "module": "changshi",
+    "title": "第23题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 23 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "基础",
+    "source": "2006年上海公务员考试《行测》第23题",
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shanghai-2006-未标注-24",
+    "category": "provincial",
+    "province": "上海",
+    "module": "changshi",
+    "title": "第24题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 24 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "基础",
+    "source": "2006年上海公务员考试《行测》第24题",
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shanghai-2006-未标注-25",
+    "category": "provincial",
+    "province": "上海",
+    "module": "changshi",
+    "title": "第25题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 25 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "基础",
+    "source": "2006年上海公务员考试《行测》第25题",
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shanghai-2006-未标注-26",
+    "category": "provincial",
+    "province": "上海",
+    "module": "changshi",
+    "title": "第26题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 26 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "基础",
+    "source": "2006年上海公务员考试《行测》第26题",
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shanghai-2006-未标注-27",
+    "category": "provincial",
+    "province": "上海",
+    "module": "changshi",
+    "title": "第27题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 27 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "基础",
+    "source": "2006年上海公务员考试《行测》第27题",
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shanghai-2006-未标注-28",
+    "category": "provincial",
+    "province": "上海",
+    "module": "changshi",
+    "title": "第28题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 28 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "基础",
+    "source": "2006年上海公务员考试《行测》第28题",
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shanghai-2006-未标注-29",
+    "category": "provincial",
+    "province": "上海",
+    "module": "changshi",
+    "title": "第29题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 29 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "基础",
+    "source": "2006年上海公务员考试《行测》第29题",
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shanghai-2006-未标注-30",
+    "category": "provincial",
+    "province": "上海",
+    "module": "changshi",
+    "title": "第30题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 30 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "基础",
+    "source": "2006年上海公务员考试《行测》第30题",
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shanghai-2006-未标注-31",
+    "category": "provincial",
+    "province": "上海",
+    "module": "changshi",
+    "title": "第31题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 31 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "基础",
+    "source": "2006年上海公务员考试《行测》第31题",
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shanghai-2006-未标注-32",
+    "category": "provincial",
+    "province": "上海",
+    "module": "changshi",
+    "title": "第32题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 32 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "基础",
+    "source": "2006年上海公务员考试《行测》第32题",
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shanghai-2006-未标注-33",
+    "category": "provincial",
+    "province": "上海",
+    "module": "changshi",
+    "title": "第33题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 33 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "基础",
+    "source": "2006年上海公务员考试《行测》第33题",
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shanghai-2006-未标注-34",
+    "category": "provincial",
+    "province": "上海",
+    "module": "changshi",
+    "title": "第34题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 34 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "基础",
+    "source": "2006年上海公务员考试《行测》第34题",
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shanghai-2006-未标注-35",
+    "category": "provincial",
+    "province": "上海",
+    "module": "changshi",
+    "title": "第35题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 35 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "基础",
+    "source": "2006年上海公务员考试《行测》第35题",
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shanghai-2006-未标注-36",
+    "category": "provincial",
+    "province": "上海",
+    "module": "changshi",
+    "title": "第36题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 36 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "基础",
+    "source": "2006年上海公务员考试《行测》第36题",
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shanghai-2006-未标注-37",
+    "category": "provincial",
+    "province": "上海",
+    "module": "changshi",
+    "title": "第37题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 37 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "基础",
+    "source": "2006年上海公务员考试《行测》第37题",
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shanghai-2006-未标注-38",
+    "category": "provincial",
+    "province": "上海",
+    "module": "changshi",
+    "title": "第38题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 38 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "基础",
+    "source": "2006年上海公务员考试《行测》第38题",
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shanghai-2006-未标注-39",
+    "category": "provincial",
+    "province": "上海",
+    "module": "changshi",
+    "title": "第39题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 39 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "基础",
+    "source": "2006年上海公务员考试《行测》第39题",
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shanghai-2006-未标注-40",
+    "category": "provincial",
+    "province": "上海",
+    "module": "changshi",
+    "title": "第40题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 40 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "基础",
+    "source": "2006年上海公务员考试《行测》第40题",
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shanghai-2006-未标注-41",
+    "category": "provincial",
+    "province": "上海",
+    "module": "changshi",
+    "title": "第41题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 41 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "基础",
+    "source": "2006年上海公务员考试《行测》第41题",
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shanghai-2006-未标注-42",
+    "category": "provincial",
+    "province": "上海",
+    "module": "changshi",
+    "title": "第42题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 42 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "基础",
+    "source": "2006年上海公务员考试《行测》第42题",
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shanghai-2006-未标注-43",
+    "category": "provincial",
+    "province": "上海",
+    "module": "changshi",
+    "title": "第43题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 43 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "基础",
+    "source": "2006年上海公务员考试《行测》第43题",
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shanghai-2006-未标注-44",
+    "category": "provincial",
+    "province": "上海",
+    "module": "changshi",
+    "title": "第44题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 44 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "基础",
+    "source": "2006年上海公务员考试《行测》第44题",
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shanghai-2006-未标注-45",
+    "category": "provincial",
+    "province": "上海",
+    "module": "changshi",
+    "title": "第45题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 45 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "基础",
+    "source": "2006年上海公务员考试《行测》第45题",
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shanghai-2006-未标注-46",
+    "category": "provincial",
+    "province": "上海",
+    "module": "changshi",
+    "title": "第46题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 46 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "基础",
+    "source": "2006年上海公务员考试《行测》第46题",
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shanghai-2006-未标注-47",
+    "category": "provincial",
+    "province": "上海",
+    "module": "changshi",
+    "title": "第47题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 47 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "基础",
+    "source": "2006年上海公务员考试《行测》第47题",
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shanghai-2006-未标注-48",
+    "category": "provincial",
+    "province": "上海",
+    "module": "changshi",
+    "title": "第48题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 48 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "基础",
+    "source": "2006年上海公务员考试《行测》第48题",
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shanghai-2006-未标注-49",
+    "category": "provincial",
+    "province": "上海",
+    "module": "changshi",
+    "title": "第49题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 49 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "基础",
+    "source": "2006年上海公务员考试《行测》第49题",
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shanghai-2006-未标注-50",
+    "category": "provincial",
+    "province": "上海",
+    "module": "changshi",
+    "title": "第50题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 50 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "基础",
+    "source": "2006年上海公务员考试《行测》第50题",
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shanghai-2006-未标注-51",
+    "category": "provincial",
+    "province": "上海",
+    "module": "changshi",
+    "title": "第51题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 51 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "基础",
+    "source": "2006年上海公务员考试《行测》第51题",
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shanghai-2006-未标注-52",
+    "category": "provincial",
+    "province": "上海",
+    "module": "changshi",
+    "title": "第52题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 52 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "基础",
+    "source": "2006年上海公务员考试《行测》第52题",
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shanghai-2006-未标注-53",
+    "category": "provincial",
+    "province": "上海",
+    "module": "changshi",
+    "title": "第53题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 53 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "基础",
+    "source": "2006年上海公务员考试《行测》第53题",
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shanghai-2006-未标注-54",
+    "category": "provincial",
+    "province": "上海",
+    "module": "changshi",
+    "title": "第54题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 54 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "基础",
+    "source": "2006年上海公务员考试《行测》第54题",
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shanghai-2006-未标注-55",
+    "category": "provincial",
+    "province": "上海",
+    "module": "changshi",
+    "title": "第55题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 55 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "基础",
+    "source": "2006年上海公务员考试《行测》第55题",
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shanghai-2006-未标注-56",
+    "category": "provincial",
+    "province": "上海",
+    "module": "changshi",
+    "title": "第56题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 56 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "基础",
+    "source": "2006年上海公务员考试《行测》第56题",
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shanghai-2006-未标注-57",
+    "category": "provincial",
+    "province": "上海",
+    "module": "changshi",
+    "title": "第57题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 57 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "基础",
+    "source": "2006年上海公务员考试《行测》第57题",
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shanghai-2006-未标注-58",
+    "category": "provincial",
+    "province": "上海",
+    "module": "changshi",
+    "title": "第58题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 58 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "基础",
+    "source": "2006年上海公务员考试《行测》第58题",
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shanghai-2006-未标注-59",
+    "category": "provincial",
+    "province": "上海",
+    "module": "changshi",
+    "title": "第59题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 59 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "基础",
+    "source": "2006年上海公务员考试《行测》第59题",
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shanghai-2006-未标注-60",
+    "category": "provincial",
+    "province": "上海",
+    "module": "changshi",
+    "title": "第60题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 60 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "基础",
+    "source": "2006年上海公务员考试《行测》第60题",
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shanghai-2006-未标注-61",
+    "category": "provincial",
+    "province": "上海",
+    "module": "changshi",
+    "title": "第61题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 61 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "基础",
+    "source": "2006年上海公务员考试《行测》第61题",
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shanghai-2006-未标注-62",
+    "category": "provincial",
+    "province": "上海",
+    "module": "changshi",
+    "title": "第62题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 62 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "基础",
+    "source": "2006年上海公务员考试《行测》第62题",
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shanghai-2006-未标注-63",
+    "category": "provincial",
+    "province": "上海",
+    "module": "changshi",
+    "title": "第63题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 63 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "基础",
+    "source": "2006年上海公务员考试《行测》第63题",
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shanghai-2006-未标注-64",
+    "category": "provincial",
+    "province": "上海",
+    "module": "changshi",
+    "title": "第64题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 64 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "基础",
+    "source": "2006年上海公务员考试《行测》第64题",
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shanghai-2006-未标注-65",
+    "category": "provincial",
+    "province": "上海",
+    "module": "changshi",
+    "title": "第65题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 65 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "基础",
+    "source": "2006年上海公务员考试《行测》第65题",
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shanghai-2006-未标注-66",
+    "category": "provincial",
+    "province": "上海",
+    "module": "changshi",
+    "title": "第66题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 66 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "基础",
+    "source": "2006年上海公务员考试《行测》第66题",
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shanghai-2006-未标注-67",
+    "category": "provincial",
+    "province": "上海",
+    "module": "changshi",
+    "title": "第67题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 67 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "基础",
+    "source": "2006年上海公务员考试《行测》第67题",
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shanghai-2006-未标注-68",
+    "category": "provincial",
+    "province": "上海",
+    "module": "changshi",
+    "title": "第68题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 68 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "基础",
+    "source": "2006年上海公务员考试《行测》第68题",
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shanghai-2006-未标注-69",
+    "category": "provincial",
+    "province": "上海",
+    "module": "changshi",
+    "title": "第69题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 69 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "基础",
+    "source": "2006年上海公务员考试《行测》第69题",
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shanghai-2006-未标注-70",
+    "category": "provincial",
+    "province": "上海",
+    "module": "changshi",
+    "title": "第70题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 70 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "基础",
+    "source": "2006年上海公务员考试《行测》第70题",
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shanghai-2006-未标注-71",
+    "category": "provincial",
+    "province": "上海",
+    "module": "changshi",
+    "title": "第71题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 71 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "基础",
+    "source": "2006年上海公务员考试《行测》第71题",
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shanghai-2006-未标注-72",
+    "category": "provincial",
+    "province": "上海",
+    "module": "changshi",
+    "title": "第72题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 72 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "基础",
+    "source": "2006年上海公务员考试《行测》第72题",
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shanghai-2006-未标注-73",
+    "category": "provincial",
+    "province": "上海",
+    "module": "changshi",
+    "title": "第73题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 73 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "基础",
+    "source": "2006年上海公务员考试《行测》第73题",
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shanghai-2006-未标注-74",
+    "category": "provincial",
+    "province": "上海",
+    "module": "changshi",
+    "title": "第74题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 74 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "基础",
+    "source": "2006年上海公务员考试《行测》第74题",
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shanghai-2006-未标注-75",
+    "category": "provincial",
+    "province": "上海",
+    "module": "changshi",
+    "title": "第75题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 75 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "基础",
+    "source": "2006年上海公务员考试《行测》第75题",
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shanghai-2006-未标注-76",
+    "category": "provincial",
+    "province": "上海",
+    "module": "changshi",
+    "title": "第76题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 76 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "基础",
+    "source": "2006年上海公务员考试《行测》第76题",
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shanghai-2006-未标注-77",
+    "category": "provincial",
+    "province": "上海",
+    "module": "changshi",
+    "title": "第77题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 77 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "基础",
+    "source": "2006年上海公务员考试《行测》第77题",
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shanghai-2006-未标注-78",
+    "category": "provincial",
+    "province": "上海",
+    "module": "changshi",
+    "title": "第78题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 78 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "基础",
+    "source": "2006年上海公务员考试《行测》第78题",
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shanghai-2006-未标注-79",
+    "category": "provincial",
+    "province": "上海",
+    "module": "changshi",
+    "title": "第79题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 79 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "基础",
+    "source": "2006年上海公务员考试《行测》第79题",
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shanghai-2006-未标注-80",
+    "category": "provincial",
+    "province": "上海",
+    "module": "changshi",
+    "title": "第80题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 80 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "基础",
+    "source": "2006年上海公务员考试《行测》第80题",
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shanghai-2006-未标注-81",
+    "category": "provincial",
+    "province": "上海",
+    "module": "changshi",
+    "title": "第81题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 81 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "基础",
+    "source": "2006年上海公务员考试《行测》第81题",
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shanghai-2006-未标注-82",
+    "category": "provincial",
+    "province": "上海",
+    "module": "changshi",
+    "title": "第82题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 82 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "基础",
+    "source": "2006年上海公务员考试《行测》第82题",
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shanghai-2006-未标注-83",
+    "category": "provincial",
+    "province": "上海",
+    "module": "changshi",
+    "title": "第83题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 83 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "基础",
+    "source": "2006年上海公务员考试《行测》第83题",
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shanghai-2006-未标注-84",
+    "category": "provincial",
+    "province": "上海",
+    "module": "changshi",
+    "title": "第84题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 84 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "基础",
+    "source": "2006年上海公务员考试《行测》第84题",
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shanghai-2006-未标注-85",
+    "category": "provincial",
+    "province": "上海",
+    "module": "changshi",
+    "title": "第85题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 85 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "基础",
+    "source": "2006年上海公务员考试《行测》第85题",
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shanghai-2006-未标注-86",
+    "category": "provincial",
+    "province": "上海",
+    "module": "changshi",
+    "title": "第86题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 86 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "基础",
+    "source": "2006年上海公务员考试《行测》第86题",
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shanghai-2006-未标注-87",
+    "category": "provincial",
+    "province": "上海",
+    "module": "changshi",
+    "title": "第87题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 87 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "基础",
+    "source": "2006年上海公务员考试《行测》第87题",
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shanghai-2006-未标注-88",
+    "category": "provincial",
+    "province": "上海",
+    "module": "changshi",
+    "title": "第88题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 88 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "基础",
+    "source": "2006年上海公务员考试《行测》第88题",
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shanghai-2006-未标注-89",
+    "category": "provincial",
+    "province": "上海",
+    "module": "changshi",
+    "title": "第89题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 89 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "基础",
+    "source": "2006年上海公务员考试《行测》第89题",
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shanghai-2006-未标注-90",
+    "category": "provincial",
+    "province": "上海",
+    "module": "changshi",
+    "title": "第90题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 90 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "基础",
+    "source": "2006年上海公务员考试《行测》第90题",
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shanghai-2006-未标注-91",
+    "category": "provincial",
+    "province": "上海",
+    "module": "changshi",
+    "title": "第91题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 91 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "基础",
+    "source": "2006年上海公务员考试《行测》第91题",
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shanghai-2006-未标注-92",
+    "category": "provincial",
+    "province": "上海",
+    "module": "changshi",
+    "title": "第92题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 92 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "基础",
+    "source": "2006年上海公务员考试《行测》第92题",
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shanghai-2006-未标注-93",
+    "category": "provincial",
+    "province": "上海",
+    "module": "changshi",
+    "title": "第93题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 93 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "基础",
+    "source": "2006年上海公务员考试《行测》第93题",
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shanghai-2006-未标注-94",
+    "category": "provincial",
+    "province": "上海",
+    "module": "changshi",
+    "title": "第94题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 94 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "基础",
+    "source": "2006年上海公务员考试《行测》第94题",
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shanghai-2006-未标注-95",
+    "category": "provincial",
+    "province": "上海",
+    "module": "changshi",
+    "title": "第95题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 95 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "基础",
+    "source": "2006年上海公务员考试《行测》第95题",
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shanghai-2006-未标注-96",
+    "category": "provincial",
+    "province": "上海",
+    "module": "changshi",
+    "title": "第96题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 96 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "基础",
+    "source": "2006年上海公务员考试《行测》第96题",
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shanghai-2006-未标注-97",
+    "category": "provincial",
+    "province": "上海",
+    "module": "changshi",
+    "title": "第97题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 97 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "基础",
+    "source": "2006年上海公务员考试《行测》第97题",
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shanghai-2007-未标注-1",
+    "category": "provincial",
+    "module": "changshi",
+    "title": "常识·6，8，10，11，14，14， ( )",
+    "stem": "6，8，10，11，14，14， ( )",
+    "options": [
+      {
+        "key": "A",
+        "text": "16"
+      },
+      {
+        "key": "B",
+        "text": "17"
+      },
+      {
+        "key": "C",
+        "text": "18"
+      },
+      {
+        "key": "D",
+        "text": "20"
+      }
+    ],
+    "answer": "C",
+    "explanation": "C 解析：奇数项是公差为 4 的等 差 数 列 ， 偶 数 项 是 公 差 为 3 的 等 差 数 列 。",
+    "keyPoints": [],
+    "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "基础",
+    "source": "2007年上海公务员考试《行测》第1题",
+    "province": "上海",
+    "subModule": "生活常识",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shanghai-2007-未标注-2",
+    "category": "provincial",
+    "module": "changshi",
+    "title": "常识·3 4 ( ) 9 8 12 18 27",
+    "stem": "3\n4 ( ) 9\n8 12 18 27",
+    "options": [
+      {
+        "key": "A",
+        "text": "6"
+      },
+      {
+        "key": "B",
+        "text": "7"
+      },
+      {
+        "key": "C",
+        "text": "10"
+      },
+      {
+        "key": "D",
+        "text": "11"
+      }
+    ],
+    "answer": "A",
+    "explanation": "A 解析：下一层数的两两之差等于上层数字。",
+    "keyPoints": [
+      "A 解析：下一层数的两两之差等于上层数字"
+    ],
+    "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "基础",
+    "source": "2007年上海公务员考试《行测》第2题",
+    "province": "上海",
+    "subModule": "生活常识",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shanghai-2007-未标注-3",
+    "category": "provincial",
+    "module": "changshi",
+    "title": "常识·1 2 1 3 1 4",
+    "stem": "1 2 1 3 1 4",
+    "options": [],
+    "answer": "D",
+    "explanation": "D 解析： (4 一 1)÷3＝l＝2—1， (15—1)－7＝2＝3 一 l， (?一 1)÷13＝3＝4 一 l，?＝40。",
+    "keyPoints": [],
+    "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "基础",
+    "source": "2007年上海公务员考试《行测》第3题",
+    "province": "上海",
+    "subModule": "生活常识",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shanghai-2007-未标注-4",
+    "category": "provincial",
+    "module": "changshi",
+    "title": "常识·3 15 7 ？ 13",
+    "stem": "3 15 7 ？ 13",
+    "options": [
+      {
+        "key": "A",
+        "text": "18"
+      },
+      {
+        "key": "B",
+        "text": "20"
+      },
+      {
+        "key": "C",
+        "text": "24"
+      },
+      {
+        "key": "D",
+        "text": "40"
+      }
+    ],
+    "answer": "C",
+    "explanation": "C 解析：7=2×3＋l，24＝7×3＋3,77＝24×3＋5， (?)＝77×3＋7＝238",
+    "keyPoints": [],
+    "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "基础",
+    "source": "2007年上海公务员考试《行测》第4题",
+    "province": "上海",
+    "subModule": "生活常识",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shanghai-2007-未标注-5",
+    "category": "provincial",
+    "module": "changshi",
+    "title": "常识·0，1/2，8/11，5/6，8/9， ( )",
+    "stem": "0，1/2，8/11，5/6，8/9， ( )",
+    "options": [
+      {
+        "key": "A",
+        "text": "31/34"
+      },
+      {
+        "key": "B",
+        "text": "33/36"
+      },
+      {
+        "key": "C",
+        "text": "35/38"
+      },
+      {
+        "key": "D",
+        "text": "37/40"
+      }
+    ],
+    "answer": "C",
+    "explanation": "C 解析：原式等同于 0/3，3/6，8/11，15/18，24/27,x/y，观察可知，分子分母各自都是二级等差数列， 所以 x=24+11＝35,y＝27+11=38。",
+    "keyPoints": [],
+    "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "基础",
+    "source": "2007年上海公务员考试《行测》第5题",
+    "province": "上海",
+    "subModule": "生活常识",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shanghai-2007-未标注-6",
+    "category": "provincial",
+    "module": "changshi",
+    "title": "常识·某企业计划从2003年起产量每年比上一年增长7％， 按此…",
+    "stem": "某企业计划从2003年起产量每年比上一年增长7％， 按此计划2008年产量比2003年增加 。",
+    "options": [
+      {
+        "key": "A",
+        "text": "35％"
+      },
+      {
+        "key": "B",
+        "text": "42％"
+      },
+      {
+        "key": "C",
+        "text": "(1+7％)5一1"
+      },
+      {
+        "key": "D",
+        "text": "(1+7％)6一l"
+      }
+    ],
+    "answer": "C",
+    "explanation": "C 解析：设 2003 年产量为 1，2008 年则为(1+7％)5 ，那么增加为[(1+7％)5 一 1]÷l。",
+    "keyPoints": [],
+    "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "基础",
+    "source": "2007年上海公务员考试《行测》第6题",
+    "province": "上海",
+    "subModule": "经济管理",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shanghai-2007-未标注-7",
+    "category": "provincial",
+    "module": "changshi",
+    "title": "常识·某市为合理用电，鼓励各用户安装“ 峰谷 ”电表。该市原电…",
+    "stem": "某市为合理用电，鼓励各用户安装“ 峰谷 ”电表。该市原电价为每度0．53元，改装新电表后．每天 晚上10点至次日早上8点为“低谷 ”，每度收取0．28元，其余时间为“高峰 ”，每度收取O．56元。为改装 新电表每个用户须收取100元改装费。假定某用户每月用200度电，两个不同时段的耗电量各为100度。那么 改装电表12个月后，该用户可节约元。",
+    "options": [
+      {
+        "key": "A",
+        "text": "161"
+      },
+      {
+        "key": "B",
+        "text": "162"
+      },
+      {
+        "key": "C",
+        "text": "163"
+      },
+      {
+        "key": "D",
+        "text": "164"
+      }
+    ],
+    "answer": "D",
+    "explanation": "D 解析：用户改装新表 12 个月共花费电费（0.28×100+O.56×100） ×12＝1008 元，改装费 100 元；改 装前所耗电费为 0.53×200×12＝1272 元，所以共节省 1272—1008—100＝164 元。",
+    "keyPoints": [],
+    "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "基础",
+    "source": "2007年上海公务员考试《行测》第7题",
+    "province": "上海",
+    "subModule": "经济管理",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shanghai-2007-未标注-8",
+    "category": "provincial",
+    "module": "changshi",
+    "title": "常识·某日人民币外汇牌价如下表(货币单位：人民币元)，按照这一…",
+    "stem": "某日人民币外汇牌价如下表(货币单位：人民币元)，按照这一汇率， 100元人民币约可以兑换 ( ) 美元。\n货币名称 | 中间价\n100USD | 786.97\n100EUR | 1，003.53\n100JPY | 6.6704\n100HKD | 101.102\n100GBP | 1,497.85",
+    "options": [
+      {
+        "key": "A",
+        "text": "12．6l"
+      },
+      {
+        "key": "B",
+        "text": "12．66"
+      },
+      {
+        "key": "C",
+        "text": "12．7l"
+      },
+      {
+        "key": "D",
+        "text": "12．76"
+      }
+    ],
+    "answer": "C",
+    "explanation": "C 解析：由上表可知，100 美元可兑换 786.97 人民币，那么 100 人民币可兑换的美元金额为 100÷786．97 ×100＝12.71.",
+    "keyPoints": [],
+    "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "基础",
+    "source": "2007年上海公务员考试《行测》第8题",
+    "province": "上海",
+    "subModule": "经济管理",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shanghai-2007-未标注-9",
+    "category": "provincial",
+    "module": "changshi",
+    "title": "常识·一吨土豆的价格是200元，一吨洋葱的价格是290元。如果…",
+    "stem": "一吨土豆的价格是200元，一吨洋葱的价格是290元。如果土豆的价格1个月提高15％ ，而洋葱的价格 保持不变。那么，要使一吨洋葱的价格低于一吨土豆的价格， 需要 个月的时间。",
+    "options": [
+      {
+        "key": "A",
+        "text": "2"
+      },
+      {
+        "key": "B",
+        "text": "3"
+      },
+      {
+        "key": "C",
+        "text": "4"
+      },
+      {
+        "key": "D",
+        "text": "5"
+      }
+    ],
+    "answer": "B",
+    "explanation": "B 解析：设需要 x 个月，那么 200×(1+15％)x ≥290，x 最小的整数值为 3。",
+    "keyPoints": [],
+    "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "基础",
+    "source": "2007年上海公务员考试《行测》第9题",
+    "province": "上海",
+    "subModule": "经济管理",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shanghai-2007-未标注-10",
+    "category": "provincial",
+    "module": "changshi",
+    "title": "常识·瓶内装有酒精，倒进500克以后又倒出一半，又倒进500克…",
+    "stem": "瓶内装有酒精，倒进500克以后又倒出一半，又倒进500克，这时瓶内有酒精1，200克，据此可知瓶 内原有酒精 克。",
+    "options": [
+      {
+        "key": "A",
+        "text": "750"
+      },
+      {
+        "key": "B",
+        "text": "800"
+      },
+      {
+        "key": "C",
+        "text": "850"
+      },
+      {
+        "key": "D",
+        "text": "900"
+      }
+    ],
+    "answer": "D",
+    "explanation": "D 解析：代入法，可知只有 D 满足。此题也可以用反推法。",
+    "keyPoints": [
+      "D 解析：代入法，可知只有 D 满足",
+      "此题也可以用反推法"
+    ],
+    "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "基础",
+    "source": "2007年上海公务员考试《行测》第10题",
+    "province": "上海",
+    "subModule": "生活常识",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shanghai-2007-未标注-11",
+    "category": "provincial",
+    "module": "changshi",
+    "title": "常识·2000年上海第二产业的增加值大约是 。",
+    "stem": "2000年上海第二产业的增加值大约是 。",
+    "material": "例题：\n：\n博物馆四个入口处自动计数器的读数见下表：\n自动计数器在不同时间的读数(人数)\n人口(时间) | 7：00 | 8：00 | 9：00 | 10：00 | 11：00\n1 | 7,11l | 7,905 | 8,342 | 8,451 | 8,485\n2 | 8,432 | 9,013 | 9,152 | 9．237 | 9,306\n3 | 5,555 | 5,921 | 5,989 | 6,143 | 6,233\n4 | 954 | 1,063 | 1,12l | 1,242 | 1,299\n1．从早上7：00到ll：00通过人口1进入博物馆的参观人数是 人。\nA．580 B．94 C．1,374 D．1,594\n2．在早上7：00到8：00之间，通过人数最多的入口是 。\nA ． 1 B ． 2 C ． 3 D ． 4\n解答：题l应为8485—7111=1374，答案是C：题2比较两数之间的差，差值最大的是入口1的两个数，故答案 是A。请开始答题：\n(一)仔细\n： 产业结构：\n上海不断优化产业结构，现代服务业和先进制造业加快发展。2005年，第二产业实现增加值4，475．92亿 元，按可比价格计算，自2000年以来，平均每年增长13．4％ ；第三产业实现增加值4，588．38亿元，比2000 年增长66．7％ ：三次产业的比例关系由2000年的1．6：46．3：52．1调整为0．9：48．9：50．2。\n就业结构：\n随着经济结构和产业结构调整力度不断加大，上海的就业结构变化显著，第三产业从业人员不断增加。 2005年，三次产业从业人员的结构比例从2000年的10．8：44．3：44．9调整7．1：37．5：55．4。第三产\n业从业人员比重提高10．5个百分点，第一、第二产业从业人员比重则分别下降3．7个和6．8个百分点。 投资结构：\n2005年，全社会固定资产投资完成3,542．55亿元， 比上年增长14．80k， 。其中房地产开发投资完成1， 246．86亿元，增长6．1％ ． 占固定资产投资的比重为35．2％ 。投资结构发生新变化。从产业投向看，第三 产业完成投资2,454．87亿元， 比上年增长18．6％ ，增幅明显高于工业投资增长7．3％的水平。",
+    "options": [
+      {
+        "key": "A",
+        "text": "1，800亿元"
+      },
+      {
+        "key": "B",
+        "text": "2,400亿元"
+      },
+      {
+        "key": "C",
+        "text": "3,000亿元"
+      },
+      {
+        "key": "D",
+        "text": "3，500亿元"
+      }
+    ],
+    "answer": "B",
+    "explanation": "B 解析：2000 年上海第二产业的增加值为 4475.92÷(1+13．4％) 5＝2387 亿元。",
+    "keyPoints": [],
+    "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "基础",
+    "source": "2007年上海公务员考试《行测》第11题",
+    "province": "上海",
+    "subModule": "经济管理",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shanghai-2007-未标注-12",
+    "category": "provincial",
+    "module": "changshi",
+    "title": "常识·从2000年到2005年，在产业结构中，第三产业所占的比…",
+    "stem": "从2000年到2005年，在产业结构中，第三产业所占的比例的变化是 。",
+    "material": "例题：\n：\n博物馆四个入口处自动计数器的读数见下表：\n自动计数器在不同时间的读数(人数)\n人口(时间) | 7：00 | 8：00 | 9：00 | 10：00 | 11：00\n1 | 7,11l | 7,905 | 8,342 | 8,451 | 8,485\n2 | 8,432 | 9,013 | 9,152 | 9．237 | 9,306\n3 | 5,555 | 5,921 | 5,989 | 6,143 | 6,233\n4 | 954 | 1,063 | 1,12l | 1,242 | 1,299\n1．从早上7：00到ll：00通过人口1进入博物馆的参观人数是 人。\nA．580 B．94 C．1,374 D．1,594\n2．在早上7：00到8：00之间，通过人数最多的入口是 。\nA ． 1 B ． 2 C ． 3 D ． 4\n解答：题l应为8485—7111=1374，答案是C：题2比较两数之间的差，差值最大的是入口1的两个数，故答案 是A。请开始答题：\n(一)仔细\n： 产业结构：\n上海不断优化产业结构，现代服务业和先进制造业加快发展。2005年，第二产业实现增加值4，475．92亿 元，按可比价格计算，自2000年以来，平均每年增长13．4％ ；第三产业实现增加值4，588．38亿元，比2000 年增长66．7％ ：三次产业的比例关系由2000年的1．6：46．3：52．1调整为0．9：48．9：50．2。\n就业结构：\n随着经济结构和产业结构调整力度不断加大，上海的就业结构变化显著，第三产业从业人员不断增加。 2005年，三次产业从业人员的结构比例从2000年的10．8：44．3：44．9调整7．1：37．5：55．4。第三产\n业从业人员比重提高10．5个百分点，第一、第二产业从业人员比重则分别下降3．7个和6．8个百分点。 投资结构：\n2005年，全社会固定资产投资完成3,542．55亿元， 比上年增长14．80k， 。其中房地产开发投资完成1， 246．86亿元，增长6．1％ ． 占固定资产投资的比重为35．2％ 。投资结构发生新变化。从产业投向看，第三 产业完成投资2,454．87亿元， 比上年增长18．6％ ，增幅明显高于工业投资增长7．3％的水平。",
+    "options": [
+      {
+        "key": "A",
+        "text": "上升1．9个百分点"
+      },
+      {
+        "key": "B",
+        "text": "下降1．9个百分点"
+      },
+      {
+        "key": "C",
+        "text": "没有变化"
+      },
+      {
+        "key": "D",
+        "text": "无法确定"
+      }
+    ],
+    "answer": "B",
+    "explanation": "B 解析：50.2％一 52.1％＝ 一 1．9％。",
+    "keyPoints": [
+      "B 解析：50.2％一 52.1％＝ 一 1．9％"
+    ],
+    "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "基础",
+    "source": "2007年上海公务员考试《行测》第12题",
+    "province": "上海",
+    "subModule": "经济管理",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shanghai-2007-未标注-13",
+    "category": "provincial",
+    "module": "changshi",
+    "title": "常识·2004年全社会固定投资完成量大约是 。",
+    "stem": "2004年全社会固定投资完成量大约是 。",
+    "material": "例题：\n：\n博物馆四个入口处自动计数器的读数见下表：\n自动计数器在不同时间的读数(人数)\n人口(时间) | 7：00 | 8：00 | 9：00 | 10：00 | 11：00\n1 | 7,11l | 7,905 | 8,342 | 8,451 | 8,485\n2 | 8,432 | 9,013 | 9,152 | 9．237 | 9,306\n3 | 5,555 | 5,921 | 5,989 | 6,143 | 6,233\n4 | 954 | 1,063 | 1,12l | 1,242 | 1,299\n1．从早上7：00到ll：00通过人口1进入博物馆的参观人数是 人。\nA．580 B．94 C．1,374 D．1,594\n2．在早上7：00到8：00之间，通过人数最多的入口是 。\nA ． 1 B ． 2 C ． 3 D ． 4\n解答：题l应为8485—7111=1374，答案是C：题2比较两数之间的差，差值最大的是入口1的两个数，故答案 是A。请开始答题：\n(一)仔细\n： 产业结构：\n上海不断优化产业结构，现代服务业和先进制造业加快发展。2005年，第二产业实现增加值4，475．92亿 元，按可比价格计算，自2000年以来，平均每年增长13．4％ ；第三产业实现增加值4，588．38亿元，比2000 年增长66．7％ ：三次产业的比例关系由2000年的1．6：46．3：52．1调整为0．9：48．9：50．2。\n就业结构：\n随着经济结构和产业结构调整力度不断加大，上海的就业结构变化显著，第三产业从业人员不断增加。 2005年，三次产业从业人员的结构比例从2000年的10．8：44．3：44．9调整7．1：37．5：55．4。第三产\n业从业人员比重提高10．5个百分点，第一、第二产业从业人员比重则分别下降3．7个和6．8个百分点。 投资结构：\n2005年，全社会固定资产投资完成3,542．55亿元， 比上年增长14．80k， 。其中房地产开发投资完成1， 246．86亿元，增长6．1％ ． 占固定资产投资的比重为35．2％ 。投资结构发生新变化。从产业投向看，第三 产业完成投资2,454．87亿元， 比上年增长18．6％ ，增幅明显高于工业投资增长7．3％的水平。",
+    "options": [
+      {
+        "key": "A",
+        "text": "3,000亿元"
+      },
+      {
+        "key": "B",
+        "text": "4,000亿元"
+      },
+      {
+        "key": "C",
+        "text": "5，000亿元"
+      },
+      {
+        "key": "D",
+        "text": "6，000亿元"
+      }
+    ],
+    "answer": "A",
+    "explanation": "A 解析：3542.55÷(1+14.8％) ＝3085 亿元。",
+    "keyPoints": [
+      "A 解析：3542.55÷(1+14.8％) ＝3085 亿元"
+    ],
+    "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "基础",
+    "source": "2007年上海公务员考试《行测》第13题",
+    "province": "上海",
+    "subModule": "经济管理",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shanghai-2007-未标注-14",
+    "category": "provincial",
+    "module": "changshi",
+    "title": "常识·下列说法不正确的是 。",
+    "stem": "下列说法不正确的是 。",
+    "material": "例题：\n：\n博物馆四个入口处自动计数器的读数见下表：\n自动计数器在不同时间的读数(人数)\n人口(时间) | 7：00 | 8：00 | 9：00 | 10：00 | 11：00\n1 | 7,11l | 7,905 | 8,342 | 8,451 | 8,485\n2 | 8,432 | 9,013 | 9,152 | 9．237 | 9,306\n3 | 5,555 | 5,921 | 5,989 | 6,143 | 6,233\n4 | 954 | 1,063 | 1,12l | 1,242 | 1,299\n1．从早上7：00到ll：00通过人口1进入博物馆的参观人数是 人。\nA．580 B．94 C．1,374 D．1,594\n2．在早上7：00到8：00之间，通过人数最多的入口是 。\nA ． 1 B ． 2 C ． 3 D ． 4\n解答：题l应为8485—7111=1374，答案是C：题2比较两数之间的差，差值最大的是入口1的两个数，故答案 是A。请开始答题：\n(一)仔细\n： 产业结构：\n上海不断优化产业结构，现代服务业和先进制造业加快发展。2005年，第二产业实现增加值4，475．92亿 元，按可比价格计算，自2000年以来，平均每年增长13．4％ ；第三产业实现增加值4，588．38亿元，比2000 年增长66．7％ ：三次产业的比例关系由2000年的1．6：46．3：52．1调整为0．9：48．9：50．2。\n就业结构：\n随着经济结构和产业结构调整力度不断加大，上海的就业结构变化显著，第三产业从业人员不断增加。 2005年，三次产业从业人员的结构比例从2000年的10．8：44．3：44．9调整7．1：37．5：55．4。第三产\n业从业人员比重提高10．5个百分点，第一、第二产业从业人员比重则分别下降3．7个和6．8个百分点。 投资结构：\n2005年，全社会固定资产投资完成3,542．55亿元， 比上年增长14．80k， 。其中房地产开发投资完成1， 246．86亿元，增长6．1％ ． 占固定资产投资的比重为35．2％ 。投资结构发生新变化。从产业投向看，第三 产业完成投资2,454．87亿元， 比上年增长18．6％ ，增幅明显高于工业投资增长7．3％的水平。",
+    "options": [
+      {
+        "key": "A",
+        "text": "从2000年到2005年，第三产业从业人员的比重有所增加"
+      },
+      {
+        "key": "B",
+        "text": "从2000年到2005年，第三产业的投资额有所增加"
+      },
+      {
+        "key": "C",
+        "text": "从2000年到2005年，第三产业在产业结构中所占的比重有所增加"
+      },
+      {
+        "key": "D",
+        "text": "从2000年到2005年，第三产业投资额的增加速度比工业投资额的增加速度快"
+      }
+    ],
+    "answer": "C",
+    "explanation": "C 解析： 由 12 题可知第三产业在产业结构中所占的比重有所下降。",
+    "keyPoints": [
+      "C 解析： 由 12 题可知第三产业在产业结构中所占的比重有所下降"
+    ],
+    "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "基础",
+    "source": "2007年上海公务员考试《行测》第14题",
+    "province": "上海",
+    "subModule": "经济管理",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shanghai-2007-未标注-15",
+    "category": "provincial",
+    "module": "changshi",
+    "title": "常识·这次调查的对象总计为 人。",
+    "stem": "这次调查的对象总计为 人。",
+    "material": "(二)\n赞成(％) | 反对(％) | 合计(％) | 人数\n年 级 | 初一 | 35 | 65 | 100 | 372\n初二 | 30 | 70 | 100 | 375\n初三 | 50 | 50 | 100 | 383\n性 别 | 男 | 55 | 45 | 100 | 586\n女 | 60 | 40 | 100 | 544\n注：表中给出的是某学校在初中年级学生中进行的一次问卷调查的统计结果。",
+    "options": [
+      {
+        "key": "A",
+        "text": "1，100"
+      },
+      {
+        "key": "B",
+        "text": "1，130"
+      },
+      {
+        "key": "C",
+        "text": "2,000"
+      },
+      {
+        "key": "D",
+        "text": "2,260"
+      }
+    ],
+    "answer": "B",
+    "explanation": "B 解析：总人数＝586+544＝1130。",
+    "keyPoints": [
+      "B 解析：总人数＝586+544＝1130"
+    ],
+    "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "基础",
+    "source": "2007年上海公务员考试《行测》第15题",
+    "province": "上海",
+    "subModule": "经济管理",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shanghai-2007-未标注-16",
+    "category": "provincial",
+    "module": "changshi",
+    "title": "常识·初一反对的人数是初二和初三反对人数的 。",
+    "stem": "初一反对的人数是初二和初三反对人数的 。",
+    "material": "(二)\n赞成(％) | 反对(％) | 合计(％) | 人数\n年 级 | 初一 | 35 | 65 | 100 | 372\n初二 | 30 | 70 | 100 | 375\n初三 | 50 | 50 | 100 | 383\n性 别 | 男 | 55 | 45 | 100 | 586\n女 | 60 | 40 | 100 | 544\n注：表中给出的是某学校在初中年级学生中进行的一次问卷调查的统计结果。",
+    "options": [
+      {
+        "key": "A",
+        "text": "54．2％"
+      },
+      {
+        "key": "B",
+        "text": "5\n1、2％"
+      },
+      {
+        "key": "C",
+        "text": "53．3％"
+      },
+      {
+        "key": "D",
+        "text": "63．7%"
+      }
+    ],
+    "answer": "C",
+    "explanation": "C 解析：初一反对的人数是 372×65％=241.8，初二和初三反对的人数之和为 375×70％+383×50％=454， 则两者比例为 241．8÷454=53．3％。",
+    "keyPoints": [],
+    "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "基础",
+    "source": "2007年上海公务员考试《行测》第16题",
+    "province": "上海",
+    "subModule": "经济管理",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shanghai-2007-未标注-17",
+    "category": "provincial",
+    "module": "changshi",
+    "title": "常识·在这次问卷调查中表示反对的人数最多的是 。",
+    "stem": "在这次问卷调查中表示反对的人数最多的是 。",
+    "material": "(二)\n赞成(％) | 反对(％) | 合计(％) | 人数\n年 级 | 初一 | 35 | 65 | 100 | 372\n初二 | 30 | 70 | 100 | 375\n初三 | 50 | 50 | 100 | 383\n性 别 | 男 | 55 | 45 | 100 | 586\n女 | 60 | 40 | 100 | 544\n注：表中给出的是某学校在初中年级学生中进行的一次问卷调查的统计结果。",
+    "options": [
+      {
+        "key": "A",
+        "text": "初二的学生"
+      },
+      {
+        "key": "B",
+        "text": "初三的学生"
+      },
+      {
+        "key": "C",
+        "text": "男生"
+      },
+      {
+        "key": "D",
+        "text": "女生"
+      }
+    ],
+    "answer": "C",
+    "explanation": "C 解析：A 的值为 262．5，B 值为 191．5，C 值为 263．7，D 值为 217．6，所以选 C。",
+    "keyPoints": [],
+    "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "基础",
+    "source": "2007年上海公务员考试《行测》第17题",
+    "province": "上海",
+    "subModule": "经济管理",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shanghai-2007-未标注-18",
+    "category": "provincial",
+    "module": "changshi",
+    "title": "常识·在此期间相对稳定的数值是 。",
+    "stem": "在此期间相对稳定的数值是 。",
+    "material": "(三)\n：\n下图给出了某国在2001。2004．年间的国民生产总值、进出口额、平均收入、失业人数、部分时间工作 岗位及通货膨胀率的发展情况。",
+    "options": [
+      {
+        "key": "A",
+        "text": "进出口额"
+      },
+      {
+        "key": "B",
+        "text": "失业人数、部分时间工作岗位"
+      },
+      {
+        "key": "C",
+        "text": "通货膨胀率"
+      },
+      {
+        "key": "D",
+        "text": "国民生产总值和平均收入"
+      }
+    ],
+    "answer": "D",
+    "explanation": "D 解析： 由图观察直接得出。",
+    "keyPoints": [
+      "D 解析： 由图观察直接得出"
+    ],
+    "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "基础",
+    "source": "2007年上海公务员考试《行测》第18题",
+    "province": "上海",
+    "subModule": "经济管理",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shanghai-2007-未标注-19",
+    "category": "provincial",
+    "module": "changshi",
+    "title": "常识·与出口额数目联系起来看，部分时间的工作岗位 。",
+    "stem": "与出口额数目联系起来看，部分时间的工作岗位 。",
+    "material": "(三)\n：\n下图给出了某国在2001。2004．年间的国民生产总值、进出口额、平均收入、失业人数、部分时间工作 岗位及通货膨胀率的发展情况。",
+    "options": [
+      {
+        "key": "A",
+        "text": "随着出口额而下降，在出口的增长前仍继续下降"
+      },
+      {
+        "key": "B",
+        "text": "随着出口额而增长，在出口的增长前又有明显的再增长"
+      },
+      {
+        "key": "C",
+        "text": "随着出口额而下降，在出口的增长前又重新有明显的增长"
+      },
+      {
+        "key": "D",
+        "text": "随着出口额而增长，在出口的增长前有明显的下降"
+      }
+    ],
+    "answer": "B",
+    "explanation": "B 解析： 由图观察直接得出。",
+    "keyPoints": [
+      "B 解析： 由图观察直接得出"
+    ],
+    "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "基础",
+    "source": "2007年上海公务员考试《行测》第19题",
+    "province": "上海",
+    "subModule": "经济管理",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shanghai-2007-未标注-20",
+    "category": "provincial",
+    "module": "changshi",
+    "title": "常识·GPA成绩在3.5～4.0之间，而SAT成绩在1，000…",
+    "stem": "GPA成绩在3.5～4.0之间，而SAT成绩在1，000～l，299之间的学生中有 人没能升人大学。",
+    "options": [
+      {
+        "key": "A",
+        "text": "84"
+      },
+      {
+        "key": "B",
+        "text": "72"
+      },
+      {
+        "key": "C",
+        "text": "32 D-36"
+      }
+    ],
+    "answer": "D",
+    "explanation": "D 解析：120×(1—70％)＝36 人。",
+    "keyPoints": [
+      "D 解析：120×(1—70％)＝36 人"
+    ],
+    "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "基础",
+    "source": "2007年上海公务员考试《行测》第20题",
+    "province": "上海",
+    "subModule": "经济管理",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shanghai-2008-未标注-1",
+    "category": "provincial",
+    "module": "changshi",
+    "title": "常识·(不定项选择)党的十七大报告提出，要建设社会主义核心价值…",
+    "stem": "(不定项选择)党的十七大报告提出，要建设社会主义核心价值体系，增强社会主义意识形态的吸引力和凝聚 力。社会主义核心价值体系是：",
+    "options": [
+      {
+        "key": "A",
+        "text": "社会主义意识形态的根本要求"
+      },
+      {
+        "key": "B",
+        "text": "社会主义意识形态的本质体现"
+      },
+      {
+        "key": "C",
+        "text": "实践社会主义荣辱观的主要体现"
+      },
+      {
+        "key": "D",
+        "text": "巩固全党全国各族人民团结奋斗的思想基础"
+      }
+    ],
+    "answer": "B",
+    "explanation": "第一步，本题考查中共党史。\n第二步，建党的十七大报告指出，建设社会主义核心价值体系，增强社会主义意识形态的吸引力和凝聚力。社会 主义核心价值体系是社会主义意识形态的本质体现，切实把社会主义核心价值体系融入国民教育和精神文明建设 全过程，转化为人民的自觉追求。要巩固马克思主义指导地位，坚持不懈地用马克思主义中国化最新成果武装全 党、教育人民，用中国特色社会主义共同理想凝聚力量，用以爱国主义为核心的民族精神和以改革创新为核心的 时代精神鼓舞斗志，用社会主义荣辱观引领风尚，巩固全党全国各族人民团结奋斗的共同思想基础。\n因此，选择 B 选项。 拓展\n马克思主义指导思想（灵魂），中国特色社会主义共同理想（主题），以爱国主义为核心的民族精神和以改革创 新为核心的时代精神（精髓），社会主义荣辱观（基础），构成社会主义核心价值体系的基本内容。",
+    "keyPoints": [
+      "第一步，本题考查中共党史"
+    ],
+    "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "基础",
+    "source": "2008年上海公务员考试《行测》第1题",
+    "province": "上海",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shanghai-2008-未标注-2",
+    "category": "provincial",
+    "module": "changshi",
+    "title": "常识·(不定项选择)党的十七大报告指出，社会主义社会是全面发展…",
+    "stem": "(不定项选择)党的十七大报告指出，社会主义社会是全面发展、全面进步的社会。中国特色社会主义事业的\n总体布局是由（ ）构成的。",
+    "options": [
+      {
+        "key": "A",
+        "text": "政治建设、法制建设、精神建设和社会建设"
+      },
+      {
+        "key": "B",
+        "text": "经济建设、法治建设、文化建设和体制建设"
+      },
+      {
+        "key": "C",
+        "text": "经济建设、政治建设、文化建设和社会建设"
+      },
+      {
+        "key": "D",
+        "text": "政治建设、经济建设、精神建设和体制建设"
+      }
+    ],
+    "answer": "C",
+    "explanation": "第一步，本题考查中共党史。\n第二步，十七大通过的新党章，在总纲第九自然段中阐述社会主义初级阶段基本国情和现阶段奋斗目标时，增写 了“必须按照中国特色社会主义事业总体布局，全面推进经济建设、政治建设、文化建设、社会建设”的新内容。 这就在执政党的章程中，明确了“四位一体”的中国特色社会主义事业的总体布局。\n因此，选择 C 选项。 拓展\n2012 年 11 月 8 日至 14 日，中国共产党第十八次全国代表大会在北京召开。11 月 14 日，大会通过了关于《中国 共产党章程（修正案）》的决议。党的 18 大充实了中国特色社会主义总体布局的内容。把生态文明建设同经济 建设、政治建设、文化建设、社会建设一道，纳入中国特色社会主义事业总体布局。",
+    "keyPoints": [
+      "第一步，本题考查中共党史",
+      "这就在执政党的章程中，明确了“四位一体”的中国特色社会主义事业的总体布局"
+    ],
+    "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "基础",
+    "source": "2008年上海公务员考试《行测》第2题",
+    "province": "上海",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shanghai-2008-未标注-3",
+    "category": "provincial",
+    "module": "changshi",
+    "title": "常识·(不定项选择)2010 年，中国上海将举办世界博览会，这…",
+    "stem": "(不定项选择)2010 年，中国上海将举办世界博览会，这是上海实现科学发展的重要契机，也是上海今后一个\n时期发展的重要推动力。（ ）是上海世博会追求的目标，也是中国政府对国际社会的一项庄严承诺。",
+    "options": [
+      {
+        "key": "A",
+        "text": "成功、精彩、难忘"
+      },
+      {
+        "key": "B",
+        "text": "和谐、创新、精彩"
+      },
+      {
+        "key": "C",
+        "text": "城市，让生活更美好"
+      },
+      {
+        "key": "D",
+        "text": "绿色、科技、合作"
+      }
+    ],
+    "answer": "A",
+    "explanation": "第一步，本题考查时政。\n第二步，把上海世博会办成一届成功、精彩、难忘的盛会，办成一届促进人类文明进步，促进科技创新，促进我 国与世界各国交流合作、共同发展的盛会。\n因此，选择 A 选项。",
+    "keyPoints": [
+      "第一步，本题考查时政",
+      "因此，选择 A 选项"
+    ],
+    "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "基础",
+    "source": "2008年上海公务员考试《行测》第3题",
+    "province": "上海",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shanghai-2008-未标注-4",
+    "category": "provincial",
+    "module": "changshi",
+    "title": "常识·(不定项选择)《中共中央关于构建社会主义和谐社会若干重大…",
+    "stem": "(不定项选择)《中共中央关于构建社会主义和谐社会若干重大问题的决定》指出，构建社会主义和谐社会，\n必须坚持民主法治。加强社会主义民主政治建设，发展社会主义民主，实施依法治国基本方略，建设社会主义法 治国家：",
+    "options": [
+      {
+        "key": "A",
+        "text": "树立社会主义法治理念，增强全社会法律意识"
+      },
+      {
+        "key": "B",
+        "text": "坚持科学执政、民主执政、依法执政"
+      },
+      {
+        "key": "C",
+        "text": "推进国家经济、政治、文化、社会生活法制化、规范化"
+      },
+      {
+        "key": "D",
+        "text": "逐步形成社会公平保障体系，促进社会公平正义"
+      }
+    ],
+    "answer": "ACD",
+    "explanation": "第一步，本题考查中共党史。\n第二步，2006 年 10 月党的十六届六中全会通过的《中共中央关于构建社会主义和谐社会若干重大问题的决定》 指出：“必须坚持民主法治。加强社会主义民主政治建设，发展社会主义民主，实施依法治国基本方略，建设社 会主义法治国家，树立社会主义法治理念，增强全社会法律意识，推进国家经济、政治、文化、社会生活法制化、\n规范化，逐步形成社会公平保障体系，促进社会公平正义。” A 项、C 项、D 项符合题意。 因此，选择 ACD 选项。",
+    "keyPoints": [
+      "第一步，本题考查中共党史"
+    ],
+    "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "基础",
+    "source": "2008年上海公务员考试《行测》第4题",
+    "province": "上海",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shanghai-2008-未标注-5",
+    "category": "provincial",
+    "module": "changshi",
+    "title": "常识·(不定项选择)财政政策，是指政府根据既定目标，通过财政收…",
+    "stem": "(不定项选择)财政政策，是指政府根据既定目标，通过财政收支的变动以影响宏观经济水平的经济政策，当 通货膨胀出现的时候，紧缩性财政政策能够发挥一定的作用。以下属于紧缩性财政政策的主要手段的是：",
+    "options": [
+      {
+        "key": "A",
+        "text": "提高政府转移支付水平，增加社会福利费用"
+      },
+      {
+        "key": "B",
+        "text": "增加税收，以降低企业的投资能力和个人的投资热情，并抑制总需求的膨胀"
+      },
+      {
+        "key": "C",
+        "text": "发行公债以减少流通中的货币供应量"
+      },
+      {
+        "key": "D",
+        "text": "削减政府预算，限制公共事业投资， 以此来减少政府支出"
+      }
+    ],
+    "answer": "BCD",
+    "explanation": "第一步，本题考查财政政策。\n第二步，通货膨胀，是指在信用货币制度下，流通中的货币数量超过经济实际需要而引起的货币贬值和物价水平 全面而持续的上涨。紧缩性财政政策是宏观财政政策的类型之一，就是通过增加财政收入，减少财政支出，实现 财政盈余来抑制社会总需求，从而达到调节通货膨胀的目的。其实施的主要手段就是减少政府转移支付，提高税 率增加税收，削减政府预算，减少政府投资，发行公债用于增加财政收入。A 项提高政府转移支付水平这种方式\n会增加流通中的货币量，不能有效解决通货膨胀问题，不属于紧缩性财政政策。 因此，选择 BCD 选项。\n拓展\n扩张性财政政策又叫做积极的财政政策，是指在经济衰退时期，通过发行国债，增加财政支出和减少财政收入， 以刺激总需求增长，降低失业率，使经济尽快复苏。扩张性财政政策针对的是通货紧缩。通货紧缩指的是当市场 上流通货币减少，人民的货币所得减少，购买力下降，影响物价至下跌，长期的货币紧缩会抑制投资与生产，导 致失业率升高及经济衰退。所以为了应对通货紧缩，需要国家财政通过增加支出减少收入的方式来进行调控， 目 的就是为了增加流通的货币量，刺激消费者的消费和投资需求，使市场重新恢复活力与生机。",
+    "keyPoints": [
+      "第一步，本题考查财政政策"
+    ],
+    "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "基础",
+    "source": "2008年上海公务员考试《行测》第5题",
+    "province": "上海",
+    "subModule": "经济管理",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shanghai-2008-未标注-6",
+    "category": "provincial",
+    "module": "changshi",
+    "title": "常识·(不定项选择)政府职能，是指公共行政管理机关在经济、社会…",
+    "stem": "(不定项选择)政府职能，是指公共行政管理机关在经济、社会发展中所应承担的职责和所应发挥的作用。下 列属于我国政府社会管理职能的是：",
+    "options": [
+      {
+        "key": "A",
+        "text": "保护和治理生态环境"
+      },
+      {
+        "key": "B",
+        "text": "加强社会治安综合治理"
+      },
+      {
+        "key": "C",
+        "text": "加大军事装备的研发与生产投入"
+      },
+      {
+        "key": "D",
+        "text": "调节收入分配"
+      }
+    ],
+    "answer": "ABD",
+    "explanation": "第一步，本题考查管理。\n第二步，社会管理职能就是通过制定社会政策和法规，依法管理和规范社会组织、社会事务，化解社会矛盾，调 节收入分配，维护社会公正、社会秩序和社会稳定。政府的社会职能主要有:①调节社会分配和组织社会保障的 职能。即政府为保证社会公平、缩小地区发展差距和个人收入差距，运用各种手段来调节社会分配、组织社会保 障， 以提高社会整体福利水平，最终实现共同富裕。②保护生态环境和自然资源的职能。即政府通过各种手段， 对因经济发展、人口膨胀等因素所造成的环境恶化、自然资源破坏等进行恢复、治理、监督、控制，从而促进经 济的可持续发展。③促进社会化服务体系建立的职能。即政府通过制定法律法规、政策扶持等措施，促进社会自 我管理能力的不断提高。④提高人口质量，实行计划生育的职能。A 项属于②, B 项属于③, D 项属于①, 都属 于社会管理职能；C 项不属于社会管理职能。\n因此，选择 ABD 选项。 拓展\n政府职能也叫行政职能，是指行政主体作为国家管理的执法机关，在依法对国家政治、经济和社会公共事务进行 管理时应承担的职责和所具有的功能。主要包括四个方面的职能：政治职能、经济职能、文化职能、社会职能。 政治职能，亦称统治职能，政治职能是指政府为维护国家统治阶级的利益，对外保护国家安全，对内维持社会秩 序的职能。主要有四大政治职能:①军事保卫职能。即维护国家独立和主权完整、保卫国防安全、防御外来侵略 的职能。②外交职能。即通过政府的外交活动，促进本国与世界其他各国正常的政治、经济往来，建立睦邻友好 关系，促进国与国之间互惠互利，反对强权政治，维护世界和平等方面的职能。③治安职能。即维持国家内部社 会秩序、镇压叛国和危害社会安全的活动、保障人民的政治权利和生命财产安全、维护宪法和法律尊严的职能。 ④民主政治建设职能。即通过政府活动，推进国家政权完善和民主政治发展的职能。C 项的加大军事装备的研发 与生产投入属于政治职能的①, 故而不是社会职能，不选。\n经济职能是指政府为国家经济的发展，对社会经济生活进行管理的职能。随着中国计划经济体制向社会主义市场 经济体制的转变，主要有三大经济职能:①宏观调控职能。即政府通过制定和运用财政税收政策和货币政策，对 整个国民经济运行进行间接的、宏观的调控。②提供公共产品和服务职能。政府通过政府管理、制定产业政策、 计划指导、就业规划等方式对整个国民经济实行间接控制；同时，还要发挥社会中介组织和企业的力量，与政府 一道共同承担提供公共产品的任务。③市场监管职能。即政府为确保市场运行畅通、保证公平竞争和公平交易、 维护企业合法权益而对企业和市场所进行的管理和监督。\n文化职能是指政府为满足人民日益增长的文化生活的需要，依法对文化事业所实施的管理。它是加强社会主义精 神文明，促进经济与社会协调发展的重要保证。文化职能主要有以下四类:①发展科学技术的职能，即政府通过 制定科学技术发展战略，加强对重大科技工作的宏观调控，做好科技规划和预测等工作，重视基础性、高技术及 其产业化研究。一般的科技工作主要依靠市场机制来推动。②发展教育的职能。即政府通过制定社会教育发展战 略，优化教育结构，加快教育体制改革，逐步形成政府办学与社会办学相结合的新体制。③发展文化事业的职能。 即政府通过制定各种方针、政策、法规等，引导整个社会文学艺术、广播影视、新闻出版和哲学社会科学研究等 各项事业健康繁荣地发展。④发展卫生体育的职能。即政府制定各种方针、政策、法规等，引导全社会卫生体育 事业的发展。",
+    "keyPoints": [
+      "第一步，本题考查管理",
+      "政府的社会职能主要有:①调节社会分配和组织社会保障的 职能"
+    ],
+    "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "基础",
+    "source": "2008年上海公务员考试《行测》第6题",
+    "province": "上海",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shanghai-2008-未标注-7",
+    "category": "provincial",
+    "module": "changshi",
+    "title": "常识·(不定项选择)长期以来，人们并不重视对公共政策执行和评估…",
+    "stem": "(不定项选择)长期以来，人们并不重视对公共政策执行和评估的研究，认为公共政策的根本问题就是对政策 制定系统加以改进，现代政策执行研究更重视政策的执行过程和效果。公共政策的评估起点是：",
+    "options": [
+      {
+        "key": "A",
+        "text": "确定政策评估工作组织者"
+      },
+      {
+        "key": "B",
+        "text": "拟定政策评估工作程序"
+      },
+      {
+        "key": "C",
+        "text": "建立政策评估标准"
+      },
+      {
+        "key": "D",
+        "text": "进行各项考核并汇总数据"
+      }
+    ],
+    "answer": "C",
+    "explanation": "第一步，本题考查公共政策。\n第二步，政策评估是利用科学的方法和技术，依据一定的价值标准和事实标准，通过一定的程序和步骤，对政策 实施中的价值因素和事实因素进行分析， 目的在于利用这些政策相关信息，对政策的未来走向作出基本的判断。 公共政策评估的一般步骤是：确定评估对象-明确评估目的-选择评估标准-培训评估人员-撰写评估方案-实施评 估方案-评估的总结。因此，从选项来看建立政策评估标准是进行政策评估的起点。选项按照工作步骤排序的话 是 C-A-B-D。\n因此，选择 C 选项。",
+    "keyPoints": [
+      "第一步，本题考查公共政策"
+    ],
+    "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "基础",
+    "source": "2008年上海公务员考试《行测》第7题",
+    "province": "上海",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shanghai-2008-未标注-8",
+    "category": "provincial",
+    "module": "changshi",
+    "title": "常识·(不定项选择)行政复议是监督行政的一种制度化、规范化的（…",
+    "stem": "(不定项选择)行政复议是监督行政的一种制度化、规范化的（ ），也是国家行政机关系统内部为依法行\n政而进行自我约束的重要机制。",
+    "options": [
+      {
+        "key": "A",
+        "text": "行政裁决行为"
+      },
+      {
+        "key": "B",
+        "text": "行政救济行为"
+      },
+      {
+        "key": "C",
+        "text": "行政监督行为"
+      },
+      {
+        "key": "D",
+        "text": "行政审查行为"
+      }
+    ],
+    "answer": "C",
+    "explanation": "第一步，本题考查行政复议。\n第二步，行政复议，是指法定的行政机关根据行政相对人的请求，按照法定程序依法对引起争议的具体行政行为 进行复查并作出裁决的活动。行政复议是监督行政的一种重要形式，是上级行政机关对下级行政机关的行政行为 活动进行监督的一种制度化、规范化的表现，是行政机关系统内部为依法行政而进行自我纠正错误的重要法律制 度。\n因此，选择 C 选项。 拓展\nA 项：行政裁决是指行政机关或法定授权的组织，依照法律授权，对当事人之间发生的、与行政管理活动密切相 关的、特定的民事纠纷进行审查，并作出裁决的具体行政行为。行政裁决又称为行政司法。根据我国现行法律的 规定，行政裁决主要有以下几类:（1）损害赔偿裁决； （2）权属纠纷裁决； （3）侵权纠纷裁决。行政裁决 行为针对的是民事行为，而不是具体行政行为，不属于内部行政监督。故 A 项不选。\nB 项：行政救济行为，这个是对于行政相对人而言的，在具体行政行为中，如果相对人认为行政主体的行政行为 侵犯了其法定权益，就可以通过行政复议、行政诉讼来维权，是一种救济。而和题干要求不符，故 B 项不选。\nD 项：行政审查行为指的是由行政主体对具体行政行为进行调查、核实的一种过程。",
+    "keyPoints": [
+      "第一步，本题考查行政复议"
+    ],
+    "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "基础",
+    "source": "2008年上海公务员考试《行测》第8题",
+    "province": "上海",
+    "subModule": "法律",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shanghai-2008-未标注-9",
+    "category": "provincial",
+    "module": "changshi",
+    "title": "常识·(不定项选择)中共十七大报告在谈到深化收入分配制度改革、…",
+    "stem": "(不定项选择)中共十七大报告在谈到深化收入分配制度改革、增加城乡居民收入时，首次提出了“创造条件 让更多群众拥有财产性收入 ”，这更是给各类投资者吃了“定心丸 ”。人们不仅可以靠工资增加财富，还可以通\n过财富保值增值，拥有更多的财富。下列选项中，不属于“财产性收入 ”的是：",
+    "options": [
+      {
+        "key": "A",
+        "text": "老刘所在的企业以股份形式向每个员工支付劳动报酬，年终获得了分红"
+      },
+      {
+        "key": "B",
+        "text": "张阿姨购买的基金获得了分红收益"
+      },
+      {
+        "key": "C",
+        "text": "小李自主创办企业，并获得的经营收益"
+      },
+      {
+        "key": "D",
+        "text": "老李因其在技术革新中做出的突出成绩，年终获得了公司一万元奖励"
+      }
+    ],
+    "answer": "CD",
+    "explanation": "第一步，本题考查宏观经济并选错误项。\n第二步，财产性收入，也称资产性收入，指通过资本参与社会生产和生活活动所产生的收入。财产性收入一般是 指家庭拥有的动产（如银行存款、有价证券等）、不动产（如房屋、土地附着物等）所获得的收入。它包括出让 财产使用权所获得的利息、租金、专利收入等；财产营运所获得的红利收入、财产增值收益等。A、B 项均属于 财产性收入，C 项属于经营性收入，D 项属于工资性收入。\n因此，选择 CD 选项。 拓展\n统计中常用的“人均可支配收入”， 由四部分构成，按照占比大小分别是:工资性收入（工资等）、转移性收入 （养老金等）、经营性收入（商业买卖收入等）和财产性收入。\n工资性收入指就业人员通过各种途径得到的全部劳动报酬，包括所从事的主要职业的工资以及从事第二职业、其 他兼职和零星劳动得到的其它劳动收入。D 项因工作突出所获得的奖金就属于工资性收入。\n经营性收入是指纳税人通过经常性的生产经营活动而取得的收益，即企业在销售货物、提供劳务以及让渡资产使 用权等日常活动中所产生的收入，通常表现为现金流入、其他资产的增加或负债的减少。C 项中的小李自主创办 企业所获得经营收益就属于经营性收入。\n转移性收入就是指国家、单位、社会团体对居民家庭的各种转移支付和居民家庭间的收入转移。包括政府对个人 收入转移的离退休金、失业救济金、赔偿等；单位对个人收入转移的辞退金、保险索赔、住房公积金、家庭间的 赠送和赡养等。",
+    "keyPoints": [
+      "第一步，本题考查宏观经济并选错误项"
+    ],
+    "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "基础",
+    "source": "2008年上海公务员考试《行测》第9题",
+    "province": "上海",
+    "subModule": "经济管理",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shanghai-2008-未标注-10",
+    "category": "provincial",
+    "module": "changshi",
+    "title": "常识·(不定项选择)党的十七大报告在论述科学发展观时，强调要“…",
+    "stem": "(不定项选择)党的十七大报告在论述科学发展观时，强调要“更好实施科教兴国战略、人才强国战略、可持 续发展战略，着力把握发展规律、创新发展理念、转变发展方式、破解发展难题，提高发展质量和效益，实现又 好又快发展，为发展中国特色社会主义打下坚实基础。 ”可持续发展战略的核心内容就是：",
+    "options": [
+      {
+        "key": "A",
+        "text": "要保持人口资源、环境、经济、社会的协调发展"
+      },
+      {
+        "key": "B",
+        "text": "要保持社会的和谐稳定，国民经济持续增长"
+      },
+      {
+        "key": "C",
+        "text": "在经济不断增长的同时，要保证人民生活水平的同步增长"
+      },
+      {
+        "key": "D",
+        "text": "充分发挥市场在资源配置中的基础作用，增强经济的活力和效率"
+      }
+    ],
+    "answer": "A",
+    "explanation": "第一步，本题考查中共党史。\n第二步，党的十七大报告指出，可持续发展的核心内容就是要保持人口资源、环境、经济、社会的协调发展。可 持续发展强调经济与环境的协调,追求的是人与自然的和谐，强调经济发展和环境保护相互联系和不可分割。特\n别是在经济高速增长的情况下，必须强化环境与资源的保护，做到资源的合理开发、节约使用和持续利用。 因此，选择 A 选项。",
+    "keyPoints": [
+      "第一步，本题考查中共党史"
+    ],
+    "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "基础",
+    "source": "2008年上海公务员考试《行测》第10题",
+    "province": "上海",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shanghai-2008-未标注-11",
+    "category": "provincial",
+    "module": "changshi",
+    "title": "常识·(不定项选择)我国在对抗全球变暖运动中一贯采取积极务实的…",
+    "stem": "(不定项选择)我国在对抗全球变暖运动中一贯采取积极务实的姿态，2007 年 5 月 30 日，国务院常务会议审 议并决定颁布：",
+    "options": [
+      {
+        "key": "A",
+        "text": "《中国应对全球变暖国家方案》"
+      },
+      {
+        "key": "B",
+        "text": "《中国应对温室效应国家方案》"
+      },
+      {
+        "key": "C",
+        "text": "《中国应对环境污染国家方案》"
+      },
+      {
+        "key": "D",
+        "text": "《中国应对气候变化国家方案》"
+      }
+    ],
+    "answer": "D",
+    "explanation": "第一步，本题考查时政。\n第二步，5 月 30 日，国务院总理温家宝主持召开国务院常务会议，审议并决定颁布《中国应对气候变化国家方 案》。\n因此，选择 D 选项。\n拓展\n气候变化是国际社会普遍关心的重大全球性问题。气候变化既是环境问题，也是发展问题，但归根到底是发展问 题。《联合国气候变化框架公约》（以下简称《气候公约》） 指出，历史上和目前全球温室气体排放的最大部分 源自发达国家，发展中国家的人均排放仍相对较低，发展中国家在全球排放中所占的份额将会增加，以满足其经 济和社会发展需要。《气候公约》明确提出，各缔约方应在公平的基础上，根据他们共同但有区别的责任和各自 的能力，为人类当代和后代的利益保护气候系统，发达国家缔约方应率先采取行动应对气候变化及其不利影响。 《气候公约》同时也要求所有缔约方制定、执行、公布并经常更新应对气候变化的国家方案。\n中国作为一个负责任的发展中国家，对气候变化问题给予了高度重视，成立了国家气候变化对策协调机构，并根 据国家可持续发展战略的要求，采取了一系列与应对气候变化相关的政策和措施，为减缓和适应气候变化做出了 积极的贡献。作为履行《气候公约》的一项重要义务，2007 年中国政府特制定《中国应对气候变化国家方案》。 本方案明确了到 2010 年中国应对气候变化的具体目标、基本原则、重点领域及其政策措施。",
+    "keyPoints": [
+      "第一步，本题考查时政",
+      "因此，选择 D 选项"
+    ],
+    "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "基础",
+    "source": "2008年上海公务员考试《行测》第11题",
+    "province": "上海",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shanghai-2008-未标注-12",
+    "category": "provincial",
+    "module": "changshi",
+    "title": "常识·(不定项选择)行政复议机关依法对具体行政行为的（ ）进行…",
+    "stem": "(不定项选择)行政复议机关依法对具体行政行为的（ ）进行审查。",
+    "options": [
+      {
+        "key": "A",
+        "text": "合法性"
+      },
+      {
+        "key": "B",
+        "text": "合理性"
+      },
+      {
+        "key": "C",
+        "text": "执法依据"
+      },
+      {
+        "key": "D",
+        "text": "申请人要求复议的内容"
+      }
+    ],
+    "answer": "AB",
+    "explanation": "第一步，本题考查行政复议法。\n第二步，行政复议，是指公民、法人或者其他组织认为行政主体的具体行政行为违法或不当侵犯其合法权益，依 法向主管行政机关提出复查该具体行政行为的申请，行政复议机关依照法定程序对被申请的具体行政行为进行合 法性和适当性审查，并做出行政复议决定的一种法律制度。\n因此，选择 AB 选项。\n拓展\n行政诉讼，是指公民、法人或者其他组织认为行使国家行政权的机关和组织及其工作人员所实施的具体行政行为， 侵犯了其合法权利，依法向人民法院起诉，人民法院在当事人及其他诉讼参与人的参加下，依法对被诉具体行政 行为的合法性进行审查并做出裁判，从而解决行政争议的制度。",
+    "keyPoints": [
+      "第一步，本题考查行政复议法",
+      "因此，选择 AB 选项"
+    ],
+    "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "基础",
+    "source": "2008年上海公务员考试《行测》第12题",
+    "province": "上海",
+    "subModule": "法律",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shanghai-2008-未标注-13",
+    "category": "provincial",
+    "module": "changshi",
+    "title": "常识·(不定项选择)公务员服从和执行上级的决定和命令是公务员必…",
+    "stem": "(不定项选择)公务员服从和执行上级的决定和命令是公务员必须遵守的一项重要义务，是保证国家正常运行 的基本要求，其正确含义是：",
+    "options": [
+      {
+        "key": "A",
+        "text": "尽管对上级决定有保留意见。但如上级要求立即执行，公务员应执行该决定"
+      },
+      {
+        "key": "B",
+        "text": "公务员执行的是上级依法做出的决定和命令"
+      },
+      {
+        "key": "C",
+        "text": "公务员执行明显违法的决定或命令，执行的后果应当由上级负责"
+      },
+      {
+        "key": "D",
+        "text": "该决定和命令应在上级的权限范围之内"
+      }
+    ],
+    "answer": "ABD",
+    "explanation": "第一步，本题考查公务员法。\n第二步，根据《公务员法》第 53 条第（四）项的规定，公务员不得拒绝执行上级依法做出的决定和命令。由此 可知，B 项、D 项正确。根据《公务员法》第 54 条规定，公务员执行公务时，认为上级的决定或者命令有错误的， 可以向上级提出改正或者撤销该决定或者命令的意见；上级不改变该决定或者命令，或者要求立即执行的，公务 员应当执行该决定或者命令，执行的后果由上级负责，公务员不承担责任；但是，公务员执行明显违法的决定或 者命令的，应当依法承担相应的责任。故公务员即使对上级的决定质疑的，也要执行，A 项正确。公务员执行的 是明显违法的任务时，也应当对执行后果承担相应法律责任。C 项错误。\n因此，选择 ABD 选项。",
+    "keyPoints": [
+      "第一步，本题考查公务员法",
+      "由此 可知，B 项、D 项正确"
+    ],
+    "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "基础",
+    "source": "2008年上海公务员考试《行测》第13题",
+    "province": "上海",
+    "subModule": "法律",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shanghai-2008-未标注-14",
+    "category": "provincial",
+    "module": "changshi",
+    "title": "常识·(不定项选择)依法行政的首要问题和根本问题，是：",
+    "stem": "(不定项选择)依法行政的首要问题和根本问题，是：",
+    "options": [
+      {
+        "key": "A",
+        "text": "行政与法律的关系问题"
+      },
+      {
+        "key": "B",
+        "text": "立法与守法的关系问题"
+      },
+      {
+        "key": "C",
+        "text": "立法与执法的关系问题"
+      },
+      {
+        "key": "D",
+        "text": "人民与政府的关系问题"
+      }
+    ],
+    "answer": "D",
+    "explanation": "第一步，本题考查行政法。\n第二步，依法行政的首要问题和根本问题，就是人民与政府的关系问题。我国是人民民主专政的社会主义国家， 人民主权原则是宪法的一项基本原则，说明人民是国家的主人。政府作为公共管理和公共服务的提供者，其权力 来源于人民，受人民监督。人民权利是国家权力之本，是行政权力之源；政府责任是行政权力的核心，是政府属 性的本质。因此，政府的行政行为应当体现国家意志与人民意志的一致性，体现对上级机关负责与对人民群众负 责的一致性。\n因此，选择 D 选项。",
+    "keyPoints": [
+      "第一步，本题考查行政法",
+      "第二步，依法行政的首要问题和根本问题，就是人民与政府的关系问题"
+    ],
+    "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "基础",
+    "source": "2008年上海公务员考试《行测》第14题",
+    "province": "上海",
+    "subModule": "法律",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shanghai-2008-未标注-15",
+    "category": "provincial",
+    "module": "changshi",
+    "title": "常识·(不定项选择)公共产品，是指具有消费或使用上的非竞争性和…",
+    "stem": "(不定项选择)公共产品，是指具有消费或使用上的非竞争性和受益上的非排他性的产品。下列选项中，不属 于纯粹公共产品的是：",
+    "options": [
+      {
+        "key": "A",
+        "text": "自来水"
+      },
+      {
+        "key": "B",
+        "text": "环境保护"
+      },
+      {
+        "key": "C",
+        "text": "高等教育"
+      },
+      {
+        "key": "D",
+        "text": "基础设施"
+      }
+    ],
+    "answer": "ACD",
+    "explanation": "第一步，本题考查管理并选错误项。\n第二步，根据对非竞争性和非排他性的满足条件，公共产品被分为纯公共产品与准公共产品两个类别。\n纯公共产品是指每个人对这种产品的消费，都不会导致期他人对该产品消费的减少。严格地讲，它是在消费过程 中具有非竞争性和非排他性的产品，是任何一个人对该产品的消费都不减少别人对它进行同样消费的物品与劳 务。比如国防、国家的制度、理念等都属于纯公共产品，作为国人，可以无偿、平等地享受。B 项的环境保护属 于纯公共产品，故 B 项应排除。\n准公共产品是指具有有限的非竞争性或有限的非排他性的公共产品，它介于纯公共产品和私人产品之间，有限的 非竞争性意味着基本资源的紧张，人与人之间的使用会受到一定限制，比方说免费的公共厕所、基础设施；有限 的非排他性意味着需要付费才能使用的公共产品，比方高速公路、自来水、高等教育、基础设施等属于准公共产 品。\n因此，选择 ACD 选项。 拓展\n公共物品是指公共使用或消费的物品。公共物品是可以供社会成员共同享用的物品，严格意义上的公共物品具有 非竞争性和非排他性。\n非竞争性：是指消费者的增加不引起生产成本的增加，大家享有的利益不可分割，公共物品的边际成本为零，即 使增多一个人去消费公共物品，其成本都是一定的，不会改变。\n非排他性：是指一些人享用公共物品带来的利益而不能排除其他一些同时从公共物品中获得利益。一份人消费了 某种物品但不会减少这种物品供给他人的数量；公共物品的共享也意味着其享用不能拒绝。",
+    "keyPoints": [
+      "第一步，本题考查管理并选错误项",
+      "纯公共产品是指每个人对这种产品的消费，都不会导致期他人对该产品消费的减少"
+    ],
+    "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "基础",
+    "source": "2008年上海公务员考试《行测》第15题",
+    "province": "上海",
+    "subModule": "经济管理",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shanghai-2008-未标注-16",
+    "category": "provincial",
+    "module": "changshi",
+    "title": "常识·(不定项选择)下列各项中，属于行政行为的是：",
+    "stem": "(不定项选择)下列各项中，属于行政行为的是：",
+    "options": [
+      {
+        "key": "A",
+        "text": "派出所传唤公民乙"
+      },
+      {
+        "key": "B",
+        "text": "税务局向房地产公司购买公用房"
+      },
+      {
+        "key": "C",
+        "text": "公安局委托印刷厂印制文件"
+      },
+      {
+        "key": "D",
+        "text": "消防局向某企业发出火灾隐患整改通知书"
+      }
+    ],
+    "answer": "AD",
+    "explanation": "第一步，本题考查行政法。\n第二步，行政行为是行政主体依职权做出的、影响行政相对人合法权益的行为。本题涉及的是具体行政行为。具 体行政行为是指国家行政机关和行政机关工作人员、法律法规授权的组织、行政机关委托的组织在行政管理活动 中行使行政职权，针对特定的公民、法人或者其他组织，就特定的具体事项，做出的有关该公民、法人或者其他 组织权利义务的单方行为。B 项的购买公用房、C 项委托印刷厂印刷文件都属于民事法律行为。A 项、D 项是具体 行政行为。\n因此，选择 AD 选项。 拓展\n行政行为的特征：①行政行为是执行法律的行为，②行政行为具有一定的裁量性，③行政主体在实施行政行为时 具有单方意志性，④行政行为是以国家强制力保障实施的，带有强制性，行政相对方必须服从并配合行政行为， ⑤行政行为以无偿为原则， 以有偿为例外。",
+    "keyPoints": [
+      "第一步，本题考查行政法",
+      "第二步，行政行为是行政主体依职权做出的、影响行政相对人合法权益的行为",
+      "本题涉及的是具体行政行为"
+    ],
+    "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "基础",
+    "source": "2008年上海公务员考试《行测》第16题",
+    "province": "上海",
+    "subModule": "法律",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shanghai-2008-未标注-17",
+    "category": "provincial",
+    "module": "changshi",
+    "title": "常识·(不定项选择)下列各项中，属于行政职权的是：",
+    "stem": "(不定项选择)下列各项中，属于行政职权的是：",
+    "options": [
+      {
+        "key": "A",
+        "text": "行政审判权"
+      },
+      {
+        "key": "B",
+        "text": "行政复议权"
+      },
+      {
+        "key": "C",
+        "text": "行政指导权"
+      },
+      {
+        "key": "D",
+        "text": "行政处罚权"
+      }
+    ],
+    "answer": "BCD",
+    "explanation": "第一步，本题考查行政法。\n第二步，行政职权是国家行政权的表现形式，是行政主体实施国家行政管理活动的权能。具体包括：行政立法权、 行政许可权、行政确认权、行政检查权、行政奖励权、行政物质帮助权、行政处罚权、行政强制执行权、行政合 同权、行政复议权、行政裁决权、行政处理权、行政指导权、行政委托权和行政仲裁权等。A 项的行政审判权是 法律赋予法院审理与裁判行政案件的权力，属于国家司法权，不属于行政职权。\n因此，选择 BCD 选项。 拓展\nB 项：行政复议是指公民、法人或者其他组织不服行政主体作出的具体行政行为，认为行政主体的具体行政行为 侵犯了其合法权益，依法向法定的行政复议机关提出复议申请，行政复议机关依法对该具体行政行为进行合法性、 适当性审查，并作出行政复议决定的行政行为。\nC 项：行政指导就是行政机关在其所管辖的事务范围内，根据国家的政策规定，或者法律原则，针对特定的公民、 法人或其他组织，用非强制性的方法或手段，取得该行政相对方的同意或协助，有效地实现一定的行政目的的主 动的管理行为。\nD 项：行政处罚是指行政主体依照法定职权和程序对违反行政法规范， 尚未构成犯罪的相对人给予行政制裁的具 体行政行为。",
+    "keyPoints": [
+      "第一步，本题考查行政法",
+      "第二步，行政职权是国家行政权的表现形式，是行政主体实施国家行政管理活动的权能"
+    ],
+    "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "基础",
+    "source": "2008年上海公务员考试《行测》第17题",
+    "province": "上海",
+    "subModule": "法律",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shanghai-2008-未标注-18",
+    "category": "provincial",
+    "module": "changshi",
+    "title": "常识·(不定项选择)下列各项中，属于行政给付的是：",
+    "stem": "(不定项选择)下列各项中，属于行政给付的是：",
+    "options": [
+      {
+        "key": "A",
+        "text": "支付保险金"
+      },
+      {
+        "key": "B",
+        "text": "支付行政赔偿金"
+      },
+      {
+        "key": "C",
+        "text": "支付下岗职工最低生活保障金"
+      },
+      {
+        "key": "D",
+        "text": "支付行政合同违约金"
+      }
+    ],
+    "answer": "AC",
+    "explanation": "第一步，本题考查行政法。\n第二步，行政给付又称行政物质帮助，它是指行政机关对公民在年老、疾病或丧失劳动能力等情况或其他特殊情 况下，依照有关法律、法规、规章或政策等规定，赋予其一定的物质权益（如金钱或实物）或与物质有关的权益 的具体行政行为。行政给付的主要形式：（1）抚恤金。（2）特定人员离退休金。（3）社会救济、福利金。（4） 自然灾害救济金及救济物资。（5）社会养老保险金等。故 B 项、D 项不属于物质帮助。\n因此，选择 AC 选项。 拓展\nB 项：支付行政赔偿金的前提是指行政主体违法实施行政行为，侵犯相对人合法权益造成损害。此时由国家承担 给付一定金额来弥补当事人损失的一种赔偿责任。行政给付针对的是合法情况，支付赔偿金不属于行政给付，故 不选。\nD 项：行政合同也叫行政契约，指行政机关为达到维护与增进公共利益，实现行政管理目标之目的，与相对人之 间经过协商一致达成的协议。也就是行政主体基于一定的目的参与到市场经济当中，与民事主体签订民事合同， 如果履行民事合同的过程中行政主体发生了违约等情况，就需要支付行政合同违约金。行政给付是一种单方行为， 而行政合同是民事法律行为，是一种双方有偿的法律行为，故 D 项不选。",
+    "keyPoints": [
+      "第一步，本题考查行政法",
+      "行政给付的主要形式：（1）抚恤金"
+    ],
+    "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "基础",
+    "source": "2008年上海公务员考试《行测》第18题",
+    "province": "上海",
+    "subModule": "法律",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shanghai-2008-未标注-19",
+    "category": "provincial",
+    "module": "changshi",
+    "title": "常识·(不定项选择)《公务员法》对公务员的范围重新做了界定，根…",
+    "stem": "(不定项选择)《公务员法》对公务员的范围重新做了界定，根据规定公务员必须具备的三个条件中属于公务 员最本质的特征是：",
+    "options": [
+      {
+        "key": "A",
+        "text": "依法履行公职"
+      },
+      {
+        "key": "B",
+        "text": "纳入国家行政编制"
+      },
+      {
+        "key": "C",
+        "text": "由国家财政负担工资福利"
+      },
+      {
+        "key": "D",
+        "text": "公务员的职务行为受法律保护"
+      }
+    ],
+    "answer": "A",
+    "explanation": "第一步，本题考查行政法。\n第二步，根据《公务员法》第 2 条规定：本法所称公务员，是指依法履行公职、纳入国家行政编制、由国家财政 负担工资福利的工作人员。ABC 项都是公务员的特征，但公务员作为为人民服务的公仆，服务的前提是要按照法\n律规定来行使职权。故依法履行公职是公务员最本质的特征。 因此，选择 A 选项。",
+    "keyPoints": [
+      "第一步，本题考查行政法",
+      "ABC 项都是公务员的特征，但公务员作为为人民服务的公仆，服务的前提是要按照法"
+    ],
+    "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "基础",
+    "source": "2008年上海公务员考试《行测》第19题",
+    "province": "上海",
+    "subModule": "法律",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shanghai-2008-未标注-20",
+    "category": "provincial",
+    "module": "changshi",
+    "title": "常识·(不定项选择)对行政行为的效力从法律层面做出科学有效界定…",
+    "stem": "(不定项选择)对行政行为的效力从法律层面做出科学有效界定的最基本要求是考察实施：",
+    "options": [
+      {
+        "key": "A",
+        "text": "该行政行为是否合法"
+      },
+      {
+        "key": "B",
+        "text": "该行政行为的主体是否具备行政主体的地位"
+      },
+      {
+        "key": "C",
+        "text": "该行政行为是否侵犯相对人权益"
+      },
+      {
+        "key": "D",
+        "text": "该行政行为是否得到授权"
+      }
+    ],
+    "answer": "B",
+    "explanation": "第一步，本题考查行政法。\n第二步，行政主体是行政管理法律关系的一方当事人，是指能以自己名义行使国家行政职权，作出影响行政相对 人权利义务的行政行为，并能对外承担行政法律责任，在行政诉讼中能作为被告应诉的行政机关或法律、法规授 权的组织。确定行政机关及其他组织的行为是否是行政行为，是否具有行政行为的效力，最为基本的就是确定行 政机关及其他组织是否具备行政主体资格。如果行政机关及其他组织不具有行政主体资格，则其行为便不具有行\n政行为的效力，也不能引起所希望的法律后果的产生，并且可能导致该行为无效或被撤销的后果。 因此，选择 B 选项。",
+    "keyPoints": [
+      "第一步，本题考查行政法"
+    ],
+    "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "基础",
+    "source": "2008年上海公务员考试《行测》第20题",
+    "province": "上海",
+    "subModule": "法律",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shanghai-2008-未标注-21",
+    "category": "provincial",
+    "module": "changshi",
+    "title": "常识·(不定项选择)人类迄今为止认识到，世界万物的千变万化，可…",
+    "stem": "(不定项选择)人类迄今为止认识到，世界万物的千变万化，可归结为几种基本力的相互作用规律，这几种力 包括：",
+    "options": [
+      {
+        "key": "A",
+        "text": "引力"
+      },
+      {
+        "key": "B",
+        "text": "强力"
+      },
+      {
+        "key": "C",
+        "text": "弱力"
+      },
+      {
+        "key": "D",
+        "text": "电磁力"
+      }
+    ],
+    "answer": "ABCD",
+    "explanation": "第一步，本题考查物理。\n第二步，宇宙中已知的四种基本力包括:引力、电磁力、强力、弱力。四种基本力参数以一种微妙的平衡构成了 如今已知的宇宙环境。引力源于物体质量的相互吸引，两个有质量的物体间就存在引力，物体的质量越大，引力 就越大。电磁力是由粒子的电荷产生的，一个粒子可以带正电荷，或者带负电荷，同性电荷相斥，异性电荷相吸。 如果一个粒子不带电荷，则不受电磁力的影响，不会感受到排斥力和吸引力。强力也叫做强核力，是作用于强子 之间的力，是目前所知的四种宇宙间基本作用力中最强的。最早研究的强相互作用是核子（质子或中子）之间的 核力，它是使核子结合成原子核的作用。强力对维持稳定的原子核有重大的作用。弱力的作用力的强度比强力小 得多，但在放射现象中起重要作用， β衰变中放出电子和中微子，电子和中微子之间只有弱力作用。弱力也存在 其它基本粒子之间。弱力的作用是改变粒子而不对粒子产生推和拉的效应，像核聚变和核裂变这两个过程都是受 弱力支配的。\n因此，选择 ABCD 选项。",
+    "keyPoints": [
+      "第一步，本题考查物理",
+      "第二步，宇宙中已知的四种基本力包括:引力、电磁力、强力、弱力",
+      "四种基本力参数以一种微妙的平衡构成了 如今已知的宇宙环境"
+    ],
+    "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "基础",
+    "source": "2008年上海公务员考试《行测》第21题",
+    "province": "上海",
+    "subModule": "科技",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shanghai-2008-未标注-22",
+    "category": "provincial",
+    "module": "changshi",
+    "title": "常识·(不定项选择)海拔表示地面某个地点高出海平面的垂直距离。…",
+    "stem": "(不定项选择)海拔表示地面某个地点高出海平面的垂直距离。海面潮起潮落，可以说没有一刻风平浪静的时 候，而且每月每日涨潮与落潮的海面高度也是有明显差别的。因此只能用一个确定的平均海水面作为海拔的起算\n面。我国以（ ）海域的平均海水面为基准来确定海拔起算面。",
+    "options": [
+      {
+        "key": "A",
+        "text": "东海"
+      },
+      {
+        "key": "B",
+        "text": "南海"
+      },
+      {
+        "key": "C",
+        "text": "黄海"
+      },
+      {
+        "key": "D",
+        "text": "渤海"
+      }
+    ],
+    "answer": "C",
+    "explanation": "第一步，本题考查地理。\n第二步，我国 1987 年规定将青岛验潮站 1952 年 1 月 1 日—1979 年 12 月 31 日所测定的黄海平均海水面作为全 国高程的起算面。并推测得青岛观象山上国家水准原点高程为 72.260m。根据该高程起算面建立起来的高程系统，\n称为 1985 国家高程基准。我国各地面点的海拔，均指由黄海平均海平面起算的高度。 因此，选择 C 选项。",
+    "keyPoints": [
+      "第一步，本题考查地理",
+      "并推测得青岛观象山上国家水准原点高程为 72.260m"
+    ],
+    "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "基础",
+    "source": "2008年上海公务员考试《行测》第22题",
+    "province": "上海",
+    "subModule": "地理国情",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shanghai-2008-未标注-23",
+    "category": "provincial",
+    "module": "changshi",
+    "title": "常识·(不定项选择)“众芳摇落独暄妍， 占尽风情向小园。疏影横…",
+    "stem": "(不定项选择)“众芳摇落独暄妍， 占尽风情向小园。疏影横斜水清浅，暗香浮动月黄昏。霜禽欲下先偷眼，\n粉蝶如知合断魂。幸有微吟可相狎，不须檀板共金樽。 ”这首诗描写的花是：",
+    "options": [
+      {
+        "key": "A",
+        "text": "牡丹"
+      },
+      {
+        "key": "B",
+        "text": "玫瑰"
+      },
+      {
+        "key": "C",
+        "text": "桂花"
+      },
+      {
+        "key": "D",
+        "text": "梅花"
+      }
+    ],
+    "answer": "D",
+    "explanation": "第一步，本题考查文学。\n第二步，本诗出自北宋诗人林逋（967～1028）的七律《山园小梅》。林逋种梅养鹤成癖，终身不娶，世称“梅\n妻鹤子”，所以他眼中的梅含波带情，笔下的梅更是引人入胜。“疏影横斜水清浅，暗香浮动月黄昏”已经成为 咏梅的著名诗句。首联以梅不畏严寒、笑立风中起句，颔联是最为世人称道的，它为人们送上了一幅优美的山园 小梅图。\n颈联“以物观物”， 尾联“微吟”实讲“口中梅”也，“微”言其淡泊雅致，如此咀嚼，虽不果腹，然可暖心、 洁品、动情、铸魂，表达出诗人愿与梅化而为一的生活旨趣和精神追求。\n因此，选择 D 选项。 拓展\nA 项：牡丹在我国被誉为“国花”“国色天香”和“花中之王”，在世界上也负有盛名。牡丹花，娇艳多姿 ， 雍容大方，富丽堂皇。自古以来引起许多骚人墨客的讴歌、赞美，是很自然的。据初步收集，历代文人专写牡丹 的诗词就有四百余首。例如，唐代刘禹锡的《赏牡丹》：“唯有牡丹真国色，花开时节动京城 。”\nB 项：在中国，玫瑰则因其枝茎带刺，被认为是刺客、侠客的象征。而在西方则把玫瑰花当作严守秘密的象征。\n古代文人对玫瑰也多有诗句流传于世，例如，唐代温庭筠的《舞曲歌辞•屈柘词》： “杨柳萦桥绿，玫瑰拂地红。” C 项：桂花是中国传统十大名花之一，集绿化、美化、香化于一体的观赏与实用兼备的优良园林树种，桂花清可 绝尘，浓能远溢，堪称一绝。尤其是仲秋时节，丛桂怒放，夜静轮圆之际，把酒赏桂，陈香扑鼻，令人神清气爽。 在中国古代的咏花诗词中，咏桂之作的数量也颇为可观。自古就深受中国人的喜爱，被视为传统名花。例如，诗 仙李白的《咏桂》： “安知南山桂，绿叶垂芳根。”",
+    "keyPoints": [
+      "第一步，本题考查文学",
+      "第二步，本诗出自北宋诗人林逋（967～1028）的七律《山园小梅》",
+      "林逋种梅养鹤成癖，终身不娶，世称“梅"
+    ],
+    "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "基础",
+    "source": "2008年上海公务员考试《行测》第23题",
+    "province": "上海",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shanghai-2008-未标注-24",
+    "category": "provincial",
+    "module": "changshi",
+    "title": "常识·(不定项选择)元曲是中华民族灿烂文化宝库中的一朵奇葩，它…",
+    "stem": "(不定项选择)元曲是中华民族灿烂文化宝库中的一朵奇葩，它在思想内容和艺术成就上都体现了独有的特色， 和唐诗宋词鼎足并举。以下关于元曲的说法正确的有：",
+    "options": [
+      {
+        "key": "A",
+        "text": "元曲原本来自所谓的“蕃曲 ”“胡乐 ”，首先在民间流传，被称为“街市小令 ”或“村坊小调 ”"
+      },
+      {
+        "key": "B",
+        "text": "元曲中描写爱情的作品比历代诗词来得泼辣、大胆"
+      },
+      {
+        "key": "C",
+        "text": "元曲有杂剧、散曲之分"
+      },
+      {
+        "key": "D",
+        "text": "与律诗绝句和宋词相比，元曲的灵活性较差"
+      }
+    ],
+    "answer": "ABC",
+    "explanation": "第一步，本题考查文学。\n第二步，元曲是中华民族灿烂文化宝库中的一朵奇葩，它在思想内容和艺术成就上都体现了独有的特色，和唐诗 宋词鼎足并举，成为我国文学史上三座重要的里程碑。元曲原本来自所谓的“蕃曲”“胡乐”，首先在民间流传， 被称为“街市小令”或“村坊小调”。故 A 项正确。继唐诗、宋词之后蔚为一文学之盛的元曲有着它独特的魅力： 一方面，元曲继承了诗词的清丽婉转；一方面，元代社会使读书人位于“八娼九儒十丐”的地位，政治专权，社 会黑暗，因而使元曲放射出极为夺目的战斗的光彩，透出反抗的情绪；锋芒直指社会弊端，直斥“不读书最高， 不识字最好，不晓事倒有人夸俏”的社会，直指“人皆嫌命窘，谁不见钱亲”的世风。元曲中描写爱情的作品也 比历代诗词来得泼辣，大胆。这些均足以使元曲永葆其艺术魅力。故 B 项正确。元曲有杂剧、散曲之分。散曲又 有套数，小令带过曲之别。故 C 项正确。元曲有严密的格律定式，每一曲牌的句式、字数、平仄等都有固定的格 式要求。虽有定格，但并不死板，允许在定格中加衬字，部分曲牌还可增句，押韵上允许平仄通押，与律诗绝句\n和宋词相比，有较大的灵活性。故 D 项错误。 因此，选择 ABC 选项。",
+    "keyPoints": [
+      "第一步，本题考查文学"
+    ],
+    "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "基础",
+    "source": "2008年上海公务员考试《行测》第24题",
+    "province": "上海",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shanghai-2008-未标注-25",
+    "category": "provincial",
+    "module": "changshi",
+    "title": "常识·(不定项选择)高分子材料以高分子化合物为基础，其结构决定…",
+    "stem": "(不定项选择)高分子材料以高分子化合物为基础，其结构决定其性能，对结构的控制和改进，可获得不同特 性的高分子材料。高分子材料独特的结构和易改性、易加工特点，使其具有其他材料不可比拟、不可取代的优异 性能，从而广泛用于科学技术、国防建设和国民经济各个领域，并已成为现代社会生活中衣食住行用各个方面不 可缺少的材料。下列属于现代高分子材料的是：",
+    "options": [
+      {
+        "key": "A",
+        "text": "工程塑料"
+      },
+      {
+        "key": "B",
+        "text": "钛合金"
+      },
+      {
+        "key": "C",
+        "text": "化学纤维"
+      },
+      {
+        "key": "D",
+        "text": "普通陶瓷"
+      }
+    ],
+    "answer": "AC",
+    "explanation": "第一步，本题考查化学。\n第二步，高分子材料， 以高分子化合物为基础的材料。高分子材料是由相对分子质量较高的化合物构成的材料， 包括橡胶、塑料、纤维、涂料、胶粘剂和高分子基复合材料，高分子是生命存在的形式。所有的生命体都可以看 作是高分子的集合。高分子材料按来源分为天然高分子材料和合成高分子材料。天然高分子是存在于动物、植物 及生物体内的高分子物质，可分为天然纤维、天然树脂、天然橡胶、动物胶等。合成高分子材料主要是指塑料、 合成橡胶和合成纤维三大合成材料，此外还包括胶黏剂、涂料以及各种功能性高分子材料。合成高分子材料具有 天然高分子材料所没有的或较为优越的性能--较小的密度、较高的力学、耐磨性、耐腐蚀性、电绝缘性等。\nA 项，工程塑料是指一类可以作为结构材料，在较宽的温度范围内承受机械应力，在较为苛刻的化学物理环境中 使用的高性能的高分子材料。故 A 项正确。C 项，化学纤维是用天然高分子化合物或人工合成的高分子化合物为 原料，经过制备纺丝原液、纺丝和后处理等工序制得的具有纺织性能的纤维。属于高分子材料，故 C 项正确。\n因此，选择 AC 选项。\n拓展\nB 项： 以钛为基础加入其他合金元素组成的合金称作钛合金。钛合金具有密度低、比强度高、抗腐蚀性能好、工 艺性能好等优点,是较为理想的航天工程结构材料。但是钛合金不属于高分子材料，B 项错误。\nD 项：普通陶瓷是以粘土为主要原料以及各种天然矿物经过粉碎混炼、成型和煅烧制得的材料以及各种制品。不 属于高分子材料，D 项错误。",
+    "keyPoints": [
+      "第一步，本题考查化学",
+      "第二步，高分子材料， 以高分子化合物为基础的材料"
+    ],
+    "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "基础",
+    "source": "2008年上海公务员考试《行测》第25题",
+    "province": "上海",
+    "subModule": "科技",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shanghai-2008-未标注-26",
+    "category": "provincial",
+    "module": "changshi",
+    "title": "常识·(不定项选择)四书五经是四书和五经的合称，是中国儒家的经…",
+    "stem": "(不定项选择)四书五经是四书和五经的合称，是中国儒家的经典书籍。下面属于儒家经典的四书的是：",
+    "options": [
+      {
+        "key": "A",
+        "text": "《论语》"
+      },
+      {
+        "key": "B",
+        "text": "《春秋》"
+      },
+      {
+        "key": "C",
+        "text": "《大学》"
+      },
+      {
+        "key": "D",
+        "text": "《尚书》"
+      }
+    ],
+    "answer": "AC",
+    "explanation": "第一步，本题考查文学。\n第二步，《大学》《中庸》《论语》《孟子》分别出于早期儒家的四位代表性人物， 曾参、子思、孔子、孟子， 所以称为《四子书》（也称《四子》） ，简称为《四书》。\n因此，选择 AC 选项。 拓展\nB 项：《春秋》， 又称《麟经》或《麟史》， 是鲁国的史书，记载了从鲁隐公元年（前 722 年）到鲁哀公十四年 （前 481 年）的历史。中国儒家典籍“六经” 之一。第一部华夏民族编年史兼历史散文集。作为鲁国的编年史， 相传由孔子修订而成。《春秋》是中国现存最早的一部编年体史书。《春秋》一书的史料价值很高，记载的内容 基本是可信的，但由于《春秋》的记事过于简略且用于记事的语言极为简练，因而后来出现了很多对《春秋》所 记载的历史进行详细记录的“传”，较为有名的是被称为“春秋三传”的《左传》《公羊传》《谷梁传》。故 B 项错误。\nD 项：《尚书》， 最早书名为《书》， 约成书于前五世纪，传统《尚书》（又称《今文尚书》） 由伏生传下来。 传说为上古文化《三坟五典》遗留著作。《尚书》为儒家典籍“六经”之一， “尚”即“上”，《尚书》就是 上古的书，它是中国上古历史文献和部分追述古代事迹著作的汇编，是我国最早的一部历史文献汇编。故 D 项错 误。",
+    "keyPoints": [
+      "第一步，本题考查文学",
+      "因此，选择 AC 选项"
+    ],
+    "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "基础",
+    "source": "2008年上海公务员考试《行测》第26题",
+    "province": "上海",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shanghai-2008-未标注-27",
+    "category": "provincial",
+    "module": "changshi",
+    "title": "常识·(不定项选择)在 20 世纪 30 年代资本主义经济危机…",
+    "stem": "(不定项选择)在 20 世纪 30 年代资本主义经济危机爆发的背景下，西方经济学发生了一次新的国家干预主义 占主导地位的：",
+    "options": [
+      {
+        "key": "A",
+        "text": "边际效用学派革命"
+      },
+      {
+        "key": "B",
+        "text": "瑞典学派革命"
+      },
+      {
+        "key": "C",
+        "text": "萨缪尔森革命"
+      },
+      {
+        "key": "D",
+        "text": "凯恩斯革命"
+      }
+    ],
+    "answer": "D",
+    "explanation": "第一步，本题考查宏观经济。\n第二步，凯恩斯革命以 20 世纪 30 年代经济危机为时代背景，创建以需求管理的政府干预为中心思想的收入分析 宏观经济学的一次经济学领域的变革。它对西方国家经济的发展以及对经济学的发展都有巨大而深远的影响。\n1936 年，凯恩斯出版了《就业，利息和货币通论》一书，标志着凯恩斯宏观经济体系的确立．并主要提出一下 观点：认为市场上的工资和价格的调整是刚性的。或者说价格调整慢于数量调整，经济活动下降的原因在于有效 需求的不足。因此。当价格难以调整时，市场处于非均衡状态。要使经济达到充分的就业的均衡状态，就要刺激 有效需求。政府可以通过经济政策（如扩张性的财政政策和货币政策）来对社会总需求进行刺激，使经济资源得 到充分利用。同样，在经济处于通货膨胀的“过热”阶段。政府也可以通过紧缩性的财政政策和货币政策来控制 社会总需求。30 年代资本主义经济大危机爆发之后。主张政府干预、反对自由放任的凯恩斯学说迅速风靡西方 经济学界。\n因此，选择 D 选项。 拓展\nA 项：边际效用学派革命，19 世纪 70 年代边际效用学派的出现是经济学中爆发了一场全面革命的标志。这场革 命被称为边际革命。这场革命使经济学从古典经济学强调的生产、供给和成本，转向现代经济学关注的消费、需 求和效用。边际效用学派的代表人物应该是英国的杰文斯，法国的瓦尔拉斯和奥地利的门格尔。他们在十九世纪 七十年代初先后出版了各自的代表作，并不约而同地讨论了同一个问题，即价值由什么决定。边际效用学派在方 法论上反对德国历史学派，主张抽象演绎法。他们把人类社会的经济生活归结为人的无限欲望和数量有限的资源 之间的关系，把人的欲望及其满足作为研究的对象和出发点。产生的时间背景与题干信息“20 世纪 30 年代”不 符，故 A 项错误。\nB 项：瑞典学派革命，瑞典学派亦称“斯德哥尔摩学派”或“斯堪的纳维亚学派”，是以北欧特别是以瑞典为中 心发展起来的资产阶级经济学的一个重要流派。其创立时期可追溯到 19 世纪末到 20 世纪初，而真正的形成时期 是 20 世纪 20 年代至 30 年代。50 年代后有新的发展。其奠基人是约翰•古斯塔夫•威克塞尔和古斯塔夫•卡塞尔。 瑞典学派的理论渊源是维克塞尔的累积过程理论。这一理论将资本边际利润率和利息率的差异及其相对变动视为 宏观经济变动的基本决定因素。根据这一理论，维克塞尔提出控制利息率以维持经济稳定的经济政策主张。维克 塞尔的累积过程理论和宏观货币政策主张，不仅是瑞典学派的理论渊源，而且开了现代国家干预主义经济学的先 河，成为凯恩斯主义经济学的理论渊源之一。瑞典学派的经济理论产生的时间是从 20 世纪初开始，和题干所说 的“20 世纪 30 年代”这个时间段不符合，故 B 项错误。\nC 项：萨缪尔森革命，新古典综合派亦称“后凯恩斯主流派经济学”“美国剑桥学派”。二战后，在以萨缪尔森 为代表的一批美国经济学家的努力下，逐渐形成了“新古典综合派”的宏观经济学。一系列在凯恩斯基本理论基 础上的最新研究成果被综合在一起，形成了宏观经济学。最重要的代表著作是萨缪尔森的《经济学》。由此可知， 此革命形成的时间与题干要求不符，故 C 项错误。",
+    "keyPoints": [
+      "第一步，本题考查宏观经济",
+      "它对西方国家经济的发展以及对经济学的发展都有巨大而深远的影响"
+    ],
+    "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "基础",
+    "source": "2008年上海公务员考试《行测》第27题",
+    "province": "上海",
+    "subModule": "经济管理",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shanghai-2008-未标注-28",
+    "category": "provincial",
+    "module": "changshi",
+    "title": "常识·(不定项选择)人的视觉器官有感觉外界物体的光和颜色的功能…",
+    "stem": "(不定项选择)人的视觉器官有感觉外界物体的光和颜色的功能，在可见光谱内，不同波长的辐射使人感觉到 不同的颜色和强度。红色光在日常生活中被广泛应用，并往往代表警示意义，如红色交通灯、建筑物高度警示灯 等。这里运用了红色光在可见光谱范围内的特征是：",
+    "options": [
+      {
+        "key": "A",
+        "text": "波长最短"
+      },
+      {
+        "key": "B",
+        "text": "波长最长"
+      },
+      {
+        "key": "C",
+        "text": "空气对其散射作用强"
+      },
+      {
+        "key": "D",
+        "text": "空气对其散射作用弱"
+      }
+    ],
+    "answer": "BD",
+    "explanation": "第一步，本题考查物理。\n第二步，可见光中红光波长最长，波长越长的光线越不容易散射，因此红光不容易被散射。 因此，选择 BD 选项。\n拓展\n可见光由七种颜色不一的光组成，即红、橙、黄、绿、蓝、靛、紫。颜色不同，波长也不同；波长最长的是红色 光，接下来是橙、黄、绿、蓝、靛、紫。也就是说紫色光波长最短。",
+    "keyPoints": [
+      "第一步，本题考查物理",
+      "第二步，可见光中红光波长最长，波长越长的光线越不容易散射，因此红光不容易被散射",
+      "因此，选择 BD 选项"
+    ],
+    "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "基础",
+    "source": "2008年上海公务员考试《行测》第28题",
+    "province": "上海",
+    "subModule": "科技",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shanghai-2008-未标注-29",
+    "category": "provincial",
+    "module": "changshi",
+    "title": "常识·(不定项选择)上海市社区服务“三个中心 ”建设进入全面推…",
+    "stem": "(不定项选择)上海市社区服务“三个中心 ”建设进入全面推进实施的新阶段。上海市 2007 年 6 月 22 日召开 电视电话会议，对全面推进实施社区服务“三个中心 ”建设工作进行部署动员。加强社区“三个中心 ”建设，是 上海贯彻落实科学发展观、加快构建社会主义和谐社会的一个具体举措，也是为群众做好事、办实事、解难事的 一项民心工程。这里的“三个中心 ”是指社区事务受理服务中心和：",
+    "options": [
+      {
+        "key": "A",
+        "text": "社区卫生服务中心"
+      },
+      {
+        "key": "B",
+        "text": "社区文化活动中心"
+      },
+      {
+        "key": "C",
+        "text": "社区法律援助中心"
+      },
+      {
+        "key": "D",
+        "text": "社区居民服务中心"
+      }
+    ],
+    "answer": "AB",
+    "explanation": "第一步，本题考查时政。\n第二步，上海社区管理模式可以归纳为“两级政府、三级管理、四级网络”，“条块结合，以块为主”的管理模 式。在街道形成“一个功能、三个中心”的格局。一个功能是指社会综合管理功能；三个中心包括社区事务受理\n服务中心、社区医疗服务中心和社区文化中心。 因此，选择 AB 选项。",
+    "keyPoints": [
+      "第一步，本题考查时政",
+      "在街道形成“一个功能、三个中心”的格局"
+    ],
+    "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "基础",
+    "source": "2008年上海公务员考试《行测》第29题",
+    "province": "上海",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shanghai-2008-未标注-30",
+    "category": "provincial",
+    "module": "changshi",
+    "title": "常识·(不定项选择)北京时间 2007 年 10 月 24 日…",
+    "stem": "(不定项选择)北京时间 2007 年 10 月 24 日 18 时 05 分，中国在西昌卫星发射中心用“长征三号甲 ”运载火 箭将“嫦娥一号 ”卫星成功送入太空。“嫦娥一号 ”是中国自主研制的第一颗月球探测卫星，它的发射成功，标 志着中国实施绕月探测工程迈出了重要一步。“嫦娥一号 ”月球探测卫星将要完成的 4 项科学任务，包括绘制立 体的月球地图、探测月球上元素的分布、监测远至 40 万公里范围内的空间环境和：",
+    "options": [
+      {
+        "key": "A",
+        "text": "研究月球的起源"
+      },
+      {
+        "key": "B",
+        "text": "月球表面环境测量"
+      },
+      {
+        "key": "C",
+        "text": "评估月球上土壤的厚度和氦-3 的资源量"
+      },
+      {
+        "key": "D",
+        "text": "开展月球次表层的成分和结构研究"
+      }
+    ],
+    "answer": "C",
+    "explanation": "第一步，本题考查科技成就。\n第二步，嫦娥探月主要有四个任务：（1） 获取月球表面三维立体影像，精细划分月球表面的基本构造和地貌单 元，进行月球表面撞击坑形态、大小、分布、密度等的研究，为类地行星表面年龄的划分和早期演化历史研究提 供基本数据，并为月面软着陆区选址和月球基地位置优选提供基础资料等；（2）分析月球表面有用元素含量和 物质类型的分布特点，主要是勘察月球表面有开发利用价值的钛、铁等 14 种元素的含量和分布，绘制各元素的 全月球分布图，月球岩石、矿物和地质学专题图等，发现各元素在月表的富集区，评估月球矿产资源的开发利用 前景等；（3）探测月壤厚度，即利用微波辐射技术，获取月球表面月壤的厚度数据，从而得到月球表面年龄及 其分布，并在此基础上，估算核聚变发电燃料氦-3 的含量、资源分布及资源量等；（4）探测地球至月亮的空间 环境。月球与地球平均距离为 38 万公里，处于地球磁场空间的远磁尾区域，卫星在此区域可探测太阳宇宙线高 能粒子和太阳风等离子体，研究太阳风和月球以及地球磁场磁尾与月球的相互作用。由此可知，C 项是正确的。 因此，选择 C 选项。\n拓展\n“嫦娥一号”是中国自主研制并发射的首个月球探测器。中国月球探测工程嫦娥一号月球探测卫星由中国空间技 术研究院研制，以中国古代神话人物“嫦娥”命名。嫦娥一号于 2007 年 10 月 24 日，在西昌卫星发射中心由“长 征三号甲”运载火箭发射升空。嫦娥一号发射成功，使中国成为世界上第五个发射月球探测器的国家。",
+    "keyPoints": [
+      "第一步，本题考查科技成就"
+    ],
+    "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "基础",
+    "source": "2008年上海公务员考试《行测》第30题",
+    "province": "上海",
+    "subModule": "科技",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shanghai-2008-未标注-31",
+    "category": "provincial",
+    "module": "changshi",
+    "title": "常识·(不定项选择)2007 年 8 月 13 日，国家统计局…",
+    "stem": "(不定项选择)2007 年 8 月 13 日，国家统计局发布信息：7 月份我国 CPI 比去年同月上涨 5.6％ ，涨幅已经 超过 2003 至 2004 年期间 5.3％的高点，并创出 1997 年 2 月份以来的新高。这一现象已引起各界人士的高度关 注。这里的 CPI 是指：",
+    "options": [
+      {
+        "key": "A",
+        "text": "社会消费品零售指数"
+      },
+      {
+        "key": "B",
+        "text": "居民消费价格指数"
+      },
+      {
+        "key": "C",
+        "text": "工农业产品价格指数"
+      },
+      {
+        "key": "D",
+        "text": "城镇居民生活指数"
+      }
+    ],
+    "answer": "B",
+    "explanation": "第一步，本题考查经济名词。\n第二步，CPI 是居民消费价格指数（consumer price index）的简称，它是一个反映居民家庭一般所购买的消 费品和服务项目价格水平变动情况的宏观经济指标。它是在特定时段内度量一组代表性消费商品及服务项目的价 格水平随时间而变动的相对数，是用来反映居民家庭购买消费商品及服务的价格水平的变动情况。居民消费价格 统计调查的是社会产品和服务项目的最终价格，一方面同人民群众的生活密切相关，同时在整个国民经济价格体 系中也具有重要的地位。它是进行经济分析和决策、价格总水平监测和调控及国民经济核算的重要指标。其变动 率在一定程度上反映了通货膨胀或紧缩的程度。一般来讲，物价全面地、变化对比、持续地上涨就被认为发生了\n通货膨胀。所以，CPI 也是衡量通货膨胀的重要指标。 因此，选择 B 选项。",
+    "keyPoints": [
+      "第一步，本题考查经济名词"
+    ],
+    "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "基础",
+    "source": "2008年上海公务员考试《行测》第31题",
+    "province": "上海",
+    "subModule": "经济管理",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shanghai-2008-未标注-32",
+    "category": "provincial",
+    "module": "changshi",
+    "title": "常识·(不定项选择)根据现代系统论的基本原理，系统的结构对系统…",
+    "stem": "(不定项选择)根据现代系统论的基本原理，系统的结构对系统功能具有决定性意义，一个系统能否发挥其整 体功能，取决于该系统的结构是否合理。公共政策体系的功能主要体现在：",
+    "options": [
+      {
+        "key": "A",
+        "text": "自我维持功能"
+      },
+      {
+        "key": "B",
+        "text": "相互配合功能"
+      },
+      {
+        "key": "C",
+        "text": "综合治理功能"
+      },
+      {
+        "key": "D",
+        "text": "功能最大化"
+      }
+    ],
+    "answer": "ACD",
+    "explanation": "第一步，本题考查公共政策。\n第二步，公共政策体系是指政策元素之间以及不同政策单元之间相互联系与政策环境相互作用的有机整体。公共\n政策体系的功能包括：（1） 自我维持功能；（2）综合治理功能；（3）功能最大化。 因此，选择 ACD 选项。",
+    "keyPoints": [
+      "第一步，本题考查公共政策",
+      "政策体系的功能包括：（1） 自我维持功能；（2）综合治理功能；（3）功能最大化"
+    ],
+    "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "基础",
+    "source": "2008年上海公务员考试《行测》第32题",
+    "province": "上海",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shanghai-2008-未标注-33",
+    "category": "provincial",
+    "module": "changshi",
+    "title": "常识·(不定项选择)行政道德是内化到行政人员心中的自觉意识，这…",
+    "stem": "(不定项选择)行政道德是内化到行政人员心中的自觉意识，这些意识包括：忠于职守、公仆意识、依法行政、 无私奉献和：",
+    "options": [
+      {
+        "key": "A",
+        "text": "敢于负责"
+      },
+      {
+        "key": "B",
+        "text": "忠诚老实"
+      },
+      {
+        "key": "C",
+        "text": "廉洁勤政"
+      },
+      {
+        "key": "D",
+        "text": "光明磊落"
+      }
+    ],
+    "answer": "C",
+    "explanation": "第一步，本题考查行政道德。\n第二步，行政道德是指从事政府行政管理工作的国家公务员在行政实践中运用公共权力、管理公共事务、处理自 身与工作对象之间、上下级之间、同事之间以及公私、得失等关系时，所应当遵循的调节和规范各种行政行为的 道德准则。行政道德是对行政人员个人修养和个人品格的要求，是内化到行政人员心中的自觉意识。行政道德内 容包括:忠于国家,维护自由、民主制度；不参加政党竞选活动，不公开发表与政府不同的政见；忠实执行法律， 服从领导，保守国家和职务秘密；公正地履行职责，为公共利益服务，不利用职权谋取私利；忠于职守，勤勉服\n务，谨恤克制，不做有损名誉的事等。 因此，选择 C 选项。",
+    "keyPoints": [
+      "第一步，本题考查行政道德",
+      "行政道德是对行政人员个人修养和个人品格的要求，是内化到行政人员心中的自觉意识"
+    ],
+    "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "基础",
+    "source": "2008年上海公务员考试《行测》第33题",
+    "province": "上海",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shanghai-2008-未标注-34",
+    "category": "provincial",
+    "module": "changshi",
+    "title": "常识·(不定项选择)氟利昂（Freon）是一系列氯氟化合物的商…",
+    "stem": "(不定项选择)氟利昂（Freon）是一系列氯氟化合物的商品名称。 自然界中没有氟利昂，它是人工合成的有 机化合物，由氯、氟、碳等原子组合而成，是无色，无味、无毒的惰性气体，在 20 世纪被广泛应用于工业生产， 为经济发展和生活改善做出了很大贡献。20 世纪后期，氟利昂对大气臭氧层的破坏作用被广泛重视，在生产领 域逐渐被其他物质所代替，如“无氟冰箱 ”的推广。氟利昂中对臭氧造成损害的主要元素是：",
+    "options": [
+      {
+        "key": "A",
+        "text": "氟"
+      },
+      {
+        "key": "B",
+        "text": "氯"
+      },
+      {
+        "key": "C",
+        "text": "碳"
+      },
+      {
+        "key": "D",
+        "text": "硫"
+      }
+    ],
+    "answer": "B",
+    "explanation": "第一步，本题考查化学。\n第二步，臭氧层主要是由臭氧组成的，臭氧分子在自然状态下会少量转化为氧分子，但这种转化对臭氧层的形象 几乎可忽略。氟利昂进入平流层后，在一定的气象条件下，会在强烈紫外线的作用下被分解，分解释放出氯原子。 氯原子可以催化（加速）臭氧转变为氧的反应（这个过程中氯并不消耗），不断破坏臭氧分子。\n因此，选择 B 选项。 拓展\n氟利昂，又名氟里昂，名称源于英文 Freon，它是一个由美国杜邦公司注册的制冷剂商标。氟利昂是一种透明、 无味、低毒、不易燃烧、爆炸和化学性稳定的制冷剂。不同的化学组成和结构的氟利昂制冷剂热力性质相差很大， 可适用于高温、中温和低温制冷机，以适应不同制冷温度的要求。由于二氯二氟甲烷等 CFC 类制冷剂破坏大气臭 氧层，已限制使用。地球上已出现很多臭氧层空洞，有些漏洞已超过非洲面积，其中很大的原因是因为 CFC 类氟 利昂的化学性质。氟利昂的另一个危害是温室效应。",
+    "keyPoints": [
+      "第一步，本题考查化学"
+    ],
+    "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "基础",
+    "source": "2008年上海公务员考试《行测》第34题",
+    "province": "上海",
+    "subModule": "科技",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shanghai-2008-未标注-35",
+    "category": "provincial",
+    "module": "changshi",
+    "title": "常识·(不定项选择)下列说法中，不符合行政单位的印章使用要求的…",
+    "stem": "(不定项选择)下列说法中，不符合行政单位的印章使用要求的是：",
+    "options": [
+      {
+        "key": "A",
+        "text": "印章启用前需选定启用时间，然后发出启用通知"
+      },
+      {
+        "key": "B",
+        "text": "盖印的一般位置在正文右上方"
+      },
+      {
+        "key": "C",
+        "text": "若有同志外出公干需要，可随身携带空白的加盖骑缝章的单位制式文稿纸若干"
+      },
+      {
+        "key": "D",
+        "text": "可在印章上制作特殊标记，作为印章防伪手段"
+      }
+    ],
+    "answer": "BC",
+    "explanation": "第一步，本题考查公文并选错误项。\n第二步，根据《行政事业单位公章使用制度》的规定，凡启用公章，经办人都要先出示领导签字，然后认真填写 公章启用登记表，经办人在“公章启用登记表”上签字并填写清楚文件材料名称、份数、时间和需要说明的事项， 公章管理人员进行审核，严格按文件核准印数加盖公章，确保无误后方可盖章。由此可知，A 项是正确的，不选。 盖章时应做到“骑年盖月”（即印章的左边缘与落款日期的年相齐，月、日盖在印章的下面）；盖章时用力要均 匀，落印要平衡，印泥（油）要适度，保证印迹端正、清晰。故 B 项错误，当选。单位印章一律不得在空白纸页 上使用。严禁在空白的纸张、表格、信函、证件等上面加盖局行政章或业务专用章。严禁填盖空白合同、协议、 证明及介绍信，如遇特殊情况，必须提出书面申请，经主要领导签字同意后，方可用章。故 C 项错误，当选。印 章制作有严格规定，公章的红色圆圈部分，有一些细微的条纹作为防伪手段，而且公章都有一定的编码，这些编\n码都是独一的。故 D 项正确，不选。 因此，选择 BC 选项。",
+    "keyPoints": [
+      "第一步，本题考查公文并选错误项",
+      "由此可知，A 项是正确的，不选"
+    ],
+    "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "基础",
+    "source": "2008年上海公务员考试《行测》第35题",
+    "province": "上海",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shanghai-2008-未标注-36",
+    "category": "provincial",
+    "module": "changshi",
+    "title": "常识·(不定项选择)下列关于行政指导的说法中，正确的是：",
+    "stem": "(不定项选择)下列关于行政指导的说法中，正确的是：",
+    "options": [
+      {
+        "key": "A",
+        "text": "行政指导是消极行政的一种表现形式"
+      },
+      {
+        "key": "B",
+        "text": "行政指导是直接产生法律后果的行为"
+      },
+      {
+        "key": "C",
+        "text": "行政指导是柔性的、不具有法律强制力的行为"
+      },
+      {
+        "key": "D",
+        "text": "行政主体如果采取行政指导、则不需要承担法律责任"
+      }
+    ],
+    "answer": "C",
+    "explanation": "第一步，本题考查行政法。\n第二步，行政指导是指行政机关在职责范围内实施的指导、劝告、建议、说明、提醒、警示等柔性管理行为。它 具有非强制性、示范引导性、广泛适用性、柔软灵活性、方法多样性、选择接受性、沟通协调性等诸多特点和方 法，它与行政合同、行政奖励、行政资助等非强制手段一道，构成柔性管理行为体系，在经济与社会管理领域发 挥着积极作用。\n因此，选择 C 选项。 拓展\nA 项：消极行政指具有行政执法主体违背依法行政执法理念、精神、要求及规定依法履行行政执法职责或当履行 行政执法职责损害社会、企业、公民合法权益进而影响政府执行力和形象行包括失职、违法、不作为等各种消极、 怠慢行为既涉及行政处罚也涉及行政许可还涉及行政确认、行政裁决、行政给付、行政征收等各种本质违法的行 政行为。故 A 项错误。它有别于传统的刚性行政手段，是新型的行政方式，属于“积极行政”的范畴，因此 A 项 错误；\nB 项：行政指导不具有强制性，行政相对方可自主决定接受或配合与否， 因而不直接产生行政法律后果，故 B 项 错误；D 项：行政指导行为虽然不具有强制性，但是行政机关应对其违法与不当的行政指导行为，或失职而不积\n极提供行政指导行为承担法律责任，因此 D 项错误。 37、正确答案：ABC，全站正确率：28%，易错项：D。 解析\n第一步，本题考查科学技术知识。\n第二步，科学技术促进社会经济发展，主要表现为三个方面：第一，科学技术渗透到生产力的各个要素中，物化 为直接的现实的生产力，提高生产力。第二，科技进步影响了生产要素的组合，调整资源在各要素之间的合理流 动，造成生产过程重新整合，导致社会生产体系的结构性调整或不断创新。第三，科学技术还影响着社会基础结 构的状况，科技进步不断促进经济运行环境的改善，导致经济系统运行状态的改进。但科学技术是把双刃剑，对\n社会公平的建设可能其促进作用，也可能起到阻碍作用，故 D 不选。 因此，选择 ABC 选项。",
+    "keyPoints": [
+      "第一步，本题考查行政法"
+    ],
+    "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "基础",
+    "source": "2008年上海公务员考试《行测》第36题",
+    "province": "上海",
+    "subModule": "法律",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shanghai-2008-未标注-37",
+    "category": "provincial",
+    "module": "changshi",
+    "title": "常识·(不定项选择)科学技术促进社会经济发展。主要表现为：",
+    "stem": "(不定项选择)科学技术促进社会经济发展。主要表现为：",
+    "options": [
+      {
+        "key": "A",
+        "text": "科学技术渗透到生产力各个要素中"
+      },
+      {
+        "key": "B",
+        "text": "科技进步影响生产要素的组合"
+      },
+      {
+        "key": "C",
+        "text": "科学技术影响着社会基础结构的状况"
+      },
+      {
+        "key": "D",
+        "text": "科学技术促进社会公平"
+      }
+    ],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "基础",
+    "source": "2008年上海公务员考试《行测》第37题",
+    "province": "上海",
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shanghai-2008-未标注-38",
+    "category": "provincial",
+    "module": "changshi",
+    "title": "常识·(不定项选择)某市人民政府做出有关规范该市食品产业生产秩…",
+    "stem": "(不定项选择)某市人民政府做出有关规范该市食品产业生产秩序的决定，这一行为属于：",
+    "options": [
+      {
+        "key": "A",
+        "text": "行政立法行为"
+      },
+      {
+        "key": "B",
+        "text": "抽象行政行为"
+      },
+      {
+        "key": "C",
+        "text": "具体行政行为"
+      },
+      {
+        "key": "D",
+        "text": "行政许可行为"
+      }
+    ],
+    "answer": "AB",
+    "explanation": "第一步，本题考查行政行为。\n第二步，行政立法行为是指行政主体依法定职权和程序制定带有普遍约束力的规范性文件的行为，它所形成的法 律关系是以行政机关为一方，以不确定的行政相对方为另一方。抽象行政行为，是指由行政主体针对不特定的行 政相对人，单方做出的具有普遍约束力的行政行为。行政立法行为就是一种抽象行政行为。根据题干，是某市政 府针对不特定的本市食品生产方作出的一个决定。这既是一个抽象行政行为，也是一个行政立法行为。故 A 项、 B 项正确。因此，选择 AB 选项。\n拓展\nC 项：具体行政行为是指国家行政机关和行政机关工作人员、法律法规授权的组织、行政机关委托的组织、或者 个人在行政管理活动中行使行政职权，针对特定的公民、法人或者其他组织，就特定的具体事项，做出的有关该 公民、法人或者其他组织权利义务的单方行为。根据题干信息，行政主体针对的是不特定的行政相对人，故 C 项 错误。\nD 项：行政许可行为是指在法律一般禁止的情况下，行政主体根据行政相对人的申请，通过颁发许可证或执照等 形式，依法赋予特定的行政相对人从事某种活动或者实施某种行为的权利或资格的行政行为。行政许可是一种具 体行政行为，有明确的行政相对人，题干中的行政相对人并没有明确，故 D 项错误。",
+    "keyPoints": [
+      "第一步，本题考查行政行为"
+    ],
+    "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "基础",
+    "source": "2008年上海公务员考试《行测》第38题",
+    "province": "上海",
+    "subModule": "法律",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shanghai-2008-未标注-39",
+    "category": "provincial",
+    "module": "changshi",
+    "title": "常识·(不定项选择)行政执法中，（ ）赋予当事人充分的权利并提…",
+    "stem": "(不定项选择)行政执法中，（ ）赋予当事人充分的权利并提供权利受侵犯时的救济渠道，从而有效地保 护人权。",
+    "options": [
+      {
+        "key": "A",
+        "text": "公平正义"
+      },
+      {
+        "key": "B",
+        "text": "实体正义"
+      },
+      {
+        "key": "C",
+        "text": "程序正义"
+      },
+      {
+        "key": "D",
+        "text": "法治"
+      }
+    ],
+    "answer": "C",
+    "explanation": "第一步，本题考查行政法。\n第二步，程序正义视为“看得见的正义”，这源于一句人所共知的法律格言：“正义不仅应得到实现，而且要以 人们看得见的方式加以实现”。所谓的“看得见的正义”，实质上就是指裁判过程（相对于裁判结果而言）的公 平，法律程序（相对于实体结论而言）的正义。程序公正首先应保障实体公正的实现，实体公正是一种结果的公 正，而任何结果都是经过一定的过程得以实现的。其次程序公正赋予当事人充分的权利并提供权利被侵犯时的救 济渠道，有效的保障人权。\n因此，选择 C 选项。 拓展\nA 项：公平正义是法律的一条基本原则，公平正义的治国理念主要体现在各级司法机构必须坚持公民的权利平等 和司法公正，有效防止司法腐败。各级司法机构必须坚持三条原则：一是合法合理原则，二是及时高效原则，三 是程序公正原则。\nB 项：实体正义，也叫作结果正义，指的是遵照实体法对案件进行裁判。实体正义是一个相对的范畴，必须通过 程序正义的实现。程序正义与实体正义具有内在的一致性。首先，程序正义与实体正义的终极目标是一致的，都 是追求纠纷的公正解决。其次，实体正义的实现依赖于程序正义的保障。\nD 项：法治，顾名思义，法治就是“法的统治”。法治是一种贯彻法律至上、严格依法办事的治国原则和方式。 它要求作为反映社会主体共同意志和根本利益的法律具有至高无上的权威，并在全社会得到有效的实施、普遍的 遵守和有力的贯彻。法治作为一种先进的治国方式，要求整个国家以及社会生活均依法而治，即管理国家、治理 社会，是凭靠法律这种公共权威，这种普遍、稳定、明确的社会规范；而不是靠任何人格权威，不是靠掌权者的 威严甚至特权，不依个人意志为转移。",
+    "keyPoints": [
+      "第一步，本题考查行政法"
+    ],
+    "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "基础",
+    "source": "2008年上海公务员考试《行测》第39题",
+    "province": "上海",
+    "subModule": "法律",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shanghai-2008-未标注-40",
+    "category": "provincial",
+    "module": "changshi",
+    "title": "常识·(不定项选择)行政公文的整理与归档。是将办理完毕的、具有…",
+    "stem": "(不定项选择)行政公文的整理与归档。是将办理完毕的、具有一定查考利用价值的文件材料，按照它们在形 成过程的联系和一定规律组成案卷，作为档案保管的基本单位归档。在行政实践中，行政公文整理工作的组织， 主要应抓好：",
+    "options": [
+      {
+        "key": "A",
+        "text": "落实整理归档工作的组织领导"
+      },
+      {
+        "key": "B",
+        "text": "公文整理的分工"
+      },
+      {
+        "key": "C",
+        "text": "正确选择公文整理环节"
+      },
+      {
+        "key": "D",
+        "text": "确定整理人"
+      }
+    ],
+    "answer": "ABCD",
+    "explanation": "第一步，本题考查公文。\n第二步，根据《党政机关公文处理工作条例》第 6 条规定，各级党政机关应当高度重视公文处理工作，加强组织 领导，强化队伍建设，设立文秘部门或者由专人负责公文处理工作。由此可知，A 项、D 项正确。根据《党政机 关公文处理工作条例》第 4 条规定，公文处理工作是指公文拟制、办理、管理等一系列相互关联、衔接有序的工\n作。因此，应做好对公文整理的分工，正确选择环节，B 项、C 项正确。 因此，选择 ABCD 选项。",
+    "keyPoints": [
+      "第一步，本题考查公文",
+      "由此可知，A 项、D 项正确"
+    ],
+    "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "基础",
+    "source": "2008年上海公务员考试《行测》第40题",
+    "province": "上海",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shanghai-2008-未标注-41",
+    "category": "provincial",
+    "module": "changshi",
+    "title": "常识·(不定项选择)以下关于行政效能的说法中，不正确的是：",
+    "stem": "(不定项选择)以下关于行政效能的说法中，不正确的是：",
+    "options": [
+      {
+        "key": "A",
+        "text": "它是公共管理生命力的体现"
+      },
+      {
+        "key": "B",
+        "text": "它是衡量公共行政管理水平和效果的主要标志"
+      },
+      {
+        "key": "C",
+        "text": "它是公共管理活动的出发点和归宿"
+      },
+      {
+        "key": "D",
+        "text": "它决定了公共管理活动的根本性质"
+      }
+    ],
+    "answer": "AD",
+    "explanation": "第一步，本题考查管理并选错误项。\n第二步，行政效能是指在行政管理活动中，以满足最广大人民的根本利益为目的，严格依法行政，体现着政策水 平、战略眼光、卓绝的见识和运筹能力，效率高、效果佳，能够促进良好的经济效益、社会效益和生态效益同步 协调发展的行政行为。能力、效率、效果、效益是行政效能的四要素。行政管理能力是实现行政管理高效能的基 本条件。行政效能建设必须符合行政行为合法性、有利性，行政行为目的正确性原则。由此可知，B 项、C 项正 确，不选。公共管理生命力的体现在于公共管理的实施，因而 A 项是错误的。公共管理活动的根本性质是在于通\n过公共活动地实施，满足最广大人民的根本利益，实现社会公共利益，因而 D 项是错误的。 因此，选择 AD 选项。",
+    "keyPoints": [
+      "第一步，本题考查管理并选错误项",
+      "能力、效率、效果、效益是行政效能的四要素"
+    ],
+    "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "基础",
+    "source": "2008年上海公务员考试《行测》第41题",
+    "province": "上海",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shanghai-2008-未标注-42",
+    "category": "provincial",
+    "module": "changshi",
+    "title": "常识·(不定项选择)现代组织理论研究和实践表明，行政组织管理幅…",
+    "stem": "(不定项选择)现代组织理论研究和实践表明，行政组织管理幅度的科学性和合理性，不是一成不变的，也没\n有僵化的模式，一般取决于（ ）等因素。",
+    "options": [
+      {
+        "key": "A",
+        "text": "整个组织系统中的层次数"
+      },
+      {
+        "key": "B",
+        "text": "组织的领导者的才能"
+      },
+      {
+        "key": "C",
+        "text": "工作的难易程度"
+      },
+      {
+        "key": "D",
+        "text": "组织成员的素质"
+      }
+    ],
+    "answer": "ABCD",
+    "explanation": "第一步，本题考查管理。\n第二步，影响管理幅度的因素如下：（1）在被管理人员确定的情况下，管理幅度与管理层次成反比，即管理幅 度越大，则管理层次越少；反过来，管理幅度越小，则管理层次越多。（2）管理者的个人能力。管理者的管理 能力强，能够迅速地把握问题的关键，对下属的请示提出恰当的指导建议，并且能够使下属明确地理解，从而缩 短与每一位下属接触所占用的时间，其管理的幅度就会扩大。（3）管理幅度与管理者的水平和管理手段的先进 程度有关。管理者水平高，管理手段先进，则管理幅度可大些。否则，就可小些。（4）管理幅度与被管理对象 有关。下属的工作能力的强弱对上级的管理幅度也有着直接的影响。（5）不同工作内容和性质。管理者工作性 质越复杂、涉及面越广、越不规范，对管理者的时间、精力的占用就越多，其管理的幅度就越小。\n因此，选择 ABCD 选项。 拓展\n所谓管理幅度，又称管理宽度、管理跨度，是指在一个组织结构中，一名领导者直接领导的下属人员的数目。在 这里需要我们注意的是“直接”这个词的含义，那些间接地被领导者不应该被算作管理幅度的范畴。",
+    "keyPoints": [
+      "第一步，本题考查管理",
+      "（2）管理者的个人能力"
+    ],
+    "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "基础",
+    "source": "2008年上海公务员考试《行测》第42题",
+    "province": "上海",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shanghai-2008-未标注-43",
+    "category": "provincial",
+    "module": "changshi",
+    "title": "常识·(不定项选择)某局办公室小张，去机场接上级主管部门的",
+    "stem": "(不定项选择)某局办公室小张，去机场接上级主管部门的",
+    "options": [
+      {
+        "key": "A",
+        "text": "司长及"
+      },
+      {
+        "key": "B",
+        "text": "处长，在下列四个乘车座次的示意图中，\n“① ”代表 A 司长： “② ”代表 B 处长： “③ ”代表小张。那么，符合公务礼仪的乘车座次的是（ ）"
+      }
+    ],
+    "answer": "C",
+    "explanation": "第一步，本题考查礼仪。\n第二步， 由专职司机驾驶轿车时，通常讲究右尊左低，但座次为后排为上，前排为下。A 项中小张是工作人员， 应该坐在副驾驶的位置；A 司长的级别最高，应该坐在司机的右后方，也就是小张的后面；B 处长应该坐在司机 的后面。\n因此，选择 C 选项。 拓展\n在正式场合乘坐轿车时，应请尊长、女士、来宾就座于上座，这是给予对方的一种礼遇。由主人亲自驾驶轿车时， 一般前排座为上，后排座为下；以右为上，以左为下。不管由谁驾驶，吉普车上座次由尊而卑依次是：副驾驶座， 后排右座，后排左座。四排以及四排以上座次的大中型轿车，不论由何人驾驶，均以前排为上，以后排为下，以 右为尊， 以左为卑，并以距离前门的远近，来排定其具体座次的尊低。\n上下车的基本要求是：倘若条件允许，须请尊长、女士、来宾先上车，后下车。",
+    "keyPoints": [
+      "第一步，本题考查礼仪",
+      "第二步， 由专职司机驾驶轿车时，通常讲究右尊左低，但座次为后排为上，前排为下"
+    ],
+    "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "基础",
+    "source": "2008年上海公务员考试《行测》第43题",
+    "isImageQuestion": true,
+    "province": "上海",
+    "subModule": "生活常识",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shanghai-2008-未标注-44",
+    "category": "provincial",
+    "module": "changshi",
+    "title": "常识·(不定项选择)行政行为在空间上的表现形式和在时间上的跨度…",
+    "stem": "(不定项选择)行政行为在空间上的表现形式和在时间上的跨度，包括行政行为的方式、步骤、次序、时限等 不可分割的内容是：",
+    "options": [
+      {
+        "key": "A",
+        "text": "行政程序"
+      },
+      {
+        "key": "B",
+        "text": "行政诉讼"
+      },
+      {
+        "key": "C",
+        "text": "行政复议"
+      },
+      {
+        "key": "D",
+        "text": "行政处罚"
+      }
+    ],
+    "answer": "A",
+    "explanation": "第一步，本题考查行政法。\n第二步，行政程序是指国家行政机关在行使行政权力、实施行政活动过程中所遵循的步骤方式、时限和顺序的总 和。包括行政行为的方式、步骤、次序、时限等不可分割的内容。\n因此，选择 A 选项。\n拓展\nB 项：行政诉讼，是指公民、法人或者其他组织，即行政相对人，认为行政主体的行为违法，依法诉诸人民法院， 人民法院据此在双方当事人和其他诉讼参与人的参加下，对行政案件进行受理、审理、裁判以及执行等司法活动 的总和，是司法机关解决行政争议的一种法律制度。\nC 项：行政复议，行政复议是指行政机关根据上级行政机关对下级机关的监督权，在当事人的申请和参加下，按 照行政复议程序对具体行政行为进行合法性和合理性的审查，并做出裁决，解决行政争议的活动。\nD 项：行政处罚，是指具有行政处罚权的行政主体为维护公共利益和社会秩序，保护公民、法人或其他组织的合 法权益，依法对行政相对人违反行政法律法规而尚未构成犯罪的行政行为所实施的法律制裁。",
+    "keyPoints": [
+      "第一步，本题考查行政法",
+      "包括行政行为的方式、步骤、次序、时限等不可分割的内容"
+    ],
+    "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "基础",
+    "source": "2008年上海公务员考试《行测》第44题",
+    "province": "上海",
+    "subModule": "法律",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shanghai-2008-未标注-45",
+    "category": "provincial",
+    "module": "changshi",
+    "title": "常识·(不定项选择)近年来，随着现代化工农业生产的迅猛发展.沿…",
+    "stem": "(不定项选择)近年来，随着现代化工农业生产的迅猛发展.沿海地区人口的增多，大量工农业废水和生活污 水排入海洋，赤潮现象在我国沿海地区频频发生，引起了相关部门的高度重视。近海海面形成赤潮的主要原因是：",
+    "options": [
+      {
+        "key": "A",
+        "text": "水生动物数量减少"
+      },
+      {
+        "key": "B",
+        "text": "海水温度过低"
+      },
+      {
+        "key": "C",
+        "text": "海水盐度过低"
+      },
+      {
+        "key": "D",
+        "text": "海水富营养化"
+      }
+    ],
+    "answer": "D",
+    "explanation": "第一步，本题考查地理国情。\n第二步，赤潮，又称红潮，是在特定的环境条件下，海水中某些浮游植物、原生生物或细菌爆发性增殖或高度聚 集而引起水体变色的一种有害生态现象。“赤潮”，是海洋生态系统中的一种异常现象。它是由海藻家族中的赤 潮藻在特定环境条件下爆发性地增殖造成的。赤潮发生的原因尚无定论，但是和水污染的关系极为密切。由于城 市工业废水和生活污水大量排入海中，使营养物质在水体中富集，造成海域富营养化。此时，水域中氮、磷等营\n养盐类；铁、锰等微量元素以及有机化合物的含量大大增加，促进赤潮生物的大量繁殖。 因此，选择 D 选项。",
+    "keyPoints": [
+      "第一步，本题考查地理国情",
+      "“赤潮”，是海洋生态系统中的一种异常现象"
+    ],
+    "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "基础",
+    "source": "2008年上海公务员考试《行测》第45题",
+    "province": "上海",
+    "subModule": "地理国情",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shanghai-2008-未标注-46",
+    "category": "provincial",
+    "module": "changshi",
+    "title": "常识·(不定项选择)以下说法中，不属于行政法的特点的是：",
+    "stem": "(不定项选择)以下说法中，不属于行政法的特点的是：",
+    "options": [
+      {
+        "key": "A",
+        "text": "各国通常有统一的行政法典"
+      },
+      {
+        "key": "B",
+        "text": "行政法规范的数量在各部门法中占领先地位"
+      },
+      {
+        "key": "C",
+        "text": "行政法的内容广泛"
+      },
+      {
+        "key": "D",
+        "text": "行政法规范具有相对的易变性"
+      }
+    ],
+    "answer": "A",
+    "explanation": "第一步，本题考查行政法并选错误项。\n第二步，行政法的特点：（1）行政法没有统一、完整的法典。行政法尚没有统一完整的实体行政法典，这是因 为行政法涉及的社会领域十分广泛，内容纷繁丰富，行政关系复杂多变，因而难以制定一部全面而又完整的统一 法典。重要的综合性行政法律在我国和国外主要有：行政组织法、国家公务员法、行政处罚法、行政强制法、行 政许可法、行政程序法、行政公开法、行政复议法、行政诉讼法、国家赔偿法等。故 A 项是错误的。（2）行政 法规范是以多种多样的法律形式表现出来的，是由多种不同效力等级的行为规范组成的统一体。行政法散见于层 次不同、名目繁多、种类不一、数量可观的各类法律、行政法规、地方性法规、规章以及其他规范性文件之中。 故 B 项是正确的。（3）行政法规范的数量多， 内容广泛。由于现代行政权力的急剧膨胀，其活动领域已不限于 外交如国防、治安、税收等领域，而是扩展到了社会生活的各个方面。因此，这就决定了各个领域所发生的社会 关系均需要行政法调整，现代行政法适用的领域更加广泛， 内容也更加丰富。故 C 项是正确的。（4）行政法规 范具有明显的易变性。行政法与其他部门法由于社会生活和行政关系复杂多变，因而作为行政关系调节器的行政 法律规范也具有较强的变动性，需要经常进行废、改、立。故 D 项正确。（5）行政程序性规范是行政法特有的\n一类行为规范，与行政实体性规范通常交织在一起，其存于同一个法律文件之中。 因此，选择 A 选项。",
+    "keyPoints": [
+      "第一步，本题考查行政法并选错误项",
+      "第二步，行政法的特点：（1）行政法没有统一、完整的法典"
+    ],
+    "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "基础",
+    "source": "2008年上海公务员考试《行测》第46题",
+    "province": "上海",
+    "subModule": "法律",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shanghai-2008-未标注-47",
+    "category": "provincial",
+    "module": "changshi",
+    "title": "常识·(不定项选择)地球的核心部分称为地核。地核中主要的元素成…",
+    "stem": "(不定项选择)地球的核心部分称为地核。地核中主要的元素成分是：",
+    "options": [
+      {
+        "key": "A",
+        "text": "硅"
+      },
+      {
+        "key": "B",
+        "text": "锰和铜"
+      },
+      {
+        "key": "C",
+        "text": "铁和镍"
+      },
+      {
+        "key": "D",
+        "text": "碳和铝"
+      }
+    ],
+    "answer": "C",
+    "explanation": "第一步，本题考查地理。\n第二步，地核是地球的核心。据科学观测分析，地核分为外地核、过渡层和内地核三个层次。外地核的厚度为 1742 千米，平均密度约 10.5 克/立方厘米，物质呈液态。过渡层的厚度只有 100 多千米，物质处于由液态向固 态过渡状态。内地核厚度 1216 千米，平均密度增至 12.9 克/立方厘米，主要成分是以铁、镍为主的重金属，所\n以又称铁镍核。地球的核心部分主要由铁、镍元素组成，半径为 3480 千米。 因此，选择 C 选项。",
+    "keyPoints": [
+      "第一步，本题考查地理",
+      "第二步，地核是地球的核心",
+      "据科学观测分析，地核分为外地核、过渡层和内地核三个层次"
+    ],
+    "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "基础",
+    "source": "2008年上海公务员考试《行测》第47题",
+    "province": "上海",
+    "subModule": "地理国情",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shanghai-2008-未标注-48",
+    "category": "provincial",
+    "module": "changshi",
+    "title": "常识·(不定项选择)保密工作，是指知晓秘密和掌管秘密的人保守和…",
+    "stem": "(不定项选择)保密工作，是指知晓秘密和掌管秘密的人保守和保护秘密的工作。以下属于保密工作管理制度 的有机组成部分的是：",
+    "options": [
+      {
+        "key": "A",
+        "text": "专项保密制度"
+      },
+      {
+        "key": "B",
+        "text": "员工保密培训制度"
+      },
+      {
+        "key": "C",
+        "text": "突击检查制度"
+      },
+      {
+        "key": "D",
+        "text": "责任追究制度"
+      }
+    ],
+    "answer": "ABCD",
+    "explanation": "第一步，本题考查管理。\n第二步，根据《中华人民共和国保守国家秘密法实施条例》第 6 条第 2 款规定，机关、单位应当根据保密工作需 要设立保密工作机构或者指定人员专门负责保密工作。故 A 项正确。根据《中华人民共和国保守国家秘密法实施 条例》第 7 条规定，各级保密行政管理部门应当组织开展经常性的保密宣传教育。机关、单位应当定期对本机关、 本单位工作人员进行保密形势、保密法律法规、保密技术防范等方面的教育培训。故 B 项正确。根据《中华人民 共和国保守国家秘密法》第 44 条规定，保密行政管理部门对机关、单位遵守保密制度的情况进行检查，有关机 关、单位应当配合。保密行政管理部门发现机关、单位存在泄密隐患的，应当要求其采取措施，限期整改；对存\n在泄密隐患的设施、设备、场所，应当责令停止使用；对严重违反保密规定的涉密人员，应当建议有关机关、单 位给予处分并调离涉密岗位；发现涉嫌泄露国家秘密的，应当督促、指导有关机关、单位进行调查处理。涉嫌犯 罪的，移送司法机关处理。保密行政管理部门检查的方式有定期检查、不定期检查和突击检查这三种，故 C 项正 确。《中华人民共和国保守国家秘密法实施条例》第 5 章明确了对未做好保密工作的工作人员和组织的责任追究 制度。故 D 项正确。\n因此，选择 ABCD 选项。",
+    "keyPoints": [
+      "第一步，本题考查管理",
+      "故 A 项正确"
+    ],
+    "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "基础",
+    "source": "2008年上海公务员考试《行测》第48题",
+    "province": "上海",
+    "subModule": "法律",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shanghai-2008-未标注-49",
+    "category": "provincial",
+    "module": "changshi",
+    "title": "常识·(不定项选择)胡锦涛总书记提出的“ 四个坚定不移 ”有着…",
+    "stem": "(不定项选择)胡锦涛总书记提出的“ 四个坚定不移 ”有着内在的联系.包含了思想法宝、发展动力、基本要 求、内在需要和奋斗目标，同时，这四个方面也是层层递进的关系。即，要想应对前进道路上各种新情况新问题、 不断开创事业新局面，必须进一步解放思想：",
+    "material": "阅读下列材料，回答下面的题目。\n胡锦涛总书记于 2007 年 6 月 25 在中央党校省部级干部进修班发表重要讲话中指出，解放思想，是党的思想 路线的本质要求，是我们应对前进道路上各种新情况新问题、不断开创事业新局面的一大法宝，必须坚定不移地 加以坚持。改革开放，是解放和发展社会生产力、不断创新充满活力的体制机制的必然要求，是发展中国特色社 会主义的强大动力，必须坚定不移地加以推进。科学发展、社会和谐，是发展中国特色社会主义的基本要求，是 实现经济社会又好又快发展的内在需要，必须坚定不移地加以落实。全面建设小康社会，是我们党和国家到 2020 年的奋斗目标，是全国各族人民根本利益所在，必须坚定不移地为之奋斗。做到这四个坚定不移，对保持党和国 家事业顺利发展的大局至关重要。",
+    "options": [
+      {
+        "key": "A",
+        "text": "只有坚持改革开放，才能更好地加强党的执政能力建设与党的先进性建设"
+      },
+      {
+        "key": "B",
+        "text": "只有大胆解放思想，才能不断推进改革开放，进一步解放和发展社会生产力"
+      },
+      {
+        "key": "C",
+        "text": "只有坚持改革开放，才能更好地落实科学发展和社会和谐的要求"
+      },
+      {
+        "key": "D",
+        "text": "只有贯彻落实科学发展观、建设好和谐社会，我们才能实现全面建设小康社会的目标"
+      }
+    ],
+    "answer": "BCD",
+    "explanation": "第一步，本题考查时政。\n第二步，“四个坚定不移”有着内在的联系，包含了思想法宝、发展动力、基本要求、内在需要和奋斗目标，同 时，这四个方面也是层层递进的关系。即，要想应对前进道路上各种新情况新问题、不断开创事业新局面，必须 进一步解放思想。只有大胆解放思想，才能不断推进改革开放，进一步解放和发展社会生产力。只有坚持改革开 放，才能更好地落实科学发展和社会和谐的要求。只有贯彻落实科学发展观、建设好和谐社会，我们才能实现全 面建设小康社会的目标。根据材料，我们发现“四个坚持不移”针对的是解放思想、改革开放、科学发展与社会\n和谐以及全面建设小康社会，而 A 项不属于“四个坚持不移”的内容。 因此，选择 BCD 选项。",
+    "keyPoints": [
+      "第一步，本题考查时政"
+    ],
+    "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "基础",
+    "source": "2008年上海公务员考试《行测》第49题",
+    "province": "上海",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shanghai-2008-未标注-50",
+    "category": "provincial",
+    "module": "changshi",
+    "title": "常识·(不定项选择)胡锦涛总书记指出，改革开放，是解放和发展社…",
+    "stem": "(不定项选择)胡锦涛总书记指出，改革开放，是解放和发展社会生产力、不断创新充满活力的体制机制的必 然要求，是发展中国特色社会主义的强大动力，必须坚定不移地加以推进。事实雄辩地证明，改革开放是发展中 国特色社会主义、实现中华民族伟大复兴的必由之路。改革开放以来我们取得一切成绩和进步的根本原因，归结 起来就是：",
+    "material": "阅读下列材料，回答下面的题目。\n胡锦涛总书记于 2007 年 6 月 25 在中央党校省部级干部进修班发表重要讲话中指出，解放思想，是党的思想 路线的本质要求，是我们应对前进道路上各种新情况新问题、不断开创事业新局面的一大法宝，必须坚定不移地 加以坚持。改革开放，是解放和发展社会生产力、不断创新充满活力的体制机制的必然要求，是发展中国特色社 会主义的强大动力，必须坚定不移地加以推进。科学发展、社会和谐，是发展中国特色社会主义的基本要求，是 实现经济社会又好又快发展的内在需要，必须坚定不移地加以落实。全面建设小康社会，是我们党和国家到 2020 年的奋斗目标，是全国各族人民根本利益所在，必须坚定不移地为之奋斗。做到这四个坚定不移，对保持党和国 家事业顺利发展的大局至关重要。",
+    "options": [
+      {
+        "key": "A",
+        "text": "遵循了人类社会发展的历史规律"
+      },
+      {
+        "key": "B",
+        "text": "弘扬了社会主义先进文化"
+      },
+      {
+        "key": "C",
+        "text": "开辟了中国特色社会主义道路"
+      },
+      {
+        "key": "D",
+        "text": "形成了中国特色社会主义理论体系"
+      }
+    ],
+    "answer": "CD",
+    "explanation": "第一步，本题考查时政。\n第二步，2007 年，在党的十七大报告中，胡锦涛强调，改革开放以来我们取得一切成绩和进步的根本原因，归 结起来就是：开辟了中国特色社会主义道路，形成了中国特色社会主义理论体系。高举中国特色社会主义伟大旗 帜，最根本的就是要坚持这条道路和这个理论体系。\n因此，选择 CD 选项。 拓展\n2017 年 10 月 24 日，中国共产党第十九次全国代表大会通过修改的《中国共产党党章》指出，改革开放以来我 们取得一切成绩和进步的根本原因，归结起来就是：开辟了中国特色社会主义道路，形成了中国特色社会主义理 论体系，确立了中国特色社会主义制度，发展了中国特色社会主义文化。",
+    "keyPoints": [
+      "第一步，本题考查时政",
+      "高举中国特色社会主义伟大旗 帜，最根本的就是要坚持这条道路和这个理论体系"
+    ],
+    "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "基础",
+    "source": "2008年上海公务员考试《行测》第50题",
+    "province": "上海",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shanghai-2008-未标注-51",
+    "category": "provincial",
+    "module": "changshi",
+    "title": "常识·(不定项选择)深入理解和准确把握科学发展和社会和谐是发展…",
+    "stem": "(不定项选择)深入理解和准确把握科学发展和社会和谐是发展中国特色社会主义的基本要求，是实现经济社 会又好又快发展的内在需要。既是“基本要求 ”，又是“ 内在需要 ”，两句话相互联系，又各有侧重。下列关于 这两句话的说法中，正确的有：",
+    "material": "阅读下列材料，回答下面的题目。\n胡锦涛总书记于 2007 年 6 月 25 在中央党校省部级干部进修班发表重要讲话中指出，解放思想，是党的思想 路线的本质要求，是我们应对前进道路上各种新情况新问题、不断开创事业新局面的一大法宝，必须坚定不移地 加以坚持。改革开放，是解放和发展社会生产力、不断创新充满活力的体制机制的必然要求，是发展中国特色社 会主义的强大动力，必须坚定不移地加以推进。科学发展、社会和谐，是发展中国特色社会主义的基本要求，是 实现经济社会又好又快发展的内在需要，必须坚定不移地加以落实。全面建设小康社会，是我们党和国家到 2020 年的奋斗目标，是全国各族人民根本利益所在，必须坚定不移地为之奋斗。做到这四个坚定不移，对保持党和国 家事业顺利发展的大局至关重要。",
+    "options": [
+      {
+        "key": "A",
+        "text": "前一句是从体现中国特色社会主义本质属性的角度，强调没有科学发展和社会和谐，就不可能坚持和发展中 国特色社会主义"
+      },
+      {
+        "key": "B",
+        "text": "前一句是从体现中国特色社会主义本质属性的角度，强调没有科学发展和社会和谐，就不可能实现全面建设 小康社会的目标"
+      },
+      {
+        "key": "C",
+        "text": "后一句是从转变增长方式的角度，强调实现经济社会又好又快发展，必须是科学发展、和谐发展"
+      },
+      {
+        "key": "D",
+        "text": "后一句是从转变发展方式的角度，强调实现经济社会又好又快发展，必须是科学发展、和谐发展"
+      }
+    ],
+    "answer": "AD",
+    "explanation": "第一步，本题考查中共党史。\n第二步，既是“基本要求”，又是“内在需要”，两句话相互联系，又各有侧重。前一句，是从体现中国特色社 会主义本质属性的角度，强调没有科学发展和社会和谐，就不可能坚持和发展中国特色社会主义；故科学发展和 社会和谐是“基本要求”。后一句是从转变发展方式的角度，强调实现经济社会又好又快发展，必须是科学发展、 和谐发展。经济和社会都需要又好又快，必须靠科学发展与和谐发展两方面。经济发展靠科学，社会发展靠和谐。 我国现在对于经济的发展更加重视的是发展的质量而不是发展的速度，21 世纪，科技是第一生产力，只有将科 学技术转化成生产力，投身于生产领域，才能实现经济的又好又快发展；才能提高民众的生活水平，营造一个和\n谐稳定的社会环境，实现社会的又好又快发展。 因此，选择 AD 选项。",
+    "keyPoints": [
+      "第一步，本题考查中共党史",
+      "第二步，既是“基本要求”，又是“内在需要”，两句话相互联系，又各有侧重"
+    ],
+    "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "基础",
+    "source": "2008年上海公务员考试《行测》第51题",
+    "province": "上海",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shanghai-2008-未标注-52",
+    "category": "provincial",
+    "module": "changshi",
+    "title": "常识·(不定项选择)胡锦涛总书记指出，全面建设小康社会.是我们…",
+    "stem": "(不定项选择)胡锦涛总书记指出，全面建设小康社会.是我们党和国家到 2020 年的奋斗目标，是全国各族人 民根本利益所在，必须坚定不移地为之奋斗。在党的十七大报告中进一步提出，我们必须适应国内外形势的新变 化，顺应各族人民过上更好生活的新期待，把握经济社会发展趋势和规律，坚持中国特色社会主义经济建设、政 治建设、文化建设、社会建设的基本目标和基本政策构成的基本纲领，在十六大确立的全面建设小康社会目标的 基础上对我国发展提出新的更高要求，实现：",
+    "material": "阅读下列材料，回答下面的题目。\n胡锦涛总书记于 2007 年 6 月 25 在中央党校省部级干部进修班发表重要讲话中指出，解放思想，是党的思想 路线的本质要求，是我们应对前进道路上各种新情况新问题、不断开创事业新局面的一大法宝，必须坚定不移地 加以坚持。改革开放，是解放和发展社会生产力、不断创新充满活力的体制机制的必然要求，是发展中国特色社 会主义的强大动力，必须坚定不移地加以推进。科学发展、社会和谐，是发展中国特色社会主义的基本要求，是 实现经济社会又好又快发展的内在需要，必须坚定不移地加以落实。全面建设小康社会，是我们党和国家到 2020 年的奋斗目标，是全国各族人民根本利益所在，必须坚定不移地为之奋斗。做到这四个坚定不移，对保持党和国 家事业顺利发展的大局至关重要。",
+    "options": [
+      {
+        "key": "A",
+        "text": "人均国民生产总值到 2020 年比 2000 年翻两番"
+      },
+      {
+        "key": "B",
+        "text": "人均国内生产总值到 2020 年比 2000 年翻两番"
+      },
+      {
+        "key": "C",
+        "text": "国民生产总值到 2020 年比 2000 年翻两番"
+      },
+      {
+        "key": "D",
+        "text": "国内生产总值到 2020 年比 2000 年翻两番"
+      }
+    ],
+    "answer": "B",
+    "explanation": "第一步，本题考查时政。\n第二步，党的十七大在十六大确立的全面建设小康社会目标的基础上对我国发展提出新的更高要求：增强发展协 调性，努力实现经济又好又快发展。转变发展方式取得重大进展，在优化结构、提高效益、降低消耗、保护环境 的基础上，实现人均国内生产总值到二〇二〇年比二〇〇〇年翻两番。社会主义市场经济体制更加完善。自主创 新能力显著提高，科技进步对经济增长的贡献率大幅上升，进入创新型国家行列。居民消费率稳步提高，形成消 费、投资、出口协调拉动的增长格局。城乡、区域协调互动发展机制和主体功能区布局基本形成。社会主义新农\n村建设取得重大进展。城镇人口比重明显增加。 因此，选择 B 选项。",
+    "keyPoints": [
+      "第一步，本题考查时政"
+    ],
+    "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "基础",
+    "source": "2008年上海公务员考试《行测》第52题",
+    "province": "上海",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shanghai-2008-未标注-53",
+    "category": "provincial",
+    "module": "changshi",
+    "title": "常识·(不定项选择)下列选项中，说法正确的是：",
+    "stem": "(不定项选择)下列选项中，说法正确的是：",
+    "material": "阅读下列材料，回答下面的题目。\n2006 年 6 月，时某打算成立一家装饰公司，向市某会计事务所申请验资。该会计事务所在未实际验资的情 况下，便出具了一份该拟成立公司“拥有资金人民币 300 万 ”的虚假验资证明。同年 7 月，时某凭这份虚假验资 证明，到工商行政管理部门申请设立××装潢有限公司并获得了营业执照。同年年底，群众向市工商局举报时某 上述违法行为，工商局立案，经过调查取证，认定时某在申请成立公司过程中有虚报注册资本行为，工商局遂依 法作出撤销该公司的工商登记，并吊销了其营业执照。本案中的注册会计师和会计事务所也被有关行政管理机关 给予相应的行政处罚。",
+    "options": [
+      {
+        "key": "A",
+        "text": "工商局的公司登记行为是一种行政许可行为"
+      },
+      {
+        "key": "B",
+        "text": "婚姻登记是一种行政审批行为"
+      },
+      {
+        "key": "C",
+        "text": "公司登记的前置条件可以由地方性法规设定"
+      },
+      {
+        "key": "D",
+        "text": "工商登记属于资格许可行为"
+      }
+    ],
+    "answer": "AD",
+    "explanation": "第一步，本题考查行政法。\n第二步，行政许可是指：行政机关根据公民、法人或者其他组织的申请，经依法审查，准予其从事特定活动的行 为。一般而言，行政许可具有以下特征：行政许可是行政机关管理性的行政行为。行政许可是对社会实施的外部 管理行为。根据行政许可在性质、功能、适用事项等方面的不同特点，行政许可可划分为普通许可、特许、认可、 核准、登记五大类，其中登记是行政机关确立企业或者其他组织主体资格的许可方式，比如工商企业注册、社团 登记等。公司登记属于行政许可中的登记，是行政许可。故 A 项正确。登记是指针对企业其他组织的设立等需要 确定主体资格的许可。故 D 项正确。\n因此，选择 AD 选项。 拓展\nB 项：行政审批是指行政机关（包括有行政审批权的其他组织）根据自然人、法人或者其他组织提出的申请，经 过依法审查，采取“批准”“同意”“年检”发放证照等方式，准予其从事特定活动、认可其资格资质、确认特 定民事关系或者特定民事权利能力和行为能力的行为。行政机关对特定法律事实进行甄别，作出肯定或否定的认 定并宣告的具体行政行为。行政确认主要形式有：确定、认可、证明、登记、批准、鉴证、行政鉴定。婚姻登记 是对结婚的男女双方能结婚的认定，而且登记后是要进行宣告的，故婚姻登记是一种行政确认行为，不是行政审 批行为。因此 B 错误。\nC 项：根据《行政许可法》第 15 条第 2 款规定，地方性法规和省、自治区、直辖市人民政府规章，不得设定应 当由国家统一确定的公民、法人或者其他组织的资格、资质的行政许可；不得设定企业或者其他组织的设立登记 及其前置性行政许可。其设定的行政许可，不得限制其他地区的个人或者企业到本地区从事生产经营和提供服务， 不得限制其他地区的商品进入本地区市场。故 C 项错误。",
+    "keyPoints": [
+      "第一步，本题考查行政法",
+      "一般而言，行政许可具有以下特征：行政许可是行政机关管理性的行政行为"
+    ],
+    "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "基础",
+    "source": "2008年上海公务员考试《行测》第53题",
+    "province": "上海",
+    "subModule": "法律",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shanghai-2008-未标注-54",
+    "category": "provincial",
+    "module": "changshi",
+    "title": "常识·(不定项选择)相对人通过违法手段取得行政许可的，必须承担…",
+    "stem": "(不定项选择)相对人通过违法手段取得行政许可的，必须承担相应的法律责任。对此，下列表述正确的是：",
+    "material": "阅读下列材料，回答下面的题目。\n2006 年 6 月，时某打算成立一家装饰公司，向市某会计事务所申请验资。该会计事务所在未实际验资的情 况下，便出具了一份该拟成立公司“拥有资金人民币 300 万 ”的虚假验资证明。同年 7 月，时某凭这份虚假验资 证明，到工商行政管理部门申请设立××装潢有限公司并获得了营业执照。同年年底，群众向市工商局举报时某 上述违法行为，工商局立案，经过调查取证，认定时某在申请成立公司过程中有虚报注册资本行为，工商局遂依 法作出撤销该公司的工商登记，并吊销了其营业执照。本案中的注册会计师和会计事务所也被有关行政管理机关 给予相应的行政处罚。",
+    "options": [
+      {
+        "key": "A",
+        "text": "这种责任主要是行政责任和刑事责任"
+      },
+      {
+        "key": "B",
+        "text": "这种责任主要是行政责任和民事责任"
+      },
+      {
+        "key": "C",
+        "text": "相对人通过欺骗、胁迫、贿赂手段取得行政许可的，应当予以撤销"
+      },
+      {
+        "key": "D",
+        "text": "被许可人通过欺骗、胁迫、贿赂等不正当手段取得行政许可的，行政机关应当依法给予行政处罚"
+      }
+    ],
+    "answer": "ACD",
+    "explanation": "第一步，本题考查行政法。\n第二步，根据《行政处罚法》第 69 条第 2 款规定，被许可人以欺骗、贿赂等不正当手段取得行政许可的，应当 予以撤销。因此 C 项正确。根据《行政处罚法》第 79 条规定，被许可人以欺骗、贿赂等不正当手段取得行政许 可的，行政机关应当依法给予行政处罚；取得的行政许可属于直接关系公共安全、人身健康、生命财产安全事项 的， 申请人在三年内不得再次申请该行政许可；构成犯罪的，依法追究刑事责任。因此 A、D 正确。\n因此，选择 ACD 选项。 拓展\nB 项：民事责任，指的是平等主体之间因违反民事法律规范或者违反约定而应当承担的法律责任，承担民事责任 的方式主要有：停止侵害；排除妨碍；消除危险；返还财产；恢复原状；修理、重作、更换；赔偿损失；支付违 约金；消除影响、恢复名誉；赔礼道歉等。相对人通过违法手段获得行政许可不是平等主体之间的权利与义务纠 纷，故不属于民事责任。因而 B 项错误。",
+    "keyPoints": [
+      "第一步，本题考查行政法",
+      "因此 C 项正确"
+    ],
+    "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "基础",
+    "source": "2008年上海公务员考试《行测》第54题",
+    "province": "上海",
+    "subModule": "法律",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shanghai-2008-未标注-55",
+    "category": "provincial",
+    "module": "changshi",
+    "title": "常识·(不定项选择)关于行政许可，下列说法正确的是：",
+    "stem": "(不定项选择)关于行政许可，下列说法正确的是：",
+    "material": "阅读下列材料，回答下面的题目。\n2006 年 6 月，时某打算成立一家装饰公司，向市某会计事务所申请验资。该会计事务所在未实际验资的情 况下，便出具了一份该拟成立公司“拥有资金人民币 300 万 ”的虚假验资证明。同年 7 月，时某凭这份虚假验资 证明，到工商行政管理部门申请设立××装潢有限公司并获得了营业执照。同年年底，群众向市工商局举报时某 上述违法行为，工商局立案，经过调查取证，认定时某在申请成立公司过程中有虚报注册资本行为，工商局遂依 法作出撤销该公司的工商登记，并吊销了其营业执照。本案中的注册会计师和会计事务所也被有关行政管理机关 给予相应的行政处罚。",
+    "options": [
+      {
+        "key": "A",
+        "text": "行政许可是一种双方行政行为"
+      },
+      {
+        "key": "B",
+        "text": "行政许可是一种授益性行政行为"
+      },
+      {
+        "key": "C",
+        "text": "行政许可是一种要式行政行为"
+      },
+      {
+        "key": "D",
+        "text": "只有法律、行政法规才可设定行政许可"
+      }
+    ],
+    "answer": "BC",
+    "explanation": "第一步，本题考查行政法。\n第二步，以行政行为的内容对相对人产生的影响是否有利为标准，行政行为可分为授益性行政行为与负担性行政 行为。授益性行为是赋予相对人权利或者免除义务的行为，例如颁发许可证、发放抚恤金等；负担性行为是为相 对人设定义务或剥夺权益的行为。行政许可是行政主体赋予行政相对人的一种资格或者权利，属于授益性行政行 为。故 B 项正确。\n以行政行为是否应当具备一定的法定形式为标准，可将行政行为分为要式行政行为与非要式行政行为。要式行政 行为，是指必须具备某种法定形式或遵守法定程序才能成立生效的行政行为。如税务机关对违反税收征收管理规 定的相对方处以罚款，必须依法以书面形式并加盖公章才能有效。非要式行政行为，是指不需一定方式和程序， 无论采取何种形式都可以成立的行政行为，如公安机关对酗酒的人采取强制约束的行为。行政许可能否获得，行 政主体都要出具书面的纸质文件，因而是一种要式行政行为。故 C 项正确。\n因此，选择 BC 选项。 拓展\nA 项： 以行政行为成立时参与意思表示的当事人数目为标准，可将行政行为分为单方行政行为与双方行政行为。 行政许可的获得不需要行政相对人参与意思表示，是行政主体根据行政相对人的申请所作出的认定，是单方行政 行为，故 A 项错误。\nD 项：根据《行政许可法》第 14 条规定，法律可以设定行政许可。尚未制定法律的，行政法规可以设定行政许 可。必要时，国务院可以采用发布决定的方式设定行政许可。实施后，除临时性行政许可事项外，国务院应当及 时提请全国人民代表大会及其常务委员会制定法律，或者自行制定行政法规。故 D 项错误。",
+    "keyPoints": [
+      "第一步，本题考查行政法"
+    ],
+    "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "基础",
+    "source": "2008年上海公务员考试《行测》第55题",
+    "province": "上海",
+    "subModule": "法律",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shanghai-2008-未标注-56",
+    "category": "provincial",
+    "module": "changshi",
+    "title": "常识·(不定项选择)关于本案，下列说法错误的是：",
+    "stem": "(不定项选择)关于本案，下列说法错误的是：",
+    "material": "阅读下列材料，回答下面的题目。\n2006 年 6 月，时某打算成立一家装饰公司，向市某会计事务所申请验资。该会计事务所在未实际验资的情 况下，便出具了一份该拟成立公司“拥有资金人民币 300 万 ”的虚假验资证明。同年 7 月，时某凭这份虚假验资 证明，到工商行政管理部门申请设立××装潢有限公司并获得了营业执照。同年年底，群众向市工商局举报时某 上述违法行为，工商局立案，经过调查取证，认定时某在申请成立公司过程中有虚报注册资本行为，工商局遂依 法作出撤销该公司的工商登记，并吊销了其营业执照。本案中的注册会计师和会计事务所也被有关行政管理机关 给予相应的行政处罚。",
+    "options": [
+      {
+        "key": "A",
+        "text": "时某既可以提起行政诉讼，也可以申请行政复议"
+      },
+      {
+        "key": "B",
+        "text": "行政机关在作出行政处罚决定前，应当告知时某有要求听证的权利"
+      },
+      {
+        "key": "C",
+        "text": "行政机关应当根据听证笔录作出行政处罚决定"
+      },
+      {
+        "key": "D",
+        "text": "本案中，受处罚的注册会计师和会计事务所不再承担其他法律责任"
+      }
+    ],
+    "answer": "CD",
+    "explanation": "第一步，本题考查行政法并选错误项。\n第二步，根据《行政处罚法》第 43 条规定，听证结束后，行政机关依照本法第 38 条的规定，作出决定。第 38 条规定，调查终结，行政机关负责人应当对调查结果进行审查，根据不同情况，分别作出如下决定：（一）确有 应受行政处罚的违法行为的，根据情节轻重及具体情况，作出行政处罚决定；（二）违法行为轻微，依法可以不 予行政处罚的，不予行政处罚；（三）违法事实不能成立的，不得给予行政处罚；（四）违法行为已构成犯罪的， 移送司法机关。对情节复杂或者重大违法行为给予较重的行政处罚，行政机关的负责人应当集体讨论决定。行政 机关不是根据听证笔录作出行政处罚决定，听证笔录对处罚结果只是参照作用。故 C 项说法错误。\n根据《行政处罚法》第 62 条规定，执法人员玩忽职守，对应当予以制止和处罚的违法行为不予制止、处罚，致 使公民、法人或者其他组织的合法权益、公共利益和社会秩序遭受损害的，对直接负责的主管人员和其他直接责 任人员依法给予行政处分；情节严重构成犯罪的，依法追究刑事责任。注册会计师和其所在的会计事务所玩忽职 守，如果构成犯罪，应依法追究其刑事责任，故 D 项说法错误。\n因此，选择 CD 选项。 拓展\nA 项：根据《行政处罚法》第 35 条规定，当事人对当场作出的行政处罚决定不服的，可以依法申请行政复议或 者提起行政诉讼。故 A 项说法正确。\nB 项：根据《行政处罚法》第 42 条规定，行政机关作出责令停产停业、吊销许可证或者执照、较大数额罚款等 行政处罚决定之前，应当告知当事人有要求举行听证的权利；当事人要求听证的，行政机关应当组织听证。工商 局吊销营业执照属于要向当事人告知听证权利的范围，故 B 项说法正确。",
+    "keyPoints": [
+      "第一步，本题考查行政法并选错误项"
+    ],
+    "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "基础",
+    "source": "2008年上海公务员考试《行测》第56题",
+    "province": "上海",
+    "subModule": "法律",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shanghai-2008-未标注-57",
+    "category": "provincial",
+    "module": "changshi",
+    "title": "常识·(不定项选择)该公文的发文字号主要错误在于：",
+    "stem": "(不定项选择)该公文的发文字号主要错误在于：",
+    "material": "阅读下列材料，回答下面的题目。",
+    "options": [
+      {
+        "key": "A",
+        "text": "年份号位置前置"
+      },
+      {
+        "key": "B",
+        "text": "使用年份号时的标点符号应为六角号"
+      },
+      {
+        "key": "C",
+        "text": "机关简称写“ × ×府发字 ”"
+      },
+      {
+        "key": "D",
+        "text": "顺序号应为“第 6 号 ”"
+      }
+    ],
+    "answer": "AB",
+    "explanation": "第一步，本题考查公文。\n第二步，根据《党政机关公文处理工作条例》第 9 条规定， ……（五）发文字号是指发文机关编制的公文代号， 简称文号。发文字号由发文机关代字、发文年度、发文顺序号三部分组成。根据《党政机关公文格式》第 7.2.5 条规定，发文字号编排在发文机关标志下空二行位置，居中排布。年份、发文顺序号用阿拉伯数字标注；年份应 标全称，用六角括号“〔〕”括入；发文顺序号不加“第”字，不编虚位（即 1 不编为 01），在阿拉伯数字后 加“号”字。故发文机关代字在前，中间是年份号，A 项错误，当选。年份、发文顺序号用阿拉伯数字标注；年 份应标全称，用六角括号“〔〕”括入。根据材料可知，年份号并不是用六角括号括入的，B 项错误，当选。发 文顺序号不加“第”字，不编虚位（即 1 不编为 01），在阿拉伯数字后加“号”字。如国务院 1998 年制发的第 12 号文件，发文字号为“国发〔1998〕12 号”。C 项、D 项并不是资料本身的错误，而是选项改错了，故不选。 因此，选择 AB 选项。",
+    "keyPoints": [
+      "第一步，本题考查公文",
+      "发文字号由发文机关代字、发文年度、发文顺序号三部分组成"
+    ],
+    "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "基础",
+    "source": "2008年上海公务员考试《行测》第57题",
+    "province": "上海",
+    "isAbnormal": true,
+    "subModule": "法律",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shanghai-2008-未标注-58",
+    "category": "provincial",
+    "module": "changshi",
+    "title": "常识·(不定项选择)该公文标题存在主要问题有：",
+    "stem": "(不定项选择)该公文标题存在主要问题有：",
+    "material": "阅读下列材料，回答下面的题目。",
+    "options": [
+      {
+        "key": "A",
+        "text": "文种错用"
+      },
+      {
+        "key": "B",
+        "text": "不应加书名号"
+      },
+      {
+        "key": "C",
+        "text": "转发应改为批转"
+      },
+      {
+        "key": "D",
+        "text": "发文机关应为省人民政府办公厅"
+      }
+    ],
+    "answer": "ABC",
+    "explanation": "第一步，本题考查公文。\n第二步，根据《党政机关公文处理工作条例》第 8 条规定， ……（二）决定是指适用于对重要事项作出决策和部 署、奖惩有关单位和人员、变更或者撤销下级机关不适当的决定事项。根据正文第一段可知本文应该是一份批转 性通知，而不是决定，故 A 项错误。在标题中，除批转法规性文件加书名号外，均不对原标题加书名号。故 B 项 错误。批转或转发公文的标题，一般由批转或转发机关名称、被批转或转发的公文标题、文种三部分组成。如《国 务院批转国家土地管理局关于部分地方政府越权批地情况报告的通知》。批转和转发公文的标题，应杜绝出现介\n词和文种的重叠，故 C 项错误。 因此，选择 ABC 选项。",
+    "keyPoints": [
+      "第一步，本题考查公文",
+      "根据正文第一段可知本文应该是一份批转 性通知，而不是决定，故 A 项错误"
+    ],
+    "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "基础",
+    "source": "2008年上海公务员考试《行测》第58题",
+    "province": "上海",
+    "isAbnormal": true,
+    "subModule": "法律",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shanghai-2008-未标注-59",
+    "category": "provincial",
+    "module": "changshi",
+    "title": "常识·(不定项选择)该公文中关于主送单位存在的主要问题有：",
+    "stem": "(不定项选择)该公文中关于主送单位存在的主要问题有：",
+    "material": "阅读下列材料，回答下面的题目。",
+    "options": [
+      {
+        "key": "A",
+        "text": "主送单位不应该顶格"
+      },
+      {
+        "key": "B",
+        "text": "“各市区人民政府、省各有关委办、局 ”的标点符号应用逗号"
+      },
+      {
+        "key": "C",
+        "text": "多头主送"
+      },
+      {
+        "key": "D",
+        "text": "主送单位还应加上“县、乡（镇）人民政府 ”"
+      }
+    ],
+    "answer": "BD",
+    "explanation": "第一步，本题考查公文。\n第二步，根据《党政机关公文格式》第 7.3.2 条规定，主送机关编排于标题下空一行位置，居左顶格。主送机关\n一般使用 3 号仿宋字体。故 A 不选。主送机关名称如果不止一个，一般是在不同的系统和级别之间用逗号，同一 系统的各单位之间用顿号隔开，在最后一个主送机关之后加注冒号。本文主送机关是不同系统的，应该用逗号隔 开，故 B 应选。本文是通知，可以有多个主送机关，故 C 不选。县、乡（镇）人民政府是省政府的下级，也应该 是主送机关，故 D 应选。\n因此，选择 BD 选项。",
+    "keyPoints": [
+      "第一步，本题考查公文",
+      "一般使用 3 号仿宋字体"
+    ],
+    "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "基础",
+    "source": "2008年上海公务员考试《行测》第59题",
+    "province": "上海",
+    "isAbnormal": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shanghai-2008-未标注-60",
+    "category": "provincial",
+    "module": "changshi",
+    "title": "常识·(不定项选择)该公文正文和文尾的不规范之处有：",
+    "stem": "(不定项选择)该公文正文和文尾的不规范之处有：",
+    "material": "阅读下列材料，回答下面的题目。",
+    "options": [
+      {
+        "key": "A",
+        "text": "主题词结构错误"
+      },
+      {
+        "key": "B",
+        "text": "“省劳动保障局等部门要继续加强领导 ”中的“领导 ”应为指导"
+      },
+      {
+        "key": "C",
+        "text": "附件的位置不对"
+      },
+      {
+        "key": "D",
+        "text": "抄报应为抄送"
+      }
+    ],
+    "answer": "ABCD",
+    "explanation": "第一步，本题考查公文。\n第二步，主题词又叫关键词。它是指公文中代表其内容特征的、最能说明问题的、起关键作用的词。（1）一份 文件的标引，除类别词外最多不超过 5 个主题词。主题词标在文件的抄送栏之上，顶格写。（2）标引顺序是先 标类别词，再标类属词。在标类属词时，先标反映文件内容的词，最后标反映文件形式的词。如《国务院关于加 强水土保持工作的通知》， 先标类别词“农业”，再标类属词“水土保持”，最后标上“通知”。（3）批转、 转发的公文最后标引的文种应是被转公文的文种。（4）各主题词之间要空一个字格的距离。本公文的主题词应 为“民政社会保障报告”。A 应选。\n领导适用于具有直接隶属关系的单位，“指导”适用于不具有隶属关系的单位之间。本公文的主送机关中既有隶 属关系的单位也有不相隶属的机关，用“指导”更恰当，B 应选。\n根据《党政机关公文格式》第 7.3.7 条规定，附件应当另面编排，并在版记之前，与公文正文一起装订。故公文 如有附件，应当在正文之后、成文时间之前注明附件顺序和名称,在正文下空 1 行左空 2 字用 3 号仿宋体字标识 “附件”，后标全角冒号和名称。C 应选。\n抄报、抄送单位是指协助承办或需要了解公文内容的有关单位。上行文列为抄报，平行、下行文列为抄送。本文 是下行文，D 应选。\n因此，选择 ABCD 选项。",
+    "keyPoints": [
+      "第一步，本题考查公文",
+      "第二步，主题词又叫关键词",
+      "它是指公文中代表其内容特征的、最能说明问题的、起关键作用的词"
+    ],
+    "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "基础",
+    "source": "2008年上海公务员考试《行测》第60题",
+    "province": "上海",
+    "isAbnormal": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shanghai-2009-未标注-1",
+    "category": "provincial",
+    "module": "changshi",
+    "title": "常识·(不定项选择)科学发展观，是马克思主义关于发展的世界观和…",
+    "stem": "(不定项选择)科学发展观，是马克思主义关于发展的世界观和方法论的集中体现，是同马克思列宁主义、毛 泽东思想、邓小平理论和“三个代表 ”重要思想既一脉相承又与时俱进的科学理论，是我国经济社会发展的重要 指导方针，是发展中国特色社会主义必须坚持和贯彻的重大战略思想。科学发展观的核心是：",
+    "options": [
+      {
+        "key": "A",
+        "text": "发展"
+      },
+      {
+        "key": "B",
+        "text": "全面、协调、可持续"
+      },
+      {
+        "key": "C",
+        "text": "以人为本"
+      },
+      {
+        "key": "D",
+        "text": "改革创新"
+      }
+    ],
+    "answer": "C",
+    "explanation": "第一步，本题考查科学发展观。\n第二步，十七大报告中提出，科学发展观第一要义是发展，核心是以人为本，基本要求是全面协调可持续性，根 本方法是统筹兼顾。由此可知，科学发展观的核心是以人为本。\n因此，选择 C 选项。 拓展\nA 项：十七大报告指出，必须坚持把发展作为党执政兴国的第一要务。发展，对于全面建设小康社会、加快推进 社会主义现代化，具有决定性意义。要牢牢扭住经济建设这个中心，坚持聚精会神搞建设、一心一意谋发展，不 断解放和发展社会生产力。\nB 项：十七大报告指出，必须坚持全面协调可持续发展。要按照中国特色社会主义事业总体布局，全面推进经济 建设、政治建设、文化建设、社会建设，促进现代化建设各个环节、各个方面相协调，促进生产关系与生产力、 上层建筑与经济基础相协调。坚持生产发展、生活富裕、生态良好的文明发展道路，建设资源节约型、环境友好 型社会，实现速度和结构质量效益相统一、经济发展与人口资源环境相协调，使人民在良好生态环境中生产生活， 实现经济社会永续发展。\nC 项： 以人为本是党的十六大以来党中央突出强调的一个重要思想和基本要求。它之所以是科学发展观的核心， 主要有以下三方面原因∶第一，以人为本是历史唯物主义的一项基本原则；第二，以人为本是我们党的根本宗旨 和执政理念的集中体现；第三，以人为本全面回答了科学发展观的一系列基本问题。为谁发展、靠谁发展、发展 成果如何分配，这是任何一种发展观都必须回答和解决的基本问题。\nD 项：十七大报告指出，中国特色社会主义事业是改革创新的事业。党要站在时代前列带领人民不断开创事业发 展新局面，必须以改革创新精神加强自身建设，始终成为中国特色社会主义事业的坚强领导核心。",
+    "keyPoints": [
+      "第一步，本题考查科学发展观",
+      "由此可知，科学发展观的核心是以人为本"
+    ],
+    "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "基础",
+    "source": "2009年上海公务员考试《行测》第1题",
+    "province": "上海",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shanghai-2009-未标注-2",
+    "category": "provincial",
+    "module": "changshi",
+    "title": "常识·(不定项选择)2008 年 3 月 18 日，新一届政府…",
+    "stem": "(不定项选择)2008 年 3 月 18 日，新一届政府总理温家宝和四位副总理第一次在中外媒体的关注中集体亮相。 温总理在答记者问时指出，如果说真理是思想体系的首要价值，那么：",
+    "options": [
+      {
+        "key": "A",
+        "text": "维护稳定就是社会主义国家制度的首要价值"
+      },
+      {
+        "key": "B",
+        "text": "公平正义就是社会主义国家制度的首要价值"
+      },
+      {
+        "key": "C",
+        "text": "发展经济就是社会主义国家制度的首要价值"
+      },
+      {
+        "key": "D",
+        "text": "为民服务就是社会主义国家制度的首要价值"
+      }
+    ],
+    "answer": "B",
+    "explanation": "第一步，本题考查时政。\n第二步，温家宝总理在记者会上指出，我们要推进社会的公平正义。如果说真理是思想体系的首要价值，那么公 平正义就是社会主义国家制度的首要价值。温家宝强调，公平正义就是要尊重每一个人，维护每一个人的合法权 益，在自由平等的条件下，为每一个人创造全面发展的机会。如果说发展经济、改善民生是政府的天职，那么推\n动社会公平正义就是政府的良心。 因此，选择 B 选项。",
+    "keyPoints": [
+      "第一步，本题考查时政",
+      "第二步，温家宝总理在记者会上指出，我们要推进社会的公平正义",
+      "如果说真理是思想体系的首要价值，那么公 平正义就是社会主义国家制度的首要价值"
+    ],
+    "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "基础",
+    "source": "2009年上海公务员考试《行测》第2题",
+    "province": "上海",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shanghai-2009-未标注-3",
+    "category": "provincial",
+    "module": "changshi",
+    "title": "常识·(不定项选择)政治是经济的集中表现，其基本涵义是：",
+    "stem": "(不定项选择)政治是经济的集中表现，其基本涵义是：",
+    "options": [
+      {
+        "key": "A",
+        "text": "解决政治问题是解决经济问题的前提"
+      },
+      {
+        "key": "B",
+        "text": "政治活动的最终目的是为了实现统治阶级的根本经济利益"
+      },
+      {
+        "key": "C",
+        "text": "经济关系是随着政治关系的变化而变化的"
+      },
+      {
+        "key": "D",
+        "text": "一切政治活动都是围绕着经济问题而展开的"
+      }
+    ],
+    "answer": "B",
+    "explanation": "第一步，本题考查哲学。\n第二步，政治体现了经济发展的客观要求，反映了经济活动中各个阶级、阶层和社会集团的经济利益。经济利益 的得失是最根本的利害关系，任何阶级和社会集团的政治活动，归根到底是为了实现和维护本阶级、本集团的根 本经济利益。所以政治活动的最终目的是为了实现统治阶级的根本经济利益。B 项说法正确。\n因此，选择 B 选项。 拓展\n经济基础即社会的经济结构，是指一定社会中占统治地位的生产关系各方面的总和。经济基础是同物质生产力一 定发展阶段相适应的占统治地位的生产关系各方面的总和。上层建筑是指建立在一定经济基础之上的社会意识形 态以及相应的政治法律制度、组织和设施的总和。包括政治上层建筑和思想上层建筑。经济基础决定上层建筑主 要表现在：首先，有什么样的经济基础就有什么样的上层建筑，经济基础决定上层建筑的基本内容和性质。其次， 经济基础的变化决定上层建筑的变化和发展方向。上层建筑对于经济基础的反作用有两种情况：一种是促进经济 基础的发展，当上层建筑为先进的经济基础服务时，它就成为促进生产力发展，推动社会前进的进步力量；一种 是阻碍经济基础的发展，当它为落后的经济基础服务时，它就成为阻碍生产力发展，阻碍社会前进的落后的力量。 A 项：政治属于上层建筑，它根源于经济， 由经济基础决定。所以解决经济问题是解决政治问题的前提。故 A 项 说法错误。\nC 项：经济基础决定上层建筑，政治作为上层建筑，它是随着经济关系的的变化而变化的。故 C 项说法错误。\nD 项：政治的核心问题是国家政权问题。如果不能掌握国家政权，就不可能维护阶级统治和实现阶级利益，因此， 在阶级社会中。一切政治斗争都是围绕着夺取和维护国家政权问题，而不是围绕着经济问题展开的。故 D 项说法 错误。",
+    "keyPoints": [
+      "第一步，本题考查哲学"
+    ],
+    "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "基础",
+    "source": "2009年上海公务员考试《行测》第3题",
+    "province": "上海",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shanghai-2009-未标注-4",
+    "category": "provincial",
+    "module": "changshi",
+    "title": "常识·(不定项选择)2007 年 12 月 12 日，中共中央…",
+    "stem": "(不定项选择)2007 年 12 月 12 日，中共中央、国务院和中央军委在人民大会堂举行大会，隆重庆祝我国首次 月球探测工程圆满成功。我国首次月球探测工程的成功，标志着我国已经进入世界具有（ ）能力的国家行列。",
+    "options": [
+      {
+        "key": "A",
+        "text": "深空行走"
+      },
+      {
+        "key": "B",
+        "text": "近地探测"
+      },
+      {
+        "key": "C",
+        "text": "深空探测"
+      },
+      {
+        "key": "D",
+        "text": "近地行走"
+      }
+    ],
+    "answer": "C",
+    "explanation": "第一步，本题考查探月工程。\n第二步，中共中央、国务院和中央军委 2007 年 12 月 12 日上午在人民大会堂举行大会，隆重庆祝我国首次月球 探测工程圆满成功。胡锦涛同志发表重要讲话时指出，我国首次月球探测工程的成功，是继人造地球卫星、载人 航天飞行取得成功之后我国航天事业发展的又一座里程碑，实现了中华民族的千年奔月梦想，开启了中国人走向 深空探索宇宙奥秘的时代，标志着我国已经进入世界具有深空探测能力的国家行列。\n因此，选择 C 选项。\n拓展\n深空探测是指脱离地球引力场，进入太阳系空间和宇宙空间的探测。根据 2000 年发布的《中国的航天》白皮书 中的定义，国内目前将对地球以外天体开展的空间探测活动称为深空探测。嫦娥一号卫星首次绕月探测的圆满成 功，树立了中国航天的第三个里程碑，突破并掌握一大批具有自主知识产权的核心技术和关键技术，使我国成为 世界上为数不多的具有深空探测能力的国家。",
+    "keyPoints": [
+      "第一步，本题考查探月工程"
+    ],
+    "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "基础",
+    "source": "2009年上海公务员考试《行测》第4题",
+    "province": "上海",
+    "subModule": "科技",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shanghai-2009-未标注-5",
+    "category": "provincial",
+    "module": "changshi",
+    "title": "常识·(不定项选择)2008 年 12 月 8 日召开的中央经…",
+    "stem": "(不定项选择)2008 年 12 月 8 日召开的中央经济工作会议指出，经过改革开放 30 年的持续快速发展，我国形 成的强大经济实力和综合国力，充分证明了中国特色社会主义道路的正确性。会议全面深刻分析了当前国际国内 经济形势，明确了 2009 年经济工作的总体要求和重点任务，具体部署了 2009 年经济工作，提出把（ ）作为 明年经济工作的首要任务。",
+    "options": [
+      {
+        "key": "A",
+        "text": "加快发展方式转变和结构调整，提高可持续发展能力"
+      },
+      {
+        "key": "B",
+        "text": "深化重点领域和关键环节改革"
+      },
+      {
+        "key": "C",
+        "text": "实施积极的财政政策和适度宽松的货币政策"
+      },
+      {
+        "key": "D",
+        "text": "保持经济平稳较快发展"
+      }
+    ],
+    "answer": "D",
+    "explanation": "第一步，本题考查时政。\n第二步，2008 年中央经济工作会议指出，必须把保持经济平稳较快发展作为明年经济工作的首要任务。\n因此，选择 D 选项。\n拓展\n2008 年中央经济工作会议指出，要着力在保增长上下工夫，把扩大内需作为保增长的根本途径，把加快发展方 式转变和结构调整作为保增长的主攻方向，把深化重点领域和关键环节改革、提高对外开放水平作为保增长的强 大动力，把改善民生作为保增长的出发点和落脚点。",
+    "keyPoints": [
+      "第一步，本题考查时政",
+      "因此，选择 D 选项"
+    ],
+    "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "基础",
+    "source": "2009年上海公务员考试《行测》第5题",
+    "province": "上海",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shanghai-2009-未标注-6",
+    "category": "provincial",
+    "module": "changshi",
+    "title": "常识·(不定项选择)2008 年 5 月 6 日至 10 日，…",
+    "stem": "(不定项选择)2008 年 5 月 6 日至 10 日，国家主席胡锦涛对日本进行国事访问，这一“暖春之旅 ”中诞生的 中日第四份政治文件全称为：",
+    "options": [
+      {
+        "key": "A",
+        "text": "《中日联合声明》"
+      },
+      {
+        "key": "B",
+        "text": "《中日和平友好条约》"
+      },
+      {
+        "key": "C",
+        "text": "《中日联合宣言》"
+      },
+      {
+        "key": "D",
+        "text": "《中日关于全面推进战略互惠关系的联合声明》"
+      }
+    ],
+    "answer": "D",
+    "explanation": "第一步，本题考查时政。\n第二步，“中日战略互惠关系”最早由日本首相安倍晋三 2006 年访华时提出。2008 年 5 月 7 日，中华人民共和 国国家主席胡锦涛和日本内阁总理大臣福田康夫在东京签署了《中日关于全面推进战略互惠关系的联合声明》。 该声明作为中日之间的第四个政治文件，与 1972 年邦交正常化联合声明、1978 年和平友好条约及 1998 年联合 宣言共同构成中日关系的政治基础，是在新的历史条件和国际形势下指导中日关系发展的原则方针。\n因此，选择 D 选项。 拓展\nA 项：《中日联合声明》全称为《中华人民共和国政府和日本国政府联合声明》， 又称《中日建交公报》， 是 1972 年 9 月 29 日中日邦交正常化时，两国政府签署的一份联合声明。它是中日之间第一份政治文件。\nB 项：1978 年 8 月 12 日，《中华人民共和国和日本国和平友好条约》在北京正式签署。条约简称《中日和平友 好条约》或“中日友好条约”。这是继 1972 年 9 月中日联合声明发表、中日两国邦交正常化公报以来两国关系 史上又一新的里程碑，也是中日之间第二份政治文件。\nC 项：《中日联合宣言》是指 1998 年中华人民共和国主席江泽民与日本首相小渊惠三达成的就国际形势、地区 问题和中日关系的一系列宣言。这是中日之间第三份政治文件。",
+    "keyPoints": [
+      "第一步，本题考查时政",
+      "第二步，“中日战略互惠关系”最早由日本首相安倍晋三 2006 年访华时提出"
+    ],
+    "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "基础",
+    "source": "2009年上海公务员考试《行测》第6题",
+    "province": "上海",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shanghai-2009-未标注-7",
+    "category": "provincial",
+    "module": "changshi",
+    "title": "常识·(不定项选择)台湾自古即属于中国。大量的史书和文献记载了…",
+    "stem": "(不定项选择)台湾自古即属于中国。大量的史书和文献记载了中国人民早期开发台湾的情景。距今 l700 多年\n以前，三国时吴人沈莹的（ ）就对此有所著述。",
+    "options": [
+      {
+        "key": "A",
+        "text": "《东番记》"
+      },
+      {
+        "key": "B",
+        "text": "《诸番志》"
+      },
+      {
+        "key": "C",
+        "text": "《岛夷志略》"
+      },
+      {
+        "key": "D",
+        "text": "《临海水土志》"
+      }
+    ],
+    "answer": "D",
+    "explanation": "第一步，本题考查中国史。\n第二步，距今 1700 多年以前，三国时吴人沈莹的《临海水土志》是世界上最早记录台湾的文献之一。沈莹是三 国东吴临海郡太守，在他的《临海水土志》对当时被称为“夷洲”的台湾情况有着专门记载。\n因此，选择 D 选项。 拓展\nA 项：《东番记》著作于 1603 年，为中国明朝儒生陈第所作。他曾经在台湾岛上生活过一段时间。之后，他根 据居住台湾将近一年的经验作成《东番记》。《东番记》全文一千四百余字，记述台湾西部沿岸的原住民生活习 俗与地理风光，为最早描绘台湾平埔族生活的著作。由此可知，A 项与题意不符。\nB 项：《诸蕃志》， 宋代海外地理名著，赵汝适著。《诸蕃志》成书于宋理宗宝庆元年（1225 年），分上、下两 卷。记载了东自日本、西至东非索马里、北非摩洛哥及地中海东岸诸国的风土物产及自中国沿海至海外各国的航 线里程及所达航期。由此可知，B 项与题意不符。\nC 项：《岛夷志略》， 原作《岛夷志》， 元代民间航海家汪大渊所著记述海外诸国见闻的著作。共一卷，一百余 篇纪略，涉及东西两洋周边两百多个国家和地区，是研究古代亚非等地区历史地理的重要著作。由此可知，C 项 与题意不符。",
+    "keyPoints": [
+      "第一步，本题考查中国史"
+    ],
+    "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "基础",
+    "source": "2009年上海公务员考试《行测》第7题",
+    "province": "上海",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shanghai-2009-未标注-8",
+    "category": "provincial",
+    "module": "changshi",
+    "title": "常识·(不定项选择)党的第十七届中央委员会第三次全体会议对当前…",
+    "stem": "(不定项选择)党的第十七届中央委员会第三次全体会议对当前和今后一个时期推进农村改革作出部署，强调 要：",
+    "options": [
+      {
+        "key": "A",
+        "text": "大力推进改革创新，加强农村制度建设"
+      },
+      {
+        "key": "B",
+        "text": "改善农村医疗条件，提高农民健康水平"
+      },
+      {
+        "key": "C",
+        "text": "积极发展现代农业，提高农业综合生产能力"
+      },
+      {
+        "key": "D",
+        "text": "加快发展农村公共事业，促进农村社会全面进步"
+      }
+    ],
+    "answer": "ACD",
+    "explanation": "第一步，本题考查时政。\n第二步，2008 年 10 月 9 日至 12 日,中国共产党第十七届中央委员会第三次全体会议在北京召开。会议听取和讨 论了胡锦涛受中央政治局委托作的工作报告，审议通过了《中共中央关于推进农村改革发展若干重大问题的决 定》。《决定》包括六个部分，即：（一）新形势下推进农村改革发展的重大意义；（二）推进农村改革发展的 指导思想、目标任务、重大原则；（三）大力推进改革创新，加强农村制度建设；（四）积极发展现代农业，提 高农业综合生产能力；（五）加快发展农村公共事业，促进农村社会全面进步；（六）加强和改善党的领导，为 推进农村改革发展提供坚强政治保证。而 B 项改善医疗条件，提高农民健康水平没有在文件中提及。由此可知， 本题应选 A、C、D 三项。\n因此，选择 ACD 选项。",
+    "keyPoints": [
+      "第一步，本题考查时政"
+    ],
+    "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "基础",
+    "source": "2009年上海公务员考试《行测》第8题",
+    "province": "上海",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shanghai-2009-未标注-9",
+    "category": "provincial",
+    "module": "changshi",
+    "title": "常识·(不定项选择)当前一场震惊世界的金融风暴正席卷而来，全球…",
+    "stem": "(不定项选择)当前一场震惊世界的金融风暴正席卷而来，全球正面临着金融危机的冲击，波及范围之广、冲 击力度之强、连锁效应之快都是前所未有的。全球金融危机不断加剧并蔓延，已经逐渐波及到世界实体经济的发 展，全球正面临着经济衰退的严重威胁，给世界各国经济发展和人民生活带来严重影响，引起了世界各国政府和 人民的忧虑。2008 年金融危机的起因是：",
+    "options": [
+      {
+        "key": "A",
+        "text": "生产过剩与需求不足"
+      },
+      {
+        "key": "B",
+        "text": "全球股市暴跌"
+      },
+      {
+        "key": "C",
+        "text": "美国雷曼兄弟公司的倒闭"
+      },
+      {
+        "key": "D",
+        "text": "美国次贷危机"
+      }
+    ],
+    "answer": "D",
+    "explanation": "第一步，本题考查经济危机。\n第二步，2007 年－2009 年环球金融危机，又称次贷危机。它是指一场发生在美国，因次级抵押贷款机构破产、 投资基金被迫关闭、股市剧烈震荡引起的风暴。所以，2008 年金融危机的起因是美国次贷危机。\n因此，选择 D 选项。 拓展\nA 项：2008 年由次贷危机引发的这次经济危机，最根本的原因是美国的金融秩序与金融发展、金融创新失衡，且 政府的金融监管措施不到位，究其根源都是资本主义的基本矛盾，即生产社会化与生产资料私有在资源配置效率 上的不协调所引起的经济问题。所以，A 项生产过剩与需求不足是金融危机的深层原因，不是起因。故 A 项说法 与题意不符。\nB 项：起源于美国的次贷危机波及全球，全球金融体系受到重大影响，危机冲击实体经济。其中，全球股市暴跌 是其影响之一，而非起因。故 B 项与题意不符。\nC 项：2008 年 9 月 15 日，在次贷危机加剧的形势下，美国投资银行雷曼兄弟公司在经营了 158 年之后，宣布申 请破产保护，给它的股东带来了巨大的损失。但雷曼兄弟公司的倒闭只是金融危机的一个导火索，而非实际原因。 故 C 项与题意不符。",
+    "keyPoints": [
+      "第一步，本题考查经济危机",
+      "第二步，2007 年－2009 年环球金融危机，又称次贷危机"
+    ],
+    "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "基础",
+    "source": "2009年上海公务员考试《行测》第9题",
+    "province": "上海",
+    "subModule": "经济管理",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shanghai-2009-未标注-10",
+    "category": "provincial",
+    "module": "changshi",
+    "title": "常识·(不定项选择)实现“ 四个率先 ”，是中央对上海的要求，…",
+    "stem": "(不定项选择)实现“ 四个率先 ”，是中央对上海的要求，是上海加快建设“ 四个中心 ”的必经之途。加快推 进“ 四个率先 ”，是全面落实科学发展观，建设“ 四个中心 ”和现代化国际大都市的根本保证，是各项工作的总\n纲，我们必须把握这一主线，使上海的经济社会发展再上一个新台阶。这里提到的“ 四个率先 ”是指：",
+    "options": [
+      {
+        "key": "A",
+        "text": "率先转变经济增长方式、率先推进体制改革、率先提高自主创新能力、率先推进社会事业发展"
+      },
+      {
+        "key": "B",
+        "text": "率先转变经济增长方式、率先提高自主创新能力、率先推进改革开放、率先构建社会主义和谐社会"
+      },
+      {
+        "key": "C",
+        "text": "率先推进改革开放、率先改变经济运行环境、率先推进社会事业发展、率先实现小康目标"
+      },
+      {
+        "key": "D",
+        "text": "率先推进改革开放、率先提高国际竞争力、率先实现区域经济协调发展、率先构建社会主义和谐社会"
+      }
+    ],
+    "answer": "B",
+    "explanation": "第一步，本题考查时政。\n第二步，“四个率先”，是胡锦涛同志在参加十届全国人大四次会议上海代表团的审议时，对上海提出的要求和 期望。具体内容是∶希望上海率先转变经济增长方式，把经济社会发展切实转入科学发展轨道；率先提高自主创 新能力，为全面建设小康社会提供强有力的科技支撑；率先推进改革开放，继续当好全国改革开放的排头兵；率 先构建社会主义和谐社会，切实保证社会主义现代化建设顺利进行。\n因此，选择 B 选项。",
+    "keyPoints": [
+      "第一步，本题考查时政"
+    ],
+    "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "基础",
+    "source": "2009年上海公务员考试《行测》第10题",
+    "province": "上海",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shanghai-2009-未标注-11",
+    "category": "provincial",
+    "module": "changshi",
+    "title": "常识·(不定项选择)2008 年 5 月 12 日汶川大地震使…",
+    "stem": "(不定项选择)2008 年 5 月 12 日汶川大地震使部分群众失去了家庭，成为孤儿、孤老、孤残人员，关于“三 孤 ”人员的救助安置工作，国务院于 5 月 19 日决定，3 个月内，为每人每月提供 600 元基本生活费。这部分公 共支出属于：",
+    "options": [
+      {
+        "key": "A",
+        "text": "公共消费支出"
+      },
+      {
+        "key": "B",
+        "text": "公共投资支出"
+      },
+      {
+        "key": "C",
+        "text": "公共转移性支出"
+      },
+      {
+        "key": "D",
+        "text": "公共预防性支出"
+      }
+    ],
+    "answer": "C",
+    "explanation": "第一步，本题考查公共支出。\n第二步，公共支出是西方学者对资本主义国家财政支出的称谓。西方学者认为，公共支出既可定义为在公共部门 控制下的一切支出；也可单指以政府税收或借款作为资金来源的那部分支出。其中，公共转移性支出直接表现为\n政府资金的无偿的单方面的转移，包括各种财政补贴、补助、养老金、失业救济金、债务利息等。其最重要的内 容是社会保障支出和财政补贴，且后者与公共事业产品的生产和提供直接相关。本题中政府对“三孤”人员的救 助安置是社会保障措施的一种，属于公共转移性支出。\n因此，选择 C 选项。 拓展\nA 项：公共消费性支出指满足纯社会共同需要的非生产性的消耗支出，它的使用并不构成任何资产。在国家行政 支出项目中，属于社会消费性支出的有行政管理费、国防费、文教科学卫生事业费，还有工交商农等部门的事业 费等。由此可知，救助“三孤”人员不属于公共消费支出。\nB 项：公共投资支出指在政府财政支出项目中具有投资性质的支出，如修建公共设施、经营公用事业、主持公共 工程等方面的支出，例如我国投资建设高速铁路项目。由此可知，救助“三孤”人员不属于公共投资支出。\nD 项：公共预防性支出是指用于维护社会秩序安定和保卫国家安全的支出，主要包括国防、警察、法院、监狱与 政府行政部门的支出。由此可知，救助“三孤”人员不属于公共预防性支出。",
+    "keyPoints": [
+      "第一步，本题考查公共支出",
+      "第二步，公共支出是西方学者对资本主义国家财政支出的称谓"
+    ],
+    "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "基础",
+    "source": "2009年上海公务员考试《行测》第11题",
+    "province": "上海",
+    "subModule": "经济管理",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shanghai-2009-未标注-12",
+    "category": "provincial",
+    "module": "changshi",
+    "title": "常识·(不定项选择)公共行政伦理是国家行政机关及其行政人员，在…",
+    "stem": "(不定项选择)公共行政伦理是国家行政机关及其行政人员，在行使公共权力、管理公共事务、提供公共服务 的过程中，所必须遵循的：",
+    "options": [
+      {
+        "key": "A",
+        "text": "行政范围"
+      },
+      {
+        "key": "B",
+        "text": "行为规范"
+      },
+      {
+        "key": "C",
+        "text": "道德规范"
+      },
+      {
+        "key": "D",
+        "text": "能力规范"
+      }
+    ],
+    "answer": "C",
+    "explanation": "第一步，本题考查管理。\n第二步，公共行政伦理是指调控政府及公职人员行政行为的伦理意识和伦理规则的总和，指人们关于行政过程是 非对错的判断过程以及判断的理由，这主要涉及行政主体行动的正当性与合理性，亦即领导、决策、指挥、执行、 协调和控制等行政活动的合法性问题，它既包括公务人员个体在日常行政工作中体现出的道德观念、道德活动与 道德规范，也包括行政主体作为群体在行政活动中应遵循的价值规范。简言之，行政伦理是公务员个体道德规范\n和行政机关群体价值规范的综合体，它是道德价值规范，而不是具体的行为能力规范。 因此，选择 C 选项。",
+    "keyPoints": [
+      "第一步，本题考查管理",
+      "简言之，行政伦理是公务员个体道德规范"
+    ],
+    "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "基础",
+    "source": "2009年上海公务员考试《行测》第12题",
+    "province": "上海",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shanghai-2009-未标注-13",
+    "category": "provincial",
+    "module": "changshi",
+    "title": "常识·(不定项选择)2008 年 3 月，第十一届全国人民代表…",
+    "stem": "(不定项选择)2008 年 3 月，第十一届全国人民代表大会第一次会议通过了国务院机构改革方案，根据新的\n国务院机构改革方案，国务院将新组建人力资源和社会保障部、（ ）等部门。",
+    "options": [
+      {
+        "key": "A",
+        "text": "工业和信息化部"
+      },
+      {
+        "key": "B",
+        "text": "交通运输部"
+      },
+      {
+        "key": "C",
+        "text": "环境保护部"
+      },
+      {
+        "key": "D",
+        "text": "城乡建设部"
+      }
+    ],
+    "answer": "ABCD",
+    "explanation": "第一步，本题考查时政。\n第二步，根据 2008 年 3 月 11 日公布的国务院机构改革方案，国务院将新组建工业和信息化部、交通运输部、人 力资源和社会保障部、环境保护部、住房和城乡建设部。改革后，除国务院办公厅外，国务院组成部门设置 27 个。\n因此，选择 ABCD 选项。 拓展\nA 项：中华人民共和国工业和信息化部，是根据 2008 年 3 月 11 日公布的国务院机构改革方案，组建的国务院直 属部门。其主要职责为：拟订实施行业规划、产业政策和标准；监测工业行业日常运行；推动重大技术装备发展 和自主创新；管理通信业；指导推进信息化建设；协调维护国家信息安全等。\nB 项：中华人民共和国交通运输部交通运输部是根据 2008 年国务院机构改革方案，在原交通部的基础上组建的， 国家民用航空局、国家邮政局等部门均在此次“大部制”改革中划归交通运输部管理。\nC 项：中华人民共和国环境保护部是 2008 年设立的正部级部门，为国务院组成部门。其主要职责是：负责制定 环境保护的方针、政策和规定，审定全国环境保护规划，组织协调和督促检查各地区、各部门的环境保护工作。 D 项：城乡建设部全称为中华人民共和国住房和城乡建设部，是 2008 年国务院机构改革中新组建的部门。其主 要职责和任务：对建筑业实行行业管理，协调和规划城乡住房开发和市政建设；统一管理建筑工程勘察设计、建 筑施工和标准定额；归口管理房地产的开发经营，拟订实施有关方针政策、法规、条例等。",
+    "keyPoints": [
+      "第一步，本题考查时政",
+      "改革后，除国务院办公厅外，国务院组成部门设置 27 个"
+    ],
+    "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "基础",
+    "source": "2009年上海公务员考试《行测》第13题",
+    "province": "上海",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shanghai-2009-未标注-14",
+    "category": "provincial",
+    "module": "changshi",
+    "title": "常识·(不定项选择)行政生态学主要是分析社会环境因素与公共行政…",
+    "stem": "(不定项选择)行政生态学主要是分析社会环境因素与公共行政之间的相互影响，认为处于不同发展阶段的社 会有其相对应的行政管理模式。下列关于这种理论的说法中，正确的是：",
+    "options": [
+      {
+        "key": "A",
+        "text": "传统农业社会的社会结构缺乏高度的分工和专业化，与之相适应的行政系统是一种“衍射型 ”行政模式"
+      },
+      {
+        "key": "B",
+        "text": "工业社会的社会结构具有高度的分工和专业化，与之相适应的行政系统是一种“衍射型 ”行政模式"
+      },
+      {
+        "key": "C",
+        "text": "工业社会的社会结构具有高度的分工和合作性，与之相适应的行政系统是一种“衍射型 ”行政模式"
+      },
+      {
+        "key": "D",
+        "text": "传统农业社会的社会结构具有混沌未开的性质，与之相适应的行政系统是一种“衍射型 ”行政模式"
+      }
+    ],
+    "answer": "B",
+    "explanation": "第一步，本题考查管理。\n第二步，美国著名行政学者雷格斯认为：当今各国社会有三种存在形态，即农业社会、工业社会以及处于二者之 间的一个“过渡型”社会形态。与三种不同社会环境相适应的是三种不同的行政模式，即著名的“融合—棱柱— 衍射的行政模型”。里格斯认为，传统的农业社会的社会结构是混沌未分的，没有明确的、细致的社会分工与之 相适应,行政行为与诸如立法、司法、军事、经济等其他的社会行为是混杂在一起的，所以农业社会是融合型行 政模式。因此 A、D 说法错误。其次是工业社会的衍射型行政模式。里格斯认为，整个社会有着明确的、细致的 分工，所以政府职能也是十分明确的，有着分工极细的行政机构，执行着各不相同的行政职能，各个行政部门各 司其职，互不混杂,讲求的是行政效率与科学性。所以，工业社会是衍射型行政模式。政府职能明确，各部门之 间各司其职，所以其社会结构具有高度的分工和专业化。故 B 项说法正确，C 项说法不当。\n因此，选择 B 选项。\n拓展\n农业社会的行政模式——融合型行政模式的特点有：（1）以农业生产力为经济基础；（2）土地的分配与管理是 政府的最重要事务；（3）官僚的职位重于行政政策；（4）家族与亲族主义的行政风范；（5）世卿世禄制度；\n（6）政治与行政不分，权力来源于君主，行政官吏在政治经济上都是特权阶层；（7）政府与民众沟通少，同一 阶级间交往也受空间限制；（8）行政活动以地域或土地为基础，行政的主要问题是维持行政的一致和统一。\n工业社会的行政模式——衍射型行政模式的特点有：（1） 自由经济或前苏联式的管制经济为经济基础；（2）民 众与政府关系密切，有影响政府决策的渠道；（3）平等主义的行政风范，成就导向与对事不对人的原则；（4） 高度的社会流动，发达的沟通渠道；（5）政府职能明确，各行政机构分工精细，各司其职，讲求行政效率与科 学性；（6）行政的主要问题是谋求专业化基础上的协调与统一。",
+    "keyPoints": [
+      "第一步，本题考查管理"
+    ],
+    "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "基础",
+    "source": "2009年上海公务员考试《行测》第14题",
+    "province": "上海",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shanghai-2009-未标注-15",
+    "category": "provincial",
+    "module": "changshi",
+    "title": "常识·(不定项选择)人们在写信时常常在信的结尾上写“此致 ”、…",
+    "stem": "(不定项选择)人们在写信时常常在信的结尾上写“此致 ”、“敬礼 ”，“此致 ”在这里表示的意思是：",
+    "options": [
+      {
+        "key": "A",
+        "text": "此时"
+      },
+      {
+        "key": "B",
+        "text": "奉上"
+      },
+      {
+        "key": "C",
+        "text": "到此为止"
+      },
+      {
+        "key": "D",
+        "text": "在此"
+      }
+    ],
+    "answer": "C",
+    "explanation": "第一步，本题考查传统民俗。\n第二步，“此致”是从古文传承下来的一种用法。这里的“此”不是指后面的“敬礼”，而是指前面所写的内容， 其作用在于概指前文。而“致”字在这里的意思是“尽”、“结束”，“此”、“致”连用，表达的意思是“我 要说的事情到这里已经说完了”。\n因此，选择 C 选项。",
+    "keyPoints": [
+      "第一步，本题考查传统民俗",
+      "第二步，“此致”是从古文传承下来的一种用法",
+      "这里的“此”不是指后面的“敬礼”，而是指前面所写的内容， 其作用在于概指前文"
+    ],
+    "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "基础",
+    "source": "2009年上海公务员考试《行测》第15题",
+    "province": "上海",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shanghai-2009-未标注-16",
+    "category": "provincial",
+    "module": "changshi",
+    "title": "常识·(不定项选择)公共产品的提供和消费往往伴随着免费搭车现象…",
+    "stem": "(不定项选择)公共产品的提供和消费往往伴随着免费搭车现象。下列成语故事中，存在免费搭车行为的是：",
+    "options": [
+      {
+        "key": "A",
+        "text": "滥竽充数"
+      },
+      {
+        "key": "B",
+        "text": "刻舟求剑"
+      },
+      {
+        "key": "C",
+        "text": "掩耳盗铃"
+      },
+      {
+        "key": "D",
+        "text": "守株待兔"
+      }
+    ],
+    "answer": "A",
+    "explanation": "第一步，本题考查管理。\n第二步，免费搭车是指不承担任何成本而消费或使用公共物品的行为，有这种行为的人或具有让别人付钱而自己 享受共用品收益动机的人称为免费搭车者。滥竽充数是春秋战国时期的历史典故，故事的主人公南郭先生不会吹 竽，混在乐队之中假装吹竽，从而获取齐宣王的奖赏。比喻没有真才实学的人混在内行人之中，以次充好。“滥 竽充数”现象属于免费搭车行为。\n因此，选择 A 选项。\n拓展\nB 项： “刻舟求剑”讽刺的是那种办事愚蠢、不知事物会变化的人。与免费搭车的定义不符。\nC 项：“掩耳盗铃”阐明了一条辩证唯物主义的基本原理：对客观存在的现实不正视、不研究，采取闭目塞听的 态度，这是自欺欺人，终究会自食苦果。没有体现出免费搭车的相关原理。\nD 项： “守株待兔”比喻不想努力，而希望获得成功的侥幸心理。跟免费搭车原理无关。",
+    "keyPoints": [
+      "第一步，本题考查管理"
+    ],
+    "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "基础",
+    "source": "2009年上海公务员考试《行测》第16题",
+    "province": "上海",
+    "subModule": "经济管理",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shanghai-2009-未标注-17",
+    "category": "provincial",
+    "module": "changshi",
+    "title": "常识·(不定项选择)西藏自古以来就是中国不可分割的一部分。自十…",
+    "stem": "(不定项选择)西藏自古以来就是中国不可分割的一部分。自十三世纪中叶西藏地区正式归人元朝版图后，中 国虽然经历了几代王朝的兴替，多次更换中央政权，但西藏一直处于中央政府的管辖之下。元朝设立的管理西藏 事务的中央机构是：",
+    "options": [
+      {
+        "key": "A",
+        "text": "理藩院"
+      },
+      {
+        "key": "B",
+        "text": "宣政院"
+      },
+      {
+        "key": "C",
+        "text": "噶厦"
+      },
+      {
+        "key": "D",
+        "text": "乌思藏都指挥使司"
+      }
+    ],
+    "answer": "B",
+    "explanation": "第一步，本题考查中国史。\n第二步，宣政院，初名总制院，是元朝时期设立的一个直属中央政府管辖的国家机构，负责掌管全国佛教事宜并 统辖吐蕃（今西藏）地区的军政事务。1264 年，忽必烈在中央设总制院机构， 由国师八思巴掌管。八思巴之后 由元朝宰相桑哥（藏族人）担任总制院使。1288 年，宰相桑哥为了加强对整个藏族地区的统一管理， 向忽必烈 建议把总制院改为宣政院，使宣政院和中书省、御史台、枢密院成为平行的中央四大机构，统一管理西藏事务。 由此可知，宣政院是元代设立的专门管理西藏事务的中央机构。\n因此，选择 B 选项。\n拓展\nA 项：理藩院是清朝政府统治蒙古、回部及西藏等少数民族的最高权力机构。理藩院最初只负责蒙古地区的事务 管理，随着清廷全国政权的建立，它开始变成总管蒙古、西藏、新疆等各少数民族地区事务的中央机构。清统治 者通过理藩院实施对各少数民族地区的统治，加强与他们的联系。\nC 项：噶厦设立于清乾隆十六年（公元 1751 年），是清代到新中国初期西藏地方官署名，即原西藏地方政府。\n达赖、摄政以下是政府行政机构，藏语称“噶厦”。“噶”是命令的意思，“厦”是房屋的意思，“噶厦”就是 发号施令的地方。1959 年后，中华人民共和国政府废除噶厦，筹建西藏自治区。\nD 项：乌思藏都指挥使司，简称“乌思藏都司”，是中国明朝对今西藏自治区除昌都地区以外的大部分地区以及 锡金、不丹的最高军政管辖机构。",
+    "keyPoints": [
+      "第一步，本题考查中国史",
+      "年，忽必烈在中央设总制院机构， 由国师八思巴掌管"
+    ],
+    "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "基础",
+    "source": "2009年上海公务员考试《行测》第17题",
+    "province": "上海",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shanghai-2009-未标注-18",
+    "category": "provincial",
+    "module": "changshi",
+    "title": "常识·(不定项选择)西方许多企业和政府组织结构形式已经开始向扁…",
+    "stem": "(不定项选择)西方许多企业和政府组织结构形式已经开始向扁平化方向发展。所谓组织扁平化，就是指通过 减少行政管理层次，裁减冗余人员，从而建立一种扁平化组织结构。扁平化结构具有的优势有：",
+    "options": [
+      {
+        "key": "A",
+        "text": "行政幅度增宽，行政层次减少，组织成员积极性提高"
+      },
+      {
+        "key": "B",
+        "text": "行政幅度减少，行政层次减少，组织成员积极性提高"
+      },
+      {
+        "key": "C",
+        "text": "行政权力分散，行政管理控制增强"
+      },
+      {
+        "key": "D",
+        "text": "管理成本降低，工作效率大大提高"
+      }
+    ],
+    "answer": "AD",
+    "explanation": "第一步，本题考查管理。\n第二步，扁平结构是指组织规模已定的情况下，通过增大管理幅度而减少管理层次的组织结构形态。扁平化结构 具有自身的优势∶有利于缩短上下级距离，密切上下级关系，信息纵向流通快，管理费用低。而且由于管理幅度 较大，被管理者有较大的自主性、积极性和满足感。它的缺点则是：由于管理幅度较宽，权力分散，不易实施严 密控制，加重了对下属组织及人员进行协调的负担。\nA 项：扁平结构使得管理者的行政管理幅度增宽，而管辖的行政层次相应减少，有利于提高组织成员的积极性。 故 A 项说法正确。\nD 项： 由于结构扁平，管理层次减少，所以组织内信息能够保持畅通，从而可以降低管理成本，工作效率大大提 高。故 D 项说法正确。\n因此，选择 AD 选项。 拓展\nB 项：扁平结构意味着管理者所管辖的层级减少，而管理的幅度增加。B 项行政幅度减少的说法错误。\nC 项：扁平结构的缺点是管理幅度太宽，导致权力过于分散，不能对下属进行有效管理。C 项权力分散而控制力 增强的说法自相矛盾。故 C 项说法错误。",
+    "keyPoints": [
+      "第一步，本题考查管理"
+    ],
+    "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "基础",
+    "source": "2009年上海公务员考试《行测》第18题",
+    "province": "上海",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shanghai-2009-未标注-19",
+    "category": "provincial",
+    "module": "changshi",
+    "title": "常识·(不定项选择)2008 年 10 月 8 日，2008 …",
+    "stem": "(不定项选择)2008 年 10 月 8 日，2008 年诺贝尔化学奖揭晓，华裔科学家钱永健为三位获奖科学家之一。2008 年诺贝尔化学奖所表彰的科学研究成果是：",
+    "options": [
+      {
+        "key": "A",
+        "text": "对生物大分子进行确认和结构分析、质谱分析"
+      },
+      {
+        "key": "B",
+        "text": "真核转录的分子基础研究"
+      },
+      {
+        "key": "C",
+        "text": "以 x 射线衍射技术研究核酸蛋白复合体"
+      },
+      {
+        "key": "D",
+        "text": "绿色荧光蛋白的研究"
+      }
+    ],
+    "answer": "D",
+    "explanation": "第一步，本题考查时政。\n第二步，2008 年 10 月 8 日，诺贝尔化学奖授予了日本学者下村修、美国科学家马丁-查尔菲， 以及美国华裔科 学家钱永健。他们三人在发现和研究绿色荧光蛋白（GFP）方面有突出成就。\n因此，选择 D 选项。 拓展\nA 项：2002 年诺贝尔化学奖的一半授予了美国科学家约翰•芬恩、日本科学家田中耕一， 以表彰他们“发明了对 生物大分子进行确认和结构分析的方法”和“对生物大分子的质谱分析法”方面的贡献。生物质谱技术正逐渐成 为蛋白质鉴定分析的主要支撑技术，它通过测定样品离子的质荷比（m/z） 来进行成分和结构分析。\nB 项：美国科学家罗杰•科恩伯格因在“真核转录的分子基础”研究领域所作出的贡献而获得 2006 年诺贝尔化学 奖，该理论揭示了真核生物体内的细胞如何利用基因内存储的信息生产蛋白质。\nC 项：1982 年英国化学家克卢格发展了 X 射线衍射技术，并且研究了具有重要生物学意义的核酸-蛋白质复合物 的结构，获得了当年的诺贝尔化学奖。\nD 项：绿色荧光蛋白分子的形状呈圆柱形，就像一个桶，负责发光的基团位于桶中央。当荧光基因受到蓝光照射 时，会吸收蓝光的部分能量，然后发射出绿色的荧光。利用这一性质，生物学家们可以用绿色荧光蛋白来标记几 乎任何生物分子或细胞，然后在蓝光照射下进行显微镜观察。",
+    "keyPoints": [
+      "第一步，本题考查时政",
+      "他们三人在发现和研究绿色荧光蛋白（GFP）方面有突出成就"
+    ],
+    "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "基础",
+    "source": "2009年上海公务员考试《行测》第19题",
+    "province": "上海",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shanghai-2009-未标注-20",
+    "category": "provincial",
+    "module": "changshi",
+    "title": "常识·(不定项选择)行政诉讼受案范围，是指人民法院受理行政案件…",
+    "stem": "(不定项选择)行政诉讼受案范围，是指人民法院受理行政案件的权限范围，即按法律规定，人民法院对何种 行政案件有权受理，何种不能受理。根据我国《行政诉讼法》的规定，人民法院不予受理的情形有：",
+    "options": [
+      {
+        "key": "A",
+        "text": "认为行政机关侵犯法律规定的经营自主权"
+      },
+      {
+        "key": "B",
+        "text": "行政机关的奖罚决定"
+      },
+      {
+        "key": "C",
+        "text": "不具有强制力的行政指导行为"
+      },
+      {
+        "key": "D",
+        "text": "行政机关拒绝履行保护人身权、财产权法定职责"
+      }
+    ],
+    "answer": "BC",
+    "explanation": "第一步，本题考查行政诉讼法并选错误项。\n第二步，《行政诉讼法》第 13 条规定，人民法院不受理公民、法人或者其他组织对下列事项提起的诉讼：（一） 国防、外交等国家行为；（二）行政法规、规章或者行政机关制定、发布的具有普遍约束力的决定、命令；（三） 行政机关对行政机关工作人员的奖惩、任免等决定；（四）法律规定由行政机关最终裁决的具体行政行为。\nB 项：行政机关对行政机关工作人员的奖惩、任免等决定的案件属于上述法条第 3 项，所以人民法院不受理，B 项符合题意。\nC 项：行政指导行为有一个显著性特征，即非强制性，公民、法人或者其他组织对于行政机关的行政指导行为的 服从是可以选择的，是否服从，完全取决于自己的意志。《最高人民法院关于执行若干问题的解释》第 1 条第 4 项规定，公民、法人或者其他组织对下列行为不服提起诉讼的，不属于人民法院行政诉讼的受案范围：……（四） 不具有强制力的行政指导行为……。所以公民、法人或者其他组织对不具有强制力的行政指导行为不服提起诉讼 的，不属于人民法院行政诉讼的受案范围。C 项符合题意。\n因此，选择 BC 选项。 拓展\n《行政诉讼法》第 12 条规定，人民法院受理公民、法人或者其他组织提起的下列诉讼：（一）对行政拘留、暂 扣或者吊销许可证和执照、责令停产停业、没收违法所得、没收非法财物、罚款、警告等行政处罚不服的；（二） 对限制人身自由或者对财产的查封、扣押、冻结等行政强制措施和行政强制执行不服的；（三） 申请行政许可，\n行政机关拒绝或者在法定期限内不予答复，或者对行政机关作出的有关行政许可的其他决定不服的；（四）对行 政机关作出的关于确认土地、矿藏、水流、森林、山岭、草原、荒地、滩涂、海域等自然资源的所有权或者使用 权的决定不服的；（五）对征收、征用决定及其补偿决定不服的；（六）申请行政机关履行保护人身权、财产权 等合法权益的法定职责，行政机关拒绝履行或者不予答复的；（七）认为行政机关侵犯其经营自主权或者农村土 地承包经营权、农村土地经营权的；（八）认为行政机关滥用行政权力排除或者限制竞争的；（九）认为行政机 关违法集资、摊派费用或者违法要求履行其他义务的；（十）认为行政机关没有依法支付抚恤金、最低生活保障 待遇或者社会保险待遇的；（十一）认为行政机关不依法履行、未按照约定履行或者违法变更、解除政府特许经 营协议、土地房屋征收补偿协议等协议的；（十二）认为行政机关侵犯其他人身权、财产权等合法权益的。 除 前款规定外，人民法院受理法律、法规规定可以提起诉讼的其他行政案件。\nA 项：认为行政机关侵犯法律规定的经营自主权的案件属于上述法条第 7 项的规定，所以人民法院应该受理，A 项不符合题意。\nD 项： 申请行政机关履行保护人身权、财产权的法定职责，行政机关拒绝履行或者不予答复的案件属于上述法条 第 6 项的规定，所以人民法院应该受理，D 项不符合题意。",
+    "keyPoints": [
+      "第一步，本题考查行政诉讼法并选错误项"
+    ],
+    "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "基础",
+    "source": "2009年上海公务员考试《行测》第20题",
+    "province": "上海",
+    "subModule": "法律",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shanghai-2009-未标注-21",
+    "category": "provincial",
+    "module": "changshi",
+    "title": "常识·(不定项选择)公共政策的效果是指政策执行后对客体及环境产…",
+    "stem": "(不定项选择)公共政策的效果是指政策执行后对客体及环境产生的影响，评估公共政策时，必须分析不同层 面的政策效果。一般而言，政策效果主要包括：",
+    "options": [
+      {
+        "key": "A",
+        "text": "直接效果"
+      },
+      {
+        "key": "B",
+        "text": "附带效果"
+      },
+      {
+        "key": "C",
+        "text": "意外效果"
+      },
+      {
+        "key": "D",
+        "text": "表面效果"
+      }
+    ],
+    "answer": "AB",
+    "explanation": "第一步，本题考查管理。\n第二步，公共政策效果的类型主要包括四类：直接效果、附带效果、潜在效果和象征性效果四种。 因此，选择 AB 选项。\n拓展\n直接效果：指公共政策的实施对所要解决的公共政策问题及目标群体所产生的作用。\n附带效果：公共政策在实施过程中，可能对并非作用对象的个人、团体或环境产生的影响，这种影响超乎公共政 策制定者原来的目标和期望，成为该项公共政策的副产品，这类影响就是公共政策的附带效果。\n潜在效果：有些公共政策的效果和成本在短期内不易为人们察觉，但有可能在今后相当长一段时间里表现出来的 效果。\n象征性效果：有些公共政策的内容是象征性的，它产生的有形效果可能十分微弱，其初始用意也不过是让目标群 体以为他们关心的问题已经得到完美解决或者正在得到解决之中，从而减轻对政府的压力或者激发某种精神。",
+    "keyPoints": [
+      "第一步，本题考查管理",
+      "因此，选择 AB 选项"
+    ],
+    "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "基础",
+    "source": "2009年上海公务员考试《行测》第21题",
+    "province": "上海",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shanghai-2009-未标注-22",
+    "category": "provincial",
+    "module": "changshi",
+    "title": "常识·(不定项选择)传统火车速度的增加受到车轮与轨道之间摩擦力…",
+    "stem": "(不定项选择)传统火车速度的增加受到车轮与轨道之间摩擦力的限制，磁悬浮列车则是依靠机车磁场和轨道 磁场之间产生推斥力或吸引力而悬浮在轨道之上 1～10 厘米前进，具有速度快、损耗小、运行费用低等特点，在\n中短途轨道运输中具有很强的发展潜力。 目前国外成熟的磁悬浮列车技术主要有：",
+    "options": [
+      {
+        "key": "A",
+        "text": "永磁磁悬浮"
+      },
+      {
+        "key": "B",
+        "text": "常导磁悬浮"
+      },
+      {
+        "key": "C",
+        "text": "槽轨磁悬浮"
+      },
+      {
+        "key": "D",
+        "text": "超导磁悬浮"
+      }
+    ],
+    "answer": "BD",
+    "explanation": "第一步，本题考查科技成就。\n第二步，国外成熟的磁悬浮列车技术形成了以德国和日本为代表的两大研究方向。德国认准的 EMS（常导磁吸型） 系统，是利用常规的电磁铁与一般铁性物质相吸引的基本原理。把列车吸附上来悬浮运行。常导型高速磁悬浮列 车的速度可达每小时 400～500 公里，适合于城市间的长距离快速运输。而超导型磁悬浮列车也称超导磁斥型，\n以日本为代表。目前两种车型都达到了 500 公里左右的时速。两种方案都切实可行，孰优孰劣，难分高下。\n因此，选择 BD 选项。 拓展\n世界上有 3 种类型磁悬浮技术，即日本的超导电动磁悬浮、德国的常导电磁悬浮和中国的永磁悬浮。永磁悬浮, 即永久磁铁与轨道（由电磁轨道或导磁材料）相斥并保持在槽口中线可悬浮运行， 电磁导向可实现零磨擦运行， 机械向能接近零磨擦。中国永磁悬浮与国外磁悬浮相比有五大方面的优势：一是悬浮力强；二是经济性好；三是 节能性强；四是安全性好；五是平衡性稳定。",
+    "keyPoints": [
+      "第一步，本题考查科技成就",
+      "第二步，国外成熟的磁悬浮列车技术形成了以德国和日本为代表的两大研究方向"
+    ],
+    "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "基础",
+    "source": "2009年上海公务员考试《行测》第22题",
+    "province": "上海",
+    "subModule": "科技",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shanghai-2009-未标注-23",
+    "category": "provincial",
+    "module": "changshi",
+    "title": "常识·(不定项选择)二十四节气是我国劳动人民创造的辉煌文化，它…",
+    "stem": "(不定项选择)二十四节气是我国劳动人民创造的辉煌文化，它能反映天气气候和物候变化，指导农事活动， 影响着千家万户的衣食住行。下列选项中属于节气的是：",
+    "options": [
+      {
+        "key": "A",
+        "text": "清明"
+      },
+      {
+        "key": "B",
+        "text": "重阳"
+      },
+      {
+        "key": "C",
+        "text": "谷雨"
+      },
+      {
+        "key": "D",
+        "text": "端午"
+      }
+    ],
+    "answer": "AC",
+    "explanation": "第一步，本题考查二十四节气。\n第二步，二十四节气是中国古代订立的一种用来指导农事的补充历法，是中华民族劳动人民长期经验的积累成果 和智慧的结晶。分别为：立春、雨水、惊蛰、春分、清明、谷雨、立夏、小满 、芒种、夏至、小暑、大暑、立 秋、处暑、白露、秋分、寒露、霜降、立冬、小雪、大雪、冬至、小寒、大寒。\n因此，选择 AC 选项。 拓展\nB 项：重阳节，农历九月初九，二九相重，称为“重九”，民间在该日有登高的风俗，所以重阳节又称“登高节”。 还有重九节、茱萸、菊花节等说法。由于九月初九“九九”谐音是“久久”，有长久之意，所以常在此日祭祖与\n推行敬老活动。重阳节是节日不是节气。\nD 项：端午节，又称为“午日节、五月节、龙舟节、浴兰节”等。每年农历五月初五。端午节起源于中国，最初 为古代百越地区（长江中下游及以南一带）崇拜龙图腾的部族举行图腾祭祀的节日，百越之地春秋之前有在农历 五月初五以龙舟竞渡形式举行部落图腾祭祀的习俗。后因战国时期的楚国（今湖北）诗人屈原在该日抱石跳汨罗 江自尽，统治者为树立忠君爱国标签将端午作为纪念屈原的节日。端午节是流行于中国以及汉字文化圈诸国的传 统文化节日。与春节、清明节、中秋节并称为我国的四大传统节日。端午节是节日不是节气。",
+    "keyPoints": [
+      "第一步，本题考查二十四节气"
+    ],
+    "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "基础",
+    "source": "2009年上海公务员考试《行测》第23题",
+    "province": "上海",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
+  }
+]

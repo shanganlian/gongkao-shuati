@@ -241,6 +241,12 @@ DEEPSEEK_API_KEY=
 # Supabase 未配置时会使用代码内置的公开配置；如需切换项目再取消注释。
 # SUPABASE_URL=
 # SUPABASE_ANON_KEY=
+# QQ 互联登录（默认关闭）：未设置或不是 1 时，/api/auth/qq/* 一律返回 404，前端也不渲染 QQ 按钮。
+# QQ 应用审核通过后，填写 appid/appkey，再把 QQ_LOGIN_ENABLED 改成 1，然后重新发布前端（构建时加 VITE_QQ_LOGIN_ENABLED=1）。
+# QQ_LOGIN_ENABLED=0
+# QQ_APP_ID=
+# QQ_APP_KEY=
+# QQ_REDIRECT_URI=https://igoiget.com/api/auth/qq/callback
 EOF
 fi
 chown root:"$SERVICE_USER" "$ENV_FILE"

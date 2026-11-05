@@ -33,7 +33,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年安徽公务员考试《行测》第65题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-anhui-2025-未标注-66",
@@ -68,7 +70,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年安徽公务员考试《行测》第66题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-anhui-2025-未标注-67",
@@ -103,7 +107,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年安徽公务员考试《行测》第67题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-anhui-2025-未标注-68",
@@ -138,7 +144,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年安徽公务员考试《行测》第68题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-anhui-2025-未标注-69",
@@ -174,7 +182,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年安徽公务员考试《行测》第69题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-anhui-2025-未标注-70",
@@ -209,6 +219,8 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年安徽公务员考试《行测》第70题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   }
 ]

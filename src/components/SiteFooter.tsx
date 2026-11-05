@@ -30,30 +30,34 @@ export const SiteFooter: React.FC = () => {
 
   return (
     <>
-      <footer className="mt-10 border-t border-slate-200/80 bg-white/60">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-5 flex flex-col sm:flex-row items-center justify-between gap-2 text-[11px] text-slate-500">
-          <p>
-            © {year} 必得题库 ·{' '}
-            <a
-              href="https://beian.miit.gov.cn/"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="hover:text-slate-800 hover:underline"
-            >
-              宁ICP备2026004293号
-            </a>
-          </p>
+      <footer className="mt-10 border-t border-slate-200/80 dark:border-slate-700/80 bg-white/60 dark:bg-slate-900/60">
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-5 flex flex-col sm:flex-row items-center justify-between gap-2 text-[11px] text-slate-500 dark:text-slate-400">
+          <div className="text-center sm:text-left leading-relaxed">
+            <p>
+              © {year} 必得题库 · <span className="font-semibold text-slate-600 dark:text-slate-300">I go, I get</span>
+            </p>
+            <p className="mt-0.5">
+              <a
+                href="https://beian.miit.gov.cn/"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="hover:text-slate-800 dark:hover:text-slate-200 hover:underline"
+              >
+                宁ICP备2026004293号
+              </a>
+            </p>
+          </div>
           <div className="flex items-center gap-4">
             <button
               onClick={() => setLegal('terms')}
-              className="flex items-center gap-1 hover:text-slate-800 cursor-pointer"
+              className="flex items-center gap-1 hover:text-slate-800 dark:hover:text-slate-200 cursor-pointer"
             >
               <FileText className="w-3 h-3" />
               用户协议
             </button>
             <button
               onClick={() => setLegal('disclaimer')}
-              className="flex items-center gap-1 hover:text-slate-800 cursor-pointer"
+              className="flex items-center gap-1 hover:text-slate-800 dark:hover:text-slate-200 cursor-pointer"
             >
               <ShieldCheck className="w-3 h-3" />
               免责声明
@@ -63,15 +67,15 @@ export const SiteFooter: React.FC = () => {
       </footer>
 
       {legal && (
-        <div className="fixed inset-0 z-50 flex items-center justify-center bg-black/50 p-4" onClick={() => setLegal(null)}>
-          <div className="bg-white rounded-2xl p-6 w-full max-w-lg shadow-2xl" onClick={e => e.stopPropagation()}>
+        <div className="fixed inset-0 z-50 flex items-center justify-center bg-black/50 dark:bg-black/70 p-4" onClick={() => setLegal(null)}>
+          <div className="bg-white dark:bg-slate-900 rounded-2xl p-6 w-full max-w-lg shadow-2xl" onClick={e => e.stopPropagation()}>
             <div className="flex items-center justify-between mb-3">
-              <h3 className="text-base font-bold text-slate-900">{LEGAL_CONTENT[legal].title}</h3>
-              <button onClick={() => setLegal(null)} className="text-slate-400 hover:text-slate-700 cursor-pointer" aria-label="关闭">
+              <h3 className="text-base font-bold text-slate-900 dark:text-slate-100">{LEGAL_CONTENT[legal].title}</h3>
+              <button onClick={() => setLegal(null)} className="text-slate-400 hover:text-slate-700 dark:hover:text-slate-200 cursor-pointer" aria-label="关闭">
                 <X className="w-5 h-5" />
               </button>
             </div>
-            <div className="space-y-2 text-xs leading-relaxed text-slate-600">
+            <div className="space-y-2 text-xs leading-relaxed text-slate-600 dark:text-slate-300">
               {LEGAL_CONTENT[legal].body.map((line, index) => (
                 <p key={index}>{line}</p>
               ))}

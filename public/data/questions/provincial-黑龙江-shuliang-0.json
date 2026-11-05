@@ -13,7 +13,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2008年黑龙江公务员考试《行测》第1题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-heilongjiang-2008-未标注-2",
@@ -49,7 +51,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2008年黑龙江公务员考试《行测》第2题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2008-未标注-3",
@@ -65,7 +69,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2008年黑龙江公务员考试《行测》第3题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-heilongjiang-2008-未标注-4",
@@ -81,7 +87,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2008年黑龙江公务员考试《行测》第4题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-heilongjiang-2008-未标注-5",
@@ -97,7 +105,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2008年黑龙江公务员考试《行测》第5题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-heilongjiang-2008-未标注-6",
@@ -132,7 +142,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2008年黑龙江公务员考试《行测》第6题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2008-未标注-7",
@@ -164,7 +176,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2008年黑龙江公务员考试《行测》第7题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2008-未标注-8",
@@ -196,7 +210,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2008年黑龙江公务员考试《行测》第8题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2008-未标注-9",
@@ -228,7 +244,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2008年黑龙江公务员考试《行测》第9题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2008-未标注-10",
@@ -244,7 +262,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2008年黑龙江公务员考试《行测》第10题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-heilongjiang-2008-未标注-11",
@@ -260,7 +280,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2008年黑龙江公务员考试《行测》第11题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-heilongjiang-2008-未标注-12",
@@ -276,7 +298,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2008年黑龙江公务员考试《行测》第12题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-heilongjiang-2008-未标注-13",
@@ -292,7 +316,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2008年黑龙江公务员考试《行测》第13题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-heilongjiang-2008-未标注-14",
@@ -308,7 +334,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2008年黑龙江公务员考试《行测》第14题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-heilongjiang-2008-未标注-15",
@@ -324,7 +352,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2008年黑龙江公务员考试《行测》第15题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-heilongjiang-2008-未标注-16",
@@ -340,7 +370,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2008年黑龙江公务员考试《行测》第16题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-heilongjiang-2008-未标注-17",
@@ -372,7 +404,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2008年黑龙江公务员考试《行测》第17题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-heilongjiang-2008-未标注-18",
@@ -404,7 +438,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2008年黑龙江公务员考试《行测》第18题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2008-未标注-19",
@@ -439,7 +475,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2008年黑龙江公务员考试《行测》第19题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2008-未标注-20",
@@ -471,7 +509,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2008年黑龙江公务员考试《行测》第20题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2009-未标注-1",
@@ -507,7 +547,9 @@
     "difficulty": "拔高",
     "source": "2009年黑龙江公务员考试《行测》第1题",
     "isImageQuestion": true,
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2009-未标注-2",
@@ -542,7 +584,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2009年黑龙江公务员考试《行测》第2题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2009-未标注-3",
@@ -576,7 +620,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2009年黑龙江公务员考试《行测》第3题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2009-未标注-4",
@@ -611,7 +657,9 @@
     "difficulty": "拔高",
     "source": "2009年黑龙江公务员考试《行测》第4题",
     "isImageQuestion": true,
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2009-未标注-5",
@@ -646,7 +694,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2009年黑龙江公务员考试《行测》第5题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2009-未标注-6",
@@ -680,7 +730,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2009年黑龙江公务员考试《行测》第6题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2009-未标注-7",
@@ -716,7 +768,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2009年黑龙江公务员考试《行测》第7题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2009-未标注-8",
@@ -752,7 +806,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2009年黑龙江公务员考试《行测》第8题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "几何",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-heilongjiang-2009-未标注-9",
@@ -788,7 +844,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2009年黑龙江公务员考试《行测》第9题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2009-未标注-10",
@@ -825,7 +883,9 @@
     "difficulty": "拔高",
     "source": "2009年黑龙江公务员考试《行测》第10题",
     "isImageQuestion": true,
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2009-未标注-11",
@@ -860,7 +920,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2009年黑龙江公务员考试《行测》第11题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2009-未标注-12",
@@ -896,7 +958,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2009年黑龙江公务员考试《行测》第12题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2009-未标注-13",
@@ -931,7 +995,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2009年黑龙江公务员考试《行测》第13题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2009-未标注-14",
@@ -966,7 +1032,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2009年黑龙江公务员考试《行测》第14题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2009-未标注-15",
@@ -1000,7 +1068,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2009年黑龙江公务员考试《行测》第15题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2009-未标注-16",
@@ -1035,7 +1105,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2009年黑龙江公务员考试《行测》第16题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2009-未标注-17",
@@ -1069,7 +1141,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2009年黑龙江公务员考试《行测》第17题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2009-未标注-18",
@@ -1103,7 +1177,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2009年黑龙江公务员考试《行测》第18题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2009-未标注-19",
@@ -1137,7 +1213,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2009年黑龙江公务员考试《行测》第19题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2009-未标注-20",
@@ -1171,7 +1249,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2009年黑龙江公务员考试《行测》第20题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2009-B卷-26",
@@ -1203,7 +1283,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2009年黑龙江公务员考试《行测》（B卷）第26题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2009-B卷-27",
@@ -1235,7 +1317,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2009年黑龙江公务员考试《行测》（B卷）第27题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2009-B卷-28",
@@ -1267,7 +1351,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2009年黑龙江公务员考试《行测》（B卷）第28题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2009-B卷-29",
@@ -1299,7 +1385,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2009年黑龙江公务员考试《行测》（B卷）第29题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2009-B卷-30",
@@ -1331,7 +1419,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2009年黑龙江公务员考试《行测》（B卷）第30题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2009-B卷-31",
@@ -1363,7 +1453,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2009年黑龙江公务员考试《行测》（B卷）第31题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2009-B卷-32",
@@ -1395,7 +1487,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2009年黑龙江公务员考试《行测》（B卷）第32题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2009-B卷-33",
@@ -1427,7 +1521,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2009年黑龙江公务员考试《行测》（B卷）第33题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2009-B卷-34",
@@ -1459,7 +1555,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2009年黑龙江公务员考试《行测》（B卷）第34题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2009-B卷-35",
@@ -1495,7 +1593,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2009年黑龙江公务员考试《行测》（B卷）第35题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2009-B卷-36",
@@ -1511,7 +1611,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2009年黑龙江公务员考试《行测》（B卷）第36题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-heilongjiang-2009-B卷-37",
@@ -1545,7 +1647,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2009年黑龙江公务员考试《行测》（B卷）第37题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2009-B卷-38",
@@ -1577,7 +1681,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2009年黑龙江公务员考试《行测》（B卷）第38题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2009-B卷-39",
@@ -1593,7 +1699,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2009年黑龙江公务员考试《行测》（B卷）第39题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-heilongjiang-2009-B卷-40",
@@ -1625,7 +1733,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2009年黑龙江公务员考试《行测》（B卷）第40题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2009-B卷-41",
@@ -1661,7 +1771,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2009年黑龙江公务员考试《行测》（B卷）第41题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2009-B卷-42",
@@ -1693,7 +1805,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2009年黑龙江公务员考试《行测》（B卷）第42题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2009-B卷-43",
@@ -1725,7 +1839,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2009年黑龙江公务员考试《行测》（B卷）第43题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2009-B卷-44",
@@ -1757,7 +1873,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2009年黑龙江公务员考试《行测》（B卷）第44题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2009-B卷-45",
@@ -1789,7 +1907,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2009年黑龙江公务员考试《行测》（B卷）第45题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2010-未标注-36",
@@ -1825,7 +1945,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2010年黑龙江公务员考试《行测》第36题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2010-未标注-37",
@@ -1861,7 +1983,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2010年黑龙江公务员考试《行测》第37题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2010-未标注-38",
@@ -1897,7 +2021,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2010年黑龙江公务员考试《行测》第38题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2010-未标注-39",
@@ -1932,7 +2058,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2010年黑龙江公务员考试《行测》第39题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2010-未标注-40",
@@ -1968,7 +2096,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2010年黑龙江公务员考试《行测》第40题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2010-未标注-41",
@@ -2002,7 +2132,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2010年黑龙江公务员考试《行测》第41题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2010-未标注-42",
@@ -2036,7 +2168,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2010年黑龙江公务员考试《行测》第42题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2010-未标注-43",
@@ -2068,7 +2202,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2010年黑龙江公务员考试《行测》第43题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2010-未标注-44",
@@ -2103,7 +2239,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2010年黑龙江公务员考试《行测》第44题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2010-未标注-45",
@@ -2138,7 +2276,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2010年黑龙江公务员考试《行测》第45题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2010-未标注-46",
@@ -2172,7 +2312,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2010年黑龙江公务员考试《行测》第46题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2010-未标注-47",
@@ -2204,7 +2346,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2010年黑龙江公务员考试《行测》第47题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2010-未标注-48",
@@ -2236,7 +2380,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2010年黑龙江公务员考试《行测》第48题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2010-未标注-49",
@@ -2268,7 +2414,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2010年黑龙江公务员考试《行测》第49题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2010-未标注-50",
@@ -2300,7 +2448,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2010年黑龙江公务员考试《行测》第50题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2010-未标注-51",
@@ -2332,7 +2482,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2010年黑龙江公务员考试《行测》第51题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2010-未标注-52",
@@ -2364,7 +2516,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2010年黑龙江公务员考试《行测》第52题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2010-未标注-53",
@@ -2396,7 +2550,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2010年黑龙江公务员考试《行测》第53题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2010-未标注-54",
@@ -2428,7 +2584,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2010年黑龙江公务员考试《行测》第54题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2010-未标注-55",
@@ -2460,7 +2618,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2010年黑龙江公务员考试《行测》第55题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2011-424联考-41",
@@ -2496,7 +2656,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2011年黑龙江公务员考试《行测》（424联考）第41题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2011-424联考-42",
@@ -2530,7 +2692,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2011年黑龙江公务员考试《行测》（424联考）第42题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2011-424联考-43",
@@ -2562,7 +2726,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2011年黑龙江公务员考试《行测》（424联考）第43题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2011-424联考-44",
@@ -2596,7 +2762,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2011年黑龙江公务员考试《行测》（424联考）第44题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2011-424联考-45",
@@ -2631,7 +2799,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2011年黑龙江公务员考试《行测》（424联考）第45题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2011-424联考-46",
@@ -2665,7 +2835,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2011年黑龙江公务员考试《行测》（424联考）第46题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2011-424联考-47",
@@ -2700,7 +2872,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2011年黑龙江公务员考试《行测》（424联考）第47题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2011-424联考-48",
@@ -2734,7 +2908,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2011年黑龙江公务员考试《行测》（424联考）第48题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2011-424联考-49",
@@ -2768,7 +2944,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2011年黑龙江公务员考试《行测》（424联考）第49题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2011-424联考-50",
@@ -2804,7 +2982,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2011年黑龙江公务员考试《行测》（424联考）第50题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2014-未标注-51",
@@ -2823,7 +3003,10 @@
     "difficulty": "拔高",
     "source": "2014年黑龙江公务员考试《行测》第51题",
     "isImageQuestion": true,
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "isAbnormal": true,
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2014-未标注-52",
@@ -2857,7 +3040,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2014年黑龙江公务员考试《行测》第52题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2014-未标注-53",
@@ -2893,7 +3078,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2014年黑龙江公务员考试《行测》第53题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-heilongjiang-2014-未标注-54",
@@ -2929,7 +3116,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2014年黑龙江公务员考试《行测》第54题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2014-未标注-55",
@@ -2965,7 +3154,9 @@
     "difficulty": "拔高",
     "source": "2014年黑龙江公务员考试《行测》第55题",
     "isImageQuestion": true,
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2014-未标注-56",
@@ -3001,7 +3192,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2014年黑龙江公务员考试《行测》第56题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2014-未标注-57",
@@ -3037,7 +3230,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2014年黑龙江公务员考试《行测》第57题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2014-未标注-58",
@@ -3072,7 +3267,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2014年黑龙江公务员考试《行测》第58题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2014-未标注-59",
@@ -3108,7 +3305,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2014年黑龙江公务员考试《行测》第59题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2014-未标注-60",
@@ -3143,7 +3342,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2014年黑龙江公务员考试《行测》第60题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2014-未标注-61",
@@ -3179,7 +3380,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2014年黑龙江公务员考试《行测》第61题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2014-未标注-62",
@@ -3214,7 +3417,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2014年黑龙江公务员考试《行测》第62题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2014-未标注-63",
@@ -3233,7 +3438,10 @@
     "difficulty": "拔高",
     "source": "2014年黑龙江公务员考试《行测》第63题",
     "isImageQuestion": true,
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "isAbnormal": true,
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2014-未标注-64",
@@ -3268,7 +3476,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2014年黑龙江公务员考试《行测》第64题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2014-未标注-65",
@@ -3303,7 +3513,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2014年黑龙江公务员考试《行测》第65题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2015-边远-52",
@@ -3337,7 +3549,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2015年黑龙江公务员考试《行测》（边远）第52题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2015-边远-53",
@@ -3369,7 +3583,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2015年黑龙江公务员考试《行测》（边远）第53题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2015-边远-54",
@@ -3404,7 +3620,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2015年黑龙江公务员考试《行测》（边远）第54题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2015-边远-55",
@@ -3439,7 +3657,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2015年黑龙江公务员考试《行测》（边远）第55题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2015-边远-56",
@@ -3474,7 +3694,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2015年黑龙江公务员考试《行测》（边远）第56题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2015-边远-57",
@@ -3508,7 +3730,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2015年黑龙江公务员考试《行测》（边远）第57题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2015-边远-58",
@@ -3542,7 +3766,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2015年黑龙江公务员考试《行测》（边远）第58题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2015-边远-59",
@@ -3577,7 +3803,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2015年黑龙江公务员考试《行测》（边远）第59题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2015-边远-60",
@@ -3612,7 +3840,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2015年黑龙江公务员考试《行测》（边远）第60题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2015-边远-61",
@@ -3647,7 +3877,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2015年黑龙江公务员考试《行测》（边远）第61题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2015-边远-62",
@@ -3681,7 +3913,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2015年黑龙江公务员考试《行测》（边远）第62题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2015-边远-63",
@@ -3715,7 +3949,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2015年黑龙江公务员考试《行测》（边远）第63题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2015-边远-64",
@@ -3751,7 +3987,9 @@
     "difficulty": "拔高",
     "source": "2015年黑龙江公务员考试《行测》（边远）第64题",
     "isImageQuestion": true,
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2015-边远-65",
@@ -3785,7 +4023,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2015年黑龙江公务员考试《行测》（边远）第65题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2015-公检法-56",
@@ -3821,7 +4061,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2015年黑龙江公务员考试《行测》（公检法）第56题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2015-公检法-57",
@@ -3855,7 +4097,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2015年黑龙江公务员考试《行测》（公检法）第57题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2015-公检法-58",
@@ -3887,7 +4131,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2015年黑龙江公务员考试《行测》（公检法）第58题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2015-公检法-59",
@@ -3923,7 +4169,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2015年黑龙江公务员考试《行测》（公检法）第59题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2015-公检法-60",
@@ -3958,7 +4206,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2015年黑龙江公务员考试《行测》（公检法）第60题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2015-公检法-61",
@@ -3993,7 +4243,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2015年黑龙江公务员考试《行测》（公检法）第61题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2015-公检法-62",
@@ -4027,7 +4279,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2015年黑龙江公务员考试《行测》（公检法）第62题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2015-公检法-63",
@@ -4059,7 +4313,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2015年黑龙江公务员考试《行测》（公检法）第63题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2015-公检法-64",
@@ -4094,7 +4350,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2015年黑龙江公务员考试《行测》（公检法）第64题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2015-公检法-65",
@@ -4130,7 +4388,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2015年黑龙江公务员考试《行测》（公检法）第65题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2015-公检法-66",
@@ -4165,7 +4425,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2015年黑龙江公务员考试《行测》（公检法）第66题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2015-公检法-67",
@@ -4199,7 +4461,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2015年黑龙江公务员考试《行测》（公检法）第67题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2015-公检法-68",
@@ -4233,7 +4497,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2015年黑龙江公务员考试《行测》（公检法）第68题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2015-公检法-69",
@@ -4269,7 +4535,9 @@
     "difficulty": "拔高",
     "source": "2015年黑龙江公务员考试《行测》（公检法）第69题",
     "isImageQuestion": true,
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2015-公检法-70",
@@ -4304,7 +4572,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2015年黑龙江公务员考试《行测》（公检法）第70题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2015-未标注-56",
@@ -4340,7 +4610,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2015年黑龙江公务员考试《行测》第56题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2015-未标注-57",
@@ -4372,7 +4644,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2015年黑龙江公务员考试《行测》第57题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2015-未标注-58",
@@ -4406,7 +4680,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2015年黑龙江公务员考试《行测》第58题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2015-未标注-59",
@@ -4441,7 +4717,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2015年黑龙江公务员考试《行测》第59题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2015-未标注-60",
@@ -4476,7 +4754,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2015年黑龙江公务员考试《行测》第60题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2015-未标注-61",
@@ -4510,7 +4790,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2015年黑龙江公务员考试《行测》第61题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2015-未标注-62",
@@ -4542,7 +4824,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2015年黑龙江公务员考试《行测》第62题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2015-未标注-63",
@@ -4577,7 +4861,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2015年黑龙江公务员考试《行测》第63题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2015-未标注-64",
@@ -4612,7 +4898,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2015年黑龙江公务员考试《行测》第64题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2015-未标注-65",
@@ -4646,7 +4934,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2015年黑龙江公务员考试《行测》第65题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2015-未标注-66",
@@ -4681,7 +4971,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2015年黑龙江公务员考试《行测》第66题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2015-未标注-67",
@@ -4716,7 +5008,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2015年黑龙江公务员考试《行测》第67题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2015-未标注-68",
@@ -4750,7 +5044,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2015年黑龙江公务员考试《行测》第68题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2015-未标注-69",
@@ -4785,7 +5081,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2015年黑龙江公务员考试《行测》第69题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2015-未标注-70",
@@ -4821,7 +5119,9 @@
     "difficulty": "拔高",
     "source": "2015年黑龙江公务员考试《行测》第70题",
     "isImageQuestion": true,
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2016-423联考-51",
@@ -4856,7 +5156,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2016年黑龙江公务员考试《行测》（423联考）第51题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2016-423联考-52",
@@ -4890,7 +5192,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2016年黑龙江公务员考试《行测》（423联考）第52题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2016-423联考-53",
@@ -4926,7 +5230,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2016年黑龙江公务员考试《行测》（423联考）第53题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2016-423联考-54",
@@ -4961,7 +5267,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2016年黑龙江公务员考试《行测》（423联考）第54题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2016-423联考-55",
@@ -4995,7 +5303,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2016年黑龙江公务员考试《行测》（423联考）第55题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2016-423联考-56",
@@ -5029,7 +5339,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2016年黑龙江公务员考试《行测》（423联考）第56题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2016-423联考-57",
@@ -5057,7 +5369,9 @@
     "difficulty": "拔高",
     "source": "2016年黑龙江公务员考试《行测》（423联考）第57题",
     "isImageQuestion": true,
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2016-423联考-58",
@@ -5089,7 +5403,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2016年黑龙江公务员考试《行测》（423联考）第58题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2016-423联考-59",
@@ -5123,7 +5439,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2016年黑龙江公务员考试《行测》（423联考）第59题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2016-423联考-60",
@@ -5158,7 +5476,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2016年黑龙江公务员考试《行测》（423联考）第60题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2016-423联考-61",
@@ -5194,7 +5514,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2016年黑龙江公务员考试《行测》（423联考）第61题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2016-423联考-62",
@@ -5228,7 +5550,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2016年黑龙江公务员考试《行测》（423联考）第62题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2016-423联考-63",
@@ -5262,7 +5586,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2016年黑龙江公务员考试《行测》（423联考）第63题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2016-423联考-64",
@@ -5298,7 +5624,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2016年黑龙江公务员考试《行测》（423联考）第64题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2016-423联考-65",
@@ -5333,7 +5661,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2016年黑龙江公务员考试《行测》（423联考）第65题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2016-公检法-51",
@@ -5369,7 +5699,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2016年黑龙江公务员考试《行测》（公检法）第51题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2016-公检法-52",
@@ -5403,7 +5735,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2016年黑龙江公务员考试《行测》（公检法）第52题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2016-公检法-53",
@@ -5431,7 +5765,9 @@
     "difficulty": "拔高",
     "source": "2016年黑龙江公务员考试《行测》（公检法）第53题",
     "isImageQuestion": true,
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2016-公检法-54",
@@ -5465,7 +5801,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2016年黑龙江公务员考试《行测》（公检法）第54题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2016-公检法-55",
@@ -5499,7 +5837,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2016年黑龙江公务员考试《行测》（公检法）第55题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2016-公检法-56",
@@ -5534,7 +5874,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2016年黑龙江公务员考试《行测》（公检法）第56题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2016-公检法-57",
@@ -5568,7 +5910,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2016年黑龙江公务员考试《行测》（公检法）第57题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2016-公检法-58",
@@ -5603,7 +5947,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2016年黑龙江公务员考试《行测》（公检法）第58题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2016-公检法-59",
@@ -5639,7 +5985,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2016年黑龙江公务员考试《行测》（公检法）第59题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2016-公检法-60",
@@ -5675,7 +6023,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2016年黑龙江公务员考试《行测》（公检法）第60题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2016-公检法-61",
@@ -5710,7 +6060,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2016年黑龙江公务员考试《行测》（公检法）第61题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2016-公检法-62",
@@ -5744,7 +6096,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2016年黑龙江公务员考试《行测》（公检法）第62题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2016-公检法-63",
@@ -5779,7 +6133,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2016年黑龙江公务员考试《行测》（公检法）第63题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2016-公检法-64",
@@ -5815,7 +6171,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2016年黑龙江公务员考试《行测》（公检法）第64题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2016-公检法-65",
@@ -5851,7 +6209,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2016年黑龙江公务员考试《行测》（公检法）第65题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2016-县乡-51",
@@ -5887,7 +6247,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2016年黑龙江公务员考试《行测》（县乡）第51题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2016-县乡-52",
@@ -5922,7 +6284,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2016年黑龙江公务员考试《行测》（县乡）第52题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2016-县乡-53",
@@ -5956,7 +6320,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2016年黑龙江公务员考试《行测》（县乡）第53题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2016-县乡-54",
@@ -5990,7 +6356,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2016年黑龙江公务员考试《行测》（县乡）第54题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2016-县乡-55",
@@ -6026,7 +6394,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2016年黑龙江公务员考试《行测》（县乡）第55题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2016-县乡-56",
@@ -6062,7 +6432,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2016年黑龙江公务员考试《行测》（县乡）第56题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2016-县乡-57",
@@ -6096,7 +6468,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2016年黑龙江公务员考试《行测》（县乡）第57题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2016-县乡-58",
@@ -6132,7 +6506,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2016年黑龙江公务员考试《行测》（县乡）第58题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2016-县乡-59",
@@ -6168,7 +6544,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2016年黑龙江公务员考试《行测》（县乡）第59题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2016-县乡-60",
@@ -6202,7 +6580,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2016年黑龙江公务员考试《行测》（县乡）第60题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2016-县乡-61",
@@ -6236,7 +6616,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2016年黑龙江公务员考试《行测》（县乡）第61题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2016-县乡-62",
@@ -6271,7 +6653,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2016年黑龙江公务员考试《行测》（县乡）第62题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2016-县乡-63",
@@ -6308,7 +6692,9 @@
     "difficulty": "拔高",
     "source": "2016年黑龙江公务员考试《行测》（县乡）第63题",
     "isImageQuestion": true,
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2016-县乡-64",
@@ -6344,7 +6730,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2016年黑龙江公务员考试《行测》（县乡）第64题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2016-县乡-65",
@@ -6378,7 +6766,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2016年黑龙江公务员考试《行测》（县乡）第65题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2016-县乡-66",
@@ -6414,7 +6804,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2016年黑龙江公务员考试《行测》（县乡）第66题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-heilongjiang-2016-县乡-67",
@@ -6450,7 +6842,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2016年黑龙江公务员考试《行测》（县乡）第67题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-heilongjiang-2016-县乡-68",
@@ -6485,7 +6879,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2016年黑龙江公务员考试《行测》（县乡）第68题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-heilongjiang-2016-县乡-69",
@@ -6521,7 +6917,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2016年黑龙江公务员考试《行测》（县乡）第69题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-heilongjiang-2016-县乡-70",
@@ -6556,7 +6954,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2016年黑龙江公务员考试《行测》（县乡）第70题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-heilongjiang-2016-县乡-71",
@@ -6593,6 +6993,8 @@
     "difficulty": "拔高",
     "source": "2016年黑龙江公务员考试《行测》（县乡）第71题",
     "isImageQuestion": true,
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   }
 ]

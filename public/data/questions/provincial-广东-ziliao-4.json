@@ -33,7 +33,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年广东公务员考试《行测》第80题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2024-未标注-81",
@@ -68,7 +70,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年广东公务员考试《行测》第81题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2024-未标注-82",
@@ -104,7 +108,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年广东公务员考试《行测》第82题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2024-未标注-83",
@@ -139,7 +145,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年广东公务员考试《行测》第83题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2024-未标注-84",
@@ -159,7 +167,10 @@
     "difficulty": "中等",
     "source": "2024年广东公务员考试《行测》第84题",
     "isImageQuestion": true,
-    "province": "广东"
+    "province": "广东",
+    "isAbnormal": true,
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2024-未标注-85",
@@ -195,7 +206,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年广东公务员考试《行测》第85题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2024-未标注-86",
@@ -230,7 +243,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年广东公务员考试《行测》第86题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2024-未标注-87",
@@ -263,7 +278,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年广东公务员考试《行测》第87题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2024-未标注-88",
@@ -298,7 +315,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年广东公务员考试《行测》第88题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2024-未标注-89",
@@ -334,7 +353,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年广东公务员考试《行测》第89题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2024-未标注-90",
@@ -370,7 +391,9 @@
     "difficulty": "中等",
     "source": "2024年广东公务员考试《行测》第90题",
     "isImageQuestion": true,
-    "province": "广东"
+    "province": "广东",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2025-未标注-71",
@@ -405,7 +428,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年广东公务员考试《行测》第71题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2025-未标注-72",
@@ -440,7 +465,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年广东公务员考试《行测》第72题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2025-未标注-73",
@@ -476,7 +503,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年广东公务员考试《行测》第73题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2025-未标注-74",
@@ -511,7 +540,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年广东公务员考试《行测》第74题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2025-未标注-75",
@@ -547,7 +578,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年广东公务员考试《行测》第75题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2025-未标注-76",
@@ -583,7 +616,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年广东公务员考试《行测》第76题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2025-未标注-77",
@@ -599,7 +634,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2025年广东公务员考试《行测》第77题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2025-未标注-78",
@@ -634,7 +671,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年广东公务员考试《行测》第78题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2025-未标注-79",
@@ -670,7 +709,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年广东公务员考试《行测》第79题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2025-未标注-80",
@@ -705,7 +746,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年广东公务员考试《行测》第80题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2025-未标注-81",
@@ -741,7 +784,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年广东公务员考试《行测》第81题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2025-未标注-82",
@@ -777,7 +822,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年广东公务员考试《行测》第82题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2025-未标注-83",
@@ -813,7 +860,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年广东公务员考试《行测》第83题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2025-未标注-84",
@@ -848,7 +897,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年广东公务员考试《行测》第84题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2025-未标注-85",
@@ -883,7 +934,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年广东公务员考试《行测》第85题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2025-未标注-86",
@@ -918,7 +971,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年广东公务员考试《行测》第86题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2025-未标注-87",
@@ -953,7 +1008,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年广东公务员考试《行测》第87题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2025-未标注-88",
@@ -988,7 +1045,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年广东公务员考试《行测》第88题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2025-未标注-89",
@@ -1023,7 +1082,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年广东公务员考试《行测》第89题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2025-未标注-90",
@@ -1058,6 +1119,8 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年广东公务员考试《行测》第90题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   }
 ]

@@ -31,7 +31,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年贵州公务员考试《行测》第81题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2024-未标注-82",
@@ -67,7 +69,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年贵州公务员考试《行测》第82题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2024-未标注-83",
@@ -104,7 +108,9 @@
     "difficulty": "中等",
     "source": "2024年贵州公务员考试《行测》第83题",
     "isImageQuestion": true,
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2024-未标注-84",
@@ -139,7 +145,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年贵州公务员考试《行测》第84题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2024-未标注-85",
@@ -174,7 +182,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年贵州公务员考试《行测》第85题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2024-未标注-86",
@@ -209,7 +219,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年贵州公务员考试《行测》第86题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2024-未标注-87",
@@ -244,7 +256,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年贵州公务员考试《行测》第87题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2024-未标注-88",
@@ -280,7 +294,9 @@
     "difficulty": "中等",
     "source": "2024年贵州公务员考试《行测》第88题",
     "isImageQuestion": true,
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2024-未标注-89",
@@ -315,7 +331,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年贵州公务员考试《行测》第89题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2024-未标注-90",
@@ -351,7 +369,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年贵州公务员考试《行测》第90题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2024-未标注-91",
@@ -367,7 +387,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2024年贵州公务员考试《行测》第91题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guizhou-2025-未标注-61",
@@ -387,7 +409,9 @@
     "difficulty": "中等",
     "source": "2025年贵州公务员考试《行测》第61题",
     "isImageQuestion": true,
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2025-未标注-62",
@@ -424,7 +448,9 @@
     "difficulty": "中等",
     "source": "2025年贵州公务员考试《行测》第62题",
     "isImageQuestion": true,
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2025-未标注-63",
@@ -443,7 +469,9 @@
     "difficulty": "中等",
     "source": "2025年贵州公务员考试《行测》第63题",
     "isImageQuestion": true,
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2025-未标注-64",
@@ -462,7 +490,9 @@
     "difficulty": "中等",
     "source": "2025年贵州公务员考试《行测》第64题",
     "isImageQuestion": true,
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2025-未标注-65",
@@ -499,7 +529,9 @@
     "difficulty": "中等",
     "source": "2025年贵州公务员考试《行测》第65题",
     "isImageQuestion": true,
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2025-未标注-66",
@@ -535,7 +567,9 @@
     "difficulty": "中等",
     "source": "2025年贵州公务员考试《行测》第66题",
     "isImageQuestion": true,
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2025-未标注-67",
@@ -570,7 +604,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年贵州公务员考试《行测》第67题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2025-未标注-68",
@@ -605,7 +641,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年贵州公务员考试《行测》第68题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2025-未标注-69",
@@ -641,7 +679,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年贵州公务员考试《行测》第69题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2025-未标注-70",
@@ -677,7 +717,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年贵州公务员考试《行测》第70题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2025-未标注-71",
@@ -712,7 +754,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年贵州公务员考试《行测》第71题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2025-未标注-72",
@@ -747,7 +791,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年贵州公务员考试《行测》第72题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2025-未标注-73",
@@ -783,7 +829,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年贵州公务员考试《行测》第73题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2025-未标注-74",
@@ -819,7 +867,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年贵州公务员考试《行测》第74题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2025-未标注-75",
@@ -854,7 +904,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年贵州公务员考试《行测》第75题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2025-未标注-76",
@@ -889,7 +941,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年贵州公务员考试《行测》第76题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2025-未标注-77",
@@ -924,7 +978,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年贵州公务员考试《行测》第77题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2025-未标注-78",
@@ -959,7 +1015,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年贵州公务员考试《行测》第78题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2025-未标注-79",
@@ -991,7 +1049,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年贵州公务员考试《行测》第79题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2025-未标注-80",
@@ -1027,7 +1087,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年贵州公务员考试《行测》第80题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2025-未标注-81",
@@ -1043,7 +1105,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2025年贵州公务员考试《行测》第81题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guizhou-2025-未标注-82",
@@ -1078,7 +1142,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年贵州公务员考试《行测》第82题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2025-未标注-83",
@@ -1114,7 +1180,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年贵州公务员考试《行测》第83题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2025-未标注-84",
@@ -1150,7 +1218,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年贵州公务员考试《行测》第84题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2025-未标注-85",
@@ -1186,7 +1256,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年贵州公务员考试《行测》第85题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2025-未标注-86",
@@ -1221,7 +1293,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年贵州公务员考试《行测》第86题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2025-未标注-87",
@@ -1257,7 +1331,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年贵州公务员考试《行测》第87题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2025-未标注-88",
@@ -1293,7 +1369,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年贵州公务员考试《行测》第88题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2025-未标注-89",
@@ -1329,7 +1407,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年贵州公务员考试《行测》第89题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2025-未标注-90",
@@ -1365,6 +1445,8 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年贵州公务员考试《行测》第90题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   }
 ]

@@ -33,7 +33,9 @@
     "difficulty": "拔高",
     "source": "2025年青海公务员考试《行测》第66题",
     "isImageQuestion": true,
-    "province": "青海"
+    "province": "青海",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2025-未标注-67",
@@ -69,7 +71,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年青海公务员考试《行测》第67题",
-    "province": "青海"
+    "province": "青海",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2025-未标注-68",
@@ -102,7 +106,9 @@
     "difficulty": "拔高",
     "source": "2025年青海公务员考试《行测》第68题",
     "isImageQuestion": true,
-    "province": "青海"
+    "province": "青海",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2025-未标注-69",
@@ -139,7 +145,9 @@
     "difficulty": "拔高",
     "source": "2025年青海公务员考试《行测》第69题",
     "isImageQuestion": true,
-    "province": "青海"
+    "province": "青海",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2025-未标注-70",
@@ -159,6 +167,8 @@
     "difficulty": "拔高",
     "source": "2025年青海公务员考试《行测》第70题",
     "isImageQuestion": true,
-    "province": "青海"
+    "province": "青海",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   }
 ]

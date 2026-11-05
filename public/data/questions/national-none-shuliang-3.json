@@ -28,7 +28,9 @@
     "keyPoints": [],
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
-    "source": "2024年国家公务员考试《行测》地市级第56题"
+    "source": "2024年国家公务员考试《行测》地市级第56题",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "gk-2024-地市级-57",
@@ -62,7 +64,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2024年国家公务员考试《行测》地市级第57题",
-    "isImageQuestion": true
+    "isImageQuestion": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "gk-2024-地市级-58",
@@ -93,7 +97,9 @@
     "keyPoints": [],
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
-    "source": "2024年国家公务员考试《行测》地市级第58题"
+    "source": "2024年国家公务员考试《行测》地市级第58题",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "gk-2024-地市级-59",
@@ -124,7 +130,9 @@
     "keyPoints": [],
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
-    "source": "2024年国家公务员考试《行测》地市级第59题"
+    "source": "2024年国家公务员考试《行测》地市级第59题",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "gk-2024-地市级-60",
@@ -157,7 +165,9 @@
     ],
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
-    "source": "2024年国家公务员考试《行测》地市级第60题"
+    "source": "2024年国家公务员考试《行测》地市级第60题",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "gk-2024-地市级-61",
@@ -190,7 +200,9 @@
     ],
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
-    "source": "2024年国家公务员考试《行测》地市级第61题"
+    "source": "2024年国家公务员考试《行测》地市级第61题",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2024-地市级-62",
@@ -221,7 +233,9 @@
     "keyPoints": [],
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
-    "source": "2024年国家公务员考试《行测》地市级第62题"
+    "source": "2024年国家公务员考试《行测》地市级第62题",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2024-地市级-63",
@@ -256,7 +270,9 @@
     ],
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
-    "source": "2024年国家公务员考试《行测》地市级第63题"
+    "source": "2024年国家公务员考试《行测》地市级第63题",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2024-地市级-64",
@@ -289,7 +305,9 @@
     ],
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
-    "source": "2024年国家公务员考试《行测》地市级第64题"
+    "source": "2024年国家公务员考试《行测》地市级第64题",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2024-地市级-65",
@@ -323,7 +341,9 @@
     ],
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
-    "source": "2024年国家公务员考试《行测》地市级第65题"
+    "source": "2024年国家公务员考试《行测》地市级第65题",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2024-地市级-66",
@@ -357,7 +377,9 @@
     ],
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
-    "source": "2024年国家公务员考试《行测》地市级第66题"
+    "source": "2024年国家公务员考试《行测》地市级第66题",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2024-地市级-67",
@@ -384,7 +406,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2024年国家公务员考试《行测》地市级第67题",
-    "isImageQuestion": true
+    "isImageQuestion": true,
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2024-地市级-68",
@@ -415,7 +439,9 @@
     "keyPoints": [],
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
-    "source": "2024年国家公务员考试《行测》地市级第68题"
+    "source": "2024年国家公务员考试《行测》地市级第68题",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2024-地市级-69",
@@ -448,7 +474,9 @@
     ],
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
-    "source": "2024年国家公务员考试《行测》地市级第69题"
+    "source": "2024年国家公务员考试《行测》地市级第69题",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2024-地市级-70",
@@ -482,7 +510,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2024年国家公务员考试《行测》地市级第70题",
-    "isImageQuestion": true
+    "isImageQuestion": true,
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2024-行政执法-56",
@@ -515,7 +545,9 @@
     ],
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
-    "source": "2024年国家公务员考试《行测》行政执法第56题"
+    "source": "2024年国家公务员考试《行测》行政执法第56题",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "gk-2024-行政执法-57",
@@ -549,7 +581,9 @@
     ],
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
-    "source": "2024年国家公务员考试《行测》行政执法第57题"
+    "source": "2024年国家公务员考试《行测》行政执法第57题",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "gk-2024-行政执法-58",
@@ -582,7 +616,9 @@
     ],
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
-    "source": "2024年国家公务员考试《行测》行政执法第58题"
+    "source": "2024年国家公务员考试《行测》行政执法第58题",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "gk-2024-行政执法-59",
@@ -613,7 +649,9 @@
     "keyPoints": [],
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
-    "source": "2024年国家公务员考试《行测》行政执法第59题"
+    "source": "2024年国家公务员考试《行测》行政执法第59题",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "gk-2024-行政执法-60",
@@ -646,7 +684,9 @@
     ],
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
-    "source": "2024年国家公务员考试《行测》行政执法第60题"
+    "source": "2024年国家公务员考试《行测》行政执法第60题",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "gk-2024-行政执法-61",
@@ -679,7 +719,9 @@
     ],
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
-    "source": "2024年国家公务员考试《行测》行政执法第61题"
+    "source": "2024年国家公务员考试《行测》行政执法第61题",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2024-行政执法-62",
@@ -714,7 +756,9 @@
     ],
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
-    "source": "2024年国家公务员考试《行测》行政执法第62题"
+    "source": "2024年国家公务员考试《行测》行政执法第62题",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2024-行政执法-63",
@@ -748,7 +792,9 @@
     ],
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
-    "source": "2024年国家公务员考试《行测》行政执法第63题"
+    "source": "2024年国家公务员考试《行测》行政执法第63题",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2024-行政执法-64",
@@ -775,7 +821,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2024年国家公务员考试《行测》行政执法第64题",
-    "isImageQuestion": true
+    "isImageQuestion": true,
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2024-行政执法-65",
@@ -809,7 +857,9 @@
     ],
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
-    "source": "2024年国家公务员考试《行测》行政执法第65题"
+    "source": "2024年国家公务员考试《行测》行政执法第65题",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2024-行政执法-66",
@@ -840,7 +890,9 @@
     "keyPoints": [],
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
-    "source": "2024年国家公务员考试《行测》行政执法第66题"
+    "source": "2024年国家公务员考试《行测》行政执法第66题",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2024-行政执法-67",
@@ -871,7 +923,9 @@
     "keyPoints": [],
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
-    "source": "2024年国家公务员考试《行测》行政执法第67题"
+    "source": "2024年国家公务员考试《行测》行政执法第67题",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2024-行政执法-68",
@@ -904,7 +958,9 @@
     ],
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
-    "source": "2024年国家公务员考试《行测》行政执法第68题"
+    "source": "2024年国家公务员考试《行测》行政执法第68题",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2024-行政执法-69",
@@ -938,7 +994,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2024年国家公务员考试《行测》行政执法第69题",
-    "isImageQuestion": true
+    "isImageQuestion": true,
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2024-行政执法-70",
@@ -972,7 +1030,9 @@
     ],
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
-    "source": "2024年国家公务员考试《行测》行政执法第70题"
+    "source": "2024年国家公务员考试《行测》行政执法第70题",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2025-副省级-56",
@@ -1003,7 +1063,9 @@
     "keyPoints": [],
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
-    "source": "2025年国家公务员考试《行测》副省级第56题"
+    "source": "2025年国家公务员考试《行测》副省级第56题",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "gk-2025-副省级-57",
@@ -1036,7 +1098,9 @@
     ],
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
-    "source": "2025年国家公务员考试《行测》副省级第57题"
+    "source": "2025年国家公务员考试《行测》副省级第57题",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "gk-2025-副省级-58",
@@ -1067,7 +1131,9 @@
     "keyPoints": [],
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
-    "source": "2025年国家公务员考试《行测》副省级第58题"
+    "source": "2025年国家公务员考试《行测》副省级第58题",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "gk-2025-副省级-59",
@@ -1098,7 +1164,9 @@
     "keyPoints": [],
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
-    "source": "2025年国家公务员考试《行测》副省级第59题"
+    "source": "2025年国家公务员考试《行测》副省级第59题",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "gk-2025-副省级-60",
@@ -1133,7 +1201,9 @@
     ],
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
-    "source": "2025年国家公务员考试《行测》副省级第60题"
+    "source": "2025年国家公务员考试《行测》副省级第60题",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "gk-2025-副省级-61",
@@ -1166,7 +1236,9 @@
     ],
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
-    "source": "2025年国家公务员考试《行测》副省级第61题"
+    "source": "2025年国家公务员考试《行测》副省级第61题",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "gk-2025-副省级-62",
@@ -1197,7 +1269,9 @@
     "keyPoints": [],
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
-    "source": "2025年国家公务员考试《行测》副省级第62题"
+    "source": "2025年国家公务员考试《行测》副省级第62题",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "gk-2025-副省级-63",
@@ -1228,7 +1302,9 @@
     "keyPoints": [],
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
-    "source": "2025年国家公务员考试《行测》副省级第63题"
+    "source": "2025年国家公务员考试《行测》副省级第63题",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "gk-2025-副省级-64",
@@ -1261,7 +1337,9 @@
     ],
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
-    "source": "2025年国家公务员考试《行测》副省级第64题"
+    "source": "2025年国家公务员考试《行测》副省级第64题",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "gk-2025-副省级-65",
@@ -1292,7 +1370,9 @@
     "keyPoints": [],
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
-    "source": "2025年国家公务员考试《行测》副省级第65题"
+    "source": "2025年国家公务员考试《行测》副省级第65题",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "gk-2025-副省级-66",
@@ -1325,7 +1405,9 @@
     ],
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
-    "source": "2025年国家公务员考试《行测》副省级第66题"
+    "source": "2025年国家公务员考试《行测》副省级第66题",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2025-副省级-67",
@@ -1359,7 +1441,9 @@
     ],
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
-    "source": "2025年国家公务员考试《行测》副省级第67题"
+    "source": "2025年国家公务员考试《行测》副省级第67题",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2025-副省级-68",
@@ -1392,7 +1476,9 @@
     ],
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
-    "source": "2025年国家公务员考试《行测》副省级第68题"
+    "source": "2025年国家公务员考试《行测》副省级第68题",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2025-副省级-69",
@@ -1426,7 +1512,9 @@
     ],
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
-    "source": "2025年国家公务员考试《行测》副省级第69题"
+    "source": "2025年国家公务员考试《行测》副省级第69题",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2025-副省级-70",
@@ -1459,7 +1547,9 @@
     ],
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
-    "source": "2025年国家公务员考试《行测》副省级第70题"
+    "source": "2025年国家公务员考试《行测》副省级第70题",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2025-地市级-56",
@@ -1490,7 +1580,9 @@
     "keyPoints": [],
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
-    "source": "2025年国家公务员考试《行测》地市级第56题"
+    "source": "2025年国家公务员考试《行测》地市级第56题",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "gk-2025-地市级-57",
@@ -1523,7 +1615,9 @@
     ],
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
-    "source": "2025年国家公务员考试《行测》地市级第57题"
+    "source": "2025年国家公务员考试《行测》地市级第57题",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "gk-2025-地市级-58",
@@ -1554,7 +1648,9 @@
     "keyPoints": [],
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
-    "source": "2025年国家公务员考试《行测》地市级第58题"
+    "source": "2025年国家公务员考试《行测》地市级第58题",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "gk-2025-地市级-59",
@@ -1585,7 +1681,9 @@
     "keyPoints": [],
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
-    "source": "2025年国家公务员考试《行测》地市级第59题"
+    "source": "2025年国家公务员考试《行测》地市级第59题",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "gk-2025-地市级-60",
@@ -1618,7 +1716,9 @@
     ],
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
-    "source": "2025年国家公务员考试《行测》地市级第60题"
+    "source": "2025年国家公务员考试《行测》地市级第60题",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "gk-2025-地市级-61",
@@ -1649,7 +1749,9 @@
     "keyPoints": [],
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
-    "source": "2025年国家公务员考试《行测》地市级第61题"
+    "source": "2025年国家公务员考试《行测》地市级第61题",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "gk-2025-地市级-62",
@@ -1682,7 +1784,9 @@
     ],
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
-    "source": "2025年国家公务员考试《行测》地市级第62题"
+    "source": "2025年国家公务员考试《行测》地市级第62题",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "gk-2025-地市级-63",
@@ -1715,7 +1819,9 @@
     ],
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
-    "source": "2025年国家公务员考试《行测》地市级第63题"
+    "source": "2025年国家公务员考试《行测》地市级第63题",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "gk-2025-地市级-64",
@@ -1748,7 +1854,9 @@
     ],
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
-    "source": "2025年国家公务员考试《行测》地市级第64题"
+    "source": "2025年国家公务员考试《行测》地市级第64题",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "gk-2025-地市级-65",
@@ -1779,7 +1887,9 @@
     "keyPoints": [],
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
-    "source": "2025年国家公务员考试《行测》地市级第65题"
+    "source": "2025年国家公务员考试《行测》地市级第65题",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "gk-2025-地市级-66",
@@ -1796,7 +1906,10 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年国家公务员考试《行测》地市级第66题",
-    "isImageQuestion": true
+    "isImageQuestion": true,
+    "isAbnormal": true,
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2025-地市级-67",
@@ -1827,7 +1940,9 @@
     "keyPoints": [],
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
-    "source": "2025年国家公务员考试《行测》地市级第67题"
+    "source": "2025年国家公务员考试《行测》地市级第67题",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2025-地市级-68",
@@ -1844,7 +1959,10 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年国家公务员考试《行测》地市级第68题",
-    "isImageQuestion": true
+    "isImageQuestion": true,
+    "isAbnormal": true,
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2025-地市级-69",
@@ -1875,7 +1993,9 @@
     "keyPoints": [],
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
-    "source": "2025年国家公务员考试《行测》地市级第69题"
+    "source": "2025年国家公务员考试《行测》地市级第69题",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2025-地市级-70",
@@ -1908,7 +2028,9 @@
     ],
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
-    "source": "2025年国家公务员考试《行测》地市级第70题"
+    "source": "2025年国家公务员考试《行测》地市级第70题",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2025-行政执法-56",
@@ -1939,7 +2061,9 @@
     "keyPoints": [],
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
-    "source": "2025年国家公务员考试《行测》行政执法第56题"
+    "source": "2025年国家公务员考试《行测》行政执法第56题",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "gk-2025-行政执法-57",
@@ -1972,7 +2096,9 @@
     ],
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
-    "source": "2025年国家公务员考试《行测》行政执法第57题"
+    "source": "2025年国家公务员考试《行测》行政执法第57题",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "gk-2025-行政执法-58",
@@ -2003,7 +2129,9 @@
     "keyPoints": [],
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
-    "source": "2025年国家公务员考试《行测》行政执法第58题"
+    "source": "2025年国家公务员考试《行测》行政执法第58题",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "gk-2025-行政执法-59",
@@ -2036,7 +2164,9 @@
     ],
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
-    "source": "2025年国家公务员考试《行测》行政执法第59题"
+    "source": "2025年国家公务员考试《行测》行政执法第59题",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "gk-2025-行政执法-60",
@@ -2067,7 +2197,9 @@
     "keyPoints": [],
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
-    "source": "2025年国家公务员考试《行测》行政执法第60题"
+    "source": "2025年国家公务员考试《行测》行政执法第60题",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "gk-2025-行政执法-61",
@@ -2100,7 +2232,9 @@
     ],
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
-    "source": "2025年国家公务员考试《行测》行政执法第61题"
+    "source": "2025年国家公务员考试《行测》行政执法第61题",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "gk-2025-行政执法-62",
@@ -2133,7 +2267,9 @@
     ],
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
-    "source": "2025年国家公务员考试《行测》行政执法第62题"
+    "source": "2025年国家公务员考试《行测》行政执法第62题",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "gk-2025-行政执法-63",
@@ -2168,7 +2304,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年国家公务员考试《行测》行政执法第63题",
-    "isImageQuestion": true
+    "isImageQuestion": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "gk-2025-行政执法-64",
@@ -2201,7 +2339,9 @@
     ],
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
-    "source": "2025年国家公务员考试《行测》行政执法第64题"
+    "source": "2025年国家公务员考试《行测》行政执法第64题",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "gk-2025-行政执法-65",
@@ -2234,7 +2374,9 @@
     ],
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
-    "source": "2025年国家公务员考试《行测》行政执法第65题"
+    "source": "2025年国家公务员考试《行测》行政执法第65题",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "gk-2025-行政执法-66",
@@ -2265,7 +2407,9 @@
     "keyPoints": [],
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
-    "source": "2025年国家公务员考试《行测》行政执法第66题"
+    "source": "2025年国家公务员考试《行测》行政执法第66题",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2025-行政执法-67",
@@ -2300,7 +2444,9 @@
     ],
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
-    "source": "2025年国家公务员考试《行测》行政执法第67题"
+    "source": "2025年国家公务员考试《行测》行政执法第67题",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2025-行政执法-68",
@@ -2334,7 +2480,9 @@
     ],
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
-    "source": "2025年国家公务员考试《行测》行政执法第68题"
+    "source": "2025年国家公务员考试《行测》行政执法第68题",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2025-行政执法-69",
@@ -2369,7 +2517,9 @@
     ],
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
-    "source": "2025年国家公务员考试《行测》行政执法第69题"
+    "source": "2025年国家公务员考试《行测》行政执法第69题",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2025-行政执法-70",
@@ -2386,6 +2536,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年国家公务员考试《行测》行政执法第70题",
-    "isImageQuestion": true
+    "isImageQuestion": true,
+    "isAbnormal": true,
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   }
 ]

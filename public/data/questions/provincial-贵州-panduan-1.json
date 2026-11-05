@@ -32,7 +32,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年贵州公务员考试《行测》（424联考）第76题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2011-424联考-77",
@@ -67,7 +69,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年贵州公务员考试《行测》（424联考）第77题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2011-424联考-78",
@@ -103,7 +107,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年贵州公务员考试《行测》（424联考）第78题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2011-424联考-79",
@@ -137,7 +143,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年贵州公务员考试《行测》（424联考）第79题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2011-424联考-80",
@@ -172,7 +180,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年贵州公务员考试《行测》（424联考）第80题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2012-未标注-66",
@@ -192,7 +202,9 @@
     "difficulty": "中等",
     "source": "2012年贵州公务员考试《行测》第66题",
     "isImageQuestion": true,
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2012-未标注-67",
@@ -210,7 +222,9 @@
     "difficulty": "中等",
     "source": "2012年贵州公务员考试《行测》第67题",
     "isImageQuestion": true,
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2012-未标注-68",
@@ -229,7 +243,9 @@
     "difficulty": "中等",
     "source": "2012年贵州公务员考试《行测》第68题",
     "isImageQuestion": true,
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2012-未标注-69",
@@ -247,7 +263,9 @@
     "difficulty": "中等",
     "source": "2012年贵州公务员考试《行测》第69题",
     "isImageQuestion": true,
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2012-未标注-70",
@@ -280,7 +298,9 @@
     "difficulty": "中等",
     "source": "2012年贵州公务员考试《行测》第70题",
     "isImageQuestion": true,
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2012-未标注-71",
@@ -315,7 +335,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年贵州公务员考试《行测》第71题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2012-未标注-72",
@@ -347,7 +369,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年贵州公务员考试《行测》第72题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2012-未标注-73",
@@ -379,7 +403,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年贵州公务员考试《行测》第73题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2012-未标注-74",
@@ -414,7 +440,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年贵州公务员考试《行测》第74题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2012-未标注-75",
@@ -449,7 +477,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年贵州公务员考试《行测》第75题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2012-未标注-76",
@@ -484,7 +514,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年贵州公务员考试《行测》第76题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2012-未标注-77",
@@ -518,7 +550,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年贵州公务员考试《行测》第77题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2012-未标注-78",
@@ -550,7 +584,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年贵州公务员考试《行测》第78题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2012-未标注-79",
@@ -586,7 +622,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年贵州公务员考试《行测》第79题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2012-未标注-80",
@@ -620,7 +658,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年贵州公务员考试《行测》第80题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2012-未标注-81",
@@ -655,7 +695,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年贵州公务员考试《行测》第81题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2012-未标注-82",
@@ -691,7 +733,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年贵州公务员考试《行测》第82题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2012-未标注-83",
@@ -723,7 +767,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年贵州公务员考试《行测》第83题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2012-未标注-84",
@@ -755,7 +801,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年贵州公务员考试《行测》第84题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2012-未标注-85",
@@ -791,7 +839,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年贵州公务员考试《行测》第85题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2012-未标注-86",
@@ -826,7 +876,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年贵州公务员考试《行测》第86题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2012-未标注-87",
@@ -861,7 +913,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年贵州公务员考试《行测》第87题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2012-未标注-88",
@@ -896,7 +950,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年贵州公务员考试《行测》第88题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2012-未标注-89",
@@ -931,7 +987,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年贵州公务员考试《行测》第89题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2012-未标注-90",
@@ -965,7 +1023,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年贵州公务员考试《行测》第90题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2012-未标注-91",
@@ -999,7 +1059,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年贵州公务员考试《行测》第91题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2012-未标注-92",
@@ -1031,7 +1093,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年贵州公务员考试《行测》第92题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2012-未标注-93",
@@ -1066,7 +1130,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年贵州公务员考试《行测》第93题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2012-未标注-94",
@@ -1098,7 +1164,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年贵州公务员考试《行测》第94题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2012-未标注-95",
@@ -1132,7 +1200,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年贵州公务员考试《行测》第95题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2012-未标注-96",
@@ -1166,7 +1236,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年贵州公务员考试《行测》第96题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2012-未标注-97",
@@ -1198,7 +1270,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年贵州公务员考试《行测》第97题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2012-未标注-98",
@@ -1233,7 +1307,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年贵州公务员考试《行测》第98题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2012-未标注-99",
@@ -1267,7 +1343,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年贵州公务员考试《行测》第99题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2012-未标注-100",
@@ -1301,7 +1379,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年贵州公务员考试《行测》第100题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2012-未标注-101",
@@ -1317,7 +1397,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2012年贵州公务员考试《行测》第101题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guizhou-2013-413联考-91",
@@ -1336,7 +1418,9 @@
     "difficulty": "中等",
     "source": "2013年贵州公务员考试《行测》（413联考）第91题",
     "isImageQuestion": true,
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2013-413联考-92",
@@ -1355,7 +1439,9 @@
     "difficulty": "中等",
     "source": "2013年贵州公务员考试《行测》（413联考）第92题",
     "isImageQuestion": true,
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2013-413联考-93",
@@ -1374,7 +1460,9 @@
     "difficulty": "中等",
     "source": "2013年贵州公务员考试《行测》（413联考）第93题",
     "isImageQuestion": true,
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2013-413联考-94",
@@ -1394,7 +1482,9 @@
     "difficulty": "中等",
     "source": "2013年贵州公务员考试《行测》（413联考）第94题",
     "isImageQuestion": true,
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2013-413联考-95",
@@ -1413,7 +1503,9 @@
     "difficulty": "中等",
     "source": "2013年贵州公务员考试《行测》（413联考）第95题",
     "isImageQuestion": true,
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2013-413联考-96",
@@ -1433,7 +1525,9 @@
     "difficulty": "中等",
     "source": "2013年贵州公务员考试《行测》（413联考）第96题",
     "isImageQuestion": true,
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2013-413联考-97",
@@ -1452,7 +1546,9 @@
     "difficulty": "中等",
     "source": "2013年贵州公务员考试《行测》（413联考）第97题",
     "isImageQuestion": true,
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2013-413联考-98",
@@ -1471,7 +1567,9 @@
     "difficulty": "中等",
     "source": "2013年贵州公务员考试《行测》（413联考）第98题",
     "isImageQuestion": true,
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2013-413联考-99",
@@ -1506,7 +1604,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年贵州公务员考试《行测》（413联考）第99题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2013-413联考-100",
@@ -1541,7 +1641,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年贵州公务员考试《行测》（413联考）第100题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2013-413联考-101",
@@ -1577,7 +1679,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年贵州公务员考试《行测》（413联考）第101题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2013-413联考-102",
@@ -1613,7 +1717,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年贵州公务员考试《行测》（413联考）第102题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2013-413联考-103",
@@ -1647,7 +1753,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年贵州公务员考试《行测》（413联考）第103题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2013-413联考-104",
@@ -1681,7 +1789,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年贵州公务员考试《行测》（413联考）第104题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2013-413联考-105",
@@ -1715,7 +1825,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年贵州公务员考试《行测》（413联考）第105题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2013-413联考-106",
@@ -1750,7 +1862,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年贵州公务员考试《行测》（413联考）第106题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2013-413联考-107",
@@ -1785,7 +1899,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年贵州公务员考试《行测》（413联考）第107题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2013-413联考-108",
@@ -1819,7 +1935,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年贵州公务员考试《行测》（413联考）第108题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2013-413联考-109",
@@ -1854,7 +1972,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年贵州公务员考试《行测》（413联考）第109题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2013-413联考-110",
@@ -1889,7 +2009,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年贵州公务员考试《行测》（413联考）第110题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2013-413联考-111",
@@ -1923,7 +2045,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年贵州公务员考试《行测》（413联考）第111题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2013-413联考-112",
@@ -1959,7 +2083,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年贵州公务员考试《行测》（413联考）第112题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2013-413联考-113",
@@ -1995,7 +2121,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年贵州公务员考试《行测》（413联考）第113题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2013-413联考-114",
@@ -2031,7 +2159,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年贵州公务员考试《行测》（413联考）第114题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2013-413联考-115",
@@ -2067,7 +2197,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年贵州公务员考试《行测》（413联考）第115题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2013-413联考-116",
@@ -2102,7 +2234,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年贵州公务员考试《行测》（413联考）第116题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2013-413联考-117",
@@ -2136,7 +2270,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年贵州公务员考试《行测》（413联考）第117题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2013-413联考-118",
@@ -2172,7 +2308,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年贵州公务员考试《行测》（413联考）第118题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2013-413联考-119",
@@ -2207,7 +2345,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年贵州公务员考试《行测》（413联考）第119题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2013-413联考-120",
@@ -2242,7 +2382,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年贵州公务员考试《行测》（413联考）第120题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2013-413联考-121",
@@ -2277,7 +2419,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年贵州公务员考试《行测》（413联考）第121题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2013-413联考-122",
@@ -2312,7 +2456,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年贵州公务员考试《行测》（413联考）第122题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2013-413联考-123",
@@ -2348,7 +2494,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年贵州公务员考试《行测》（413联考）第123题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2013-413联考-124",
@@ -2384,7 +2532,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年贵州公务员考试《行测》（413联考）第124题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2013-413联考-125",
@@ -2419,7 +2569,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年贵州公务员考试《行测》（413联考）第125题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2013-413联考-126",
@@ -2455,7 +2607,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年贵州公务员考试《行测》（413联考）第126题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2013-413联考-127",
@@ -2491,7 +2645,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年贵州公务员考试《行测》（413联考）第127题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2013-413联考-128",
@@ -2527,7 +2683,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年贵州公务员考试《行测》（413联考）第128题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2013-413联考-129",
@@ -2563,7 +2721,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年贵州公务员考试《行测》（413联考）第129题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2013-413联考-130",
@@ -2599,7 +2759,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年贵州公务员考试《行测》（413联考）第130题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2013-413联考-131",
@@ -2635,7 +2797,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年贵州公务员考试《行测》（413联考）第131题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2013-413联考-132",
@@ -2671,7 +2835,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年贵州公务员考试《行测》（413联考）第132题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2013-413联考-133",
@@ -2707,7 +2873,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年贵州公务员考试《行测》（413联考）第133题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2013-413联考-134",
@@ -2742,7 +2910,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年贵州公务员考试《行测》（413联考）第134题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2014-412联考-66",
@@ -2779,7 +2949,9 @@
     "difficulty": "中等",
     "source": "2014年贵州公务员考试《行测》（412联考）第66题",
     "isImageQuestion": true,
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2014-412联考-67",
@@ -2799,7 +2971,9 @@
     "difficulty": "中等",
     "source": "2014年贵州公务员考试《行测》（412联考）第67题",
     "isImageQuestion": true,
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2014-412联考-68",
@@ -2818,7 +2992,9 @@
     "difficulty": "中等",
     "source": "2014年贵州公务员考试《行测》（412联考）第68题",
     "isImageQuestion": true,
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2014-412联考-69",
@@ -2837,7 +3013,9 @@
     "difficulty": "中等",
     "source": "2014年贵州公务员考试《行测》（412联考）第69题",
     "isImageQuestion": true,
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2014-412联考-70",
@@ -2857,7 +3035,9 @@
     "difficulty": "中等",
     "source": "2014年贵州公务员考试《行测》（412联考）第70题",
     "isImageQuestion": true,
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2014-412联考-71",
@@ -2892,7 +3072,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年贵州公务员考试《行测》（412联考）第71题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2014-412联考-72",
@@ -2926,7 +3108,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年贵州公务员考试《行测》（412联考）第72题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2014-412联考-73",
@@ -2961,7 +3145,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年贵州公务员考试《行测》（412联考）第73题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2014-412联考-74",
@@ -2996,7 +3182,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年贵州公务员考试《行测》（412联考）第74题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2014-412联考-75",
@@ -3031,7 +3219,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年贵州公务员考试《行测》（412联考）第75题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2014-412联考-76",
@@ -3065,7 +3255,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年贵州公务员考试《行测》（412联考）第76题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2014-412联考-77",
@@ -3099,7 +3291,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年贵州公务员考试《行测》（412联考）第77题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2014-412联考-78",
@@ -3133,7 +3327,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年贵州公务员考试《行测》（412联考）第78题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2014-412联考-79",
@@ -3168,7 +3364,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年贵州公务员考试《行测》（412联考）第79题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2014-412联考-80",
@@ -3203,7 +3401,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年贵州公务员考试《行测》（412联考）第80题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2014-412联考-81",
@@ -3239,7 +3439,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年贵州公务员考试《行测》（412联考）第81题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2014-412联考-82",
@@ -3275,7 +3477,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年贵州公务员考试《行测》（412联考）第82题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2014-412联考-83",
@@ -3311,7 +3515,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年贵州公务员考试《行测》（412联考）第83题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2014-412联考-84",
@@ -3346,7 +3552,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年贵州公务员考试《行测》（412联考）第84题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2014-412联考-85",
@@ -3381,7 +3589,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年贵州公务员考试《行测》（412联考）第85题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2014-412联考-86",
@@ -3417,7 +3627,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年贵州公务员考试《行测》（412联考）第86题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2014-412联考-87",
@@ -3451,7 +3663,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年贵州公务员考试《行测》（412联考）第87题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2014-412联考-88",
@@ -3487,7 +3701,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年贵州公务员考试《行测》（412联考）第88题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2014-412联考-89",
@@ -3522,7 +3738,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年贵州公务员考试《行测》（412联考）第89题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2014-412联考-90",
@@ -3557,7 +3775,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年贵州公务员考试《行测》（412联考）第90题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2014-412联考-91",
@@ -3593,7 +3813,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年贵州公务员考试《行测》（412联考）第91题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2014-412联考-92",
@@ -3628,7 +3850,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年贵州公务员考试《行测》（412联考）第92题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2014-412联考-93",
@@ -3664,7 +3888,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年贵州公务员考试《行测》（412联考）第93题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2014-412联考-94",
@@ -3699,7 +3925,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年贵州公务员考试《行测》（412联考）第94题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2014-412联考-95",
@@ -3735,7 +3963,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年贵州公务员考试《行测》（412联考）第95题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2014-412联考-96",
@@ -3770,7 +4000,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年贵州公务员考试《行测》（412联考）第96题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2014-412联考-97",
@@ -3806,7 +4038,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年贵州公务员考试《行测》（412联考）第97题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2014-412联考-98",
@@ -3841,7 +4075,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年贵州公务员考试《行测》（412联考）第98题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2014-412联考-99",
@@ -3876,7 +4112,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年贵州公务员考试《行测》（412联考）第99题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2014-412联考-100",
@@ -3911,7 +4149,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年贵州公务员考试《行测》（412联考）第100题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2015-425联考-66",
@@ -3931,7 +4171,9 @@
     "difficulty": "中等",
     "source": "2015年贵州公务员考试《行测》（425联考）第66题",
     "isImageQuestion": true,
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2015-425联考-67",
@@ -3950,7 +4192,9 @@
     "difficulty": "中等",
     "source": "2015年贵州公务员考试《行测》（425联考）第67题",
     "isImageQuestion": true,
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2015-425联考-68",
@@ -3986,7 +4230,9 @@
     "difficulty": "中等",
     "source": "2015年贵州公务员考试《行测》（425联考）第68题",
     "isImageQuestion": true,
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2015-425联考-69",
@@ -4006,7 +4252,9 @@
     "difficulty": "中等",
     "source": "2015年贵州公务员考试《行测》（425联考）第69题",
     "isImageQuestion": true,
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2015-425联考-70",
@@ -4025,7 +4273,9 @@
     "difficulty": "中等",
     "source": "2015年贵州公务员考试《行测》（425联考）第70题",
     "isImageQuestion": true,
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2015-425联考-71",
@@ -4061,7 +4311,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年贵州公务员考试《行测》（425联考）第71题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2015-425联考-72",
@@ -4096,7 +4348,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年贵州公务员考试《行测》（425联考）第72题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2015-425联考-73",
@@ -4131,7 +4385,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年贵州公务员考试《行测》（425联考）第73题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2015-425联考-74",
@@ -4166,7 +4422,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年贵州公务员考试《行测》（425联考）第74题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2015-425联考-75",
@@ -4201,7 +4459,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年贵州公务员考试《行测》（425联考）第75题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2015-425联考-76",
@@ -4237,7 +4497,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年贵州公务员考试《行测》（425联考）第76题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2015-425联考-77",
@@ -4273,7 +4535,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年贵州公务员考试《行测》（425联考）第77题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2015-425联考-78",
@@ -4308,7 +4572,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年贵州公务员考试《行测》（425联考）第78题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2015-425联考-79",
@@ -4343,7 +4609,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年贵州公务员考试《行测》（425联考）第79题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2015-425联考-80",
@@ -4377,7 +4645,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年贵州公务员考试《行测》（425联考）第80题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2015-425联考-81",
@@ -4413,7 +4683,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年贵州公务员考试《行测》（425联考）第81题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2015-425联考-82",
@@ -4449,7 +4721,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年贵州公务员考试《行测》（425联考）第82题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2015-425联考-83",
@@ -4485,7 +4759,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年贵州公务员考试《行测》（425联考）第83题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2015-425联考-84",
@@ -4521,7 +4797,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年贵州公务员考试《行测》（425联考）第84题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2015-425联考-85",
@@ -4557,7 +4835,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年贵州公务员考试《行测》（425联考）第85题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2015-425联考-86",
@@ -4592,7 +4872,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年贵州公务员考试《行测》（425联考）第86题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2015-425联考-87",
@@ -4628,7 +4910,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年贵州公务员考试《行测》（425联考）第87题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2015-425联考-88",
@@ -4663,7 +4947,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年贵州公务员考试《行测》（425联考）第88题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2015-425联考-89",
@@ -4697,7 +4983,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年贵州公务员考试《行测》（425联考）第89题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2015-425联考-90",
@@ -4733,7 +5021,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年贵州公务员考试《行测》（425联考）第90题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2015-425联考-91",
@@ -4769,7 +5059,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年贵州公务员考试《行测》（425联考）第91题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2015-425联考-92",
@@ -4804,7 +5096,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年贵州公务员考试《行测》（425联考）第92题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2015-425联考-93",
@@ -4839,7 +5133,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年贵州公务员考试《行测》（425联考）第93题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2015-425联考-94",
@@ -4875,7 +5171,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年贵州公务员考试《行测》（425联考）第94题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2015-425联考-95",
@@ -4911,7 +5209,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年贵州公务员考试《行测》（425联考）第95题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2015-425联考-96",
@@ -4946,7 +5246,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年贵州公务员考试《行测》（425联考）第96题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2015-425联考-97",
@@ -4981,7 +5283,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年贵州公务员考试《行测》（425联考）第97题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2015-425联考-98",
@@ -5016,7 +5320,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年贵州公务员考试《行测》（425联考）第98题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2015-425联考-99",
@@ -5051,7 +5357,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年贵州公务员考试《行测》（425联考）第99题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2015-425联考-100",
@@ -5087,7 +5395,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年贵州公务员考试《行测》（425联考）第100题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2016-423联考-66",
@@ -5122,7 +5432,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年贵州公务员考试《行测》（423联考）第66题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2016-423联考-67",
@@ -5158,7 +5470,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年贵州公务员考试《行测》（423联考）第67题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2016-423联考-68",
@@ -5194,7 +5508,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年贵州公务员考试《行测》（423联考）第68题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2016-423联考-69",
@@ -5228,7 +5544,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年贵州公务员考试《行测》（423联考）第69题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2016-423联考-70",
@@ -5264,7 +5582,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年贵州公务员考试《行测》（423联考）第70题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2016-423联考-71",
@@ -5299,7 +5619,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年贵州公务员考试《行测》（423联考）第71题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2016-423联考-72",
@@ -5335,7 +5657,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年贵州公务员考试《行测》（423联考）第72题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2016-423联考-73",
@@ -5370,7 +5694,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年贵州公务员考试《行测》（423联考）第73题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2016-423联考-74",
@@ -5406,7 +5732,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年贵州公务员考试《行测》（423联考）第74题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2016-423联考-75",
@@ -5441,7 +5769,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年贵州公务员考试《行测》（423联考）第75题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2016-423联考-76",
@@ -5476,7 +5806,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年贵州公务员考试《行测》（423联考）第76题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2016-423联考-77",
@@ -5511,7 +5843,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年贵州公务员考试《行测》（423联考）第77题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2016-423联考-78",
@@ -5530,7 +5864,9 @@
     "difficulty": "中等",
     "source": "2016年贵州公务员考试《行测》（423联考）第78题",
     "isImageQuestion": true,
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2016-423联考-79",
@@ -5566,7 +5902,9 @@
     "difficulty": "中等",
     "source": "2016年贵州公务员考试《行测》（423联考）第79题",
     "isImageQuestion": true,
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2016-423联考-80",
@@ -5603,7 +5941,9 @@
     "difficulty": "中等",
     "source": "2016年贵州公务员考试《行测》（423联考）第80题",
     "isImageQuestion": true,
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2016-423联考-81",
@@ -5621,7 +5961,9 @@
     "difficulty": "中等",
     "source": "2016年贵州公务员考试《行测》（423联考）第81题",
     "isImageQuestion": true,
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2016-423联考-82",
@@ -5639,7 +5981,9 @@
     "difficulty": "中等",
     "source": "2016年贵州公务员考试《行测》（423联考）第82题",
     "isImageQuestion": true,
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2016-423联考-83",
@@ -5674,7 +6018,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年贵州公务员考试《行测》（423联考）第83题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2016-423联考-84",
@@ -5710,7 +6056,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年贵州公务员考试《行测》（423联考）第84题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2016-423联考-85",
@@ -5746,7 +6094,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年贵州公务员考试《行测》（423联考）第85题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2016-423联考-86",
@@ -5781,7 +6131,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年贵州公务员考试《行测》（423联考）第86题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2016-423联考-87",
@@ -5813,7 +6165,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年贵州公务员考试《行测》（423联考）第87题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2016-423联考-88",
@@ -5848,7 +6202,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年贵州公务员考试《行测》（423联考）第88题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2016-423联考-89",
@@ -5882,7 +6238,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年贵州公务员考试《行测》（423联考）第89题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2016-423联考-90",
@@ -5917,7 +6275,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年贵州公务员考试《行测》（423联考）第90题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2016-423联考-91",
@@ -5952,7 +6312,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年贵州公务员考试《行测》（423联考）第91题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2016-423联考-92",
@@ -5988,7 +6350,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年贵州公务员考试《行测》（423联考）第92题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2016-423联考-93",
@@ -6023,7 +6387,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年贵州公务员考试《行测》（423联考）第93题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2016-423联考-94",
@@ -6059,7 +6425,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年贵州公务员考试《行测》（423联考）第94题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2016-423联考-95",
@@ -6094,7 +6462,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年贵州公务员考试《行测》（423联考）第95题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2016-423联考-96",
@@ -6130,7 +6500,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年贵州公务员考试《行测》（423联考）第96题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2016-423联考-97",
@@ -6165,7 +6537,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年贵州公务员考试《行测》（423联考）第97题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2016-423联考-98",
@@ -6200,7 +6574,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年贵州公务员考试《行测》（423联考）第98题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2016-423联考-99",
@@ -6236,7 +6612,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年贵州公务员考试《行测》（423联考）第99题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2016-423联考-100",
@@ -6272,7 +6650,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年贵州公务员考试《行测》（423联考）第100题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2017-422联考-66",
@@ -6291,7 +6671,9 @@
     "difficulty": "中等",
     "source": "2017年贵州公务员考试《行测》（422联考）第66题",
     "isImageQuestion": true,
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2017-422联考-67",
@@ -6311,7 +6693,9 @@
     "difficulty": "中等",
     "source": "2017年贵州公务员考试《行测》（422联考）第67题",
     "isImageQuestion": true,
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2017-422联考-68",
@@ -6330,7 +6714,9 @@
     "difficulty": "中等",
     "source": "2017年贵州公务员考试《行测》（422联考）第68题",
     "isImageQuestion": true,
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2017-422联考-69",
@@ -6348,7 +6734,9 @@
     "difficulty": "中等",
     "source": "2017年贵州公务员考试《行测》（422联考）第69题",
     "isImageQuestion": true,
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2017-422联考-70",
@@ -6367,7 +6755,9 @@
     "difficulty": "中等",
     "source": "2017年贵州公务员考试《行测》（422联考）第70题",
     "isImageQuestion": true,
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2017-422联考-71",
@@ -6402,7 +6792,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年贵州公务员考试《行测》（422联考）第71题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2017-422联考-72",
@@ -6438,7 +6830,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年贵州公务员考试《行测》（422联考）第72题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2017-422联考-73",
@@ -6474,7 +6868,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年贵州公务员考试《行测》（422联考）第73题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2017-422联考-74",
@@ -6508,7 +6904,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年贵州公务员考试《行测》（422联考）第74题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2017-422联考-75",
@@ -6543,6 +6941,8 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年贵州公务员考试《行测》（422联考）第75题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   }
 ]

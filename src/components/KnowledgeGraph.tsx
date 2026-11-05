@@ -22,9 +22,9 @@ interface KnowledgeGraphProps {
 }
 
 const STATUS_CONFIG: Record<KnowledgeStatus, { label: string; color: string; icon: React.ReactNode }> = {
-  unlearned: { label: '未学', color: 'text-slate-400 bg-slate-100', icon: <Circle className="w-3 h-3" /> },
-  reviewing: { label: '复习中', color: 'text-amber-600 bg-amber-50', icon: <RefreshCw className="w-3 h-3" /> },
-  mastered: { label: '已掌握', color: 'text-emerald-600 bg-emerald-50', icon: <CheckCircle2 className="w-3 h-3" /> }
+  unlearned: { label: '未学', color: 'text-slate-400 bg-slate-100 dark:bg-slate-800', icon: <Circle className="w-3 h-3" /> },
+  reviewing: { label: '复习中', color: 'text-slate-600 dark:text-slate-300 bg-slate-100 dark:bg-slate-800', icon: <RefreshCw className="w-3 h-3" /> },
+  mastered: { label: '已掌握', color: 'text-emerald-600 dark:text-emerald-400 bg-emerald-50 dark:bg-emerald-900/40', icon: <CheckCircle2 className="w-3 h-3" /> }
 };
 
 export const KnowledgeGraph: React.FC<KnowledgeGraphProps> = ({ onRequireLogin, onJumpToPractice }) => {
@@ -127,17 +127,17 @@ export const KnowledgeGraph: React.FC<KnowledgeGraphProps> = ({ onRequireLogin, 
   return (
     <div className="space-y-6">
       {/* Banner */}
-      <div className="bg-white rounded-2xl p-6 border border-slate-200/80 shadow-xs">
+      <div className="bg-white dark:bg-slate-900 rounded-2xl p-6 border border-slate-200/80 dark:border-slate-700/80 shadow-xs">
         <div className="flex flex-col md:flex-row md:items-center md:justify-between gap-4">
           <div>
-            <div className="inline-flex items-center gap-1.5 px-2.5 py-1 rounded-md bg-emerald-50 text-emerald-800 text-xs font-semibold mb-1.5">
-              <ListChecks className="w-3.5 h-3.5 text-emerald-600" />
+            <div className="inline-flex items-center gap-1.5 px-2.5 py-1 rounded-md bg-emerald-50 dark:bg-emerald-900/40 text-emerald-800 dark:text-emerald-300 text-xs font-semibold mb-1.5">
+              <ListChecks className="w-3.5 h-3.5 text-emerald-600 dark:text-emerald-400" />
               <span>知识图谱 · 体系化通关</span>
             </div>
-            <h2 className="text-xl sm:text-2xl font-bold tracking-tight text-slate-900">
+            <h2 className="text-xl sm:text-2xl font-bold tracking-tight text-slate-900 dark:text-slate-100">
               行测申论知识点体系树
             </h2>
-            <p className="text-xs sm:text-sm text-slate-500 mt-1 max-w-2xl">
+            <p className="text-xs sm:text-sm text-slate-500 dark:text-slate-400 mt-1 max-w-2xl">
               按章节 → 子考点 → 知识点卡片层级展开。每张卡片含讲解、速记口诀、常见陷阱与配套例题。标记掌握状态，进度云端同步。
             </p>
           </div>
@@ -145,14 +145,14 @@ export const KnowledgeGraph: React.FC<KnowledgeGraphProps> = ({ onRequireLogin, 
           <div className="flex items-center gap-4 shrink-0">
             <div className="relative w-16 h-16">
               <svg className="w-16 h-16 -rotate-90" viewBox="0 0 36 36">
-                <path d="M18 2.0845 a 15.9155 15.9155 0 0 1 0 31.831 a 15.9155 15.9155 0 0 1 0 -31.831" fill="none" stroke="#e2e8f0" strokeWidth="3" />
-                <path d="M18 2.0845 a 15.9155 15.9155 0 0 1 0 31.831 a 15.9155 15.9155 0 0 1 0 -31.831" fill="none" stroke="#10b981" strokeWidth="3" strokeDasharray={`${progressPct}, 100`} strokeLinecap="round" />
+                <path d="M18 2.0845 a 15.9155 15.9155 0 0 1 0 31.831 a 15.9155 15.9155 0 0 1 0 -31.831" fill="none" className="stroke-slate-200 dark:stroke-slate-500" strokeWidth="3" />
+                <path d="M18 2.0845 a 15.9155 15.9155 0 0 1 0 31.831 a 15.9155 15.9155 0 0 1 0 -31.831" fill="none" className="stroke-emerald-500 dark:stroke-emerald-400" strokeWidth="3" strokeDasharray={`${progressPct}, 100`} strokeLinecap="round" />
               </svg>
-              <div className="absolute inset-0 flex items-center justify-center text-xs font-bold text-emerald-600">{progressPct}%</div>
+              <div className="absolute inset-0 flex items-center justify-center text-xs font-bold text-emerald-600 dark:text-emerald-400">{progressPct}%</div>
             </div>
             <div className="text-xs space-y-0.5">
-              <div className="text-slate-500">已掌握 <span className="font-bold text-emerald-600">{masteredCount}</span> / {totalCards}</div>
-              <div className="text-amber-600">复习中 {reviewingCount}</div>
+              <div className="text-slate-500 dark:text-slate-400">已掌握 <span className="font-bold text-emerald-600 dark:text-emerald-400">{masteredCount}</span> / {totalCards}</div>
+              <div className="text-slate-600 dark:text-slate-300">复习中 {reviewingCount}</div>
             </div>
           </div>
         </div>
@@ -165,17 +165,17 @@ export const KnowledgeGraph: React.FC<KnowledgeGraphProps> = ({ onRequireLogin, 
           const chapterCards = chapter.subPoints.flatMap(s => s.cards);
           const chapterMastered = chapterCards.filter(c => statusMap[c.id] === 'mastered').length;
           return (
-            <div key={chapter.id} className="bg-white rounded-2xl border border-slate-200/80 shadow-xs overflow-hidden">
+            <div key={chapter.id} className="bg-white dark:bg-slate-900 rounded-2xl border border-slate-200/80 dark:border-slate-700/80 shadow-xs overflow-hidden">
               {/* 章节标题 */}
               <button
                 onClick={() => toggleChapter(chapter.id)}
-                className="w-full flex items-center justify-between px-5 py-4 hover:bg-slate-50 transition-colors cursor-pointer text-left"
+                className="w-full flex items-center justify-between px-5 py-4 hover:bg-slate-50 dark:hover:bg-slate-800 transition-colors cursor-pointer text-left"
               >
                 <div className="flex items-center gap-3">
                   {isChapterOpen ? <ChevronDown className="w-4 h-4 text-slate-400" /> : <ChevronRight className="w-4 h-4 text-slate-400" />}
                   <span className="text-lg">{chapter.icon}</span>
                   <div>
-                    <h3 className="text-sm font-bold text-slate-900">{chapter.title}</h3>
+                    <h3 className="text-sm font-bold text-slate-900 dark:text-slate-100">{chapter.title}</h3>
                     <p className="text-[11px] text-slate-400">{EXAM_MODULE_NAMES[chapter.module]} · {chapterCards.length} 个知识点</p>
                   </div>
                 </div>
@@ -184,19 +184,19 @@ export const KnowledgeGraph: React.FC<KnowledgeGraphProps> = ({ onRequireLogin, 
 
               {/* 子考点列表 */}
               {isChapterOpen && (
-                <div className="border-t border-slate-100 px-5 pb-4 space-y-2">
+                <div className="border-t border-slate-100 dark:border-slate-800 px-5 pb-4 space-y-2">
                   {chapter.subPoints.map(sub => {
                     const isSubOpen = expandedSubPoints.has(sub.id);
                     return (
-                      <div key={sub.id} className="rounded-xl border border-slate-100">
+                      <div key={sub.id} className="rounded-xl border border-slate-100 dark:border-slate-800">
                         {/* 子考点标题 */}
                         <button
                           onClick={() => toggleSubPoint(sub.id)}
-                          className="w-full flex items-center justify-between px-4 py-2.5 hover:bg-slate-50 transition-colors cursor-pointer text-left rounded-xl"
+                          className="w-full flex items-center justify-between px-4 py-2.5 hover:bg-slate-50 dark:hover:bg-slate-800 transition-colors cursor-pointer text-left rounded-xl"
                         >
                           <div className="flex items-center gap-2">
                             {isSubOpen ? <ChevronDown className="w-3.5 h-3.5 text-slate-400" /> : <ChevronRight className="w-3.5 h-3.5 text-slate-400" />}
-                            <span className="text-sm font-semibold text-slate-700">{sub.title}</span>
+                            <span className="text-sm font-semibold text-slate-700 dark:text-slate-200">{sub.title}</span>
                             <span className="text-[11px] text-slate-400">({sub.cards.length})</span>
                           </div>
                         </button>
@@ -208,11 +208,11 @@ export const KnowledgeGraph: React.FC<KnowledgeGraphProps> = ({ onRequireLogin, 
                               const status: KnowledgeStatus = statusMap[card.id] || 'unlearned';
                               const cfg = STATUS_CONFIG[status];
                               return (
-                                <div key={card.id} className="rounded-xl border border-slate-200 bg-slate-50/50 overflow-hidden">
+                                <div key={card.id} className="rounded-xl border border-slate-200 dark:border-slate-700 bg-slate-50/50 dark:bg-slate-800/50 overflow-hidden">
                                   {/* 卡片头部 */}
-                                  <div className="flex items-center justify-between px-4 py-2.5 bg-white/60 border-b border-slate-100">
-                                    <h4 className="text-sm font-bold text-slate-800 flex items-center gap-1.5">
-                                      <BookOpen className="w-3.5 h-3.5 text-emerald-600" />
+                                  <div className="flex items-center justify-between px-4 py-2.5 bg-white/60 dark:bg-slate-900/60 border-b border-slate-100 dark:border-slate-800">
+                                    <h4 className="text-sm font-bold text-slate-800 dark:text-slate-200 flex items-center gap-1.5">
+                                      <BookOpen className="w-3.5 h-3.5 text-emerald-600 dark:text-emerald-400" />
                                       {card.title}
                                     </h4>
                                     <span className={`inline-flex items-center gap-1 px-2 py-0.5 rounded text-[11px] font-medium ${cfg.color}`}>
@@ -224,27 +224,27 @@ export const KnowledgeGraph: React.FC<KnowledgeGraphProps> = ({ onRequireLogin, 
                                   {/* 卡片内容 */}
                                   <div className="p-4 space-y-3">
                                     {/* 讲解内容 */}
-                                    <p className="text-xs text-slate-700 leading-relaxed">{card.content}</p>
+                                    <p className="text-xs text-slate-700 dark:text-slate-200 leading-relaxed">{card.content}</p>
 
                                     {/* 速记口诀 */}
-                                    <div className="p-3 bg-amber-50/80 rounded-lg border border-amber-200/70">
-                                      <div className="flex items-center gap-1.5 text-[11px] font-bold text-amber-900 mb-1">
-                                        <Lightbulb className="w-3.5 h-3.5 text-amber-600" />
+                                    <div className="p-3 bg-emerald-50/80 dark:bg-emerald-900/40 rounded-lg border border-emerald-200/70 dark:border-emerald-800/70">
+                                      <div className="flex items-center gap-1.5 text-[11px] font-bold text-emerald-900 dark:text-emerald-200 mb-1">
+                                        <Lightbulb className="w-3.5 h-3.5 text-emerald-600 dark:text-emerald-400" />
                                         速记口诀
                                       </div>
-                                      <p className="text-xs text-amber-900 font-mono leading-relaxed">{card.mnemonic}</p>
+                                      <p className="text-xs text-emerald-900 dark:text-emerald-200 font-mono leading-relaxed">{card.mnemonic}</p>
                                     </div>
 
                                     {/* 常见陷阱 */}
                                     {card.pitfalls.length > 0 && (
-                                      <div className="p-3 bg-rose-50/60 rounded-lg border border-rose-200/60">
-                                        <div className="flex items-center gap-1.5 text-[11px] font-bold text-rose-900 mb-1.5">
-                                          <AlertTriangle className="w-3.5 h-3.5 text-rose-600" />
+                                      <div className="p-3 bg-rose-50/60 dark:bg-rose-900/40 rounded-lg border border-rose-200/60 dark:border-rose-800/60">
+                                        <div className="flex items-center gap-1.5 text-[11px] font-bold text-rose-900 dark:text-rose-200 mb-1.5">
+                                          <AlertTriangle className="w-3.5 h-3.5 text-rose-600 dark:text-rose-400" />
                                           常见陷阱
                                         </div>
                                         <ul className="space-y-1">
                                           {card.pitfalls.map((p, idx) => (
-                                            <li key={idx} className="text-xs text-rose-800 leading-relaxed flex gap-1.5">
+                                            <li key={idx} className="text-xs text-rose-800 dark:text-rose-300 leading-relaxed flex gap-1.5">
                                               <span className="text-rose-400 mt-0.5">•</span>
                                               <span>{p}</span>
                                             </li>
@@ -258,19 +258,19 @@ export const KnowledgeGraph: React.FC<KnowledgeGraphProps> = ({ onRequireLogin, 
                                       <div className="flex items-center gap-1.5">
                                         <button
                                           onClick={() => setCardStatus(card.id, 'unlearned')}
-                                          className={`px-2 py-1 rounded text-[11px] font-medium transition-colors cursor-pointer ${status === 'unlearned' ? 'bg-slate-200 text-slate-700' : 'bg-slate-100 text-slate-400 hover:bg-slate-200'}`}
+                                          className={`px-2 py-1 rounded text-[11px] font-medium transition-colors cursor-pointer ${status === 'unlearned' ? 'bg-slate-200 dark:bg-slate-700 text-slate-700 dark:text-slate-200' : 'bg-slate-100 dark:bg-slate-800 text-slate-400 hover:bg-slate-200 dark:hover:bg-slate-700'}`}
                                         >
                                           未学
                                         </button>
                                         <button
                                           onClick={() => setCardStatus(card.id, 'reviewing')}
-                                          className={`px-2 py-1 rounded text-[11px] font-medium transition-colors cursor-pointer ${status === 'reviewing' ? 'bg-amber-200 text-amber-800' : 'bg-slate-100 text-slate-400 hover:bg-amber-100'}`}
+                                          className={`px-2 py-1 rounded text-[11px] font-medium transition-colors cursor-pointer ${status === 'reviewing' ? 'bg-slate-200 dark:bg-slate-700 text-slate-700 dark:text-slate-200' : 'bg-slate-100 dark:bg-slate-800 text-slate-400 hover:bg-slate-200 dark:hover:bg-slate-700'}`}
                                         >
                                           复习中
                                         </button>
                                         <button
                                           onClick={() => setCardStatus(card.id, 'mastered')}
-                                          className={`px-2 py-1 rounded text-[11px] font-medium transition-colors cursor-pointer ${status === 'mastered' ? 'bg-emerald-200 text-emerald-800' : 'bg-slate-100 text-slate-400 hover:bg-emerald-100'}`}
+                                          className={`px-2 py-1 rounded text-[11px] font-medium transition-colors cursor-pointer ${status === 'mastered' ? 'bg-emerald-200 dark:bg-emerald-800 text-emerald-800 dark:text-emerald-300' : 'bg-slate-100 dark:bg-slate-800 text-slate-400 hover:bg-emerald-100 dark:hover:bg-emerald-900/40'}`}
                                         >
                                           已掌握
                                         </button>

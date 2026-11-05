@@ -33,7 +33,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年四川公务员考试《行测》（下半年）第91题",
-    "province": "四川"
+    "province": "四川",
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2014-下半年-92",
@@ -68,7 +70,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年四川公务员考试《行测》（下半年）第92题",
-    "province": "四川"
+    "province": "四川",
+    "subModule": "综合材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-sichuan-2014-下半年-93",
@@ -104,7 +108,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年四川公务员考试《行测》（下半年）第93题",
-    "province": "四川"
+    "province": "四川",
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2014-下半年-94",
@@ -141,7 +147,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年四川公务员考试《行测》（下半年）第94题",
-    "province": "四川"
+    "province": "四川",
+    "subModule": "综合材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-sichuan-2014-下半年-95",
@@ -174,7 +182,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年四川公务员考试《行测》（下半年）第95题",
-    "province": "四川"
+    "province": "四川",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2014-下半年-96",
@@ -209,7 +219,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年四川公务员考试《行测》（下半年）第96题",
-    "province": "四川"
+    "province": "四川",
+    "subModule": "图形材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2014-下半年-97",
@@ -245,7 +257,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年四川公务员考试《行测》（下半年）第97题",
-    "province": "四川"
+    "province": "四川",
+    "subModule": "图形材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2014-下半年-98",
@@ -281,7 +295,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年四川公务员考试《行测》（下半年）第98题",
-    "province": "四川"
+    "province": "四川",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2014-下半年-99",
@@ -316,7 +332,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年四川公务员考试《行测》（下半年）第99题",
-    "province": "四川"
+    "province": "四川",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2014-下半年-100",
@@ -351,7 +369,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年四川公务员考试《行测》（下半年）第100题",
-    "province": "四川"
+    "province": "四川",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2015-上半年-86",
@@ -386,7 +406,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年四川公务员考试《行测》（上半年）第86题",
-    "province": "四川"
+    "province": "四川",
+    "isAbnormal": true,
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2015-上半年-87",
@@ -421,7 +444,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年四川公务员考试《行测》（上半年）第87题",
-    "province": "四川"
+    "province": "四川",
+    "isAbnormal": true,
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2015-上半年-88",
@@ -458,7 +484,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年四川公务员考试《行测》（上半年）第88题",
-    "province": "四川"
+    "province": "四川",
+    "isAbnormal": true,
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2015-上半年-89",
@@ -493,7 +522,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年四川公务员考试《行测》（上半年）第89题",
-    "province": "四川"
+    "province": "四川",
+    "isAbnormal": true,
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2015-上半年-90",
@@ -528,7 +560,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年四川公务员考试《行测》（上半年）第90题",
-    "province": "四川"
+    "province": "四川",
+    "isAbnormal": true,
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2015-上半年-91",
@@ -565,7 +600,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年四川公务员考试《行测》（上半年）第91题",
-    "province": "四川"
+    "province": "四川",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2015-上半年-92",
@@ -601,7 +638,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年四川公务员考试《行测》（上半年）第92题",
-    "province": "四川"
+    "province": "四川",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2015-上半年-93",
@@ -637,7 +676,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年四川公务员考试《行测》（上半年）第93题",
-    "province": "四川"
+    "province": "四川",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2015-上半年-94",
@@ -672,7 +713,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年四川公务员考试《行测》（上半年）第94题",
-    "province": "四川"
+    "province": "四川",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2015-上半年-95",
@@ -709,7 +752,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年四川公务员考试《行测》（上半年）第95题",
-    "province": "四川"
+    "province": "四川",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2015-上半年-96",
@@ -745,7 +790,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年四川公务员考试《行测》（上半年）第96题",
-    "province": "四川"
+    "province": "四川",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2015-上半年-97",
@@ -781,7 +828,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年四川公务员考试《行测》（上半年）第97题",
-    "province": "四川"
+    "province": "四川",
+    "subModule": "综合材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-sichuan-2015-上半年-98",
@@ -818,7 +867,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年四川公务员考试《行测》（上半年）第98题",
-    "province": "四川"
+    "province": "四川",
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2015-上半年-99",
@@ -854,7 +905,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年四川公务员考试《行测》（上半年）第99题",
-    "province": "四川"
+    "province": "四川",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2015-上半年-100",
@@ -891,7 +944,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年四川公务员考试《行测》（上半年）第100题",
-    "province": "四川"
+    "province": "四川",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2016-未标注-86",
@@ -927,7 +982,9 @@
     "difficulty": "中等",
     "source": "2016年四川公务员考试《行测》第86题",
     "isImageQuestion": true,
-    "province": "四川"
+    "province": "四川",
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2016-未标注-87",
@@ -964,7 +1021,9 @@
     "difficulty": "中等",
     "source": "2016年四川公务员考试《行测》第87题",
     "isImageQuestion": true,
-    "province": "四川"
+    "province": "四川",
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2016-未标注-88",
@@ -1001,7 +1060,9 @@
     "difficulty": "中等",
     "source": "2016年四川公务员考试《行测》第88题",
     "isImageQuestion": true,
-    "province": "四川"
+    "province": "四川",
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2016-未标注-89",
@@ -1037,7 +1098,9 @@
     "difficulty": "中等",
     "source": "2016年四川公务员考试《行测》第89题",
     "isImageQuestion": true,
-    "province": "四川"
+    "province": "四川",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2016-未标注-90",
@@ -1074,7 +1137,9 @@
     "difficulty": "中等",
     "source": "2016年四川公务员考试《行测》第90题",
     "isImageQuestion": true,
-    "province": "四川"
+    "province": "四川",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2016-未标注-91",
@@ -1110,7 +1175,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年四川公务员考试《行测》第91题",
-    "province": "四川"
+    "province": "四川",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2016-未标注-92",
@@ -1145,7 +1212,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年四川公务员考试《行测》第92题",
-    "province": "四川"
+    "province": "四川",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2016-未标注-93",
@@ -1181,7 +1250,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年四川公务员考试《行测》第93题",
-    "province": "四川"
+    "province": "四川",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2016-未标注-94",
@@ -1216,7 +1287,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年四川公务员考试《行测》第94题",
-    "province": "四川"
+    "province": "四川",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2016-未标注-95",
@@ -1251,7 +1324,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年四川公务员考试《行测》第95题",
-    "province": "四川"
+    "province": "四川",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2016-未标注-96",
@@ -1287,7 +1362,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年四川公务员考试《行测》第96题",
-    "province": "四川"
+    "province": "四川",
+    "subModule": "图形材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2016-未标注-97",
@@ -1323,7 +1400,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年四川公务员考试《行测》第97题",
-    "province": "四川"
+    "province": "四川",
+    "subModule": "图形材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2016-未标注-98",
@@ -1359,7 +1438,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年四川公务员考试《行测》第98题",
-    "province": "四川"
+    "province": "四川",
+    "subModule": "图形材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2016-未标注-99",
@@ -1395,7 +1476,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年四川公务员考试《行测》第99题",
-    "province": "四川"
+    "province": "四川",
+    "subModule": "图形材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2016-未标注-100",
@@ -1431,7 +1514,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年四川公务员考试《行测》第100题",
-    "province": "四川"
+    "province": "四川",
+    "subModule": "图形材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2016-下半年-86",
@@ -1466,7 +1551,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年四川公务员考试《行测》（下半年）第86题",
-    "province": "四川"
+    "province": "四川",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2016-下半年-87",
@@ -1501,7 +1588,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年四川公务员考试《行测》（下半年）第87题",
-    "province": "四川"
+    "province": "四川",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2016-下半年-88",
@@ -1536,7 +1625,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年四川公务员考试《行测》（下半年）第88题",
-    "province": "四川"
+    "province": "四川",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2016-下半年-89",
@@ -1573,7 +1664,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年四川公务员考试《行测》（下半年）第89题",
-    "province": "四川"
+    "province": "四川",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2016-下半年-90",
@@ -1608,7 +1701,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年四川公务员考试《行测》（下半年）第90题",
-    "province": "四川"
+    "province": "四川",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2016-下半年-91",
@@ -1643,7 +1738,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年四川公务员考试《行测》（下半年）第91题",
-    "province": "四川"
+    "province": "四川",
+    "isAbnormal": true,
+    "subModule": "图形材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2016-下半年-92",
@@ -1676,7 +1774,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年四川公务员考试《行测》（下半年）第92题",
-    "province": "四川"
+    "province": "四川",
+    "isAbnormal": true,
+    "subModule": "综合材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-sichuan-2016-下半年-93",
@@ -1711,7 +1812,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年四川公务员考试《行测》（下半年）第93题",
-    "province": "四川"
+    "province": "四川",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2016-下半年-94",
@@ -1746,7 +1849,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年四川公务员考试《行测》（下半年）第94题",
-    "province": "四川"
+    "province": "四川",
+    "subModule": "图形材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2016-下半年-95",
@@ -1782,7 +1887,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年四川公务员考试《行测》（下半年）第95题",
-    "province": "四川"
+    "province": "四川",
+    "isAbnormal": true,
+    "subModule": "图形材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2016-下半年-96",
@@ -1818,7 +1926,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年四川公务员考试《行测》（下半年）第96题",
-    "province": "四川"
+    "province": "四川",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2016-下半年-97",
@@ -1854,7 +1964,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年四川公务员考试《行测》（下半年）第97题",
-    "province": "四川"
+    "province": "四川",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2016-下半年-98",
@@ -1874,7 +1986,9 @@
     "difficulty": "中等",
     "source": "2016年四川公务员考试《行测》（下半年）第98题",
     "isImageQuestion": true,
-    "province": "四川"
+    "province": "四川",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2016-下半年-99",
@@ -1909,7 +2023,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年四川公务员考试《行测》（下半年）第99题",
-    "province": "四川"
+    "province": "四川",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2016-下半年-100",
@@ -1945,7 +2061,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年四川公务员考试《行测》（下半年）第100题",
-    "province": "四川"
+    "province": "四川",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2017-上半年-86",
@@ -1978,7 +2096,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年四川公务员考试《行测》（上半年）第86题",
-    "province": "四川"
+    "province": "四川",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2017-上半年-87",
@@ -2011,7 +2131,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年四川公务员考试《行测》（上半年）第87题",
-    "province": "四川"
+    "province": "四川",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2017-上半年-88",
@@ -2032,7 +2154,10 @@
     "difficulty": "中等",
     "source": "2017年四川公务员考试《行测》（上半年）第88题",
     "isImageQuestion": true,
-    "province": "四川"
+    "province": "四川",
+    "isAbnormal": true,
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2017-上半年-89",
@@ -2065,7 +2190,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年四川公务员考试《行测》（上半年）第89题",
-    "province": "四川"
+    "province": "四川",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2017-上半年-90",
@@ -2101,7 +2228,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年四川公务员考试《行测》（上半年）第90题",
-    "province": "四川"
+    "province": "四川",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2017-上半年-91",
@@ -2136,7 +2265,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年四川公务员考试《行测》（上半年）第91题",
-    "province": "四川"
+    "province": "四川",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2017-上半年-92",
@@ -2171,7 +2302,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年四川公务员考试《行测》（上半年）第92题",
-    "province": "四川"
+    "province": "四川",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2017-上半年-93",
@@ -2204,7 +2337,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年四川公务员考试《行测》（上半年）第93题",
-    "province": "四川"
+    "province": "四川",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2017-上半年-94",
@@ -2237,7 +2372,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年四川公务员考试《行测》（上半年）第94题",
-    "province": "四川"
+    "province": "四川",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2017-上半年-95",
@@ -2270,7 +2407,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年四川公务员考试《行测》（上半年）第95题",
-    "province": "四川"
+    "province": "四川",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2017-上半年-96",
@@ -2306,7 +2445,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年四川公务员考试《行测》（上半年）第96题",
-    "province": "四川"
+    "province": "四川",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2017-上半年-97",
@@ -2339,7 +2480,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年四川公务员考试《行测》（上半年）第97题",
-    "province": "四川"
+    "province": "四川",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2017-上半年-98",
@@ -2376,7 +2519,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年四川公务员考试《行测》（上半年）第98题",
-    "province": "四川"
+    "province": "四川",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2017-上半年-99",
@@ -2413,7 +2558,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年四川公务员考试《行测》（上半年）第99题",
-    "province": "四川"
+    "province": "四川",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2017-上半年-100",
@@ -2449,7 +2596,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年四川公务员考试《行测》（上半年）第100题",
-    "province": "四川"
+    "province": "四川",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2017-下半年-86",
@@ -2485,7 +2634,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年四川公务员考试《行测》（下半年）第86题",
-    "province": "四川"
+    "province": "四川",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2017-下半年-87",
@@ -2521,7 +2672,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年四川公务员考试《行测》（下半年）第87题",
-    "province": "四川"
+    "province": "四川",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2017-下半年-88",
@@ -2556,7 +2709,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年四川公务员考试《行测》（下半年）第88题",
-    "province": "四川"
+    "province": "四川",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2017-下半年-89",
@@ -2592,7 +2747,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年四川公务员考试《行测》（下半年）第89题",
-    "province": "四川"
+    "province": "四川",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2017-下半年-90",
@@ -2628,7 +2785,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年四川公务员考试《行测》（下半年）第90题",
-    "province": "四川"
+    "province": "四川",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2017-下半年-91",
@@ -2663,7 +2822,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年四川公务员考试《行测》（下半年）第91题",
-    "province": "四川"
+    "province": "四川",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2017-下半年-92",
@@ -2698,7 +2859,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年四川公务员考试《行测》（下半年）第92题",
-    "province": "四川"
+    "province": "四川",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2017-下半年-93",
@@ -2734,7 +2897,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年四川公务员考试《行测》（下半年）第93题",
-    "province": "四川"
+    "province": "四川",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2017-下半年-94",
@@ -2769,7 +2934,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年四川公务员考试《行测》（下半年）第94题",
-    "province": "四川"
+    "province": "四川",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2017-下半年-95",
@@ -2805,7 +2972,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年四川公务员考试《行测》（下半年）第95题",
-    "province": "四川"
+    "province": "四川",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2017-下半年-96",
@@ -2841,7 +3010,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年四川公务员考试《行测》（下半年）第96题",
-    "province": "四川"
+    "province": "四川",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2017-下半年-97",
@@ -2876,7 +3047,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年四川公务员考试《行测》（下半年）第97题",
-    "province": "四川"
+    "province": "四川",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2017-下半年-98",
@@ -2911,7 +3084,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年四川公务员考试《行测》（下半年）第98题",
-    "province": "四川"
+    "province": "四川",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2017-下半年-99",
@@ -2948,7 +3123,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年四川公务员考试《行测》（下半年）第99题",
-    "province": "四川"
+    "province": "四川",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2017-下半年-100",
@@ -2983,7 +3160,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年四川公务员考试《行测》（下半年）第100题",
-    "province": "四川"
+    "province": "四川",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2018-421联考-86",
@@ -3019,7 +3198,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年四川公务员考试《行测》（421联考）第86题",
-    "province": "四川"
+    "province": "四川",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2018-421联考-87",
@@ -3054,7 +3235,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年四川公务员考试《行测》（421联考）第87题",
-    "province": "四川"
+    "province": "四川",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2018-421联考-88",
@@ -3089,7 +3272,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年四川公务员考试《行测》（421联考）第88题",
-    "province": "四川"
+    "province": "四川",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2018-421联考-89",
@@ -3125,7 +3310,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年四川公务员考试《行测》（421联考）第89题",
-    "province": "四川"
+    "province": "四川",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2018-421联考-90",
@@ -3161,7 +3348,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年四川公务员考试《行测》（421联考）第90题",
-    "province": "四川"
+    "province": "四川",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2018-421联考-91",
@@ -3196,7 +3385,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年四川公务员考试《行测》（421联考）第91题",
-    "province": "四川"
+    "province": "四川",
+    "isAbnormal": true,
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2018-421联考-92",
@@ -3231,7 +3423,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年四川公务员考试《行测》（421联考）第92题",
-    "province": "四川"
+    "province": "四川",
+    "isAbnormal": true,
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2018-421联考-93",
@@ -3266,7 +3461,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年四川公务员考试《行测》（421联考）第93题",
-    "province": "四川"
+    "province": "四川",
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2018-421联考-94",
@@ -3303,7 +3500,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年四川公务员考试《行测》（421联考）第94题",
-    "province": "四川"
+    "province": "四川",
+    "isAbnormal": true,
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2018-421联考-95",
@@ -3340,7 +3540,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年四川公务员考试《行测》（421联考）第95题",
-    "province": "四川"
+    "province": "四川",
+    "isAbnormal": true,
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2018-421联考-96",
@@ -3375,7 +3578,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年四川公务员考试《行测》（421联考）第96题",
-    "province": "四川"
+    "province": "四川",
+    "subModule": "图形材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2018-421联考-97",
@@ -3410,7 +3615,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年四川公务员考试《行测》（421联考）第97题",
-    "province": "四川"
+    "province": "四川",
+    "isAbnormal": true,
+    "subModule": "图形材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2018-421联考-98",
@@ -3427,7 +3635,9 @@
     "difficulty": "中等",
     "source": "2018年四川公务员考试《行测》（421联考）第98题",
     "isImageQuestion": true,
-    "province": "四川"
+    "province": "四川",
+    "subModule": "综合材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-sichuan-2018-421联考-99",
@@ -3460,7 +3670,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年四川公务员考试《行测》（421联考）第99题",
-    "province": "四川"
+    "province": "四川",
+    "isAbnormal": true,
+    "subModule": "图形材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2018-421联考-100",
@@ -3496,7 +3709,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年四川公务员考试《行测》（421联考）第100题",
-    "province": "四川"
+    "province": "四川",
+    "isAbnormal": true,
+    "subModule": "图形材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2018-下半年-86",
@@ -3531,7 +3747,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年四川公务员考试《行测》（下半年）第86题",
-    "province": "四川"
+    "province": "四川",
+    "isAbnormal": true,
+    "subModule": "图形材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2018-下半年-87",
@@ -3566,7 +3785,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年四川公务员考试《行测》（下半年）第87题",
-    "province": "四川"
+    "province": "四川",
+    "isAbnormal": true,
+    "subModule": "图形材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2018-下半年-88",
@@ -3601,7 +3823,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年四川公务员考试《行测》（下半年）第88题",
-    "province": "四川"
+    "province": "四川",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2018-下半年-89",
@@ -3636,7 +3860,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年四川公务员考试《行测》（下半年）第89题",
-    "province": "四川"
+    "province": "四川",
+    "subModule": "图形材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2018-下半年-90",
@@ -3672,7 +3898,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年四川公务员考试《行测》（下半年）第90题",
-    "province": "四川"
+    "province": "四川",
+    "isAbnormal": true,
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2018-下半年-91",
@@ -3704,7 +3933,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年四川公务员考试《行测》（下半年）第91题",
-    "province": "四川"
+    "province": "四川",
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2018-下半年-92",
@@ -3738,7 +3969,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年四川公务员考试《行测》（下半年）第92题",
-    "province": "四川"
+    "province": "四川",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2018-下半年-93",
@@ -3772,7 +4005,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年四川公务员考试《行测》（下半年）第93题",
-    "province": "四川"
+    "province": "四川",
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2018-下半年-94",
@@ -3806,7 +4041,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年四川公务员考试《行测》（下半年）第94题",
-    "province": "四川"
+    "province": "四川",
+    "isAbnormal": true,
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2018-下半年-95",
@@ -3841,7 +4079,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年四川公务员考试《行测》（下半年）第95题",
-    "province": "四川"
+    "province": "四川",
+    "isAbnormal": true,
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2018-下半年-96",
@@ -3876,7 +4117,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年四川公务员考试《行测》（下半年）第96题",
-    "province": "四川"
+    "province": "四川",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2018-下半年-97",
@@ -3911,7 +4154,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年四川公务员考试《行测》（下半年）第97题",
-    "province": "四川"
+    "province": "四川",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2018-下半年-98",
@@ -3947,7 +4192,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年四川公务员考试《行测》（下半年）第98题",
-    "province": "四川"
+    "province": "四川",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2018-下半年-99",
@@ -3982,7 +4229,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年四川公务员考试《行测》（下半年）第99题",
-    "province": "四川"
+    "province": "四川",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2018-下半年-100",
@@ -4018,7 +4267,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年四川公务员考试《行测》（下半年）第100题",
-    "province": "四川"
+    "province": "四川",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2019-上半年-86",
@@ -4053,7 +4304,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年四川公务员考试《行测》（上半年）第86题",
-    "province": "四川"
+    "province": "四川",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2019-上半年-87",
@@ -4088,7 +4341,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年四川公务员考试《行测》（上半年）第87题",
-    "province": "四川"
+    "province": "四川",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2019-上半年-88",
@@ -4121,7 +4376,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年四川公务员考试《行测》（上半年）第88题",
-    "province": "四川"
+    "province": "四川",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2019-上半年-89",
@@ -4140,7 +4397,9 @@
     "difficulty": "中等",
     "source": "2019年四川公务员考试《行测》（上半年）第89题",
     "isImageQuestion": true,
-    "province": "四川"
+    "province": "四川",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2019-上半年-90",
@@ -4175,7 +4434,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年四川公务员考试《行测》（上半年）第90题",
-    "province": "四川"
+    "province": "四川",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2019-上半年-91",
@@ -4210,7 +4471,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年四川公务员考试《行测》（上半年）第91题",
-    "province": "四川"
+    "province": "四川",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2019-上半年-92",
@@ -4246,7 +4509,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年四川公务员考试《行测》（上半年）第92题",
-    "province": "四川"
+    "province": "四川",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2019-上半年-93",
@@ -4281,7 +4546,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年四川公务员考试《行测》（上半年）第93题",
-    "province": "四川"
+    "province": "四川",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2019-上半年-94",
@@ -4316,7 +4583,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年四川公务员考试《行测》（上半年）第94题",
-    "province": "四川"
+    "province": "四川",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2019-上半年-95",
@@ -4352,7 +4621,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年四川公务员考试《行测》（上半年）第95题",
-    "province": "四川"
+    "province": "四川",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2019-上半年-96",
@@ -4387,7 +4658,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年四川公务员考试《行测》（上半年）第96题",
-    "province": "四川"
+    "province": "四川",
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2019-上半年-97",
@@ -4420,7 +4693,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年四川公务员考试《行测》（上半年）第97题",
-    "province": "四川"
+    "province": "四川",
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-sichuan-2019-上半年-98",
@@ -4453,7 +4728,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年四川公务员考试《行测》（上半年）第98题",
-    "province": "四川"
+    "province": "四川",
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-sichuan-2019-上半年-99",
@@ -4470,7 +4747,9 @@
     "difficulty": "中等",
     "source": "2019年四川公务员考试《行测》（上半年）第99题",
     "isImageQuestion": true,
-    "province": "四川"
+    "province": "四川",
+    "subModule": "综合材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-sichuan-2019-上半年-100",
@@ -4507,7 +4786,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年四川公务员考试《行测》（上半年）第100题",
-    "province": "四川"
+    "province": "四川",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2019-下半年-86",
@@ -4542,7 +4823,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年四川公务员考试《行测》（下半年）第86题",
-    "province": "四川"
+    "province": "四川",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2019-下半年-87",
@@ -4577,7 +4860,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年四川公务员考试《行测》（下半年）第87题",
-    "province": "四川"
+    "province": "四川",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2019-下半年-88",
@@ -4613,7 +4898,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年四川公务员考试《行测》（下半年）第88题",
-    "province": "四川"
+    "province": "四川",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2019-下半年-89",
@@ -4648,7 +4935,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年四川公务员考试《行测》（下半年）第89题",
-    "province": "四川"
+    "province": "四川",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2019-下半年-90",
@@ -4684,7 +4973,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年四川公务员考试《行测》（下半年）第90题",
-    "province": "四川"
+    "province": "四川",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2019-下半年-91",
@@ -4720,7 +5011,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年四川公务员考试《行测》（下半年）第91题",
-    "province": "四川"
+    "province": "四川",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2019-下半年-92",
@@ -4755,7 +5048,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年四川公务员考试《行测》（下半年）第92题",
-    "province": "四川"
+    "province": "四川",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2019-下半年-93",
@@ -4791,7 +5086,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年四川公务员考试《行测》（下半年）第93题",
-    "province": "四川"
+    "province": "四川",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2019-下半年-94",
@@ -4826,7 +5123,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年四川公务员考试《行测》（下半年）第94题",
-    "province": "四川"
+    "province": "四川",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2019-下半年-95",
@@ -4863,7 +5162,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年四川公务员考试《行测》（下半年）第95题",
-    "province": "四川"
+    "province": "四川",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2019-下半年-96",
@@ -4898,7 +5199,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年四川公务员考试《行测》（下半年）第96题",
-    "province": "四川"
+    "province": "四川",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2019-下半年-97",
@@ -4935,7 +5238,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年四川公务员考试《行测》（下半年）第97题",
-    "province": "四川"
+    "province": "四川",
+    "subModule": "综合材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-sichuan-2019-下半年-98",
@@ -4970,7 +5275,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年四川公务员考试《行测》（下半年）第98题",
-    "province": "四川"
+    "province": "四川",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2019-下半年-99",
@@ -5006,7 +5313,9 @@
     "difficulty": "中等",
     "source": "2019年四川公务员考试《行测》（下半年）第99题",
     "isImageQuestion": true,
-    "province": "四川"
+    "province": "四川",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2019-下半年-100",
@@ -5042,7 +5351,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年四川公务员考试《行测》（下半年）第100题",
-    "province": "四川"
+    "province": "四川",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2020-未标注-86",
@@ -5079,7 +5390,9 @@
     "difficulty": "中等",
     "source": "2020年四川公务员考试《行测》第86题",
     "isImageQuestion": true,
-    "province": "四川"
+    "province": "四川",
+    "subModule": "图形材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2020-未标注-87",
@@ -5116,7 +5429,9 @@
     "difficulty": "中等",
     "source": "2020年四川公务员考试《行测》第87题",
     "isImageQuestion": true,
-    "province": "四川"
+    "province": "四川",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2020-未标注-88",
@@ -5153,7 +5468,9 @@
     "difficulty": "中等",
     "source": "2020年四川公务员考试《行测》第88题",
     "isImageQuestion": true,
-    "province": "四川"
+    "province": "四川",
+    "subModule": "图形材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2020-未标注-89",
@@ -5189,7 +5506,9 @@
     "difficulty": "中等",
     "source": "2020年四川公务员考试《行测》第89题",
     "isImageQuestion": true,
-    "province": "四川"
+    "province": "四川",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2020-未标注-90",
@@ -5227,7 +5546,9 @@
     "difficulty": "中等",
     "source": "2020年四川公务员考试《行测》第90题",
     "isImageQuestion": true,
-    "province": "四川"
+    "province": "四川",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2020-未标注-91",
@@ -5263,7 +5584,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年四川公务员考试《行测》第91题",
-    "province": "四川"
+    "province": "四川",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2020-未标注-92",
@@ -5298,7 +5621,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年四川公务员考试《行测》第92题",
-    "province": "四川"
+    "province": "四川",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2020-未标注-93",
@@ -5333,7 +5658,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年四川公务员考试《行测》第93题",
-    "province": "四川"
+    "province": "四川",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2020-未标注-94",
@@ -5369,7 +5696,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年四川公务员考试《行测》第94题",
-    "province": "四川"
+    "province": "四川",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2020-未标注-95",
@@ -5405,7 +5734,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年四川公务员考试《行测》第95题",
-    "province": "四川"
+    "province": "四川",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2020-未标注-96",
@@ -5441,7 +5772,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年四川公务员考试《行测》第96题",
-    "province": "四川"
+    "province": "四川",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2020-未标注-97",
@@ -5476,7 +5809,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年四川公务员考试《行测》第97题",
-    "province": "四川"
+    "province": "四川",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2020-未标注-98",
@@ -5511,7 +5846,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年四川公务员考试《行测》第98题",
-    "province": "四川"
+    "province": "四川",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2020-未标注-99",
@@ -5547,7 +5884,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年四川公务员考试《行测》第99题",
-    "province": "四川"
+    "province": "四川",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2020-未标注-100",
@@ -5584,7 +5923,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年四川公务员考试《行测》第100题",
-    "province": "四川"
+    "province": "四川",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2020-未标注-86-2",
@@ -5619,7 +5960,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年四川公务员考试《行测》第86题",
-    "province": "四川"
+    "province": "四川",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2020-未标注-87-2",
@@ -5654,7 +5997,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年四川公务员考试《行测》第87题",
-    "province": "四川"
+    "province": "四川",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2020-未标注-88-2",
@@ -5689,7 +6034,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年四川公务员考试《行测》第88题",
-    "province": "四川"
+    "province": "四川",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2020-未标注-89-2",
@@ -5725,7 +6072,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年四川公务员考试《行测》第89题",
-    "province": "四川"
+    "province": "四川",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2020-未标注-90-2",
@@ -5761,7 +6110,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年四川公务员考试《行测》第90题",
-    "province": "四川"
+    "province": "四川",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2020-未标注-91-2",
@@ -5796,7 +6147,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年四川公务员考试《行测》第91题",
-    "province": "四川"
+    "province": "四川",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2020-未标注-92-2",
@@ -5833,7 +6186,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年四川公务员考试《行测》第92题",
-    "province": "四川"
+    "province": "四川",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2020-未标注-93-2",
@@ -5869,7 +6224,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年四川公务员考试《行测》第93题",
-    "province": "四川"
+    "province": "四川",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2020-未标注-94-2",
@@ -5906,7 +6263,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年四川公务员考试《行测》第94题",
-    "province": "四川"
+    "province": "四川",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2020-未标注-95-2",
@@ -5942,7 +6301,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年四川公务员考试《行测》第95题",
-    "province": "四川"
+    "province": "四川",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2020-未标注-96-2",
@@ -5979,7 +6340,9 @@
     "difficulty": "中等",
     "source": "2020年四川公务员考试《行测》第96题",
     "isImageQuestion": true,
-    "province": "四川"
+    "province": "四川",
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2020-未标注-97-2",
@@ -6017,7 +6380,9 @@
     "difficulty": "中等",
     "source": "2020年四川公务员考试《行测》第97题",
     "isImageQuestion": true,
-    "province": "四川"
+    "province": "四川",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2020-未标注-98-2",
@@ -6055,7 +6420,9 @@
     "difficulty": "中等",
     "source": "2020年四川公务员考试《行测》第98题",
     "isImageQuestion": true,
-    "province": "四川"
+    "province": "四川",
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2020-未标注-99-2",
@@ -6093,7 +6460,9 @@
     "difficulty": "中等",
     "source": "2020年四川公务员考试《行测》第99题",
     "isImageQuestion": true,
-    "province": "四川"
+    "province": "四川",
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2020-未标注-100-2",
@@ -6130,7 +6499,9 @@
     "difficulty": "中等",
     "source": "2020年四川公务员考试《行测》第100题",
     "isImageQuestion": true,
-    "province": "四川"
+    "province": "四川",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2021-下半年-86",
@@ -6165,7 +6536,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年四川公务员考试《行测》（下半年）第86题",
-    "province": "四川"
+    "province": "四川",
+    "isAbnormal": true,
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2021-下半年-87",
@@ -6200,7 +6574,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年四川公务员考试《行测》（下半年）第87题",
-    "province": "四川"
+    "province": "四川",
+    "isAbnormal": true,
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2021-下半年-88",
@@ -6236,7 +6613,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年四川公务员考试《行测》（下半年）第88题",
-    "province": "四川"
+    "province": "四川",
+    "isAbnormal": true,
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2021-下半年-89",
@@ -6269,7 +6649,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年四川公务员考试《行测》（下半年）第89题",
-    "province": "四川"
+    "province": "四川",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2021-下半年-90",
@@ -6304,7 +6686,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年四川公务员考试《行测》（下半年）第90题",
-    "province": "四川"
+    "province": "四川",
+    "isAbnormal": true,
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2021-下半年-91",
@@ -6339,7 +6724,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年四川公务员考试《行测》（下半年）第91题",
-    "province": "四川"
+    "province": "四川",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2021-下半年-92",
@@ -6374,7 +6761,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年四川公务员考试《行测》（下半年）第92题",
-    "province": "四川"
+    "province": "四川",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2021-下半年-93",
@@ -6407,7 +6796,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年四川公务员考试《行测》（下半年）第93题",
-    "province": "四川"
+    "province": "四川",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2021-下半年-94",
@@ -6442,7 +6833,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年四川公务员考试《行测》（下半年）第94题",
-    "province": "四川"
+    "province": "四川",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2021-下半年-95",
@@ -6477,7 +6870,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年四川公务员考试《行测》（下半年）第95题",
-    "province": "四川"
+    "province": "四川",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2021-下半年-96",
@@ -6512,7 +6907,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年四川公务员考试《行测》（下半年）第96题",
-    "province": "四川"
+    "province": "四川",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2021-下半年-97",
@@ -6548,7 +6945,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年四川公务员考试《行测》（下半年）第97题",
-    "province": "四川"
+    "province": "四川",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2021-下半年-98",
@@ -6567,7 +6966,10 @@
     "difficulty": "中等",
     "source": "2021年四川公务员考试《行测》（下半年）第98题",
     "isImageQuestion": true,
-    "province": "四川"
+    "province": "四川",
+    "isAbnormal": true,
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2021-下半年-99",
@@ -6600,7 +7002,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年四川公务员考试《行测》（下半年）第99题",
-    "province": "四川"
+    "province": "四川",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2021-下半年-100",
@@ -6633,7 +7037,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年四川公务员考试《行测》（下半年）第100题",
-    "province": "四川"
+    "province": "四川",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2021-选调-86",
@@ -6669,7 +7075,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年四川公务员考试《行测》（选调）第86题",
-    "province": "四川"
+    "province": "四川",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2021-选调-87",
@@ -6705,7 +7113,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年四川公务员考试《行测》（选调）第87题",
-    "province": "四川"
+    "province": "四川",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2021-选调-88",
@@ -6742,7 +7152,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年四川公务员考试《行测》（选调）第88题",
-    "province": "四川"
+    "province": "四川",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2021-选调-89",
@@ -6778,7 +7190,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年四川公务员考试《行测》（选调）第89题",
-    "province": "四川"
+    "province": "四川",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2021-选调-90",
@@ -6814,7 +7228,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年四川公务员考试《行测》（选调）第90题",
-    "province": "四川"
+    "province": "四川",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2021-选调-91",
@@ -6850,7 +7266,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年四川公务员考试《行测》（选调）第91题",
-    "province": "四川"
+    "province": "四川",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2021-选调-92",
@@ -6886,7 +7304,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年四川公务员考试《行测》（选调）第92题",
-    "province": "四川"
+    "province": "四川",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2021-选调-93",
@@ -6922,7 +7342,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年四川公务员考试《行测》（选调）第93题",
-    "province": "四川"
+    "province": "四川",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2021-选调-94",
@@ -6957,7 +7379,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年四川公务员考试《行测》（选调）第94题",
-    "province": "四川"
+    "province": "四川",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2021-选调-95",
@@ -6994,6 +7418,8 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年四川公务员考试《行测》（选调）第95题",
-    "province": "四川"
+    "province": "四川",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   }
 ]

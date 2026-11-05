@@ -26,7 +26,9 @@
     "difficulty": "拔高",
     "source": "2024年黑龙江公务员考试《行测》第70题",
     "isImageQuestion": true,
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2025-未标注-66",
@@ -62,7 +64,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年黑龙江公务员考试《行测》第66题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2025-未标注-67",
@@ -96,7 +100,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年黑龙江公务员考试《行测》第67题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2025-未标注-68",
@@ -116,7 +122,10 @@
     "difficulty": "拔高",
     "source": "2025年黑龙江公务员考试《行测》第68题",
     "isImageQuestion": true,
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "isAbnormal": true,
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2025-未标注-69",
@@ -152,7 +161,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年黑龙江公务员考试《行测》第69题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2025-未标注-70",
@@ -187,7 +198,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年黑龙江公务员考试《行测》第70题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2025-未标注-71",
@@ -223,7 +236,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年黑龙江公务员考试《行测》第71题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2025-未标注-72",
@@ -258,7 +273,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年黑龙江公务员考试《行测》第72题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2025-未标注-73",
@@ -288,7 +305,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年黑龙江公务员考试《行测》第73题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2025-未标注-74",
@@ -322,7 +341,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年黑龙江公务员考试《行测》第74题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2025-未标注-75",
@@ -358,6 +379,8 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年黑龙江公务员考试《行测》第75题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   }
 ]

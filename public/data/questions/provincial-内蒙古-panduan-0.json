@@ -17,7 +17,9 @@
     "difficulty": "中等",
     "source": "2008年内蒙古公务员考试《行测》第71题",
     "isImageQuestion": true,
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2008-未标注-72",
@@ -37,7 +39,9 @@
     "difficulty": "中等",
     "source": "2008年内蒙古公务员考试《行测》第72题",
     "isImageQuestion": true,
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2008-未标注-73",
@@ -57,7 +61,9 @@
     "difficulty": "中等",
     "source": "2008年内蒙古公务员考试《行测》第73题",
     "isImageQuestion": true,
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2008-未标注-74",
@@ -76,7 +82,9 @@
     "difficulty": "中等",
     "source": "2008年内蒙古公务员考试《行测》第74题",
     "isImageQuestion": true,
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2008-未标注-75",
@@ -96,7 +104,9 @@
     "difficulty": "中等",
     "source": "2008年内蒙古公务员考试《行测》第75题",
     "isImageQuestion": true,
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2008-未标注-76",
@@ -112,7 +122,9 @@
     "difficulty": "中等",
     "source": "2008年内蒙古公务员考试《行测》第76题",
     "isImageQuestion": true,
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2008-未标注-77",
@@ -132,7 +144,9 @@
     "difficulty": "中等",
     "source": "2008年内蒙古公务员考试《行测》第77题",
     "isImageQuestion": true,
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2008-未标注-78",
@@ -152,7 +166,9 @@
     "difficulty": "中等",
     "source": "2008年内蒙古公务员考试《行测》第78题",
     "isImageQuestion": true,
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2008-未标注-79",
@@ -172,7 +188,9 @@
     "difficulty": "中等",
     "source": "2008年内蒙古公务员考试《行测》第79题",
     "isImageQuestion": true,
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2008-未标注-80",
@@ -192,7 +210,9 @@
     "difficulty": "中等",
     "source": "2008年内蒙古公务员考试《行测》第80题",
     "isImageQuestion": true,
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2008-未标注-81",
@@ -227,7 +247,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2008年内蒙古公务员考试《行测》第81题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2008-未标注-82",
@@ -262,7 +284,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2008年内蒙古公务员考试《行测》第82题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2008-未标注-83",
@@ -297,7 +321,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2008年内蒙古公务员考试《行测》第83题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2008-未标注-84",
@@ -332,7 +358,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2008年内蒙古公务员考试《行测》第84题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2008-未标注-85",
@@ -367,7 +395,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2008年内蒙古公务员考试《行测》第85题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2008-未标注-86",
@@ -402,7 +432,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2008年内蒙古公务员考试《行测》第86题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2008-未标注-87",
@@ -437,7 +469,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2008年内蒙古公务员考试《行测》第87题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2008-未标注-88",
@@ -473,7 +507,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2008年内蒙古公务员考试《行测》第88题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2008-未标注-89",
@@ -508,7 +544,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2008年内蒙古公务员考试《行测》第89题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2008-未标注-90",
@@ -543,7 +581,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2008年内蒙古公务员考试《行测》第90题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2008-未标注-91",
@@ -579,7 +619,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2008年内蒙古公务员考试《行测》第91题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2008-未标注-92",
@@ -615,7 +657,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2008年内蒙古公务员考试《行测》第92题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2008-未标注-93",
@@ -650,7 +694,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2008年内蒙古公务员考试《行测》第93题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2008-未标注-94",
@@ -686,7 +732,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2008年内蒙古公务员考试《行测》第94题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2008-未标注-95",
@@ -722,7 +770,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2008年内蒙古公务员考试《行测》第95题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2008-未标注-96",
@@ -758,7 +808,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2008年内蒙古公务员考试《行测》第96题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2008-未标注-97",
@@ -794,7 +846,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2008年内蒙古公务员考试《行测》第97题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2008-未标注-98",
@@ -830,7 +884,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2008年内蒙古公务员考试《行测》第98题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2008-未标注-99",
@@ -866,7 +922,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2008年内蒙古公务员考试《行测》第99题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2008-未标注-100",
@@ -902,7 +960,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2008年内蒙古公务员考试《行测》第100题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2008-未标注-101",
@@ -938,7 +998,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2008年内蒙古公务员考试《行测》第101题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2008-未标注-102",
@@ -974,7 +1036,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2008年内蒙古公务员考试《行测》第102题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2008-未标注-103",
@@ -1010,7 +1074,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2008年内蒙古公务员考试《行测》第103题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2008-未标注-104",
@@ -1046,7 +1112,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2008年内蒙古公务员考试《行测》第104题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2008-未标注-105",
@@ -1082,7 +1150,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2008年内蒙古公务员考试《行测》第105题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2008-未标注-106",
@@ -1118,7 +1188,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2008年内蒙古公务员考试《行测》第106题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2008-未标注-107",
@@ -1154,7 +1226,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2008年内蒙古公务员考试《行测》第107题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2008-未标注-108",
@@ -1186,7 +1260,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2008年内蒙古公务员考试《行测》第108题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2008-未标注-109",
@@ -1222,7 +1298,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2008年内蒙古公务员考试《行测》第109题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2008-未标注-110",
@@ -1258,7 +1336,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2008年内蒙古公务员考试《行测》第110题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2008-未标注-111",
@@ -1294,7 +1374,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2008年内蒙古公务员考试《行测》第111题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2008-未标注-112",
@@ -1330,7 +1412,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2008年内蒙古公务员考试《行测》第112题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2008-未标注-113",
@@ -1366,7 +1450,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2008年内蒙古公务员考试《行测》第113题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2008-未标注-114",
@@ -1402,7 +1488,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2008年内蒙古公务员考试《行测》第114题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2008-未标注-115",
@@ -1438,7 +1526,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2008年内蒙古公务员考试《行测》第115题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2009-913联考-51",
@@ -1457,7 +1547,9 @@
     "difficulty": "中等",
     "source": "2009年内蒙古公务员考试《行测》（913联考）第51题",
     "isImageQuestion": true,
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2009-913联考-52",
@@ -1477,7 +1569,9 @@
     "difficulty": "中等",
     "source": "2009年内蒙古公务员考试《行测》（913联考）第52题",
     "isImageQuestion": true,
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2009-913联考-53",
@@ -1496,7 +1590,9 @@
     "difficulty": "中等",
     "source": "2009年内蒙古公务员考试《行测》（913联考）第53题",
     "isImageQuestion": true,
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2009-913联考-54",
@@ -1515,7 +1611,9 @@
     "difficulty": "中等",
     "source": "2009年内蒙古公务员考试《行测》（913联考）第54题",
     "isImageQuestion": true,
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2009-913联考-55",
@@ -1534,7 +1632,9 @@
     "difficulty": "中等",
     "source": "2009年内蒙古公务员考试《行测》（913联考）第55题",
     "isImageQuestion": true,
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2009-913联考-56",
@@ -1569,7 +1669,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年内蒙古公务员考试《行测》（913联考）第56题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2009-913联考-57",
@@ -1604,7 +1706,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年内蒙古公务员考试《行测》（913联考）第57题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2009-913联考-58",
@@ -1639,7 +1743,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年内蒙古公务员考试《行测》（913联考）第58题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2009-913联考-59",
@@ -1675,7 +1781,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年内蒙古公务员考试《行测》（913联考）第59题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2009-913联考-60",
@@ -1710,7 +1818,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年内蒙古公务员考试《行测》（913联考）第60题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2009-913联考-61",
@@ -1745,7 +1855,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年内蒙古公务员考试《行测》（913联考）第61题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2009-913联考-62",
@@ -1781,7 +1893,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年内蒙古公务员考试《行测》（913联考）第62题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2009-913联考-63",
@@ -1816,7 +1930,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年内蒙古公务员考试《行测》（913联考）第63题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2009-913联考-64",
@@ -1851,7 +1967,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年内蒙古公务员考试《行测》（913联考）第64题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2009-913联考-65",
@@ -1886,7 +2004,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年内蒙古公务员考试《行测》（913联考）第65题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2009-913联考-66",
@@ -1922,7 +2042,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年内蒙古公务员考试《行测》（913联考）第66题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2009-913联考-67",
@@ -1958,7 +2080,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年内蒙古公务员考试《行测》（913联考）第67题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2009-913联考-68",
@@ -1994,7 +2118,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年内蒙古公务员考试《行测》（913联考）第68题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2009-913联考-69",
@@ -2030,7 +2156,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年内蒙古公务员考试《行测》（913联考）第69题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2009-913联考-70",
@@ -2066,7 +2194,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年内蒙古公务员考试《行测》（913联考）第70题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2009-913联考-71",
@@ -2102,7 +2232,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年内蒙古公务员考试《行测》（913联考）第71题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2009-913联考-72",
@@ -2138,7 +2270,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年内蒙古公务员考试《行测》（913联考）第72题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2009-913联考-73",
@@ -2173,7 +2307,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年内蒙古公务员考试《行测》（913联考）第73题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2009-913联考-74",
@@ -2207,7 +2343,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年内蒙古公务员考试《行测》（913联考）第74题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2009-913联考-75",
@@ -2243,7 +2381,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年内蒙古公务员考试《行测》（913联考）第75题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2009-913联考-76",
@@ -2279,7 +2419,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年内蒙古公务员考试《行测》（913联考）第76题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2009-913联考-77",
@@ -2314,7 +2456,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年内蒙古公务员考试《行测》（913联考）第77题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2009-913联考-78",
@@ -2350,7 +2494,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年内蒙古公务员考试《行测》（913联考）第78题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2009-913联考-79",
@@ -2384,7 +2530,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年内蒙古公务员考试《行测》（913联考）第79题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2009-913联考-80",
@@ -2420,7 +2568,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年内蒙古公务员考试《行测》（913联考）第80题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2009-913联考-81",
@@ -2456,7 +2606,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年内蒙古公务员考试《行测》（913联考）第81题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2009-913联考-82",
@@ -2491,7 +2643,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年内蒙古公务员考试《行测》（913联考）第82题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2009-913联考-83",
@@ -2526,7 +2680,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年内蒙古公务员考试《行测》（913联考）第83题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2009-913联考-84",
@@ -2562,7 +2718,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年内蒙古公务员考试《行测》（913联考）第84题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2009-913联考-85",
@@ -2598,7 +2756,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年内蒙古公务员考试《行测》（913联考）第85题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2010-425联考-35",
@@ -2633,7 +2793,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年内蒙古公务员考试《行测》（425联考）第35题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2010-425联考-36",
@@ -2668,7 +2830,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年内蒙古公务员考试《行测》（425联考）第36题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2010-425联考-37",
@@ -2704,7 +2868,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年内蒙古公务员考试《行测》（425联考）第37题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2010-425联考-38",
@@ -2740,7 +2906,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年内蒙古公务员考试《行测》（425联考）第38题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2010-425联考-39",
@@ -2775,7 +2943,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年内蒙古公务员考试《行测》（425联考）第39题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2010-425联考-40",
@@ -2811,7 +2981,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年内蒙古公务员考试《行测》（425联考）第40题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2010-425联考-41",
@@ -2847,7 +3019,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年内蒙古公务员考试《行测》（425联考）第41题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2010-425联考-42",
@@ -2882,7 +3056,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年内蒙古公务员考试《行测》（425联考）第42题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2010-425联考-43",
@@ -2918,7 +3094,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年内蒙古公务员考试《行测》（425联考）第43题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2010-425联考-44",
@@ -2954,7 +3132,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年内蒙古公务员考试《行测》（425联考）第44题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2010-425联考-45",
@@ -2990,7 +3170,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年内蒙古公务员考试《行测》（425联考）第45题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2010-425联考-46",
@@ -3026,7 +3208,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年内蒙古公务员考试《行测》（425联考）第46题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2010-425联考-47",
@@ -3061,7 +3245,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年内蒙古公务员考试《行测》（425联考）第47题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2010-425联考-48",
@@ -3096,7 +3282,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年内蒙古公务员考试《行测》（425联考）第48题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2010-425联考-49",
@@ -3131,7 +3319,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年内蒙古公务员考试《行测》（425联考）第49题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2010-425联考-50",
@@ -3167,7 +3357,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年内蒙古公务员考试《行测》（425联考）第50题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2010-918联考-46",
@@ -3186,7 +3378,9 @@
     "difficulty": "中等",
     "source": "2010年内蒙古公务员考试《行测》（918联考）第46题",
     "isImageQuestion": true,
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2010-918联考-47",
@@ -3205,7 +3399,9 @@
     "difficulty": "中等",
     "source": "2010年内蒙古公务员考试《行测》（918联考）第47题",
     "isImageQuestion": true,
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2010-918联考-48",
@@ -3224,7 +3420,9 @@
     "difficulty": "中等",
     "source": "2010年内蒙古公务员考试《行测》（918联考）第48题",
     "isImageQuestion": true,
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2010-918联考-49",
@@ -3242,7 +3440,9 @@
     "difficulty": "中等",
     "source": "2010年内蒙古公务员考试《行测》（918联考）第49题",
     "isImageQuestion": true,
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2010-918联考-50",
@@ -3261,7 +3461,9 @@
     "difficulty": "中等",
     "source": "2010年内蒙古公务员考试《行测》（918联考）第50题",
     "isImageQuestion": true,
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2010-918联考-51",
@@ -3296,7 +3498,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年内蒙古公务员考试《行测》（918联考）第51题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2010-918联考-52",
@@ -3332,7 +3536,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年内蒙古公务员考试《行测》（918联考）第52题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2010-918联考-53",
@@ -3368,7 +3574,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年内蒙古公务员考试《行测》（918联考）第53题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2010-918联考-54",
@@ -3403,7 +3611,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年内蒙古公务员考试《行测》（918联考）第54题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2010-918联考-55",
@@ -3439,7 +3649,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年内蒙古公务员考试《行测》（918联考）第55题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2010-918联考-56",
@@ -3475,7 +3687,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年内蒙古公务员考试《行测》（918联考）第56题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2010-918联考-57",
@@ -3511,7 +3725,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年内蒙古公务员考试《行测》（918联考）第57题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2010-918联考-58",
@@ -3547,7 +3763,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年内蒙古公务员考试《行测》（918联考）第58题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2010-918联考-59",
@@ -3583,7 +3801,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年内蒙古公务员考试《行测》（918联考）第59题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2010-918联考-60",
@@ -3618,7 +3838,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年内蒙古公务员考试《行测》（918联考）第60题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2010-918联考-61",
@@ -3654,7 +3876,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年内蒙古公务员考试《行测》（918联考）第61题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2010-918联考-62",
@@ -3690,7 +3914,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年内蒙古公务员考试《行测》（918联考）第62题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2010-918联考-63",
@@ -3726,7 +3952,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年内蒙古公务员考试《行测》（918联考）第63题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2010-918联考-64",
@@ -3762,7 +3990,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年内蒙古公务员考试《行测》（918联考）第64题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2010-918联考-65",
@@ -3798,7 +4028,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年内蒙古公务员考试《行测》（918联考）第65题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2010-918联考-66",
@@ -3834,7 +4066,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年内蒙古公务员考试《行测》（918联考）第66题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2010-918联考-67",
@@ -3870,7 +4104,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年内蒙古公务员考试《行测》（918联考）第67题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2010-918联考-68",
@@ -3906,7 +4142,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年内蒙古公务员考试《行测》（918联考）第68题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2010-918联考-69",
@@ -3940,7 +4178,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年内蒙古公务员考试《行测》（918联考）第69题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2010-918联考-70",
@@ -3976,7 +4216,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年内蒙古公务员考试《行测》（918联考）第70题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2010-918联考-71",
@@ -4011,7 +4253,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年内蒙古公务员考试《行测》（918联考）第71题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2010-918联考-72",
@@ -4046,7 +4290,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年内蒙古公务员考试《行测》（918联考）第72题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2010-918联考-73",
@@ -4081,7 +4327,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年内蒙古公务员考试《行测》（918联考）第73题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2010-918联考-74",
@@ -4116,7 +4364,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年内蒙古公务员考试《行测》（918联考）第74题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2010-918联考-75",
@@ -4151,7 +4401,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年内蒙古公务员考试《行测》（918联考）第75题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2010-918联考-76",
@@ -4186,7 +4438,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年内蒙古公务员考试《行测》（918联考）第76题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2010-918联考-77",
@@ -4221,7 +4475,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年内蒙古公务员考试《行测》（918联考）第77题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2010-918联考-78",
@@ -4256,7 +4512,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年内蒙古公务员考试《行测》（918联考）第78题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2010-918联考-79",
@@ -4292,7 +4550,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年内蒙古公务员考试《行测》（918联考）第79题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2010-918联考-80",
@@ -4327,7 +4587,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年内蒙古公务员考试《行测》（918联考）第80题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2011-未标注-66",
@@ -4347,7 +4609,9 @@
     "difficulty": "中等",
     "source": "2011年内蒙古公务员考试《行测》第66题",
     "isImageQuestion": true,
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2011-未标注-67",
@@ -4365,7 +4629,9 @@
     "difficulty": "中等",
     "source": "2011年内蒙古公务员考试《行测》第67题",
     "isImageQuestion": true,
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2011-未标注-68",
@@ -4383,7 +4649,9 @@
     "difficulty": "中等",
     "source": "2011年内蒙古公务员考试《行测》第68题",
     "isImageQuestion": true,
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2011-未标注-69",
@@ -4402,7 +4670,9 @@
     "difficulty": "中等",
     "source": "2011年内蒙古公务员考试《行测》第69题",
     "isImageQuestion": true,
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2011-未标注-70",
@@ -4420,7 +4690,9 @@
     "difficulty": "中等",
     "source": "2011年内蒙古公务员考试《行测》第70题",
     "isImageQuestion": true,
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2011-未标注-71",
@@ -4440,7 +4712,9 @@
     "difficulty": "中等",
     "source": "2011年内蒙古公务员考试《行测》第71题",
     "isImageQuestion": true,
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2011-未标注-72",
@@ -4460,7 +4734,9 @@
     "difficulty": "中等",
     "source": "2011年内蒙古公务员考试《行测》第72题",
     "isImageQuestion": true,
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2011-未标注-73",
@@ -4479,7 +4755,9 @@
     "difficulty": "中等",
     "source": "2011年内蒙古公务员考试《行测》第73题",
     "isImageQuestion": true,
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2011-未标注-74",
@@ -4499,7 +4777,9 @@
     "difficulty": "中等",
     "source": "2011年内蒙古公务员考试《行测》第74题",
     "isImageQuestion": true,
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2011-未标注-75",
@@ -4519,7 +4799,9 @@
     "difficulty": "中等",
     "source": "2011年内蒙古公务员考试《行测》第75题",
     "isImageQuestion": true,
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2011-未标注-76",
@@ -4555,7 +4837,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年内蒙古公务员考试《行测》第76题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2011-未标注-77",
@@ -4591,7 +4875,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年内蒙古公务员考试《行测》第77题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2011-未标注-78",
@@ -4627,7 +4913,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年内蒙古公务员考试《行测》第78题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2011-未标注-79",
@@ -4663,7 +4951,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年内蒙古公务员考试《行测》第79题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2011-未标注-80",
@@ -4699,7 +4989,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年内蒙古公务员考试《行测》第80题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2011-未标注-81",
@@ -4735,7 +5027,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年内蒙古公务员考试《行测》第81题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2011-未标注-82",
@@ -4771,7 +5065,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年内蒙古公务员考试《行测》第82题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2011-未标注-83",
@@ -4807,7 +5103,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年内蒙古公务员考试《行测》第83题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2011-未标注-84",
@@ -4843,7 +5141,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年内蒙古公务员考试《行测》第84题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2011-未标注-85",
@@ -4879,7 +5179,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年内蒙古公务员考试《行测》第85题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2011-未标注-86",
@@ -4914,7 +5216,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年内蒙古公务员考试《行测》第86题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2011-未标注-87",
@@ -4949,7 +5253,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年内蒙古公务员考试《行测》第87题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2011-未标注-88",
@@ -4985,7 +5291,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年内蒙古公务员考试《行测》第88题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2011-未标注-89",
@@ -5020,7 +5328,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年内蒙古公务员考试《行测》第89题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2011-未标注-90",
@@ -5055,7 +5365,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年内蒙古公务员考试《行测》第90题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2011-未标注-91",
@@ -5090,7 +5402,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年内蒙古公务员考试《行测》第91题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2011-未标注-92",
@@ -5125,7 +5439,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年内蒙古公务员考试《行测》第92题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2011-未标注-93",
@@ -5160,7 +5476,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年内蒙古公务员考试《行测》第93题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2011-未标注-94",
@@ -5195,7 +5513,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年内蒙古公务员考试《行测》第94题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2011-未标注-95",
@@ -5230,7 +5550,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年内蒙古公务员考试《行测》第95题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2011-未标注-96",
@@ -5265,7 +5587,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年内蒙古公务员考试《行测》第96题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2011-未标注-97",
@@ -5300,7 +5624,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年内蒙古公务员考试《行测》第97题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2011-未标注-98",
@@ -5335,7 +5661,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年内蒙古公务员考试《行测》第98题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2011-未标注-99",
@@ -5370,7 +5698,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年内蒙古公务员考试《行测》第99题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2011-未标注-100",
@@ -5406,7 +5736,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年内蒙古公务员考试《行测》第100题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2011-未标注-101",
@@ -5441,7 +5773,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年内蒙古公务员考试《行测》第101题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2011-未标注-102",
@@ -5476,7 +5810,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年内蒙古公务员考试《行测》第102题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2011-未标注-103",
@@ -5511,7 +5847,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年内蒙古公务员考试《行测》第103题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2011-未标注-104",
@@ -5547,7 +5885,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年内蒙古公务员考试《行测》第104题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2011-未标注-105",
@@ -5582,7 +5922,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年内蒙古公务员考试《行测》第105题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2013-未标注-71",
@@ -5598,7 +5940,9 @@
     "difficulty": "中等",
     "source": "2013年内蒙古公务员考试《行测》第71题",
     "isImageQuestion": true,
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2013-未标注-72",
@@ -5618,7 +5962,9 @@
     "difficulty": "中等",
     "source": "2013年内蒙古公务员考试《行测》第72题",
     "isImageQuestion": true,
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2013-未标注-73",
@@ -5638,7 +5984,9 @@
     "difficulty": "中等",
     "source": "2013年内蒙古公务员考试《行测》第73题",
     "isImageQuestion": true,
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2013-未标注-74",
@@ -5656,7 +6004,9 @@
     "difficulty": "中等",
     "source": "2013年内蒙古公务员考试《行测》第74题",
     "isImageQuestion": true,
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2013-未标注-75",
@@ -5692,7 +6042,9 @@
     "difficulty": "中等",
     "source": "2013年内蒙古公务员考试《行测》第75题",
     "isImageQuestion": true,
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2013-未标注-76",
@@ -5728,7 +6080,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年内蒙古公务员考试《行测》第76题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2013-未标注-77",
@@ -5762,7 +6116,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年内蒙古公务员考试《行测》第77题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2013-未标注-78",
@@ -5794,7 +6150,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年内蒙古公务员考试《行测》第78题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2013-未标注-79",
@@ -5828,7 +6186,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年内蒙古公务员考试《行测》第79题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2013-未标注-80",
@@ -5863,7 +6223,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年内蒙古公务员考试《行测》第80题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2013-未标注-81",
@@ -5899,7 +6261,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年内蒙古公务员考试《行测》第81题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2013-未标注-82",
@@ -5934,7 +6298,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年内蒙古公务员考试《行测》第82题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2013-未标注-83",
@@ -5969,7 +6335,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年内蒙古公务员考试《行测》第83题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2013-未标注-84",
@@ -6001,7 +6369,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年内蒙古公务员考试《行测》第84题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2013-未标注-85",
@@ -6036,7 +6406,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年内蒙古公务员考试《行测》第85题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2013-未标注-86",
@@ -6071,7 +6443,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年内蒙古公务员考试《行测》第86题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2013-未标注-87",
@@ -6107,7 +6481,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年内蒙古公务员考试《行测》第87题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2013-未标注-88",
@@ -6139,7 +6515,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年内蒙古公务员考试《行测》第88题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2013-未标注-89",
@@ -6174,7 +6552,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年内蒙古公务员考试《行测》第89题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2013-未标注-90",
@@ -6208,7 +6588,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年内蒙古公务员考试《行测》第90题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2013-未标注-91",
@@ -6242,7 +6624,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年内蒙古公务员考试《行测》第91题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2013-未标注-92",
@@ -6277,7 +6661,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年内蒙古公务员考试《行测》第92题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2013-未标注-93",
@@ -6309,7 +6695,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年内蒙古公务员考试《行测》第93题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2013-未标注-94",
@@ -6343,7 +6731,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年内蒙古公务员考试《行测》第94题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2013-未标注-95",
@@ -6378,7 +6768,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年内蒙古公务员考试《行测》第95题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2013-未标注-96",
@@ -6412,7 +6804,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年内蒙古公务员考试《行测》第96题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2013-未标注-97",
@@ -6446,7 +6840,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年内蒙古公务员考试《行测》第97题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2013-未标注-98",
@@ -6480,7 +6876,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年内蒙古公务员考试《行测》第98题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2013-未标注-99",
@@ -6515,6 +6913,8 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年内蒙古公务员考试《行测》第99题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   }
 ]

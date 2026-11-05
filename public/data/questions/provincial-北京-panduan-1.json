@@ -32,7 +32,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年北京公务员考试《行测》第111题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2013-未标注-112",
@@ -68,7 +70,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年北京公务员考试《行测》第112题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2013-未标注-113",
@@ -103,7 +107,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年北京公务员考试《行测》第113题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2013-未标注-114",
@@ -139,7 +145,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年北京公务员考试《行测》第114题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2013-未标注-115",
@@ -174,7 +182,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年北京公务员考试《行测》第115题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2014-未标注-86",
@@ -193,7 +203,9 @@
     "difficulty": "中等",
     "source": "2014年北京公务员考试《行测》第86题",
     "isImageQuestion": true,
-    "province": "北京"
+    "province": "北京",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2014-未标注-87",
@@ -211,7 +223,9 @@
     "difficulty": "中等",
     "source": "2014年北京公务员考试《行测》第87题",
     "isImageQuestion": true,
-    "province": "北京"
+    "province": "北京",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2014-未标注-88",
@@ -231,7 +245,9 @@
     "difficulty": "中等",
     "source": "2014年北京公务员考试《行测》第88题",
     "isImageQuestion": true,
-    "province": "北京"
+    "province": "北京",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2014-未标注-89",
@@ -250,7 +266,9 @@
     "difficulty": "中等",
     "source": "2014年北京公务员考试《行测》第89题",
     "isImageQuestion": true,
-    "province": "北京"
+    "province": "北京",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2014-未标注-90",
@@ -268,7 +286,9 @@
     "difficulty": "中等",
     "source": "2014年北京公务员考试《行测》第90题",
     "isImageQuestion": true,
-    "province": "北京"
+    "province": "北京",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2014-未标注-91",
@@ -302,7 +322,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年北京公务员考试《行测》第91题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2014-未标注-92",
@@ -336,7 +358,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年北京公务员考试《行测》第92题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2014-未标注-93",
@@ -372,7 +396,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年北京公务员考试《行测》第93题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2014-未标注-94",
@@ -408,7 +434,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年北京公务员考试《行测》第94题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2014-未标注-95",
@@ -443,7 +471,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年北京公务员考试《行测》第95题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2014-未标注-96",
@@ -478,7 +508,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年北京公务员考试《行测》第96题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2014-未标注-97",
@@ -513,7 +545,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年北京公务员考试《行测》第97题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2014-未标注-98",
@@ -548,7 +582,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年北京公务员考试《行测》第98题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2014-未标注-99",
@@ -584,7 +620,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年北京公务员考试《行测》第99题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2014-未标注-100",
@@ -619,7 +657,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年北京公务员考试《行测》第100题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2014-未标注-101",
@@ -655,7 +695,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年北京公务员考试《行测》第101题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2014-未标注-102",
@@ -691,7 +733,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年北京公务员考试《行测》第102题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2014-未标注-103",
@@ -726,7 +770,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年北京公务员考试《行测》第103题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2014-未标注-104",
@@ -761,7 +807,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年北京公务员考试《行测》第104题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2014-未标注-105",
@@ -797,7 +845,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年北京公务员考试《行测》第105题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2014-未标注-106",
@@ -832,7 +882,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年北京公务员考试《行测》第106题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2014-未标注-107",
@@ -867,7 +919,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年北京公务员考试《行测》第107题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2014-未标注-108",
@@ -902,7 +956,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年北京公务员考试《行测》第108题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2014-未标注-109",
@@ -937,7 +993,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年北京公务员考试《行测》第109题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2014-未标注-110",
@@ -972,7 +1030,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年北京公务员考试《行测》第110题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2014-未标注-111",
@@ -1007,7 +1067,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年北京公务员考试《行测》第111题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2014-未标注-112",
@@ -1042,7 +1104,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年北京公务员考试《行测》第112题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2014-未标注-113",
@@ -1078,7 +1142,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年北京公务员考试《行测》第113题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2014-未标注-114",
@@ -1113,7 +1179,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年北京公务员考试《行测》第114题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2014-未标注-115",
@@ -1148,7 +1216,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年北京公务员考试《行测》第115题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2015-未标注-86",
@@ -1168,7 +1238,9 @@
     "difficulty": "中等",
     "source": "2015年北京公务员考试《行测》第86题",
     "isImageQuestion": true,
-    "province": "北京"
+    "province": "北京",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2015-未标注-87",
@@ -1188,7 +1260,9 @@
     "difficulty": "中等",
     "source": "2015年北京公务员考试《行测》第87题",
     "isImageQuestion": true,
-    "province": "北京"
+    "province": "北京",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2015-未标注-88",
@@ -1208,7 +1282,9 @@
     "difficulty": "中等",
     "source": "2015年北京公务员考试《行测》第88题",
     "isImageQuestion": true,
-    "province": "北京"
+    "province": "北京",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2015-未标注-89",
@@ -1228,7 +1304,9 @@
     "difficulty": "中等",
     "source": "2015年北京公务员考试《行测》第89题",
     "isImageQuestion": true,
-    "province": "北京"
+    "province": "北京",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2015-未标注-90",
@@ -1248,7 +1326,9 @@
     "difficulty": "中等",
     "source": "2015年北京公务员考试《行测》第90题",
     "isImageQuestion": true,
-    "province": "北京"
+    "province": "北京",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2015-未标注-91",
@@ -1284,7 +1364,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年北京公务员考试《行测》第91题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2015-未标注-92",
@@ -1316,7 +1398,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年北京公务员考试《行测》第92题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2015-未标注-93",
@@ -1352,7 +1436,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年北京公务员考试《行测》第93题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2015-未标注-94",
@@ -1384,7 +1470,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年北京公务员考试《行测》第94题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2015-未标注-95",
@@ -1420,7 +1508,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年北京公务员考试《行测》第95题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2015-未标注-96",
@@ -1456,7 +1546,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年北京公务员考试《行测》第96题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2015-未标注-97",
@@ -1492,7 +1584,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年北京公务员考试《行测》第97题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2015-未标注-98",
@@ -1528,7 +1622,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年北京公务员考试《行测》第98题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2015-未标注-99",
@@ -1564,7 +1660,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年北京公务员考试《行测》第99题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2015-未标注-100",
@@ -1600,7 +1698,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年北京公务员考试《行测》第100题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2015-未标注-101",
@@ -1636,7 +1736,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年北京公务员考试《行测》第101题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2015-未标注-102",
@@ -1672,7 +1774,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年北京公务员考试《行测》第102题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2015-未标注-103",
@@ -1708,7 +1812,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年北京公务员考试《行测》第103题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2015-未标注-104",
@@ -1744,7 +1850,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年北京公务员考试《行测》第104题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2015-未标注-105",
@@ -1780,7 +1888,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年北京公务员考试《行测》第105题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2015-未标注-106",
@@ -1816,7 +1926,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年北京公务员考试《行测》第106题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2015-未标注-107",
@@ -1852,7 +1964,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年北京公务员考试《行测》第107题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2015-未标注-108",
@@ -1888,7 +2002,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年北京公务员考试《行测》第108题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2015-未标注-109",
@@ -1924,7 +2040,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年北京公务员考试《行测》第109题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2015-未标注-110",
@@ -1960,7 +2078,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年北京公务员考试《行测》第110题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2015-未标注-111",
@@ -1996,7 +2116,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年北京公务员考试《行测》第111题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2015-未标注-112",
@@ -2032,7 +2154,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年北京公务员考试《行测》第112题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2015-未标注-113",
@@ -2068,7 +2192,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年北京公务员考试《行测》第113题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2015-未标注-114",
@@ -2104,7 +2230,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年北京公务员考试《行测》第114题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2015-未标注-115",
@@ -2140,7 +2268,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年北京公务员考试《行测》第115题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2016-未标注-86",
@@ -2159,7 +2289,9 @@
     "difficulty": "中等",
     "source": "2016年北京公务员考试《行测》第86题",
     "isImageQuestion": true,
-    "province": "北京"
+    "province": "北京",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2016-未标注-87",
@@ -2178,7 +2310,9 @@
     "difficulty": "中等",
     "source": "2016年北京公务员考试《行测》第87题",
     "isImageQuestion": true,
-    "province": "北京"
+    "province": "北京",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2016-未标注-88",
@@ -2213,7 +2347,9 @@
     "difficulty": "中等",
     "source": "2016年北京公务员考试《行测》第88题",
     "isImageQuestion": true,
-    "province": "北京"
+    "province": "北京",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2016-未标注-89",
@@ -2248,7 +2384,9 @@
     "difficulty": "中等",
     "source": "2016年北京公务员考试《行测》第89题",
     "isImageQuestion": true,
-    "province": "北京"
+    "province": "北京",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2016-未标注-90",
@@ -2284,7 +2422,9 @@
     "difficulty": "中等",
     "source": "2016年北京公务员考试《行测》第90题",
     "isImageQuestion": true,
-    "province": "北京"
+    "province": "北京",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2016-未标注-91",
@@ -2319,7 +2459,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年北京公务员考试《行测》第91题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2016-未标注-92",
@@ -2354,7 +2496,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年北京公务员考试《行测》第92题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2016-未标注-93",
@@ -2389,7 +2533,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年北京公务员考试《行测》第93题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2016-未标注-94",
@@ -2423,7 +2569,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年北京公务员考试《行测》第94题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2016-未标注-95",
@@ -2458,7 +2606,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年北京公务员考试《行测》第95题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2016-未标注-96",
@@ -2494,7 +2644,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年北京公务员考试《行测》第96题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2016-未标注-97",
@@ -2528,7 +2680,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年北京公务员考试《行测》第97题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2016-未标注-98",
@@ -2564,7 +2718,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年北京公务员考试《行测》第98题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2016-未标注-99",
@@ -2600,7 +2756,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年北京公务员考试《行测》第99题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2016-未标注-100",
@@ -2636,7 +2794,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年北京公务员考试《行测》第100题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2016-未标注-101",
@@ -2671,7 +2831,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年北京公务员考试《行测》第101题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2016-未标注-102",
@@ -2707,7 +2869,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年北京公务员考试《行测》第102题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2016-未标注-103",
@@ -2742,7 +2906,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年北京公务员考试《行测》第103题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2016-未标注-104",
@@ -2776,7 +2942,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年北京公务员考试《行测》第104题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2016-未标注-105",
@@ -2812,7 +2980,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年北京公务员考试《行测》第105题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2016-未标注-106",
@@ -2847,7 +3017,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年北京公务员考试《行测》第106题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2016-未标注-107",
@@ -2882,7 +3054,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年北京公务员考试《行测》第107题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2016-未标注-108",
@@ -2918,7 +3092,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年北京公务员考试《行测》第108题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2016-未标注-109",
@@ -2954,7 +3130,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年北京公务员考试《行测》第109题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2016-未标注-110",
@@ -2990,7 +3168,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年北京公务员考试《行测》第110题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2016-未标注-111",
@@ -3025,7 +3205,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年北京公务员考试《行测》第111题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2016-未标注-112",
@@ -3060,7 +3242,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年北京公务员考试《行测》第112题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2016-未标注-113",
@@ -3095,7 +3279,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年北京公务员考试《行测》第113题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2016-未标注-114",
@@ -3129,7 +3315,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年北京公务员考试《行测》第114题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2016-未标注-115",
@@ -3163,7 +3351,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年北京公务员考试《行测》第115题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2017-未标注-86",
@@ -3179,7 +3369,9 @@
     "difficulty": "中等",
     "source": "2017年北京公务员考试《行测》第86题",
     "isImageQuestion": true,
-    "province": "北京"
+    "province": "北京",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2017-未标注-87",
@@ -3198,7 +3390,9 @@
     "difficulty": "中等",
     "source": "2017年北京公务员考试《行测》第87题",
     "isImageQuestion": true,
-    "province": "北京"
+    "province": "北京",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2017-未标注-88",
@@ -3216,7 +3410,9 @@
     "difficulty": "中等",
     "source": "2017年北京公务员考试《行测》第88题",
     "isImageQuestion": true,
-    "province": "北京"
+    "province": "北京",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2017-未标注-89",
@@ -3235,7 +3431,9 @@
     "difficulty": "中等",
     "source": "2017年北京公务员考试《行测》第89题",
     "isImageQuestion": true,
-    "province": "北京"
+    "province": "北京",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2017-未标注-90",
@@ -3254,7 +3452,9 @@
     "difficulty": "中等",
     "source": "2017年北京公务员考试《行测》第90题",
     "isImageQuestion": true,
-    "province": "北京"
+    "province": "北京",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2017-未标注-91",
@@ -3290,7 +3490,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年北京公务员考试《行测》第91题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2017-未标注-92",
@@ -3325,7 +3527,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年北京公务员考试《行测》第92题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2017-未标注-93",
@@ -3360,7 +3564,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年北京公务员考试《行测》第93题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2017-未标注-94",
@@ -3396,7 +3602,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年北京公务员考试《行测》第94题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2017-未标注-95",
@@ -3431,7 +3639,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年北京公务员考试《行测》第95题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2017-未标注-96",
@@ -3467,7 +3677,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年北京公务员考试《行测》第96题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2017-未标注-97",
@@ -3502,7 +3714,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年北京公务员考试《行测》第97题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2017-未标注-98",
@@ -3537,7 +3751,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年北京公务员考试《行测》第98题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2017-未标注-99",
@@ -3571,7 +3787,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年北京公务员考试《行测》第99题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2017-未标注-100",
@@ -3607,7 +3825,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年北京公务员考试《行测》第100题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2017-未标注-101",
@@ -3643,7 +3863,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年北京公务员考试《行测》第101题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2017-未标注-102",
@@ -3679,7 +3901,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年北京公务员考试《行测》第102题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2017-未标注-103",
@@ -3715,7 +3939,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年北京公务员考试《行测》第103题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2017-未标注-104",
@@ -3751,7 +3977,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年北京公务员考试《行测》第104题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2017-未标注-105",
@@ -3786,7 +4014,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年北京公务员考试《行测》第105题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2017-未标注-106",
@@ -3821,7 +4051,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年北京公务员考试《行测》第106题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2017-未标注-107",
@@ -3855,7 +4087,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年北京公务员考试《行测》第107题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2017-未标注-108",
@@ -3889,7 +4123,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年北京公务员考试《行测》第108题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2017-未标注-109",
@@ -3925,7 +4161,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年北京公务员考试《行测》第109题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2017-未标注-110",
@@ -3959,7 +4197,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年北京公务员考试《行测》第110题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2017-未标注-111",
@@ -3993,7 +4233,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年北京公务员考试《行测》第111题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2017-未标注-112",
@@ -4027,7 +4269,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年北京公务员考试《行测》第112题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2017-未标注-113",
@@ -4062,7 +4306,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年北京公务员考试《行测》第113题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2017-未标注-114",
@@ -4096,7 +4342,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年北京公务员考试《行测》第114题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2017-未标注-115",
@@ -4131,7 +4379,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年北京公务员考试《行测》第115题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2018-未标注-86",
@@ -4149,7 +4399,9 @@
     "difficulty": "中等",
     "source": "2018年北京公务员考试《行测》第86题",
     "isImageQuestion": true,
-    "province": "北京"
+    "province": "北京",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2018-未标注-87",
@@ -4168,7 +4420,9 @@
     "difficulty": "中等",
     "source": "2018年北京公务员考试《行测》第87题",
     "isImageQuestion": true,
-    "province": "北京"
+    "province": "北京",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2018-未标注-88",
@@ -4188,7 +4442,9 @@
     "difficulty": "中等",
     "source": "2018年北京公务员考试《行测》第88题",
     "isImageQuestion": true,
-    "province": "北京"
+    "province": "北京",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2018-未标注-89",
@@ -4207,7 +4463,9 @@
     "difficulty": "中等",
     "source": "2018年北京公务员考试《行测》第89题",
     "isImageQuestion": true,
-    "province": "北京"
+    "province": "北京",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2018-未标注-90",
@@ -4226,7 +4484,9 @@
     "difficulty": "中等",
     "source": "2018年北京公务员考试《行测》第90题",
     "isImageQuestion": true,
-    "province": "北京"
+    "province": "北京",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2018-未标注-91",
@@ -4261,7 +4521,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年北京公务员考试《行测》第91题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2018-未标注-92",
@@ -4296,7 +4558,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年北京公务员考试《行测》第92题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2018-未标注-93",
@@ -4332,7 +4596,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年北京公务员考试《行测》第93题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2018-未标注-94",
@@ -4368,7 +4634,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年北京公务员考试《行测》第94题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2018-未标注-95",
@@ -4404,7 +4672,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年北京公务员考试《行测》第95题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2018-未标注-96",
@@ -4438,7 +4708,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年北京公务员考试《行测》第96题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2018-未标注-97",
@@ -4473,7 +4745,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年北京公务员考试《行测》第97题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2018-未标注-98",
@@ -4509,7 +4783,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年北京公务员考试《行测》第98题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2018-未标注-99",
@@ -4544,7 +4820,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年北京公务员考试《行测》第99题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2018-未标注-100",
@@ -4579,7 +4857,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年北京公务员考试《行测》第100题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2018-未标注-101",
@@ -4613,7 +4893,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年北京公务员考试《行测》第101题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2018-未标注-102",
@@ -4647,7 +4929,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年北京公务员考试《行测》第102题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2018-未标注-103",
@@ -4683,7 +4967,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年北京公务员考试《行测》第103题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2018-未标注-104",
@@ -4719,7 +5005,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年北京公务员考试《行测》第104题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2018-未标注-105",
@@ -4755,7 +5043,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年北京公务员考试《行测》第105题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2018-未标注-106",
@@ -4790,7 +5080,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年北京公务员考试《行测》第106题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2018-未标注-107",
@@ -4825,7 +5117,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年北京公务员考试《行测》第107题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2018-未标注-108",
@@ -4860,7 +5154,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年北京公务员考试《行测》第108题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2018-未标注-109",
@@ -4895,7 +5191,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年北京公务员考试《行测》第109题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2018-未标注-110",
@@ -4930,7 +5228,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年北京公务员考试《行测》第110题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2018-未标注-111",
@@ -4965,7 +5265,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年北京公务员考试《行测》第111题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2018-未标注-112",
@@ -5001,7 +5303,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年北京公务员考试《行测》第112题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2018-未标注-113",
@@ -5036,7 +5340,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年北京公务员考试《行测》第113题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2018-未标注-114",
@@ -5070,7 +5376,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年北京公务员考试《行测》第114题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2018-未标注-115",
@@ -5105,7 +5413,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年北京公务员考试《行测》第115题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2019-未标注-86",
@@ -5123,7 +5433,9 @@
     "difficulty": "中等",
     "source": "2019年北京公务员考试《行测》第86题",
     "isImageQuestion": true,
-    "province": "北京"
+    "province": "北京",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2019-未标注-87",
@@ -5142,7 +5454,9 @@
     "difficulty": "中等",
     "source": "2019年北京公务员考试《行测》第87题",
     "isImageQuestion": true,
-    "province": "北京"
+    "province": "北京",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2019-未标注-88",
@@ -5161,7 +5475,9 @@
     "difficulty": "中等",
     "source": "2019年北京公务员考试《行测》第88题",
     "isImageQuestion": true,
-    "province": "北京"
+    "province": "北京",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2019-未标注-89",
@@ -5177,7 +5493,9 @@
     "difficulty": "中等",
     "source": "2019年北京公务员考试《行测》第89题",
     "isImageQuestion": true,
-    "province": "北京"
+    "province": "北京",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2019-未标注-90",
@@ -5196,7 +5514,9 @@
     "difficulty": "中等",
     "source": "2019年北京公务员考试《行测》第90题",
     "isImageQuestion": true,
-    "province": "北京"
+    "province": "北京",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2019-未标注-91",
@@ -5232,7 +5552,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年北京公务员考试《行测》第91题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2019-未标注-92",
@@ -5267,7 +5589,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年北京公务员考试《行测》第92题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2019-未标注-93",
@@ -5302,7 +5626,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年北京公务员考试《行测》第93题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2019-未标注-94",
@@ -5336,7 +5662,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年北京公务员考试《行测》第94题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2019-未标注-95",
@@ -5371,7 +5699,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年北京公务员考试《行测》第95题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2019-未标注-96",
@@ -5407,7 +5737,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年北京公务员考试《行测》第96题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2019-未标注-97",
@@ -5443,7 +5775,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年北京公务员考试《行测》第97题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2019-未标注-98",
@@ -5478,7 +5812,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年北京公务员考试《行测》第98题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2019-未标注-99",
@@ -5514,7 +5850,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年北京公务员考试《行测》第99题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2019-未标注-100",
@@ -5550,7 +5888,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年北京公务员考试《行测》第100题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2019-未标注-101",
@@ -5585,7 +5925,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年北京公务员考试《行测》第101题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2019-未标注-102",
@@ -5620,7 +5962,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年北京公务员考试《行测》第102题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2019-未标注-103",
@@ -5655,7 +5999,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年北京公务员考试《行测》第103题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2019-未标注-104",
@@ -5690,7 +6036,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年北京公务员考试《行测》第104题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2019-未标注-105",
@@ -5722,7 +6070,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年北京公务员考试《行测》第105题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2019-未标注-106",
@@ -5757,7 +6107,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年北京公务员考试《行测》第106题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2019-未标注-107",
@@ -5789,7 +6141,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年北京公务员考试《行测》第107题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2019-未标注-108",
@@ -5825,7 +6179,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年北京公务员考试《行测》第108题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2019-未标注-109",
@@ -5860,7 +6216,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年北京公务员考试《行测》第109题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2019-未标注-110",
@@ -5896,7 +6254,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年北京公务员考试《行测》第110题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2019-未标注-111",
@@ -5932,7 +6292,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年北京公务员考试《行测》第111题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2019-未标注-112",
@@ -5968,7 +6330,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年北京公务员考试《行测》第112题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2019-未标注-113",
@@ -6004,7 +6368,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年北京公务员考试《行测》第113题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2019-未标注-114",
@@ -6039,7 +6405,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年北京公务员考试《行测》第114题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2019-未标注-115",
@@ -6074,7 +6442,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年北京公务员考试《行测》第115题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2020-未标注-86",
@@ -6093,7 +6463,9 @@
     "difficulty": "中等",
     "source": "2020年北京公务员考试《行测》第86题",
     "isImageQuestion": true,
-    "province": "北京"
+    "province": "北京",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2020-未标注-87",
@@ -6112,7 +6484,9 @@
     "difficulty": "中等",
     "source": "2020年北京公务员考试《行测》第87题",
     "isImageQuestion": true,
-    "province": "北京"
+    "province": "北京",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2020-未标注-88",
@@ -6130,7 +6504,9 @@
     "difficulty": "中等",
     "source": "2020年北京公务员考试《行测》第88题",
     "isImageQuestion": true,
-    "province": "北京"
+    "province": "北京",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2020-未标注-89",
@@ -6148,7 +6524,9 @@
     "difficulty": "中等",
     "source": "2020年北京公务员考试《行测》第89题",
     "isImageQuestion": true,
-    "province": "北京"
+    "province": "北京",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2020-未标注-90",
@@ -6166,7 +6544,9 @@
     "difficulty": "中等",
     "source": "2020年北京公务员考试《行测》第90题",
     "isImageQuestion": true,
-    "province": "北京"
+    "province": "北京",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2020-未标注-91",
@@ -6200,7 +6580,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年北京公务员考试《行测》第91题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2020-未标注-92",
@@ -6236,7 +6618,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年北京公务员考试《行测》第92题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2020-未标注-93",
@@ -6272,7 +6656,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年北京公务员考试《行测》第93题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2020-未标注-94",
@@ -6307,7 +6693,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年北京公务员考试《行测》第94题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2020-未标注-95",
@@ -6341,7 +6729,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年北京公务员考试《行测》第95题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2020-未标注-96",
@@ -6375,7 +6765,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年北京公务员考试《行测》第96题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2020-未标注-97",
@@ -6411,7 +6803,9 @@
     "difficulty": "中等",
     "source": "2020年北京公务员考试《行测》第97题",
     "isImageQuestion": true,
-    "province": "北京"
+    "province": "北京",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2020-未标注-98",
@@ -6446,7 +6840,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年北京公务员考试《行测》第98题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2020-未标注-99",
@@ -6482,7 +6878,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年北京公务员考试《行测》第99题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2020-未标注-100",
@@ -6517,6 +6915,8 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年北京公务员考试《行测》第100题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   }
 ]

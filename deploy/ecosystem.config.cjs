@@ -19,7 +19,17 @@ const env = {
 };
 
 // 只透传需要的键，避免把无关环境变量写进 pm2 dump
-for (const key of ['DEEPSEEK_API_KEY', 'SUPABASE_URL', 'SUPABASE_ANON_KEY', 'GEMINI_API_KEY']) {
+for (const key of [
+  'DEEPSEEK_API_KEY',
+  'SUPABASE_URL',
+  'SUPABASE_ANON_KEY',
+  'GEMINI_API_KEY',
+  // QQ 互联登录：默认关闭，只有 QQ_LOGIN_ENABLED=1 且 appid/appkey 齐全时服务端才放行 /api/auth/qq/*
+  'QQ_LOGIN_ENABLED',
+  'QQ_APP_ID',
+  'QQ_APP_KEY',
+  'QQ_REDIRECT_URI',
+]) {
   if (process.env[key]) {
     env[key] = process.env[key];
   }

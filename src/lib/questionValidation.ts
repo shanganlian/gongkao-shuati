@@ -1,4 +1,6 @@
 import { Question } from '../types';
+import { isE09Abnormal } from './questionE09';
+import { isE10Abnormal } from './questionE10';
 
 /**
  * 题目数据校验工具
@@ -97,12 +99,26 @@ export function isMergedAbnormal(q: Partial<Question> | null | undefined): boole
 }
 
 /**
+ * 是否应渲染「本题数据整理中」占位。
+ *
+ * 三层兜底：
+ *   a. 数据层已打 isAbnormal（全库扫描隔离）
+ *   b. 多题合并结构特征（重复 key / 题号串）
+ *   c. E10 资料材料缺失 / 选项年份或数字序列跳号（新导入数据漏标时兜底）
+ *   d. E09 字母占位 / 多城市缺图（新导入数据漏标时兜底）
+ */
+export function isAbnormalQuestion(q: Partial<Question> | null | undefined): boolean {
+  if (!q || isSubjectiveQuestion(q)) return false;
+  return isMergedAbnormal(q) || isE10Abnormal(q) || isE09Abnormal(q);
+}
+
+/**
  * 题目是否可渲染：
  * - 题干必须有效
  * - 主观题、图片题允许无选项
  * - 其余客观题必须有有效选项
  *
- * 注意：多题合并题仍返回 true（渲染占位卡片），由调用方用 isMergedAbnormal 判断展示方式。
+ * 注意：异常题仍返回 true（渲染占位卡片），由调用方用 isAbnormalQuestion 判断展示方式。
  */
 export function isValidQuestion(q: Partial<Question> | null | undefined): boolean {
   if (!q || typeof q !== 'object') return false;

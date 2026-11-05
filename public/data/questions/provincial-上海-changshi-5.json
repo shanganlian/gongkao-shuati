@@ -29,7 +29,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2020年上海公务员考试《行测》（A类）第13题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2020-A类-14",
@@ -64,7 +66,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2020年上海公务员考试《行测》（A类）第14题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "生活常识",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2020-A类-15",
@@ -99,7 +103,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2020年上海公务员考试《行测》（A类）第15题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "地理国情",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2020-A类-16",
@@ -131,7 +137,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2020年上海公务员考试《行测》（A类）第16题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2020-A类-17",
@@ -165,7 +173,10 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2020年上海公务员考试《行测》（A类）第17题",
-    "province": "上海"
+    "province": "上海",
+    "isAbnormal": true,
+    "subModule": "经济管理",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2020-A类-18",
@@ -197,7 +208,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2020年上海公务员考试《行测》（A类）第18题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2020-A类-19",
@@ -231,7 +244,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2020年上海公务员考试《行测》（A类）第19题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "法律",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2020-A类-20",
@@ -263,7 +278,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2020年上海公务员考试《行测》（A类）第20题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2020-B类-1",
@@ -297,7 +314,10 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2020年上海公务员考试《行测》（B类）第1题",
-    "province": "上海"
+    "province": "上海",
+    "isAbnormal": true,
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2020-B类-2",
@@ -332,7 +352,10 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2020年上海公务员考试《行测》（B类）第2题",
-    "province": "上海"
+    "province": "上海",
+    "isAbnormal": true,
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2020-B类-3",
@@ -366,7 +389,10 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2020年上海公务员考试《行测》（B类）第3题",
-    "province": "上海"
+    "province": "上海",
+    "isAbnormal": true,
+    "subModule": "人文历史",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2020-B类-4",
@@ -400,7 +426,10 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2020年上海公务员考试《行测》（B类）第4题",
-    "province": "上海"
+    "province": "上海",
+    "isAbnormal": true,
+    "subModule": "人文历史",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2020-B类-5",
@@ -434,7 +463,10 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2020年上海公务员考试《行测》（B类）第5题",
-    "province": "上海"
+    "province": "上海",
+    "isAbnormal": true,
+    "subModule": "人文历史",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2020-B类-6",
@@ -468,7 +500,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2020年上海公务员考试《行测》（B类）第6题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2020-B类-7",
@@ -502,7 +536,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2020年上海公务员考试《行测》（B类）第7题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2020-B类-8",
@@ -538,7 +574,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2020年上海公务员考试《行测》（B类）第8题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "人文历史",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2020-B类-9",
@@ -572,7 +610,10 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2020年上海公务员考试《行测》（B类）第9题",
-    "province": "上海"
+    "province": "上海",
+    "isAbnormal": true,
+    "subModule": "人文历史",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2020-B类-10",
@@ -606,7 +647,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2020年上海公务员考试《行测》（B类）第10题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "生活常识",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2020-B类-11",
@@ -640,7 +683,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2020年上海公务员考试《行测》（B类）第11题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2020-B类-12",
@@ -676,7 +721,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2020年上海公务员考试《行测》（B类）第12题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2020-B类-13",
@@ -708,7 +755,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2020年上海公务员考试《行测》（B类）第13题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2020-B类-14",
@@ -743,7 +792,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2020年上海公务员考试《行测》（B类）第14题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "地理国情",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2020-B类-15",
@@ -775,7 +826,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2020年上海公务员考试《行测》（B类）第15题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2020-B类-16",
@@ -809,7 +862,10 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2020年上海公务员考试《行测》（B类）第16题",
-    "province": "上海"
+    "province": "上海",
+    "isAbnormal": true,
+    "subModule": "经济管理",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2020-B类-17",
@@ -841,7 +897,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2020年上海公务员考试《行测》（B类）第17题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2020-B类-18",
@@ -875,7 +933,10 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2020年上海公务员考试《行测》（B类）第18题",
-    "province": "上海"
+    "province": "上海",
+    "isAbnormal": true,
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2020-B类-19",
@@ -909,7 +970,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2020年上海公务员考试《行测》（B类）第19题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2020-B类-20",
@@ -941,7 +1004,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2020年上海公务员考试《行测》（B类）第20题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "法律",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2021-B卷-1",
@@ -975,7 +1040,10 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2021年上海公务员考试《行测》（B卷）第1题",
-    "province": "上海"
+    "province": "上海",
+    "isAbnormal": true,
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2021-B卷-2",
@@ -1009,7 +1077,10 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2021年上海公务员考试《行测》（B卷）第2题",
-    "province": "上海"
+    "province": "上海",
+    "isAbnormal": true,
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2021-B卷-3",
@@ -1043,7 +1114,10 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2021年上海公务员考试《行测》（B卷）第3题",
-    "province": "上海"
+    "province": "上海",
+    "isAbnormal": true,
+    "subModule": "人文历史",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2021-B卷-4",
@@ -1077,7 +1151,10 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2021年上海公务员考试《行测》（B卷）第4题",
-    "province": "上海"
+    "province": "上海",
+    "isAbnormal": true,
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2021-B卷-5",
@@ -1112,7 +1189,10 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2021年上海公务员考试《行测》（B卷）第5题",
-    "province": "上海"
+    "province": "上海",
+    "isAbnormal": true,
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2021-B卷-6",
@@ -1148,7 +1228,9 @@
     "difficulty": "基础",
     "source": "2021年上海公务员考试《行测》（B卷）第6题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "人文历史",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2021-B卷-7",
@@ -1183,7 +1265,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2021年上海公务员考试《行测》（B卷）第7题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "人文历史",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2021-B卷-8",
@@ -1218,7 +1302,10 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2021年上海公务员考试《行测》（B卷）第8题",
-    "province": "上海"
+    "province": "上海",
+    "isAbnormal": true,
+    "subModule": "人文历史",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2021-B卷-9",
@@ -1252,7 +1339,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2021年上海公务员考试《行测》（B卷）第9题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2021-B卷-10",
@@ -1286,7 +1375,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2021年上海公务员考试《行测》（B卷）第10题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2021-B卷-11",
@@ -1321,7 +1412,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2021年上海公务员考试《行测》（B卷）第11题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2021-B卷-12",
@@ -1355,7 +1448,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2021年上海公务员考试《行测》（B卷）第12题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2021-B卷-13",
@@ -1390,7 +1485,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2021年上海公务员考试《行测》（B卷）第13题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2021-B卷-14",
@@ -1425,7 +1522,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2021年上海公务员考试《行测》（B卷）第14题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2021-B卷-15",
@@ -1460,7 +1559,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2021年上海公务员考试《行测》（B卷）第15题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "人文历史",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2021-B卷-16",
@@ -1492,7 +1593,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2021年上海公务员考试《行测》（B卷）第16题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2021-B卷-17",
@@ -1527,7 +1630,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2021年上海公务员考试《行测》（B卷）第17题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "人文历史",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2021-B卷-18",
@@ -1543,7 +1648,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2021年上海公务员考试《行测》（B卷）第18题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2021-B卷-19",
@@ -1559,7 +1666,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2021年上海公务员考试《行测》（B卷）第19题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2021-B卷-20",
@@ -1575,7 +1684,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2021年上海公务员考试《行测》（B卷）第20题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2021-B卷-21",
@@ -1591,7 +1702,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2021年上海公务员考试《行测》（B卷）第21题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2022-B类-1",
@@ -1623,7 +1736,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2022年上海公务员考试《行测》（B类）第1题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "人文历史",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2022-B类-2",
@@ -1659,7 +1774,10 @@
     "difficulty": "基础",
     "source": "2022年上海公务员考试《行测》（B类）第2题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "isAbnormal": true,
+    "subModule": "人文历史",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2022-B类-3",
@@ -1694,7 +1812,10 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2022年上海公务员考试《行测》（B类）第3题",
-    "province": "上海"
+    "province": "上海",
+    "isAbnormal": true,
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2022-B类-4",
@@ -1729,7 +1850,10 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2022年上海公务员考试《行测》（B类）第4题",
-    "province": "上海"
+    "province": "上海",
+    "isAbnormal": true,
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2022-B类-5",
@@ -1765,7 +1889,10 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2022年上海公务员考试《行测》（B类）第5题",
-    "province": "上海"
+    "province": "上海",
+    "isAbnormal": true,
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2022-B类-6",
@@ -1801,7 +1928,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2022年上海公务员考试《行测》（B类）第6题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "人文历史",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2022-B类-7",
@@ -1836,7 +1965,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2022年上海公务员考试《行测》（B类）第7题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "人文历史",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2022-B类-8",
@@ -1872,7 +2003,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2022年上海公务员考试《行测》（B类）第8题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "人文历史",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2022-B类-9",
@@ -1907,7 +2040,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2022年上海公务员考试《行测》（B类）第9题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "人文历史",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2022-B类-10",
@@ -1942,7 +2077,10 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2022年上海公务员考试《行测》（B类）第10题",
-    "province": "上海"
+    "province": "上海",
+    "isAbnormal": true,
+    "subModule": "人文历史",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2022-B类-11",
@@ -1977,7 +2115,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2022年上海公务员考试《行测》（B类）第11题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2022-B类-12",
@@ -2011,7 +2151,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2022年上海公务员考试《行测》（B类）第12题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2022-B类-13",
@@ -2046,7 +2188,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2022年上海公务员考试《行测》（B类）第13题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2022-B类-14",
@@ -2080,7 +2224,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2022年上海公务员考试《行测》（B类）第14题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "人文历史",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2022-B类-15",
@@ -2115,7 +2261,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2022年上海公务员考试《行测》（B类）第15题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2022-B类-16",
@@ -2151,7 +2299,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2022年上海公务员考试《行测》（B类）第16题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2022-B类-17",
@@ -2187,7 +2337,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2022年上海公务员考试《行测》（B类）第17题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "人文历史",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2022-B类-18",
@@ -2223,7 +2375,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2022年上海公务员考试《行测》（B类）第18题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2022-B类-19",
@@ -2259,7 +2413,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2022年上海公务员考试《行测》（B类）第19题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2022-B类-20",
@@ -2295,7 +2451,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2022年上海公务员考试《行测》（B类）第20题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "人文历史",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2023-A卷-1",
@@ -2331,7 +2489,10 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2023年上海公务员考试《行测》（A卷）第1题",
-    "province": "上海"
+    "province": "上海",
+    "isAbnormal": true,
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2023-A卷-2",
@@ -2367,7 +2528,10 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2023年上海公务员考试《行测》（A卷）第2题",
-    "province": "上海"
+    "province": "上海",
+    "isAbnormal": true,
+    "subModule": "人文历史",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2023-A卷-3",
@@ -2403,7 +2567,10 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2023年上海公务员考试《行测》（A卷）第3题",
-    "province": "上海"
+    "province": "上海",
+    "isAbnormal": true,
+    "subModule": "人文历史",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2023-A卷-4",
@@ -2437,7 +2604,10 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2023年上海公务员考试《行测》（A卷）第4题",
-    "province": "上海"
+    "province": "上海",
+    "isAbnormal": true,
+    "subModule": "人文历史",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2023-A卷-5",
@@ -2472,7 +2642,10 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2023年上海公务员考试《行测》（A卷）第5题",
-    "province": "上海"
+    "province": "上海",
+    "isAbnormal": true,
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2023-A卷-6",
@@ -2507,7 +2680,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2023年上海公务员考试《行测》（A卷）第6题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2023-A卷-7",
@@ -2542,7 +2717,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2023年上海公务员考试《行测》（A卷）第7题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2023-A卷-8",
@@ -2578,7 +2755,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2023年上海公务员考试《行测》（A卷）第8题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "人文历史",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2023-A卷-9",
@@ -2612,7 +2791,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2023年上海公务员考试《行测》（A卷）第9题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "人文历史",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2023-A卷-10",
@@ -2647,7 +2828,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2023年上海公务员考试《行测》（A卷）第10题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "人文历史",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2023-A卷-11",
@@ -2682,7 +2865,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2023年上海公务员考试《行测》（A卷）第11题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "人文历史",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2023-A卷-12",
@@ -2717,7 +2902,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2023年上海公务员考试《行测》（A卷）第12题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "人文历史",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2023-A卷-13",
@@ -2752,7 +2939,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2023年上海公务员考试《行测》（A卷）第13题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "人文历史",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2023-A卷-14",
@@ -2784,7 +2973,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2023年上海公务员考试《行测》（A卷）第14题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2023-A卷-15",
@@ -2819,7 +3010,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2023年上海公务员考试《行测》（A卷）第15题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "人文历史",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2023-A卷-16",
@@ -2855,7 +3048,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2023年上海公务员考试《行测》（A卷）第16题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2023-A卷-17",
@@ -2891,7 +3086,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2023年上海公务员考试《行测》（A卷）第17题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "人文历史",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2023-A卷-18",
@@ -2926,7 +3123,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2023年上海公务员考试《行测》（A卷）第18题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "人文历史",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2023-A卷-19",
@@ -2961,7 +3160,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2023年上海公务员考试《行测》（A卷）第19题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "生活常识",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2023-A卷-20",
@@ -2996,7 +3197,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2023年上海公务员考试《行测》（A卷）第20题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "人文历史",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2023-B类-1",
@@ -3031,7 +3234,10 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2023年上海公务员考试《行测》（B类）第1题",
-    "province": "上海"
+    "province": "上海",
+    "isAbnormal": true,
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2023-B类-2",
@@ -3066,7 +3272,10 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2023年上海公务员考试《行测》（B类）第2题",
-    "province": "上海"
+    "province": "上海",
+    "isAbnormal": true,
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2023-B类-3",
@@ -3102,7 +3311,10 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2023年上海公务员考试《行测》（B类）第3题",
-    "province": "上海"
+    "province": "上海",
+    "isAbnormal": true,
+    "subModule": "人文历史",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2023-B类-4",
@@ -3138,7 +3350,10 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2023年上海公务员考试《行测》（B类）第4题",
-    "province": "上海"
+    "province": "上海",
+    "isAbnormal": true,
+    "subModule": "人文历史",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2023-B类-5",
@@ -3174,7 +3389,10 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2023年上海公务员考试《行测》（B类）第5题",
-    "province": "上海"
+    "province": "上海",
+    "isAbnormal": true,
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2023-B类-6",
@@ -3208,7 +3426,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2023年上海公务员考试《行测》（B类）第6题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2023-B类-7",
@@ -3243,7 +3463,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2023年上海公务员考试《行测》（B类）第7题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2023-B类-8",
@@ -3278,7 +3500,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2023年上海公务员考试《行测》（B类）第8题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "人文历史",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2023-B类-9",
@@ -3313,7 +3537,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2023年上海公务员考试《行测》（B类）第9题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "人文历史",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2023-B类-10",
@@ -3349,7 +3575,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2023年上海公务员考试《行测》（B类）第10题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "人文历史",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2023-B类-11",
@@ -3384,7 +3612,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2023年上海公务员考试《行测》（B类）第11题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "人文历史",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2023-B类-12",
@@ -3419,7 +3649,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2023年上海公务员考试《行测》（B类）第12题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "经济管理",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2023-B类-13",
@@ -3455,7 +3687,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2023年上海公务员考试《行测》（B类）第13题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "人文历史",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2023-B类-14",
@@ -3491,7 +3725,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2023年上海公务员考试《行测》（B类）第14题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2023-B类-15",
@@ -3526,7 +3762,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2023年上海公务员考试《行测》（B类）第15题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "经济管理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2023-B类-16",
@@ -3563,7 +3801,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2023年上海公务员考试《行测》（B类）第16题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "人文历史",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2023-B类-17",
@@ -3598,7 +3838,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2023年上海公务员考试《行测》（B类）第17题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "人文历史",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2023-B类-18",
@@ -3635,7 +3877,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2023年上海公务员考试《行测》（B类）第18题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "人文历史",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2023-B类-19",
@@ -3672,7 +3916,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2023年上海公务员考试《行测》（B类）第19题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2023-B类-20",
@@ -3709,7 +3955,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2023年上海公务员考试《行测》（B类）第20题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "人文历史",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2025-A类-1",
@@ -3741,7 +3989,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2025年上海公务员考试《行测》（A类）第1题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2025-A类-2",
@@ -3776,7 +4026,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2025年上海公务员考试《行测》（A类）第2题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2025-A类-3",
@@ -3811,7 +4063,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2025年上海公务员考试《行测》（A类）第3题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2025-A类-4",
@@ -3846,7 +4100,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2025年上海公务员考试《行测》（A类）第4题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2025-A类-5",
@@ -3881,7 +4137,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2025年上海公务员考试《行测》（A类）第5题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2025-A类-6",
@@ -3916,7 +4174,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2025年上海公务员考试《行测》（A类）第6题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2025-A类-7",
@@ -3952,7 +4212,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2025年上海公务员考试《行测》（A类）第7题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2025-A类-8",
@@ -3987,7 +4249,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2025年上海公务员考试《行测》（A类）第8题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2025-A类-9",
@@ -4022,7 +4286,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2025年上海公务员考试《行测》（A类）第9题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2025-A类-10",
@@ -4057,7 +4323,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2025年上海公务员考试《行测》（A类）第10题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2025-A类-11",
@@ -4092,7 +4360,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2025年上海公务员考试《行测》（A类）第11题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2025-A类-12",
@@ -4127,7 +4397,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2025年上海公务员考试《行测》（A类）第12题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2025-A类-13",
@@ -4162,7 +4434,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2025年上海公务员考试《行测》（A类）第13题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2025-A类-14",
@@ -4197,7 +4471,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2025年上海公务员考试《行测》（A类）第14题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2025-A类-15",
@@ -4232,7 +4508,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2025年上海公务员考试《行测》（A类）第15题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2025-A类-16",
@@ -4267,7 +4545,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2025年上海公务员考试《行测》（A类）第16题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2025-A类-17",
@@ -4303,7 +4583,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2025年上海公务员考试《行测》（A类）第17题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2025-A类-18",
@@ -4338,7 +4620,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2025年上海公务员考试《行测》（A类）第18题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2025-A类-19",
@@ -4373,7 +4657,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2025年上海公务员考试《行测》（A类）第19题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2025-A类-20",
@@ -4408,7 +4694,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2025年上海公务员考试《行测》（A类）第20题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2025-A类-21",
@@ -4443,7 +4731,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2025年上海公务员考试《行测》（A类）第21题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2025-A类-22",
@@ -4478,7 +4768,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2025年上海公务员考试《行测》（A类）第22题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "经济管理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2025-A类-23",
@@ -4514,7 +4806,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2025年上海公务员考试《行测》（A类）第23题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2025-A类-24",
@@ -4550,7 +4844,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2025年上海公务员考试《行测》（A类）第24题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "经济管理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2025-A类-25",
@@ -4585,7 +4881,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2025年上海公务员考试《行测》（A类）第25题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2025-A类-26",
@@ -4621,7 +4919,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2025年上海公务员考试《行测》（A类）第26题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2025-A类-27",
@@ -4656,7 +4956,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2025年上海公务员考试《行测》（A类）第27题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2025-A类-28",
@@ -4691,7 +4993,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2025年上海公务员考试《行测》（A类）第28题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2025-A类-29",
@@ -4726,7 +5030,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2025年上海公务员考试《行测》（A类）第29题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2025-A类-30",
@@ -4761,7 +5067,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2025年上海公务员考试《行测》（A类）第30题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2025-A类-31",
@@ -4796,7 +5104,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2025年上海公务员考试《行测》（A类）第31题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2025-A类-32",
@@ -4831,7 +5141,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2025年上海公务员考试《行测》（A类）第32题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "地理国情",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2025-A类-33",
@@ -4867,7 +5179,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2025年上海公务员考试《行测》（A类）第33题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2025-A类-34",
@@ -4903,7 +5217,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2025年上海公务员考试《行测》（A类）第34题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2025-A类-35",
@@ -4938,7 +5254,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2025年上海公务员考试《行测》（A类）第35题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2025-A类-36",
@@ -4973,7 +5291,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2025年上海公务员考试《行测》（A类）第36题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "人文历史",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2025-A类-37",
@@ -5008,7 +5328,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2025年上海公务员考试《行测》（A类）第37题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2025-A类-38",
@@ -5043,7 +5365,10 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2025年上海公务员考试《行测》（A类）第38题",
-    "province": "上海"
+    "province": "上海",
+    "isAbnormal": true,
+    "subModule": "经济管理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2025-A类-39",
@@ -5078,7 +5403,10 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2025年上海公务员考试《行测》（A类）第39题",
-    "province": "上海"
+    "province": "上海",
+    "isAbnormal": true,
+    "subModule": "人文历史",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2025-A类-40",
@@ -5113,7 +5441,10 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2025年上海公务员考试《行测》（A类）第40题",
-    "province": "上海"
+    "province": "上海",
+    "isAbnormal": true,
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2025-A类-41",
@@ -5149,7 +5480,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2025年上海公务员考试《行测》（A类）第41题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2025-A类-42",
@@ -5185,7 +5518,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2025年上海公务员考试《行测》（A类）第42题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2025-A类-43",
@@ -5221,7 +5556,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2025年上海公务员考试《行测》（A类）第43题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "人文历史",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2025-A类-44",
@@ -5256,7 +5593,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2025年上海公务员考试《行测》（A类）第44题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "人文历史",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2025-A类-45",
@@ -5291,7 +5630,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2025年上海公务员考试《行测》（A类）第45题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "人文历史",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2025-A类-46",
@@ -5327,7 +5668,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2025年上海公务员考试《行测》（A类）第46题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "人文历史",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2025-A类-47",
@@ -5363,7 +5706,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2025年上海公务员考试《行测》（A类）第47题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "人文历史",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2025-A类-48",
@@ -5399,7 +5744,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2025年上海公务员考试《行测》（A类）第48题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "经济管理",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2025-A类-49",
@@ -5434,7 +5781,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2025年上海公务员考试《行测》（A类）第49题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "生活常识",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2025-A类-50",
@@ -5469,7 +5818,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2025年上海公务员考试《行测》（A类）第50题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2025-A类-51",
@@ -5505,7 +5856,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2025年上海公务员考试《行测》（A类）第51题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "人文历史",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2025-A类-52",
@@ -5541,7 +5894,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2025年上海公务员考试《行测》（A类）第52题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2025-A类-53",
@@ -5576,7 +5931,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2025年上海公务员考试《行测》（A类）第53题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2025-A类-54",
@@ -5612,7 +5969,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2025年上海公务员考试《行测》（A类）第54题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2025-A类-55",
@@ -5648,7 +6007,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2025年上海公务员考试《行测》（A类）第55题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2025-A类-56",
@@ -5684,7 +6045,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2025年上海公务员考试《行测》（A类）第56题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2025-A类-57",
@@ -5720,7 +6083,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2025年上海公务员考试《行测》（A类）第57题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2025-A类-58",
@@ -5757,7 +6122,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2025年上海公务员考试《行测》（A类）第58题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "经济管理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2025-A类-59",
@@ -5794,7 +6161,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2025年上海公务员考试《行测》（A类）第59题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "经济管理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2025-A类-60",
@@ -5831,7 +6200,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2025年上海公务员考试《行测》（A类）第60题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "经济管理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2025-B类-1",
@@ -5863,7 +6234,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2025年上海公务员考试《行测》（B类）第1题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2025-B类-2",
@@ -5898,7 +6271,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2025年上海公务员考试《行测》（B类）第2题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2025-B类-3",
@@ -5933,7 +6308,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2025年上海公务员考试《行测》（B类）第3题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2025-B类-4",
@@ -5968,7 +6345,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2025年上海公务员考试《行测》（B类）第4题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2025-B类-5",
@@ -6003,7 +6382,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2025年上海公务员考试《行测》（B类）第5题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2025-B类-6",
@@ -6039,7 +6420,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2025年上海公务员考试《行测》（B类）第6题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2025-B类-7",
@@ -6074,7 +6457,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2025年上海公务员考试《行测》（B类）第7题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2025-B类-8",
@@ -6109,7 +6494,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2025年上海公务员考试《行测》（B类）第8题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2025-B类-9",
@@ -6144,7 +6531,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2025年上海公务员考试《行测》（B类）第9题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2025-B类-10",
@@ -6179,7 +6568,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2025年上海公务员考试《行测》（B类）第10题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2025-B类-11",
@@ -6214,7 +6605,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2025年上海公务员考试《行测》（B类）第11题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2025-B类-12",
@@ -6249,7 +6642,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2025年上海公务员考试《行测》（B类）第12题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2025-B类-13",
@@ -6284,7 +6679,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2025年上海公务员考试《行测》（B类）第13题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2025-B类-14",
@@ -6319,7 +6716,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2025年上海公务员考试《行测》（B类）第14题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2025-B类-15",
@@ -6354,7 +6753,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2025年上海公务员考试《行测》（B类）第15题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2025-B类-16",
@@ -6389,7 +6790,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2025年上海公务员考试《行测》（B类）第16题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2025-B类-17",
@@ -6425,7 +6828,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2025年上海公务员考试《行测》（B类）第17题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2025-B类-18",
@@ -6460,7 +6865,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2025年上海公务员考试《行测》（B类）第18题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2025-B类-19",
@@ -6495,7 +6902,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2025年上海公务员考试《行测》（B类）第19题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2025-B类-20",
@@ -6530,7 +6939,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2025年上海公务员考试《行测》（B类）第20题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2025-B类-21",
@@ -6566,7 +6977,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2025年上海公务员考试《行测》（B类）第21题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "经济管理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2025-B类-22",
@@ -6601,7 +7014,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2025年上海公务员考试《行测》（B类）第22题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2025-B类-23",
@@ -6636,7 +7051,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2025年上海公务员考试《行测》（B类）第23题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2025-B类-24",
@@ -6672,7 +7089,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2025年上海公务员考试《行测》（B类）第24题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2025-B类-25",
@@ -6707,7 +7126,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2025年上海公务员考试《行测》（B类）第25题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2025-B类-26",
@@ -6742,7 +7163,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2025年上海公务员考试《行测》（B类）第26题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "经济管理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2025-B类-27",
@@ -6778,7 +7201,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2025年上海公务员考试《行测》（B类）第27题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2025-B类-28",
@@ -6813,7 +7238,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2025年上海公务员考试《行测》（B类）第28题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2025-B类-29",
@@ -6848,7 +7275,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2025年上海公务员考试《行测》（B类）第29题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2025-B类-30",
@@ -6883,7 +7312,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2025年上海公务员考试《行测》（B类）第30题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2025-B类-31",
@@ -6918,6 +7349,8 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2025年上海公务员考试《行测》（B类）第31题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   }
 ]

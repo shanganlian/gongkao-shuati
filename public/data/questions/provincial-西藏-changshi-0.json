@@ -32,7 +32,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2009年西藏公务员考试《行测》第1题",
-    "province": "西藏"
+    "province": "西藏",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xizang-2009-未标注-2",
@@ -66,7 +68,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2009年西藏公务员考试《行测》第2题",
-    "province": "西藏"
+    "province": "西藏",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xizang-2009-未标注-3",
@@ -101,7 +105,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2009年西藏公务员考试《行测》第3题",
-    "province": "西藏"
+    "province": "西藏",
+    "subModule": "生活常识",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-xizang-2009-未标注-4",
@@ -137,7 +143,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2009年西藏公务员考试《行测》第4题",
-    "province": "西藏"
+    "province": "西藏",
+    "subModule": "科技",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-xizang-2009-未标注-5",
@@ -172,7 +180,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2009年西藏公务员考试《行测》第5题",
-    "province": "西藏"
+    "province": "西藏",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xizang-2009-未标注-6",
@@ -208,7 +218,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2009年西藏公务员考试《行测》第6题",
-    "province": "西藏"
+    "province": "西藏",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xizang-2009-未标注-7",
@@ -243,7 +255,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2009年西藏公务员考试《行测》第7题",
-    "province": "西藏"
+    "province": "西藏",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xizang-2009-未标注-8",
@@ -278,7 +292,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2009年西藏公务员考试《行测》第8题",
-    "province": "西藏"
+    "province": "西藏",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xizang-2009-未标注-9",
@@ -313,7 +329,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2009年西藏公务员考试《行测》第9题",
-    "province": "西藏"
+    "province": "西藏",
+    "subModule": "地理国情",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-xizang-2009-未标注-10",
@@ -347,7 +365,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2009年西藏公务员考试《行测》第10题",
-    "province": "西藏"
+    "province": "西藏",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xizang-2009-未标注-11",
@@ -381,7 +401,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2009年西藏公务员考试《行测》第11题",
-    "province": "西藏"
+    "province": "西藏",
+    "subModule": "地理国情",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xizang-2009-未标注-12",
@@ -416,7 +438,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2009年西藏公务员考试《行测》第12题",
-    "province": "西藏"
+    "province": "西藏",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xizang-2009-未标注-13",
@@ -452,7 +476,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2009年西藏公务员考试《行测》第13题",
-    "province": "西藏"
+    "province": "西藏",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xizang-2009-未标注-14",
@@ -487,7 +513,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2009年西藏公务员考试《行测》第14题",
-    "province": "西藏"
+    "province": "西藏",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xizang-2009-未标注-15",
@@ -522,7 +550,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2009年西藏公务员考试《行测》第15题",
-    "province": "西藏"
+    "province": "西藏",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xizang-2009-未标注-16",
@@ -557,7 +587,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2009年西藏公务员考试《行测》第16题",
-    "province": "西藏"
+    "province": "西藏",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xizang-2009-未标注-17",
@@ -592,7 +624,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2009年西藏公务员考试《行测》第17题",
-    "province": "西藏"
+    "province": "西藏",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xizang-2009-未标注-18",
@@ -627,7 +661,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2009年西藏公务员考试《行测》第18题",
-    "province": "西藏"
+    "province": "西藏",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xizang-2009-未标注-19",
@@ -662,7 +698,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2009年西藏公务员考试《行测》第19题",
-    "province": "西藏"
+    "province": "西藏",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xizang-2009-未标注-20",
@@ -697,7 +735,10 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2009年西藏公务员考试《行测》第20题",
-    "province": "西藏"
+    "province": "西藏",
+    "isAbnormal": true,
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xizang-2010-918联考-101",
@@ -733,7 +774,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2010年西藏公务员考试《行测》（918联考）第101题",
-    "province": "西藏"
+    "province": "西藏",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xizang-2010-918联考-102",
@@ -768,7 +811,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2010年西藏公务员考试《行测》（918联考）第102题",
-    "province": "西藏"
+    "province": "西藏",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xizang-2010-918联考-103",
@@ -803,7 +848,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2010年西藏公务员考试《行测》（918联考）第103题",
-    "province": "西藏"
+    "province": "西藏",
+    "subModule": "生活常识",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xizang-2010-918联考-104",
@@ -837,7 +884,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2010年西藏公务员考试《行测》（918联考）第104题",
-    "province": "西藏"
+    "province": "西藏",
+    "subModule": "经济管理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xizang-2010-918联考-105",
@@ -871,7 +920,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2010年西藏公务员考试《行测》（918联考）第105题",
-    "province": "西藏"
+    "province": "西藏",
+    "subModule": "经济管理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xizang-2010-918联考-106",
@@ -903,7 +954,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2010年西藏公务员考试《行测》（918联考）第106题",
-    "province": "西藏"
+    "province": "西藏",
+    "subModule": "地理国情",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xizang-2010-918联考-107",
@@ -939,7 +992,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2010年西藏公务员考试《行测》（918联考）第107题",
-    "province": "西藏"
+    "province": "西藏",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xizang-2010-918联考-108",
@@ -975,7 +1030,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2010年西藏公务员考试《行测》（918联考）第108题",
-    "province": "西藏"
+    "province": "西藏",
+    "subModule": "地理国情",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xizang-2010-918联考-109",
@@ -1010,7 +1067,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2010年西藏公务员考试《行测》（918联考）第109题",
-    "province": "西藏"
+    "province": "西藏",
+    "subModule": "地理国情",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xizang-2010-918联考-110",
@@ -1045,7 +1104,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2010年西藏公务员考试《行测》（918联考）第110题",
-    "province": "西藏"
+    "province": "西藏",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xizang-2010-918联考-111",
@@ -1080,7 +1141,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2010年西藏公务员考试《行测》（918联考）第111题",
-    "province": "西藏"
+    "province": "西藏",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xizang-2010-918联考-112",
@@ -1116,7 +1179,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2010年西藏公务员考试《行测》（918联考）第112题",
-    "province": "西藏"
+    "province": "西藏",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xizang-2010-918联考-113",
@@ -1151,7 +1216,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2010年西藏公务员考试《行测》（918联考）第113题",
-    "province": "西藏"
+    "province": "西藏",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xizang-2010-918联考-114",
@@ -1186,7 +1253,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2010年西藏公务员考试《行测》（918联考）第114题",
-    "province": "西藏"
+    "province": "西藏",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xizang-2010-918联考-115",
@@ -1221,7 +1290,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2010年西藏公务员考试《行测》（918联考）第115题",
-    "province": "西藏"
+    "province": "西藏",
+    "subModule": "经济管理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xizang-2010-918联考-116",
@@ -1256,7 +1327,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2010年西藏公务员考试《行测》（918联考）第116题",
-    "province": "西藏"
+    "province": "西藏",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xizang-2010-918联考-117",
@@ -1290,7 +1363,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2010年西藏公务员考试《行测》（918联考）第117题",
-    "province": "西藏"
+    "province": "西藏",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xizang-2010-918联考-118",
@@ -1325,7 +1400,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2010年西藏公务员考试《行测》（918联考）第118题",
-    "province": "西藏"
+    "province": "西藏",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xizang-2010-918联考-119",
@@ -1361,7 +1438,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2010年西藏公务员考试《行测》（918联考）第119题",
-    "province": "西藏"
+    "province": "西藏",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xizang-2010-918联考-120",
@@ -1393,7 +1472,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2010年西藏公务员考试《行测》（918联考）第120题",
-    "province": "西藏"
+    "province": "西藏",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xizang-2011-未标注-1",
@@ -1425,7 +1506,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2011年西藏公务员考试《行测》第1题",
-    "province": "西藏"
+    "province": "西藏",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xizang-2011-未标注-2",
@@ -1460,7 +1543,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2011年西藏公务员考试《行测》第2题",
-    "province": "西藏"
+    "province": "西藏",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xizang-2011-未标注-3",
@@ -1494,7 +1579,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2011年西藏公务员考试《行测》第3题",
-    "province": "西藏"
+    "province": "西藏",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xizang-2011-未标注-4",
@@ -1526,7 +1613,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2011年西藏公务员考试《行测》第4题",
-    "province": "西藏"
+    "province": "西藏",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xizang-2011-未标注-5",
@@ -1561,7 +1650,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2011年西藏公务员考试《行测》第5题",
-    "province": "西藏"
+    "province": "西藏",
+    "subModule": "经济管理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xizang-2011-未标注-6",
@@ -1595,7 +1686,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2011年西藏公务员考试《行测》第6题",
-    "province": "西藏"
+    "province": "西藏",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xizang-2011-未标注-7",
@@ -1629,7 +1722,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2011年西藏公务员考试《行测》第7题",
-    "province": "西藏"
+    "province": "西藏",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xizang-2011-未标注-8",
@@ -1664,7 +1759,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2011年西藏公务员考试《行测》第8题",
-    "province": "西藏"
+    "province": "西藏",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xizang-2011-未标注-9",
@@ -1698,7 +1795,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2011年西藏公务员考试《行测》第9题",
-    "province": "西藏"
+    "province": "西藏",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xizang-2011-未标注-10",
@@ -1730,7 +1829,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2011年西藏公务员考试《行测》第10题",
-    "province": "西藏"
+    "province": "西藏",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xizang-2011-未标注-11",
@@ -1764,7 +1865,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2011年西藏公务员考试《行测》第11题",
-    "province": "西藏"
+    "province": "西藏",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xizang-2011-未标注-12",
@@ -1799,7 +1902,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2011年西藏公务员考试《行测》第12题",
-    "province": "西藏"
+    "province": "西藏",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xizang-2011-未标注-13",
@@ -1834,7 +1939,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2011年西藏公务员考试《行测》第13题",
-    "province": "西藏"
+    "province": "西藏",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xizang-2011-未标注-14",
@@ -1869,7 +1976,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2011年西藏公务员考试《行测》第14题",
-    "province": "西藏"
+    "province": "西藏",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xizang-2011-未标注-15",
@@ -1904,7 +2013,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2011年西藏公务员考试《行测》第15题",
-    "province": "西藏"
+    "province": "西藏",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xizang-2011-未标注-16",
@@ -1940,7 +2051,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2011年西藏公务员考试《行测》第16题",
-    "province": "西藏"
+    "province": "西藏",
+    "subModule": "地理国情",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xizang-2011-未标注-17",
@@ -1975,7 +2088,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2011年西藏公务员考试《行测》第17题",
-    "province": "西藏"
+    "province": "西藏",
+    "subModule": "地理国情",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xizang-2011-未标注-18",
@@ -2011,7 +2126,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2011年西藏公务员考试《行测》第18题",
-    "province": "西藏"
+    "province": "西藏",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xizang-2011-未标注-19",
@@ -2046,7 +2163,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2011年西藏公务员考试《行测》第19题",
-    "province": "西藏"
+    "province": "西藏",
+    "subModule": "经济管理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xizang-2011-未标注-20",
@@ -2081,7 +2200,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2011年西藏公务员考试《行测》第20题",
-    "province": "西藏"
+    "province": "西藏",
+    "subModule": "地理国情",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xizang-2012-421联考-1",
@@ -2115,7 +2236,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2012年西藏公务员考试《行测》（421联考）第1题",
-    "province": "西藏"
+    "province": "西藏",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xizang-2012-421联考-2",
@@ -2150,7 +2273,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2012年西藏公务员考试《行测》（421联考）第2题",
-    "province": "西藏"
+    "province": "西藏",
+    "subModule": "地理国情",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xizang-2012-421联考-3",
@@ -2185,7 +2310,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2012年西藏公务员考试《行测》（421联考）第3题",
-    "province": "西藏"
+    "province": "西藏",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xizang-2012-421联考-4",
@@ -2220,7 +2347,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2012年西藏公务员考试《行测》（421联考）第4题",
-    "province": "西藏"
+    "province": "西藏",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xizang-2012-421联考-5",
@@ -2256,7 +2385,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2012年西藏公务员考试《行测》（421联考）第5题",
-    "province": "西藏"
+    "province": "西藏",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xizang-2012-421联考-6",
@@ -2291,7 +2422,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2012年西藏公务员考试《行测》（421联考）第6题",
-    "province": "西藏"
+    "province": "西藏",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xizang-2012-421联考-7",
@@ -2326,7 +2459,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2012年西藏公务员考试《行测》（421联考）第7题",
-    "province": "西藏"
+    "province": "西藏",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xizang-2012-421联考-8",
@@ -2361,7 +2496,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2012年西藏公务员考试《行测》（421联考）第8题",
-    "province": "西藏"
+    "province": "西藏",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xizang-2012-421联考-9",
@@ -2395,7 +2532,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2012年西藏公务员考试《行测》（421联考）第9题",
-    "province": "西藏"
+    "province": "西藏",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xizang-2012-421联考-10",
@@ -2430,7 +2569,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2012年西藏公务员考试《行测》（421联考）第10题",
-    "province": "西藏"
+    "province": "西藏",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xizang-2012-421联考-11",
@@ -2464,7 +2605,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2012年西藏公务员考试《行测》（421联考）第11题",
-    "province": "西藏"
+    "province": "西藏",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xizang-2012-421联考-12",
@@ -2496,7 +2639,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2012年西藏公务员考试《行测》（421联考）第12题",
-    "province": "西藏"
+    "province": "西藏",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xizang-2012-421联考-13",
@@ -2530,7 +2675,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2012年西藏公务员考试《行测》（421联考）第13题",
-    "province": "西藏"
+    "province": "西藏",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xizang-2012-421联考-14",
@@ -2564,7 +2711,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2012年西藏公务员考试《行测》（421联考）第14题",
-    "province": "西藏"
+    "province": "西藏",
+    "subModule": "经济管理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xizang-2012-421联考-15",
@@ -2599,7 +2748,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2012年西藏公务员考试《行测》（421联考）第15题",
-    "province": "西藏"
+    "province": "西藏",
+    "subModule": "经济管理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xizang-2012-421联考-16",
@@ -2634,7 +2785,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2012年西藏公务员考试《行测》（421联考）第16题",
-    "province": "西藏"
+    "province": "西藏",
+    "subModule": "经济管理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xizang-2012-421联考-17",
@@ -2666,7 +2819,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2012年西藏公务员考试《行测》（421联考）第17题",
-    "province": "西藏"
+    "province": "西藏",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xizang-2012-421联考-18",
@@ -2701,7 +2856,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2012年西藏公务员考试《行测》（421联考）第18题",
-    "province": "西藏"
+    "province": "西藏",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xizang-2012-421联考-19",
@@ -2735,7 +2892,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2012年西藏公务员考试《行测》（421联考）第19题",
-    "province": "西藏"
+    "province": "西藏",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xizang-2012-421联考-20",
@@ -2771,7 +2930,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2012年西藏公务员考试《行测》（421联考）第20题",
-    "province": "西藏"
+    "province": "西藏",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xizang-2013-413联考-1",
@@ -2805,7 +2966,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2013年西藏公务员考试《行测》（413联考）第1题",
-    "province": "西藏"
+    "province": "西藏",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xizang-2013-413联考-2",
@@ -2839,7 +3002,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2013年西藏公务员考试《行测》（413联考）第2题",
-    "province": "西藏"
+    "province": "西藏",
+    "subModule": "地理国情",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xizang-2013-413联考-3",
@@ -2874,7 +3039,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2013年西藏公务员考试《行测》（413联考）第3题",
-    "province": "西藏"
+    "province": "西藏",
+    "subModule": "经济管理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xizang-2013-413联考-4",
@@ -2908,7 +3075,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2013年西藏公务员考试《行测》（413联考）第4题",
-    "province": "西藏"
+    "province": "西藏",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xizang-2013-413联考-5",
@@ -2943,7 +3112,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2013年西藏公务员考试《行测》（413联考）第5题",
-    "province": "西藏"
+    "province": "西藏",
+    "subModule": "地理国情",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xizang-2013-413联考-6",
@@ -2959,7 +3130,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2013年西藏公务员考试《行测》（413联考）第6题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-xizang-2013-413联考-7",
@@ -2975,7 +3148,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2013年西藏公务员考试《行测》（413联考）第7题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-xizang-2013-413联考-8",
@@ -2991,7 +3166,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2013年西藏公务员考试《行测》（413联考）第8题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-xizang-2013-413联考-9",
@@ -3023,7 +3200,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2013年西藏公务员考试《行测》（413联考）第9题",
-    "province": "西藏"
+    "province": "西藏",
+    "subModule": "科技",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-xizang-2013-413联考-10",
@@ -3058,7 +3237,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2013年西藏公务员考试《行测》（413联考）第10题",
-    "province": "西藏"
+    "province": "西藏",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xizang-2013-413联考-11",
@@ -3092,7 +3273,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2013年西藏公务员考试《行测》（413联考）第11题",
-    "province": "西藏"
+    "province": "西藏",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xizang-2013-413联考-12",
@@ -3126,7 +3309,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2013年西藏公务员考试《行测》（413联考）第12题",
-    "province": "西藏"
+    "province": "西藏",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xizang-2013-413联考-13",
@@ -3161,7 +3346,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2013年西藏公务员考试《行测》（413联考）第13题",
-    "province": "西藏"
+    "province": "西藏",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xizang-2013-413联考-14",
@@ -3195,7 +3382,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2013年西藏公务员考试《行测》（413联考）第14题",
-    "province": "西藏"
+    "province": "西藏",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xizang-2013-413联考-15",
@@ -3230,7 +3419,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2013年西藏公务员考试《行测》（413联考）第15题",
-    "province": "西藏"
+    "province": "西藏",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xizang-2013-413联考-16",
@@ -3265,7 +3456,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2013年西藏公务员考试《行测》（413联考）第16题",
-    "province": "西藏"
+    "province": "西藏",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xizang-2013-413联考-17",
@@ -3299,7 +3492,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2013年西藏公务员考试《行测》（413联考）第17题",
-    "province": "西藏"
+    "province": "西藏",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xizang-2013-413联考-18",
@@ -3334,7 +3529,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2013年西藏公务员考试《行测》（413联考）第18题",
-    "province": "西藏"
+    "province": "西藏",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xizang-2013-413联考-19",
@@ -3368,7 +3565,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2013年西藏公务员考试《行测》（413联考）第19题",
-    "province": "西藏"
+    "province": "西藏",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xizang-2013-413联考-20",
@@ -3403,7 +3602,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2013年西藏公务员考试《行测》（413联考）第20题",
-    "province": "西藏"
+    "province": "西藏",
+    "subModule": "地理国情",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xizang-2013-413联考-21",
@@ -3438,7 +3639,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2013年西藏公务员考试《行测》（413联考）第21题",
-    "province": "西藏"
+    "province": "西藏",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xizang-2013-413联考-22",
@@ -3472,7 +3675,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2013年西藏公务员考试《行测》（413联考）第22题",
-    "province": "西藏"
+    "province": "西藏",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xizang-2013-413联考-23",
@@ -3508,7 +3713,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2013年西藏公务员考试《行测》（413联考）第23题",
-    "province": "西藏"
+    "province": "西藏",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xizang-2013-413联考-24",
@@ -3543,7 +3750,9 @@
     "difficulty": "基础",
     "source": "2013年西藏公务员考试《行测》（413联考）第24题",
     "isImageQuestion": true,
-    "province": "西藏"
+    "province": "西藏",
+    "subModule": "地理国情",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xizang-2013-413联考-25",
@@ -3579,7 +3788,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2013年西藏公务员考试《行测》（413联考）第25题",
-    "province": "西藏"
+    "province": "西藏",
+    "subModule": "经济管理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xizang-2016-未标注-1",
@@ -3614,7 +3825,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2016年西藏公务员考试《行测》第1题",
-    "province": "西藏"
+    "province": "西藏",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xizang-2016-未标注-2",
@@ -3649,7 +3862,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2016年西藏公务员考试《行测》第2题",
-    "province": "西藏"
+    "province": "西藏",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xizang-2016-未标注-3",
@@ -3684,7 +3899,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2016年西藏公务员考试《行测》第3题",
-    "province": "西藏"
+    "province": "西藏",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xizang-2016-未标注-4",
@@ -3720,7 +3937,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2016年西藏公务员考试《行测》第4题",
-    "province": "西藏"
+    "province": "西藏",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xizang-2016-未标注-5",
@@ -3754,7 +3973,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2016年西藏公务员考试《行测》第5题",
-    "province": "西藏"
+    "province": "西藏",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xizang-2016-未标注-6",
@@ -3790,7 +4011,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2016年西藏公务员考试《行测》第6题",
-    "province": "西藏"
+    "province": "西藏",
+    "subModule": "生活常识",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xizang-2016-未标注-7",
@@ -3824,7 +4047,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2016年西藏公务员考试《行测》第7题",
-    "province": "西藏"
+    "province": "西藏",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xizang-2016-未标注-8",
@@ -3859,7 +4084,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2016年西藏公务员考试《行测》第8题",
-    "province": "西藏"
+    "province": "西藏",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xizang-2016-未标注-9",
@@ -3894,7 +4121,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2016年西藏公务员考试《行测》第9题",
-    "province": "西藏"
+    "province": "西藏",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xizang-2016-未标注-10",
@@ -3928,7 +4157,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2016年西藏公务员考试《行测》第10题",
-    "province": "西藏"
+    "province": "西藏",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xizang-2016-未标注-11",
@@ -3964,7 +4195,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2016年西藏公务员考试《行测》第11题",
-    "province": "西藏"
+    "province": "西藏",
+    "subModule": "生活常识",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xizang-2016-未标注-12",
@@ -3999,7 +4232,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2016年西藏公务员考试《行测》第12题",
-    "province": "西藏"
+    "province": "西藏",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xizang-2016-未标注-13",
@@ -4034,7 +4269,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2016年西藏公务员考试《行测》第13题",
-    "province": "西藏"
+    "province": "西藏",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xizang-2016-未标注-14",
@@ -4069,7 +4306,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2016年西藏公务员考试《行测》第14题",
-    "province": "西藏"
+    "province": "西藏",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xizang-2016-未标注-15",
@@ -4104,7 +4343,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2016年西藏公务员考试《行测》第15题",
-    "province": "西藏"
+    "province": "西藏",
+    "subModule": "生活常识",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xizang-2016-未标注-16",
@@ -4140,7 +4381,9 @@
     "difficulty": "基础",
     "source": "2016年西藏公务员考试《行测》第16题",
     "isImageQuestion": true,
-    "province": "西藏"
+    "province": "西藏",
+    "subModule": "地理国情",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xizang-2016-未标注-17",
@@ -4176,7 +4419,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2016年西藏公务员考试《行测》第17题",
-    "province": "西藏"
+    "province": "西藏",
+    "subModule": "生活常识",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xizang-2016-未标注-18",
@@ -4212,7 +4457,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2016年西藏公务员考试《行测》第18题",
-    "province": "西藏"
+    "province": "西藏",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xizang-2016-未标注-19",
@@ -4247,7 +4494,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2016年西藏公务员考试《行测》第19题",
-    "province": "西藏"
+    "province": "西藏",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xizang-2016-未标注-20",
@@ -4283,7 +4532,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2016年西藏公务员考试《行测》第20题",
-    "province": "西藏"
+    "province": "西藏",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xizang-2019-420联考-61",
@@ -4319,7 +4570,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2019年西藏公务员考试《行测》（420联考）第61题",
-    "province": "西藏"
+    "province": "西藏",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xizang-2019-420联考-62",
@@ -4354,7 +4607,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2019年西藏公务员考试《行测》（420联考）第62题",
-    "province": "西藏"
+    "province": "西藏",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xizang-2019-420联考-63",
@@ -4390,7 +4645,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2019年西藏公务员考试《行测》（420联考）第63题",
-    "province": "西藏"
+    "province": "西藏",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xizang-2019-420联考-64",
@@ -4425,7 +4682,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2019年西藏公务员考试《行测》（420联考）第64题",
-    "province": "西藏"
+    "province": "西藏",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xizang-2019-420联考-65",
@@ -4461,7 +4720,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2019年西藏公务员考试《行测》（420联考）第65题",
-    "province": "西藏"
+    "province": "西藏",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xizang-2019-420联考-66",
@@ -4497,7 +4758,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2019年西藏公务员考试《行测》（420联考）第66题",
-    "province": "西藏"
+    "province": "西藏",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xizang-2019-420联考-67",
@@ -4531,7 +4794,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2019年西藏公务员考试《行测》（420联考）第67题",
-    "province": "西藏"
+    "province": "西藏",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xizang-2019-420联考-68",
@@ -4565,7 +4830,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2019年西藏公务员考试《行测》（420联考）第68题",
-    "province": "西藏"
+    "province": "西藏",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xizang-2019-420联考-69",
@@ -4600,7 +4867,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2019年西藏公务员考试《行测》（420联考）第69题",
-    "province": "西藏"
+    "province": "西藏",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xizang-2019-420联考-70",
@@ -4635,7 +4904,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2019年西藏公务员考试《行测》（420联考）第70题",
-    "province": "西藏"
+    "province": "西藏",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xizang-2019-420联考-71",
@@ -4669,7 +4940,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2019年西藏公务员考试《行测》（420联考）第71题",
-    "province": "西藏"
+    "province": "西藏",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xizang-2019-420联考-72",
@@ -4703,7 +4976,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2019年西藏公务员考试《行测》（420联考）第72题",
-    "province": "西藏"
+    "province": "西藏",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xizang-2019-420联考-73",
@@ -4739,7 +5014,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2019年西藏公务员考试《行测》（420联考）第73题",
-    "province": "西藏"
+    "province": "西藏",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xizang-2019-420联考-74",
@@ -4774,7 +5051,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2019年西藏公务员考试《行测》（420联考）第74题",
-    "province": "西藏"
+    "province": "西藏",
+    "subModule": "生活常识",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xizang-2019-420联考-75",
@@ -4810,7 +5089,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2019年西藏公务员考试《行测》（420联考）第75题",
-    "province": "西藏"
+    "province": "西藏",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xizang-2019-420联考-76",
@@ -4844,7 +5125,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2019年西藏公务员考试《行测》（420联考）第76题",
-    "province": "西藏"
+    "province": "西藏",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xizang-2019-420联考-77",
@@ -4880,7 +5163,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2019年西藏公务员考试《行测》（420联考）第77题",
-    "province": "西藏"
+    "province": "西藏",
+    "subModule": "地理国情",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xizang-2019-420联考-78",
@@ -4915,7 +5200,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2019年西藏公务员考试《行测》（420联考）第78题",
-    "province": "西藏"
+    "province": "西藏",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xizang-2019-420联考-79",
@@ -4950,7 +5237,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2019年西藏公务员考试《行测》（420联考）第79题",
-    "province": "西藏"
+    "province": "西藏",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xizang-2019-420联考-80",
@@ -4985,6 +5274,8 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2019年西藏公务员考试《行测》（420联考）第80题",
-    "province": "西藏"
+    "province": "西藏",
+    "subModule": "生活常识",
+    "subModule_confidence": "high"
   }
 ]

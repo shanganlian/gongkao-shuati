@@ -30,7 +30,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2004年国家公务员考试《行测》B卷第16题"
+    "source": "2004年国家公务员考试《行测》B卷第16题",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2004-B卷-17",
@@ -64,7 +66,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2004年国家公务员考试《行测》B卷第17题"
+    "source": "2004年国家公务员考试《行测》B卷第17题",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2004-B卷-18",
@@ -97,7 +101,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2004年国家公务员考试《行测》B卷第18题"
+    "source": "2004年国家公务员考试《行测》B卷第18题",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2004-B卷-19",
@@ -130,7 +136,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2004年国家公务员考试《行测》B卷第19题"
+    "source": "2004年国家公务员考试《行测》B卷第19题",
+    "subModule": "经济管理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2004-B卷-20",
@@ -161,7 +169,9 @@
     "keyPoints": [],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2004年国家公务员考试《行测》B卷第20题"
+    "source": "2004年国家公务员考试《行测》B卷第20题",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2005-一卷-96",
@@ -192,7 +202,9 @@
     "keyPoints": [],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2005年国家公务员考试《行测》一卷第96题"
+    "source": "2005年国家公务员考试《行测》一卷第96题",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2005-一卷-97",
@@ -223,7 +235,9 @@
     "keyPoints": [],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2005年国家公务员考试《行测》一卷第97题"
+    "source": "2005年国家公务员考试《行测》一卷第97题",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2005-一卷-98",
@@ -254,7 +268,9 @@
     "keyPoints": [],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2005年国家公务员考试《行测》一卷第98题"
+    "source": "2005年国家公务员考试《行测》一卷第98题",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2005-一卷-99",
@@ -285,7 +301,9 @@
     "keyPoints": [],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2005年国家公务员考试《行测》一卷第99题"
+    "source": "2005年国家公务员考试《行测》一卷第99题",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2005-一卷-100",
@@ -316,7 +334,9 @@
     "keyPoints": [],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2005年国家公务员考试《行测》一卷第100题"
+    "source": "2005年国家公务员考试《行测》一卷第100题",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2005-一卷-101",
@@ -349,7 +369,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2005年国家公务员考试《行测》一卷第101题"
+    "source": "2005年国家公务员考试《行测》一卷第101题",
+    "subModule": "经济管理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2005-一卷-102",
@@ -380,7 +402,9 @@
     "keyPoints": [],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2005年国家公务员考试《行测》一卷第102题"
+    "source": "2005年国家公务员考试《行测》一卷第102题",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2005-一卷-103",
@@ -415,7 +439,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2005年国家公务员考试《行测》一卷第103题"
+    "source": "2005年国家公务员考试《行测》一卷第103题",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2005-一卷-104",
@@ -450,7 +476,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2005年国家公务员考试《行测》一卷第104题"
+    "source": "2005年国家公务员考试《行测》一卷第104题",
+    "subModule": "经济管理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2005-一卷-105",
@@ -484,7 +512,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2005年国家公务员考试《行测》一卷第105题"
+    "source": "2005年国家公务员考试《行测》一卷第105题",
+    "subModule": "经济管理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2005-一卷-106",
@@ -515,7 +545,9 @@
     "keyPoints": [],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2005年国家公务员考试《行测》一卷第106题"
+    "source": "2005年国家公务员考试《行测》一卷第106题",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2005-一卷-107",
@@ -546,7 +578,9 @@
     "keyPoints": [],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2005年国家公务员考试《行测》一卷第107题"
+    "source": "2005年国家公务员考试《行测》一卷第107题",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2005-一卷-108",
@@ -581,7 +615,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2005年国家公务员考试《行测》一卷第108题"
+    "source": "2005年国家公务员考试《行测》一卷第108题",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2005-一卷-109",
@@ -612,7 +648,9 @@
     "keyPoints": [],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2005年国家公务员考试《行测》一卷第109题"
+    "source": "2005年国家公务员考试《行测》一卷第109题",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2005-一卷-110",
@@ -645,7 +683,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2005年国家公务员考试《行测》一卷第110题"
+    "source": "2005年国家公务员考试《行测》一卷第110题",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2005-一卷-111",
@@ -680,7 +720,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2005年国家公务员考试《行测》一卷第111题"
+    "source": "2005年国家公务员考试《行测》一卷第111题",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2005-一卷-112",
@@ -713,7 +755,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2005年国家公务员考试《行测》一卷第112题"
+    "source": "2005年国家公务员考试《行测》一卷第112题",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2005-一卷-113",
@@ -748,7 +792,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2005年国家公务员考试《行测》一卷第113题"
+    "source": "2005年国家公务员考试《行测》一卷第113题",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2005-一卷-114",
@@ -781,7 +827,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2005年国家公务员考试《行测》一卷第114题"
+    "source": "2005年国家公务员考试《行测》一卷第114题",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2005-一卷-115",
@@ -812,7 +860,9 @@
     "keyPoints": [],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2005年国家公务员考试《行测》一卷第115题"
+    "source": "2005年国家公务员考试《行测》一卷第115题",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2005-二卷-96",
@@ -843,7 +893,9 @@
     "keyPoints": [],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2005年国家公务员考试《行测》二卷第96题"
+    "source": "2005年国家公务员考试《行测》二卷第96题",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2005-二卷-97",
@@ -874,7 +926,9 @@
     "keyPoints": [],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2005年国家公务员考试《行测》二卷第97题"
+    "source": "2005年国家公务员考试《行测》二卷第97题",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2005-二卷-98",
@@ -905,7 +959,9 @@
     "keyPoints": [],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2005年国家公务员考试《行测》二卷第98题"
+    "source": "2005年国家公务员考试《行测》二卷第98题",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2005-二卷-99",
@@ -936,7 +992,9 @@
     "keyPoints": [],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2005年国家公务员考试《行测》二卷第99题"
+    "source": "2005年国家公务员考试《行测》二卷第99题",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2005-二卷-100",
@@ -967,7 +1025,9 @@
     "keyPoints": [],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2005年国家公务员考试《行测》二卷第100题"
+    "source": "2005年国家公务员考试《行测》二卷第100题",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2005-二卷-101",
@@ -1000,7 +1060,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2005年国家公务员考试《行测》二卷第101题"
+    "source": "2005年国家公务员考试《行测》二卷第101题",
+    "subModule": "经济管理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2005-二卷-102",
@@ -1031,7 +1093,9 @@
     "keyPoints": [],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2005年国家公务员考试《行测》二卷第102题"
+    "source": "2005年国家公务员考试《行测》二卷第102题",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2005-二卷-103",
@@ -1066,7 +1130,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2005年国家公务员考试《行测》二卷第103题"
+    "source": "2005年国家公务员考试《行测》二卷第103题",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2005-二卷-104",
@@ -1101,7 +1167,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2005年国家公务员考试《行测》二卷第104题"
+    "source": "2005年国家公务员考试《行测》二卷第104题",
+    "subModule": "经济管理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2005-二卷-105",
@@ -1132,7 +1200,9 @@
     "keyPoints": [],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2005年国家公务员考试《行测》二卷第105题"
+    "source": "2005年国家公务员考试《行测》二卷第105题",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2005-二卷-106",
@@ -1163,7 +1233,9 @@
     "keyPoints": [],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2005年国家公务员考试《行测》二卷第106题"
+    "source": "2005年国家公务员考试《行测》二卷第106题",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2005-二卷-107",
@@ -1196,7 +1268,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2005年国家公务员考试《行测》二卷第107题"
+    "source": "2005年国家公务员考试《行测》二卷第107题",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2005-二卷-108",
@@ -1227,7 +1301,9 @@
     "keyPoints": [],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2005年国家公务员考试《行测》二卷第108题"
+    "source": "2005年国家公务员考试《行测》二卷第108题",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2005-二卷-109",
@@ -1258,7 +1334,9 @@
     "keyPoints": [],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2005年国家公务员考试《行测》二卷第109题"
+    "source": "2005年国家公务员考试《行测》二卷第109题",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2005-二卷-110",
@@ -1291,7 +1369,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2005年国家公务员考试《行测》二卷第110题"
+    "source": "2005年国家公务员考试《行测》二卷第110题",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2005-二卷-111",
@@ -1326,7 +1406,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2005年国家公务员考试《行测》二卷第111题"
+    "source": "2005年国家公务员考试《行测》二卷第111题",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2005-二卷-112",
@@ -1359,7 +1441,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2005年国家公务员考试《行测》二卷第112题"
+    "source": "2005年国家公务员考试《行测》二卷第112题",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2005-二卷-113",
@@ -1392,7 +1476,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2005年国家公务员考试《行测》二卷第113题"
+    "source": "2005年国家公务员考试《行测》二卷第113题",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2005-二卷-114",
@@ -1425,7 +1511,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2005年国家公务员考试《行测》二卷第114题"
+    "source": "2005年国家公务员考试《行测》二卷第114题",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2005-二卷-115",
@@ -1459,7 +1547,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2005年国家公务员考试《行测》二卷第115题"
+    "source": "2005年国家公务员考试《行测》二卷第115题",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2006-二卷-1",
@@ -1493,7 +1583,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2006年国家公务员考试《行测》二卷第1题"
+    "source": "2006年国家公务员考试《行测》二卷第1题",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2006-二卷-2",
@@ -1526,7 +1618,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2006年国家公务员考试《行测》二卷第2题"
+    "source": "2006年国家公务员考试《行测》二卷第2题",
+    "subModule": "生活常识",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2006-二卷-3",
@@ -1560,7 +1654,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2006年国家公务员考试《行测》二卷第3题"
+    "source": "2006年国家公务员考试《行测》二卷第3题",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2006-二卷-4",
@@ -1591,7 +1687,9 @@
     "keyPoints": [],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2006年国家公务员考试《行测》二卷第4题"
+    "source": "2006年国家公务员考试《行测》二卷第4题",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2006-二卷-5",
@@ -1624,7 +1722,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2006年国家公务员考试《行测》二卷第5题"
+    "source": "2006年国家公务员考试《行测》二卷第5题",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2006-二卷-6",
@@ -1659,7 +1759,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2006年国家公务员考试《行测》二卷第6题"
+    "source": "2006年国家公务员考试《行测》二卷第6题",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2006-二卷-7",
@@ -1692,7 +1794,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2006年国家公务员考试《行测》二卷第7题"
+    "source": "2006年国家公务员考试《行测》二卷第7题",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2006-二卷-8",
@@ -1726,7 +1830,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2006年国家公务员考试《行测》二卷第8题"
+    "source": "2006年国家公务员考试《行测》二卷第8题",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2006-二卷-9",
@@ -1759,7 +1865,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2006年国家公务员考试《行测》二卷第9题"
+    "source": "2006年国家公务员考试《行测》二卷第9题",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2006-二卷-10",
@@ -1794,7 +1902,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2006年国家公务员考试《行测》二卷第10题"
+    "source": "2006年国家公务员考试《行测》二卷第10题",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2006-二卷-11",
@@ -1828,7 +1938,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2006年国家公务员考试《行测》二卷第11题"
+    "source": "2006年国家公务员考试《行测》二卷第11题",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2006-二卷-12",
@@ -1862,7 +1974,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2006年国家公务员考试《行测》二卷第12题"
+    "source": "2006年国家公务员考试《行测》二卷第12题",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2006-二卷-13",
@@ -1896,7 +2010,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2006年国家公务员考试《行测》二卷第13题"
+    "source": "2006年国家公务员考试《行测》二卷第13题",
+    "subModule": "地理国情",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2006-二卷-14",
@@ -1931,7 +2047,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2006年国家公务员考试《行测》二卷第14题"
+    "source": "2006年国家公务员考试《行测》二卷第14题",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2006-二卷-15",
@@ -1964,7 +2082,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2006年国家公务员考试《行测》二卷第15题"
+    "source": "2006年国家公务员考试《行测》二卷第15题",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2006-二卷-16",
@@ -1995,7 +2115,9 @@
     "keyPoints": [],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2006年国家公务员考试《行测》二卷第16题"
+    "source": "2006年国家公务员考试《行测》二卷第16题",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2006-二卷-17",
@@ -2028,7 +2150,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2006年国家公务员考试《行测》二卷第17题"
+    "source": "2006年国家公务员考试《行测》二卷第17题",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2006-二卷-18",
@@ -2062,7 +2186,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2006年国家公务员考试《行测》二卷第18题"
+    "source": "2006年国家公务员考试《行测》二卷第18题",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2006-二卷-19",
@@ -2097,7 +2223,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2006年国家公务员考试《行测》二卷第19题"
+    "source": "2006年国家公务员考试《行测》二卷第19题",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2006-二卷-20",
@@ -2130,7 +2258,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2006年国家公务员考试《行测》二卷第20题"
+    "source": "2006年国家公务员考试《行测》二卷第20题",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2006-二卷-21",
@@ -2164,7 +2294,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2006年国家公务员考试《行测》二卷第21题"
+    "source": "2006年国家公务员考试《行测》二卷第21题",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2006-二卷-22",
@@ -2198,7 +2330,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2006年国家公务员考试《行测》二卷第22题"
+    "source": "2006年国家公务员考试《行测》二卷第22题",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2006-二卷-23",
@@ -2231,7 +2365,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2006年国家公务员考试《行测》二卷第23题"
+    "source": "2006年国家公务员考试《行测》二卷第23题",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2006-二卷-24",
@@ -2262,7 +2398,9 @@
     "keyPoints": [],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2006年国家公务员考试《行测》二卷第24题"
+    "source": "2006年国家公务员考试《行测》二卷第24题",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2006-二卷-25",
@@ -2295,7 +2433,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2006年国家公务员考试《行测》二卷第25题"
+    "source": "2006年国家公务员考试《行测》二卷第25题",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2006-二卷-26",
@@ -2328,7 +2468,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2006年国家公务员考试《行测》二卷第26题"
+    "source": "2006年国家公务员考试《行测》二卷第26题",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2006-二卷-27",
@@ -2361,7 +2503,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2006年国家公务员考试《行测》二卷第27题"
+    "source": "2006年国家公务员考试《行测》二卷第27题",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2006-二卷-28",
@@ -2395,7 +2539,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2006年国家公务员考试《行测》二卷第28题"
+    "source": "2006年国家公务员考试《行测》二卷第28题",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2006-二卷-29",
@@ -2426,7 +2572,9 @@
     "keyPoints": [],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2006年国家公务员考试《行测》二卷第29题"
+    "source": "2006年国家公务员考试《行测》二卷第29题",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2006-二卷-30",
@@ -2460,7 +2608,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2006年国家公务员考试《行测》二卷第30题"
+    "source": "2006年国家公务员考试《行测》二卷第30题",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2006-二卷-31",
@@ -2495,7 +2645,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2006年国家公务员考试《行测》二卷第31题"
+    "source": "2006年国家公务员考试《行测》二卷第31题",
+    "subModule": "人文历史",
+    "subModule_confidence": "low"
   },
   {
     "id": "gk-2006-二卷-32",
@@ -2528,7 +2680,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2006年国家公务员考试《行测》二卷第32题"
+    "source": "2006年国家公务员考试《行测》二卷第32题",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2006-二卷-33",
@@ -2562,7 +2716,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2006年国家公务员考试《行测》二卷第33题"
+    "source": "2006年国家公务员考试《行测》二卷第33题",
+    "subModule": "人文历史",
+    "subModule_confidence": "low"
   },
   {
     "id": "gk-2006-二卷-34",
@@ -2593,7 +2749,9 @@
     "keyPoints": [],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2006年国家公务员考试《行测》二卷第34题"
+    "source": "2006年国家公务员考试《行测》二卷第34题",
+    "subModule": "人文历史",
+    "subModule_confidence": "low"
   },
   {
     "id": "gk-2006-二卷-35",
@@ -2627,7 +2785,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2006年国家公务员考试《行测》二卷第35题"
+    "source": "2006年国家公务员考试《行测》二卷第35题",
+    "subModule": "人文历史",
+    "subModule_confidence": "low"
   },
   {
     "id": "gk-2006-二卷-36",
@@ -2661,7 +2821,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2006年国家公务员考试《行测》二卷第36题"
+    "source": "2006年国家公务员考试《行测》二卷第36题",
+    "subModule": "生活常识",
+    "subModule_confidence": "low"
   },
   {
     "id": "gk-2006-二卷-37",
@@ -2695,7 +2857,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2006年国家公务员考试《行测》二卷第37题"
+    "source": "2006年国家公务员考试《行测》二卷第37题",
+    "subModule": "人文历史",
+    "subModule_confidence": "low"
   },
   {
     "id": "gk-2006-二卷-38",
@@ -2729,7 +2893,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2006年国家公务员考试《行测》二卷第38题"
+    "source": "2006年国家公务员考试《行测》二卷第38题",
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "gk-2006-二卷-39",
@@ -2762,7 +2928,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2006年国家公务员考试《行测》二卷第39题"
+    "source": "2006年国家公务员考试《行测》二卷第39题",
+    "subModule": "经济管理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2006-二卷-40",
@@ -2793,7 +2961,9 @@
     "keyPoints": [],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2006年国家公务员考试《行测》二卷第40题"
+    "source": "2006年国家公务员考试《行测》二卷第40题",
+    "subModule": "人文历史",
+    "subModule_confidence": "low"
   },
   {
     "id": "gk-2006-二卷-41",
@@ -2826,7 +2996,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2006年国家公务员考试《行测》二卷第41题"
+    "source": "2006年国家公务员考试《行测》二卷第41题",
+    "subModule": "人文历史",
+    "subModule_confidence": "low"
   },
   {
     "id": "gk-2006-二卷-42",
@@ -2859,7 +3031,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2006年国家公务员考试《行测》二卷第42题"
+    "source": "2006年国家公务员考试《行测》二卷第42题",
+    "subModule": "经济管理",
+    "subModule_confidence": "low"
   },
   {
     "id": "gk-2006-二卷-43",
@@ -2892,7 +3066,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2006年国家公务员考试《行测》二卷第43题"
+    "source": "2006年国家公务员考试《行测》二卷第43题",
+    "subModule": "经济管理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2006-二卷-44",
@@ -2926,7 +3102,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2006年国家公务员考试《行测》二卷第44题"
+    "source": "2006年国家公务员考试《行测》二卷第44题",
+    "subModule": "人文历史",
+    "subModule_confidence": "low"
   },
   {
     "id": "gk-2006-二卷-45",
@@ -2959,7 +3137,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2006年国家公务员考试《行测》二卷第45题"
+    "source": "2006年国家公务员考试《行测》二卷第45题",
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "gk-2006-二卷-46",
@@ -2990,7 +3170,9 @@
     "keyPoints": [],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2006年国家公务员考试《行测》二卷第46题"
+    "source": "2006年国家公务员考试《行测》二卷第46题",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2006-二卷-47",
@@ -3023,7 +3205,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2006年国家公务员考试《行测》二卷第47题"
+    "source": "2006年国家公务员考试《行测》二卷第47题",
+    "subModule": "经济管理",
+    "subModule_confidence": "low"
   },
   {
     "id": "gk-2006-二卷-48",
@@ -3057,7 +3241,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2006年国家公务员考试《行测》二卷第48题"
+    "source": "2006年国家公务员考试《行测》二卷第48题",
+    "subModule": "生活常识",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2006-二卷-49",
@@ -3091,7 +3277,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2006年国家公务员考试《行测》二卷第49题"
+    "source": "2006年国家公务员考试《行测》二卷第49题",
+    "subModule": "地理国情",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2006-二卷-50",
@@ -3125,7 +3313,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2006年国家公务员考试《行测》二卷第50题"
+    "source": "2006年国家公务员考试《行测》二卷第50题",
+    "subModule": "人文历史",
+    "subModule_confidence": "low"
   },
   {
     "id": "gk-2006-二卷-51",
@@ -3159,7 +3349,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2006年国家公务员考试《行测》二卷第51题"
+    "source": "2006年国家公务员考试《行测》二卷第51题",
+    "subModule": "生活常识",
+    "subModule_confidence": "low"
   },
   {
     "id": "gk-2006-二卷-52",
@@ -3193,7 +3385,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2006年国家公务员考试《行测》二卷第52题"
+    "source": "2006年国家公务员考试《行测》二卷第52题",
+    "subModule": "人文历史",
+    "subModule_confidence": "low"
   },
   {
     "id": "gk-2006-二卷-53",
@@ -3227,7 +3421,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2006年国家公务员考试《行测》二卷第53题"
+    "source": "2006年国家公务员考试《行测》二卷第53题",
+    "subModule": "科技",
+    "subModule_confidence": "low"
   },
   {
     "id": "gk-2006-二卷-54",
@@ -3261,7 +3457,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2006年国家公务员考试《行测》二卷第54题"
+    "source": "2006年国家公务员考试《行测》二卷第54题",
+    "subModule": "人文历史",
+    "subModule_confidence": "low"
   },
   {
     "id": "gk-2006-二卷-55",
@@ -3295,7 +3493,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2006年国家公务员考试《行测》二卷第55题"
+    "source": "2006年国家公务员考试《行测》二卷第55题",
+    "subModule": "人文历史",
+    "subModule_confidence": "low"
   },
   {
     "id": "gk-2006-二卷-56",
@@ -3328,7 +3528,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2006年国家公务员考试《行测》二卷第56题"
+    "source": "2006年国家公务员考试《行测》二卷第56题",
+    "subModule": "生活常识",
+    "subModule_confidence": "low"
   },
   {
     "id": "gk-2006-二卷-57",
@@ -3361,7 +3563,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2006年国家公务员考试《行测》二卷第57题"
+    "source": "2006年国家公务员考试《行测》二卷第57题",
+    "subModule": "科技",
+    "subModule_confidence": "low"
   },
   {
     "id": "gk-2006-二卷-58",
@@ -3392,7 +3596,9 @@
     "keyPoints": [],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2006年国家公务员考试《行测》二卷第58题"
+    "source": "2006年国家公务员考试《行测》二卷第58题",
+    "subModule": "科技",
+    "subModule_confidence": "low"
   },
   {
     "id": "gk-2006-二卷-59",
@@ -3426,7 +3632,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2006年国家公务员考试《行测》二卷第59题"
+    "source": "2006年国家公务员考试《行测》二卷第59题",
+    "subModule": "科技",
+    "subModule_confidence": "low"
   },
   {
     "id": "gk-2006-二卷-60",
@@ -3459,7 +3667,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2006年国家公务员考试《行测》二卷第60题"
+    "source": "2006年国家公务员考试《行测》二卷第60题",
+    "subModule": "科技",
+    "subModule_confidence": "low"
   },
   {
     "id": "gk-2006-二卷-61",
@@ -3493,7 +3703,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2006年国家公务员考试《行测》二卷第61题"
+    "source": "2006年国家公务员考试《行测》二卷第61题",
+    "subModule": "经济管理",
+    "subModule_confidence": "low"
   },
   {
     "id": "gk-2006-二卷-62",
@@ -3526,7 +3738,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2006年国家公务员考试《行测》二卷第62题"
+    "source": "2006年国家公务员考试《行测》二卷第62题",
+    "subModule": "经济管理",
+    "subModule_confidence": "low"
   },
   {
     "id": "gk-2006-二卷-63",
@@ -3560,7 +3774,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2006年国家公务员考试《行测》二卷第63题"
+    "source": "2006年国家公务员考试《行测》二卷第63题",
+    "subModule": "生活常识",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2006-二卷-64",
@@ -3594,7 +3810,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2006年国家公务员考试《行测》二卷第64题"
+    "source": "2006年国家公务员考试《行测》二卷第64题",
+    "subModule": "科技",
+    "subModule_confidence": "low"
   },
   {
     "id": "gk-2006-二卷-65",
@@ -3628,7 +3846,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2006年国家公务员考试《行测》二卷第65题"
+    "source": "2006年国家公务员考试《行测》二卷第65题",
+    "subModule": "生活常识",
+    "subModule_confidence": "low"
   },
   {
     "id": "gk-2006-二卷-66",
@@ -3662,7 +3882,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2006年国家公务员考试《行测》二卷第66题"
+    "source": "2006年国家公务员考试《行测》二卷第66题",
+    "subModule": "生活常识",
+    "subModule_confidence": "low"
   },
   {
     "id": "gk-2006-二卷-67",
@@ -3695,7 +3917,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2006年国家公务员考试《行测》二卷第67题"
+    "source": "2006年国家公务员考试《行测》二卷第67题",
+    "subModule": "经济管理",
+    "subModule_confidence": "low"
   },
   {
     "id": "gk-2006-二卷-68",
@@ -3729,7 +3953,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2006年国家公务员考试《行测》二卷第68题"
+    "source": "2006年国家公务员考试《行测》二卷第68题",
+    "subModule": "生活常识",
+    "subModule_confidence": "low"
   },
   {
     "id": "gk-2006-二卷-69",
@@ -3762,7 +3988,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2006年国家公务员考试《行测》二卷第69题"
+    "source": "2006年国家公务员考试《行测》二卷第69题",
+    "subModule": "生活常识",
+    "subModule_confidence": "low"
   },
   {
     "id": "gk-2006-二卷-70",
@@ -3796,7 +4024,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2006年国家公务员考试《行测》二卷第70题"
+    "source": "2006年国家公务员考试《行测》二卷第70题",
+    "subModule": "经济管理",
+    "subModule_confidence": "low"
   },
   {
     "id": "gk-2006-二卷-71",
@@ -3830,7 +4060,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2006年国家公务员考试《行测》二卷第71题"
+    "source": "2006年国家公务员考试《行测》二卷第71题",
+    "subModule": "生活常识",
+    "subModule_confidence": "low"
   },
   {
     "id": "gk-2006-二卷-72",
@@ -3863,7 +4095,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2006年国家公务员考试《行测》二卷第72题"
+    "source": "2006年国家公务员考试《行测》二卷第72题",
+    "subModule": "经济管理",
+    "subModule_confidence": "low"
   },
   {
     "id": "gk-2006-二卷-73",
@@ -3898,7 +4132,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2006年国家公务员考试《行测》二卷第73题"
+    "source": "2006年国家公务员考试《行测》二卷第73题",
+    "subModule": "生活常识",
+    "subModule_confidence": "low"
   },
   {
     "id": "gk-2006-二卷-74",
@@ -3932,7 +4168,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2006年国家公务员考试《行测》二卷第74题"
+    "source": "2006年国家公务员考试《行测》二卷第74题",
+    "subModule": "经济管理",
+    "subModule_confidence": "low"
   },
   {
     "id": "gk-2006-二卷-75",
@@ -3966,7 +4204,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2006年国家公务员考试《行测》二卷第75题"
+    "source": "2006年国家公务员考试《行测》二卷第75题",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2006-二卷-76",
@@ -3981,7 +4221,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2006年国家公务员考试《行测》二卷第76题",
-    "isImageQuestion": true
+    "isImageQuestion": true,
+    "subModule": "生活常识",
+    "subModule_confidence": "low"
   },
   {
     "id": "gk-2006-二卷-77",
@@ -3999,7 +4241,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2006年国家公务员考试《行测》二卷第77题",
-    "isImageQuestion": true
+    "isImageQuestion": true,
+    "subModule": "生活常识",
+    "subModule_confidence": "low"
   },
   {
     "id": "gk-2006-二卷-78",
@@ -4017,7 +4261,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2006年国家公务员考试《行测》二卷第78题",
-    "isImageQuestion": true
+    "isImageQuestion": true,
+    "subModule": "人文历史",
+    "subModule_confidence": "low"
   },
   {
     "id": "gk-2006-二卷-79",
@@ -4035,7 +4281,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2006年国家公务员考试《行测》二卷第79题",
-    "isImageQuestion": true
+    "isImageQuestion": true,
+    "subModule": "生活常识",
+    "subModule_confidence": "low"
   },
   {
     "id": "gk-2006-二卷-80",
@@ -4053,7 +4301,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2006年国家公务员考试《行测》二卷第80题",
-    "isImageQuestion": true
+    "isImageQuestion": true,
+    "subModule": "人文历史",
+    "subModule_confidence": "low"
   },
   {
     "id": "gk-2006-二卷-81",
@@ -4071,7 +4321,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2006年国家公务员考试《行测》二卷第81题",
-    "isImageQuestion": true
+    "isImageQuestion": true,
+    "subModule": "生活常识",
+    "subModule_confidence": "low"
   },
   {
     "id": "gk-2006-二卷-82",
@@ -4089,7 +4341,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2006年国家公务员考试《行测》二卷第82题",
-    "isImageQuestion": true
+    "isImageQuestion": true,
+    "subModule": "生活常识",
+    "subModule_confidence": "low"
   },
   {
     "id": "gk-2006-二卷-83",
@@ -4107,7 +4361,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2006年国家公务员考试《行测》二卷第83题",
-    "isImageQuestion": true
+    "isImageQuestion": true,
+    "subModule": "生活常识",
+    "subModule_confidence": "low"
   },
   {
     "id": "gk-2006-二卷-84",
@@ -4126,7 +4382,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2006年国家公务员考试《行测》二卷第84题",
-    "isImageQuestion": true
+    "isImageQuestion": true,
+    "subModule": "生活常识",
+    "subModule_confidence": "low"
   },
   {
     "id": "gk-2006-二卷-85",
@@ -4144,7 +4402,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2006年国家公务员考试《行测》二卷第85题",
-    "isImageQuestion": true
+    "isImageQuestion": true,
+    "subModule": "科技",
+    "subModule_confidence": "low"
   },
   {
     "id": "gk-2006-二卷-86",
@@ -4178,7 +4438,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2006年国家公务员考试《行测》二卷第86题"
+    "source": "2006年国家公务员考试《行测》二卷第86题",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2006-二卷-87",
@@ -4212,7 +4474,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2006年国家公务员考试《行测》二卷第87题"
+    "source": "2006年国家公务员考试《行测》二卷第87题",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2006-二卷-88",
@@ -4247,7 +4511,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2006年国家公务员考试《行测》二卷第88题"
+    "source": "2006年国家公务员考试《行测》二卷第88题",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2006-二卷-89",
@@ -4282,7 +4548,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2006年国家公务员考试《行测》二卷第89题"
+    "source": "2006年国家公务员考试《行测》二卷第89题",
+    "subModule": "经济管理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2006-二卷-90",
@@ -4315,7 +4583,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2006年国家公务员考试《行测》二卷第90题"
+    "source": "2006年国家公务员考试《行测》二卷第90题",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2006-二卷-91",
@@ -4349,7 +4619,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2006年国家公务员考试《行测》二卷第91题"
+    "source": "2006年国家公务员考试《行测》二卷第91题",
+    "subModule": "人文历史",
+    "subModule_confidence": "low"
   },
   {
     "id": "gk-2006-二卷-92",
@@ -4382,7 +4654,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2006年国家公务员考试《行测》二卷第92题"
+    "source": "2006年国家公务员考试《行测》二卷第92题",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2006-二卷-93",
@@ -4415,7 +4689,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2006年国家公务员考试《行测》二卷第93题"
+    "source": "2006年国家公务员考试《行测》二卷第93题",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2006-二卷-94",
@@ -4449,7 +4725,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2006年国家公务员考试《行测》二卷第94题"
+    "source": "2006年国家公务员考试《行测》二卷第94题",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2006-二卷-95",
@@ -4480,7 +4758,9 @@
     "keyPoints": [],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2006年国家公务员考试《行测》二卷第95题"
+    "source": "2006年国家公务员考试《行测》二卷第95题",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2006-二卷-96",
@@ -4515,7 +4795,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2006年国家公务员考试《行测》二卷第96题"
+    "source": "2006年国家公务员考试《行测》二卷第96题",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2006-二卷-97",
@@ -4550,7 +4832,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2006年国家公务员考试《行测》二卷第97题"
+    "source": "2006年国家公务员考试《行测》二卷第97题",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2006-二卷-98",
@@ -4585,7 +4869,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2006年国家公务员考试《行测》二卷第98题"
+    "source": "2006年国家公务员考试《行测》二卷第98题",
+    "subModule": "生活常识",
+    "subModule_confidence": "low"
   },
   {
     "id": "gk-2006-二卷-99",
@@ -4619,7 +4905,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2006年国家公务员考试《行测》二卷第99题"
+    "source": "2006年国家公务员考试《行测》二卷第99题",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2006-二卷-100",
@@ -4654,7 +4942,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2006年国家公务员考试《行测》二卷第100题"
+    "source": "2006年国家公务员考试《行测》二卷第100题",
+    "subModule": "人文历史",
+    "subModule_confidence": "low"
   },
   {
     "id": "gk-2006-二卷-101",
@@ -4688,7 +4978,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2006年国家公务员考试《行测》二卷第101题"
+    "source": "2006年国家公务员考试《行测》二卷第101题",
+    "subModule": "人文历史",
+    "subModule_confidence": "low"
   },
   {
     "id": "gk-2006-二卷-102",
@@ -4723,7 +5015,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2006年国家公务员考试《行测》二卷第102题"
+    "source": "2006年国家公务员考试《行测》二卷第102题",
+    "subModule": "人文历史",
+    "subModule_confidence": "low"
   },
   {
     "id": "gk-2006-二卷-103",
@@ -4758,7 +5052,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2006年国家公务员考试《行测》二卷第103题"
+    "source": "2006年国家公务员考试《行测》二卷第103题",
+    "subModule": "生活常识",
+    "subModule_confidence": "low"
   },
   {
     "id": "gk-2006-二卷-104",
@@ -4793,7 +5089,10 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2006年国家公务员考试《行测》二卷第104题"
+    "source": "2006年国家公务员考试《行测》二卷第104题",
+    "isAbnormal": true,
+    "subModule": "人文历史",
+    "subModule_confidence": "low"
   },
   {
     "id": "gk-2006-二卷-105",
@@ -4828,7 +5127,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2006年国家公务员考试《行测》二卷第105题"
+    "source": "2006年国家公务员考试《行测》二卷第105题",
+    "subModule": "人文历史",
+    "subModule_confidence": "low"
   },
   {
     "id": "gk-2006-二卷-106",
@@ -4859,7 +5160,9 @@
     "keyPoints": [],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2006年国家公务员考试《行测》二卷第106题"
+    "source": "2006年国家公务员考试《行测》二卷第106题",
+    "subModule": "生活常识",
+    "subModule_confidence": "low"
   },
   {
     "id": "gk-2006-二卷-107",
@@ -4893,7 +5196,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2006年国家公务员考试《行测》二卷第107题"
+    "source": "2006年国家公务员考试《行测》二卷第107题",
+    "subModule": "科技",
+    "subModule_confidence": "low"
   },
   {
     "id": "gk-2006-二卷-108",
@@ -4927,7 +5232,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2006年国家公务员考试《行测》二卷第108题"
+    "source": "2006年国家公务员考试《行测》二卷第108题",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2006-二卷-109",
@@ -4961,7 +5268,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2006年国家公务员考试《行测》二卷第109题"
+    "source": "2006年国家公务员考试《行测》二卷第109题",
+    "subModule": "生活常识",
+    "subModule_confidence": "low"
   },
   {
     "id": "gk-2006-二卷-110",
@@ -4994,7 +5303,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2006年国家公务员考试《行测》二卷第110题"
+    "source": "2006年国家公务员考试《行测》二卷第110题",
+    "subModule": "人文历史",
+    "subModule_confidence": "low"
   },
   {
     "id": "gk-2006-二卷-111",
@@ -5025,7 +5336,9 @@
     "keyPoints": [],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2006年国家公务员考试《行测》二卷第111题"
+    "source": "2006年国家公务员考试《行测》二卷第111题",
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "gk-2006-二卷-112",
@@ -5058,7 +5371,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2006年国家公务员考试《行测》二卷第112题"
+    "source": "2006年国家公务员考试《行测》二卷第112题",
+    "subModule": "生活常识",
+    "subModule_confidence": "low"
   },
   {
     "id": "gk-2006-二卷-113",
@@ -5089,7 +5404,9 @@
     "keyPoints": [],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2006年国家公务员考试《行测》二卷第113题"
+    "source": "2006年国家公务员考试《行测》二卷第113题",
+    "subModule": "人文历史",
+    "subModule_confidence": "low"
   },
   {
     "id": "gk-2006-二卷-114",
@@ -5123,7 +5440,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2006年国家公务员考试《行测》二卷第114题"
+    "source": "2006年国家公务员考试《行测》二卷第114题",
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "gk-2006-二卷-115",
@@ -5156,7 +5475,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2006年国家公务员考试《行测》二卷第115题"
+    "source": "2006年国家公务员考试《行测》二卷第115题",
+    "subModule": "生活常识",
+    "subModule_confidence": "low"
   },
   {
     "id": "gk-2006-二卷-116",
@@ -5190,7 +5511,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2006年国家公务员考试《行测》二卷第116题"
+    "source": "2006年国家公务员考试《行测》二卷第116题",
+    "subModule": "经济管理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2006-二卷-117",
@@ -5224,7 +5547,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2006年国家公务员考试《行测》二卷第117题"
+    "source": "2006年国家公务员考试《行测》二卷第117题",
+    "subModule": "经济管理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2006-二卷-118",
@@ -5257,7 +5582,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2006年国家公务员考试《行测》二卷第118题"
+    "source": "2006年国家公务员考试《行测》二卷第118题",
+    "subModule": "经济管理",
+    "subModule_confidence": "low"
   },
   {
     "id": "gk-2006-二卷-119",
@@ -5291,7 +5618,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2006年国家公务员考试《行测》二卷第119题"
+    "source": "2006年国家公务员考试《行测》二卷第119题",
+    "subModule": "经济管理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2006-二卷-120",
@@ -5325,7 +5654,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2006年国家公务员考试《行测》二卷第120题"
+    "source": "2006年国家公务员考试《行测》二卷第120题",
+    "subModule": "经济管理",
+    "subModule_confidence": "low"
   },
   {
     "id": "gk-2006-二卷-121",
@@ -5359,7 +5690,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2006年国家公务员考试《行测》二卷第121题"
+    "source": "2006年国家公务员考试《行测》二卷第121题",
+    "subModule": "经济管理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2006-二卷-122",
@@ -5390,7 +5723,9 @@
     "keyPoints": [],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2006年国家公务员考试《行测》二卷第122题"
+    "source": "2006年国家公务员考试《行测》二卷第122题",
+    "subModule": "经济管理",
+    "subModule_confidence": "low"
   },
   {
     "id": "gk-2006-二卷-123",
@@ -5423,7 +5758,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2006年国家公务员考试《行测》二卷第123题"
+    "source": "2006年国家公务员考试《行测》二卷第123题",
+    "subModule": "经济管理",
+    "subModule_confidence": "low"
   },
   {
     "id": "gk-2006-二卷-124",
@@ -5456,7 +5793,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2006年国家公务员考试《行测》二卷第124题"
+    "source": "2006年国家公务员考试《行测》二卷第124题",
+    "subModule": "经济管理",
+    "subModule_confidence": "low"
   },
   {
     "id": "gk-2006-二卷-125",
@@ -5491,7 +5830,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2006年国家公务员考试《行测》二卷第125题"
+    "source": "2006年国家公务员考试《行测》二卷第125题",
+    "subModule": "经济管理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2006-二卷-126",
@@ -5524,7 +5865,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2006年国家公务员考试《行测》二卷第126题"
+    "source": "2006年国家公务员考试《行测》二卷第126题",
+    "subModule": "经济管理",
+    "subModule_confidence": "low"
   },
   {
     "id": "gk-2006-二卷-127",
@@ -5558,7 +5901,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2006年国家公务员考试《行测》二卷第127题"
+    "source": "2006年国家公务员考试《行测》二卷第127题",
+    "subModule": "经济管理",
+    "subModule_confidence": "low"
   },
   {
     "id": "gk-2006-二卷-128",
@@ -5592,7 +5937,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2006年国家公务员考试《行测》二卷第128题"
+    "source": "2006年国家公务员考试《行测》二卷第128题",
+    "subModule": "经济管理",
+    "subModule_confidence": "low"
   },
   {
     "id": "gk-2006-二卷-129",
@@ -5626,7 +5973,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2006年国家公务员考试《行测》二卷第129题"
+    "source": "2006年国家公务员考试《行测》二卷第129题",
+    "subModule": "地理国情",
+    "subModule_confidence": "low"
   },
   {
     "id": "gk-2006-二卷-130",
@@ -5657,7 +6006,9 @@
     "keyPoints": [],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2006年国家公务员考试《行测》二卷第130题"
+    "source": "2006年国家公务员考试《行测》二卷第130题",
+    "subModule": "经济管理",
+    "subModule_confidence": "low"
   },
   {
     "id": "gk-2007-未标注-96",
@@ -5692,7 +6043,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2007年国家公务员考试《行测》未标注第96题"
+    "source": "2007年国家公务员考试《行测》未标注第96题",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2007-未标注-97",
@@ -5726,7 +6079,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2007年国家公务员考试《行测》未标注第97题"
+    "source": "2007年国家公务员考试《行测》未标注第97题",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2007-未标注-98",
@@ -5759,7 +6114,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2007年国家公务员考试《行测》未标注第98题"
+    "source": "2007年国家公务员考试《行测》未标注第98题",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2007-未标注-99",
@@ -5792,7 +6149,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2007年国家公务员考试《行测》未标注第99题"
+    "source": "2007年国家公务员考试《行测》未标注第99题",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2007-未标注-100",
@@ -5825,7 +6184,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2007年国家公务员考试《行测》未标注第100题"
+    "source": "2007年国家公务员考试《行测》未标注第100题",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2007-未标注-101",
@@ -5856,7 +6217,9 @@
     "keyPoints": [],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2007年国家公务员考试《行测》未标注第101题"
+    "source": "2007年国家公务员考试《行测》未标注第101题",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2007-未标注-102",
@@ -5891,7 +6254,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2007年国家公务员考试《行测》未标注第102题"
+    "source": "2007年国家公务员考试《行测》未标注第102题",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2007-未标注-103",
@@ -5925,7 +6290,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2007年国家公务员考试《行测》未标注第103题"
+    "source": "2007年国家公务员考试《行测》未标注第103题",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2007-未标注-104",
@@ -5960,7 +6327,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2007年国家公务员考试《行测》未标注第104题"
+    "source": "2007年国家公务员考试《行测》未标注第104题",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2007-未标注-105",
@@ -5991,7 +6360,9 @@
     "keyPoints": [],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2007年国家公务员考试《行测》未标注第105题"
+    "source": "2007年国家公务员考试《行测》未标注第105题",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2007-未标注-106",
@@ -6025,7 +6396,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2007年国家公务员考试《行测》未标注第106题"
+    "source": "2007年国家公务员考试《行测》未标注第106题",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2007-未标注-107",
@@ -6059,7 +6432,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2007年国家公务员考试《行测》未标注第107题"
+    "source": "2007年国家公务员考试《行测》未标注第107题",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2007-未标注-108",
@@ -6092,7 +6467,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2007年国家公务员考试《行测》未标注第108题"
+    "source": "2007年国家公务员考试《行测》未标注第108题",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2007-未标注-109",
@@ -6126,7 +6503,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2007年国家公务员考试《行测》未标注第109题"
+    "source": "2007年国家公务员考试《行测》未标注第109题",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2007-未标注-110",
@@ -6160,7 +6539,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2007年国家公务员考试《行测》未标注第110题"
+    "source": "2007年国家公务员考试《行测》未标注第110题",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2007-未标注-111",
@@ -6194,7 +6575,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2007年国家公务员考试《行测》未标注第111题"
+    "source": "2007年国家公务员考试《行测》未标注第111题",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2007-未标注-112",
@@ -6228,7 +6611,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2007年国家公务员考试《行测》未标注第112题"
+    "source": "2007年国家公务员考试《行测》未标注第112题",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2007-未标注-113",
@@ -6262,7 +6647,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2007年国家公务员考试《行测》未标注第113题"
+    "source": "2007年国家公务员考试《行测》未标注第113题",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2007-未标注-114",
@@ -6297,7 +6684,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2007年国家公务员考试《行测》未标注第114题"
+    "source": "2007年国家公务员考试《行测》未标注第114题",
+    "subModule": "经济管理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2007-未标注-115",
@@ -6330,7 +6719,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2007年国家公务员考试《行测》未标注第115题"
+    "source": "2007年国家公务员考试《行测》未标注第115题",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2007-未标注-116",
@@ -6363,7 +6754,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2007年国家公务员考试《行测》未标注第116题"
+    "source": "2007年国家公务员考试《行测》未标注第116题",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2007-未标注-117",
@@ -6397,7 +6790,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2007年国家公务员考试《行测》未标注第117题"
+    "source": "2007年国家公务员考试《行测》未标注第117题",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2007-未标注-118",
@@ -6432,7 +6827,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2007年国家公务员考试《行测》未标注第118题"
+    "source": "2007年国家公务员考试《行测》未标注第118题",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2007-未标注-119",
@@ -6466,7 +6863,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2007年国家公务员考试《行测》未标注第119题"
+    "source": "2007年国家公务员考试《行测》未标注第119题",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2007-未标注-120",
@@ -6500,6 +6899,8 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2007年国家公务员考试《行测》未标注第120题"
+    "source": "2007年国家公务员考试《行测》未标注第120题",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   }
 ]

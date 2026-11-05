@@ -32,7 +32,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年黑龙江公务员考试《行测》（424联考）第76题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2011-424联考-77",
@@ -67,7 +69,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年黑龙江公务员考试《行测》（424联考）第77题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2011-424联考-78",
@@ -103,7 +107,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年黑龙江公务员考试《行测》（424联考）第78题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2011-424联考-79",
@@ -137,7 +143,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年黑龙江公务员考试《行测》（424联考）第79题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2011-424联考-80",
@@ -172,7 +180,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年黑龙江公务员考试《行测》（424联考）第80题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2012-421联考-66",
@@ -191,7 +201,9 @@
     "difficulty": "中等",
     "source": "2012年黑龙江公务员考试《行测》（421联考）第66题",
     "isImageQuestion": true,
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2012-421联考-67",
@@ -209,7 +221,9 @@
     "difficulty": "中等",
     "source": "2012年黑龙江公务员考试《行测》（421联考）第67题",
     "isImageQuestion": true,
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2012-421联考-68",
@@ -228,7 +242,9 @@
     "difficulty": "中等",
     "source": "2012年黑龙江公务员考试《行测》（421联考）第68题",
     "isImageQuestion": true,
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2012-421联考-69",
@@ -247,7 +263,9 @@
     "difficulty": "中等",
     "source": "2012年黑龙江公务员考试《行测》（421联考）第69题",
     "isImageQuestion": true,
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2012-421联考-70",
@@ -267,7 +285,9 @@
     "difficulty": "中等",
     "source": "2012年黑龙江公务员考试《行测》（421联考）第70题",
     "isImageQuestion": true,
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2012-421联考-71",
@@ -303,7 +323,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年黑龙江公务员考试《行测》（421联考）第71题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2012-421联考-72",
@@ -339,7 +361,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年黑龙江公务员考试《行测》（421联考）第72题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2012-421联考-73",
@@ -375,7 +399,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年黑龙江公务员考试《行测》（421联考）第73题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2012-421联考-74",
@@ -411,7 +437,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年黑龙江公务员考试《行测》（421联考）第74题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2012-421联考-75",
@@ -446,7 +474,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年黑龙江公务员考试《行测》（421联考）第75题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2012-421联考-76",
@@ -481,7 +511,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年黑龙江公务员考试《行测》（421联考）第76题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2012-421联考-77",
@@ -517,7 +549,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年黑龙江公务员考试《行测》（421联考）第77题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2012-421联考-78",
@@ -552,7 +586,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年黑龙江公务员考试《行测》（421联考）第78题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2012-421联考-79",
@@ -588,7 +624,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年黑龙江公务员考试《行测》（421联考）第79题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2012-421联考-80",
@@ -624,7 +662,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年黑龙江公务员考试《行测》（421联考）第80题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2012-421联考-81",
@@ -659,7 +699,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年黑龙江公务员考试《行测》（421联考）第81题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2012-421联考-82",
@@ -693,7 +735,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年黑龙江公务员考试《行测》（421联考）第82题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2012-421联考-83",
@@ -728,7 +772,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年黑龙江公务员考试《行测》（421联考）第83题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2012-421联考-84",
@@ -764,7 +810,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年黑龙江公务员考试《行测》（421联考）第84题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2012-421联考-85",
@@ -799,7 +847,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年黑龙江公务员考试《行测》（421联考）第85题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2012-421联考-86",
@@ -835,7 +885,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年黑龙江公务员考试《行测》（421联考）第86题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2012-421联考-87",
@@ -871,7 +923,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年黑龙江公务员考试《行测》（421联考）第87题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2012-421联考-88",
@@ -907,7 +961,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年黑龙江公务员考试《行测》（421联考）第88题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2012-421联考-89",
@@ -942,7 +998,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年黑龙江公务员考试《行测》（421联考）第89题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2012-421联考-90",
@@ -977,7 +1035,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年黑龙江公务员考试《行测》（421联考）第90题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2012-421联考-91",
@@ -1011,7 +1071,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年黑龙江公务员考试《行测》（421联考）第91题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2012-421联考-92",
@@ -1045,7 +1107,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年黑龙江公务员考试《行测》（421联考）第92题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2012-421联考-93",
@@ -1081,7 +1145,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年黑龙江公务员考试《行测》（421联考）第93题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2012-421联考-94",
@@ -1116,7 +1182,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年黑龙江公务员考试《行测》（421联考）第94题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2012-421联考-95",
@@ -1151,7 +1219,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年黑龙江公务员考试《行测》（421联考）第95题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2012-421联考-96",
@@ -1186,7 +1256,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年黑龙江公务员考试《行测》（421联考）第96题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2012-421联考-97",
@@ -1222,7 +1294,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年黑龙江公务员考试《行测》（421联考）第97题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2012-421联考-98",
@@ -1258,7 +1332,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年黑龙江公务员考试《行测》（421联考）第98题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2012-421联考-99",
@@ -1293,7 +1369,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年黑龙江公务员考试《行测》（421联考）第99题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2012-421联考-100",
@@ -1329,7 +1407,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年黑龙江公务员考试《行测》（421联考）第100题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2013-413联考-91",
@@ -1348,7 +1428,9 @@
     "difficulty": "中等",
     "source": "2013年黑龙江公务员考试《行测》（413联考）第91题",
     "isImageQuestion": true,
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2013-413联考-92",
@@ -1367,7 +1449,9 @@
     "difficulty": "中等",
     "source": "2013年黑龙江公务员考试《行测》（413联考）第92题",
     "isImageQuestion": true,
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2013-413联考-93",
@@ -1385,7 +1469,9 @@
     "difficulty": "中等",
     "source": "2013年黑龙江公务员考试《行测》（413联考）第93题",
     "isImageQuestion": true,
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2013-413联考-94",
@@ -1405,7 +1491,9 @@
     "difficulty": "中等",
     "source": "2013年黑龙江公务员考试《行测》（413联考）第94题",
     "isImageQuestion": true,
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2013-413联考-95",
@@ -1424,7 +1512,9 @@
     "difficulty": "中等",
     "source": "2013年黑龙江公务员考试《行测》（413联考）第95题",
     "isImageQuestion": true,
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2013-413联考-96",
@@ -1444,7 +1534,9 @@
     "difficulty": "中等",
     "source": "2013年黑龙江公务员考试《行测》（413联考）第96题",
     "isImageQuestion": true,
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2013-413联考-97",
@@ -1463,7 +1555,9 @@
     "difficulty": "中等",
     "source": "2013年黑龙江公务员考试《行测》（413联考）第97题",
     "isImageQuestion": true,
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2013-413联考-98",
@@ -1482,7 +1576,9 @@
     "difficulty": "中等",
     "source": "2013年黑龙江公务员考试《行测》（413联考）第98题",
     "isImageQuestion": true,
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2013-413联考-99",
@@ -1517,7 +1613,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年黑龙江公务员考试《行测》（413联考）第99题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2013-413联考-100",
@@ -1552,7 +1650,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年黑龙江公务员考试《行测》（413联考）第100题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2013-413联考-101",
@@ -1588,7 +1688,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年黑龙江公务员考试《行测》（413联考）第101题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2013-413联考-102",
@@ -1624,7 +1726,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年黑龙江公务员考试《行测》（413联考）第102题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2013-413联考-103",
@@ -1658,7 +1762,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年黑龙江公务员考试《行测》（413联考）第103题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2013-413联考-104",
@@ -1692,7 +1798,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年黑龙江公务员考试《行测》（413联考）第104题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2013-413联考-105",
@@ -1726,7 +1834,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年黑龙江公务员考试《行测》（413联考）第105题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2013-413联考-106",
@@ -1761,7 +1871,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年黑龙江公务员考试《行测》（413联考）第106题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2013-413联考-107",
@@ -1796,7 +1908,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年黑龙江公务员考试《行测》（413联考）第107题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2013-413联考-108",
@@ -1830,7 +1944,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年黑龙江公务员考试《行测》（413联考）第108题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2013-413联考-109",
@@ -1865,7 +1981,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年黑龙江公务员考试《行测》（413联考）第109题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2013-413联考-110",
@@ -1900,7 +2018,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年黑龙江公务员考试《行测》（413联考）第110题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2013-413联考-111",
@@ -1934,7 +2054,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年黑龙江公务员考试《行测》（413联考）第111题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2013-413联考-112",
@@ -1970,7 +2092,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年黑龙江公务员考试《行测》（413联考）第112题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2013-413联考-113",
@@ -2006,7 +2130,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年黑龙江公务员考试《行测》（413联考）第113题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2013-413联考-114",
@@ -2042,7 +2168,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年黑龙江公务员考试《行测》（413联考）第114题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2013-413联考-115",
@@ -2078,7 +2206,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年黑龙江公务员考试《行测》（413联考）第115题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2013-413联考-116",
@@ -2113,7 +2243,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年黑龙江公务员考试《行测》（413联考）第116题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2013-413联考-117",
@@ -2147,7 +2279,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年黑龙江公务员考试《行测》（413联考）第117题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2013-413联考-118",
@@ -2183,7 +2317,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年黑龙江公务员考试《行测》（413联考）第118题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2013-413联考-119",
@@ -2218,7 +2354,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年黑龙江公务员考试《行测》（413联考）第119题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2013-413联考-120",
@@ -2253,7 +2391,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年黑龙江公务员考试《行测》（413联考）第120题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2013-413联考-121",
@@ -2288,7 +2428,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年黑龙江公务员考试《行测》（413联考）第121题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2013-413联考-122",
@@ -2323,7 +2465,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年黑龙江公务员考试《行测》（413联考）第122题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2013-413联考-123",
@@ -2359,7 +2503,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年黑龙江公务员考试《行测》（413联考）第123题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2013-413联考-124",
@@ -2395,7 +2541,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年黑龙江公务员考试《行测》（413联考）第124题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2013-413联考-125",
@@ -2430,7 +2578,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年黑龙江公务员考试《行测》（413联考）第125题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2013-413联考-126",
@@ -2466,7 +2616,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年黑龙江公务员考试《行测》（413联考）第126题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2013-413联考-127",
@@ -2502,7 +2654,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年黑龙江公务员考试《行测》（413联考）第127题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2013-413联考-128",
@@ -2538,7 +2692,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年黑龙江公务员考试《行测》（413联考）第128题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2013-413联考-129",
@@ -2574,7 +2730,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年黑龙江公务员考试《行测》（413联考）第129题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2013-413联考-130",
@@ -2610,7 +2768,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年黑龙江公务员考试《行测》（413联考）第130题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2013-413联考-131",
@@ -2646,7 +2806,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年黑龙江公务员考试《行测》（413联考）第131题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2013-413联考-132",
@@ -2682,7 +2844,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年黑龙江公务员考试《行测》（413联考）第132题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2013-413联考-133",
@@ -2718,7 +2882,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年黑龙江公务员考试《行测》（413联考）第133题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2013-413联考-134",
@@ -2753,7 +2919,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年黑龙江公务员考试《行测》（413联考）第134题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2014-未标注-66",
@@ -2772,7 +2940,9 @@
     "difficulty": "中等",
     "source": "2014年黑龙江公务员考试《行测》第66题",
     "isImageQuestion": true,
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2014-未标注-67",
@@ -2792,7 +2962,9 @@
     "difficulty": "中等",
     "source": "2014年黑龙江公务员考试《行测》第67题",
     "isImageQuestion": true,
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2014-未标注-68",
@@ -2812,7 +2984,9 @@
     "difficulty": "中等",
     "source": "2014年黑龙江公务员考试《行测》第68题",
     "isImageQuestion": true,
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2014-未标注-69",
@@ -2831,7 +3005,9 @@
     "difficulty": "中等",
     "source": "2014年黑龙江公务员考试《行测》第69题",
     "isImageQuestion": true,
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2014-未标注-70",
@@ -2849,7 +3025,9 @@
     "difficulty": "中等",
     "source": "2014年黑龙江公务员考试《行测》第70题",
     "isImageQuestion": true,
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2014-未标注-71",
@@ -2884,7 +3062,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年黑龙江公务员考试《行测》第71题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2014-未标注-72",
@@ -2919,7 +3099,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年黑龙江公务员考试《行测》第72题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2014-未标注-73",
@@ -2954,7 +3136,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年黑龙江公务员考试《行测》第73题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2014-未标注-74",
@@ -2990,7 +3174,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年黑龙江公务员考试《行测》第74题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2014-未标注-75",
@@ -3025,7 +3211,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年黑龙江公务员考试《行测》第75题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2014-未标注-76",
@@ -3060,7 +3248,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年黑龙江公务员考试《行测》第76题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2014-未标注-77",
@@ -3095,7 +3285,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年黑龙江公务员考试《行测》第77题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2014-未标注-78",
@@ -3129,7 +3321,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年黑龙江公务员考试《行测》第78题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2014-未标注-79",
@@ -3164,7 +3358,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年黑龙江公务员考试《行测》第79题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2014-未标注-80",
@@ -3199,7 +3395,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年黑龙江公务员考试《行测》第80题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2014-未标注-81",
@@ -3235,7 +3433,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年黑龙江公务员考试《行测》第81题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2014-未标注-82",
@@ -3270,7 +3470,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年黑龙江公务员考试《行测》第82题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2014-未标注-83",
@@ -3306,7 +3508,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年黑龙江公务员考试《行测》第83题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2014-未标注-84",
@@ -3342,7 +3546,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年黑龙江公务员考试《行测》第84题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2014-未标注-85",
@@ -3378,7 +3584,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年黑龙江公务员考试《行测》第85题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2014-未标注-86",
@@ -3413,7 +3621,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年黑龙江公务员考试《行测》第86题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2014-未标注-87",
@@ -3449,7 +3659,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年黑龙江公务员考试《行测》第87题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2014-未标注-88",
@@ -3484,7 +3696,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年黑龙江公务员考试《行测》第88题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2014-未标注-89",
@@ -3520,7 +3734,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年黑龙江公务员考试《行测》第89题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2014-未标注-90",
@@ -3554,7 +3770,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年黑龙江公务员考试《行测》第90题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2014-未标注-91",
@@ -3590,7 +3808,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年黑龙江公务员考试《行测》第91题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2014-未标注-92",
@@ -3625,7 +3845,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年黑龙江公务员考试《行测》第92题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2014-未标注-93",
@@ -3660,7 +3882,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年黑龙江公务员考试《行测》第93题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2014-未标注-94",
@@ -3696,7 +3920,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年黑龙江公务员考试《行测》第94题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2014-未标注-95",
@@ -3731,7 +3957,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年黑龙江公务员考试《行测》第95题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2014-未标注-96",
@@ -3767,7 +3995,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年黑龙江公务员考试《行测》第96题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2014-未标注-97",
@@ -3803,7 +4033,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年黑龙江公务员考试《行测》第97题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2014-未标注-98",
@@ -3839,7 +4071,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年黑龙江公务员考试《行测》第98题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2014-未标注-99",
@@ -3875,7 +4109,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年黑龙江公务员考试《行测》第99题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2014-未标注-100",
@@ -3911,7 +4147,9 @@
     "difficulty": "中等",
     "source": "2014年黑龙江公务员考试《行测》第100题",
     "isImageQuestion": true,
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2015-边远-66",
@@ -3946,7 +4184,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年黑龙江公务员考试《行测》（边远）第66题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2015-边远-67",
@@ -3982,7 +4222,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年黑龙江公务员考试《行测》（边远）第67题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2015-边远-68",
@@ -4017,7 +4259,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年黑龙江公务员考试《行测》（边远）第68题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2015-边远-69",
@@ -4053,7 +4297,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年黑龙江公务员考试《行测》（边远）第69题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2015-边远-70",
@@ -4088,7 +4334,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年黑龙江公务员考试《行测》（边远）第70题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2015-边远-71",
@@ -4124,7 +4372,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年黑龙江公务员考试《行测》（边远）第71题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2015-边远-72",
@@ -4159,7 +4409,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年黑龙江公务员考试《行测》（边远）第72题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2015-边远-73",
@@ -4195,7 +4447,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年黑龙江公务员考试《行测》（边远）第73题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2015-边远-74",
@@ -4231,7 +4485,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年黑龙江公务员考试《行测》（边远）第74题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2015-边远-75",
@@ -4267,7 +4523,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年黑龙江公务员考试《行测》（边远）第75题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2015-边远-76",
@@ -4302,7 +4560,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年黑龙江公务员考试《行测》（边远）第76题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2015-边远-77",
@@ -4338,7 +4598,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年黑龙江公务员考试《行测》（边远）第77题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2015-边远-78",
@@ -4374,7 +4636,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年黑龙江公务员考试《行测》（边远）第78题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2015-边远-79",
@@ -4408,7 +4672,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年黑龙江公务员考试《行测》（边远）第79题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2015-边远-80",
@@ -4444,7 +4710,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年黑龙江公务员考试《行测》（边远）第80题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2015-边远-81",
@@ -4480,7 +4748,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年黑龙江公务员考试《行测》（边远）第81题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2015-边远-82",
@@ -4514,7 +4784,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年黑龙江公务员考试《行测》（边远）第82题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2015-边远-83",
@@ -4549,7 +4821,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年黑龙江公务员考试《行测》（边远）第83题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2015-边远-84",
@@ -4581,7 +4855,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年黑龙江公务员考试《行测》（边远）第84题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2015-边远-85",
@@ -4616,7 +4892,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年黑龙江公务员考试《行测》（边远）第85题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2015-边远-86",
@@ -4652,7 +4930,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年黑龙江公务员考试《行测》（边远）第86题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2015-边远-87",
@@ -4688,7 +4968,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年黑龙江公务员考试《行测》（边远）第87题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2015-边远-88",
@@ -4724,7 +5006,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年黑龙江公务员考试《行测》（边远）第88题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2015-边远-89",
@@ -4758,7 +5042,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年黑龙江公务员考试《行测》（边远）第89题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2015-边远-90",
@@ -4778,7 +5064,9 @@
     "difficulty": "中等",
     "source": "2015年黑龙江公务员考试《行测》（边远）第90题",
     "isImageQuestion": true,
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2015-边远-91",
@@ -4797,7 +5085,9 @@
     "difficulty": "中等",
     "source": "2015年黑龙江公务员考试《行测》（边远）第91题",
     "isImageQuestion": true,
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2015-边远-92",
@@ -4816,7 +5106,9 @@
     "difficulty": "中等",
     "source": "2015年黑龙江公务员考试《行测》（边远）第92题",
     "isImageQuestion": true,
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2015-边远-93",
@@ -4834,7 +5126,9 @@
     "difficulty": "中等",
     "source": "2015年黑龙江公务员考试《行测》（边远）第93题",
     "isImageQuestion": true,
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2015-边远-94",
@@ -4854,7 +5148,9 @@
     "difficulty": "中等",
     "source": "2015年黑龙江公务员考试《行测》（边远）第94题",
     "isImageQuestion": true,
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2015-边远-95",
@@ -4873,7 +5169,9 @@
     "difficulty": "中等",
     "source": "2015年黑龙江公务员考试《行测》（边远）第95题",
     "isImageQuestion": true,
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2015-边远-96",
@@ -4901,7 +5199,9 @@
     "difficulty": "中等",
     "source": "2015年黑龙江公务员考试《行测》（边远）第96题",
     "isImageQuestion": true,
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2015-边远-97",
@@ -4920,7 +5220,9 @@
     "difficulty": "中等",
     "source": "2015年黑龙江公务员考试《行测》（边远）第97题",
     "isImageQuestion": true,
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2015-边远-98",
@@ -4955,7 +5257,9 @@
     "difficulty": "中等",
     "source": "2015年黑龙江公务员考试《行测》（边远）第98题",
     "isImageQuestion": true,
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2015-边远-99",
@@ -4974,7 +5278,9 @@
     "difficulty": "中等",
     "source": "2015年黑龙江公务员考试《行测》（边远）第99题",
     "isImageQuestion": true,
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2015-边远-100",
@@ -4993,7 +5299,9 @@
     "difficulty": "中等",
     "source": "2015年黑龙江公务员考试《行测》（边远）第100题",
     "isImageQuestion": true,
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2015-公检法-71",
@@ -5028,7 +5336,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年黑龙江公务员考试《行测》（公检法）第71题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2015-公检法-72",
@@ -5064,7 +5374,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年黑龙江公务员考试《行测》（公检法）第72题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2015-公检法-73",
@@ -5099,7 +5411,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年黑龙江公务员考试《行测》（公检法）第73题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2015-公检法-74",
@@ -5134,7 +5448,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年黑龙江公务员考试《行测》（公检法）第74题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2015-公检法-75",
@@ -5170,7 +5486,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年黑龙江公务员考试《行测》（公检法）第75题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2015-公检法-76",
@@ -5205,7 +5523,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年黑龙江公务员考试《行测》（公检法）第76题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2015-公检法-77",
@@ -5240,7 +5560,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年黑龙江公务员考试《行测》（公检法）第77题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2015-公检法-78",
@@ -5275,7 +5597,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年黑龙江公务员考试《行测》（公检法）第78题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2015-公检法-79",
@@ -5311,7 +5635,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年黑龙江公务员考试《行测》（公检法）第79题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2015-公检法-80",
@@ -5346,7 +5672,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年黑龙江公务员考试《行测》（公检法）第80题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2015-公检法-81",
@@ -5382,7 +5710,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年黑龙江公务员考试《行测》（公检法）第81题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2015-公检法-82",
@@ -5418,7 +5748,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年黑龙江公务员考试《行测》（公检法）第82题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2015-公检法-83",
@@ -5454,7 +5786,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年黑龙江公务员考试《行测》（公检法）第83题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2015-公检法-84",
@@ -5489,7 +5823,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年黑龙江公务员考试《行测》（公检法）第84题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2015-公检法-85",
@@ -5525,7 +5861,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年黑龙江公务员考试《行测》（公检法）第85题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2015-公检法-86",
@@ -5561,7 +5899,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年黑龙江公务员考试《行测》（公检法）第86题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2015-公检法-87",
@@ -5597,7 +5937,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年黑龙江公务员考试《行测》（公检法）第87题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2015-公检法-88",
@@ -5633,7 +5975,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年黑龙江公务员考试《行测》（公检法）第88题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2015-公检法-89",
@@ -5669,7 +6013,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年黑龙江公务员考试《行测》（公检法）第89题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2015-公检法-90",
@@ -5703,7 +6049,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年黑龙江公务员考试《行测》（公检法）第90题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2015-公检法-91",
@@ -5738,7 +6086,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年黑龙江公务员考试《行测》（公检法）第91题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2015-公检法-92",
@@ -5773,7 +6123,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年黑龙江公务员考试《行测》（公检法）第92题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2015-公检法-93",
@@ -5807,7 +6159,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年黑龙江公务员考试《行测》（公检法）第93题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2015-公检法-94",
@@ -5843,7 +6197,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年黑龙江公务员考试《行测》（公检法）第94题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2015-公检法-95",
@@ -5879,7 +6235,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年黑龙江公务员考试《行测》（公检法）第95题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2015-公检法-96",
@@ -5913,7 +6271,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年黑龙江公务员考试《行测》（公检法）第96题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2015-公检法-97",
@@ -5949,7 +6309,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年黑龙江公务员考试《行测》（公检法）第97题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2015-公检法-98",
@@ -5985,7 +6347,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年黑龙江公务员考试《行测》（公检法）第98题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2015-公检法-99",
@@ -6019,7 +6383,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年黑龙江公务员考试《行测》（公检法）第99题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2015-公检法-100",
@@ -6054,7 +6420,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年黑龙江公务员考试《行测》（公检法）第100题",
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2015-公检法-101",
@@ -6073,7 +6441,9 @@
     "difficulty": "中等",
     "source": "2015年黑龙江公务员考试《行测》（公检法）第101题",
     "isImageQuestion": true,
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2015-公检法-102",
@@ -6092,7 +6462,9 @@
     "difficulty": "中等",
     "source": "2015年黑龙江公务员考试《行测》（公检法）第102题",
     "isImageQuestion": true,
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2015-公检法-103",
@@ -6111,7 +6483,9 @@
     "difficulty": "中等",
     "source": "2015年黑龙江公务员考试《行测》（公检法）第103题",
     "isImageQuestion": true,
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2015-公检法-104",
@@ -6129,7 +6503,9 @@
     "difficulty": "中等",
     "source": "2015年黑龙江公务员考试《行测》（公检法）第104题",
     "isImageQuestion": true,
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2015-公检法-105",
@@ -6148,7 +6524,9 @@
     "difficulty": "中等",
     "source": "2015年黑龙江公务员考试《行测》（公检法）第105题",
     "isImageQuestion": true,
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2015-公检法-106",
@@ -6167,7 +6545,9 @@
     "difficulty": "中等",
     "source": "2015年黑龙江公务员考试《行测》（公检法）第106题",
     "isImageQuestion": true,
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2015-公检法-107",
@@ -6186,7 +6566,9 @@
     "difficulty": "中等",
     "source": "2015年黑龙江公务员考试《行测》（公检法）第107题",
     "isImageQuestion": true,
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2015-公检法-108",
@@ -6205,7 +6587,9 @@
     "difficulty": "中等",
     "source": "2015年黑龙江公务员考试《行测》（公检法）第108题",
     "isImageQuestion": true,
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2015-公检法-109",
@@ -6240,7 +6624,9 @@
     "difficulty": "中等",
     "source": "2015年黑龙江公务员考试《行测》（公检法）第109题",
     "isImageQuestion": true,
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2015-公检法-110",
@@ -6259,7 +6645,9 @@
     "difficulty": "中等",
     "source": "2015年黑龙江公务员考试《行测》（公检法）第110题",
     "isImageQuestion": true,
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2015-未标注-71",
@@ -6278,7 +6666,9 @@
     "difficulty": "中等",
     "source": "2015年黑龙江公务员考试《行测》第71题",
     "isImageQuestion": true,
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2015-未标注-72",
@@ -6297,7 +6687,9 @@
     "difficulty": "中等",
     "source": "2015年黑龙江公务员考试《行测》第72题",
     "isImageQuestion": true,
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2015-未标注-73",
@@ -6316,7 +6708,9 @@
     "difficulty": "中等",
     "source": "2015年黑龙江公务员考试《行测》第73题",
     "isImageQuestion": true,
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2015-未标注-74",
@@ -6334,7 +6728,9 @@
     "difficulty": "中等",
     "source": "2015年黑龙江公务员考试《行测》第74题",
     "isImageQuestion": true,
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2015-未标注-75",
@@ -6353,7 +6749,9 @@
     "difficulty": "中等",
     "source": "2015年黑龙江公务员考试《行测》第75题",
     "isImageQuestion": true,
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-heilongjiang-2015-未标注-76",
@@ -6372,6 +6770,8 @@
     "difficulty": "中等",
     "source": "2015年黑龙江公务员考试《行测》第76题",
     "isImageQuestion": true,
-    "province": "黑龙江"
+    "province": "黑龙江",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   }
 ]

@@ -31,7 +31,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年江西公务员考试《行测》第68题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2019-未标注-69",
@@ -65,7 +67,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年江西公务员考试《行测》第69题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2019-未标注-70",
@@ -99,7 +103,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年江西公务员考试《行测》第70题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2019-未标注-71",
@@ -134,7 +140,9 @@
     "difficulty": "拔高",
     "source": "2019年江西公务员考试《行测》第71题",
     "isImageQuestion": true,
-    "province": "江西"
+    "province": "江西",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2019-未标注-72",
@@ -152,7 +160,9 @@
     "difficulty": "拔高",
     "source": "2019年江西公务员考试《行测》第72题",
     "isImageQuestion": true,
-    "province": "江西"
+    "province": "江西",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-jiangxi-2019-未标注-73",
@@ -170,7 +180,9 @@
     "difficulty": "拔高",
     "source": "2019年江西公务员考试《行测》第73题",
     "isImageQuestion": true,
-    "province": "江西"
+    "province": "江西",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-jiangxi-2019-未标注-74",
@@ -205,7 +217,9 @@
     "difficulty": "拔高",
     "source": "2019年江西公务员考试《行测》第74题",
     "isImageQuestion": true,
-    "province": "江西"
+    "province": "江西",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-jiangxi-2019-未标注-75",
@@ -223,7 +237,9 @@
     "difficulty": "拔高",
     "source": "2019年江西公务员考试《行测》第75题",
     "isImageQuestion": true,
-    "province": "江西"
+    "province": "江西",
+    "subModule": "几何",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-jiangxi-2019-未标注-76",
@@ -259,7 +275,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年江西公务员考试《行测》第76题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-jiangxi-2019-未标注-77",
@@ -294,7 +312,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年江西公务员考试《行测》第77题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-jiangxi-2019-未标注-78",
@@ -330,7 +350,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年江西公务员考试《行测》第78题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-jiangxi-2019-未标注-79",
@@ -365,7 +387,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年江西公务员考试《行测》第79题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-jiangxi-2019-未标注-80",
@@ -400,7 +424,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年江西公务员考试《行测》第80题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-jiangxi-2019-未标注-81",
@@ -435,7 +461,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年江西公务员考试《行测》第81题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-jiangxi-2019-未标注-82",
@@ -470,7 +498,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年江西公务员考试《行测》第82题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-jiangxi-2019-未标注-83",
@@ -505,7 +535,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年江西公务员考试《行测》第83题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-jiangxi-2019-未标注-84",
@@ -540,7 +572,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年江西公务员考试《行测》第84题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-jiangxi-2019-未标注-85",
@@ -575,7 +609,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年江西公务员考试《行测》第85题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-jiangxi-2019-未标注-86",
@@ -611,7 +647,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年江西公务员考试《行测》第86题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-jiangxi-2019-未标注-87",
@@ -647,7 +685,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年江西公务员考试《行测》第87题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-jiangxi-2019-未标注-88",
@@ -683,7 +723,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年江西公务员考试《行测》第88题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-jiangxi-2019-未标注-89",
@@ -719,7 +761,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年江西公务员考试《行测》第89题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-jiangxi-2019-未标注-90",
@@ -755,7 +799,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年江西公务员考试《行测》第90题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-jiangxi-2019-未标注-91",
@@ -789,7 +835,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年江西公务员考试《行测》第91题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-jiangxi-2019-未标注-92",
@@ -823,7 +871,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年江西公务员考试《行测》第92题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-jiangxi-2019-未标注-93",
@@ -859,7 +909,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年江西公务员考试《行测》第93题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-jiangxi-2019-未标注-94",
@@ -895,7 +947,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年江西公务员考试《行测》第94题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-jiangxi-2019-未标注-95",
@@ -931,7 +985,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年江西公务员考试《行测》第95题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-jiangxi-2019-未标注-96",
@@ -966,7 +1022,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年江西公务员考试《行测》第96题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-jiangxi-2019-未标注-97",
@@ -1002,7 +1060,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年江西公务员考试《行测》第97题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-jiangxi-2019-未标注-98",
@@ -1036,7 +1096,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年江西公务员考试《行测》第98题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-jiangxi-2019-未标注-99",
@@ -1070,7 +1132,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年江西公务员考试《行测》第99题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-jiangxi-2019-未标注-100",
@@ -1102,7 +1166,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年江西公务员考试《行测》第100题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2019-未标注-101",
@@ -1138,7 +1204,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年江西公务员考试《行测》第101题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-jiangxi-2019-未标注-102",
@@ -1174,7 +1242,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年江西公务员考试《行测》第102题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-jiangxi-2019-未标注-103",
@@ -1210,7 +1280,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年江西公务员考试《行测》第103题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2019-未标注-104",
@@ -1245,7 +1317,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年江西公务员考试《行测》第104题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2019-未标注-105",
@@ -1277,7 +1351,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年江西公务员考试《行测》第105题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2019-县乡-66",
@@ -1312,7 +1388,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年江西公务员考试《行测》（县乡）第66题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2019-县乡-67",
@@ -1348,7 +1426,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年江西公务员考试《行测》（县乡）第67题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2019-县乡-68",
@@ -1384,7 +1464,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年江西公务员考试《行测》（县乡）第68题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2019-县乡-69",
@@ -1418,7 +1500,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年江西公务员考试《行测》（县乡）第69题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2019-县乡-70",
@@ -1453,7 +1537,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年江西公务员考试《行测》（县乡）第70题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2019-县乡-71",
@@ -1490,7 +1576,9 @@
     "difficulty": "拔高",
     "source": "2019年江西公务员考试《行测》（县乡）第71题",
     "isImageQuestion": true,
-    "province": "江西"
+    "province": "江西",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-jiangxi-2019-县乡-72",
@@ -1524,7 +1612,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年江西公务员考试《行测》（县乡）第72题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2019-县乡-73",
@@ -1560,7 +1650,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年江西公务员考试《行测》（县乡）第73题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2019-县乡-74",
@@ -1594,7 +1686,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年江西公务员考试《行测》（县乡）第74题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "几何",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-jiangxi-2019-县乡-75",
@@ -1613,7 +1707,10 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年江西公务员考试《行测》（县乡）第75题",
-    "province": "江西"
+    "province": "江西",
+    "isAbnormal": true,
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2019-县乡-76",
@@ -1649,7 +1746,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年江西公务员考试《行测》（县乡）第76题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2019-县乡-77",
@@ -1677,7 +1776,9 @@
     "difficulty": "拔高",
     "source": "2019年江西公务员考试《行测》（县乡）第77题",
     "isImageQuestion": true,
-    "province": "江西"
+    "province": "江西",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2019-县乡-78",
@@ -1713,7 +1814,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年江西公务员考试《行测》（县乡）第78题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2019-县乡-79",
@@ -1747,7 +1850,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年江西公务员考试《行测》（县乡）第79题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2019-县乡-80",
@@ -1782,7 +1887,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年江西公务员考试《行测》（县乡）第80题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2019-乡镇-61",
@@ -1818,7 +1925,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年江西公务员考试《行测》（乡镇）第61题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2019-乡镇-62",
@@ -1855,7 +1964,9 @@
     "difficulty": "拔高",
     "source": "2019年江西公务员考试《行测》（乡镇）第62题",
     "isImageQuestion": true,
-    "province": "江西"
+    "province": "江西",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-jiangxi-2019-乡镇-63",
@@ -1891,7 +2002,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年江西公务员考试《行测》（乡镇）第63题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2019-乡镇-64",
@@ -1910,7 +2023,10 @@
     "difficulty": "拔高",
     "source": "2019年江西公务员考试《行测》（乡镇）第64题",
     "isImageQuestion": true,
-    "province": "江西"
+    "province": "江西",
+    "isAbnormal": true,
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2019-乡镇-65",
@@ -1946,7 +2062,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年江西公务员考试《行测》（乡镇）第65题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2019-乡镇-66",
@@ -1980,7 +2098,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年江西公务员考试《行测》（乡镇）第66题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2019-乡镇-67",
@@ -2014,7 +2134,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年江西公务员考试《行测》（乡镇）第67题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2019-乡镇-68",
@@ -2049,7 +2171,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年江西公务员考试《行测》（乡镇）第68题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2019-乡镇-69",
@@ -2085,7 +2209,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年江西公务员考试《行测》（乡镇）第69题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2019-乡镇-70",
@@ -2119,7 +2245,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年江西公务员考试《行测》（乡镇）第70题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "几何",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-jiangxi-2019-乡镇-71",
@@ -2154,7 +2282,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年江西公务员考试《行测》（乡镇）第71题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2019-乡镇-72",
@@ -2189,7 +2319,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年江西公务员考试《行测》（乡镇）第72题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "经济利润",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-jiangxi-2019-乡镇-73",
@@ -2224,7 +2356,9 @@
     "difficulty": "拔高",
     "source": "2019年江西公务员考试《行测》（乡镇）第73题",
     "isImageQuestion": true,
-    "province": "江西"
+    "province": "江西",
+    "subModule": "几何",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-jiangxi-2019-乡镇-74",
@@ -2260,7 +2394,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年江西公务员考试《行测》（乡镇）第74题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2019-乡镇-75",
@@ -2296,7 +2432,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年江西公务员考试《行测》（乡镇）第75题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2020-未标注-66",
@@ -2332,7 +2470,9 @@
     "difficulty": "拔高",
     "source": "2020年江西公务员考试《行测》第66题",
     "isImageQuestion": true,
-    "province": "江西"
+    "province": "江西",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2020-未标注-67",
@@ -2367,7 +2507,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2020年江西公务员考试《行测》第67题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2020-未标注-68",
@@ -2403,7 +2545,9 @@
     "difficulty": "拔高",
     "source": "2020年江西公务员考试《行测》第68题",
     "isImageQuestion": true,
-    "province": "江西"
+    "province": "江西",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2020-未标注-69",
@@ -2419,7 +2563,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2020年江西公务员考试《行测》第69题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-jiangxi-2020-未标注-70",
@@ -2447,7 +2593,9 @@
     "difficulty": "拔高",
     "source": "2020年江西公务员考试《行测》第70题",
     "isImageQuestion": true,
-    "province": "江西"
+    "province": "江西",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2020-未标注-71",
@@ -2481,7 +2629,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2020年江西公务员考试《行测》第71题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2020-未标注-72",
@@ -2516,7 +2666,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2020年江西公务员考试《行测》第72题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2020-未标注-73",
@@ -2551,7 +2703,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2020年江西公务员考试《行测》第73题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2020-未标注-74",
@@ -2586,7 +2740,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2020年江西公务员考试《行测》第74题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2020-未标注-75",
@@ -2618,7 +2774,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2020年江西公务员考试《行测》第75题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2020-未标注-76",
@@ -2652,7 +2810,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2020年江西公务员考试《行测》第76题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2020-未标注-77",
@@ -2671,7 +2831,10 @@
     "difficulty": "拔高",
     "source": "2020年江西公务员考试《行测》第77题",
     "isImageQuestion": true,
-    "province": "江西"
+    "province": "江西",
+    "isAbnormal": true,
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2020-未标注-78",
@@ -2691,7 +2854,10 @@
     "difficulty": "拔高",
     "source": "2020年江西公务员考试《行测》第78题",
     "isImageQuestion": true,
-    "province": "江西"
+    "province": "江西",
+    "isAbnormal": true,
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2020-未标注-79",
@@ -2726,7 +2892,9 @@
     "difficulty": "拔高",
     "source": "2020年江西公务员考试《行测》第79题",
     "isImageQuestion": true,
-    "province": "江西"
+    "province": "江西",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2020-未标注-80",
@@ -2760,7 +2928,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2020年江西公务员考试《行测》第80题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2020-县乡-66",
@@ -2795,7 +2965,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2020年江西公务员考试《行测》（县乡）第66题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2020-县乡-67",
@@ -2830,7 +3002,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2020年江西公务员考试《行测》（县乡）第67题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2020-县乡-68",
@@ -2866,7 +3040,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2020年江西公务员考试《行测》（县乡）第68题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2020-县乡-69",
@@ -2885,7 +3061,10 @@
     "difficulty": "拔高",
     "source": "2020年江西公务员考试《行测》（县乡）第69题",
     "isImageQuestion": true,
-    "province": "江西"
+    "province": "江西",
+    "isAbnormal": true,
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2020-县乡-70",
@@ -2919,7 +3098,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2020年江西公务员考试《行测》（县乡）第70题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2020-县乡-71",
@@ -2955,7 +3136,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2020年江西公务员考试《行测》（县乡）第71题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2020-县乡-72",
@@ -2990,7 +3173,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2020年江西公务员考试《行测》（县乡）第72题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2020-县乡-73",
@@ -3025,7 +3210,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2020年江西公务员考试《行测》（县乡）第73题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2020-县乡-74",
@@ -3053,7 +3240,9 @@
     "difficulty": "拔高",
     "source": "2020年江西公务员考试《行测》（县乡）第74题",
     "isImageQuestion": true,
-    "province": "江西"
+    "province": "江西",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2020-县乡-75",
@@ -3073,7 +3262,10 @@
     "difficulty": "拔高",
     "source": "2020年江西公务员考试《行测》（县乡）第75题",
     "isImageQuestion": true,
-    "province": "江西"
+    "province": "江西",
+    "isAbnormal": true,
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2020-县乡-76",
@@ -3108,7 +3300,9 @@
     "difficulty": "拔高",
     "source": "2020年江西公务员考试《行测》（县乡）第76题",
     "isImageQuestion": true,
-    "province": "江西"
+    "province": "江西",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2020-县乡-77",
@@ -3142,7 +3336,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2020年江西公务员考试《行测》（县乡）第77题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2020-县乡-78",
@@ -3176,7 +3372,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2020年江西公务员考试《行测》（县乡）第78题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2020-县乡-79",
@@ -3212,7 +3410,9 @@
     "difficulty": "拔高",
     "source": "2020年江西公务员考试《行测》（县乡）第79题",
     "isImageQuestion": true,
-    "province": "江西"
+    "province": "江西",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2020-县乡-80",
@@ -3247,7 +3447,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2020年江西公务员考试《行测》（县乡）第80题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2020-乡镇-61",
@@ -3282,7 +3484,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2020年江西公务员考试《行测》（乡镇）第61题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2020-乡镇-62",
@@ -3319,7 +3523,9 @@
     "difficulty": "拔高",
     "source": "2020年江西公务员考试《行测》（乡镇）第62题",
     "isImageQuestion": true,
-    "province": "江西"
+    "province": "江西",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2020-乡镇-63",
@@ -3347,7 +3553,9 @@
     "difficulty": "拔高",
     "source": "2020年江西公务员考试《行测》（乡镇）第63题",
     "isImageQuestion": true,
-    "province": "江西"
+    "province": "江西",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2020-乡镇-64",
@@ -3383,7 +3591,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2020年江西公务员考试《行测》（乡镇）第64题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2020-乡镇-65",
@@ -3418,7 +3628,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2020年江西公务员考试《行测》（乡镇）第65题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2020-乡镇-66",
@@ -3453,7 +3665,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2020年江西公务员考试《行测》（乡镇）第66题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2020-乡镇-67",
@@ -3485,7 +3699,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2020年江西公务员考试《行测》（乡镇）第67题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2020-乡镇-68",
@@ -3505,7 +3721,10 @@
     "difficulty": "拔高",
     "source": "2020年江西公务员考试《行测》（乡镇）第68题",
     "isImageQuestion": true,
-    "province": "江西"
+    "province": "江西",
+    "isAbnormal": true,
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2020-乡镇-69",
@@ -3525,7 +3744,10 @@
     "difficulty": "拔高",
     "source": "2020年江西公务员考试《行测》（乡镇）第69题",
     "isImageQuestion": true,
-    "province": "江西"
+    "province": "江西",
+    "isAbnormal": true,
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2020-乡镇-70",
@@ -3560,7 +3782,9 @@
     "difficulty": "拔高",
     "source": "2020年江西公务员考试《行测》（乡镇）第70题",
     "isImageQuestion": true,
-    "province": "江西"
+    "province": "江西",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2020-乡镇-71",
@@ -3594,7 +3818,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2020年江西公务员考试《行测》（乡镇）第71题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2020-乡镇-72",
@@ -3628,7 +3854,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2020年江西公务员考试《行测》（乡镇）第72题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2020-乡镇-73",
@@ -3664,7 +3892,9 @@
     "difficulty": "拔高",
     "source": "2020年江西公务员考试《行测》（乡镇）第73题",
     "isImageQuestion": true,
-    "province": "江西"
+    "province": "江西",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2020-乡镇-74",
@@ -3699,7 +3929,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2020年江西公务员考试《行测》（乡镇）第74题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2020-乡镇-75",
@@ -3734,7 +3966,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2020年江西公务员考试《行测》（乡镇）第75题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2021-未标注-66",
@@ -3769,7 +4003,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2021年江西公务员考试《行测》第66题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2021-未标注-67",
@@ -3804,7 +4040,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2021年江西公务员考试《行测》第67题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2021-未标注-68",
@@ -3839,7 +4077,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2021年江西公务员考试《行测》第68题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2021-未标注-69",
@@ -3873,7 +4113,10 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2021年江西公务员考试《行测》第69题",
-    "province": "江西"
+    "province": "江西",
+    "isAbnormal": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2021-未标注-70",
@@ -3908,7 +4151,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2021年江西公务员考试《行测》第70题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2021-未标注-71",
@@ -3944,7 +4189,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2021年江西公务员考试《行测》第71题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2021-未标注-72",
@@ -3964,7 +4211,9 @@
     "difficulty": "拔高",
     "source": "2021年江西公务员考试《行测》第72题",
     "isImageQuestion": true,
-    "province": "江西"
+    "province": "江西",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2021-未标注-73",
@@ -4001,7 +4250,9 @@
     "difficulty": "拔高",
     "source": "2021年江西公务员考试《行测》第73题",
     "isImageQuestion": true,
-    "province": "江西"
+    "province": "江西",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2021-未标注-74",
@@ -4038,7 +4289,9 @@
     "difficulty": "拔高",
     "source": "2021年江西公务员考试《行测》第74题",
     "isImageQuestion": true,
-    "province": "江西"
+    "province": "江西",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2021-未标注-75",
@@ -4066,7 +4319,9 @@
     "difficulty": "拔高",
     "source": "2021年江西公务员考试《行测》第75题",
     "isImageQuestion": true,
-    "province": "江西"
+    "province": "江西",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2021-未标注-76",
@@ -4102,7 +4357,9 @@
     "difficulty": "拔高",
     "source": "2021年江西公务员考试《行测》第76题",
     "isImageQuestion": true,
-    "province": "江西"
+    "province": "江西",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2021-未标注-77",
@@ -4136,7 +4393,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2021年江西公务员考试《行测》第77题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2021-未标注-78",
@@ -4171,7 +4430,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2021年江西公务员考试《行测》第78题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2021-未标注-79",
@@ -4208,7 +4469,9 @@
     "difficulty": "拔高",
     "source": "2021年江西公务员考试《行测》第79题",
     "isImageQuestion": true,
-    "province": "江西"
+    "province": "江西",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2021-未标注-80",
@@ -4244,7 +4507,9 @@
     "difficulty": "拔高",
     "source": "2021年江西公务员考试《行测》第80题",
     "isImageQuestion": true,
-    "province": "江西"
+    "province": "江西",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2022-未标注-66",
@@ -4278,7 +4543,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2022年江西公务员考试《行测》第66题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2022-未标注-67",
@@ -4313,7 +4580,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2022年江西公务员考试《行测》第67题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2022-未标注-68",
@@ -4347,7 +4616,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2022年江西公务员考试《行测》第68题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2022-未标注-69",
@@ -4379,7 +4650,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2022年江西公务员考试《行测》第69题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-jiangxi-2022-未标注-70",
@@ -4395,7 +4668,10 @@
     "difficulty": "拔高",
     "source": "2022年江西公务员考试《行测》第70题",
     "isImageQuestion": true,
-    "province": "江西"
+    "province": "江西",
+    "isAbnormal": true,
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2022-未标注-71",
@@ -4411,7 +4687,10 @@
     "difficulty": "拔高",
     "source": "2022年江西公务员考试《行测》第71题",
     "isImageQuestion": true,
-    "province": "江西"
+    "province": "江西",
+    "isAbnormal": true,
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2022-未标注-72",
@@ -4446,7 +4725,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2022年江西公务员考试《行测》第72题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2022-未标注-73",
@@ -4478,7 +4759,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2022年江西公务员考试《行测》第73题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2022-未标注-74",
@@ -4513,7 +4796,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2022年江西公务员考试《行测》第74题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2022-未标注-75",
@@ -4548,7 +4833,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2022年江西公务员考试《行测》第75题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2022-未标注-76",
@@ -4584,7 +4871,9 @@
     "difficulty": "拔高",
     "source": "2022年江西公务员考试《行测》第76题",
     "isImageQuestion": true,
-    "province": "江西"
+    "province": "江西",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2022-未标注-77",
@@ -4616,7 +4905,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2022年江西公务员考试《行测》第77题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2022-未标注-78",
@@ -4651,7 +4942,10 @@
     "difficulty": "拔高",
     "source": "2022年江西公务员考试《行测》第78题",
     "isImageQuestion": true,
-    "province": "江西"
+    "province": "江西",
+    "isAbnormal": true,
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2022-未标注-79",
@@ -4686,7 +4980,9 @@
     "difficulty": "拔高",
     "source": "2022年江西公务员考试《行测》第79题",
     "isImageQuestion": true,
-    "province": "江西"
+    "province": "江西",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2022-未标注-80",
@@ -4718,7 +5014,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2022年江西公务员考试《行测》第80题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2023-未标注-66",
@@ -4752,7 +5050,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2023年江西公务员考试《行测》第66题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2023-未标注-67",
@@ -4786,7 +5086,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2023年江西公务员考试《行测》第67题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2023-未标注-68",
@@ -4821,7 +5123,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2023年江西公务员考试《行测》第68题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2023-未标注-69",
@@ -4856,7 +5160,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2023年江西公务员考试《行测》第69题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2023-未标注-70",
@@ -4892,7 +5198,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2023年江西公务员考试《行测》第70题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2023-未标注-71",
@@ -4927,7 +5235,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2023年江西公务员考试《行测》第71题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2023-未标注-72",
@@ -4963,7 +5273,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2023年江西公务员考试《行测》第72题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2023-未标注-73",
@@ -4999,7 +5311,9 @@
     "difficulty": "拔高",
     "source": "2023年江西公务员考试《行测》第73题",
     "isImageQuestion": true,
-    "province": "江西"
+    "province": "江西",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2023-未标注-74",
@@ -5035,7 +5349,9 @@
     "difficulty": "拔高",
     "source": "2023年江西公务员考试《行测》第74题",
     "isImageQuestion": true,
-    "province": "江西"
+    "province": "江西",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2023-未标注-75",
@@ -5070,7 +5386,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2023年江西公务员考试《行测》第75题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2023-未标注-76",
@@ -5105,7 +5423,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2023年江西公务员考试《行测》第76题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2023-未标注-77",
@@ -5141,7 +5461,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2023年江西公务员考试《行测》第77题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2023-未标注-78",
@@ -5176,7 +5498,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2023年江西公务员考试《行测》第78题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2023-未标注-79",
@@ -5210,7 +5534,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2023年江西公务员考试《行测》第79题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2023-未标注-80",
@@ -5237,7 +5563,9 @@
     "difficulty": "拔高",
     "source": "2023年江西公务员考试《行测》第80题",
     "isImageQuestion": true,
-    "province": "江西"
+    "province": "江西",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2024-未标注-66",
@@ -5273,7 +5601,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2024年江西公务员考试《行测》第66题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2024-未标注-67",
@@ -5309,7 +5639,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2024年江西公务员考试《行测》第67题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2024-未标注-68",
@@ -5345,7 +5677,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2024年江西公务员考试《行测》第68题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2024-未标注-69",
@@ -5377,7 +5711,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2024年江西公务员考试《行测》第69题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2024-未标注-70",
@@ -5413,7 +5749,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2024年江西公务员考试《行测》第70题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2024-未标注-71",
@@ -5431,7 +5769,10 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2024年江西公务员考试《行测》第71题",
-    "province": "江西"
+    "province": "江西",
+    "isAbnormal": true,
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2024-未标注-72",
@@ -5466,7 +5807,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2024年江西公务员考试《行测》第72题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2024-未标注-73",
@@ -5501,7 +5844,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2024年江西公务员考试《行测》第73题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2024-未标注-74",
@@ -5536,7 +5881,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2024年江西公务员考试《行测》第74题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2024-未标注-75",
@@ -5572,7 +5919,9 @@
     "difficulty": "拔高",
     "source": "2024年江西公务员考试《行测》第75题",
     "isImageQuestion": true,
-    "province": "江西"
+    "province": "江西",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2024-未标注-76",
@@ -5608,7 +5957,9 @@
     "difficulty": "拔高",
     "source": "2024年江西公务员考试《行测》第76题",
     "isImageQuestion": true,
-    "province": "江西"
+    "province": "江西",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2024-未标注-77",
@@ -5644,7 +5995,9 @@
     "difficulty": "拔高",
     "source": "2024年江西公务员考试《行测》第77题",
     "isImageQuestion": true,
-    "province": "江西"
+    "province": "江西",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2024-未标注-78",
@@ -5680,7 +6033,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2024年江西公务员考试《行测》第78题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2024-未标注-79",
@@ -5716,7 +6071,10 @@
     "difficulty": "拔高",
     "source": "2024年江西公务员考试《行测》第79题",
     "isImageQuestion": true,
-    "province": "江西"
+    "province": "江西",
+    "isAbnormal": true,
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2024-未标注-80",
@@ -5751,7 +6109,9 @@
     "difficulty": "拔高",
     "source": "2024年江西公务员考试《行测》第80题",
     "isImageQuestion": true,
-    "province": "江西"
+    "province": "江西",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2025-未标注-66",
@@ -5786,7 +6146,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年江西公务员考试《行测》第66题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-jiangxi-2025-未标注-67",
@@ -5822,7 +6184,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年江西公务员考试《行测》第67题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2025-未标注-68",
@@ -5854,7 +6218,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年江西公务员考试《行测》第68题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2025-未标注-69",
@@ -5891,7 +6257,9 @@
     "difficulty": "拔高",
     "source": "2025年江西公务员考试《行测》第69题",
     "isImageQuestion": true,
-    "province": "江西"
+    "province": "江西",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2025-未标注-70",
@@ -5911,7 +6279,10 @@
     "difficulty": "拔高",
     "source": "2025年江西公务员考试《行测》第70题",
     "isImageQuestion": true,
-    "province": "江西"
+    "province": "江西",
+    "isAbnormal": true,
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2025-未标注-71",
@@ -5927,7 +6298,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2025年江西公务员考试《行测》第71题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-jiangxi-2025-未标注-72",
@@ -5962,7 +6335,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年江西公务员考试《行测》第72题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2025-未标注-73",
@@ -5997,7 +6372,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年江西公务员考试《行测》第73题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2025-未标注-74",
@@ -6033,7 +6410,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年江西公务员考试《行测》第74题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2025-未标注-75",
@@ -6070,7 +6449,9 @@
     "difficulty": "拔高",
     "source": "2025年江西公务员考试《行测》第75题",
     "isImageQuestion": true,
-    "province": "江西"
+    "province": "江西",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2025-未标注-76",
@@ -6090,7 +6471,10 @@
     "difficulty": "拔高",
     "source": "2025年江西公务员考试《行测》第76题",
     "isImageQuestion": true,
-    "province": "江西"
+    "province": "江西",
+    "isAbnormal": true,
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2025-未标注-77",
@@ -6127,7 +6511,9 @@
     "difficulty": "拔高",
     "source": "2025年江西公务员考试《行测》第77题",
     "isImageQuestion": true,
-    "province": "江西"
+    "province": "江西",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2025-未标注-78",
@@ -6164,7 +6550,9 @@
     "difficulty": "拔高",
     "source": "2025年江西公务员考试《行测》第78题",
     "isImageQuestion": true,
-    "province": "江西"
+    "province": "江西",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2025-未标注-79",
@@ -6182,7 +6570,10 @@
     "difficulty": "拔高",
     "source": "2025年江西公务员考试《行测》第79题",
     "isImageQuestion": true,
-    "province": "江西"
+    "province": "江西",
+    "isAbnormal": true,
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2025-未标注-80",
@@ -6217,6 +6608,8 @@
     "difficulty": "拔高",
     "source": "2025年江西公务员考试《行测》第80题",
     "isImageQuestion": true,
-    "province": "江西"
+    "province": "江西",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   }
 ]

@@ -33,7 +33,9 @@
     "difficulty": "中等",
     "source": "2024年浙江公务员考试《行测》（B类）第76题",
     "isImageQuestion": true,
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2024-B类-77",
@@ -69,7 +71,9 @@
     "difficulty": "中等",
     "source": "2024年浙江公务员考试《行测》（B类）第77题",
     "isImageQuestion": true,
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2024-B类-78",
@@ -106,7 +110,9 @@
     "difficulty": "中等",
     "source": "2024年浙江公务员考试《行测》（B类）第78题",
     "isImageQuestion": true,
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2024-B类-79",
@@ -142,7 +148,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年浙江公务员考试《行测》（B类）第79题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2024-B类-80",
@@ -177,7 +185,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年浙江公务员考试《行测》（B类）第80题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2024-B类-81",
@@ -212,7 +222,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年浙江公务员考试《行测》（B类）第81题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2024-B类-82",
@@ -247,7 +259,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年浙江公务员考试《行测》（B类）第82题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2024-B类-83",
@@ -283,7 +297,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年浙江公务员考试《行测》（B类）第83题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2024-B类-84",
@@ -317,7 +333,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年浙江公务员考试《行测》（B类）第84题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2024-B类-85",
@@ -352,7 +370,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年浙江公务员考试《行测》（B类）第85题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2024-B类-86",
@@ -387,7 +407,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年浙江公务员考试《行测》（B类）第86题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2024-B类-87",
@@ -422,7 +444,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年浙江公务员考试《行测》（B类）第87题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2024-B类-88",
@@ -456,7 +480,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年浙江公务员考试《行测》（B类）第88题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2024-B类-89",
@@ -492,7 +518,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年浙江公务员考试《行测》（B类）第89题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2024-B类-90",
@@ -528,7 +556,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年浙江公务员考试《行测》（B类）第90题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2024-B类-91",
@@ -563,7 +593,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年浙江公务员考试《行测》（B类）第91题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2024-B类-92",
@@ -599,7 +631,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年浙江公务员考试《行测》（B类）第92题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2024-B类-93",
@@ -634,7 +668,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年浙江公务员考试《行测》（B类）第93题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2024-B类-94",
@@ -668,7 +704,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年浙江公务员考试《行测》（B类）第94题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2024-B类-95",
@@ -702,7 +740,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年浙江公务员考试《行测》（B类）第95题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2024-B类-96",
@@ -737,7 +777,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年浙江公务员考试《行测》（B类）第96题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2024-B类-97",
@@ -773,7 +815,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年浙江公务员考试《行测》（B类）第97题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2024-B类-98",
@@ -809,7 +853,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年浙江公务员考试《行测》（B类）第98题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2024-B类-99",
@@ -845,7 +891,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年浙江公务员考试《行测》（B类）第99题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2024-B类-100",
@@ -880,7 +928,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年浙江公务员考试《行测》（B类）第100题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2024-B类-101",
@@ -916,7 +966,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年浙江公务员考试《行测》（B类）第101题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2024-B类-102",
@@ -951,7 +1003,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年浙江公务员考试《行测》（B类）第102题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2024-B类-103",
@@ -987,7 +1041,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年浙江公务员考试《行测》（B类）第103题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2024-B类-104",
@@ -1023,7 +1079,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年浙江公务员考试《行测》（B类）第104题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2024-B类-105",
@@ -1058,7 +1116,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年浙江公务员考试《行测》（B类）第105题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2024-C类-66",
@@ -1094,7 +1154,9 @@
     "difficulty": "中等",
     "source": "2024年浙江公务员考试《行测》（C类）第66题",
     "isImageQuestion": true,
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2024-C类-67",
@@ -1130,7 +1192,9 @@
     "difficulty": "中等",
     "source": "2024年浙江公务员考试《行测》（C类）第67题",
     "isImageQuestion": true,
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2024-C类-68",
@@ -1165,7 +1229,9 @@
     "difficulty": "中等",
     "source": "2024年浙江公务员考试《行测》（C类）第68题",
     "isImageQuestion": true,
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2024-C类-69",
@@ -1201,7 +1267,9 @@
     "difficulty": "中等",
     "source": "2024年浙江公务员考试《行测》（C类）第69题",
     "isImageQuestion": true,
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2024-C类-70",
@@ -1237,7 +1305,9 @@
     "difficulty": "中等",
     "source": "2024年浙江公务员考试《行测》（C类）第70题",
     "isImageQuestion": true,
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2024-C类-71",
@@ -1273,7 +1343,9 @@
     "difficulty": "中等",
     "source": "2024年浙江公务员考试《行测》（C类）第71题",
     "isImageQuestion": true,
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2024-C类-72",
@@ -1309,7 +1381,9 @@
     "difficulty": "中等",
     "source": "2024年浙江公务员考试《行测》（C类）第72题",
     "isImageQuestion": true,
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2024-C类-73",
@@ -1346,7 +1420,9 @@
     "difficulty": "中等",
     "source": "2024年浙江公务员考试《行测》（C类）第73题",
     "isImageQuestion": true,
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2024-C类-74",
@@ -1382,7 +1458,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年浙江公务员考试《行测》（C类）第74题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2024-C类-75",
@@ -1417,7 +1495,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年浙江公务员考试《行测》（C类）第75题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2024-C类-76",
@@ -1451,7 +1531,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年浙江公务员考试《行测》（C类）第76题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2024-C类-77",
@@ -1486,7 +1568,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年浙江公务员考试《行测》（C类）第77题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2024-C类-78",
@@ -1522,7 +1606,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年浙江公务员考试《行测》（C类）第78题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2024-C类-79",
@@ -1556,7 +1642,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年浙江公务员考试《行测》（C类）第79题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2024-C类-80",
@@ -1591,7 +1679,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年浙江公务员考试《行测》（C类）第80题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2024-C类-81",
@@ -1626,7 +1716,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年浙江公务员考试《行测》（C类）第81题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2024-C类-82",
@@ -1661,7 +1753,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年浙江公务员考试《行测》（C类）第82题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2024-C类-83",
@@ -1695,7 +1789,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年浙江公务员考试《行测》（C类）第83题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2024-C类-84",
@@ -1731,7 +1827,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年浙江公务员考试《行测》（C类）第84题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2024-C类-85",
@@ -1767,7 +1865,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年浙江公务员考试《行测》（C类）第85题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2024-C类-86",
@@ -1802,7 +1902,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年浙江公务员考试《行测》（C类）第86题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2024-C类-87",
@@ -1838,7 +1940,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年浙江公务员考试《行测》（C类）第87题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2024-C类-88",
@@ -1873,7 +1977,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年浙江公务员考试《行测》（C类）第88题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2024-C类-89",
@@ -1907,7 +2013,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年浙江公务员考试《行测》（C类）第89题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2024-C类-90",
@@ -1941,7 +2049,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年浙江公务员考试《行测》（C类）第90题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2024-C类-91",
@@ -1976,7 +2086,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年浙江公务员考试《行测》（C类）第91题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2024-C类-92",
@@ -2012,7 +2124,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年浙江公务员考试《行测》（C类）第92题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2024-C类-93",
@@ -2048,7 +2162,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年浙江公务员考试《行测》（C类）第93题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2024-C类-94",
@@ -2084,7 +2200,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年浙江公务员考试《行测》（C类）第94题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2024-C类-95",
@@ -2119,7 +2237,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年浙江公务员考试《行测》（C类）第95题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2024-C类-96",
@@ -2155,7 +2275,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年浙江公务员考试《行测》（C类）第96题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2024-C类-97",
@@ -2190,7 +2312,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年浙江公务员考试《行测》（C类）第97题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2024-C类-98",
@@ -2226,7 +2350,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年浙江公务员考试《行测》（C类）第98题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2024-C类-99",
@@ -2262,7 +2388,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年浙江公务员考试《行测》（C类）第99题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2024-C类-100",
@@ -2297,7 +2425,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年浙江公务员考试《行测》（C类）第100题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2025-A类-71",
@@ -2317,7 +2447,9 @@
     "difficulty": "中等",
     "source": "2025年浙江公务员考试《行测》（A类）第71题",
     "isImageQuestion": true,
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2025-A类-72",
@@ -2336,7 +2468,9 @@
     "difficulty": "中等",
     "source": "2025年浙江公务员考试《行测》（A类）第72题",
     "isImageQuestion": true,
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2025-A类-73",
@@ -2356,7 +2490,9 @@
     "difficulty": "中等",
     "source": "2025年浙江公务员考试《行测》（A类）第73题",
     "isImageQuestion": true,
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2025-A类-74",
@@ -2376,7 +2512,9 @@
     "difficulty": "中等",
     "source": "2025年浙江公务员考试《行测》（A类）第74题",
     "isImageQuestion": true,
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2025-A类-75",
@@ -2395,7 +2533,9 @@
     "difficulty": "中等",
     "source": "2025年浙江公务员考试《行测》（A类）第75题",
     "isImageQuestion": true,
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2025-A类-76",
@@ -2432,7 +2572,9 @@
     "difficulty": "中等",
     "source": "2025年浙江公务员考试《行测》（A类）第76题",
     "isImageQuestion": true,
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2025-A类-77",
@@ -2469,7 +2611,9 @@
     "difficulty": "中等",
     "source": "2025年浙江公务员考试《行测》（A类）第77题",
     "isImageQuestion": true,
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2025-A类-78",
@@ -2488,7 +2632,9 @@
     "difficulty": "中等",
     "source": "2025年浙江公务员考试《行测》（A类）第78题",
     "isImageQuestion": true,
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2025-A类-79",
@@ -2507,7 +2653,9 @@
     "difficulty": "中等",
     "source": "2025年浙江公务员考试《行测》（A类）第79题",
     "isImageQuestion": true,
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2025-A类-80",
@@ -2527,7 +2675,9 @@
     "difficulty": "中等",
     "source": "2025年浙江公务员考试《行测》（A类）第80题",
     "isImageQuestion": true,
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2025-A类-81",
@@ -2563,7 +2713,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年浙江公务员考试《行测》（A类）第81题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2025-A类-82",
@@ -2598,7 +2750,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年浙江公务员考试《行测》（A类）第82题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2025-A类-83",
@@ -2634,7 +2788,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年浙江公务员考试《行测》（A类）第83题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2025-A类-84",
@@ -2670,7 +2826,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年浙江公务员考试《行测》（A类）第84题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2025-A类-85",
@@ -2706,7 +2864,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年浙江公务员考试《行测》（A类）第85题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2025-A类-86",
@@ -2742,7 +2902,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年浙江公务员考试《行测》（A类）第86题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2025-A类-87",
@@ -2777,7 +2939,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年浙江公务员考试《行测》（A类）第87题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2025-A类-88",
@@ -2812,7 +2976,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年浙江公务员考试《行测》（A类）第88题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2025-A类-89",
@@ -2848,7 +3014,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年浙江公务员考试《行测》（A类）第89题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2025-A类-90",
@@ -2864,7 +3032,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2025年浙江公务员考试《行测》（A类）第90题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-zhejiang-2025-A类-91",
@@ -2899,7 +3069,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年浙江公务员考试《行测》（A类）第91题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2025-A类-92",
@@ -2934,7 +3106,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年浙江公务员考试《行测》（A类）第92题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2025-A类-93",
@@ -2966,7 +3140,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年浙江公务员考试《行测》（A类）第93题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2025-A类-94",
@@ -3001,7 +3177,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年浙江公务员考试《行测》（A类）第94题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2025-A类-95",
@@ -3036,7 +3214,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年浙江公务员考试《行测》（A类）第95题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2025-A类-96",
@@ -3071,7 +3251,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年浙江公务员考试《行测》（A类）第96题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2025-A类-97",
@@ -3106,7 +3288,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年浙江公务员考试《行测》（A类）第97题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2025-A类-98",
@@ -3142,7 +3326,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年浙江公务员考试《行测》（A类）第98题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2025-A类-99",
@@ -3177,7 +3363,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年浙江公务员考试《行测》（A类）第99题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2025-A类-100",
@@ -3212,7 +3400,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年浙江公务员考试《行测》（A类）第100题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2025-A类-101",
@@ -3248,7 +3438,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年浙江公务员考试《行测》（A类）第101题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2025-A类-102",
@@ -3284,7 +3476,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年浙江公务员考试《行测》（A类）第102题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2025-A类-103",
@@ -3320,7 +3514,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年浙江公务员考试《行测》（A类）第103题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2025-A类-104",
@@ -3356,7 +3552,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年浙江公务员考试《行测》（A类）第104题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2025-A类-105",
@@ -3392,7 +3590,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年浙江公务员考试《行测》（A类）第105题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2025-B类-71",
@@ -3412,7 +3612,9 @@
     "difficulty": "中等",
     "source": "2025年浙江公务员考试《行测》（B类）第71题",
     "isImageQuestion": true,
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2025-B类-72",
@@ -3431,7 +3633,9 @@
     "difficulty": "中等",
     "source": "2025年浙江公务员考试《行测》（B类）第72题",
     "isImageQuestion": true,
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2025-B类-73",
@@ -3451,7 +3655,9 @@
     "difficulty": "中等",
     "source": "2025年浙江公务员考试《行测》（B类）第73题",
     "isImageQuestion": true,
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2025-B类-74",
@@ -3471,7 +3677,9 @@
     "difficulty": "中等",
     "source": "2025年浙江公务员考试《行测》（B类）第74题",
     "isImageQuestion": true,
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2025-B类-75",
@@ -3490,7 +3698,9 @@
     "difficulty": "中等",
     "source": "2025年浙江公务员考试《行测》（B类）第75题",
     "isImageQuestion": true,
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2025-B类-76",
@@ -3527,7 +3737,9 @@
     "difficulty": "中等",
     "source": "2025年浙江公务员考试《行测》（B类）第76题",
     "isImageQuestion": true,
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2025-B类-77",
@@ -3546,7 +3758,9 @@
     "difficulty": "中等",
     "source": "2025年浙江公务员考试《行测》（B类）第77题",
     "isImageQuestion": true,
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2025-B类-78",
@@ -3566,7 +3780,9 @@
     "difficulty": "中等",
     "source": "2025年浙江公务员考试《行测》（B类）第78题",
     "isImageQuestion": true,
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2025-B类-79",
@@ -3602,7 +3818,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年浙江公务员考试《行测》（B类）第79题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2025-B类-80",
@@ -3637,7 +3855,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年浙江公务员考试《行测》（B类）第80题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2025-B类-81",
@@ -3673,7 +3893,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年浙江公务员考试《行测》（B类）第81题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2025-B类-82",
@@ -3709,7 +3931,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年浙江公务员考试《行测》（B类）第82题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2025-B类-83",
@@ -3744,7 +3968,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年浙江公务员考试《行测》（B类）第83题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2025-B类-84",
@@ -3780,7 +4006,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年浙江公务员考试《行测》（B类）第84题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2025-B类-85",
@@ -3796,7 +4024,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2025年浙江公务员考试《行测》（B类）第85题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-zhejiang-2025-B类-86",
@@ -3831,7 +4061,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年浙江公务员考试《行测》（B类）第86题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2025-B类-87",
@@ -3866,7 +4098,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年浙江公务员考试《行测》（B类）第87题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2025-B类-88",
@@ -3902,7 +4136,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年浙江公务员考试《行测》（B类）第88题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2025-B类-89",
@@ -3937,7 +4173,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年浙江公务员考试《行测》（B类）第89题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2025-B类-90",
@@ -3972,7 +4210,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年浙江公务员考试《行测》（B类）第90题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2025-B类-91",
@@ -4007,7 +4247,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年浙江公务员考试《行测》（B类）第91题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2025-B类-92",
@@ -4042,7 +4284,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年浙江公务员考试《行测》（B类）第92题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2025-B类-93",
@@ -4078,7 +4322,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年浙江公务员考试《行测》（B类）第93题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2025-B类-94",
@@ -4113,7 +4359,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年浙江公务员考试《行测》（B类）第94题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2025-B类-95",
@@ -4148,7 +4396,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年浙江公务员考试《行测》（B类）第95题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2025-B类-96",
@@ -4184,7 +4434,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年浙江公务员考试《行测》（B类）第96题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2025-B类-97",
@@ -4220,7 +4472,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年浙江公务员考试《行测》（B类）第97题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2025-B类-98",
@@ -4256,7 +4510,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年浙江公务员考试《行测》（B类）第98题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2025-B类-99",
@@ -4292,7 +4548,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年浙江公务员考试《行测》（B类）第99题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2025-B类-100",
@@ -4328,7 +4586,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年浙江公务员考试《行测》（B类）第100题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2025-B类-101",
@@ -4364,7 +4624,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年浙江公务员考试《行测》（B类）第101题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2025-B类-102",
@@ -4400,7 +4662,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年浙江公务员考试《行测》（B类）第102题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2025-B类-103",
@@ -4436,7 +4700,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年浙江公务员考试《行测》（B类）第103题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2025-B类-104",
@@ -4472,7 +4738,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年浙江公务员考试《行测》（B类）第104题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2025-B类-105",
@@ -4508,7 +4776,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年浙江公务员考试《行测》（B类）第105题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2025-C类-71",
@@ -4541,7 +4811,9 @@
     "difficulty": "中等",
     "source": "2025年浙江公务员考试《行测》（C类）第71题",
     "isImageQuestion": true,
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2025-C类-72",
@@ -4557,7 +4829,9 @@
     "difficulty": "中等",
     "source": "2025年浙江公务员考试《行测》（C类）第72题",
     "isImageQuestion": true,
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2025-C类-73",
@@ -4573,7 +4847,9 @@
     "difficulty": "中等",
     "source": "2025年浙江公务员考试《行测》（C类）第73题",
     "isImageQuestion": true,
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2025-C类-74",
@@ -4605,7 +4881,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年浙江公务员考试《行测》（C类）第74题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2025-C类-75",
@@ -4637,7 +4915,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年浙江公务员考试《行测》（C类）第75题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2025-C类-76",
@@ -4669,7 +4949,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年浙江公务员考试《行测》（C类）第76题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2025-C类-77",
@@ -4701,7 +4983,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年浙江公务员考试《行测》（C类）第77题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2025-C类-78",
@@ -4733,7 +5017,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年浙江公务员考试《行测》（C类）第78题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2025-C类-79",
@@ -4765,7 +5051,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年浙江公务员考试《行测》（C类）第79题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2025-C类-80",
@@ -4781,7 +5069,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2025年浙江公务员考试《行测》（C类）第80题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-zhejiang-2025-C类-81",
@@ -4813,7 +5103,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年浙江公务员考试《行测》（C类）第81题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2025-C类-82",
@@ -4845,7 +5137,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年浙江公务员考试《行测》（C类）第82题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2025-C类-83",
@@ -4877,7 +5171,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年浙江公务员考试《行测》（C类）第83题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2025-C类-84",
@@ -4909,7 +5205,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年浙江公务员考试《行测》（C类）第84题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2025-C类-85",
@@ -4941,7 +5239,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年浙江公务员考试《行测》（C类）第85题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2025-C类-86",
@@ -4973,7 +5273,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年浙江公务员考试《行测》（C类）第86题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2025-C类-87",
@@ -5005,7 +5307,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年浙江公务员考试《行测》（C类）第87题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2025-C类-88",
@@ -5037,7 +5341,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年浙江公务员考试《行测》（C类）第88题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2025-C类-89",
@@ -5069,7 +5375,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年浙江公务员考试《行测》（C类）第89题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2025-C类-90",
@@ -5101,7 +5409,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年浙江公务员考试《行测》（C类）第90题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2025-C类-91",
@@ -5133,7 +5443,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年浙江公务员考试《行测》（C类）第91题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2025-C类-92",
@@ -5165,7 +5477,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年浙江公务员考试《行测》（C类）第92题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2025-C类-93",
@@ -5197,7 +5511,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年浙江公务员考试《行测》（C类）第93题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2025-C类-94",
@@ -5229,7 +5545,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年浙江公务员考试《行测》（C类）第94题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2025-C类-95",
@@ -5261,7 +5579,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年浙江公务员考试《行测》（C类）第95题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2025-C类-96",
@@ -5293,7 +5613,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年浙江公务员考试《行测》（C类）第96题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2025-C类-97",
@@ -5325,7 +5647,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年浙江公务员考试《行测》（C类）第97题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2025-C类-98",
@@ -5357,7 +5681,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年浙江公务员考试《行测》（C类）第98题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2025-C类-99",
@@ -5389,7 +5715,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年浙江公务员考试《行测》（C类）第99题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2025-C类-100",
@@ -5421,7 +5749,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年浙江公务员考试《行测》（C类）第100题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2025-C类-101",
@@ -5453,7 +5783,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年浙江公务员考试《行测》（C类）第101题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-zhejiang-2025-C类-102",
@@ -5485,7 +5817,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年浙江公务员考试《行测》（C类）第102题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-zhejiang-2025-C类-103",
@@ -5517,7 +5851,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年浙江公务员考试《行测》（C类）第103题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-zhejiang-2025-C类-104",
@@ -5549,7 +5885,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年浙江公务员考试《行测》（C类）第104题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-zhejiang-2025-C类-105",
@@ -5565,6 +5903,8 @@
     "difficulty": "中等",
     "source": "2025年浙江公务员考试《行测》（C类）第105题",
     "isImageQuestion": true,
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "图形推理",
+    "subModule_confidence": "low"
   }
 ]

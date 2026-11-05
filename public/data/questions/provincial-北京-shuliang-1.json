@@ -32,7 +32,9 @@
     "difficulty": "拔高",
     "source": "2018年北京公务员考试《行测》第76题",
     "isImageQuestion": true,
-    "province": "北京"
+    "province": "北京",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2018-未标注-77",
@@ -68,7 +70,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2018年北京公务员考试《行测》第77题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2018-未标注-78",
@@ -104,7 +108,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2018年北京公务员考试《行测》第78题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2018-未标注-79",
@@ -139,7 +145,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2018年北京公务员考试《行测》第79题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2018-未标注-80",
@@ -175,7 +183,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2018年北京公务员考试《行测》第80题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-beijing-2018-未标注-81",
@@ -209,7 +219,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2018年北京公务员考试《行测》第81题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2018-未标注-82",
@@ -244,7 +256,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2018年北京公务员考试《行测》第82题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2018-未标注-83",
@@ -279,7 +293,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2018年北京公务员考试《行测》第83题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2018-未标注-84",
@@ -315,7 +331,9 @@
     "difficulty": "拔高",
     "source": "2018年北京公务员考试《行测》第84题",
     "isImageQuestion": true,
-    "province": "北京"
+    "province": "北京",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2018-未标注-85",
@@ -351,7 +369,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2018年北京公务员考试《行测》第85题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2019-未标注-71",
@@ -386,7 +406,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年北京公务员考试《行测》第71题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2019-未标注-72",
@@ -422,7 +444,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年北京公务员考试《行测》第72题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2019-未标注-73",
@@ -458,7 +482,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年北京公务员考试《行测》第73题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2019-未标注-74",
@@ -494,7 +520,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年北京公务员考试《行测》第74题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2019-未标注-75",
@@ -529,7 +557,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年北京公务员考试《行测》第75题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2019-未标注-76",
@@ -565,7 +595,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年北京公务员考试《行测》第76题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2019-未标注-77",
@@ -600,7 +632,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年北京公务员考试《行测》第77题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2019-未标注-78",
@@ -637,7 +671,9 @@
     "difficulty": "拔高",
     "source": "2019年北京公务员考试《行测》第78题",
     "isImageQuestion": true,
-    "province": "北京"
+    "province": "北京",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2019-未标注-79",
@@ -671,7 +707,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年北京公务员考试《行测》第79题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-beijing-2019-未标注-80",
@@ -706,7 +744,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年北京公务员考试《行测》第80题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2019-未标注-81",
@@ -741,7 +781,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年北京公务员考试《行测》第81题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2019-未标注-82",
@@ -777,7 +819,9 @@
     "difficulty": "拔高",
     "source": "2019年北京公务员考试《行测》第82题",
     "isImageQuestion": true,
-    "province": "北京"
+    "province": "北京",
+    "subModule": "几何",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-beijing-2019-未标注-83",
@@ -812,7 +856,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年北京公务员考试《行测》第83题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2019-未标注-84",
@@ -847,7 +893,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年北京公务员考试《行测》第84题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2019-未标注-85",
@@ -882,7 +930,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年北京公务员考试《行测》第85题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2020-未标注-71",
@@ -917,7 +967,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2020年北京公务员考试《行测》第71题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2020-未标注-72",
@@ -951,7 +1003,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2020年北京公务员考试《行测》第72题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2020-未标注-73",
@@ -987,7 +1041,9 @@
     "difficulty": "拔高",
     "source": "2020年北京公务员考试《行测》第73题",
     "isImageQuestion": true,
-    "province": "北京"
+    "province": "北京",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2020-未标注-74",
@@ -1021,7 +1077,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2020年北京公务员考试《行测》第74题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2020-未标注-75",
@@ -1055,7 +1113,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2020年北京公务员考试《行测》第75题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2020-未标注-76",
@@ -1090,7 +1150,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2020年北京公务员考试《行测》第76题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2020-未标注-77",
@@ -1127,7 +1189,9 @@
     "difficulty": "拔高",
     "source": "2020年北京公务员考试《行测》第77题",
     "isImageQuestion": true,
-    "province": "北京"
+    "province": "北京",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2020-未标注-78",
@@ -1161,7 +1225,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2020年北京公务员考试《行测》第78题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2020-未标注-79",
@@ -1197,7 +1263,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2020年北京公务员考试《行测》第79题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2020-未标注-80",
@@ -1233,7 +1301,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2020年北京公务员考试《行测》第80题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2020-未标注-81",
@@ -1267,7 +1337,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2020年北京公务员考试《行测》第81题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2020-未标注-82",
@@ -1302,7 +1374,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2020年北京公务员考试《行测》第82题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2020-未标注-83",
@@ -1336,7 +1410,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2020年北京公务员考试《行测》第83题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2020-未标注-84",
@@ -1371,7 +1447,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2020年北京公务员考试《行测》第84题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2020-未标注-85",
@@ -1407,7 +1485,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2020年北京公务员考试《行测》第85题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2020-乡镇-71",
@@ -1442,7 +1522,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2020年北京公务员考试《行测》（乡镇）第71题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2020-乡镇-72",
@@ -1476,7 +1558,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2020年北京公务员考试《行测》（乡镇）第72题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2020-乡镇-73",
@@ -1512,7 +1596,9 @@
     "difficulty": "拔高",
     "source": "2020年北京公务员考试《行测》（乡镇）第73题",
     "isImageQuestion": true,
-    "province": "北京"
+    "province": "北京",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2020-乡镇-74",
@@ -1546,7 +1632,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2020年北京公务员考试《行测》（乡镇）第74题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2020-乡镇-75",
@@ -1582,7 +1670,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2020年北京公务员考试《行测》（乡镇）第75题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2020-乡镇-76",
@@ -1618,7 +1708,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2020年北京公务员考试《行测》（乡镇）第76题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2020-乡镇-77",
@@ -1655,7 +1747,9 @@
     "difficulty": "拔高",
     "source": "2020年北京公务员考试《行测》（乡镇）第77题",
     "isImageQuestion": true,
-    "province": "北京"
+    "province": "北京",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2020-乡镇-78",
@@ -1689,7 +1783,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2020年北京公务员考试《行测》（乡镇）第78题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2020-乡镇-79",
@@ -1725,7 +1821,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2020年北京公务员考试《行测》（乡镇）第79题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2020-乡镇-80",
@@ -1761,7 +1859,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2020年北京公务员考试《行测》（乡镇）第80题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2021-未标注-71",
@@ -1796,7 +1896,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2021年北京公务员考试《行测》第71题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2021-未标注-72",
@@ -1832,7 +1934,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2021年北京公务员考试《行测》第72题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2021-未标注-73",
@@ -1866,7 +1970,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2021年北京公务员考试《行测》第73题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2021-未标注-74",
@@ -1900,7 +2006,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2021年北京公务员考试《行测》第74题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2021-未标注-75",
@@ -1935,7 +2043,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2021年北京公务员考试《行测》第75题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2021-未标注-76",
@@ -1969,7 +2079,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2021年北京公务员考试《行测》第76题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2021-未标注-77",
@@ -2003,7 +2115,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2021年北京公务员考试《行测》第77题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2021-未标注-78",
@@ -2038,7 +2152,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2021年北京公务员考试《行测》第78题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2021-未标注-79",
@@ -2072,7 +2188,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2021年北京公务员考试《行测》第79题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2021-未标注-80",
@@ -2108,7 +2226,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2021年北京公务员考试《行测》第80题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2021-未标注-81",
@@ -2144,7 +2264,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2021年北京公务员考试《行测》第81题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2021-未标注-82",
@@ -2178,7 +2300,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2021年北京公务员考试《行测》第82题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2021-未标注-83",
@@ -2213,7 +2337,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2021年北京公务员考试《行测》第83题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2021-未标注-84",
@@ -2247,7 +2373,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2021年北京公务员考试《行测》第84题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2021-未标注-85",
@@ -2281,7 +2409,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2021年北京公务员考试《行测》第85题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2021-乡镇-71",
@@ -2316,7 +2446,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2021年北京公务员考试《行测》（乡镇）第71题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2021-乡镇-72",
@@ -2351,7 +2483,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2021年北京公务员考试《行测》（乡镇）第72题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2021-乡镇-73",
@@ -2386,7 +2520,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2021年北京公务员考试《行测》（乡镇）第73题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2021-乡镇-74",
@@ -2420,7 +2556,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2021年北京公务员考试《行测》（乡镇）第74题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2021-乡镇-75",
@@ -2456,7 +2594,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2021年北京公务员考试《行测》（乡镇）第75题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2021-乡镇-76",
@@ -2490,7 +2630,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2021年北京公务员考试《行测》（乡镇）第76题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2021-乡镇-77",
@@ -2524,7 +2666,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2021年北京公务员考试《行测》（乡镇）第77题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2021-乡镇-78",
@@ -2559,7 +2703,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2021年北京公务员考试《行测》（乡镇）第78题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2021-乡镇-79",
@@ -2594,7 +2740,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2021年北京公务员考试《行测》（乡镇）第79题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2021-乡镇-80",
@@ -2628,7 +2776,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2021年北京公务员考试《行测》（乡镇）第80题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2022-未标注-71",
@@ -2663,7 +2813,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2022年北京公务员考试《行测》第71题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2022-未标注-72",
@@ -2698,7 +2850,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2022年北京公务员考试《行测》第72题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2022-未标注-73",
@@ -2733,7 +2887,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2022年北京公务员考试《行测》第73题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2022-未标注-74",
@@ -2768,7 +2924,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2022年北京公务员考试《行测》第74题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2022-未标注-75",
@@ -2804,7 +2962,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2022年北京公务员考试《行测》第75题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2022-未标注-76",
@@ -2840,7 +3000,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2022年北京公务员考试《行测》第76题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2022-未标注-77",
@@ -2876,7 +3038,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2022年北京公务员考试《行测》第77题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2022-未标注-78",
@@ -2912,7 +3076,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2022年北京公务员考试《行测》第78题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2022-未标注-79",
@@ -2948,7 +3114,9 @@
     "difficulty": "拔高",
     "source": "2022年北京公务员考试《行测》第79题",
     "isImageQuestion": true,
-    "province": "北京"
+    "province": "北京",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2022-未标注-80",
@@ -2983,7 +3151,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2022年北京公务员考试《行测》第80题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2022-未标注-81",
@@ -3019,7 +3189,9 @@
     "difficulty": "拔高",
     "source": "2022年北京公务员考试《行测》第81题",
     "isImageQuestion": true,
-    "province": "北京"
+    "province": "北京",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2022-未标注-82",
@@ -3053,7 +3225,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2022年北京公务员考试《行测》第82题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2022-未标注-83",
@@ -3088,7 +3262,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2022年北京公务员考试《行测》第83题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2022-未标注-84",
@@ -3122,7 +3298,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2022年北京公务员考试《行测》第84题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2022-未标注-85",
@@ -3158,7 +3336,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2022年北京公务员考试《行测》第85题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2023-未标注-61",
@@ -3190,7 +3370,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2023年北京公务员考试《行测》第61题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2023-未标注-62",
@@ -3222,7 +3404,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2023年北京公务员考试《行测》第62题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2023-未标注-63",
@@ -3254,7 +3438,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2023年北京公务员考试《行测》第63题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2023-未标注-64",
@@ -3286,7 +3472,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2023年北京公务员考试《行测》第64题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2023-未标注-65",
@@ -3318,7 +3506,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2023年北京公务员考试《行测》第65题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2023-未标注-66",
@@ -3350,7 +3540,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2023年北京公务员考试《行测》第66题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "经济利润",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-beijing-2023-未标注-67",
@@ -3382,7 +3574,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2023年北京公务员考试《行测》第67题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2023-未标注-68",
@@ -3414,7 +3608,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2023年北京公务员考试《行测》第68题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2023-未标注-69",
@@ -3446,7 +3642,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2023年北京公务员考试《行测》第69题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2023-未标注-70",
@@ -3478,7 +3676,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2023年北京公务员考试《行测》第70题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2023-未标注-71",
@@ -3510,7 +3710,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2023年北京公务员考试《行测》第71题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2023-未标注-72",
@@ -3542,7 +3744,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2023年北京公务员考试《行测》第72题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2023-未标注-73",
@@ -3574,7 +3778,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2023年北京公务员考试《行测》第73题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2023-未标注-74",
@@ -3606,7 +3812,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2023年北京公务员考试《行测》第74题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2023-未标注-75",
@@ -3639,7 +3847,9 @@
     "difficulty": "拔高",
     "source": "2023年北京公务员考试《行测》第75题",
     "isImageQuestion": true,
-    "province": "北京"
+    "province": "北京",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-beijing-2023-未标注-76",
@@ -3675,7 +3885,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2023年北京公务员考试《行测》第76题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2023-未标注-77",
@@ -3709,7 +3921,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2023年北京公务员考试《行测》第77题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2023-未标注-78",
@@ -3745,7 +3959,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2023年北京公务员考试《行测》第78题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2023-未标注-79",
@@ -3780,7 +3996,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2023年北京公务员考试《行测》第79题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2023-未标注-80",
@@ -3814,7 +4032,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2023年北京公务员考试《行测》第80题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2025-未标注-32",
@@ -3849,7 +4069,10 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年北京公务员考试《行测》第32题",
-    "province": "北京"
+    "province": "北京",
+    "isAbnormal": true,
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2025-未标注-33",
@@ -3884,7 +4107,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年北京公务员考试《行测》第33题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2025-未标注-34",
@@ -3919,7 +4144,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年北京公务员考试《行测》第34题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2025-未标注-35",
@@ -3954,7 +4181,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年北京公务员考试《行测》第35题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2025-未标注-36",
@@ -3989,7 +4218,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年北京公务员考试《行测》第36题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2025-未标注-37",
@@ -4021,7 +4252,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年北京公务员考试《行测》第37题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2025-未标注-38",
@@ -4057,7 +4290,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年北京公务员考试《行测》第38题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2025-未标注-39",
@@ -4092,7 +4327,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年北京公务员考试《行测》第39题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2025-未标注-40",
@@ -4128,7 +4365,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年北京公务员考试《行测》第40题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2025-未标注-41",
@@ -4164,7 +4403,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年北京公务员考试《行测》第41题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2025-未标注-42",
@@ -4199,7 +4440,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年北京公务员考试《行测》第42题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2025-未标注-43",
@@ -4231,7 +4474,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年北京公务员考试《行测》第43题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2025-未标注-44",
@@ -4251,7 +4496,9 @@
     "difficulty": "拔高",
     "source": "2025年北京公务员考试《行测》第44题",
     "isImageQuestion": true,
-    "province": "北京"
+    "province": "北京",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-beijing-2025-未标注-45",
@@ -4286,7 +4533,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年北京公务员考试《行测》第45题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2025-未标注-46",
@@ -4302,7 +4551,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2025年北京公务员考试《行测》第46题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-beijing-2025-未标注-47",
@@ -4337,7 +4588,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年北京公务员考试《行测》第47题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2025-未标注-48",
@@ -4374,7 +4627,9 @@
     "difficulty": "拔高",
     "source": "2025年北京公务员考试《行测》第48题",
     "isImageQuestion": true,
-    "province": "北京"
+    "province": "北京",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2025-未标注-49",
@@ -4394,7 +4649,10 @@
     "difficulty": "拔高",
     "source": "2025年北京公务员考试《行测》第49题",
     "isImageQuestion": true,
-    "province": "北京"
+    "province": "北京",
+    "isAbnormal": true,
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2025-未标注-50",
@@ -4430,7 +4688,9 @@
     "difficulty": "拔高",
     "source": "2025年北京公务员考试《行测》第50题",
     "isImageQuestion": true,
-    "province": "北京"
+    "province": "北京",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2025-未标注-51",
@@ -4462,6 +4722,8 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年北京公务员考试《行测》第51题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   }
 ]

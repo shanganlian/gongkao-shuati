@@ -31,7 +31,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2016年山东公务员考试《行测》第60题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2016-未标注-61",
@@ -65,7 +67,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2016年山东公务员考试《行测》第61题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2016-未标注-62",
@@ -99,7 +103,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2016年山东公务员考试《行测》第62题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2016-未标注-63",
@@ -133,7 +139,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2016年山东公务员考试《行测》第63题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2016-未标注-64",
@@ -165,7 +173,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2016年山东公务员考试《行测》第64题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2016-未标注-65",
@@ -183,7 +193,9 @@
     "difficulty": "拔高",
     "source": "2016年山东公务员考试《行测》第65题",
     "isImageQuestion": true,
-    "province": "山东"
+    "province": "山东",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2017-未标注-51",
@@ -219,7 +231,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2017年山东公务员考试《行测》第51题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2017-未标注-52",
@@ -255,7 +269,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2017年山东公务员考试《行测》第52题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2017-未标注-53",
@@ -290,7 +306,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2017年山东公务员考试《行测》第53题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2017-未标注-54",
@@ -325,7 +343,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2017年山东公务员考试《行测》第54题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2017-未标注-55",
@@ -361,7 +381,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2017年山东公务员考试《行测》第55题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2017-未标注-56",
@@ -397,7 +419,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2017年山东公务员考试《行测》第56题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2017-未标注-57",
@@ -432,7 +456,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2017年山东公务员考试《行测》第57题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2017-未标注-58",
@@ -469,7 +495,9 @@
     "difficulty": "拔高",
     "source": "2017年山东公务员考试《行测》第58题",
     "isImageQuestion": true,
-    "province": "山东"
+    "province": "山东",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2017-未标注-59",
@@ -504,7 +532,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2017年山东公务员考试《行测》第59题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2017-未标注-60",
@@ -539,7 +569,9 @@
     "difficulty": "拔高",
     "source": "2017年山东公务员考试《行测》第60题",
     "isImageQuestion": true,
-    "province": "山东"
+    "province": "山东",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2018-未标注-51",
@@ -574,7 +606,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2018年山东公务员考试《行测》第51题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2018-未标注-52",
@@ -608,7 +642,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2018年山东公务员考试《行测》第52题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2018-未标注-53",
@@ -642,7 +678,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2018年山东公务员考试《行测》第53题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2018-未标注-54",
@@ -677,7 +715,9 @@
     "difficulty": "拔高",
     "source": "2018年山东公务员考试《行测》第54题",
     "isImageQuestion": true,
-    "province": "山东"
+    "province": "山东",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2018-未标注-55",
@@ -713,7 +753,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2018年山东公务员考试《行测》第55题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2018-未标注-56",
@@ -747,7 +789,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2018年山东公务员考试《行测》第56题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2018-未标注-57",
@@ -781,7 +825,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2018年山东公务员考试《行测》第57题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2018-未标注-58",
@@ -816,7 +862,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2018年山东公务员考试《行测》第58题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2018-未标注-59",
@@ -851,7 +899,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2018年山东公务员考试《行测》第59题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2018-未标注-60",
@@ -887,7 +937,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2018年山东公务员考试《行测》第60题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2019-420联考-46",
@@ -921,7 +973,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年山东公务员考试《行测》（420联考）第46题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2019-420联考-47",
@@ -956,7 +1010,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年山东公务员考试《行测》（420联考）第47题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2019-420联考-48",
@@ -990,7 +1046,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年山东公务员考试《行测》（420联考）第48题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2019-420联考-49",
@@ -1026,7 +1084,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年山东公务员考试《行测》（420联考）第49题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2019-420联考-50",
@@ -1061,7 +1121,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年山东公务员考试《行测》（420联考）第50题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shandong-2019-420联考-51",
@@ -1093,7 +1155,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年山东公务员考试《行测》（420联考）第51题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2019-420联考-52",
@@ -1130,7 +1194,9 @@
     "difficulty": "拔高",
     "source": "2019年山东公务员考试《行测》（420联考）第52题",
     "isImageQuestion": true,
-    "province": "山东"
+    "province": "山东",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2019-420联考-53",
@@ -1165,7 +1231,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年山东公务员考试《行测》（420联考）第53题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2019-420联考-54",
@@ -1201,7 +1269,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年山东公务员考试《行测》（420联考）第54题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2019-420联考-55",
@@ -1235,7 +1305,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年山东公务员考试《行测》（420联考）第55题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2019-420联考-56",
@@ -1270,7 +1342,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年山东公务员考试《行测》（420联考）第56题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2019-420联考-57",
@@ -1304,7 +1378,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年山东公务员考试《行测》（420联考）第57题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2019-420联考-58",
@@ -1340,7 +1416,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年山东公务员考试《行测》（420联考）第58题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2019-420联考-59",
@@ -1375,7 +1453,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年山东公务员考试《行测》（420联考）第59题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shandong-2019-420联考-60",
@@ -1410,7 +1490,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年山东公务员考试《行测》（420联考）第60题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2020-未标注-36",
@@ -1445,7 +1527,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2020年山东公务员考试《行测》第36题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2020-未标注-37",
@@ -1480,7 +1564,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2020年山东公务员考试《行测》第37题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2020-未标注-38",
@@ -1514,7 +1600,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2020年山东公务员考试《行测》第38题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2020-未标注-39",
@@ -1548,7 +1636,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2020年山东公务员考试《行测》第39题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2020-未标注-40",
@@ -1583,7 +1673,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2020年山东公务员考试《行测》第40题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2020-未标注-41",
@@ -1620,7 +1712,9 @@
     "difficulty": "拔高",
     "source": "2020年山东公务员考试《行测》第41题",
     "isImageQuestion": true,
-    "province": "山东"
+    "province": "山东",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2020-未标注-42",
@@ -1654,7 +1748,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2020年山东公务员考试《行测》第42题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2020-未标注-43",
@@ -1673,7 +1769,10 @@
     "difficulty": "拔高",
     "source": "2020年山东公务员考试《行测》第43题",
     "isImageQuestion": true,
-    "province": "山东"
+    "province": "山东",
+    "isAbnormal": true,
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2020-未标注-44",
@@ -1710,7 +1809,9 @@
     "difficulty": "拔高",
     "source": "2020年山东公务员考试《行测》第44题",
     "isImageQuestion": true,
-    "province": "山东"
+    "province": "山东",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2020-未标注-45",
@@ -1744,7 +1845,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2020年山东公务员考试《行测》第45题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2021-未标注-36",
@@ -1781,7 +1884,9 @@
     "difficulty": "拔高",
     "source": "2021年山东公务员考试《行测》第36题",
     "isImageQuestion": true,
-    "province": "山东"
+    "province": "山东",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2021-未标注-37",
@@ -1818,7 +1923,9 @@
     "difficulty": "拔高",
     "source": "2021年山东公务员考试《行测》第37题",
     "isImageQuestion": true,
-    "province": "山东"
+    "province": "山东",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2021-未标注-38",
@@ -1838,7 +1945,10 @@
     "difficulty": "拔高",
     "source": "2021年山东公务员考试《行测》第38题",
     "isImageQuestion": true,
-    "province": "山东"
+    "province": "山东",
+    "isAbnormal": true,
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2021-未标注-39",
@@ -1858,7 +1968,10 @@
     "difficulty": "拔高",
     "source": "2021年山东公务员考试《行测》第39题",
     "isImageQuestion": true,
-    "province": "山东"
+    "province": "山东",
+    "isAbnormal": true,
+    "subModule": "几何",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shandong-2021-未标注-40",
@@ -1878,7 +1991,10 @@
     "difficulty": "拔高",
     "source": "2021年山东公务员考试《行测》第40题",
     "isImageQuestion": true,
-    "province": "山东"
+    "province": "山东",
+    "isAbnormal": true,
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2021-未标注-41",
@@ -1898,7 +2014,10 @@
     "difficulty": "拔高",
     "source": "2021年山东公务员考试《行测》第41题",
     "isImageQuestion": true,
-    "province": "山东"
+    "province": "山东",
+    "isAbnormal": true,
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2021-未标注-42",
@@ -1933,7 +2052,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2021年山东公务员考试《行测》第42题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2021-未标注-43",
@@ -1968,7 +2089,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2021年山东公务员考试《行测》第43题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2021-未标注-44",
@@ -2004,7 +2127,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2021年山东公务员考试《行测》第44题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2021-未标注-45",
@@ -2038,7 +2163,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2021年山东公务员考试《行测》第45题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2022-未标注-36",
@@ -2072,7 +2199,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2022年山东公务员考试《行测》第36题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2022-未标注-37",
@@ -2106,7 +2235,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2022年山东公务员考试《行测》第37题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2022-未标注-38",
@@ -2140,7 +2271,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2022年山东公务员考试《行测》第38题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2022-未标注-39",
@@ -2174,7 +2307,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2022年山东公务员考试《行测》第39题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2022-未标注-40",
@@ -2210,7 +2345,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2022年山东公务员考试《行测》第40题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2022-未标注-41",
@@ -2246,7 +2383,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2022年山东公务员考试《行测》第41题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2022-未标注-42",
@@ -2280,7 +2419,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2022年山东公务员考试《行测》第42题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2022-未标注-43",
@@ -2315,7 +2456,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2022年山东公务员考试《行测》第43题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2022-未标注-44",
@@ -2352,7 +2495,9 @@
     "difficulty": "拔高",
     "source": "2022年山东公务员考试《行测》第44题",
     "isImageQuestion": true,
-    "province": "山东"
+    "province": "山东",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2022-未标注-45",
@@ -2386,7 +2531,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2022年山东公务员考试《行测》第45题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2023-未标注-56",
@@ -2418,7 +2565,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2023年山东公务员考试《行测》第56题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shandong-2023-未标注-57",
@@ -2450,7 +2599,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2023年山东公务员考试《行测》第57题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shandong-2023-未标注-58",
@@ -2482,7 +2633,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2023年山东公务员考试《行测》第58题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shandong-2023-未标注-59",
@@ -2514,7 +2667,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2023年山东公务员考试《行测》第59题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shandong-2023-未标注-60",
@@ -2546,7 +2701,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2023年山东公务员考试《行测》第60题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shandong-2023-未标注-61",
@@ -2578,7 +2735,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2023年山东公务员考试《行测》第61题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shandong-2023-未标注-62",
@@ -2610,7 +2769,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2023年山东公务员考试《行测》第62题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shandong-2023-未标注-63",
@@ -2642,7 +2803,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2023年山东公务员考试《行测》第63题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shandong-2023-未标注-64",
@@ -2674,7 +2837,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2023年山东公务员考试《行测》第64题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shandong-2023-未标注-65",
@@ -2706,7 +2871,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2023年山东公务员考试《行测》第65题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shandong-2023-未标注-66",
@@ -2738,7 +2905,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2023年山东公务员考试《行测》第66题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shandong-2023-未标注-67",
@@ -2770,7 +2939,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2023年山东公务员考试《行测》第67题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shandong-2023-未标注-68",
@@ -2802,7 +2973,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2023年山东公务员考试《行测》第68题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shandong-2023-未标注-69",
@@ -2834,7 +3007,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2023年山东公务员考试《行测》第69题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shandong-2023-未标注-70",
@@ -2866,7 +3041,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2023年山东公务员考试《行测》第70题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shandong-2023-未标注-36-2",
@@ -2898,7 +3075,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2023年山东公务员考试《行测》第36题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2023-未标注-37-2",
@@ -2930,7 +3109,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2023年山东公务员考试《行测》第37题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2023-未标注-38-2",
@@ -2962,7 +3143,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2023年山东公务员考试《行测》第38题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2023-未标注-39-2",
@@ -2995,7 +3178,9 @@
     "difficulty": "拔高",
     "source": "2023年山东公务员考试《行测》第39题",
     "isImageQuestion": true,
-    "province": "山东"
+    "province": "山东",
+    "subModule": "几何",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shandong-2023-未标注-40-2",
@@ -3027,7 +3212,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2023年山东公务员考试《行测》第40题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2023-未标注-41-2",
@@ -3059,7 +3246,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2023年山东公务员考试《行测》第41题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2023-未标注-42-2",
@@ -3091,7 +3280,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2023年山东公务员考试《行测》第42题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shandong-2023-未标注-43-2",
@@ -3123,7 +3314,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2023年山东公务员考试《行测》第43题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2023-未标注-44-2",
@@ -3155,7 +3348,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2023年山东公务员考试《行测》第44题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2023-未标注-45-2",
@@ -3187,7 +3382,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2023年山东公务员考试《行测》第45题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2024-未标注-51",
@@ -3207,7 +3404,10 @@
     "difficulty": "拔高",
     "source": "2024年山东公务员考试《行测》第51题",
     "isImageQuestion": true,
-    "province": "山东"
+    "province": "山东",
+    "isAbnormal": true,
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2024-未标注-52",
@@ -3242,7 +3442,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2024年山东公务员考试《行测》第52题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2024-未标注-53",
@@ -3277,7 +3479,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2024年山东公务员考试《行测》第53题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2024-未标注-54",
@@ -3311,7 +3515,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2024年山东公务员考试《行测》第54题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2024-未标注-55",
@@ -3347,7 +3553,9 @@
     "difficulty": "拔高",
     "source": "2024年山东公务员考试《行测》第55题",
     "isImageQuestion": true,
-    "province": "山东"
+    "province": "山东",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2024-未标注-56",
@@ -3383,7 +3591,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2024年山东公务员考试《行测》第56题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2024-未标注-57",
@@ -3417,7 +3627,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2024年山东公务员考试《行测》第57题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2024-未标注-58",
@@ -3451,7 +3663,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2024年山东公务员考试《行测》第58题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2024-未标注-59",
@@ -3483,7 +3697,9 @@
     "difficulty": "拔高",
     "source": "2024年山东公务员考试《行测》第59题",
     "isImageQuestion": true,
-    "province": "山东"
+    "province": "山东",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2024-未标注-60",
@@ -3520,7 +3736,9 @@
     "difficulty": "拔高",
     "source": "2024年山东公务员考试《行测》第60题",
     "isImageQuestion": true,
-    "province": "山东"
+    "province": "山东",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2025-未标注-51",
@@ -3555,7 +3773,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年山东公务员考试《行测》第51题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2025-未标注-52",
@@ -3590,7 +3810,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年山东公务员考试《行测》第52题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2025-未标注-53",
@@ -3626,7 +3848,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年山东公务员考试《行测》第53题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2025-未标注-54",
@@ -3661,7 +3885,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年山东公务员考试《行测》第54题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2025-未标注-55",
@@ -3695,7 +3921,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年山东公务员考试《行测》第55题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2025-未标注-56",
@@ -3730,7 +3958,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年山东公务员考试《行测》第56题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2025-未标注-57",
@@ -3765,7 +3995,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年山东公务员考试《行测》第57题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2025-未标注-58",
@@ -3800,7 +4032,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年山东公务员考试《行测》第58题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2025-未标注-59",
@@ -3835,7 +4069,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年山东公务员考试《行测》第59题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2025-未标注-60",
@@ -3871,6 +4107,8 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年山东公务员考试《行测》第60题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   }
 ]

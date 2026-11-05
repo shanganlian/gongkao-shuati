@@ -33,7 +33,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年江苏公务员考试《行测》（A卷）第81题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2011-A卷-82",
@@ -68,7 +70,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年江苏公务员考试《行测》（A卷）第82题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2011-A卷-83",
@@ -104,7 +108,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年江苏公务员考试《行测》（A卷）第83题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2011-A卷-84",
@@ -141,7 +147,9 @@
     "difficulty": "中等",
     "source": "2011年江苏公务员考试《行测》（A卷）第84题",
     "isImageQuestion": true,
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2011-A卷-85",
@@ -176,7 +184,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年江苏公务员考试《行测》（A卷）第85题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2011-A卷-86",
@@ -211,7 +221,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年江苏公务员考试《行测》（A卷）第86题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2011-A卷-87",
@@ -246,7 +258,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年江苏公务员考试《行测》（A卷）第87题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2011-A卷-88",
@@ -282,7 +296,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年江苏公务员考试《行测》（A卷）第88题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2011-A卷-89",
@@ -317,7 +333,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年江苏公务员考试《行测》（A卷）第89题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2011-A卷-90",
@@ -352,7 +370,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年江苏公务员考试《行测》（A卷）第90题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2011-A卷-91",
@@ -388,7 +408,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年江苏公务员考试《行测》（A卷）第91题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2011-A卷-92",
@@ -423,7 +445,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年江苏公务员考试《行测》（A卷）第92题",
-    "province": "江苏"
+    "province": "江苏",
+    "isAbnormal": true,
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2011-A卷-93",
@@ -459,7 +484,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年江苏公务员考试《行测》（A卷）第93题",
-    "province": "江苏"
+    "province": "江苏",
+    "isAbnormal": true,
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2011-A卷-94",
@@ -495,7 +523,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年江苏公务员考试《行测》（A卷）第94题",
-    "province": "江苏"
+    "province": "江苏",
+    "isAbnormal": true,
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2011-A卷-95",
@@ -532,7 +563,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年江苏公务员考试《行测》（A卷）第95题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2011-A卷-96",
@@ -568,7 +601,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年江苏公务员考试《行测》（A卷）第96题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "图形材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2011-A卷-97",
@@ -603,7 +638,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年江苏公务员考试《行测》（A卷）第97题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "图形材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2011-A卷-98",
@@ -639,7 +676,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年江苏公务员考试《行测》（A卷）第98题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "图形材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2011-A卷-99",
@@ -674,7 +713,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年江苏公务员考试《行测》（A卷）第99题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "图形材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2011-A卷-100",
@@ -710,7 +751,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年江苏公务员考试《行测》（A卷）第100题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "图形材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2011-A卷-101",
@@ -747,7 +790,9 @@
     "difficulty": "中等",
     "source": "2011年江苏公务员考试《行测》（A卷）第101题",
     "isImageQuestion": true,
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "图形材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2011-A卷-102",
@@ -784,7 +829,9 @@
     "difficulty": "中等",
     "source": "2011年江苏公务员考试《行测》（A卷）第102题",
     "isImageQuestion": true,
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "图形材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2011-A卷-103",
@@ -820,7 +867,9 @@
     "difficulty": "中等",
     "source": "2011年江苏公务员考试《行测》（A卷）第103题",
     "isImageQuestion": true,
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2011-A卷-104",
@@ -857,7 +906,9 @@
     "difficulty": "中等",
     "source": "2011年江苏公务员考试《行测》（A卷）第104题",
     "isImageQuestion": true,
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2011-A卷-105",
@@ -894,7 +945,9 @@
     "difficulty": "中等",
     "source": "2011年江苏公务员考试《行测》（A卷）第105题",
     "isImageQuestion": true,
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2011-B卷-76",
@@ -930,7 +983,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年江苏公务员考试《行测》（B卷）第76题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2011-B卷-77",
@@ -966,7 +1021,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年江苏公务员考试《行测》（B卷）第77题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2011-B卷-78",
@@ -1001,7 +1058,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年江苏公务员考试《行测》（B卷）第78题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2011-B卷-79",
@@ -1036,7 +1095,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年江苏公务员考试《行测》（B卷）第79题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2011-B卷-80",
@@ -1071,7 +1132,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年江苏公务员考试《行测》（B卷）第80题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2011-B卷-81",
@@ -1107,7 +1170,9 @@
     "difficulty": "中等",
     "source": "2011年江苏公务员考试《行测》（B卷）第81题",
     "isImageQuestion": true,
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2011-B卷-82",
@@ -1145,7 +1210,9 @@
     "difficulty": "中等",
     "source": "2011年江苏公务员考试《行测》（B卷）第82题",
     "isImageQuestion": true,
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "综合材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-jiangsu-2011-B卷-83",
@@ -1181,7 +1248,9 @@
     "difficulty": "中等",
     "source": "2011年江苏公务员考试《行测》（B卷）第83题",
     "isImageQuestion": true,
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "图形材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-jiangsu-2011-B卷-84",
@@ -1217,7 +1286,9 @@
     "difficulty": "中等",
     "source": "2011年江苏公务员考试《行测》（B卷）第84题",
     "isImageQuestion": true,
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2011-B卷-85",
@@ -1253,7 +1324,9 @@
     "difficulty": "中等",
     "source": "2011年江苏公务员考试《行测》（B卷）第85题",
     "isImageQuestion": true,
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2011-B卷-86",
@@ -1289,7 +1362,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年江苏公务员考试《行测》（B卷）第86题",
-    "province": "江苏"
+    "province": "江苏",
+    "isAbnormal": true,
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2011-B卷-87",
@@ -1324,7 +1400,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年江苏公务员考试《行测》（B卷）第87题",
-    "province": "江苏"
+    "province": "江苏",
+    "isAbnormal": true,
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2011-B卷-88",
@@ -1359,7 +1438,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年江苏公务员考试《行测》（B卷）第88题",
-    "province": "江苏"
+    "province": "江苏",
+    "isAbnormal": true,
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2011-B卷-89",
@@ -1396,7 +1478,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年江苏公务员考试《行测》（B卷）第89题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2011-B卷-90",
@@ -1432,7 +1516,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年江苏公务员考试《行测》（B卷）第90题",
-    "province": "江苏"
+    "province": "江苏",
+    "isAbnormal": true,
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2011-B卷-91",
@@ -1468,7 +1555,9 @@
     "difficulty": "中等",
     "source": "2011年江苏公务员考试《行测》（B卷）第91题",
     "isImageQuestion": true,
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "图形材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2011-B卷-92",
@@ -1505,7 +1594,9 @@
     "difficulty": "中等",
     "source": "2011年江苏公务员考试《行测》（B卷）第92题",
     "isImageQuestion": true,
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "图形材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2011-B卷-93",
@@ -1542,7 +1633,9 @@
     "difficulty": "中等",
     "source": "2011年江苏公务员考试《行测》（B卷）第93题",
     "isImageQuestion": true,
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "图形材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-jiangsu-2011-B卷-94",
@@ -1578,7 +1671,9 @@
     "difficulty": "中等",
     "source": "2011年江苏公务员考试《行测》（B卷）第94题",
     "isImageQuestion": true,
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "图形材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2011-B卷-95",
@@ -1614,7 +1709,9 @@
     "difficulty": "中等",
     "source": "2011年江苏公务员考试《行测》（B卷）第95题",
     "isImageQuestion": true,
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "图形材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2011-C卷-76",
@@ -1649,7 +1746,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年江苏公务员考试《行测》（C卷）第76题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2011-C卷-77",
@@ -1685,7 +1784,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年江苏公务员考试《行测》（C卷）第77题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2011-C卷-78",
@@ -1720,7 +1821,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年江苏公务员考试《行测》（C卷）第78题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2011-C卷-79",
@@ -1756,7 +1859,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年江苏公务员考试《行测》（C卷）第79题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2011-C卷-80",
@@ -1791,7 +1896,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年江苏公务员考试《行测》（C卷）第80题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2011-C卷-81",
@@ -1827,7 +1934,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年江苏公务员考试《行测》（C卷）第81题",
-    "province": "江苏"
+    "province": "江苏",
+    "isAbnormal": true,
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2011-C卷-82",
@@ -1863,7 +1973,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年江苏公务员考试《行测》（C卷）第82题",
-    "province": "江苏"
+    "province": "江苏",
+    "isAbnormal": true,
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2011-C卷-83",
@@ -1900,7 +2013,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年江苏公务员考试《行测》（C卷）第83题",
-    "province": "江苏"
+    "province": "江苏",
+    "isAbnormal": true,
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2011-C卷-84",
@@ -1936,7 +2052,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年江苏公务员考试《行测》（C卷）第84题",
-    "province": "江苏"
+    "province": "江苏",
+    "isAbnormal": true,
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2011-C卷-85",
@@ -1972,7 +2091,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年江苏公务员考试《行测》（C卷）第85题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2011-C卷-86",
@@ -2008,7 +2129,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年江苏公务员考试《行测》（C卷）第86题",
-    "province": "江苏"
+    "province": "江苏",
+    "isAbnormal": true,
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2011-C卷-87",
@@ -2044,7 +2168,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年江苏公务员考试《行测》（C卷）第87题",
-    "province": "江苏"
+    "province": "江苏",
+    "isAbnormal": true,
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2011-C卷-88",
@@ -2079,7 +2206,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年江苏公务员考试《行测》（C卷）第88题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2011-C卷-89",
@@ -2115,7 +2244,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年江苏公务员考试《行测》（C卷）第89题",
-    "province": "江苏"
+    "province": "江苏",
+    "isAbnormal": true,
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2011-C卷-90",
@@ -2151,7 +2283,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年江苏公务员考试《行测》（C卷）第90题",
-    "province": "江苏"
+    "province": "江苏",
+    "isAbnormal": true,
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2011-C卷-91",
@@ -2188,7 +2323,9 @@
     "difficulty": "中等",
     "source": "2011年江苏公务员考试《行测》（C卷）第91题",
     "isImageQuestion": true,
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "图形材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2011-C卷-92",
@@ -2224,7 +2361,9 @@
     "difficulty": "中等",
     "source": "2011年江苏公务员考试《行测》（C卷）第92题",
     "isImageQuestion": true,
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "图形材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2011-C卷-93",
@@ -2261,7 +2400,9 @@
     "difficulty": "中等",
     "source": "2011年江苏公务员考试《行测》（C卷）第93题",
     "isImageQuestion": true,
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "图形材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2011-C卷-94",
@@ -2297,7 +2438,9 @@
     "difficulty": "中等",
     "source": "2011年江苏公务员考试《行测》（C卷）第94题",
     "isImageQuestion": true,
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "图形材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2011-C卷-95",
@@ -2333,7 +2476,9 @@
     "difficulty": "中等",
     "source": "2011年江苏公务员考试《行测》（C卷）第95题",
     "isImageQuestion": true,
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "图形材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2011-C卷-96",
@@ -2370,7 +2515,9 @@
     "difficulty": "中等",
     "source": "2011年江苏公务员考试《行测》（C卷）第96题",
     "isImageQuestion": true,
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "图形材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2011-C卷-97",
@@ -2407,7 +2554,9 @@
     "difficulty": "中等",
     "source": "2011年江苏公务员考试《行测》（C卷）第97题",
     "isImageQuestion": true,
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "图形材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2011-C卷-98",
@@ -2443,7 +2592,9 @@
     "difficulty": "中等",
     "source": "2011年江苏公务员考试《行测》（C卷）第98题",
     "isImageQuestion": true,
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2011-C卷-99",
@@ -2480,7 +2631,9 @@
     "difficulty": "中等",
     "source": "2011年江苏公务员考试《行测》（C卷）第99题",
     "isImageQuestion": true,
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2011-C卷-100",
@@ -2517,7 +2670,9 @@
     "difficulty": "中等",
     "source": "2011年江苏公务员考试《行测》（C卷）第100题",
     "isImageQuestion": true,
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2012-A类-81",
@@ -2553,7 +2708,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年江苏公务员考试《行测》（A类）第81题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2012-A类-82",
@@ -2588,7 +2745,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年江苏公务员考试《行测》（A类）第82题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2012-A类-83",
@@ -2624,7 +2783,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年江苏公务员考试《行测》（A类）第83题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2012-A类-84",
@@ -2659,7 +2820,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年江苏公务员考试《行测》（A类）第84题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2012-A类-85",
@@ -2694,7 +2857,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年江苏公务员考试《行测》（A类）第85题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2012-A类-86",
@@ -2730,7 +2895,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年江苏公务员考试《行测》（A类）第86题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2012-A类-87",
@@ -2767,7 +2934,9 @@
     "difficulty": "中等",
     "source": "2012年江苏公务员考试《行测》（A类）第87题",
     "isImageQuestion": true,
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2012-A类-88",
@@ -2803,7 +2972,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年江苏公务员考试《行测》（A类）第88题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2012-A类-89",
@@ -2838,7 +3009,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年江苏公务员考试《行测》（A类）第89题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2012-A类-90",
@@ -2875,7 +3048,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年江苏公务员考试《行测》（A类）第90题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2012-A类-91",
@@ -2912,7 +3087,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年江苏公务员考试《行测》（A类）第91题",
-    "province": "江苏"
+    "province": "江苏",
+    "isAbnormal": true,
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2012-A类-92",
@@ -2948,7 +3126,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年江苏公务员考试《行测》（A类）第92题",
-    "province": "江苏"
+    "province": "江苏",
+    "isAbnormal": true,
+    "subModule": "综合材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-jiangsu-2012-A类-93",
@@ -2984,7 +3165,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年江苏公务员考试《行测》（A类）第93题",
-    "province": "江苏"
+    "province": "江苏",
+    "isAbnormal": true,
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2012-A类-94",
@@ -3020,7 +3204,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年江苏公务员考试《行测》（A类）第94题",
-    "province": "江苏"
+    "province": "江苏",
+    "isAbnormal": true,
+    "subModule": "综合材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-jiangsu-2012-A类-95",
@@ -3055,7 +3242,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年江苏公务员考试《行测》（A类）第95题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2012-B卷-76",
@@ -3093,7 +3282,9 @@
     "difficulty": "中等",
     "source": "2012年江苏公务员考试《行测》（B卷）第76题",
     "isImageQuestion": true,
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "图形材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-jiangsu-2012-B卷-77",
@@ -3129,7 +3320,9 @@
     "difficulty": "中等",
     "source": "2012年江苏公务员考试《行测》（B卷）第77题",
     "isImageQuestion": true,
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "图形材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-jiangsu-2012-B卷-78",
@@ -3167,7 +3360,9 @@
     "difficulty": "中等",
     "source": "2012年江苏公务员考试《行测》（B卷）第78题",
     "isImageQuestion": true,
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2012-B卷-79",
@@ -3204,7 +3399,9 @@
     "difficulty": "中等",
     "source": "2012年江苏公务员考试《行测》（B卷）第79题",
     "isImageQuestion": true,
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2012-B卷-80",
@@ -3242,7 +3439,9 @@
     "difficulty": "中等",
     "source": "2012年江苏公务员考试《行测》（B卷）第80题",
     "isImageQuestion": true,
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2012-B卷-81",
@@ -3278,7 +3477,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年江苏公务员考试《行测》（B卷）第81题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2012-B卷-82",
@@ -3314,7 +3515,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年江苏公务员考试《行测》（B卷）第82题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2012-B卷-83",
@@ -3349,7 +3552,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年江苏公务员考试《行测》（B卷）第83题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2012-B卷-84",
@@ -3385,7 +3590,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年江苏公务员考试《行测》（B卷）第84题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2012-B卷-85",
@@ -3421,7 +3628,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年江苏公务员考试《行测》（B卷）第85题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2012-B卷-86",
@@ -3459,7 +3668,9 @@
     "difficulty": "中等",
     "source": "2012年江苏公务员考试《行测》（B卷）第86题",
     "isImageQuestion": true,
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "图形材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2012-B卷-87",
@@ -3495,7 +3706,9 @@
     "difficulty": "中等",
     "source": "2012年江苏公务员考试《行测》（B卷）第87题",
     "isImageQuestion": true,
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "图形材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2012-B卷-88",
@@ -3533,7 +3746,9 @@
     "difficulty": "中等",
     "source": "2012年江苏公务员考试《行测》（B卷）第88题",
     "isImageQuestion": true,
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "图形材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2012-B卷-89",
@@ -3570,7 +3785,9 @@
     "difficulty": "中等",
     "source": "2012年江苏公务员考试《行测》（B卷）第89题",
     "isImageQuestion": true,
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "图形材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2012-B卷-90",
@@ -3607,7 +3824,9 @@
     "difficulty": "中等",
     "source": "2012年江苏公务员考试《行测》（B卷）第90题",
     "isImageQuestion": true,
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "图形材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2012-B卷-91",
@@ -3643,7 +3862,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年江苏公务员考试《行测》（B卷）第91题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2012-B卷-92",
@@ -3678,7 +3899,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年江苏公务员考试《行测》（B卷）第92题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2012-B卷-93",
@@ -3714,7 +3937,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年江苏公务员考试《行测》（B卷）第93题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2012-B卷-94",
@@ -3750,7 +3975,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年江苏公务员考试《行测》（B卷）第94题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2012-B卷-95",
@@ -3785,7 +4012,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年江苏公务员考试《行测》（B卷）第95题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2012-C卷-73",
@@ -3820,7 +4049,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年江苏公务员考试《行测》（C卷）第73题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2012-C卷-74",
@@ -3855,7 +4086,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年江苏公务员考试《行测》（C卷）第74题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2012-C卷-75",
@@ -3890,7 +4123,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年江苏公务员考试《行测》（C卷）第75题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2012-C卷-76",
@@ -3925,7 +4160,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年江苏公务员考试《行测》（C卷）第76题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2012-C卷-77",
@@ -3962,7 +4199,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年江苏公务员考试《行测》（C卷）第77题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2012-C卷-78",
@@ -3997,7 +4236,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年江苏公务员考试《行测》（C卷）第78题",
-    "province": "江苏"
+    "province": "江苏",
+    "isAbnormal": true,
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2012-C卷-79",
@@ -4033,7 +4275,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年江苏公务员考试《行测》（C卷）第79题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2012-C卷-80",
@@ -4069,7 +4313,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年江苏公务员考试《行测》（C卷）第80题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2012-C卷-81",
@@ -4105,7 +4351,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年江苏公务员考试《行测》（C卷）第81题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2012-C卷-82",
@@ -4140,7 +4388,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年江苏公务员考试《行测》（C卷）第82题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2012-C卷-83",
@@ -4176,7 +4426,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年江苏公务员考试《行测》（C卷）第83题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2012-C卷-84",
@@ -4212,7 +4464,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年江苏公务员考试《行测》（C卷）第84题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2012-C卷-85",
@@ -4247,7 +4501,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年江苏公务员考试《行测》（C卷）第85题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2013-A类-81",
@@ -4284,7 +4540,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年江苏公务员考试《行测》（A类）第81题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2013-A类-82",
@@ -4319,7 +4577,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年江苏公务员考试《行测》（A类）第82题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2013-A类-83",
@@ -4355,7 +4615,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年江苏公务员考试《行测》（A类）第83题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2013-A类-84",
@@ -4392,7 +4654,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年江苏公务员考试《行测》（A类）第84题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2013-A类-85",
@@ -4429,7 +4693,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年江苏公务员考试《行测》（A类）第85题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2013-A类-86",
@@ -4465,7 +4731,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年江苏公务员考试《行测》（A类）第86题",
-    "province": "江苏"
+    "province": "江苏",
+    "isAbnormal": true,
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2013-A类-87",
@@ -4501,7 +4770,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年江苏公务员考试《行测》（A类）第87题",
-    "province": "江苏"
+    "province": "江苏",
+    "isAbnormal": true,
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2013-A类-88",
@@ -4538,7 +4810,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年江苏公务员考试《行测》（A类）第88题",
-    "province": "江苏"
+    "province": "江苏",
+    "isAbnormal": true,
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2013-A类-89",
@@ -4571,7 +4846,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年江苏公务员考试《行测》（A类）第89题",
-    "province": "江苏"
+    "province": "江苏",
+    "isAbnormal": true,
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2013-A类-90",
@@ -4609,7 +4887,9 @@
     "difficulty": "中等",
     "source": "2013年江苏公务员考试《行测》（A类）第90题",
     "isImageQuestion": true,
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2013-A类-91",
@@ -4645,7 +4925,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年江苏公务员考试《行测》（A类）第91题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2013-A类-92",
@@ -4680,7 +4962,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年江苏公务员考试《行测》（A类）第92题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2013-A类-93",
@@ -4717,7 +5001,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年江苏公务员考试《行测》（A类）第93题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2013-A类-94",
@@ -4753,7 +5039,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年江苏公务员考试《行测》（A类）第94题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2013-A类-95",
@@ -4788,7 +5076,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年江苏公务员考试《行测》（A类）第95题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2013-A类-96",
@@ -4824,7 +5114,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年江苏公务员考试《行测》（A类）第96题",
-    "province": "江苏"
+    "province": "江苏",
+    "isAbnormal": true,
+    "subModule": "图形材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2013-A类-97",
@@ -4860,7 +5153,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年江苏公务员考试《行测》（A类）第97题",
-    "province": "江苏"
+    "province": "江苏",
+    "isAbnormal": true,
+    "subModule": "综合材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-jiangsu-2013-A类-98",
@@ -4897,7 +5193,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年江苏公务员考试《行测》（A类）第98题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "综合材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-jiangsu-2013-A类-99",
@@ -4932,7 +5230,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年江苏公务员考试《行测》（A类）第99题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "图形材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2013-A类-100",
@@ -4968,7 +5268,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年江苏公务员考试《行测》（A类）第100题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2013-A类-101",
@@ -5003,7 +5305,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年江苏公务员考试《行测》（A类）第101题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2013-A类-102",
@@ -5039,7 +5343,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年江苏公务员考试《行测》（A类）第102题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2013-A类-103",
@@ -5074,7 +5380,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年江苏公务员考试《行测》（A类）第103题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2013-A类-104",
@@ -5111,7 +5419,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年江苏公务员考试《行测》（A类）第104题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2013-A类-105",
@@ -5144,7 +5454,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年江苏公务员考试《行测》（A类）第105题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2013-B类-136",
@@ -5180,7 +5492,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年江苏公务员考试《行测》（B类）第136题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2013-B类-137",
@@ -5215,7 +5529,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年江苏公务员考试《行测》（B类）第137题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2013-B类-138",
@@ -5250,7 +5566,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年江苏公务员考试《行测》（B类）第138题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2013-B类-139",
@@ -5287,7 +5605,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年江苏公务员考试《行测》（B类）第139题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2013-B类-140",
@@ -5324,7 +5644,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年江苏公务员考试《行测》（B类）第140题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2013-B类-141",
@@ -5344,7 +5666,9 @@
     "difficulty": "中等",
     "source": "2013年江苏公务员考试《行测》（B类）第141题",
     "isImageQuestion": true,
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "综合材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-jiangsu-2013-B类-142",
@@ -5381,7 +5705,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年江苏公务员考试《行测》（B类）第142题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2013-B类-143",
@@ -5417,7 +5743,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年江苏公务员考试《行测》（B类）第143题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2013-B类-144",
@@ -5452,7 +5780,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年江苏公务员考试《行测》（B类）第144题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2013-B类-145",
@@ -5488,7 +5818,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年江苏公务员考试《行测》（B类）第145题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2013-B类-146",
@@ -5525,7 +5857,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年江苏公务员考试《行测》（B类）第146题",
-    "province": "江苏"
+    "province": "江苏",
+    "isAbnormal": true,
+    "subModule": "综合材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-jiangsu-2013-B类-147",
@@ -5562,7 +5897,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年江苏公务员考试《行测》（B类）第147题",
-    "province": "江苏"
+    "province": "江苏",
+    "isAbnormal": true,
+    "subModule": "综合材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-jiangsu-2013-B类-148",
@@ -5599,7 +5937,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年江苏公务员考试《行测》（B类）第148题",
-    "province": "江苏"
+    "province": "江苏",
+    "isAbnormal": true,
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2013-B类-149",
@@ -5632,7 +5973,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年江苏公务员考试《行测》（B类）第149题",
-    "province": "江苏"
+    "province": "江苏",
+    "isAbnormal": true,
+    "subModule": "综合材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-jiangsu-2013-B类-150",
@@ -5669,7 +6013,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年江苏公务员考试《行测》（B类）第150题",
-    "province": "江苏"
+    "province": "江苏",
+    "isAbnormal": true,
+    "subModule": "综合材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-jiangsu-2013-B类-151",
@@ -5705,7 +6052,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年江苏公务员考试《行测》（B类）第151题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2013-B类-152",
@@ -5742,7 +6091,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年江苏公务员考试《行测》（B类）第152题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2013-B类-153",
@@ -5777,7 +6128,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年江苏公务员考试《行测》（B类）第153题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2013-B类-154",
@@ -5814,7 +6167,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年江苏公务员考试《行测》（B类）第154题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2013-B类-155",
@@ -5847,7 +6202,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年江苏公务员考试《行测》（B类）第155题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2013-C类-76",
@@ -5882,7 +6239,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年江苏公务员考试《行测》（C类）第76题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2013-C类-77",
@@ -5917,7 +6276,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年江苏公务员考试《行测》（C类）第77题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2013-C类-78",
@@ -5953,7 +6314,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年江苏公务员考试《行测》（C类）第78题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2013-C类-79",
@@ -5988,7 +6351,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年江苏公务员考试《行测》（C类）第79题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2013-C类-80",
@@ -6023,7 +6388,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年江苏公务员考试《行测》（C类）第80题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2013-C类-81",
@@ -6059,7 +6426,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年江苏公务员考试《行测》（C类）第81题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2013-C类-82",
@@ -6094,7 +6463,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年江苏公务员考试《行测》（C类）第82题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2013-C类-83",
@@ -6129,7 +6500,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年江苏公务员考试《行测》（C类）第83题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2013-C类-84",
@@ -6165,7 +6538,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年江苏公务员考试《行测》（C类）第84题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2013-C类-85",
@@ -6198,7 +6573,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年江苏公务员考试《行测》（C类）第85题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2013-C类-86",
@@ -6233,7 +6610,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年江苏公务员考试《行测》（C类）第86题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2013-C类-87",
@@ -6269,7 +6648,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年江苏公务员考试《行测》（C类）第87题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2013-C类-88",
@@ -6302,7 +6683,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年江苏公务员考试《行测》（C类）第88题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2013-C类-89",
@@ -6337,7 +6720,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年江苏公务员考试《行测》（C类）第89题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2013-C类-90",
@@ -6372,7 +6757,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年江苏公务员考试《行测》（C类）第90题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2013-C类-91",
@@ -6408,7 +6795,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年江苏公务员考试《行测》（C类）第91题",
-    "province": "江苏"
+    "province": "江苏",
+    "isAbnormal": true,
+    "subModule": "图形材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2013-C类-92",
@@ -6443,7 +6833,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年江苏公务员考试《行测》（C类）第92题",
-    "province": "江苏"
+    "province": "江苏",
+    "isAbnormal": true,
+    "subModule": "综合材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-jiangsu-2013-C类-93",
@@ -6478,7 +6871,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年江苏公务员考试《行测》（C类）第93题",
-    "province": "江苏"
+    "province": "江苏",
+    "isAbnormal": true,
+    "subModule": "综合材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-jiangsu-2013-C类-94",
@@ -6513,7 +6909,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年江苏公务员考试《行测》（C类）第94题",
-    "province": "江苏"
+    "province": "江苏",
+    "isAbnormal": true,
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2013-C类-95",
@@ -6548,7 +6947,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年江苏公务员考试《行测》（C类）第95题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2013-C类-96",
@@ -6583,7 +6984,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年江苏公务员考试《行测》（C类）第96题",
-    "province": "江苏"
+    "province": "江苏",
+    "isAbnormal": true,
+    "subModule": "图形材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2013-C类-97",
@@ -6618,7 +7022,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年江苏公务员考试《行测》（C类）第97题",
-    "province": "江苏"
+    "province": "江苏",
+    "isAbnormal": true,
+    "subModule": "图形材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2013-C类-98",
@@ -6653,7 +7060,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年江苏公务员考试《行测》（C类）第98题",
-    "province": "江苏"
+    "province": "江苏",
+    "isAbnormal": true,
+    "subModule": "图形材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2013-C类-99",
@@ -6688,7 +7098,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年江苏公务员考试《行测》（C类）第99题",
-    "province": "江苏"
+    "province": "江苏",
+    "isAbnormal": true,
+    "subModule": "图形材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2013-C类-100",
@@ -6723,7 +7136,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年江苏公务员考试《行测》（C类）第100题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "综合材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-jiangsu-2014-A卷-81",
@@ -6758,7 +7173,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年江苏公务员考试《行测》（A卷）第81题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2014-A卷-82",
@@ -6793,7 +7210,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年江苏公务员考试《行测》（A卷）第82题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2014-A卷-83",
@@ -6829,7 +7248,9 @@
     "difficulty": "中等",
     "source": "2014年江苏公务员考试《行测》（A卷）第83题",
     "isImageQuestion": true,
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2014-A卷-84",
@@ -6864,7 +7285,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年江苏公务员考试《行测》（A卷）第84题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2014-A卷-85",
@@ -6900,7 +7323,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年江苏公务员考试《行测》（A卷）第85题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2014-A卷-86",
@@ -6937,7 +7362,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年江苏公务员考试《行测》（A卷）第86题",
-    "province": "江苏"
+    "province": "江苏",
+    "isAbnormal": true,
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2014-A卷-87",
@@ -6973,7 +7401,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年江苏公务员考试《行测》（A卷）第87题",
-    "province": "江苏"
+    "province": "江苏",
+    "isAbnormal": true,
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2014-A卷-88",
@@ -7009,7 +7440,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年江苏公务员考试《行测》（A卷）第88题",
-    "province": "江苏"
+    "province": "江苏",
+    "isAbnormal": true,
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2014-A卷-89",
@@ -7046,7 +7480,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年江苏公务员考试《行测》（A卷）第89题",
-    "province": "江苏"
+    "province": "江苏",
+    "isAbnormal": true,
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2014-A卷-90",
@@ -7081,7 +7518,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年江苏公务员考试《行测》（A卷）第90题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2014-A卷-91",
@@ -7116,7 +7555,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年江苏公务员考试《行测》（A卷）第91题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2014-A卷-92",
@@ -7151,6 +7592,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年江苏公务员考试《行测》（A卷）第92题",
-    "province": "江苏"
+    "province": "江苏",
+    "isAbnormal": true,
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   }
 ]

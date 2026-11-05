@@ -33,7 +33,9 @@
     "difficulty": "拔高",
     "source": "2020年辽宁公务员考试《行测》第67题",
     "isImageQuestion": true,
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2020-未标注-68",
@@ -70,7 +72,9 @@
     "difficulty": "拔高",
     "source": "2020年辽宁公务员考试《行测》第68题",
     "isImageQuestion": true,
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2020-未标注-69",
@@ -105,7 +109,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2020年辽宁公务员考试《行测》第69题",
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2020-未标注-70",
@@ -140,7 +146,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2020年辽宁公务员考试《行测》第70题",
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2021-未标注-61",
@@ -174,7 +182,10 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2021年辽宁公务员考试《行测》第61题",
-    "province": "辽宁"
+    "province": "辽宁",
+    "isAbnormal": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2021-未标注-62",
@@ -209,7 +220,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2021年辽宁公务员考试《行测》第62题",
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2021-未标注-63",
@@ -246,7 +259,9 @@
     "difficulty": "拔高",
     "source": "2021年辽宁公务员考试《行测》第63题",
     "isImageQuestion": true,
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2021-未标注-64",
@@ -281,7 +296,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2021年辽宁公务员考试《行测》第64题",
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2021-未标注-65",
@@ -315,7 +332,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2021年辽宁公务员考试《行测》第65题",
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2021-未标注-66",
@@ -334,7 +353,9 @@
     "difficulty": "拔高",
     "source": "2021年辽宁公务员考试《行测》第66题",
     "isImageQuestion": true,
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2021-未标注-67",
@@ -370,7 +391,9 @@
     "difficulty": "拔高",
     "source": "2021年辽宁公务员考试《行测》第67题",
     "isImageQuestion": true,
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2021-未标注-68",
@@ -406,7 +429,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2021年辽宁公务员考试《行测》第68题",
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2021-未标注-69",
@@ -442,7 +467,9 @@
     "difficulty": "拔高",
     "source": "2021年辽宁公务员考试《行测》第69题",
     "isImageQuestion": true,
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2021-未标注-70",
@@ -478,7 +505,9 @@
     "difficulty": "拔高",
     "source": "2021年辽宁公务员考试《行测》第70题",
     "isImageQuestion": true,
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2023-未标注-61",
@@ -496,7 +525,10 @@
     "difficulty": "拔高",
     "source": "2023年辽宁公务员考试《行测》第61题",
     "isImageQuestion": true,
-    "province": "辽宁"
+    "province": "辽宁",
+    "isAbnormal": true,
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2023-未标注-62",
@@ -532,7 +564,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2023年辽宁公务员考试《行测》第62题",
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2023-未标注-63",
@@ -565,7 +599,9 @@
     "difficulty": "拔高",
     "source": "2023年辽宁公务员考试《行测》第63题",
     "isImageQuestion": true,
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-liaoning-2023-未标注-64",
@@ -599,7 +635,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2023年辽宁公务员考试《行测》第64题",
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2023-未标注-65",
@@ -615,7 +653,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2023年辽宁公务员考试《行测》第65题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-liaoning-2023-未标注-66",
@@ -650,7 +690,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2023年辽宁公务员考试《行测》第66题",
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2023-未标注-67",
@@ -669,7 +711,10 @@
     "difficulty": "拔高",
     "source": "2023年辽宁公务员考试《行测》第67题",
     "isImageQuestion": true,
-    "province": "辽宁"
+    "province": "辽宁",
+    "isAbnormal": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-liaoning-2023-未标注-68",
@@ -705,7 +750,9 @@
     "difficulty": "拔高",
     "source": "2023年辽宁公务员考试《行测》第68题",
     "isImageQuestion": true,
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2023-未标注-69",
@@ -740,7 +787,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2023年辽宁公务员考试《行测》第69题",
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2023-未标注-70",
@@ -756,7 +805,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2023年辽宁公务员考试《行测》第70题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-liaoning-2024-未标注-61",
@@ -776,7 +827,10 @@
     "difficulty": "拔高",
     "source": "2024年辽宁公务员考试《行测》第61题",
     "isImageQuestion": true,
-    "province": "辽宁"
+    "province": "辽宁",
+    "isAbnormal": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-liaoning-2024-未标注-62",
@@ -812,7 +866,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2024年辽宁公务员考试《行测》第62题",
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2024-未标注-63",
@@ -832,7 +888,10 @@
     "difficulty": "拔高",
     "source": "2024年辽宁公务员考试《行测》第63题",
     "isImageQuestion": true,
-    "province": "辽宁"
+    "province": "辽宁",
+    "isAbnormal": true,
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2024-未标注-64",
@@ -867,7 +926,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2024年辽宁公务员考试《行测》第64题",
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2024-未标注-65",
@@ -902,7 +963,9 @@
     "difficulty": "拔高",
     "source": "2024年辽宁公务员考试《行测》第65题",
     "isImageQuestion": true,
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2024-未标注-66",
@@ -938,7 +1001,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2024年辽宁公务员考试《行测》第66题",
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2024-未标注-67",
@@ -974,7 +1039,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2024年辽宁公务员考试《行测》第67题",
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2024-未标注-68",
@@ -1010,7 +1077,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2024年辽宁公务员考试《行测》第68题",
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2024-未标注-69",
@@ -1030,7 +1099,10 @@
     "difficulty": "拔高",
     "source": "2024年辽宁公务员考试《行测》第69题",
     "isImageQuestion": true,
-    "province": "辽宁"
+    "province": "辽宁",
+    "isAbnormal": true,
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2024-未标注-70",
@@ -1064,7 +1136,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2024年辽宁公务员考试《行测》第70题",
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2025-未标注-61",
@@ -1100,7 +1174,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年辽宁公务员考试《行测》第61题",
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2025-未标注-62",
@@ -1134,7 +1210,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年辽宁公务员考试《行测》第62题",
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2025-未标注-63",
@@ -1169,7 +1247,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年辽宁公务员考试《行测》第63题",
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2025-未标注-64",
@@ -1204,7 +1284,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年辽宁公务员考试《行测》第64题",
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2025-未标注-65",
@@ -1239,7 +1321,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年辽宁公务员考试《行测》第65题",
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2025-未标注-66",
@@ -1269,7 +1353,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年辽宁公务员考试《行测》第66题",
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2025-未标注-67",
@@ -1303,7 +1389,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年辽宁公务员考试《行测》第67题",
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2025-未标注-68",
@@ -1339,7 +1427,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年辽宁公务员考试《行测》第68题",
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2025-未标注-69",
@@ -1373,7 +1463,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年辽宁公务员考试《行测》第69题",
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2025-未标注-70",
@@ -1409,6 +1501,8 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年辽宁公务员考试《行测》第70题",
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   }
 ]

@@ -32,7 +32,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2020年陕西公务员考试《行测》第67题",
-    "province": "陕西"
+    "province": "陕西",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shaanxi-2020-未标注-68",
@@ -66,7 +68,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2020年陕西公务员考试《行测》第68题",
-    "province": "陕西"
+    "province": "陕西",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shaanxi-2020-未标注-69",
@@ -102,7 +106,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2020年陕西公务员考试《行测》第69题",
-    "province": "陕西"
+    "province": "陕西",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shaanxi-2020-未标注-70",
@@ -137,7 +143,9 @@
     "difficulty": "拔高",
     "source": "2020年陕西公务员考试《行测》第70题",
     "isImageQuestion": true,
-    "province": "陕西"
+    "province": "陕西",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shaanxi-2021-未标注-91",
@@ -172,7 +180,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2021年陕西公务员考试《行测》第91题",
-    "province": "陕西"
+    "province": "陕西",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shaanxi-2021-未标注-92",
@@ -208,7 +218,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2021年陕西公务员考试《行测》第92题",
-    "province": "陕西"
+    "province": "陕西",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shaanxi-2021-未标注-93",
@@ -242,7 +254,10 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2021年陕西公务员考试《行测》第93题",
-    "province": "陕西"
+    "province": "陕西",
+    "isAbnormal": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shaanxi-2021-未标注-94",
@@ -279,7 +294,9 @@
     "difficulty": "拔高",
     "source": "2021年陕西公务员考试《行测》第94题",
     "isImageQuestion": true,
-    "province": "陕西"
+    "province": "陕西",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shaanxi-2021-未标注-95",
@@ -313,7 +330,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2021年陕西公务员考试《行测》第95题",
-    "province": "陕西"
+    "province": "陕西",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shaanxi-2021-未标注-96",
@@ -349,7 +368,9 @@
     "difficulty": "拔高",
     "source": "2021年陕西公务员考试《行测》第96题",
     "isImageQuestion": true,
-    "province": "陕西"
+    "province": "陕西",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shaanxi-2021-未标注-97",
@@ -385,7 +406,9 @@
     "difficulty": "拔高",
     "source": "2021年陕西公务员考试《行测》第97题",
     "isImageQuestion": true,
-    "province": "陕西"
+    "province": "陕西",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shaanxi-2021-未标注-98",
@@ -422,7 +445,9 @@
     "difficulty": "拔高",
     "source": "2021年陕西公务员考试《行测》第98题",
     "isImageQuestion": true,
-    "province": "陕西"
+    "province": "陕西",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shaanxi-2021-未标注-99",
@@ -457,7 +482,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2021年陕西公务员考试《行测》第99题",
-    "province": "陕西"
+    "province": "陕西",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shaanxi-2021-未标注-100",
@@ -492,7 +519,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2021年陕西公务员考试《行测》第100题",
-    "province": "陕西"
+    "province": "陕西",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shaanxi-2022-未标注-91",
@@ -527,7 +556,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2022年陕西公务员考试《行测》第91题",
-    "province": "陕西"
+    "province": "陕西",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shaanxi-2022-未标注-92",
@@ -562,7 +593,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2022年陕西公务员考试《行测》第92题",
-    "province": "陕西"
+    "province": "陕西",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shaanxi-2022-未标注-93",
@@ -598,7 +631,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2022年陕西公务员考试《行测》第93题",
-    "province": "陕西"
+    "province": "陕西",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shaanxi-2022-未标注-94",
@@ -634,7 +669,9 @@
     "difficulty": "拔高",
     "source": "2022年陕西公务员考试《行测》第94题",
     "isImageQuestion": true,
-    "province": "陕西"
+    "province": "陕西",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shaanxi-2022-未标注-95",
@@ -670,7 +707,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2022年陕西公务员考试《行测》第95题",
-    "province": "陕西"
+    "province": "陕西",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shaanxi-2022-未标注-96",
@@ -706,7 +745,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2022年陕西公务员考试《行测》第96题",
-    "province": "陕西"
+    "province": "陕西",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shaanxi-2022-未标注-97",
@@ -741,7 +782,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2022年陕西公务员考试《行测》第97题",
-    "province": "陕西"
+    "province": "陕西",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shaanxi-2022-未标注-98",
@@ -775,7 +818,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2022年陕西公务员考试《行测》第98题",
-    "province": "陕西"
+    "province": "陕西",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shaanxi-2022-未标注-99",
@@ -812,7 +857,9 @@
     "difficulty": "拔高",
     "source": "2022年陕西公务员考试《行测》第99题",
     "isImageQuestion": true,
-    "province": "陕西"
+    "province": "陕西",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shaanxi-2022-未标注-100",
@@ -848,7 +895,9 @@
     "difficulty": "拔高",
     "source": "2022年陕西公务员考试《行测》第100题",
     "isImageQuestion": true,
-    "province": "陕西"
+    "province": "陕西",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shaanxi-2022-未标注-101",
@@ -884,7 +933,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2022年陕西公务员考试《行测》第101题",
-    "province": "陕西"
+    "province": "陕西",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shaanxi-2022-未标注-102",
@@ -919,7 +970,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2022年陕西公务员考试《行测》第102题",
-    "province": "陕西"
+    "province": "陕西",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shaanxi-2022-未标注-103",
@@ -955,7 +1008,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2022年陕西公务员考试《行测》第103题",
-    "province": "陕西"
+    "province": "陕西",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shaanxi-2022-未标注-104",
@@ -991,7 +1046,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2022年陕西公务员考试《行测》第104题",
-    "province": "陕西"
+    "province": "陕西",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shaanxi-2022-未标注-105",
@@ -1026,7 +1083,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2022年陕西公务员考试《行测》第105题",
-    "province": "陕西"
+    "province": "陕西",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shaanxi-2022-未标注-106",
@@ -1061,7 +1120,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2022年陕西公务员考试《行测》第106题",
-    "province": "陕西"
+    "province": "陕西",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shaanxi-2022-未标注-107",
@@ -1096,7 +1157,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2022年陕西公务员考试《行测》第107题",
-    "province": "陕西"
+    "province": "陕西",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shaanxi-2022-未标注-108",
@@ -1116,7 +1179,9 @@
     "difficulty": "拔高",
     "source": "2022年陕西公务员考试《行测》第108题",
     "isImageQuestion": true,
-    "province": "陕西"
+    "province": "陕西",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shaanxi-2022-未标注-109",
@@ -1151,7 +1216,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2022年陕西公务员考试《行测》第109题",
-    "province": "陕西"
+    "province": "陕西",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shaanxi-2022-未标注-110",
@@ -1187,7 +1254,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2022年陕西公务员考试《行测》第110题",
-    "province": "陕西"
+    "province": "陕西",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shaanxi-2022-未标注-111",
@@ -1222,7 +1291,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2022年陕西公务员考试《行测》第111题",
-    "province": "陕西"
+    "province": "陕西",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shaanxi-2022-未标注-112",
@@ -1257,7 +1328,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2022年陕西公务员考试《行测》第112题",
-    "province": "陕西"
+    "province": "陕西",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shaanxi-2022-未标注-113",
@@ -1292,7 +1365,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2022年陕西公务员考试《行测》第113题",
-    "province": "陕西"
+    "province": "陕西",
+    "subModule": "经济利润",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shaanxi-2022-未标注-114",
@@ -1327,7 +1402,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2022年陕西公务员考试《行测》第114题",
-    "province": "陕西"
+    "province": "陕西",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shaanxi-2022-未标注-115",
@@ -1362,7 +1439,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2022年陕西公务员考试《行测》第115题",
-    "province": "陕西"
+    "province": "陕西",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shaanxi-2022-未标注-116",
@@ -1398,7 +1477,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2022年陕西公务员考试《行测》第116题",
-    "province": "陕西"
+    "province": "陕西",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shaanxi-2022-未标注-117",
@@ -1434,7 +1515,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2022年陕西公务员考试《行测》第117题",
-    "province": "陕西"
+    "province": "陕西",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shaanxi-2022-未标注-118",
@@ -1470,7 +1553,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2022年陕西公务员考试《行测》第118题",
-    "province": "陕西"
+    "province": "陕西",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shaanxi-2022-未标注-119",
@@ -1505,7 +1590,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2022年陕西公务员考试《行测》第119题",
-    "province": "陕西"
+    "province": "陕西",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shaanxi-2022-未标注-120",
@@ -1540,7 +1627,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2022年陕西公务员考试《行测》第120题",
-    "province": "陕西"
+    "province": "陕西",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shaanxi-2023-未标注-91",
@@ -1575,7 +1664,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2023年陕西公务员考试《行测》第91题",
-    "province": "陕西"
+    "province": "陕西",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shaanxi-2023-未标注-92",
@@ -1606,7 +1697,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2023年陕西公务员考试《行测》第92题",
-    "province": "陕西"
+    "province": "陕西",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shaanxi-2023-未标注-93",
@@ -1641,7 +1734,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2023年陕西公务员考试《行测》第93题",
-    "province": "陕西"
+    "province": "陕西",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shaanxi-2023-未标注-94",
@@ -1677,7 +1772,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2023年陕西公务员考试《行测》第94题",
-    "province": "陕西"
+    "province": "陕西",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shaanxi-2023-未标注-95",
@@ -1713,7 +1810,9 @@
     "difficulty": "拔高",
     "source": "2023年陕西公务员考试《行测》第95题",
     "isImageQuestion": true,
-    "province": "陕西"
+    "province": "陕西",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shaanxi-2023-未标注-96",
@@ -1749,7 +1848,9 @@
     "difficulty": "拔高",
     "source": "2023年陕西公务员考试《行测》第96题",
     "isImageQuestion": true,
-    "province": "陕西"
+    "province": "陕西",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shaanxi-2023-未标注-97",
@@ -1786,7 +1887,9 @@
     "difficulty": "拔高",
     "source": "2023年陕西公务员考试《行测》第97题",
     "isImageQuestion": true,
-    "province": "陕西"
+    "province": "陕西",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shaanxi-2023-未标注-98",
@@ -1822,7 +1925,9 @@
     "difficulty": "拔高",
     "source": "2023年陕西公务员考试《行测》第98题",
     "isImageQuestion": true,
-    "province": "陕西"
+    "province": "陕西",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shaanxi-2023-未标注-99",
@@ -1859,7 +1964,9 @@
     "difficulty": "拔高",
     "source": "2023年陕西公务员考试《行测》第99题",
     "isImageQuestion": true,
-    "province": "陕西"
+    "province": "陕西",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shaanxi-2023-未标注-100",
@@ -1895,7 +2002,9 @@
     "difficulty": "拔高",
     "source": "2023年陕西公务员考试《行测》第100题",
     "isImageQuestion": true,
-    "province": "陕西"
+    "province": "陕西",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shaanxi-2024-未标注-91",
@@ -1932,7 +2041,9 @@
     "difficulty": "拔高",
     "source": "2024年陕西公务员考试《行测》第91题",
     "isImageQuestion": true,
-    "province": "陕西"
+    "province": "陕西",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shaanxi-2024-未标注-92",
@@ -1967,7 +2078,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2024年陕西公务员考试《行测》第92题",
-    "province": "陕西"
+    "province": "陕西",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shaanxi-2024-未标注-93",
@@ -2002,7 +2115,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2024年陕西公务员考试《行测》第93题",
-    "province": "陕西"
+    "province": "陕西",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shaanxi-2024-未标注-94",
@@ -2039,7 +2154,9 @@
     "difficulty": "拔高",
     "source": "2024年陕西公务员考试《行测》第94题",
     "isImageQuestion": true,
-    "province": "陕西"
+    "province": "陕西",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shaanxi-2024-未标注-95",
@@ -2073,7 +2190,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2024年陕西公务员考试《行测》第95题",
-    "province": "陕西"
+    "province": "陕西",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shaanxi-2024-未标注-96",
@@ -2109,7 +2228,10 @@
     "difficulty": "拔高",
     "source": "2024年陕西公务员考试《行测》第96题",
     "isImageQuestion": true,
-    "province": "陕西"
+    "province": "陕西",
+    "isAbnormal": true,
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shaanxi-2024-未标注-97",
@@ -2129,7 +2251,10 @@
     "difficulty": "拔高",
     "source": "2024年陕西公务员考试《行测》第97题",
     "isImageQuestion": true,
-    "province": "陕西"
+    "province": "陕西",
+    "isAbnormal": true,
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shaanxi-2024-未标注-98",
@@ -2165,7 +2290,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2024年陕西公务员考试《行测》第98题",
-    "province": "陕西"
+    "province": "陕西",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shaanxi-2024-未标注-99",
@@ -2201,7 +2328,9 @@
     "difficulty": "拔高",
     "source": "2024年陕西公务员考试《行测》第99题",
     "isImageQuestion": true,
-    "province": "陕西"
+    "province": "陕西",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shaanxi-2024-未标注-100",
@@ -2220,7 +2349,10 @@
     "difficulty": "拔高",
     "source": "2024年陕西公务员考试《行测》第100题",
     "isImageQuestion": true,
-    "province": "陕西"
+    "province": "陕西",
+    "isAbnormal": true,
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shaanxi-2025-未标注-61",
@@ -2255,7 +2387,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年陕西公务员考试《行测》第61题",
-    "province": "陕西"
+    "province": "陕西",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shaanxi-2025-未标注-62",
@@ -2292,7 +2426,9 @@
     "difficulty": "拔高",
     "source": "2025年陕西公务员考试《行测》第62题",
     "isImageQuestion": true,
-    "province": "陕西"
+    "province": "陕西",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shaanxi-2025-未标注-63",
@@ -2308,7 +2444,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2025年陕西公务员考试《行测》第63题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shaanxi-2025-未标注-64",
@@ -2344,7 +2482,9 @@
     "difficulty": "拔高",
     "source": "2025年陕西公务员考试《行测》第64题",
     "isImageQuestion": true,
-    "province": "陕西"
+    "province": "陕西",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shaanxi-2025-未标注-65",
@@ -2380,7 +2520,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年陕西公务员考试《行测》第65题",
-    "province": "陕西"
+    "province": "陕西",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shaanxi-2025-未标注-66",
@@ -2415,7 +2557,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年陕西公务员考试《行测》第66题",
-    "province": "陕西"
+    "province": "陕西",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shaanxi-2025-未标注-67",
@@ -2450,7 +2594,9 @@
     "difficulty": "拔高",
     "source": "2025年陕西公务员考试《行测》第67题",
     "isImageQuestion": true,
-    "province": "陕西"
+    "province": "陕西",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shaanxi-2025-未标注-68",
@@ -2487,7 +2633,9 @@
     "difficulty": "拔高",
     "source": "2025年陕西公务员考试《行测》第68题",
     "isImageQuestion": true,
-    "province": "陕西"
+    "province": "陕西",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shaanxi-2025-未标注-69",
@@ -2521,7 +2669,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年陕西公务员考试《行测》第69题",
-    "province": "陕西"
+    "province": "陕西",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shaanxi-2025-未标注-70",
@@ -2556,6 +2706,8 @@
     "difficulty": "拔高",
     "source": "2025年陕西公务员考试《行测》第70题",
     "isImageQuestion": true,
-    "province": "陕西"
+    "province": "陕西",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   }
 ]

@@ -252,35 +252,35 @@ export const InterviewSession: React.FC<InterviewSessionProps> = ({
 
   return (
     <div className="mx-auto max-w-5xl space-y-4">
-      <header className="flex flex-col gap-3 rounded-2xl border border-slate-200/80 bg-white p-3.5 shadow-xs sm:flex-row sm:items-center sm:justify-between">
+      <header className="flex flex-col gap-3 rounded-2xl border border-slate-200/80 dark:border-slate-700/80 bg-white dark:bg-slate-900 p-3.5 shadow-xs sm:flex-row sm:items-center sm:justify-between">
         <div className="flex min-w-0 items-center gap-3">
           <button
             onClick={handleAbandon}
             disabled={phase === 'reviewing'}
-            className="inline-flex shrink-0 items-center gap-1 rounded-lg px-2 py-1.5 text-xs font-semibold text-slate-500 transition-colors hover:bg-slate-100 hover:text-slate-900 disabled:cursor-not-allowed disabled:opacity-40"
+            className="inline-flex shrink-0 items-center gap-1 rounded-lg px-2 py-1.5 text-xs font-semibold text-slate-500 dark:text-slate-400 transition-colors hover:bg-slate-100 dark:hover:bg-slate-800 hover:text-slate-900 dark:hover:text-slate-100 disabled:cursor-not-allowed disabled:opacity-40"
           >
             <ArrowLeft className="h-4 w-4" />
             退出
           </button>
-          <div className="min-w-0 border-l border-slate-200 pl-3">
+          <div className="min-w-0 border-l border-slate-200 dark:border-slate-700 pl-3">
             <div className="flex flex-wrap items-center gap-1.5">
               <InterviewCategoryBadge category={question.category} />
               <InterviewDifficultyBadge difficulty={question.difficulty} />
               <span className="font-mono text-[10px] text-slate-400">{question.id}</span>
             </div>
-            <p className="mt-1 line-clamp-1 text-sm font-bold text-slate-800">{question.title}</p>
+            <p className="mt-1 line-clamp-1 text-sm font-bold text-slate-800 dark:text-slate-200">{question.title}</p>
           </div>
         </div>
 
         <div className="flex shrink-0 items-center gap-2">
           {phase === 'ready' && (
-            <span className="inline-flex items-center gap-1.5 rounded-lg bg-slate-50 px-2.5 py-1.5 text-xs font-semibold text-slate-600 ring-1 ring-slate-200">
+            <span className="inline-flex items-center gap-1.5 rounded-lg bg-slate-50 dark:bg-slate-800 px-2.5 py-1.5 text-xs font-semibold text-slate-600 dark:text-slate-300 ring-1 ring-slate-200 dark:ring-slate-700">
               <Clock className="h-3.5 w-3.5" />
               思考 {question.thinkingSeconds}s · 作答 {question.answerSeconds}s
             </span>
           )}
           {phase === 'thinking' && (
-            <span className="inline-flex items-center gap-1.5 rounded-lg bg-amber-50 px-3 py-1.5 text-sm font-black tabular-nums text-amber-700 ring-1 ring-amber-200">
+            <span className="inline-flex items-center gap-1.5 rounded-lg bg-amber-50 dark:bg-amber-900/40 px-3 py-1.5 text-sm font-black tabular-nums text-amber-700 dark:text-amber-300 ring-1 ring-amber-200 dark:ring-amber-800">
               <Timer className="h-4 w-4" />
               {formatCountdown(thinkingLeft)}
             </span>
@@ -289,8 +289,8 @@ export const InterviewSession: React.FC<InterviewSessionProps> = ({
             <span
               className={`inline-flex items-center gap-1.5 rounded-lg px-3 py-1.5 text-sm font-black tabular-nums ring-1 ${
                 answerLeft <= 30
-                  ? 'animate-pulse bg-rose-50 text-rose-700 ring-rose-200'
-                  : 'bg-emerald-50 text-emerald-700 ring-emerald-200'
+                  ? 'animate-pulse bg-rose-50 dark:bg-rose-900/40 text-rose-700 dark:text-rose-300 ring-rose-200 dark:ring-rose-800'
+                  : 'bg-emerald-50 dark:bg-emerald-900/40 text-emerald-700 dark:text-emerald-300 ring-emerald-200 dark:ring-emerald-800'
               }`}
             >
               <Mic className="h-4 w-4" />
@@ -298,7 +298,7 @@ export const InterviewSession: React.FC<InterviewSessionProps> = ({
             </span>
           )}
           {phase === 'reviewing' && (
-            <span className="inline-flex items-center gap-1.5 rounded-lg bg-indigo-50 px-3 py-1.5 text-xs font-bold text-indigo-700 ring-1 ring-indigo-200">
+            <span className="inline-flex items-center gap-1.5 rounded-lg bg-emerald-50 dark:bg-emerald-900/40 px-3 py-1.5 text-xs font-bold text-emerald-700 dark:text-emerald-300 ring-1 ring-emerald-200 dark:ring-emerald-800">
               <Loader2 className="h-4 w-4 animate-spin" />
               评分中
             </span>
@@ -307,23 +307,23 @@ export const InterviewSession: React.FC<InterviewSessionProps> = ({
       </header>
 
       {phase === 'ready' && (
-        <section className="overflow-hidden rounded-2xl border border-slate-200/80 bg-white shadow-xs">
-          <div className="border-b border-slate-100 bg-slate-50/60 p-5 sm:p-6">
+        <section className="overflow-hidden rounded-2xl border border-slate-200/80 dark:border-slate-700/80 bg-white dark:bg-slate-900 shadow-xs">
+          <div className="border-b border-slate-100 dark:border-slate-800 bg-slate-50/60 dark:bg-slate-800/60 p-5 sm:p-6">
             <div className="flex flex-wrap items-center gap-1.5">
               <InterviewCategoryBadge category={question.category} />
               <InterviewDifficultyBadge difficulty={question.difficulty} />
-              <span className="rounded-md bg-white px-1.5 py-0.5 text-[10px] font-medium text-slate-500 ring-1 ring-slate-200">
+              <span className="rounded-md bg-white dark:bg-slate-900 px-1.5 py-0.5 text-[10px] font-medium text-slate-500 dark:text-slate-400 ring-1 ring-slate-200 dark:ring-slate-700">
                 {question.subType}
               </span>
             </div>
-            <h1 className="mt-3 text-lg font-bold leading-7 text-slate-900 sm:text-xl">{question.title}</h1>
+            <h1 className="mt-3 text-lg font-bold leading-7 text-slate-900 dark:text-slate-100 sm:text-xl">{question.title}</h1>
             {question.scene && (
-              <p className="mt-2 rounded-lg bg-white/80 p-2.5 text-xs leading-5 text-slate-600 ring-1 ring-slate-200">
-                <span className="font-bold text-slate-700">场景：</span>
+              <p className="mt-2 rounded-lg bg-white/80 dark:bg-slate-900/80 p-2.5 text-xs leading-5 text-slate-600 dark:text-slate-300 ring-1 ring-slate-200 dark:ring-slate-700">
+                <span className="font-bold text-slate-700 dark:text-slate-200">场景：</span>
                 {question.scene}
               </p>
             )}
-            <p className="mt-3 rounded-xl border border-indigo-100 bg-indigo-50/70 p-3.5 text-sm font-semibold leading-6 text-indigo-900">
+            <p className="mt-3 rounded-xl border border-emerald-100 dark:border-emerald-900 bg-emerald-50/70 dark:bg-emerald-900/40 p-3.5 text-sm font-semibold leading-6 text-emerald-900 dark:text-emerald-200">
               {question.task}
             </p>
           </div>
@@ -334,29 +334,29 @@ export const InterviewSession: React.FC<InterviewSessionProps> = ({
                 { step: '02', title: '搭三层', text: '观点 / 原因 / 做法，每层先用一句话点明。' },
                 { step: '03', title: '再开口', text: '录音会自动转写，说错不用停，继续往下说。' },
               ].map((item) => (
-                <div key={item.step} className="rounded-xl border border-slate-200 bg-slate-50/60 p-3">
-                  <span className="font-mono text-[10px] font-bold text-indigo-500">{item.step}</span>
-                  <p className="mt-1 text-xs font-bold text-slate-800">{item.title}</p>
-                  <p className="mt-1 text-[11px] leading-5 text-slate-500">{item.text}</p>
+                <div key={item.step} className="rounded-xl border border-slate-200 dark:border-slate-700 bg-slate-50/60 dark:bg-slate-800/60 p-3">
+                  <span className="font-mono text-[10px] font-bold text-emerald-600 dark:text-emerald-400">{item.step}</span>
+                  <p className="mt-1 text-xs font-bold text-slate-800 dark:text-slate-200">{item.title}</p>
+                  <p className="mt-1 text-[11px] leading-5 text-slate-500 dark:text-slate-400">{item.text}</p>
                 </div>
               ))}
             </div>
 
-            <div className="flex flex-col gap-3 rounded-xl border border-slate-200 p-3 sm:flex-row sm:items-center sm:justify-between">
+            <div className="flex flex-col gap-3 rounded-xl border border-slate-200 dark:border-slate-700 p-3 sm:flex-row sm:items-center sm:justify-between">
               <div>
-                <p className="text-xs font-bold text-slate-700">作答方式</p>
-                <p className="mt-0.5 text-[11px] text-slate-500">
+                <p className="text-xs font-bold text-slate-700 dark:text-slate-200">作答方式</p>
+                <p className="mt-0.5 text-[11px] text-slate-500 dark:text-slate-400">
                   {isSupported
                     ? '推荐语音作答并自动转写；也可随时切换手动输入。'
                     : '当前浏览器不支持语音识别，已切换为手动输入（推荐 Chrome / Edge）。'}
                 </p>
               </div>
-              <div className="inline-flex rounded-lg bg-slate-100 p-0.5">
+              <div className="inline-flex rounded-lg bg-slate-100 dark:bg-slate-800 p-0.5">
                 <button
                   onClick={() => changeInputMode('voice')}
                   disabled={!isSupported}
                   className={`inline-flex items-center gap-1 rounded-md px-2.5 py-1.5 text-xs font-semibold transition-colors ${
-                    inputMode === 'voice' ? 'bg-white text-slate-900 shadow-sm' : 'text-slate-500'
+                    inputMode === 'voice' ? 'bg-white dark:bg-slate-900 text-slate-900 dark:text-slate-100 shadow-sm' : 'text-slate-500 dark:text-slate-400'
                   } disabled:cursor-not-allowed disabled:opacity-40`}
                 >
                   <Mic className="h-3.5 w-3.5" />
@@ -365,7 +365,7 @@ export const InterviewSession: React.FC<InterviewSessionProps> = ({
                 <button
                   onClick={() => changeInputMode('typing')}
                   className={`inline-flex items-center gap-1 rounded-md px-2.5 py-1.5 text-xs font-semibold transition-colors ${
-                    inputMode === 'typing' ? 'bg-white text-slate-900 shadow-sm' : 'text-slate-500'
+                    inputMode === 'typing' ? 'bg-white dark:bg-slate-900 text-slate-900 dark:text-slate-100 shadow-sm' : 'text-slate-500 dark:text-slate-400'
                   }`}
                 >
                   <Keyboard className="h-3.5 w-3.5" />
@@ -377,14 +377,14 @@ export const InterviewSession: React.FC<InterviewSessionProps> = ({
             <div className="flex flex-col gap-2 sm:flex-row sm:justify-end">
               <button
                 onClick={beginAnswering}
-                className="inline-flex items-center justify-center gap-2 rounded-xl border border-slate-300 px-4 py-2.5 text-sm font-semibold text-slate-600 transition-colors hover:bg-slate-50"
+                className="inline-flex items-center justify-center gap-2 rounded-xl border border-slate-300 dark:border-slate-600 px-4 py-2.5 text-sm font-semibold text-slate-600 dark:text-slate-300 transition-colors hover:bg-slate-50 dark:hover:bg-slate-800"
               >
                 <Play className="h-4 w-4" />
                 跳过思考，直接作答
               </button>
               <button
                 onClick={beginThinking}
-                className="inline-flex items-center justify-center gap-2 rounded-xl bg-indigo-600 px-5 py-2.5 text-sm font-bold text-white shadow-sm transition-colors hover:bg-indigo-700"
+                className="inline-flex items-center justify-center gap-2 rounded-xl bg-emerald-600 px-5 py-2.5 text-sm font-bold text-white shadow-sm transition-colors hover:bg-emerald-700"
               >
                 <Timer className="h-4 w-4" />
                 开始思考（{question.thinkingSeconds} 秒）
@@ -395,7 +395,7 @@ export const InterviewSession: React.FC<InterviewSessionProps> = ({
       )}
       {phase === 'thinking' && (
         <div className="grid gap-4 lg:grid-cols-[1.15fr_1fr]">
-          <section className="flex flex-col justify-between overflow-hidden rounded-2xl bg-gradient-to-br from-indigo-600 via-indigo-700 to-violet-800 p-6 text-white shadow-lg shadow-indigo-900/15">
+          <section className="flex flex-col justify-between overflow-hidden rounded-2xl bg-gradient-to-br from-brand-ink via-brand-ink-soft to-emerald-800 p-6 text-white shadow-lg shadow-emerald-900/15">
             <div>
               <div className="flex items-center justify-between">
                 <span className="inline-flex items-center gap-1.5 rounded-full bg-white/15 px-2.5 py-1 text-[11px] font-bold text-white/90">
@@ -410,7 +410,7 @@ export const InterviewSession: React.FC<InterviewSessionProps> = ({
               <p className="mt-1 text-xs text-white/60">倒计时结束自动进入作答</p>
               <div className="mt-5 h-1.5 overflow-hidden rounded-full bg-white/15">
                 <div
-                  className="h-full rounded-full bg-amber-300 transition-[width] duration-300"
+                  className="h-full rounded-full bg-emerald-400 dark:bg-emerald-700 transition-[width] duration-300"
                   style={{ width: `${progress}%` }}
                 />
               </div>
@@ -426,31 +426,31 @@ export const InterviewSession: React.FC<InterviewSessionProps> = ({
             </div>
           </section>
 
-          <aside className="flex flex-col justify-between rounded-2xl border border-slate-200/80 bg-white p-5 shadow-xs">
+          <aside className="flex flex-col justify-between rounded-2xl border border-slate-200/80 dark:border-slate-700/80 bg-white dark:bg-slate-900 p-5 shadow-xs">
             <div>
-              <p className="text-xs font-bold uppercase tracking-wider text-indigo-600">快速搭骨架</p>
+              <p className="text-xs font-bold uppercase tracking-wider text-emerald-600 dark:text-emerald-400">快速搭骨架</p>
               <div className="mt-3 space-y-2.5">
                 {[
                   { icon: '01', title: '对象与身份', text: '我是谁？要对谁负责？先把关系说清。' },
                   { icon: '02', title: '核心矛盾', text: '一句话概括问题本质，别念题干。' },
                   { icon: '03', title: '三层结构', text: '态度 / 分析 / 措施，各留一个具体例子。' },
                 ].map((item) => (
-                  <div key={item.icon} className="flex gap-2.5 rounded-xl bg-slate-50 p-3">
-                    <span className="mt-0.5 font-mono text-[10px] font-bold text-indigo-400">{item.icon}</span>
+                  <div key={item.icon} className="flex gap-2.5 rounded-xl bg-slate-50 dark:bg-slate-800 p-3">
+                    <span className="mt-0.5 font-mono text-[10px] font-bold text-emerald-600 dark:text-emerald-400">{item.icon}</span>
                     <div>
-                      <p className="text-xs font-bold text-slate-800">{item.title}</p>
-                      <p className="mt-0.5 text-[11px] leading-5 text-slate-500">{item.text}</p>
+                      <p className="text-xs font-bold text-slate-800 dark:text-slate-200">{item.title}</p>
+                      <p className="mt-0.5 text-[11px] leading-5 text-slate-500 dark:text-slate-400">{item.text}</p>
                     </div>
                   </div>
                 ))}
               </div>
-              <p className="mt-3 rounded-lg border border-amber-100 bg-amber-50 px-3 py-2 text-[11px] leading-5 text-amber-800">
+              <p className="mt-3 rounded-lg border border-emerald-100 dark:border-emerald-900 bg-emerald-50 dark:bg-emerald-900/40 px-3 py-2 text-[11px] leading-5 text-emerald-800 dark:text-emerald-300">
                 提示：思考阶段不录音、不计入表达统计。想好开头一句，就可以开始。
               </p>
             </div>
             <button
               onClick={beginAnswering}
-              className="mt-5 inline-flex w-full items-center justify-center gap-2 rounded-xl bg-slate-900 px-4 py-2.5 text-sm font-bold text-white transition-colors hover:bg-slate-800"
+              className="mt-5 inline-flex w-full items-center justify-center gap-2 rounded-xl bg-slate-900 dark:bg-slate-700 px-4 py-2.5 text-sm font-bold text-white transition-colors hover:bg-slate-800 dark:hover:bg-slate-600"
             >
               <Mic className="h-4 w-4" />
               我准备好了，开始作答
@@ -461,24 +461,24 @@ export const InterviewSession: React.FC<InterviewSessionProps> = ({
       {phase === 'answering' && (
         <div className="grid gap-4 lg:grid-cols-[1fr_1.35fr]">
           <section className="space-y-4">
-            <div className="rounded-2xl border border-slate-200/80 bg-white p-5 shadow-xs">
+            <div className="rounded-2xl border border-slate-200/80 dark:border-slate-700/80 bg-white dark:bg-slate-900 p-5 shadow-xs">
               <div className="flex items-center justify-between">
-                <span className="text-[10px] font-bold uppercase tracking-wider text-indigo-600">当前题目</span>
+                <span className="text-[10px] font-bold uppercase tracking-wider text-emerald-600 dark:text-emerald-400">当前题目</span>
                 <span className="inline-flex items-center gap-1 text-[11px] font-semibold text-slate-400">
                   <Clock className="h-3 w-3" />
                   已用 {formatDuration(question.answerSeconds - answerLeft)} / {formatDuration(question.answerSeconds)}
                 </span>
               </div>
-              <h2 className="mt-2 text-base font-bold leading-6 text-slate-900">{question.title}</h2>
+              <h2 className="mt-2 text-base font-bold leading-6 text-slate-900 dark:text-slate-100">{question.title}</h2>
               {question.scene && (
-                <p className="mt-2 rounded-lg bg-slate-50 p-2.5 text-[11px] leading-5 text-slate-500">
+                <p className="mt-2 rounded-lg bg-slate-50 dark:bg-slate-800 p-2.5 text-[11px] leading-5 text-slate-500 dark:text-slate-400">
                   场景：{question.scene}
                 </p>
               )}
-              <p className="mt-3 rounded-lg border border-indigo-100 bg-indigo-50/60 p-3 text-xs font-semibold leading-5 text-indigo-900">
+              <p className="mt-3 rounded-lg border border-emerald-100 dark:border-emerald-900 bg-emerald-50/60 dark:bg-emerald-900/40 p-3 text-xs font-semibold leading-5 text-emerald-900 dark:text-emerald-200">
                 {question.task}
               </p>
-              <div className="mt-4 h-1.5 overflow-hidden rounded-full bg-slate-100">
+              <div className="mt-4 h-1.5 overflow-hidden rounded-full bg-slate-100 dark:bg-slate-800">
                 <div
                   className={`h-full rounded-full transition-[width] duration-300 ${
                     answerLeft <= 30 ? 'bg-rose-500' : 'bg-emerald-500'
@@ -488,9 +488,9 @@ export const InterviewSession: React.FC<InterviewSessionProps> = ({
               </div>
             </div>
 
-            <div className="rounded-2xl border border-slate-200/80 bg-slate-50/60 p-4">
-              <p className="text-[10px] font-bold uppercase tracking-wider text-slate-500">临场提醒</p>
-              <ul className="mt-2 space-y-1.5 text-[11px] leading-5 text-slate-600">
+            <div className="rounded-2xl border border-slate-200/80 dark:border-slate-700/80 bg-slate-50/60 dark:bg-slate-800/60 p-4">
+              <p className="text-[10px] font-bold uppercase tracking-wider text-slate-500 dark:text-slate-400">临场提醒</p>
+              <ul className="mt-2 space-y-1.5 text-[11px] leading-5 text-slate-600 dark:text-slate-300">
                 <li>· 先给结论，再解释原因，最后落到具体动作。</li>
                 <li>· 出现“然后”太多时，停半秒，换成“第一 / 第二”。</li>
                 <li>· 时间只剩 30 秒时，用一句话收束，不要硬开新点。</li>
@@ -502,13 +502,13 @@ export const InterviewSession: React.FC<InterviewSessionProps> = ({
             </div>
           </section>
 
-          <section className="flex min-h-[420px] flex-col overflow-hidden rounded-2xl border border-slate-200/80 bg-white shadow-xs">
-            <div className="flex flex-col gap-2 border-b border-slate-100 p-3 sm:flex-row sm:items-center sm:justify-between">
+          <section className="flex min-h-[420px] flex-col overflow-hidden rounded-2xl border border-slate-200/80 dark:border-slate-700/80 bg-white dark:bg-slate-900 shadow-xs">
+            <div className="flex flex-col gap-2 border-b border-slate-100 dark:border-slate-800 p-3 sm:flex-row sm:items-center sm:justify-between">
               <div className="flex items-center gap-2">
-                <span className="inline-flex items-center gap-1.5 rounded-lg bg-slate-50 px-2 py-1 text-[11px] font-bold text-slate-600 ring-1 ring-slate-200">
+                <span className="inline-flex items-center gap-1.5 rounded-lg bg-slate-50 dark:bg-slate-800 px-2 py-1 text-[11px] font-bold text-slate-600 dark:text-slate-300 ring-1 ring-slate-200 dark:ring-slate-700">
                   <span
                     className={`h-1.5 w-1.5 rounded-full ${
-                      inputMode === 'voice' && isListening ? 'animate-pulse bg-rose-500' : 'bg-slate-300'
+                      inputMode === 'voice' && isListening ? 'animate-pulse bg-rose-500' : 'bg-slate-300 dark:bg-slate-600'
                     }`}
                   />
                   {inputMode === 'typing'
@@ -520,19 +520,19 @@ export const InterviewSession: React.FC<InterviewSessionProps> = ({
                 {inputMode === 'voice' && isSupported && (
                   <button
                     onClick={() => (isListening ? stopSpeech() : startSpeech())}
-                    className="inline-flex items-center gap-1 rounded-lg px-2 py-1 text-[11px] font-semibold text-slate-500 transition-colors hover:bg-slate-100 hover:text-slate-800"
+                    className="inline-flex items-center gap-1 rounded-lg px-2 py-1 text-[11px] font-semibold text-slate-500 dark:text-slate-400 transition-colors hover:bg-slate-100 dark:hover:bg-slate-800 hover:text-slate-800 dark:hover:text-slate-200"
                   >
                     {isListening ? <Square className="h-3 w-3" /> : <Play className="h-3 w-3" />}
                     {isListening ? '暂停' : '继续'}
                   </button>
                 )}
               </div>
-              <div className="inline-flex rounded-lg bg-slate-100 p-0.5">
+              <div className="inline-flex rounded-lg bg-slate-100 dark:bg-slate-800 p-0.5">
                 <button
                   onClick={() => changeInputMode('voice')}
                   disabled={!isSupported}
                   className={`inline-flex items-center gap-1 rounded-md px-2 py-1 text-[11px] font-semibold transition-colors ${
-                    inputMode === 'voice' ? 'bg-white text-slate-900 shadow-sm' : 'text-slate-500'
+                    inputMode === 'voice' ? 'bg-white dark:bg-slate-900 text-slate-900 dark:text-slate-100 shadow-sm' : 'text-slate-500 dark:text-slate-400'
                   } disabled:cursor-not-allowed disabled:opacity-40`}
                 >
                   <Mic className="h-3 w-3" />
@@ -541,7 +541,7 @@ export const InterviewSession: React.FC<InterviewSessionProps> = ({
                 <button
                   onClick={() => changeInputMode('typing')}
                   className={`inline-flex items-center gap-1 rounded-md px-2 py-1 text-[11px] font-semibold transition-colors ${
-                    inputMode === 'typing' ? 'bg-white text-slate-900 shadow-sm' : 'text-slate-500'
+                    inputMode === 'typing' ? 'bg-white dark:bg-slate-900 text-slate-900 dark:text-slate-100 shadow-sm' : 'text-slate-500 dark:text-slate-400'
                   }`}
                 >
                   <Keyboard className="h-3 w-3" />
@@ -551,7 +551,7 @@ export const InterviewSession: React.FC<InterviewSessionProps> = ({
             </div>
 
             {speechError && inputMode === 'voice' && (
-              <div className="flex items-start gap-2 border-b border-amber-100 bg-amber-50 px-3 py-2 text-[11px] leading-5 text-amber-800">
+              <div className="flex items-start gap-2 border-b border-amber-100 dark:border-amber-900 bg-amber-50 dark:bg-amber-900/40 px-3 py-2 text-[11px] leading-5 text-amber-800 dark:text-amber-300">
                 <AlertCircle className="mt-0.5 h-3.5 w-3.5 shrink-0" />
                 <div>
                   <p>{speechError}</p>
@@ -574,9 +574,9 @@ export const InterviewSession: React.FC<InterviewSessionProps> = ({
                     ? '开始说话后，识别到的内容会实时出现在这里；也可以直接在此基础上修改。'
                     : '在这里输入你的作答内容……建议先写结论，再补原因和做法。'
                 }
-                className="min-h-[220px] w-full flex-1 resize-none rounded-xl border border-slate-200 bg-slate-50/70 p-3.5 text-sm leading-7 text-slate-800 outline-none transition-colors placeholder:text-slate-400 focus:border-indigo-300 focus:bg-white focus:ring-2 focus:ring-indigo-100"
+                className="min-h-[220px] w-full flex-1 resize-none rounded-xl border border-slate-200 dark:border-slate-700 bg-slate-50/70 dark:bg-slate-800/70 p-3.5 text-sm leading-7 text-slate-800 dark:text-slate-200 outline-none transition-colors placeholder:text-slate-400 focus:border-emerald-300 dark:focus:border-emerald-700 focus:bg-white dark:focus:bg-slate-700 focus:ring-2 focus:ring-emerald-100 dark:focus:ring-emerald-900"
               />
-              <div className="mt-2 min-h-[22px] rounded-lg bg-indigo-50/60 px-2.5 py-1 text-[11px] leading-5 text-indigo-600">
+              <div className="mt-2 min-h-[22px] rounded-lg bg-emerald-50/60 dark:bg-emerald-900/40 px-2.5 py-1 text-[11px] leading-5 text-emerald-600 dark:text-emerald-400">
                 {interimTranscript ? (
                   <span>
                     <span className="font-bold">识别中：</span>
@@ -594,9 +594,9 @@ export const InterviewSession: React.FC<InterviewSessionProps> = ({
               </div>
             </div>
 
-            <div className="flex flex-col gap-2 border-t border-slate-100 bg-slate-50/50 p-3 sm:flex-row sm:items-center sm:justify-between">
-              <p className="text-[11px] text-slate-500">
-                <span className={`font-bold tabular-nums ${charCount > ANSWER_MAX_CHARS * 0.9 ? 'text-rose-600' : 'text-slate-700'}`}>
+            <div className="flex flex-col gap-2 border-t border-slate-100 dark:border-slate-800 bg-slate-50/50 dark:bg-slate-800/50 p-3 sm:flex-row sm:items-center sm:justify-between">
+              <p className="text-[11px] text-slate-500 dark:text-slate-400">
+                <span className={`font-bold tabular-nums ${charCount > ANSWER_MAX_CHARS * 0.9 ? 'text-rose-600 dark:text-rose-400' : 'text-slate-700 dark:text-slate-200'}`}>
                   {charCount}
                 </span>
                 <span className="text-slate-400"> / {ANSWER_MAX_CHARS} 字</span>
@@ -605,7 +605,7 @@ export const InterviewSession: React.FC<InterviewSessionProps> = ({
               <div className="flex items-center gap-2">
                 <button
                   onClick={handleFinish}
-                  className="inline-flex items-center justify-center gap-1.5 rounded-xl bg-indigo-600 px-4 py-2 text-sm font-bold text-white shadow-sm transition-colors hover:bg-indigo-700"
+                  className="inline-flex items-center justify-center gap-1.5 rounded-xl bg-emerald-600 px-4 py-2 text-sm font-bold text-white shadow-sm transition-colors hover:bg-emerald-700"
                 >
                   <Send className="h-4 w-4" />
                   结束作答并评分
@@ -616,8 +616,8 @@ export const InterviewSession: React.FC<InterviewSessionProps> = ({
         </div>
       )}
       {phase === 'reviewing' && (
-        <section className="mx-auto max-w-2xl overflow-hidden rounded-2xl border border-slate-200/80 bg-white shadow-sm">
-          <div className="bg-gradient-to-br from-indigo-600 to-violet-700 px-6 py-8 text-center text-white">
+        <section className="mx-auto max-w-2xl overflow-hidden rounded-2xl border border-slate-200/80 dark:border-slate-700/80 bg-white dark:bg-slate-900 shadow-sm">
+          <div className="bg-gradient-to-br from-brand-ink to-emerald-800 px-6 py-8 text-center text-white">
             <div className="mx-auto flex h-12 w-12 items-center justify-center rounded-full bg-white/15 ring-1 ring-white/20">
               <Loader2 className="h-6 w-6 animate-spin" />
             </div>
@@ -630,13 +630,13 @@ export const InterviewSession: React.FC<InterviewSessionProps> = ({
               '按采分点逐条对照作答内容',
               '生成总分、亮点与改进建议',
             ].map((text, index) => (
-              <div key={text} className="flex items-center gap-2.5 rounded-xl bg-slate-50 px-3 py-2.5">
+              <div key={text} className="flex items-center gap-2.5 rounded-xl bg-slate-50 dark:bg-slate-800 px-3 py-2.5">
                 {index === 2 ? (
-                  <Loader2 className="h-4 w-4 shrink-0 animate-spin text-indigo-500" />
+                  <Loader2 className="h-4 w-4 shrink-0 animate-spin text-emerald-600 dark:text-emerald-400" />
                 ) : (
-                  <CheckCircle2 className="h-4 w-4 shrink-0 text-emerald-500" />
+                  <CheckCircle2 className="h-4 w-4 shrink-0 text-emerald-500 dark:text-emerald-400" />
                 )}
-                <span className="text-xs font-semibold text-slate-600">{text}</span>
+                <span className="text-xs font-semibold text-slate-600 dark:text-slate-300">{text}</span>
               </div>
             ))}
             <p className="pt-1 text-center text-[11px] leading-5 text-slate-400">

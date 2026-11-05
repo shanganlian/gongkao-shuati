@@ -15,7 +15,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2007年国家公务员考试《行测》未标注第64题",
-    "isImageQuestion": true
+    "isImageQuestion": true,
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2007-未标注-65",
@@ -32,7 +34,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2007年国家公务员考试《行测》未标注第65题",
-    "isImageQuestion": true
+    "isImageQuestion": true,
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2007-未标注-66",
@@ -66,7 +70,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2007年国家公务员考试《行测》未标注第66题"
+    "source": "2007年国家公务员考试《行测》未标注第66题",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2007-未标注-67",
@@ -101,7 +107,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2007年国家公务员考试《行测》未标注第67题"
+    "source": "2007年国家公务员考试《行测》未标注第67题",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2007-未标注-68",
@@ -136,7 +144,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2007年国家公务员考试《行测》未标注第68题"
+    "source": "2007年国家公务员考试《行测》未标注第68题",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2007-未标注-69",
@@ -171,7 +181,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2007年国家公务员考试《行测》未标注第69题"
+    "source": "2007年国家公务员考试《行测》未标注第69题",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2007-未标注-70",
@@ -206,7 +218,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2007年国家公务员考试《行测》未标注第70题"
+    "source": "2007年国家公务员考试《行测》未标注第70题",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2007-未标注-71",
@@ -241,7 +255,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2007年国家公务员考试《行测》未标注第71题"
+    "source": "2007年国家公务员考试《行测》未标注第71题",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2007-未标注-72",
@@ -276,7 +292,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2007年国家公务员考试《行测》未标注第72题"
+    "source": "2007年国家公务员考试《行测》未标注第72题",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2007-未标注-73",
@@ -311,7 +329,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2007年国家公务员考试《行测》未标注第73题"
+    "source": "2007年国家公务员考试《行测》未标注第73题",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2007-未标注-74",
@@ -345,7 +365,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2007年国家公务员考试《行测》未标注第74题"
+    "source": "2007年国家公务员考试《行测》未标注第74题",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2007-未标注-75",
@@ -380,7 +402,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2007年国家公务员考试《行测》未标注第75题"
+    "source": "2007年国家公务员考试《行测》未标注第75题",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2007-未标注-76",
@@ -415,7 +439,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2007年国家公务员考试《行测》未标注第76题"
+    "source": "2007年国家公务员考试《行测》未标注第76题",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2007-未标注-77",
@@ -450,7 +476,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2007年国家公务员考试《行测》未标注第77题"
+    "source": "2007年国家公务员考试《行测》未标注第77题",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2007-未标注-78",
@@ -484,7 +512,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2007年国家公务员考试《行测》未标注第78题"
+    "source": "2007年国家公务员考试《行测》未标注第78题",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2007-未标注-79",
@@ -519,7 +549,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2007年国家公务员考试《行测》未标注第79题"
+    "source": "2007年国家公务员考试《行测》未标注第79题",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2007-未标注-80",
@@ -554,7 +586,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2007年国家公务员考试《行测》未标注第80题"
+    "source": "2007年国家公务员考试《行测》未标注第80题",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2007-未标注-81",
@@ -589,7 +623,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2007年国家公务员考试《行测》未标注第81题"
+    "source": "2007年国家公务员考试《行测》未标注第81题",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2007-未标注-82",
@@ -624,7 +660,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2007年国家公务员考试《行测》未标注第82题"
+    "source": "2007年国家公务员考试《行测》未标注第82题",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2007-未标注-83",
@@ -659,7 +697,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2007年国家公务员考试《行测》未标注第83题"
+    "source": "2007年国家公务员考试《行测》未标注第83题",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2007-未标注-84",
@@ -694,7 +734,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2007年国家公务员考试《行测》未标注第84题"
+    "source": "2007年国家公务员考试《行测》未标注第84题",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2007-未标注-85",
@@ -729,7 +771,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2007年国家公务员考试《行测》未标注第85题"
+    "source": "2007年国家公务员考试《行测》未标注第85题",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2007-未标注-86",
@@ -763,7 +807,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2007年国家公务员考试《行测》未标注第86题"
+    "source": "2007年国家公务员考试《行测》未标注第86题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2007-未标注-87",
@@ -798,7 +844,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2007年国家公务员考试《行测》未标注第87题"
+    "source": "2007年国家公务员考试《行测》未标注第87题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2007-未标注-88",
@@ -832,7 +880,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2007年国家公务员考试《行测》未标注第88题"
+    "source": "2007年国家公务员考试《行测》未标注第88题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2007-未标注-89",
@@ -866,7 +916,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2007年国家公务员考试《行测》未标注第89题"
+    "source": "2007年国家公务员考试《行测》未标注第89题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2007-未标注-90",
@@ -901,7 +953,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2007年国家公务员考试《行测》未标注第90题"
+    "source": "2007年国家公务员考试《行测》未标注第90题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2007-未标注-91",
@@ -936,7 +990,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2007年国家公务员考试《行测》未标注第91题"
+    "source": "2007年国家公务员考试《行测》未标注第91题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2007-未标注-92",
@@ -971,7 +1027,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2007年国家公务员考试《行测》未标注第92题"
+    "source": "2007年国家公务员考试《行测》未标注第92题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2007-未标注-93",
@@ -1006,7 +1064,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2007年国家公务员考试《行测》未标注第93题"
+    "source": "2007年国家公务员考试《行测》未标注第93题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2007-未标注-94",
@@ -1040,7 +1100,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2007年国家公务员考试《行测》未标注第94题"
+    "source": "2007年国家公务员考试《行测》未标注第94题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2007-未标注-95",
@@ -1075,7 +1137,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2007年国家公务员考试《行测》未标注第95题"
+    "source": "2007年国家公务员考试《行测》未标注第95题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2008-未标注-61",
@@ -1092,7 +1156,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2008年国家公务员考试《行测》未标注第61题",
-    "isImageQuestion": true
+    "isImageQuestion": true,
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2008-未标注-62",
@@ -1110,7 +1176,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2008年国家公务员考试《行测》未标注第62题",
-    "isImageQuestion": true
+    "isImageQuestion": true,
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2008-未标注-63",
@@ -1129,7 +1197,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2008年国家公务员考试《行测》未标注第63题",
-    "isImageQuestion": true
+    "isImageQuestion": true,
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2008-未标注-64",
@@ -1146,7 +1216,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2008年国家公务员考试《行测》未标注第64题",
-    "isImageQuestion": true
+    "isImageQuestion": true,
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2008-未标注-65",
@@ -1165,7 +1237,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2008年国家公务员考试《行测》未标注第65题",
-    "isImageQuestion": true
+    "isImageQuestion": true,
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2008-未标注-66",
@@ -1200,7 +1274,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2008年国家公务员考试《行测》未标注第66题"
+    "source": "2008年国家公务员考试《行测》未标注第66题",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2008-未标注-67",
@@ -1235,7 +1311,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2008年国家公务员考试《行测》未标注第67题"
+    "source": "2008年国家公务员考试《行测》未标注第67题",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2008-未标注-68",
@@ -1270,7 +1348,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2008年国家公务员考试《行测》未标注第68题"
+    "source": "2008年国家公务员考试《行测》未标注第68题",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2008-未标注-69",
@@ -1305,7 +1385,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2008年国家公务员考试《行测》未标注第69题"
+    "source": "2008年国家公务员考试《行测》未标注第69题",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2008-未标注-70",
@@ -1339,7 +1421,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2008年国家公务员考试《行测》未标注第70题"
+    "source": "2008年国家公务员考试《行测》未标注第70题",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2008-未标注-71",
@@ -1374,7 +1458,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2008年国家公务员考试《行测》未标注第71题"
+    "source": "2008年国家公务员考试《行测》未标注第71题",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2008-未标注-72",
@@ -1409,7 +1495,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2008年国家公务员考试《行测》未标注第72题"
+    "source": "2008年国家公务员考试《行测》未标注第72题",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2008-未标注-73",
@@ -1444,7 +1532,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2008年国家公务员考试《行测》未标注第73题"
+    "source": "2008年国家公务员考试《行测》未标注第73题",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2008-未标注-74",
@@ -1479,7 +1569,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2008年国家公务员考试《行测》未标注第74题"
+    "source": "2008年国家公务员考试《行测》未标注第74题",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2008-未标注-75",
@@ -1513,7 +1605,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2008年国家公务员考试《行测》未标注第75题"
+    "source": "2008年国家公务员考试《行测》未标注第75题",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2008-未标注-76",
@@ -1548,7 +1642,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2008年国家公务员考试《行测》未标注第76题"
+    "source": "2008年国家公务员考试《行测》未标注第76题",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2008-未标注-77",
@@ -1583,7 +1679,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2008年国家公务员考试《行测》未标注第77题"
+    "source": "2008年国家公务员考试《行测》未标注第77题",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2008-未标注-78",
@@ -1618,7 +1716,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2008年国家公务员考试《行测》未标注第78题"
+    "source": "2008年国家公务员考试《行测》未标注第78题",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2008-未标注-79",
@@ -1653,7 +1753,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2008年国家公务员考试《行测》未标注第79题"
+    "source": "2008年国家公务员考试《行测》未标注第79题",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2008-未标注-80",
@@ -1688,7 +1790,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2008年国家公务员考试《行测》未标注第80题"
+    "source": "2008年国家公务员考试《行测》未标注第80题",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2008-未标注-81",
@@ -1722,7 +1826,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2008年国家公务员考试《行测》未标注第81题"
+    "source": "2008年国家公务员考试《行测》未标注第81题",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2008-未标注-82",
@@ -1756,7 +1862,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2008年国家公务员考试《行测》未标注第82题"
+    "source": "2008年国家公务员考试《行测》未标注第82题",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2008-未标注-83",
@@ -1790,7 +1898,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2008年国家公务员考试《行测》未标注第83题"
+    "source": "2008年国家公务员考试《行测》未标注第83题",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2008-未标注-84",
@@ -1825,7 +1935,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2008年国家公务员考试《行测》未标注第84题"
+    "source": "2008年国家公务员考试《行测》未标注第84题",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2008-未标注-85",
@@ -1859,7 +1971,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2008年国家公务员考试《行测》未标注第85题"
+    "source": "2008年国家公务员考试《行测》未标注第85题",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2008-未标注-86",
@@ -1893,7 +2007,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2008年国家公务员考试《行测》未标注第86题"
+    "source": "2008年国家公务员考试《行测》未标注第86题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2008-未标注-87",
@@ -1928,7 +2044,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2008年国家公务员考试《行测》未标注第87题"
+    "source": "2008年国家公务员考试《行测》未标注第87题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2008-未标注-88",
@@ -1962,7 +2080,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2008年国家公务员考试《行测》未标注第88题"
+    "source": "2008年国家公务员考试《行测》未标注第88题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2008-未标注-89",
@@ -1997,7 +2117,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2008年国家公务员考试《行测》未标注第89题"
+    "source": "2008年国家公务员考试《行测》未标注第89题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2008-未标注-90",
@@ -2032,7 +2154,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2008年国家公务员考试《行测》未标注第90题",
-    "isImageQuestion": true
+    "isImageQuestion": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2008-未标注-91",
@@ -2066,7 +2190,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2008年国家公务员考试《行测》未标注第91题"
+    "source": "2008年国家公务员考试《行测》未标注第91题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2008-未标注-92",
@@ -2101,7 +2227,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2008年国家公务员考试《行测》未标注第92题"
+    "source": "2008年国家公务员考试《行测》未标注第92题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2008-未标注-93",
@@ -2135,7 +2263,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2008年国家公务员考试《行测》未标注第93题"
+    "source": "2008年国家公务员考试《行测》未标注第93题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2008-未标注-94",
@@ -2170,7 +2300,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2008年国家公务员考试《行测》未标注第94题"
+    "source": "2008年国家公务员考试《行测》未标注第94题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2008-未标注-95",
@@ -2204,7 +2336,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2008年国家公务员考试《行测》未标注第95题"
+    "source": "2008年国家公务员考试《行测》未标注第95题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2009-未标注-66",
@@ -2222,7 +2356,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年国家公务员考试《行测》未标注第66题",
-    "isImageQuestion": true
+    "isImageQuestion": true,
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2009-未标注-67",
@@ -2239,7 +2375,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年国家公务员考试《行测》未标注第67题",
-    "isImageQuestion": true
+    "isImageQuestion": true,
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2009-未标注-68",
@@ -2256,7 +2394,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年国家公务员考试《行测》未标注第68题",
-    "isImageQuestion": true
+    "isImageQuestion": true,
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2009-未标注-69",
@@ -2275,7 +2415,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年国家公务员考试《行测》未标注第69题",
-    "isImageQuestion": true
+    "isImageQuestion": true,
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2009-未标注-70",
@@ -2293,7 +2435,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年国家公务员考试《行测》未标注第70题",
-    "isImageQuestion": true
+    "isImageQuestion": true,
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2009-未标注-71",
@@ -2328,7 +2472,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2009年国家公务员考试《行测》未标注第71题"
+    "source": "2009年国家公务员考试《行测》未标注第71题",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2009-未标注-72",
@@ -2363,7 +2509,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2009年国家公务员考试《行测》未标注第72题"
+    "source": "2009年国家公务员考试《行测》未标注第72题",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2009-未标注-73",
@@ -2398,7 +2546,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2009年国家公务员考试《行测》未标注第73题"
+    "source": "2009年国家公务员考试《行测》未标注第73题",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2009-未标注-74",
@@ -2433,7 +2583,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2009年国家公务员考试《行测》未标注第74题"
+    "source": "2009年国家公务员考试《行测》未标注第74题",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2009-未标注-75",
@@ -2468,7 +2620,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2009年国家公务员考试《行测》未标注第75题"
+    "source": "2009年国家公务员考试《行测》未标注第75题",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2009-未标注-76",
@@ -2503,7 +2657,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2009年国家公务员考试《行测》未标注第76题"
+    "source": "2009年国家公务员考试《行测》未标注第76题",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2009-未标注-77",
@@ -2538,7 +2694,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2009年国家公务员考试《行测》未标注第77题"
+    "source": "2009年国家公务员考试《行测》未标注第77题",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2009-未标注-78",
@@ -2573,7 +2731,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2009年国家公务员考试《行测》未标注第78题"
+    "source": "2009年国家公务员考试《行测》未标注第78题",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2009-未标注-79",
@@ -2607,7 +2767,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2009年国家公务员考试《行测》未标注第79题"
+    "source": "2009年国家公务员考试《行测》未标注第79题",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2009-未标注-80",
@@ -2641,7 +2803,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2009年国家公务员考试《行测》未标注第80题"
+    "source": "2009年国家公务员考试《行测》未标注第80题",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2009-未标注-81",
@@ -2675,7 +2839,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2009年国家公务员考试《行测》未标注第81题"
+    "source": "2009年国家公务员考试《行测》未标注第81题",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2009-未标注-82",
@@ -2710,7 +2876,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2009年国家公务员考试《行测》未标注第82题"
+    "source": "2009年国家公务员考试《行测》未标注第82题",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2009-未标注-83",
@@ -2745,7 +2913,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2009年国家公务员考试《行测》未标注第83题"
+    "source": "2009年国家公务员考试《行测》未标注第83题",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2009-未标注-84",
@@ -2780,7 +2950,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2009年国家公务员考试《行测》未标注第84题"
+    "source": "2009年国家公务员考试《行测》未标注第84题",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2009-未标注-85",
@@ -2815,7 +2987,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2009年国家公务员考试《行测》未标注第85题"
+    "source": "2009年国家公务员考试《行测》未标注第85题",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2009-未标注-86",
@@ -2850,7 +3024,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2009年国家公务员考试《行测》未标注第86题"
+    "source": "2009年国家公务员考试《行测》未标注第86题",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2009-未标注-87",
@@ -2884,7 +3060,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2009年国家公务员考试《行测》未标注第87题"
+    "source": "2009年国家公务员考试《行测》未标注第87题",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2009-未标注-88",
@@ -2919,7 +3097,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2009年国家公务员考试《行测》未标注第88题"
+    "source": "2009年国家公务员考试《行测》未标注第88题",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2009-未标注-89",
@@ -2952,7 +3132,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2009年国家公务员考试《行测》未标注第89题"
+    "source": "2009年国家公务员考试《行测》未标注第89题",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2009-未标注-90",
@@ -2986,7 +3168,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2009年国家公务员考试《行测》未标注第90题"
+    "source": "2009年国家公务员考试《行测》未标注第90题",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2009-未标注-91",
@@ -3021,7 +3205,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2009年国家公务员考试《行测》未标注第91题"
+    "source": "2009年国家公务员考试《行测》未标注第91题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2009-未标注-92",
@@ -3057,7 +3243,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年国家公务员考试《行测》未标注第92题",
-    "isImageQuestion": true
+    "isImageQuestion": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2009-未标注-93",
@@ -3091,7 +3279,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2009年国家公务员考试《行测》未标注第93题"
+    "source": "2009年国家公务员考试《行测》未标注第93题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2009-未标注-94",
@@ -3124,7 +3314,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2009年国家公务员考试《行测》未标注第94题"
+    "source": "2009年国家公务员考试《行测》未标注第94题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2009-未标注-95",
@@ -3158,7 +3350,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2009年国家公务员考试《行测》未标注第95题"
+    "source": "2009年国家公务员考试《行测》未标注第95题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2009-未标注-96",
@@ -3192,7 +3386,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2009年国家公务员考试《行测》未标注第96题"
+    "source": "2009年国家公务员考试《行测》未标注第96题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2009-未标注-97",
@@ -3226,7 +3422,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2009年国家公务员考试《行测》未标注第97题"
+    "source": "2009年国家公务员考试《行测》未标注第97题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2009-未标注-98",
@@ -3260,7 +3458,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2009年国家公务员考试《行测》未标注第98题"
+    "source": "2009年国家公务员考试《行测》未标注第98题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2009-未标注-99",
@@ -3295,7 +3495,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2009年国家公务员考试《行测》未标注第99题"
+    "source": "2009年国家公务员考试《行测》未标注第99题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2009-未标注-100",
@@ -3329,7 +3531,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2009年国家公务员考试《行测》未标注第100题"
+    "source": "2009年国家公务员考试《行测》未标注第100题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2010-未标注-56",
@@ -3347,7 +3551,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年国家公务员考试《行测》未标注第56题",
-    "isImageQuestion": true
+    "isImageQuestion": true,
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2010-未标注-57",
@@ -3364,7 +3570,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年国家公务员考试《行测》未标注第57题",
-    "isImageQuestion": true
+    "isImageQuestion": true,
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2010-未标注-58",
@@ -3383,7 +3591,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年国家公务员考试《行测》未标注第58题",
-    "isImageQuestion": true
+    "isImageQuestion": true,
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2010-未标注-59",
@@ -3401,7 +3611,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年国家公务员考试《行测》未标注第59题",
-    "isImageQuestion": true
+    "isImageQuestion": true,
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2010-未标注-60",
@@ -3420,7 +3632,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年国家公务员考试《行测》未标注第60题",
-    "isImageQuestion": true
+    "isImageQuestion": true,
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2010-未标注-61",
@@ -3438,7 +3652,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年国家公务员考试《行测》未标注第61题",
-    "isImageQuestion": true
+    "isImageQuestion": true,
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2010-未标注-62",
@@ -3457,7 +3673,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年国家公务员考试《行测》未标注第62题",
-    "isImageQuestion": true
+    "isImageQuestion": true,
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2010-未标注-63",
@@ -3476,7 +3694,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年国家公务员考试《行测》未标注第63题",
-    "isImageQuestion": true
+    "isImageQuestion": true,
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2010-未标注-64",
@@ -3495,7 +3715,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年国家公务员考试《行测》未标注第64题",
-    "isImageQuestion": true
+    "isImageQuestion": true,
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2010-未标注-65",
@@ -3513,7 +3735,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年国家公务员考试《行测》未标注第65题",
-    "isImageQuestion": true
+    "isImageQuestion": true,
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2010-未标注-66",
@@ -3547,7 +3771,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2010年国家公务员考试《行测》未标注第66题"
+    "source": "2010年国家公务员考试《行测》未标注第66题",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2010-未标注-67",
@@ -3581,7 +3807,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2010年国家公务员考试《行测》未标注第67题"
+    "source": "2010年国家公务员考试《行测》未标注第67题",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2010-未标注-68",
@@ -3615,7 +3843,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2010年国家公务员考试《行测》未标注第68题"
+    "source": "2010年国家公务员考试《行测》未标注第68题",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2010-未标注-69",
@@ -3649,7 +3879,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2010年国家公务员考试《行测》未标注第69题"
+    "source": "2010年国家公务员考试《行测》未标注第69题",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2010-未标注-70",
@@ -3684,7 +3916,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2010年国家公务员考试《行测》未标注第70题"
+    "source": "2010年国家公务员考试《行测》未标注第70题",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2010-未标注-71",
@@ -3718,7 +3952,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2010年国家公务员考试《行测》未标注第71题"
+    "source": "2010年国家公务员考试《行测》未标注第71题",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2010-未标注-72",
@@ -3753,7 +3989,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2010年国家公务员考试《行测》未标注第72题"
+    "source": "2010年国家公务员考试《行测》未标注第72题",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2010-未标注-73",
@@ -3787,7 +4025,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2010年国家公务员考试《行测》未标注第73题"
+    "source": "2010年国家公务员考试《行测》未标注第73题",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2010-未标注-74",
@@ -3821,7 +4061,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2010年国家公务员考试《行测》未标注第74题"
+    "source": "2010年国家公务员考试《行测》未标注第74题",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2010-未标注-75",
@@ -3855,7 +4097,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2010年国家公务员考试《行测》未标注第75题"
+    "source": "2010年国家公务员考试《行测》未标注第75题",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2010-未标注-76",
@@ -3890,7 +4134,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2010年国家公务员考试《行测》未标注第76题"
+    "source": "2010年国家公务员考试《行测》未标注第76题",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2010-未标注-77",
@@ -3925,7 +4171,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2010年国家公务员考试《行测》未标注第77题"
+    "source": "2010年国家公务员考试《行测》未标注第77题",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2010-未标注-78",
@@ -3959,7 +4207,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2010年国家公务员考试《行测》未标注第78题"
+    "source": "2010年国家公务员考试《行测》未标注第78题",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2010-未标注-79",
@@ -3992,7 +4242,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2010年国家公务员考试《行测》未标注第79题"
+    "source": "2010年国家公务员考试《行测》未标注第79题",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2010-未标注-80",
@@ -4026,7 +4278,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2010年国家公务员考试《行测》未标注第80题"
+    "source": "2010年国家公务员考试《行测》未标注第80题",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2010-未标注-81",
@@ -4061,7 +4315,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2010年国家公务员考试《行测》未标注第81题"
+    "source": "2010年国家公务员考试《行测》未标注第81题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2010-未标注-82",
@@ -4095,7 +4351,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2010年国家公务员考试《行测》未标注第82题"
+    "source": "2010年国家公务员考试《行测》未标注第82题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2010-未标注-83",
@@ -4130,7 +4388,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2010年国家公务员考试《行测》未标注第83题"
+    "source": "2010年国家公务员考试《行测》未标注第83题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2010-未标注-84",
@@ -4165,7 +4425,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2010年国家公务员考试《行测》未标注第84题"
+    "source": "2010年国家公务员考试《行测》未标注第84题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2010-未标注-85",
@@ -4200,7 +4462,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2010年国家公务员考试《行测》未标注第85题"
+    "source": "2010年国家公务员考试《行测》未标注第85题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2010-未标注-86",
@@ -4234,7 +4498,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2010年国家公务员考试《行测》未标注第86题"
+    "source": "2010年国家公务员考试《行测》未标注第86题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2010-未标注-87",
@@ -4268,7 +4534,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2010年国家公务员考试《行测》未标注第87题"
+    "source": "2010年国家公务员考试《行测》未标注第87题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2010-未标注-88",
@@ -4303,7 +4571,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2010年国家公务员考试《行测》未标注第88题"
+    "source": "2010年国家公务员考试《行测》未标注第88题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2010-未标注-89",
@@ -4338,7 +4608,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2010年国家公务员考试《行测》未标注第89题"
+    "source": "2010年国家公务员考试《行测》未标注第89题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2010-未标注-90",
@@ -4372,7 +4644,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2010年国家公务员考试《行测》未标注第90题"
+    "source": "2010年国家公务员考试《行测》未标注第90题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2011-未标注-81",
@@ -4390,7 +4664,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年国家公务员考试《行测》未标注第81题",
-    "isImageQuestion": true
+    "isImageQuestion": true,
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2011-未标注-82",
@@ -4409,7 +4685,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年国家公务员考试《行测》未标注第82题",
-    "isImageQuestion": true
+    "isImageQuestion": true,
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2011-未标注-83",
@@ -4427,7 +4705,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年国家公务员考试《行测》未标注第83题",
-    "isImageQuestion": true
+    "isImageQuestion": true,
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2011-未标注-84",
@@ -4445,7 +4725,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年国家公务员考试《行测》未标注第84题",
-    "isImageQuestion": true
+    "isImageQuestion": true,
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2011-未标注-85",
@@ -4462,7 +4744,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年国家公务员考试《行测》未标注第85题",
-    "isImageQuestion": true
+    "isImageQuestion": true,
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2011-未标注-86",
@@ -4497,7 +4781,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年国家公务员考试《行测》未标注第86题",
-    "isImageQuestion": true
+    "isImageQuestion": true,
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2011-未标注-87",
@@ -4533,7 +4819,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年国家公务员考试《行测》未标注第87题",
-    "isImageQuestion": true
+    "isImageQuestion": true,
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2011-未标注-88",
@@ -4568,7 +4856,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年国家公务员考试《行测》未标注第88题",
-    "isImageQuestion": true
+    "isImageQuestion": true,
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2011-未标注-89",
@@ -4603,7 +4893,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年国家公务员考试《行测》未标注第89题",
-    "isImageQuestion": true
+    "isImageQuestion": true,
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2011-未标注-90",
@@ -4638,7 +4930,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年国家公务员考试《行测》未标注第90题",
-    "isImageQuestion": true
+    "isImageQuestion": true,
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2011-未标注-91",
@@ -4673,7 +4967,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2011年国家公务员考试《行测》未标注第91题"
+    "source": "2011年国家公务员考试《行测》未标注第91题",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2011-未标注-92",
@@ -4708,7 +5004,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2011年国家公务员考试《行测》未标注第92题"
+    "source": "2011年国家公务员考试《行测》未标注第92题",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2011-未标注-93",
@@ -4743,7 +5041,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2011年国家公务员考试《行测》未标注第93题"
+    "source": "2011年国家公务员考试《行测》未标注第93题",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2011-未标注-94",
@@ -4778,7 +5078,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2011年国家公务员考试《行测》未标注第94题"
+    "source": "2011年国家公务员考试《行测》未标注第94题",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2011-未标注-95",
@@ -4813,7 +5115,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2011年国家公务员考试《行测》未标注第95题"
+    "source": "2011年国家公务员考试《行测》未标注第95题",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2011-未标注-96",
@@ -4848,7 +5152,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2011年国家公务员考试《行测》未标注第96题"
+    "source": "2011年国家公务员考试《行测》未标注第96题",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2011-未标注-97",
@@ -4881,7 +5187,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2011年国家公务员考试《行测》未标注第97题"
+    "source": "2011年国家公务员考试《行测》未标注第97题",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2011-未标注-98",
@@ -4916,7 +5224,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2011年国家公务员考试《行测》未标注第98题"
+    "source": "2011年国家公务员考试《行测》未标注第98题",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2011-未标注-99",
@@ -4951,7 +5261,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2011年国家公务员考试《行测》未标注第99题"
+    "source": "2011年国家公务员考试《行测》未标注第99题",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2011-未标注-100",
@@ -4986,7 +5298,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2011年国家公务员考试《行测》未标注第100题"
+    "source": "2011年国家公务员考试《行测》未标注第100题",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2011-未标注-101",
@@ -5021,7 +5335,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2011年国家公务员考试《行测》未标注第101题"
+    "source": "2011年国家公务员考试《行测》未标注第101题",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2011-未标注-102",
@@ -5055,7 +5371,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2011年国家公务员考试《行测》未标注第102题"
+    "source": "2011年国家公务员考试《行测》未标注第102题",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2011-未标注-103",
@@ -5090,7 +5408,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2011年国家公务员考试《行测》未标注第103题"
+    "source": "2011年国家公务员考试《行测》未标注第103题",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2011-未标注-104",
@@ -5124,7 +5444,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2011年国家公务员考试《行测》未标注第104题"
+    "source": "2011年国家公务员考试《行测》未标注第104题",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2011-未标注-105",
@@ -5159,7 +5481,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2011年国家公务员考试《行测》未标注第105题"
+    "source": "2011年国家公务员考试《行测》未标注第105题",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2011-未标注-106",
@@ -5194,7 +5518,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2011年国家公务员考试《行测》未标注第106题"
+    "source": "2011年国家公务员考试《行测》未标注第106题",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2011-未标注-107",
@@ -5229,7 +5555,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2011年国家公务员考试《行测》未标注第107题"
+    "source": "2011年国家公务员考试《行测》未标注第107题",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2011-未标注-108",
@@ -5264,7 +5592,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2011年国家公务员考试《行测》未标注第108题"
+    "source": "2011年国家公务员考试《行测》未标注第108题",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2011-未标注-109",
@@ -5299,7 +5629,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2011年国家公务员考试《行测》未标注第109题"
+    "source": "2011年国家公务员考试《行测》未标注第109题",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2011-未标注-110",
@@ -5333,7 +5665,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2011年国家公务员考试《行测》未标注第110题"
+    "source": "2011年国家公务员考试《行测》未标注第110题",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2011-未标注-111",
@@ -5368,7 +5702,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2011年国家公务员考试《行测》未标注第111题"
+    "source": "2011年国家公务员考试《行测》未标注第111题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2011-未标注-112",
@@ -5403,7 +5739,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2011年国家公务员考试《行测》未标注第112题"
+    "source": "2011年国家公务员考试《行测》未标注第112题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2011-未标注-113",
@@ -5438,7 +5776,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2011年国家公务员考试《行测》未标注第113题"
+    "source": "2011年国家公务员考试《行测》未标注第113题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2011-未标注-114",
@@ -5473,7 +5813,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2011年国家公务员考试《行测》未标注第114题"
+    "source": "2011年国家公务员考试《行测》未标注第114题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2011-未标注-115",
@@ -5508,7 +5850,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2011年国家公务员考试《行测》未标注第115题"
+    "source": "2011年国家公务员考试《行测》未标注第115题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2011-未标注-116",
@@ -5542,7 +5886,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2011年国家公务员考试《行测》未标注第116题"
+    "source": "2011年国家公务员考试《行测》未标注第116题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2011-未标注-117",
@@ -5577,7 +5923,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2011年国家公务员考试《行测》未标注第117题"
+    "source": "2011年国家公务员考试《行测》未标注第117题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2011-未标注-118",
@@ -5612,7 +5960,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2011年国家公务员考试《行测》未标注第118题"
+    "source": "2011年国家公务员考试《行测》未标注第118题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2011-未标注-119",
@@ -5647,7 +5997,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年国家公务员考试《行测》未标注第119题",
-    "isImageQuestion": true
+    "isImageQuestion": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2011-未标注-120",
@@ -5681,7 +6033,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2011年国家公务员考试《行测》未标注第120题"
+    "source": "2011年国家公务员考试《行测》未标注第120题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2012-未标注-81",
@@ -5700,7 +6054,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年国家公务员考试《行测》未标注第81题",
-    "isImageQuestion": true
+    "isImageQuestion": true,
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2012-未标注-82",
@@ -5718,7 +6074,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年国家公务员考试《行测》未标注第82题",
-    "isImageQuestion": true
+    "isImageQuestion": true,
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2012-未标注-83",
@@ -5736,7 +6094,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年国家公务员考试《行测》未标注第83题",
-    "isImageQuestion": true
+    "isImageQuestion": true,
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2012-未标注-84",
@@ -5754,7 +6114,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年国家公务员考试《行测》未标注第84题",
-    "isImageQuestion": true
+    "isImageQuestion": true,
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2012-未标注-85",
@@ -5771,7 +6133,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年国家公务员考试《行测》未标注第85题",
-    "isImageQuestion": true
+    "isImageQuestion": true,
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2012-未标注-86",
@@ -5806,7 +6170,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年国家公务员考试《行测》未标注第86题",
-    "isImageQuestion": true
+    "isImageQuestion": true,
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2012-未标注-87",
@@ -5841,7 +6207,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年国家公务员考试《行测》未标注第87题",
-    "isImageQuestion": true
+    "isImageQuestion": true,
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2012-未标注-88",
@@ -5877,7 +6245,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年国家公务员考试《行测》未标注第88题",
-    "isImageQuestion": true
+    "isImageQuestion": true,
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2012-未标注-89",
@@ -5913,7 +6283,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年国家公务员考试《行测》未标注第89题",
-    "isImageQuestion": true
+    "isImageQuestion": true,
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2012-未标注-90",
@@ -5948,7 +6320,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年国家公务员考试《行测》未标注第90题",
-    "isImageQuestion": true
+    "isImageQuestion": true,
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2012-未标注-91",
@@ -5982,7 +6356,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2012年国家公务员考试《行测》未标注第91题"
+    "source": "2012年国家公务员考试《行测》未标注第91题",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2012-未标注-92",
@@ -6017,7 +6393,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2012年国家公务员考试《行测》未标注第92题"
+    "source": "2012年国家公务员考试《行测》未标注第92题",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2012-未标注-93",
@@ -6051,7 +6429,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2012年国家公务员考试《行测》未标注第93题"
+    "source": "2012年国家公务员考试《行测》未标注第93题",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2012-未标注-94",
@@ -6085,7 +6465,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2012年国家公务员考试《行测》未标注第94题"
+    "source": "2012年国家公务员考试《行测》未标注第94题",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2012-未标注-95",
@@ -6120,7 +6502,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2012年国家公务员考试《行测》未标注第95题"
+    "source": "2012年国家公务员考试《行测》未标注第95题",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2012-未标注-96",
@@ -6154,7 +6538,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2012年国家公务员考试《行测》未标注第96题"
+    "source": "2012年国家公务员考试《行测》未标注第96题",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2012-未标注-97",
@@ -6189,7 +6575,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2012年国家公务员考试《行测》未标注第97题"
+    "source": "2012年国家公务员考试《行测》未标注第97题",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2012-未标注-98",
@@ -6224,7 +6612,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2012年国家公务员考试《行测》未标注第98题"
+    "source": "2012年国家公务员考试《行测》未标注第98题",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2012-未标注-99",
@@ -6258,7 +6648,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2012年国家公务员考试《行测》未标注第99题"
+    "source": "2012年国家公务员考试《行测》未标注第99题",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2012-未标注-100",
@@ -6292,7 +6684,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2012年国家公务员考试《行测》未标注第100题"
+    "source": "2012年国家公务员考试《行测》未标注第100题",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2012-未标注-101",
@@ -6327,7 +6721,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2012年国家公务员考试《行测》未标注第101题"
+    "source": "2012年国家公务员考试《行测》未标注第101题",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2012-未标注-102",
@@ -6361,7 +6757,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2012年国家公务员考试《行测》未标注第102题"
+    "source": "2012年国家公务员考试《行测》未标注第102题",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2012-未标注-103",
@@ -6395,6 +6793,8 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2012年国家公务员考试《行测》未标注第103题"
+    "source": "2012年国家公务员考试《行测》未标注第103题",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   }
 ]

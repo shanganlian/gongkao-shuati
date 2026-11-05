@@ -33,7 +33,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2017年浙江公务员考试《行测》（A卷）第46题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2017-A卷-47",
@@ -68,7 +70,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2017年浙江公务员考试《行测》（A卷）第47题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2017-A卷-48",
@@ -104,7 +108,9 @@
     "difficulty": "拔高",
     "source": "2017年浙江公务员考试《行测》（A卷）第48题",
     "isImageQuestion": true,
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2017-A卷-49",
@@ -140,7 +146,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2017年浙江公务员考试《行测》（A卷）第49题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2017-A卷-50",
@@ -176,7 +184,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2017年浙江公务员考试《行测》（A卷）第50题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2017-B卷-1",
@@ -211,7 +221,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2017年浙江公务员考试《行测》（B卷）第1题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2017-B卷-2",
@@ -245,7 +257,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2017年浙江公务员考试《行测》（B卷）第2题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2017-B卷-3",
@@ -280,7 +294,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2017年浙江公务员考试《行测》（B卷）第3题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2017-B卷-4",
@@ -317,7 +333,9 @@
     "difficulty": "拔高",
     "source": "2017年浙江公务员考试《行测》（B卷）第4题",
     "isImageQuestion": true,
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2017-B卷-5",
@@ -353,7 +371,9 @@
     "difficulty": "拔高",
     "source": "2017年浙江公务员考试《行测》（B卷）第5题",
     "isImageQuestion": true,
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2017-B卷-6",
@@ -387,7 +407,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2017年浙江公务员考试《行测》（B卷）第6题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2017-B卷-7",
@@ -423,7 +445,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2017年浙江公务员考试《行测》（B卷）第7题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2017-B卷-8",
@@ -457,7 +481,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2017年浙江公务员考试《行测》（B卷）第8题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2017-B卷-9",
@@ -493,7 +519,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2017年浙江公务员考试《行测》（B卷）第9题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2017-B卷-10",
@@ -529,7 +557,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2017年浙江公务员考试《行测》（B卷）第10题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2017-B卷-11",
@@ -564,7 +594,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2017年浙江公务员考试《行测》（B卷）第11题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2017-B卷-12",
@@ -601,7 +633,9 @@
     "difficulty": "拔高",
     "source": "2017年浙江公务员考试《行测》（B卷）第12题",
     "isImageQuestion": true,
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2017-B卷-13",
@@ -635,7 +669,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2017年浙江公务员考试《行测》（B卷）第13题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2017-B卷-14",
@@ -671,7 +707,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2017年浙江公务员考试《行测》（B卷）第14题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2017-B卷-15",
@@ -707,7 +745,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2017年浙江公务员考试《行测》（B卷）第15题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2017-B卷-16",
@@ -743,7 +783,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2017年浙江公务员考试《行测》（B卷）第16题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2017-B卷-17",
@@ -777,7 +819,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2017年浙江公务员考试《行测》（B卷）第17题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2017-B卷-18",
@@ -809,7 +853,9 @@
     "difficulty": "拔高",
     "source": "2017年浙江公务员考试《行测》（B卷）第18题",
     "isImageQuestion": true,
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2017-B卷-19",
@@ -846,7 +892,10 @@
     "difficulty": "拔高",
     "source": "2017年浙江公务员考试《行测》（B卷）第19题",
     "isImageQuestion": true,
-    "province": "浙江"
+    "province": "浙江",
+    "isAbnormal": true,
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2017-B卷-20",
@@ -882,7 +931,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2017年浙江公务员考试《行测》（B卷）第20题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2017-B卷-21",
@@ -918,7 +969,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2017年浙江公务员考试《行测》（B卷）第21题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2017-B卷-22",
@@ -953,7 +1006,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2017年浙江公务员考试《行测》（B卷）第22题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2017-B卷-23",
@@ -989,7 +1044,9 @@
     "difficulty": "拔高",
     "source": "2017年浙江公务员考试《行测》（B卷）第23题",
     "isImageQuestion": true,
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2017-B卷-24",
@@ -1025,7 +1082,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2017年浙江公务员考试《行测》（B卷）第24题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2017-B卷-25",
@@ -1061,7 +1120,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2017年浙江公务员考试《行测》（B卷）第25题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2018-A卷-41",
@@ -1096,7 +1157,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2018年浙江公务员考试《行测》（A卷）第41题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2018-A卷-42",
@@ -1131,7 +1194,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2018年浙江公务员考试《行测》（A卷）第42题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2018-A卷-43",
@@ -1168,7 +1233,9 @@
     "difficulty": "拔高",
     "source": "2018年浙江公务员考试《行测》（A卷）第43题",
     "isImageQuestion": true,
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2018-A卷-44",
@@ -1203,7 +1270,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2018年浙江公务员考试《行测》（A卷）第44题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2018-A卷-45",
@@ -1237,7 +1306,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2018年浙江公务员考试《行测》（A卷）第45题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2018-A卷-46",
@@ -1274,7 +1345,9 @@
     "difficulty": "拔高",
     "source": "2018年浙江公务员考试《行测》（A卷）第46题",
     "isImageQuestion": true,
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-zhejiang-2018-A卷-47",
@@ -1310,7 +1383,9 @@
     "difficulty": "拔高",
     "source": "2018年浙江公务员考试《行测》（A卷）第47题",
     "isImageQuestion": true,
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-zhejiang-2018-A卷-48",
@@ -1347,7 +1422,9 @@
     "difficulty": "拔高",
     "source": "2018年浙江公务员考试《行测》（A卷）第48题",
     "isImageQuestion": true,
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2018-A卷-49",
@@ -1363,7 +1440,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2018年浙江公务员考试《行测》（A卷）第49题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-zhejiang-2018-A卷-50",
@@ -1379,7 +1458,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2018年浙江公务员考试《行测》（A卷）第50题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-zhejiang-2018-A卷-51",
@@ -1413,7 +1494,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2018年浙江公务员考试《行测》（A卷）第51题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2018-A卷-52",
@@ -1448,7 +1531,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2018年浙江公务员考试《行测》（A卷）第52题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2018-A卷-53",
@@ -1483,7 +1568,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2018年浙江公务员考试《行测》（A卷）第53题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2018-A卷-54",
@@ -1519,7 +1606,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2018年浙江公务员考试《行测》（A卷）第54题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2018-A卷-55",
@@ -1554,7 +1643,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2018年浙江公务员考试《行测》（A卷）第55题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-zhejiang-2018-A卷-56",
@@ -1590,7 +1681,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2018年浙江公务员考试《行测》（A卷）第56题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2018-A卷-57",
@@ -1625,7 +1718,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2018年浙江公务员考试《行测》（A卷）第57题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2018-A卷-58",
@@ -1660,7 +1755,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2018年浙江公务员考试《行测》（A卷）第58题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2018-A卷-59",
@@ -1695,7 +1792,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2018年浙江公务员考试《行测》（A卷）第59题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2018-A卷-60",
@@ -1729,7 +1828,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2018年浙江公务员考试《行测》（A卷）第60题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2018-A卷-61",
@@ -1764,7 +1865,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2018年浙江公务员考试《行测》（A卷）第61题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2018-A卷-62",
@@ -1799,7 +1902,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2018年浙江公务员考试《行测》（A卷）第62题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2018-A卷-63",
@@ -1834,7 +1939,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2018年浙江公务员考试《行测》（A卷）第63题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2018-A卷-64",
@@ -1870,7 +1977,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2018年浙江公务员考试《行测》（A卷）第64题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2018-A卷-65",
@@ -1907,7 +2016,9 @@
     "difficulty": "拔高",
     "source": "2018年浙江公务员考试《行测》（A卷）第65题",
     "isImageQuestion": true,
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2018-B卷-56",
@@ -1942,7 +2053,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2018年浙江公务员考试《行测》（B卷）第56题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2018-B卷-57",
@@ -1977,7 +2090,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2018年浙江公务员考试《行测》（B卷）第57题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2018-B卷-58",
@@ -2014,7 +2129,9 @@
     "difficulty": "拔高",
     "source": "2018年浙江公务员考试《行测》（B卷）第58题",
     "isImageQuestion": true,
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2018-B卷-59",
@@ -2049,7 +2166,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2018年浙江公务员考试《行测》（B卷）第59题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2018-B卷-60",
@@ -2083,7 +2202,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2018年浙江公务员考试《行测》（B卷）第60题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2018-B卷-61",
@@ -2118,7 +2239,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2018年浙江公务员考试《行测》（B卷）第61题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2018-B卷-62",
@@ -2153,7 +2276,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2018年浙江公务员考试《行测》（B卷）第62题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2018-B卷-63",
@@ -2189,7 +2314,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2018年浙江公务员考试《行测》（B卷）第63题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2018-B卷-64",
@@ -2225,7 +2352,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2018年浙江公务员考试《行测》（B卷）第64题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2018-B卷-65",
@@ -2261,7 +2390,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2018年浙江公务员考试《行测》（B卷）第65题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2018-B卷-66",
@@ -2297,7 +2428,9 @@
     "difficulty": "拔高",
     "source": "2018年浙江公务员考试《行测》（B卷）第66题",
     "isImageQuestion": true,
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2018-B卷-67",
@@ -2332,7 +2465,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2018年浙江公务员考试《行测》（B卷）第67题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2018-B卷-68",
@@ -2367,7 +2502,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2018年浙江公务员考试《行测》（B卷）第68题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2018-B卷-69",
@@ -2387,7 +2524,10 @@
     "difficulty": "拔高",
     "source": "2018年浙江公务员考试《行测》（B卷）第69题",
     "isImageQuestion": true,
-    "province": "浙江"
+    "province": "浙江",
+    "isAbnormal": true,
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2018-B卷-70",
@@ -2423,7 +2563,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2018年浙江公务员考试《行测》（B卷）第70题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2018-B卷-71",
@@ -2458,7 +2600,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2018年浙江公务员考试《行测》（B卷）第71题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2018-B卷-72",
@@ -2493,7 +2637,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2018年浙江公务员考试《行测》（B卷）第72题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2018-B卷-73",
@@ -2528,7 +2674,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2018年浙江公务员考试《行测》（B卷）第73题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2018-B卷-74",
@@ -2562,7 +2710,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2018年浙江公务员考试《行测》（B卷）第74题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2018-B卷-75",
@@ -2597,7 +2747,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2018年浙江公务员考试《行测》（B卷）第75题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2018-B卷-76",
@@ -2632,7 +2784,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2018年浙江公务员考试《行测》（B卷）第76题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2018-B卷-77",
@@ -2667,7 +2821,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2018年浙江公务员考试《行测》（B卷）第77题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2018-B卷-78",
@@ -2703,7 +2859,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2018年浙江公务员考试《行测》（B卷）第78题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2018-B卷-79",
@@ -2740,7 +2898,9 @@
     "difficulty": "拔高",
     "source": "2018年浙江公务员考试《行测》（B卷）第79题",
     "isImageQuestion": true,
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2018-B卷-80",
@@ -2775,7 +2935,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2018年浙江公务员考试《行测》（B卷）第80题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2019-A类-56",
@@ -2811,7 +2973,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年浙江公务员考试《行测》（A类）第56题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2019-A类-57",
@@ -2830,7 +2994,10 @@
     "difficulty": "拔高",
     "source": "2019年浙江公务员考试《行测》（A类）第57题",
     "isImageQuestion": true,
-    "province": "浙江"
+    "province": "浙江",
+    "isAbnormal": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2019-A类-58",
@@ -2865,7 +3032,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年浙江公务员考试《行测》（A类）第58题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2019-A类-59",
@@ -2884,7 +3053,10 @@
     "difficulty": "拔高",
     "source": "2019年浙江公务员考试《行测》（A类）第59题",
     "isImageQuestion": true,
-    "province": "浙江"
+    "province": "浙江",
+    "isAbnormal": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2019-A类-60",
@@ -2919,7 +3091,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年浙江公务员考试《行测》（A类）第60题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2019-A类-61",
@@ -2954,7 +3128,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年浙江公务员考试《行测》（A类）第61题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-zhejiang-2019-A类-62",
@@ -2989,7 +3165,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年浙江公务员考试《行测》（A类）第62题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2019-A类-63",
@@ -3026,7 +3204,9 @@
     "difficulty": "拔高",
     "source": "2019年浙江公务员考试《行测》（A类）第63题",
     "isImageQuestion": true,
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2019-A类-64",
@@ -3061,7 +3241,9 @@
     "difficulty": "拔高",
     "source": "2019年浙江公务员考试《行测》（A类）第64题",
     "isImageQuestion": true,
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2019-A类-65",
@@ -3098,7 +3280,9 @@
     "difficulty": "拔高",
     "source": "2019年浙江公务员考试《行测》（A类）第65题",
     "isImageQuestion": true,
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2019-A类-66",
@@ -3118,7 +3302,10 @@
     "difficulty": "拔高",
     "source": "2019年浙江公务员考试《行测》（A类）第66题",
     "isImageQuestion": true,
-    "province": "浙江"
+    "province": "浙江",
+    "isAbnormal": true,
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2019-A类-67",
@@ -3153,7 +3340,9 @@
     "difficulty": "拔高",
     "source": "2019年浙江公务员考试《行测》（A类）第67题",
     "isImageQuestion": true,
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2019-A类-68",
@@ -3187,7 +3376,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年浙江公务员考试《行测》（A类）第68题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2019-A类-69",
@@ -3219,7 +3410,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年浙江公务员考试《行测》（A类）第69题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2019-A类-70",
@@ -3255,7 +3448,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年浙江公务员考试《行测》（A类）第70题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2019-A类-71",
@@ -3289,7 +3484,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年浙江公务员考试《行测》（A类）第71题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2019-A类-72",
@@ -3325,7 +3522,9 @@
     "difficulty": "拔高",
     "source": "2019年浙江公务员考试《行测》（A类）第72题",
     "isImageQuestion": true,
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2019-A类-73",
@@ -3360,7 +3559,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年浙江公务员考试《行测》（A类）第73题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2019-A类-74",
@@ -3395,7 +3596,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年浙江公务员考试《行测》（A类）第74题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2019-A类-75",
@@ -3429,7 +3632,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年浙江公务员考试《行测》（A类）第75题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2019-A类-76",
@@ -3465,7 +3670,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年浙江公务员考试《行测》（A类）第76题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2019-A类-77",
@@ -3499,7 +3706,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年浙江公务员考试《行测》（A类）第77题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2019-A类-78",
@@ -3535,7 +3744,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年浙江公务员考试《行测》（A类）第78题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2019-A类-79",
@@ -3564,7 +3775,9 @@
     "difficulty": "拔高",
     "source": "2019年浙江公务员考试《行测》（A类）第79题",
     "isImageQuestion": true,
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "经济利润",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-zhejiang-2019-A类-80",
@@ -3599,7 +3812,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年浙江公务员考试《行测》（A类）第80题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2019-B类-56",
@@ -3635,7 +3850,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年浙江公务员考试《行测》（B类）第56题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2019-B类-57",
@@ -3671,7 +3888,9 @@
     "difficulty": "拔高",
     "source": "2019年浙江公务员考试《行测》（B类）第57题",
     "isImageQuestion": true,
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-zhejiang-2019-B类-58",
@@ -3706,7 +3925,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年浙江公务员考试《行测》（B类）第58题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2019-B类-59",
@@ -3725,7 +3946,10 @@
     "difficulty": "拔高",
     "source": "2019年浙江公务员考试《行测》（B类）第59题",
     "isImageQuestion": true,
-    "province": "浙江"
+    "province": "浙江",
+    "isAbnormal": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2019-B类-60",
@@ -3760,7 +3984,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年浙江公务员考试《行测》（B类）第60题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2019-B类-61",
@@ -3796,7 +4022,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年浙江公务员考试《行测》（B类）第61题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-zhejiang-2019-B类-62",
@@ -3832,7 +4060,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年浙江公务员考试《行测》（B类）第62题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-zhejiang-2019-B类-63",
@@ -3867,7 +4097,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年浙江公务员考试《行测》（B类）第63题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-zhejiang-2019-B类-64",
@@ -3903,7 +4135,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年浙江公务员考试《行测》（B类）第64题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2019-B类-65",
@@ -3938,7 +4172,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年浙江公务员考试《行测》（B类）第65题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2019-B类-66",
@@ -3972,7 +4208,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年浙江公务员考试《行测》（B类）第66题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-zhejiang-2019-B类-67",
@@ -4006,7 +4244,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年浙江公务员考试《行测》（B类）第67题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2019-B类-68",
@@ -4043,7 +4283,9 @@
     "difficulty": "拔高",
     "source": "2019年浙江公务员考试《行测》（B类）第68题",
     "isImageQuestion": true,
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2019-B类-69",
@@ -4078,7 +4320,9 @@
     "difficulty": "拔高",
     "source": "2019年浙江公务员考试《行测》（B类）第69题",
     "isImageQuestion": true,
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2019-B类-70",
@@ -4115,7 +4359,9 @@
     "difficulty": "拔高",
     "source": "2019年浙江公务员考试《行测》（B类）第70题",
     "isImageQuestion": true,
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2019-B类-71",
@@ -4135,7 +4381,10 @@
     "difficulty": "拔高",
     "source": "2019年浙江公务员考试《行测》（B类）第71题",
     "isImageQuestion": true,
-    "province": "浙江"
+    "province": "浙江",
+    "isAbnormal": true,
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2019-B类-72",
@@ -4170,7 +4419,9 @@
     "difficulty": "拔高",
     "source": "2019年浙江公务员考试《行测》（B类）第72题",
     "isImageQuestion": true,
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2019-B类-73",
@@ -4204,7 +4455,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年浙江公务员考试《行测》（B类）第73题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2019-B类-74",
@@ -4240,7 +4493,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年浙江公务员考试《行测》（B类）第74题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2019-B类-75",
@@ -4274,7 +4529,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年浙江公务员考试《行测》（B类）第75题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2019-B类-76",
@@ -4309,7 +4566,9 @@
     "difficulty": "拔高",
     "source": "2019年浙江公务员考试《行测》（B类）第76题",
     "isImageQuestion": true,
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2019-B类-77",
@@ -4344,7 +4603,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年浙江公务员考试《行测》（B类）第77题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2019-B类-78",
@@ -4378,7 +4639,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年浙江公务员考试《行测》（B类）第78题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2019-B类-79",
@@ -4415,7 +4678,9 @@
     "difficulty": "拔高",
     "source": "2019年浙江公务员考试《行测》（B类）第79题",
     "isImageQuestion": true,
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-zhejiang-2019-B类-80",
@@ -4449,7 +4714,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年浙江公务员考试《行测》（B类）第80题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2020-A卷-41",
@@ -4483,7 +4750,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2020年浙江公务员考试《行测》（A卷）第41题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2020-A卷-42",
@@ -4517,7 +4786,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2020年浙江公务员考试《行测》（A卷）第42题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2020-A卷-43",
@@ -4552,7 +4823,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2020年浙江公务员考试《行测》（A卷）第43题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2020-A卷-44",
@@ -4587,7 +4860,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2020年浙江公务员考试《行测》（A卷）第44题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2020-A卷-45",
@@ -4622,7 +4897,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2020年浙江公务员考试《行测》（A卷）第45题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2020-A卷-46",
@@ -4657,7 +4934,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2020年浙江公务员考试《行测》（A卷）第46题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2020-A卷-47",
@@ -4692,7 +4971,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2020年浙江公务员考试《行测》（A卷）第47题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2020-A卷-48",
@@ -4727,7 +5008,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2020年浙江公务员考试《行测》（A卷）第48题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2020-A卷-49",
@@ -4759,7 +5042,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2020年浙江公务员考试《行测》（A卷）第49题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-zhejiang-2020-A卷-50",
@@ -4791,7 +5076,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2020年浙江公务员考试《行测》（A卷）第50题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-zhejiang-2020-A卷-51",
@@ -4826,7 +5113,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2020年浙江公务员考试《行测》（A卷）第51题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2020-A卷-52",
@@ -4861,7 +5150,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2020年浙江公务员考试《行测》（A卷）第52题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2020-A卷-53",
@@ -4895,7 +5186,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2020年浙江公务员考试《行测》（A卷）第53题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2020-A卷-54",
@@ -4930,7 +5223,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2020年浙江公务员考试《行测》（A卷）第54题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2020-A卷-55",
@@ -4964,7 +5259,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2020年浙江公务员考试《行测》（A卷）第55题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2020-A卷-56",
@@ -4999,7 +5296,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2020年浙江公务员考试《行测》（A卷）第56题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2020-A卷-57",
@@ -5034,7 +5333,9 @@
     "difficulty": "拔高",
     "source": "2020年浙江公务员考试《行测》（A卷）第57题",
     "isImageQuestion": true,
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2020-A卷-58",
@@ -5069,7 +5370,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2020年浙江公务员考试《行测》（A卷）第58题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2020-A卷-59",
@@ -5105,7 +5408,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2020年浙江公务员考试《行测》（A卷）第59题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2020-A卷-60",
@@ -5140,7 +5445,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2020年浙江公务员考试《行测》（A卷）第60题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2020-B卷-1",
@@ -5174,7 +5481,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2020年浙江公务员考试《行测》（B卷）第1题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2020-B卷-2",
@@ -5208,7 +5517,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2020年浙江公务员考试《行测》（B卷）第2题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2020-B卷-3",
@@ -5243,7 +5554,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2020年浙江公务员考试《行测》（B卷）第3题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2020-B卷-4",
@@ -5278,7 +5591,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2020年浙江公务员考试《行测》（B卷）第4题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2020-B卷-5",
@@ -5313,7 +5628,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2020年浙江公务员考试《行测》（B卷）第5题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2020-B卷-6",
@@ -5348,7 +5665,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2020年浙江公务员考试《行测》（B卷）第6题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2020-B卷-7",
@@ -5367,7 +5686,10 @@
     "difficulty": "拔高",
     "source": "2020年浙江公务员考试《行测》（B卷）第7题",
     "isImageQuestion": true,
-    "province": "浙江"
+    "province": "浙江",
+    "isAbnormal": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2020-B卷-8",
@@ -5402,7 +5724,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2020年浙江公务员考试《行测》（B卷）第8题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2020-B卷-9",
@@ -5437,7 +5761,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2020年浙江公务员考试《行测》（B卷）第9题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2020-B卷-10",
@@ -5472,7 +5798,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2020年浙江公务员考试《行测》（B卷）第10题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2020-B卷-11",
@@ -5507,7 +5835,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2020年浙江公务员考试《行测》（B卷）第11题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2020-B卷-12",
@@ -5542,7 +5872,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2020年浙江公务员考试《行测》（B卷）第12题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2020-B卷-13",
@@ -5577,7 +5909,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2020年浙江公务员考试《行测》（B卷）第13题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2020-B卷-14",
@@ -5612,7 +5946,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2020年浙江公务员考试《行测》（B卷）第14题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2020-B卷-15",
@@ -5646,7 +5982,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2020年浙江公务员考试《行测》（B卷）第15题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2020-B卷-16",
@@ -5680,7 +6018,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2020年浙江公务员考试《行测》（B卷）第16题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2020-B卷-17",
@@ -5714,7 +6054,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2020年浙江公务员考试《行测》（B卷）第17题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2020-B卷-18",
@@ -5749,7 +6091,9 @@
     "difficulty": "拔高",
     "source": "2020年浙江公务员考试《行测》（B卷）第18题",
     "isImageQuestion": true,
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2020-B卷-19",
@@ -5785,7 +6129,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2020年浙江公务员考试《行测》（B卷）第19题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2020-B卷-20",
@@ -5820,7 +6166,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2020年浙江公务员考试《行测》（B卷）第20题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2021-A类-56",
@@ -5856,7 +6204,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2021年浙江公务员考试《行测》（A类）第56题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2021-A类-57",
@@ -5892,7 +6242,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2021年浙江公务员考试《行测》（A类）第57题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-zhejiang-2021-A类-58",
@@ -5911,7 +6263,10 @@
     "difficulty": "拔高",
     "source": "2021年浙江公务员考试《行测》（A类）第58题",
     "isImageQuestion": true,
-    "province": "浙江"
+    "province": "浙江",
+    "isAbnormal": true,
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2021-A类-59",
@@ -5946,7 +6301,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2021年浙江公务员考试《行测》（A类）第59题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2021-A类-60",
@@ -5981,7 +6338,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2021年浙江公务员考试《行测》（A类）第60题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2021-A类-61",
@@ -6018,7 +6377,9 @@
     "difficulty": "拔高",
     "source": "2021年浙江公务员考试《行测》（A类）第61题",
     "isImageQuestion": true,
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2021-A类-62",
@@ -6055,7 +6416,9 @@
     "difficulty": "拔高",
     "source": "2021年浙江公务员考试《行测》（A类）第62题",
     "isImageQuestion": true,
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2021-A类-63",
@@ -6091,7 +6454,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2021年浙江公务员考试《行测》（A类）第63题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "行程工程",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-zhejiang-2021-A类-64",
@@ -6127,7 +6492,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2021年浙江公务员考试《行测》（A类）第64题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2021-A类-65",
@@ -6164,7 +6531,9 @@
     "difficulty": "拔高",
     "source": "2021年浙江公务员考试《行测》（A类）第65题",
     "isImageQuestion": true,
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-zhejiang-2021-A类-66",
@@ -6199,7 +6568,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2021年浙江公务员考试《行测》（A类）第66题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2021-A类-67",
@@ -6234,7 +6605,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2021年浙江公务员考试《行测》（A类）第67题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2021-A类-68",
@@ -6268,7 +6641,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2021年浙江公务员考试《行测》（A类）第68题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2021-A类-69",
@@ -6304,7 +6679,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2021年浙江公务员考试《行测》（A类）第69题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2021-A类-70",
@@ -6339,7 +6716,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2021年浙江公务员考试《行测》（A类）第70题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2021-B类-21",
@@ -6375,7 +6754,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2021年浙江公务员考试《行测》（B类）第21题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2021-B类-22",
@@ -6410,7 +6791,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2021年浙江公务员考试《行测》（B类）第22题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2021-B类-23",
@@ -6446,7 +6829,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2021年浙江公务员考试《行测》（B类）第23题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2021-B类-24",
@@ -6482,7 +6867,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2021年浙江公务员考试《行测》（B类）第24题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2021-B类-25",
@@ -6518,7 +6905,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2021年浙江公务员考试《行测》（B类）第25题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2021-B类-26",
@@ -6554,7 +6943,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2021年浙江公务员考试《行测》（B类）第26题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2021-B类-27",
@@ -6588,7 +6979,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2021年浙江公务员考试《行测》（B类）第27题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2021-B类-28",
@@ -6623,7 +7016,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2021年浙江公务员考试《行测》（B类）第28题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2021-B类-29",
@@ -6657,7 +7052,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2021年浙江公务员考试《行测》（B类）第29题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2021-B类-30",
@@ -6693,7 +7090,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2021年浙江公务员考试《行测》（B类）第30题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2021-B类-31",
@@ -6728,7 +7127,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2021年浙江公务员考试《行测》（B类）第31题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2021-B类-32",
@@ -6763,7 +7164,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2021年浙江公务员考试《行测》（B类）第32题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2021-B类-33",
@@ -6797,7 +7200,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2021年浙江公务员考试《行测》（B类）第33题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2021-B类-34",
@@ -6833,7 +7238,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2021年浙江公务员考试《行测》（B类）第34题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2021-B类-35",
@@ -6868,6 +7275,8 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2021年浙江公务员考试《行测》（B类）第35题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   }
 ]

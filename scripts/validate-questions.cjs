@@ -17,6 +17,10 @@
  *   [ERROR] E06 答案不在选项范围内
  *   [ERROR] E07 stem 含选项标记（选项被粘进题干，如 "…的是： A、xxx"；
  *           题干中全部为「A、B 两地」式变量枚举时豁免，见 lib/stem-option-mark.cjs）
+ *   [ERROR] E09 资料题出现字母占位（X / Y / Z 节目）或多城市图表缺图，
+ *           见 lib/e09-rule.cjs
+ *   [ERROR] E10 资料题材料无有效数据 / 选项年份或数字序列跳号，
+ *           见 lib/e10-rule.cjs
  *   [WARN]  W01 题干过短（< 8 字）
  *   [WARN]  W02 缺少解析
  *   [WARN]  W03 缺少 thinkingTip
@@ -48,6 +52,10 @@ const VALID_KEYS = ['A', 'B', 'C', 'D', 'E', 'F'];
 // stem 中的选项标记：行首/空白后的 A、/A./A．/A)/A：，且后面紧跟内容
 // 变量枚举（"A、B 两地"）由 lib/stem-option-mark.cjs 豁免，见该文件说明
 const { hasStemOptionMark, firstMarkPos } = require('./lib/stem-option-mark.cjs');
+// E09：字母占位（X/Y/Z 节目） / 多城市图表缺图
+const { getE09Issues } = require('./lib/e09-rule.cjs');
+// E10：资料题材料无有效数据 / 选项年份或数字序列跳号
+const { getE10Issues } = require('./lib/e10-rule.cjs');
 // 题干中的题号（如 "17\n" 或 "17、"）
 const STEM_QUESTION_NO = /(?:^|[\s\n])\d{1,3}\s*(?:[、.．]|\n)/;
 
@@ -90,6 +98,18 @@ for (const key of Object.keys(index)) {
       if (hasStemOptionMark(stem, opts)) {
         const pos = firstMarkPos(stem);
         add('ERROR', 'E07', q, f, `stem 含选项标记: ${JSON.stringify(stem.slice(Math.max(0, pos), pos + 60))}`);
+      }
+
+      // ---- E09 字母占位 / 多城市图表缺图 ----
+      const e09Issues = getE09Issues(q);
+      if (e09Issues.length > 0) {
+        add('ERROR', 'E09', q, f, e09Issues.map(item => `${item.code} ${item.detail}`).join('；'));
+      }
+
+      // ---- E10 资料材料缺失 / 选项序列缺口 ----
+      const e10Issues = getE10Issues(q);
+      if (e10Issues.length > 0) {
+        add('ERROR', 'E10', q, f, e10Issues.map(item => `${item.code} ${item.detail}`).join('；'));
       }
 
       // ---- 客观题选项校验 ----
@@ -152,6 +172,8 @@ console.log(`ERROR: ${errors.length}   WARN: ${warns.length}\n`);
 const CODE_DESC = {
   E01: '题干为空', E02: '缺少选项', E03: '选项文本为空', E04: '选项 key 重复',
   E05: '选项 key 非标准序列', E06: '答案不在选项范围', E07: 'stem 含选项标记',
+  E09: '字母占位 / 多城市图表缺图',
+  E10: '资料材料缺失 / 选项序列缺口',
   W01: '题干过短', W02: '缺少解析', W03: '缺少 thinkingTip',
   W04: '题干含题号', W05: '题干过长', W06: '图片题未标记'
 };

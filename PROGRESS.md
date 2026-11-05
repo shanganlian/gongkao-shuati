@@ -715,6 +715,20 @@ WARN 412 构成：`W01` 题干过短 121、`W02` 缺少解析 135（全部是 20
   - 选项整块落进 `material` 字段 **15 题**（天津 11 / 深圳 3 / 广东 1）。成因已定位到源 docx 排版：双词选项被拆成多段（`A、天方夜谭` / 空行 / `想方设法` / `B、…`），`splitStemAndOptions` 只认同块内 A→D 连续标记，失败后整块被当材料，且**错绑到后一题**（天津 2012 第 26 题选项挂到第 27 题，两题 `material` 完全相同）。
   - 判断题无选项 **5 题**（广东 2024 常识，题干自带「（判断题）」，源文没有 ABCD）。
   - 题干就是「暂缺」**6 题**（深圳 2020）；其余为源文截断（题干停在半句、源文本身无选项）。
+
+## 0.11 行测二级分类（subModule）
+
+- 分类表：`shared/sub-modules.json`（常识 7 类 / 言语 4 类 / 判断 4 类 / 数量 5 类 / 资料 4 类）。
+- 写回字段：`subModule`（子类名）、`subModule_confidence`（`high` / `low`）；`low` 为待人工复核，不进入前端二级筛选。
+- 北京常识试点：656/656 写回，0 失败，37 道 low（5.6%）；报告见 `guokao-reports/submodule-北京-changshi-试点汇总-2026-11-02.md`。
+- 前端：练习页模块 pills 下方新增二级分类 chips；只展示当前考试/省份/模块下确实有已分类题目的子类；切模块、切省份或子类无数据时自动回到“全部”。相关文件：`src/components/PracticeArena.tsx`、`src/hooks/useQuestions.ts`、`src/data/subModules.ts`。
+- 前端（2026-11-02 补全）：chips 显示该子类题数，选中子类后模块标签变成「常识判断（法律 · 123）」；chips 可再次点击取消，「全部」chip 显示模块总题数；题目卡片头部新增子类徽标（low 显示「待复核」）。题量来自构建期快照 `src/data/submoduleCounts.json`（`scripts/build-submodule-counts.cjs`，随 `npm run build` 的 prebuild 自动重算），避免等 35MB 分片加载完才有数字；快照缺失时回退到已加载题库现算。`npm run submodule:counts` / `submodule:counts:check` 可手动生成/校验。
+- 已验证：本地 dev + Edge headless 真实点击 18 项断言全过（北京常识 656→法律 123，连翻 3 题均为法律；省份切上海后法律 217；申论思维不显示 chips）。
+- 省份筛选（2026-11-02）：省考模式去掉「全部省份」，下拉直接列 33 个具体省份 / 单列市（`PROVINCE_LIST_BY_FREQUENCY`，江浙粤鲁等按报考热度排序；含数据里独立成省的深圳 / 广州共 3,162 题，否则去掉「全部省份」后不可达；联考不列入——全库仅 1 题单独标联考，且每个省份视图已自动包含联考题）。默认选中上次目标省份（`localStorage.xingan_active_province`，只在选中具体省份时写入，避免国考「全部省份」冲掉记忆），新用户落到频次首位「江苏」；国考仍隐藏省份筛选，全部考试 / 事业编仍保留「全部省份」（原样）。本地 dev + Chrome headless 真实交互 19 项断言全过：33 项顺序、无「全部省份」、新用户默认江苏、切西藏后刷新 / 切国考 / 切全部 / 切事业编再回省考仍记西藏、深圳可达。
+- 脚本：`scripts/classify-submodules.cjs`；全库命令 `npm run submodule:all`；仅同步源目录 `npm run submodule:sync`。
+- 全库（562 个分片 / 95,278 题）已启动，完成后自动同步国考 `questions-v2/` 与省考 `questions-v2-provincial/` 源目录、做数据校验与 `index:check`，并生成 `guokao-reports/submodule-全库-汇总-2026-11-02.md`。
+- 真实 `release:data` / `release:frontend` 仍由人工输入 SSH 密码执行。
+
 - **收益评估**：修「多段选项合并 + 回挂未闭合题」可救回 15 题（跳过率 13.82%→13.3% 量级），对 1,007 道占位题无效；占位题只能靠源册补录 / OCR。
 - **决策**：本轮不重转三省、不改 parser（避免为一万分之一量级收益动 7,500 题 ID）；parser 修复列为独立小批次，用天津 2012《行测》第 24–30 题做回归样例，修好后 `--dry-run` → `--apply` → 重跑 `verify-question-loading` → 单独 commit。八省数据维持已上线状态（`f4a001a`）。
 - **脚本改进**：`verify-question-loading.cjs` 现在把「占位题」与「真实缺陷」分开统计（全库 66,087 / 跳过 2,404 = 占位 1,807 + 真实 597，真实缺陷率 0.903%），后续跳过率不再被源册缺口放大。
@@ -1093,6 +1107,269 @@ sudo -u bideti -H bash -lc 'pm2 start /var/www/bideti/current/ecosystem.config.c
   - `pm2 save` 后验证 `systemctl restart pm2-bideti` 能 `resurrect` 出 `bideti`；
   - 备份：`/etc/bideti/bideti.env` 不入库，`deploy/` 变更已纳入仓库；建议定期备份 releases 与证书目录。
 
+## 8. 登录体验改造与 11 月排期（2026-11-01）
 
+### 8.1 开工前现状
+
+| 项 | 现状 | 影响 |
+| --- | --- | --- |
+| 登录方式 | 只有 Supabase Auth 邮箱验证码（`signInWithOtp` + `verifyOtp`） | 无 QQ / 微信 / 手机号，注册转化受限 |
+| 邮件通道 | Supabase 默认 SMTP：**2 封/小时**，且只能发给项目团队成员 | 线上真实用户**收不到**验证码（`Email address not authorized`） |
+| 邮件模板 | Supabase 默认英文模板 | 中文站点收到英文邮件；模板缺 `{{ .Token }}` 时用户拿不到 6 位码 |
+| 报错文案 | 直接透传 Supabase 英文报错 | 移动端用户看不懂 `Email rate limit exceeded` |
+| 小程序 | 无 | 缺少微信生态入口 |
+
+### 8.2 本周（11/01–11/03）救急 + 申请准备
+
+| 事项 | 归属 | 状态 | 验收 / 产出 |
+| --- | --- | --- | --- |
+| 163 授权码 → Supabase 自定义 SMTP | 用户（控制台） | **待配置**（授权码已到手） | 任意真实邮箱能收到验证码，不再出现 `Email address not authorized` |
+| 5 套中文邮件模板 | 本仓库 | ✅ 已备好，待粘贴 | `docs/登录体验/email-templates/`；Magic Link 必须含 `{{ .Token }}` |
+| 登录报错中文化 | 本仓库 | ✅ 已完成 | `src/lib/authErrors.ts` 接入 `AuthContext` 四个登录方法；未命中保留原文 |
+| QQ 互联个人开发者申请 | 用户（周末提交） | 待提交 | 指南 `docs/登录体验/02-QQ互联-个人开发者申请指南.md` |
+| 阿里云短信申请 | 用户（周末评估） | **需改路线** | 指南 `03-...md`：个人主体需企业资质，先走「短信认证服务」当天可用 |
+| 《用户协议》《隐私政策》独立页 | 开发 | 待办 | `/agreement`、`/privacy` 可访问（QQ 审核前置条件） |
+
+### 8.3 11 月排期（按优先级，本轮已调整）
+
+| 周次 | 优先级 | 事项 | 验收口径 |
+| --- | --- | --- | --- |
+| W1 11/01–11/07 | P0 | 邮箱验证码可用且全中文（SMTP + 模板 + OTP 有效期 600s） | 新邮箱 10 分钟内完成注册/登录，Supabase 日志无 4xx |
+| W1 11/01–11/07 | P0 | 登录资质提交：QQ 互联 + 阿里云（按指南路线） | 两个平台均进入「审核中」，留提交截图 |
+| W1–W2 | P1 | 协议页 + 隐私政策页上线 | 两个 URL 返回 200，主体与备案一致 |
+| **W2 11/08–11/14** | **P0** | **微信小程序 v1（`wx.login` 登录 + 刷题页）** | 见 §8.4 |
+| W3 11/15–11/21 | P0 | 小程序 v1 真机回归 + 提审 | 体验版审核通过，或驳回项清零 |
+| W4 11/22–11/30 | P1 | 面试大厅多人房间 v1 | 见 §8.5 |
+| 11 月内（依赖外部审核） | P2 | QQ 登录 / 手机号验证码接入 | 审核通过后各 1–2 天联调上线 |
+
+> **排期变更**：微信小程序 v1 从「待定」提前到 11 月第二周，**优先级高于面试大厅多人房间**。
+> 理由：小程序是新增获客渠道，且登录 + 刷题是现有能力（Supabase Auth、题库分片、额度 RPC）的低成本复用；
+> 多人房间依赖实时通道与房间状态机，工作量更大，但不带来新渠道。
+
+### 8.4 微信小程序 v1 拆解（`wx.login` 登录 + 刷题页）
+
+**范围（本版只做这些）**
+
+- 微信登录：`wx.login()` → 服务端 `jscode2session` → 绑定或创建账号；
+- 刷题页：选模块 → 拉题 → 作答 → 对答案与解析；
+- 我的：今日额度、错题数、退出登录。
+
+**明确不做**：支付/会员、面试大厅、社区打卡、语音作答、离线缓存、分享裂变、多端数据合并。
+
+**技术方案**
+
+| 层 | 方案 | 说明 |
+| --- | --- | --- |
+| 小程序端 | 原生小程序，3 页 `pages/login`、`pages/practice`、`pages/mine` | 不引第三方 UI 库，复用现有视觉色（emerald） |
+| 登录 | `wx.login()` 取 `code` → `POST /api/wx/login` → 服务端 `jscode2session` 换 `openid`/`unionid` → 建/查用户 → 下发一次性 exchange token → 换 Supabase 会话 | `session_key` **不下发**前端；`AppSecret` 只存 `/etc/bideti/bideti.env` |
+| 题库 | 复用 `public/data/questions/index.json` + 分片，按模块拉取，`wx.setStorage` 缓存当前模块 | 不做全量下载（612MB），单模块控制 < 2MB |
+| 额度 | 服务端复用 `consume_question_quota` RPC，小程序只调接口，不直连数据库 | 与 Web 端额度天然一致 |
+| 域名 | 小程序后台「开发管理 → 服务器域名 → request 合法域名」加 `https://igoiget.com` | 必须是 https + 已备案域名 |
+
+**任务清单（估时合计约 5.5 天）**
+
+| # | 任务 | 估时 |
+| --- | --- | --- |
+| 1 | 小程序账号注册 + 类目选择 + 小程序备案 | 0.5 天（备案等待 3–7 工作日，可与开发并行） |
+| 2 | 服务端 `/api/wx/login`（code2session + 建号 + token 交换）+ 冒烟脚本 | 1 天 |
+| 3 | 登录页 + 全局登录态（含未登录拦截） | 0.5 天 |
+| 4 | 刷题页（选题/作答/判定/解析/额度拦截） | 2 天 |
+| 5 | 我的页（额度、错题数、退出） | 0.5 天 |
+| 6 | 真机回归 + 提审材料（截图、隐私说明） | 1 天 |
+
+**依赖与风险**
+
+- **小程序备案**：2024 年起小程序需完成备案才能上架，个人主体同样适用，需预留 3–7 个工作日；
+- **个人主体类目限制**：不能选需资质的「教育培训」，建议「教育 > 教育信息服务」或以工具类目申报；
+  个人小程序也不支持虚拟支付，后续做会员要走 H5 或换企业主体；
+- **会话体系**：`wx.login` 拿到的是微信凭证，不能直接当 Supabase 会话，必须服务端换发，否则复用不了现有 RLS；
+- **审核材料**：需在提审时说明「题库工具，内容为历年真题与解析，不提供考试报名/培训服务」，降低被判教育资质的概率。
+
+### 8.5 面试大厅多人房间 v1（顺延到 11 月下旬）
+
+- **为什么后置**：依赖 WebSocket/轮询通道、房间状态机、并发评分与断线重连；工作量大且不带来新渠道；
+- **范围（先定）**：创建/加入房间（6 位房间号）、房主开题、轮流作答、实时进度、结束后统一评分；
+- **前置决策**：实时方案二选一（自建 ws + pm2 常驻进程 / Supabase Realtime），定了再拆任务；
+- **风险**：国考出分后流量峰值可能与开发期重叠，上线前需压测房间并发与 TTS 配额。
+
+### 8.6 本轮新增文件
+
+| 文件 | 作用 |
+| --- | --- |
+| `docs/登录体验/README.md` | 三份指南索引 + 排期入口 |
+| `docs/登录体验/01-163-SMTP-与-中文邮件模板.md` | SMTP 配置项、模板粘贴、验收、错误对照 |
+| `docs/登录体验/02-QQ互联-个人开发者申请指南.md` | 注册→实名→创建网站应用→材料清单→审核注意 |
+| `docs/登录体验/03-阿里云短信-个人主体申请指南.md` | 个人主体限制、两条路线、签名/模板要点、材料清单 |
+| `docs/登录体验/email-templates/` | 5 套中文 HTML 模板 + 变量说明（`README.md`） |
+| `src/lib/authErrors.ts` | Supabase 英文报错 → 中文提示，接入 `AuthContext` |
+
+## 9. 题库 E10 与全库语义隔离（2026-11-01）
+
+### 9.1 第二道坏题：北京 2008 应届 116
+
+- 题干：`2002～2006 年，我国的贸易顺差额（出口额－进口额）最小的年份是：`
+- `material`：只有 `（一）根据下列统计资料回答问题。`，没有任何数据；
+- 选项：`2002 / 2003 / 2004 / 2006`，缺 `2005`；
+- 处理：`node scripts/mark-abnormal.cjs --id prov-beijing-2008-应届-116 --apply`，v1 分片、v2p `questions.json`、v2p 分片三处均写 `isAbnormal: true`，前端渲染「本题数据整理中」占位。
+
+### 9.2 新增 E10 规则
+
+- 判定库：`scripts/lib/e10-rule.cjs`；前端镜像：`src/lib/questionE10.ts`。
+- **E10-A 材料缺失**：资料语境（module=ziliao，或题干引用材料/图表，或计算词+年份区间）且 material 无有效数字、题干也未自带数据。
+- **E10-B 选项缺口**：仅对纯年份选项，题干给出年份区间、选项覆盖首尾且只缺 1 个中间年份；带单位数字序列需题干明确要求排序。
+- 防误伤：`1人/2人/3人/5人`、`30个/35个/40个/50个` 等普通选项不按序列处理；`保温材料中` 不当作材料引用；整句选项里的年份不参与年份序列判断。
+- 双保险：
+  - 入库校验 `scripts/validate-questions.cjs` 新增 E10；
+  - 渲染兜底 `src/lib/questionValidation.ts` 新增 `isAbnormalQuestion`，`PracticeArena` 三处占位接入。
+
+### 9.3 全库大扫除结果
+
+- 入口：`node scripts/audit-all-library.cjs --apply`（dry-run 去掉 `--apply`）。
+- 覆盖：v1 95,486 + v2 6,210 + v2p 89,273 = 190,969 题（v1/v2p 有同 ID 重叠）。
+- 结果：答案异常卷 **0**；E07 **1,566**；解析高置信 **436**；解析弱 **2,012**（只报告）；E10 **3,512**（A 3,496 / B 20）；隔离 **5,508** 题（按数据集计，v2p 汇总+分片双写 7,968 处标记，涉及 573 个文件）。
+- 线上 v1 省份命中 TOP3：**江苏 226、上海 210、浙江 181**（国考单列 291）。
+- 报告：`guokao-reports/全库语义扫描-2026-11-01.md`；明细 CSV 同名目录下。
+- 验证：`npm run lint`、`npm run test:e07`、`npm run test:e10`、`npm run build` 均通过；v1/v2/v2p `isAbnormal` 计数与报告一致，目标题三处均为 `true`。
+
+### 9.4 第三道坏题：2000 国考 81–85 缺图与 E09（2026-11-02）
+
+- 坏题：`gk-2000-未标注-82`，题干“甲城中学生与丁城中学生共同特点是”，选项为“不喜欢 X/Y/Z 节目”，材料只给了甲、丙两城示例，乙/丁/戊数据在三角形图里。
+- E09 新增：
+  - `E09-A` 选项出现 >=2 个字母占位（X/Y/Z 或“不喜欢 X 节目”），依赖图表、材料无完整数据、无图片；
+  - `E09-B` 题干/选项多城市（甲城/乙城/…/五个城市）对比，材料引用图表，但无图片、无完整表格数据。
+- 全库扫描命中 **5 题**（81–85，E09-A 3 / E09-B 5），已写 `isAbnormal` 10 处（v1+v2 各 5 题）。
+- 回源：`source-data/国考真题（2000--2026)/4-行测/1-行测-真题/word/2000年国家公务员考试《行测》真题.docx` → `word/media/image12.jpeg`，复制为 `public/data/questions/images/gk-2000-triangle.jpg`；81–85 补 `imageUrl` 并解除隔离，复扫 E09 归零。
+- 模块错标扫描：资料分析且“无增长/比重/平均/顺差/总额，有共同特点/规律/符合/推出”共 3 题；人工复核后 1 题改判断推理（`gk-2024-副省级-115`）、2 题改常识判断（上海 2019 A 卷 108/121），共 8 处；随后真移动到对应分片（6 处），避免按模块筛选时消失；复扫归零。
+- 验证：`npm run lint`、`npm run test:e09`、`npm run test:e10`、`npm run test:e07`、`npm run index:check`、`node scripts/verify-question-loading.cjs`、`npm run build` 均通过。
+
+
+
+## 10. 内容收敛：事业编（事考）入口下线（2026-11-02）
+
+**背景**：目标考试下拉一直挂着「📚 全国事业单位招聘 (事考)」，但题库实际没有事业编数据（全库仅 1 道历史遗留测试题 `q-104`，即 `public_institution-none-ziliao-0.json`）。挂着空选项等于给用户空头承诺，本轮把**入口**全部下线，**数据钩子**原样保留。
+
+**统一开关**：`src/data/mockData.ts` 新增 `PUBLIC_INSTITUTION_ENABLED = false`。数据与类型钩子全部保留（`ExamCategory` 仍含 `public_institution`、mock 事考试卷 / 秘籍、`AnalyticsOverview` 分类名映射），组件只按开关隐藏入口；事业编数据源接入后把此常量改成 `true` 即整体恢复，无需再改组件代码。
+
+| 位置 | 处理 |
+|---|---|
+| `src/components/Navbar.tsx` 目标考试下拉（桌面 + 窄屏） | 只保留 全部考试 / 国考 / 省考；事考 option 用 `PUBLIC_INSTITUTION_ENABLED &&` 包住 |
+| `src/components/Navbar.tsx` 页头品牌副标 | 「国考 · 省考 · 事业编 ｜ 笔试刷题…」→「国考 · 省考 ｜ 笔试刷题…」 |
+| `src/components/Navbar.tsx` 全站模块透视 | 「国考/省考/事考历年全真试卷」→「国考/省考历年全真试卷」 |
+| `src/components/PracticeArena.tsx` 真题试卷 | 新增 `VISIBLE_PAPERS` 过滤事考试卷，卡片计数 3 → 2 |
+| `src/components/KnowledgeBase.tsx` 通关秘籍 | 新增 `VISIBLE_KNOWLEDGE_POINTS` 隐藏「事考必备」考点，计数 4 → 3；模块标签只渲染「确实有秘籍」的模块，去掉点进去空白的「公共基础/综应」「常识判断」等空选项 |
+| `src/components/DailyPlanGenerator.tsx` 目标考试 | 只留国考 / 省考；顺带修默认值（原占位串「2026省考基层综合管理岗」不在选项内，下拉显示空白） |
+| `src/components/InterviewArena.tsx` 题本说明 | 「精选国考、省考及事业编历年高频真题」→「精选国考、省考历年高频真题」 |
+| `src/App.tsx` 分类恢复 | 只恢复 `all` / `national` / `provincial`；老用户 localStorage 残留的 `public_institution` 回落「全部考试」，避免停在没有入口的分类 |
+| `index.html` | title / description / og:title / og:description 去掉「事业编」；`<html lang="en">` → `lang="zh-CN"` |
+| `metadata.json` | 产品描述同步去掉「事业编」 |
+
+**刻意未动（均为数据钩子，仅加注释）**：`src/types/index.ts` 的 `ExamCategory` 与 `InterviewRoom.examType`、`mockData` 里 `public_institution` 的历史题目 / 试卷 / 考点、`AnalyticsOverview` 的分类名映射、`public_institution-none-ziliao-0.json` 那 1 道题（仍可在「全部考试」里被加载，不影响任何入口承诺）。
+
+**验证**：
+- `npm run lint` 通过；`SKIP_PUBLIC_COPY=1 npm run build` 通过（dist/index.html 已确认新 title / description）。
+- 本地 dev（3002）+ Chrome headless（CDP，`ui-category-lite.cjs`）真实交互 **21/21 断言通过**：目标下拉 3 项且无「事考 / 事业单位」；副标 / title / meta description 无「事业编」；「真题试卷 (2)」且试卷卡片无事业单位卷；「全部秘籍 (3)」、页面无「事考必备」、模块标签只剩「判断推理 / 资料分析 / 申论思维」；定制计划目标考试 2 项且默认值有效；残留 `public_institution` 刷新后回落「全部考试」。
+- 前端发布仍由人工执行 `npm run release:frontend`（需 SSH 密码）。
+## 11. 定制计划 v1 上线 + 备考社区下线（2026-11-02）
+
+**本轮两件事**：① 把「定制计划」从演示壳换成可执行的 4 周计划（向导 → 生成 → 落库 → 今日任务/进度/待补）；② 把「备考社区」整体下线（保留代码与数据，开关控制），导航从 6 卡收敛为 5 卡。
+
+### 11.1 产品形态（三步向导）
+
+| 步骤 | 输入 | 说明 |
+|---|---|---|
+| 1 | 目标考试（国考 / 省考）、笔试日期或「未定」 | 笔试日不足 28 天时计划自动压缩到剩余天数（最少 7 天），不会排到考试之后 |
+| 2 | 每天可学时长：30 分钟 / 1 小时 / 2 小时及以上 | 对应每天 2 / 3 / 4 条任务；按“最差的一天”选，避免第一天就崩 |
+| 3 | 薄弱模块多选（五大行测 + 申论思维） | 选中模块轮转为主攻方向；其余模块在周测中覆盖 |
+
+生成后进入计划看板：计划摘要 + 今日任务 + 今日/本周/总进度 + 「待补」折叠区 + 分周看板（4 周 × 7 天）+ 教练寄语。点任务可「去练」：行测跳题库并锁定模块，申论跳「每日两题」；复盘类任务直接打勾。
+
+### 11.2 生成策略：DeepSeek 优先，模板兜底
+
+- 新端点 `POST /api/study-plan/generate`（`server.ts` + `netlify/functions/api.ts` 双实现，沿用 `requireAuth`）。
+- 共享层 `shared/study-plan.ts`（纯函数，前后端共用）：
+  - `sanitizeStudyPlanRequest`：字段白名单重建；`dailyMinutes` 只允许 30/60/120；`weakModules` 去重且只收白名单；`examDate` 必须晚于起始日；`startDate` 缺省为上海今天。
+  - `buildTemplateStudyPlan`：规则引擎。周主题固定为「摸底与手感 → 弱项攻坚 → 真题实战 → 查漏补缺」，每周第 7 天为「错题复盘 + 周测」；任务 id 固定 `d<N>t<N>`，题目量随时长档位变化，申论题量恒为 1 道。
+  - `normalizeStudyPlan`：把模型返回的 weeks 合并到模板骨架；缺周/缺天/缺任务自动补模板，非法模块丢弃；**有效 AI 任务不足模板一半时抛错**，路由退回模板（`provider=template`），不伪装 AI。
+  - `requestDeepSeekStudyPlan`：45s AbortController 超时（前端 55s 放弃，保证先收到兜底结果）。
+- 游客不调接口，直接用同一套 `buildTemplateStudyPlan` 本地生成（零等待、可离线）；登录用户 AI 失败/超时/结构不合法也自动落模板。
+- 旧 `/api/generate-plan`（Gemini）与 `DailyPlanGenerator` 原样保留，便于回滚。
+
+### 11.3 数据模型（需手动执行一次迁移）
+
+`supabase/migrations/create_study_plans.sql`（幂等，需在 Supabase SQL Editor 手动执行）：
+
+- `study_plans`：`id / user_id / target_exam / exam_date / daily_minutes / weak_modules / start_date / plan(jsonb 完整 StudyPlan) / provider / status / created_at / updated_at`；`unique(user_id) where status='active'`，重新定制 = 旧行 `archived` + 插新行。
+- `study_plan_task_logs`：`user_id / plan_id / task_key / task_date / completed_on`，`unique(user_id, plan_id, task_key)`，重复勾选幂等。
+- 两张表均开 RLS，仅 `auth.uid() = user_id` 可读写。
+- **表未创建也不会阻塞**：`studyPlanService` 捕获错误后降级 localStorage，页面提示“已保存在本机”；登录后若云端无数据，会自动接管游客本地计划（含勾选），不会出现“登录一下计划就没了”。
+
+### 11.4 日期规则与「待补」
+
+- `dayIndex = 今天(上海自然日) - start_date + 1`；当前周按日期自动推进，不依赖用户手动切周。
+- 过期未完成任务进入「待补」折叠区（原定第 N 天 + 日期），**不复制进今天**，避免任务越滚越多。
+- 计划走完（`dayIndex > totalDays`）显示完成提示 +「再续 4 周」；「重新定制」保留原输入回填。
+- 补做记录写真实完成日 `completed_on`，但成长经验按 `date|key` 去重，不会重复加。
+
+
+### 11.5 与既有成长线 / 打卡的联动
+
+- 勾选任务 → `recordPlanTask(taskKey)`（写入本机活动账本 `type='plan'`，+50 经验）。
+- 同一动作同时调 `recordCheckIn()`：首次勾选即当日打卡（`type='checkin'`，+30 经验）。
+- `activityStats.saveActivityEvents` 已按 `date|type|key` 去重，重复勾选/取消再勾不会刷经验；`planTasks` 计数直接复用现有聚合，成长页无需改动。
+- 游客账本登录后由 `adoptGuestActivity` 迁移；计划本身由 `migrateGuestPlan` 单独并入云端（保留原 plan id，勾选记录一并迁移）。
+
+### 11.6 题库联动
+
+- `PracticeArena` 新增 `launchFilter`（`{ module, nonce }`）：清空知识图谱筛选、锁定 `activeModule`、子模块归「全部」、进入 `drill` 模式。
+- `nonce` 保证重复点同一模块也会触发（否则 effect 依赖对象不变）。
+- 题库无「速算」等独立子分类，因此任务只做**模块级**跳转，不做子模块猜测；申论任务跳 `daily`。
+
+### 11.7 备考社区下线（`COMMUNITY_ENABLED = false`）
+
+统一开关放在 `src/data/mockData.ts`（紧邻 `PUBLIC_INSTITUTION_ENABLED`），注释写明**恢复条件：注册用户 ≥ 1000**。
+
+| 位置 | 处理 |
+|---|---|
+| `Navbar.mainNavItems` | 社区卡片改为 `...(COMMUNITY_ENABLED ? [定义] : [])`，定义原样保留；桌面网格 `grid-cols-3 lg:grid-cols-6` → `grid-cols-2 sm:grid-cols-3 lg:grid-cols-5` |
+| `Navbar.moduleDefinitions` | 社区导览卡同样按开关条件展开；标题「全站六大核心模块」→ 按开关显示「五/六」，tooltip 同步 |
+| `Navbar` 打卡 CTA（桌面 + 窄屏） | 「每日打卡」→「今日计划」，图标改日历，点击跳 `plan`；保留连续天数展示，勾任务即打卡 |
+| `App.mobileNavItems` | 社区 Tab 按开关条件展开，底部导航由 6 项变 5 项 |
+| `App` 兜底 | 新增 effect：开关关闭且 `activeTab==='community'` 时强制回 `overview`（覆盖旧链接/历史状态） |
+| `CommunityCheckIn` 组件 / 演示数据 | **未删除**，lazy import 亦保留；仅入口不可达 |
+
+### 11.8 新增 / 修改文件
+
+**新增**
+
+- `shared/study-plan.ts`（模板引擎 + 入参校验 + AI 归一化 + DeepSeek 调用）
+- `src/services/studyPlanService.ts`（云端优先 + localStorage 兜底 + 游客迁移 + 勾选记录）
+- `src/components/StudyPlan.tsx`（三步向导 + 计划看板）
+- `supabase/migrations/create_study_plans.sql`
+- `scripts/smoke-study-plan.ts`（50 条断言）
+
+**修改**
+
+- `src/types/index.ts`：新增 `StudyPlan*` 类型（旧 `DailyStudyPlan` 保留）
+- `server.ts` / `netlify/functions/api.ts`：新增 `/api/study-plan/generate`
+- `src/App.tsx`：计划页切换、`practiceLaunch`、社区兜底、移动端 5 Tab、打卡 CTA 指向计划
+- `src/components/PracticeArena.tsx`：`launchFilter` 模块级跳转
+- `src/components/Navbar.tsx`：五卡布局、社区条件渲染、今日计划 CTA、五/六文案
+- `src/data/mockData.ts`：`COMMUNITY_ENABLED`
+- `package.json`：`plan:smoke`
+
+### 11.9 验证记录
+
+- `npm run lint`（tsc --noEmit）通过。
+- `npm run plan:smoke` **50/50 通过**：入参边界、4 周 28 天、任务 id 唯一、30/60/120 档任务数、第七天复盘、笔试日压缩（10 天 / 最少 7 天 / ≥28 天）、AI 结果合并与非法模块丢弃、无有效任务抛错、跨月跨年日期、prompt 内容；服务层游客路径（本地生成/落盘/勾选读回/取消/游客接管）。
+- `SKIP_PUBLIC_COPY=1 npm run build` 通过（2.44s，`StudyPlan` chunk 35.23 kB；`CommunityCheckIn` 仍单独打包，代码保留）。
+- 本地 dev（3002）实测 `POST /api/study-plan/generate` 未登录返回 `401 {"error":"unauthorized"}`，确认路由已挂载且鉴权生效。
+- 未执行：真实 DeepSeek 调用（需线上 Key）、浏览器 E2E（`ui-category-lite.cjs` 不在本仓库，需在 QA 环境补测：5 张导航卡 / 无「备考社区」/ 底部 5 Tab / 向导三步 / 勾选后进度与成长经验变化）。
+
+### 11.10 上线前手工动作 & 回滚
+
+1. **先**在 Supabase SQL Editor 执行 `supabase/migrations/create_study_plans.sql`（否则计划只落本机，页面会提示云端不可用）。
+2. 确认服务器 `.env` 已有 `DEEPSEEK_API_KEY`（与面试复盘共用）；没有也能用模板计划。
+3. 本次新增服务端接口 ⇒ 不能只发前端资产，需全量发布：`deploy/pack.ps1` → `deploy/upload.ps1` → 服务器 `bash /root/bideti-deploy/02-release.sh <pack>`。
+4. 回滚前端：计划页改回 `DailyPlanGenerator`（旧组件与旧接口均未删除）；社区恢复：`COMMUNITY_ENABLED = true` 即整体回来。
 
 

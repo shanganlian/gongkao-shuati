@@ -1,0 +1,5157 @@
+[
+  {
+    "id": "prov-shandong-2006-未标注-36",
+    "category": "provincial",
+    "module": "panduan",
+    "title": "判断·请根据图形规律，从四个选项中选出最合适的一项。",
+    "stem": "请根据图形规律，从四个选项中选出最合适的一项。",
+    "options": [],
+    "answer": "C",
+    "explanation": "C。每一行“ 阴影块 ”从左到右依次下降 1 格，第一行的“ × ”向右依次移动，第二行的“ × ” 向左依次移动，第三行的“ × ”向右依次移动。符合此规律的是 C 项。",
+    "keyPoints": [
+      "符合此规律的是 C 项"
+    ],
+    "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "中等",
+    "source": "2006年山东公务员考试《行测》第36题",
+    "isImageQuestion": true,
+    "province": "山东",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shandong-2006-未标注-37",
+    "category": "provincial",
+    "module": "panduan",
+    "title": "判断·请根据图形规律，从四个选项中选出最合适的一项。",
+    "stem": "请根据图形规律，从四个选项中选出最合适的一项。",
+    "options": [],
+    "answer": "D",
+    "explanation": "D。图形叠加规律。每行每列都是前两个图叠加后得到第三个图，叠加的规律是：黑点+黑点=x， x+x=黑点，黑点+空白=黑点，x+空白=x，空白+空白=空白。",
+    "keyPoints": [
+      "图形叠加规律"
+    ],
+    "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "中等",
+    "source": "2006年山东公务员考试《行测》第37题",
+    "isImageQuestion": true,
+    "province": "山东",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shandong-2006-未标注-38",
+    "category": "provincial",
+    "module": "panduan",
+    "title": "判断·请根据图形规律，从四个选项中选出最合适的一项。",
+    "stem": "请根据图形规律，从四个选项中选出最合适的一项。",
+    "options": [],
+    "answer": "A",
+    "explanation": "A。将每一个图形分成左上、左下、中心、右上、右下 5 部分，观察每个部分变化情况。",
+    "keyPoints": [
+      "将每一个图形分成左上、左下、中心、右上、右下 5 部分，观察每个部分变化情况"
+    ],
+    "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "中等",
+    "source": "2006年山东公务员考试《行测》第38题",
+    "isImageQuestion": true,
+    "province": "山东",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shandong-2006-未标注-39",
+    "category": "provincial",
+    "module": "panduan",
+    "title": "判断·请根据图形规律，从四个选项中选出最合适的一项。",
+    "stem": "请根据图形规律，从四个选项中选出最合适的一项。",
+    "options": [],
+    "answer": "C",
+    "explanation": "C。每个图分为上下两部分，分别有规律。每行第 1 个图与第 3 个图的上半部分黑点数相加等于 第 2 个图的黑点数，每行三个图的下半部分的黑点数目是三个连续的自然数，符合此规律的只有 C。",
+    "keyPoints": [
+      "每个图分为上下两部分，分别有规律"
+    ],
+    "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "中等",
+    "source": "2006年山东公务员考试《行测》第39题",
+    "isImageQuestion": true,
+    "province": "山东",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shandong-2006-未标注-40",
+    "category": "provincial",
+    "module": "panduan",
+    "title": "判断·请根据图形规律，从四个选项中选出最合适的一项。",
+    "stem": "请根据图形规律，从四个选项中选出最合适的一项。",
+    "options": [],
+    "answer": "D",
+    "explanation": "D。从第一个图形开始，每个图形第 2 列的阴影块依次下降 1 格，当下降到底部时又从顶部重新 开始；每个图形第 3 列的阴影块位置保持不变；第 4 列的阴影块按顺时针方向依次移动。所以第 9 个图就是 D 项。",
+    "keyPoints": [
+      "所以第 9 个图就是 D 项"
+    ],
+    "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "中等",
+    "source": "2006年山东公务员考试《行测》第40题",
+    "isImageQuestion": true,
+    "province": "山东",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shandong-2006-未标注-41",
+    "category": "provincial",
+    "module": "panduan",
+    "title": "判断·请根据图形规律，从四个选项中选出最合适的一项。",
+    "stem": "请根据图形规律，从四个选项中选出最合适的一项。",
+    "options": [],
+    "answer": "A",
+    "explanation": "A。图形叠加去同存异规律。每行前 2 个图叠加后去同存异得到第 3 个图。",
+    "keyPoints": [
+      "图形叠加去同存异规律",
+      "每行前 2 个图叠加后去同存异得到第 3 个图"
+    ],
+    "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "中等",
+    "source": "2006年山东公务员考试《行测》第41题",
+    "isImageQuestion": true,
+    "province": "山东",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shandong-2006-未标注-42",
+    "category": "provincial",
+    "module": "panduan",
+    "title": "判断·请根据图形规律，从四个选项中选出最合适的一项。",
+    "stem": "请根据图形规律，从四个选项中选出最合适的一项。",
+    "options": [],
+    "answer": "D",
+    "explanation": "D。在图（1）的相同位置将直线变为曲线，曲线变为直线，得到图（2），依此规律将图（3）变 化得到 D。",
+    "keyPoints": [],
+    "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "中等",
+    "source": "2006年山东公务员考试《行测》第42题",
+    "isImageQuestion": true,
+    "province": "山东",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shandong-2006-未标注-43",
+    "category": "provincial",
+    "module": "panduan",
+    "title": "判断·请根据图形规律，从四个选项中选出最合适的一项。",
+    "stem": "请根据图形规律，从四个选项中选出最合适的一项。",
+    "options": [],
+    "answer": "A",
+    "explanation": "A。图（1）和（2）的黑点数相加分别为 9，10； 图（3）黑点数是 10，所以接下来应为 11， 由 此排除 C、D、E，再根据方框的变化规律排除 B。",
+    "keyPoints": [],
+    "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "中等",
+    "source": "2006年山东公务员考试《行测》第43题",
+    "isImageQuestion": true,
+    "province": "山东",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shandong-2006-未标注-44",
+    "category": "provincial",
+    "module": "panduan",
+    "title": "判断·请根据图形规律，从四个选项中选出最合适的一项。",
+    "stem": "请根据图形规律，从四个选项中选出最合适的一项。",
+    "options": [],
+    "answer": "C",
+    "explanation": "C。左边的纸板折叠成方盒后，只有 C 符合各个面的位置关系。",
+    "keyPoints": [
+      "左边的纸板折叠成方盒后，只有 C 符合各个面的位置关系"
+    ],
+    "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "中等",
+    "source": "2006年山东公务员考试《行测》第44题",
+    "isImageQuestion": true,
+    "province": "山东",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shandong-2006-未标注-45",
+    "category": "provincial",
+    "module": "panduan",
+    "title": "判断·请根据图形规律，从四个选项中选出最合适的一项。",
+    "stem": "请根据图形规律，从四个选项中选出最合适的一项。",
+    "options": [],
+    "answer": "A",
+    "explanation": "A。左边的纸板折叠成方盒后，只有 A 符合各个面的位置关系。",
+    "keyPoints": [
+      "左边的纸板折叠成方盒后，只有 A 符合各个面的位置关系"
+    ],
+    "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "中等",
+    "source": "2006年山东公务员考试《行测》第45题",
+    "isImageQuestion": true,
+    "province": "山东",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shandong-2006-未标注-46",
+    "category": "provincial",
+    "module": "panduan",
+    "title": "判断·职业素质是指劳动者在一定的生理和心理条件的基础上，通过教…",
+    "stem": "职业素质是指劳动者在一定的生理和心理条件的基础上，通过教育、劳动实践和自我修养等途径而形成和 发展起来的，在职业活动中发挥重要作用的内在基本品质。\n根据以上定义，下列不属于职业素质的是 ( )",
+    "options": [
+      {
+        "key": "A",
+        "text": "声乐演唱家所具有的不同于一般人的生理遗传因素"
+      },
+      {
+        "key": "B",
+        "text": "作家对生活敏锐的感觉力和较强的语言表达能力"
+      },
+      {
+        "key": "C",
+        "text": "画家所具有的不同于一般人的颜色辨别能力和空间想象能力"
+      },
+      {
+        "key": "D",
+        "text": "教师广博的知识和高尚的人格"
+      }
+    ],
+    "answer": "D",
+    "explanation": "D。职业素质是通过教育、劳动实践和自我修养等途径形成和发展起来的，所以生理遗传因素不 属于职业素质。",
+    "keyPoints": [],
+    "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "中等",
+    "source": "2006年山东公务员考试《行测》第46题",
+    "province": "山东",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shandong-2006-未标注-47",
+    "category": "provincial",
+    "module": "panduan",
+    "title": "判断·税收激励是指政府在税制设计和税收征管过程中，运用多种手段…",
+    "stem": "税收激励是指政府在税制设计和税收征管过程中，运用多种手段，通过税负的调整，诱导微观经济主体的 行为选择，鼓励纳税人发生或不发生、参与或不参与某种经济行为， 以实现政府社会经济协调发展的战略目标。\n根据以上定义，下列不属于税收激励的是 ( )",
+    "options": [
+      {
+        "key": "A",
+        "text": "在产品研发阶段，设备费很高，此时对其加速折旧进行税收优惠"
+      },
+      {
+        "key": "B",
+        "text": "对遭受风、火、水、震等严重自然灾害的纳税人给予税收优惠"
+      },
+      {
+        "key": "C",
+        "text": "在产品中间阶段，对资金的需求依赖性强，此时对投资抵免进行税收优惠"
+      },
+      {
+        "key": "D",
+        "text": "在产品试验阶段企业的风险仍然很大，此时对亏损结转进行税收优惠"
+      }
+    ],
+    "answer": "D",
+    "explanation": "D。B 项属于对遭受自然灾害的纳税人的照顾，属于社会保障的范畴，而不是税收激励。",
+    "keyPoints": [
+      "B 项属于对遭受自然灾害的纳税人的照顾，属于社会保障的范畴，而不是税收激励"
+    ],
+    "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "中等",
+    "source": "2006年山东公务员考试《行测》第47题",
+    "province": "山东",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shandong-2006-未标注-48",
+    "category": "provincial",
+    "module": "panduan",
+    "title": "判断·例外原则是指企业高级管理人员，把一般日常事务授权给下属管…",
+    "stem": "例外原则是指企业高级管理人员，把一般日常事务授权给下属管理人员负责处理，而自己保留对例外事项 一般也是重要事项的决策和控制权。\n根据以上定义，下列属于例外原则的是 ( )",
+    "options": [
+      {
+        "key": "A",
+        "text": "某公司的董事长主要负责公司内的一切事务，而总经理则负责维护跟合作单位的关系"
+      },
+      {
+        "key": "B",
+        "text": "在每周的例会上，各中层管理人员都要将本周工作总结和下周工作计划向总经理汇报"
+      },
+      {
+        "key": "C",
+        "text": "某管理中心兼职人员的确定副总经理有决定权，而专职人员的确定总经理才有决定权"
+      },
+      {
+        "key": "D",
+        "text": "某公司的报帐制度中，500 元以下的都由部门要理审批，而 500 元以上的才需要总经理审批"
+      }
+    ],
+    "answer": "D",
+    "explanation": "D。根据定义，A 项没有区分一般日常事务与例外的事项；B 项是一种汇报而不是授权；C 项总经 理与副总经理不是上下级关系，两者只是权限不同。",
+    "keyPoints": [],
+    "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "中等",
+    "source": "2006年山东公务员考试《行测》第48题",
+    "province": "山东",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shandong-2006-未标注-49",
+    "category": "provincial",
+    "module": "panduan",
+    "title": "判断·商业贿赂是以经营者为主体，以现金、实物等为手段，以销售、…",
+    "stem": "商业贿赂是以经营者为主体，以现金、实物等为手段，以销售、购买商品为目的，以破坏正常的市场竞争 秩序为根本危害的一种行为。\n根据以上定义，认定商业贿赂的标准不包括 ( )",
+    "options": [
+      {
+        "key": "A",
+        "text": "是否对贿赂人起到收买作用"
+      },
+      {
+        "key": "B",
+        "text": "是否对受贿人起到收买作用"
+      },
+      {
+        "key": "C",
+        "text": "是否当事人主观上有相关的贿赂意思"
+      },
+      {
+        "key": "D",
+        "text": "是否使受贿人得到利益，金额超出商业惯例的范围与否"
+      }
+    ],
+    "answer": "D",
+    "explanation": "D。商业贿赂是会破坏正常的市场竞争秩序，A、B、C 都会影响受贿人的判断，这和金额多少没 什么关系，所以 D 不是判断的标准。",
+    "keyPoints": [],
+    "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "中等",
+    "source": "2006年山东公务员考试《行测》第49题",
+    "province": "山东",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shandong-2006-未标注-50",
+    "category": "provincial",
+    "module": "panduan",
+    "title": "判断·非营利性组织是不以营利为主要目的的社会组织，包括教育科研…",
+    "stem": "非营利性组织是不以营利为主要目的的社会组织，包括教育科研、文化艺术、医疗卫生、家教、慈善福利 以及公交、水电、铁路、邮电等社会公共服务机构。\n根据以上定义，下列不属于非营利性组织行为的是 ( )",
+    "options": [
+      {
+        "key": "A",
+        "text": "国际上著名的“绿色和平组织 ”行为"
+      },
+      {
+        "key": "B",
+        "text": "我国的“消费者保护协会 ”行为"
+      },
+      {
+        "key": "C",
+        "text": "我国的“海峡两岸统一促进会 ”行为"
+      },
+      {
+        "key": "D",
+        "text": "营利性组织通过代表工会成员同资方谈判而向其收取酬劳，进入工会的业务领域"
+      }
+    ],
+    "answer": "D",
+    "explanation": "D。非营利性组织是不以营利为目的的社会组织，多指社会公共服务机构。工会的业务领域是营 利性组织的一个组成部分的工作内容，不能单独称为非营利性组织。",
+    "keyPoints": [
+      "非营利性组织是不以营利为目的的社会组织，多指社会公共服务机构",
+      "工会的业务领域是营 利性组织的一个组成部分的工作内容，不能单独称为非营利性组织"
+    ],
+    "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "中等",
+    "source": "2006年山东公务员考试《行测》第50题",
+    "province": "山东",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shandong-2006-未标注-51",
+    "category": "provincial",
+    "module": "panduan",
+    "title": "判断·概念的内涵是概念所反映的客体集合所有元素的共同属性。它是…",
+    "stem": "概念的内涵是概念所反映的客体集合所有元素的共同属性。它是以高度紧缩形成出现的，揭示一个概念的 内涵，如同抽出卷尺，这个抽出卷尺的过程在特殊的情况下不是不可以采用否定形式的。\n根据以上定义，下面采用否定形式揭示不同概念内涵的是 ( )",
+    "options": [
+      {
+        "key": "A",
+        "text": "生荒地就是未被开垦的荒地"
+      },
+      {
+        "key": "B",
+        "text": "紧急避险就是不负刑事责任的行为"
+      },
+      {
+        "key": "C",
+        "text": "非集合概念就是不反映对象集合体的的概念"
+      },
+      {
+        "key": "D",
+        "text": "非婚生子女就是不具有合理婚姻关系的男女所生的子女"
+      }
+    ],
+    "answer": "B",
+    "explanation": "B。对于概念的内涵在特殊情况下可以用否定形式揭示出概念的内涵，但是紧急避险不能用否定 形式揭示此概念的内涵。紧急避险行为,指行为人为了使公共利益,本人或他人的人身权和其他权利免受正在发生\n的危险,不得已而采取的致人损害行为.紧急避险的构成要件是:第一，本人或他人财产，人身权利受到严重威胁且 没有其他方法可以解除；第二，紧急避险所保全的利益大于所损害的利益；第三，紧急避险不得超过必要限度， 超过必要限度造成不应有损害的，仍然属于侵权行为，紧急避险人应承担适当的民事责任。因紧急避险造成损害 的，由引起险情的人或有责任的第三人承担民事责任。如果危险是由自然原因引起的，紧急避险的受害人通常是 无辜的第三人，则应由紧急避险的受益人承担损失，紧急避险人不承担或只承担适当的民事责任。",
+    "keyPoints": [
+      "紧急避险行为,指行为人为了使公共利益,本人或他人的人身权和其他权利免受正在发生"
+    ],
+    "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "中等",
+    "source": "2006年山东公务员考试《行测》第51题",
+    "province": "山东",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shandong-2006-未标注-52",
+    "category": "provincial",
+    "module": "panduan",
+    "title": "判断·规模经济是指产出增加速度快于投入的增加速度。这里的“规模…",
+    "stem": "规模经济是指产出增加速度快于投入的增加速度。这里的“规模 ”即是指由生产能力的扩大而导致的较大 生产批量。这里的“经济 ”，是指成本的节约、效益的提高或报酬的递增。\n根据以上定义，下列不属于规模经济的是 ( )",
+    "options": [
+      {
+        "key": "A",
+        "text": "一家工厂生产一辆自行车要投入 10 小时劳动，在成本不变的情况下，投入 5000 小时，产 500 辆车。工厂 规模扩大后，生产 5000 辆车，只要 30000 小时的劳动时间。"
+      },
+      {
+        "key": "B",
+        "text": "一家工厂原年产钢 500 万吨，投入 1 亿资本，5000 人，在技术水平不变的条件下，投入增加一倍，年产 钢 1000 万吨。"
+      },
+      {
+        "key": "C",
+        "text": "甲企业的生产影响到乙企业，因其影响是正的，则甲企业的生产低于社会最优水平，但把他们合二为一，\n则此时的外部影响就“消失 ”了。"
+      },
+      {
+        "key": "D",
+        "text": "瑞士集中了大量生产手表的企业，形成较大的产业规模，既提高了效率，又降低了成本。"
+      }
+    ],
+    "answer": "C",
+    "explanation": "C。规模经济是指生产能力增加到一定程度而造成的成本下降，是对一个企业的生产能力而言的。 选项 C，两个工厂合并后，是否会造成成本的下降、效益的提高在文中并没有体现，故选 C。",
+    "keyPoints": [],
+    "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "中等",
+    "source": "2006年山东公务员考试《行测》第52题",
+    "province": "山东",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shandong-2006-未标注-53",
+    "category": "provincial",
+    "module": "panduan",
+    "title": "判断·快乐是人们主观感受到的愉悦的身心状态，也是一种由对存在世…",
+    "stem": "快乐是人们主观感受到的愉悦的身心状态，也是一种由对存在世界认知与体验形成的幸福感、满意状态带 来的多个层次的体验过程。\n根据以上定义，下面不称其为快乐的是 ( )",
+    "options": [
+      {
+        "key": "A",
+        "text": "一个人从优质的食物、洁净的环境、宽敞的居所感受到的东西"
+      },
+      {
+        "key": "B",
+        "text": "一个人对生活、社会、员工、收入、职业、社会和自然环境有最大的满足度"
+      },
+      {
+        "key": "C",
+        "text": "一个人对健康、亲情、收入、职业、社会和自然环境有最大的满足度"
+      },
+      {
+        "key": "D",
+        "text": "一个人享有最多的福利，经济的任务就是致力于福利"
+      }
+    ],
+    "answer": "D",
+    "explanation": "D。快乐是一种身心状态，是个体验过程，A、B、C 都是从这个角度上理解的，选项 D 是说致力 于福利，但是不是快乐就不一定了。",
+    "keyPoints": [],
+    "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "中等",
+    "source": "2006年山东公务员考试《行测》第53题",
+    "province": "山东",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shandong-2006-未标注-54",
+    "category": "provincial",
+    "module": "panduan",
+    "title": "判断·人的视觉完形功能，是指当人们在用眼睛观察世界时，总是倾向…",
+    "stem": "人的视觉完形功能，是指当人们在用眼睛观察世界时，总是倾向于用自己所熟悉的经验，把本无联系的散 乱事物加工成有机的整体后进行感知。\n根据以上定义，下列不属于人的视觉完形功能的是 ( )",
+    "options": [
+      {
+        "key": "A",
+        "text": "1872 年美国迈布里奇用连动摄影机拍摄到，马在奔跑时至少一蹄着地，不会有古代画家所画的马总是四 蹄腾空的样子"
+      },
+      {
+        "key": "B",
+        "text": "北斗星由七颗星星组成，人们总是亲切地称之为“勺星 ”"
+      },
+      {
+        "key": "C",
+        "text": "鲁迅小时候喜欢在画本的不同页上画动作相差很小的一组人物，然后迅速从前往后翻，这时画面本来静止 的人们都好像动了起来"
+      },
+      {
+        "key": "D",
+        "text": "在一个很黑的屋子里燃着一柱香，一个人在凝视香头几分钟后，发觉这个香头竟然自己动了起来"
+      }
+    ],
+    "answer": "D",
+    "explanation": "D。视觉完形功能是把本无联系的事物加工成有机的整体，D 项是一个事物，不符合加工成有机 整体的特征。",
+    "keyPoints": [],
+    "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "中等",
+    "source": "2006年山东公务员考试《行测》第54题",
+    "province": "山东",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shandong-2006-未标注-55",
+    "category": "provincial",
+    "module": "panduan",
+    "title": "判断·依法行政是指行政机关应当依据法律规定，在法定权限内，按照…",
+    "stem": "依法行政是指行政机关应当依据法律规定，在法定权限内，按照法定程序作出证据确凿充分的行为。 根据以上定义，下列行为符合依法行政要求的是 ( )",
+    "options": [
+      {
+        "key": "A",
+        "text": "某市政府办公厅制定发布了一个有关该市城市环境卫生管理处罚的规范性文件"
+      },
+      {
+        "key": "B",
+        "text": "某区公安局认为张某兔子干扰了邻居正常生活，依据治安管理处罚法，对其作出罚款 5000 元并处以 15 日 行政拘留的行政处罚"
+      },
+      {
+        "key": "C",
+        "text": "某市政府为保护文物古迹，而向某户居民提出在该户居民所有的房屋院落中，建立文物保护示范点，要求 该户居民限时迁出，并决定给予该户居民一定的补偿"
+      },
+      {
+        "key": "D",
+        "text": "某市工商局接群众举报称某香烟批发点销售假冒的“熊猫 ”牌香烟，前往执法时发现业户已经得知消息关 门停止营业。为及时得到确凿证据，打击违法经营行为，执法人员破门而入，当场查获尚未来得及转移的大量库 存假冒烟及会计资料，据此对该业户作出了行政处罚决定。"
+      }
+    ],
+    "answer": "C",
+    "explanation": "C。A 项只是颁布了一个文件，不牵扯到行政的问题；B 项公安机关的行为超出了法定权限，所以 也不是依法行政；D 项没有按照法定程序，不符合依法行政的要求。\n三、演绎推理。共 10 题。每道题给出一段陈述，这段陈述被假设是正确的，不容置疑的。要求你根据这段陈 述，选择一个答案。注意，正确的答案应与所给的陈述相符合，不需要任何附加说明即可以从陈述中直接推出。",
+    "keyPoints": [
+      "三、演绎推理",
+      "共 10 题"
+    ],
+    "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "中等",
+    "source": "2006年山东公务员考试《行测》第55题",
+    "province": "山东",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shandong-2006-未标注-56",
+    "category": "provincial",
+    "module": "panduan",
+    "title": "判断·目前，我国汽车每百公里平均油耗比发达国家多 20％以上。…",
+    "stem": "目前，我国汽车每百公里平均油耗比发达国家多 20％以上。研究表明，柴油车与汽油车相比，燃油消耗 低 20％到 30％。在汽车排放污染物较严重的情况下，发展先进柴油汽车可以做到汽车污染物不增排甚至减排。我 国柴油车在汽车保有量中的比重为 23.7％，在轿车保有量中的比重仅为 0.2％。假设 2020 年我国柴油车在乘用车 保用量的比重为 30％ ，相应的在汽车总保有量中的比重为 39.7％ ，那么在 2020 年当年可节约原油 2837 万吨。\n下面最能支持上述诊断的选项是 ( )",
+    "options": [
+      {
+        "key": "A",
+        "text": "可考虑对汽油、柴油采取差别税率的方式， 以使柴油价格低于汽油"
+      },
+      {
+        "key": "B",
+        "text": "鼓励更多的人使用柴油汽车等节能产品"
+      },
+      {
+        "key": "C",
+        "text": "应提高柴油质量标准，利用价格监管手段，鼓励生产高品质柴油"
+      },
+      {
+        "key": "D",
+        "text": "增强先进柴油技术的自主创新能力，发展先进的柴油汽车"
+      }
+    ],
+    "answer": "B",
+    "explanation": "B。只有鼓励更多的人使用柴油汽车，才能增加柴油汽车在汽车总保有量中的比重；所以B 最能 支持提干的论断。",
+    "keyPoints": [],
+    "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "中等",
+    "source": "2006年山东公务员考试《行测》第56题",
+    "province": "山东",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shandong-2006-未标注-57",
+    "category": "provincial",
+    "module": "panduan",
+    "title": "判断·A、B、C 三个大学生到某乡镇当村官，一个上了富村，一个…",
+    "stem": "A、B、C 三个大学生到某乡镇当村官，一个上了富村，一个上了穷村，一个上了不富不穷的村。但究竟谁 到了哪个村，人们开始不清楚，于是作了如下猜测：\n甲：A 上了富村，B 上了穷村 乙：",
+    "options": [
+      {
+        "key": "A",
+        "text": "上了穷村，C 上了富村\n丙：A 上了不富不穷的村，"
+      },
+      {
+        "key": "B",
+        "text": "上了富村\n后来证实， 甲、乙、丙三人的猜测都是只对了一半。由此可以推出 ( )\nA．A 上了富村，B 上了穷村，"
+      },
+      {
+        "key": "C",
+        "text": "上了不富不穷的村 B．A 上了穷村，B 上了富村，C 上了不富不穷的村\nC．A 上了不富不穷的村，B 上了富村，C 上了穷村"
+      },
+      {
+        "key": "D",
+        "text": "A 上了不富不穷的村，B 上了穷村，C 上了富村"
+      }
+    ],
+    "answer": "D",
+    "explanation": "D。C 只被猜了 1 次，是上了富村；B 被猜了 2 次（上了富村和穷村），而 C 上了富村，所以 B 上 了穷村；那么A 上了不富不穷的村。",
+    "keyPoints": [],
+    "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "中等",
+    "source": "2006年山东公务员考试《行测》第57题",
+    "province": "山东",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shandong-2006-未标注-58",
+    "category": "provincial",
+    "module": "panduan",
+    "title": "判断·已知下列判断中前两个假，后两个真。 （1）如果 A 没有…",
+    "stem": "已知下列判断中前两个假，后两个真。\n（1）如果 A 没有被录用，那么B 就被录用\n（2）",
+    "options": [
+      {
+        "key": "A",
+        "text": "和"
+      },
+      {
+        "key": "B",
+        "text": "两个人中只有一人被录用 （3）只有 A 被录用，"
+      },
+      {
+        "key": "C",
+        "text": "才不被录用\n（4）如果 C 被录用，"
+      },
+      {
+        "key": "D",
+        "text": "才被录用 据此可以推出 ( )"
+      }
+    ],
+    "answer": "B",
+    "explanation": "B。由（1）、（2）为假可推出A 和 B 同时被录用或者同时未被录用，由此排除 C、D 两项；由（3） 为真可知“A 被录用 ”是“C 不被录用 ”的必要条件，推出“A 未被录用，则 C 被录用 ”，所以答案为 B 项。",
+    "keyPoints": [],
+    "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "中等",
+    "source": "2006年山东公务员考试《行测》第58题",
+    "province": "山东",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shandong-2006-未标注-59",
+    "category": "provincial",
+    "module": "panduan",
+    "title": "判断·在司法审判中，肯定性误判是指把无罪者判为有罪，就是所谓的…",
+    "stem": "在司法审判中，肯定性误判是指把无罪者判为有罪，就是所谓的错判；否定性误判是指把有罪判为无罪， 就是所谓的错放。而司法公正的根本原则是“不放过一个坏人，不冤枉一个好人 ”。某法学家认为， 目前衡量一个 法院在办案中对司法公正的原则贯彻得是否足够好，就看它的肯定性误判率是否足够低。\n以下哪项如果为真，能够最有力地支持上述法学家的观点？ ( )",
+    "options": [
+      {
+        "key": "A",
+        "text": "各个法院的办案正确率普遍有明显的提高"
+      },
+      {
+        "key": "B",
+        "text": "错放，只是放过了坏人；错判，则是既放过了坏人，又冤枉了好人"
+      },
+      {
+        "key": "C",
+        "text": "错放造成的损失，大多是可弥补的；错判对被害人造成的伤害，是不可弥补的"
+      },
+      {
+        "key": "D",
+        "text": "各个法院的否定性误判率基本相同"
+      }
+    ],
+    "answer": "B",
+    "explanation": "B。该法学家的观点是“衡量一个法院在办案中对司法公正的原则贯彻得是否足够好，就看它的 肯定性误判率是否足够低。”选项 A、C、D 虽然对他的观点也有所支持，但并未提及观点的本质，只有 B 项从本质 上支持了该法学家的观点。",
+    "keyPoints": [],
+    "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "中等",
+    "source": "2006年山东公务员考试《行测》第59题",
+    "province": "山东",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shandong-2006-未标注-60",
+    "category": "provincial",
+    "module": "panduan",
+    "title": "判断·设立“小金库 ”，是在很多经营单位普遍存在的一种现象。小…",
+    "stem": "设立“小金库 ”，是在很多经营单位普遍存在的一种现象。小金库主要支出项目是职工福利和执行费这两 块。小金库的形成一是在供应过程动手脚，再是在销售过程中，收入不全部入外帐，三是在外帐上虚增生产成本、 经营费用。尽管这是违反规定的，但一些单位的领导还是认为只要自己不贪不占，帐目清楚，总不会有太大问题。\n以下哪项如果为真，最能反驳上述观点？ ( )",
+    "options": [
+      {
+        "key": "A",
+        "text": "小金库支出开始用于一些不好直接下帐的非正常开支，随后领导班子集体私分就顺理成章了"
+      },
+      {
+        "key": "B",
+        "text": "具有行政执法权的一个监督站，违规设立小金库 50 余万元，因不构成经济犯罪，此事件已由上级主管部 门进行政纪处理"
+      },
+      {
+        "key": "C",
+        "text": "公款用于职工和单位就是个人变相违法"
+      },
+      {
+        "key": "D",
+        "text": "对公款私存怎样区分、制止，不是无计可施"
+      }
+    ],
+    "answer": "C",
+    "explanation": "C。题干领导的观点是“只要自己不贪不占、账目清楚，总不会有太大问题。”而选项 C 表明这种 行为就是个人变相贪污，有力地反驳了题干的观点。",
+    "keyPoints": [
+      "题干领导的观点是“只要自己不贪不占、账目清楚，总不会有太大问题",
+      "”而选项 C 表明这种 行为就是个人变相贪污，有力地反驳了题干的观点"
+    ],
+    "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "中等",
+    "source": "2006年山东公务员考试《行测》第60题",
+    "province": "山东",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shandong-2006-未标注-61",
+    "category": "provincial",
+    "module": "panduan",
+    "title": "判断·近年来，一些地方政府纷纷将引入全球 500 强作为工作重…",
+    "stem": "近年来，一些地方政府纷纷将引入全球 500 强作为工作重点，为了争取跨国公司来投资，付出了高昂的资 源代价：不可再生的土地资源、宝贵的自然资源被跨国公司廉价使用；还有税收损失。我们的国内企业所得税是 33％ ，而三资企业最高所得税是 24％ 。我们引进洋品牌却难以获得核心技术，核心元器件也不能实现本地配套供 应，对产业的发展不能形成拉动作用。我们得到的只是组装过程中的劳得，增值税也极低。\n由此可以推出 ( )",
+    "options": [
+      {
+        "key": "A",
+        "text": "洋品牌进入不可能带进最先进的技术、利润最高的订单"
+      },
+      {
+        "key": "B",
+        "text": "我们应避免过分引进洋品牌造成的负面影响"
+      },
+      {
+        "key": "C",
+        "text": "提高我国产业的国际竞争力，必须解决阻碍产业进展的突出问题"
+      },
+      {
+        "key": "D",
+        "text": "我们必须拥有具备核心技术和具有国际竞争力的产业及品牌"
+      }
+    ],
+    "answer": "D",
+    "explanation": "D。题干说的是引入跨国公司我们付出了高昂的代价，所以我们必须拥有具备核心技术和具有国 际竞争力的产业及品牌。",
+    "keyPoints": [],
+    "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "中等",
+    "source": "2006年山东公务员考试《行测》第61题",
+    "province": "山东",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shandong-2006-未标注-62",
+    "category": "provincial",
+    "module": "panduan",
+    "title": "判断·北京林业大学有 8 个食堂，每天就餐人数达 1.5 万。…",
+    "stem": "北京林业大学有 8 个食堂，每天就餐人数达 1.5 万。这些人若都作用一次性筷子，一年要耗费 1640 多万 以，等于毁掉 3200 棵生长五六十年的大树。于是，这个学校的师生呼吁拒绝使用一次性筷子，而且他们坚持了整 整 7 年。\n以下除哪项外，从不同方面对北京林业大学师生的做法提供了支持？ ( )",
+    "options": [
+      {
+        "key": "A",
+        "text": "荣辱观的培养，要从小事做起，从我做起，从身边做起"
+      },
+      {
+        "key": "B",
+        "text": "林木对涵养水分、调节气候、防止水土流失具有不可替代的作用"
+      },
+      {
+        "key": "C",
+        "text": "我国森林资源匮乏，把一片树木用来做一次性筷子，是莫大的浪费"
+      },
+      {
+        "key": "D",
+        "text": "森林资源不是只保不用，适量采伐，合理使用，会促进经济发展和林区保护"
+      }
+    ],
+    "answer": "D",
+    "explanation": "D。题干的做法是拒绝使用树木做的一次性筷子，而 D 项的观点是可以利用森林资源，所以不能 对他们提供支持。",
+    "keyPoints": [],
+    "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "中等",
+    "source": "2006年山东公务员考试《行测》第62题",
+    "province": "山东",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shandong-2006-未标注-63",
+    "category": "provincial",
+    "module": "panduan",
+    "title": "判断·2005 年至 2006 年，从“超女 ”热到“胡戈们 …",
+    "stem": "2005 年至 2006 年，从“超女 ”热到“胡戈们 ”旺，从北京的郭德纲到上海的蔡嘎亮……来自民间的、鲜 活泼辣的、不登大雅之堂的“草根文化 ”正以惊人的速度走红。面对这样一个群体或群体文化，欣赏的人会夸一 句“来自群众，贴近群众 ”，不欣赏的人则不屑地按上评语——低俗、哗众取宠。\n上述欣赏的人的议论是基于以下哪项假设？ ( )",
+    "options": [
+      {
+        "key": "A",
+        "text": "心连心是“草根文化 ”成功的最大资本"
+      },
+      {
+        "key": "B",
+        "text": "“草根文化 ”的“俗 ”吸引人们"
+      },
+      {
+        "key": "C",
+        "text": "原生态的东西是有生命力的东西"
+      },
+      {
+        "key": "D",
+        "text": "从宋词元曲到京剧都经历过由草根到庙堂的过程"
+      }
+    ],
+    "answer": "A",
+    "explanation": "A。欣赏的人说的是“来自群众，贴近群众 ”，因此，他们假设的前提是这种文化跟群众是心连心 的，这就是它的成功之本，不然就不可能贴近群众。",
+    "keyPoints": [],
+    "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "中等",
+    "source": "2006年山东公务员考试《行测》第63题",
+    "province": "山东",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shandong-2006-未标注-64",
+    "category": "provincial",
+    "module": "panduan",
+    "title": "判断·今年 4 月，我国遭遇了近年来最为强劲的一次特大沙尘暴灾…",
+    "stem": "今年 4 月，我国遭遇了近年来最为强劲的一次特大沙尘暴灾害，损失达 65 亿美元。沙尘暴天气的发生一\n般需要三个条件：有丰富的沙尘源；有强风作用；大气层结构不稳定，即在沙地及无植被的裸露地表，空气容易 受热，把刮起的沙尘吹起。这说明，气候干旱引起草地退化、沙化，也就必然会出现沙尘暴这种“天灾 ”。\n下面哪一项如果为真，最能反驳上面的论述？ ( )",
+    "options": [
+      {
+        "key": "A",
+        "text": "在呼伦贝尔退化摹的对面，蒙古草原的草高度在 1 米左右，那里有上万只黄羊在活动"
+      },
+      {
+        "key": "B",
+        "text": "在中蒙 10 公里宽的边境线上，草依然保留年前的高度，但那是无人活动区"
+      },
+      {
+        "key": "C",
+        "text": "过渡放牧所形成的沙漠化土地占到\n29、4%"
+      },
+      {
+        "key": "D",
+        "text": "采取大规模的休养生息方式来缓解人类生产对生态环境的压力"
+      }
+    ],
+    "answer": "A",
+    "explanation": "A。题干的论述是气候干旱引起沙漠化，选项 A 表明即使是干旱也未必能引起草原退化和沙漠化， 最能反驳题干的论述；C 项表明过度放牧也是土地沙漠化的重要原因，能反驳题干的论述，但力度没有 A 项大。",
+    "keyPoints": [],
+    "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "中等",
+    "source": "2006年山东公务员考试《行测》第64题",
+    "province": "山东",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shandong-2006-未标注-65",
+    "category": "provincial",
+    "module": "panduan",
+    "title": "判断·市场上有甲、乙两个品牌的同一型号电池， 甲牌号的电池价格…",
+    "stem": "市场上有甲、乙两个品牌的同一型号电池， 甲牌号的电池价格比乙牌号低 10％ ，前者比后者畅销。但经 检测，乙牌号的电池使用寿命比甲牌号长 15％ ，甲牌号反而畅销，原因就是消费者不知道这两种电池在寿命上的 差异。这样，在竞争性的市场里，本来应当少生产的低效产品反而多生产了。这说明，不完全信息可以导致市场 失效。\n据此可以推出 ( )",
+    "options": [
+      {
+        "key": "A",
+        "text": "消费者拥有的产品信息不充分时，市场在配置资源方面不可能发挥有效作用时，需要政府的介入"
+      },
+      {
+        "key": "B",
+        "text": "厂家在商品标签上应标明有关产品的成分、功能和生产日期"
+      },
+      {
+        "key": "C",
+        "text": "消费者只有充分地获得产品的有关信息，了解产品的真正价值，才可作出正确的购物决定"
+      },
+      {
+        "key": "D",
+        "text": "应当完善反不正当竞争法和消费者权益保护法"
+      }
+    ],
+    "answer": "C",
+    "explanation": "C。题干并未提及政府及法律的信息，所以 A、D 两项无法推出；题干只是说明对产品消费者该怎 样选择，并未说明厂家的责任，所以答案为 C 项。",
+    "keyPoints": [],
+    "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "中等",
+    "source": "2006年山东公务员考试《行测》第65题",
+    "province": "山东",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shandong-2007-未标注-73",
+    "category": "provincial",
+    "module": "panduan",
+    "title": "判断·强迫障碍，是以反复出现强迫观念为基本特征的一类神经症性障…",
+    "stem": "强迫障碍，是以反复出现强迫观念为基本特征的一类神经症性障碍。强迫观念是以刻板形式反复进入 息者意识领域的思想、表象或意向。这些思想、表象或意向对患者来说，是没有现实意义的、不必要的或多 余的；患者意识到这些都是他自己的思想，很想摆脱，但又无能为力，因而感到十分苦恼。\n根据定义，以下可能属于“强迫障碍 ”的是（ ）。",
+    "options": [
+      {
+        "key": "A",
+        "text": "张奶奶老是一个劲地叨念着：我儿子就要回来了"
+      },
+      {
+        "key": "B",
+        "text": "老李锁上门后又打开进去检查一遍再锁门……如此循环三次才放心离开"
+      },
+      {
+        "key": "C",
+        "text": "虽然已经打了三次电话了，赵某还是不放心，于是再一次拨通电话"
+      },
+      {
+        "key": "D",
+        "text": "明明已经确定带了那本书，小黄在路上还是忍不住检查好几回"
+      }
+    ],
+    "answer": "D",
+    "explanation": "【答案】D。“这些思想、表象或意向对患者来说，是没有现实意义的、不必要的或多余的； 患者意识到这些都是他自己的思想，很想摆脱，但又无能为力，因而感到十分苦恼。 ”D 项中“检 查好几回 ”是多余的，“忍不住 ”说明小黄“很想摆脱，但又无能为力。 ”",
+    "keyPoints": [],
+    "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "中等",
+    "source": "2007年山东公务员考试《行测》第73题",
+    "province": "山东",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shandong-2007-未标注-74",
+    "category": "provincial",
+    "province": "山东",
+    "module": "panduan",
+    "title": "第74题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 74 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "中等",
+    "source": "2007年山东公务员考试《行测》第74题",
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shandong-2007-未标注-75",
+    "category": "provincial",
+    "province": "山东",
+    "module": "panduan",
+    "title": "第75题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 75 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "中等",
+    "source": "2007年山东公务员考试《行测》第75题",
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shandong-2007-未标注-76",
+    "category": "provincial",
+    "province": "山东",
+    "module": "panduan",
+    "title": "第76题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 76 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "中等",
+    "source": "2007年山东公务员考试《行测》第76题",
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shandong-2007-未标注-77",
+    "category": "provincial",
+    "province": "山东",
+    "module": "panduan",
+    "title": "第77题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 77 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "中等",
+    "source": "2007年山东公务员考试《行测》第77题",
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shandong-2007-未标注-78",
+    "category": "provincial",
+    "province": "山东",
+    "module": "panduan",
+    "title": "第78题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 78 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "中等",
+    "source": "2007年山东公务员考试《行测》第78题",
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shandong-2007-未标注-79",
+    "category": "provincial",
+    "province": "山东",
+    "module": "panduan",
+    "title": "第79题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 79 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "中等",
+    "source": "2007年山东公务员考试《行测》第79题",
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shandong-2007-未标注-80",
+    "category": "provincial",
+    "province": "山东",
+    "module": "panduan",
+    "title": "第80题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 80 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "中等",
+    "source": "2007年山东公务员考试《行测》第80题",
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shandong-2007-未标注-81",
+    "category": "provincial",
+    "province": "山东",
+    "module": "panduan",
+    "title": "第81题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 81 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "中等",
+    "source": "2007年山东公务员考试《行测》第81题",
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shandong-2007-未标注-82",
+    "category": "provincial",
+    "province": "山东",
+    "module": "panduan",
+    "title": "第82题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 82 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "中等",
+    "source": "2007年山东公务员考试《行测》第82题",
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shandong-2007-未标注-83",
+    "category": "provincial",
+    "province": "山东",
+    "module": "panduan",
+    "title": "第83题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 83 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "中等",
+    "source": "2007年山东公务员考试《行测》第83题",
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shandong-2007-未标注-84",
+    "category": "provincial",
+    "province": "山东",
+    "module": "panduan",
+    "title": "第84题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 84 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "中等",
+    "source": "2007年山东公务员考试《行测》第84题",
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shandong-2007-未标注-85",
+    "category": "provincial",
+    "province": "山东",
+    "module": "panduan",
+    "title": "第85题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 85 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "中等",
+    "source": "2007年山东公务员考试《行测》第85题",
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shandong-2007-未标注-86",
+    "category": "provincial",
+    "province": "山东",
+    "module": "panduan",
+    "title": "第86题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 86 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "中等",
+    "source": "2007年山东公务员考试《行测》第86题",
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shandong-2007-未标注-87",
+    "category": "provincial",
+    "province": "山东",
+    "module": "panduan",
+    "title": "第87题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 87 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "中等",
+    "source": "2007年山东公务员考试《行测》第87题",
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shandong-2007-未标注-88",
+    "category": "provincial",
+    "province": "山东",
+    "module": "panduan",
+    "title": "第88题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 88 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "中等",
+    "source": "2007年山东公务员考试《行测》第88题",
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shandong-2007-未标注-89",
+    "category": "provincial",
+    "province": "山东",
+    "module": "panduan",
+    "title": "第89题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 89 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "中等",
+    "source": "2007年山东公务员考试《行测》第89题",
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shandong-2007-未标注-90",
+    "category": "provincial",
+    "province": "山东",
+    "module": "panduan",
+    "title": "第90题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 90 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "中等",
+    "source": "2007年山东公务员考试《行测》第90题",
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shandong-2007-未标注-91",
+    "category": "provincial",
+    "province": "山东",
+    "module": "panduan",
+    "title": "第91题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 91 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "中等",
+    "source": "2007年山东公务员考试《行测》第91题",
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shandong-2007-未标注-92",
+    "category": "provincial",
+    "province": "山东",
+    "module": "panduan",
+    "title": "第92题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 92 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "中等",
+    "source": "2007年山东公务员考试《行测》第92题",
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shandong-2007-未标注-93",
+    "category": "provincial",
+    "province": "山东",
+    "module": "panduan",
+    "title": "第93题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 93 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "中等",
+    "source": "2007年山东公务员考试《行测》第93题",
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shandong-2007-未标注-94",
+    "category": "provincial",
+    "province": "山东",
+    "module": "panduan",
+    "title": "第94题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 94 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "中等",
+    "source": "2007年山东公务员考试《行测》第94题",
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shandong-2007-未标注-95",
+    "category": "provincial",
+    "province": "山东",
+    "module": "panduan",
+    "title": "第95题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 95 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "中等",
+    "source": "2007年山东公务员考试《行测》第95题",
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shandong-2007-未标注-96",
+    "category": "provincial",
+    "province": "山东",
+    "module": "panduan",
+    "title": "第96题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 96 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "中等",
+    "source": "2007年山东公务员考试《行测》第96题",
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shandong-2007-未标注-97",
+    "category": "provincial",
+    "province": "山东",
+    "module": "panduan",
+    "title": "第97题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 97 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "中等",
+    "source": "2007年山东公务员考试《行测》第97题",
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shandong-2007-未标注-98",
+    "category": "provincial",
+    "province": "山东",
+    "module": "panduan",
+    "title": "第98题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 98 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "中等",
+    "source": "2007年山东公务员考试《行测》第98题",
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shandong-2007-未标注-99",
+    "category": "provincial",
+    "province": "山东",
+    "module": "panduan",
+    "title": "第99题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 99 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "中等",
+    "source": "2007年山东公务员考试《行测》第99题",
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shandong-2007-未标注-100",
+    "category": "provincial",
+    "province": "山东",
+    "module": "panduan",
+    "title": "第100题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 100 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "中等",
+    "source": "2007年山东公务员考试《行测》第100题",
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shandong-2007-未标注-101",
+    "category": "provincial",
+    "province": "山东",
+    "module": "panduan",
+    "title": "第101题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 101 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "中等",
+    "source": "2007年山东公务员考试《行测》第101题",
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shandong-2007-未标注-102",
+    "category": "provincial",
+    "province": "山东",
+    "module": "panduan",
+    "title": "第102题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 102 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "中等",
+    "source": "2007年山东公务员考试《行测》第102题",
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shandong-2007-未标注-103",
+    "category": "provincial",
+    "province": "山东",
+    "module": "panduan",
+    "title": "第103题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 103 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "中等",
+    "source": "2007年山东公务员考试《行测》第103题",
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shandong-2007-未标注-104",
+    "category": "provincial",
+    "province": "山东",
+    "module": "panduan",
+    "title": "第104题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 104 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "中等",
+    "source": "2007年山东公务员考试《行测》第104题",
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shandong-2007-未标注-105",
+    "category": "provincial",
+    "province": "山东",
+    "module": "panduan",
+    "title": "第105题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 105 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "中等",
+    "source": "2007年山东公务员考试《行测》第105题",
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shandong-2007-未标注-106",
+    "category": "provincial",
+    "province": "山东",
+    "module": "panduan",
+    "title": "第106题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 106 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "中等",
+    "source": "2007年山东公务员考试《行测》第106题",
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shandong-2007-未标注-107",
+    "category": "provincial",
+    "province": "山东",
+    "module": "panduan",
+    "title": "第107题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 107 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "中等",
+    "source": "2007年山东公务员考试《行测》第107题",
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shandong-2007-未标注-108",
+    "category": "provincial",
+    "province": "山东",
+    "module": "panduan",
+    "title": "第108题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 108 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "中等",
+    "source": "2007年山东公务员考试《行测》第108题",
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shandong-2007-未标注-109",
+    "category": "provincial",
+    "province": "山东",
+    "module": "panduan",
+    "title": "第109题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 109 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "中等",
+    "source": "2007年山东公务员考试《行测》第109题",
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shandong-2007-未标注-110",
+    "category": "provincial",
+    "province": "山东",
+    "module": "panduan",
+    "title": "第110题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 110 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "中等",
+    "source": "2007年山东公务员考试《行测》第110题",
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shandong-2007-未标注-111",
+    "category": "provincial",
+    "province": "山东",
+    "module": "panduan",
+    "title": "第111题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 111 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "中等",
+    "source": "2007年山东公务员考试《行测》第111题",
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shandong-2007-未标注-112",
+    "category": "provincial",
+    "province": "山东",
+    "module": "panduan",
+    "title": "第112题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 112 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "中等",
+    "source": "2007年山东公务员考试《行测》第112题",
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shandong-2007-未标注-113",
+    "category": "provincial",
+    "province": "山东",
+    "module": "panduan",
+    "title": "第113题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 113 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "中等",
+    "source": "2007年山东公务员考试《行测》第113题",
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shandong-2007-未标注-114",
+    "category": "provincial",
+    "province": "山东",
+    "module": "panduan",
+    "title": "第114题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 114 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "中等",
+    "source": "2007年山东公务员考试《行测》第114题",
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shandong-2007-未标注-115",
+    "category": "provincial",
+    "province": "山东",
+    "module": "panduan",
+    "title": "第115题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 115 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "中等",
+    "source": "2007年山东公务员考试《行测》第115题",
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shandong-2007-未标注-116",
+    "category": "provincial",
+    "province": "山东",
+    "module": "panduan",
+    "title": "第116题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 116 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "中等",
+    "source": "2007年山东公务员考试《行测》第116题",
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shandong-2007-未标注-117",
+    "category": "provincial",
+    "province": "山东",
+    "module": "panduan",
+    "title": "第117题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 117 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "中等",
+    "source": "2007年山东公务员考试《行测》第117题",
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shandong-2007-未标注-118",
+    "category": "provincial",
+    "province": "山东",
+    "module": "panduan",
+    "title": "第118题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 118 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "中等",
+    "source": "2007年山东公务员考试《行测》第118题",
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shandong-2007-未标注-119",
+    "category": "provincial",
+    "province": "山东",
+    "module": "panduan",
+    "title": "第119题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 119 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "中等",
+    "source": "2007年山东公务员考试《行测》第119题",
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shandong-2007-未标注-120",
+    "category": "provincial",
+    "province": "山东",
+    "module": "panduan",
+    "title": "第120题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 120 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "中等",
+    "source": "2007年山东公务员考试《行测》第120题",
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shandong-2007-未标注-121",
+    "category": "provincial",
+    "province": "山东",
+    "module": "panduan",
+    "title": "第121题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 121 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "中等",
+    "source": "2007年山东公务员考试《行测》第121题",
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shandong-2007-未标注-122",
+    "category": "provincial",
+    "province": "山东",
+    "module": "panduan",
+    "title": "第122题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 122 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "中等",
+    "source": "2007年山东公务员考试《行测》第122题",
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shandong-2007-未标注-123",
+    "category": "provincial",
+    "province": "山东",
+    "module": "panduan",
+    "title": "第123题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 123 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "中等",
+    "source": "2007年山东公务员考试《行测》第123题",
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shandong-2007-未标注-124",
+    "category": "provincial",
+    "province": "山东",
+    "module": "panduan",
+    "title": "第124题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 124 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "中等",
+    "source": "2007年山东公务员考试《行测》第124题",
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shandong-2007-未标注-125",
+    "category": "provincial",
+    "province": "山东",
+    "module": "panduan",
+    "title": "第125题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 125 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "中等",
+    "source": "2007年山东公务员考试《行测》第125题",
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shandong-2007-未标注-126",
+    "category": "provincial",
+    "province": "山东",
+    "module": "panduan",
+    "title": "第126题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 126 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "中等",
+    "source": "2007年山东公务员考试《行测》第126题",
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shandong-2007-未标注-127",
+    "category": "provincial",
+    "province": "山东",
+    "module": "panduan",
+    "title": "第127题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 127 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "中等",
+    "source": "2007年山东公务员考试《行测》第127题",
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shandong-2007-未标注-128",
+    "category": "provincial",
+    "province": "山东",
+    "module": "panduan",
+    "title": "第128题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 128 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "中等",
+    "source": "2007年山东公务员考试《行测》第128题",
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shandong-2007-未标注-129",
+    "category": "provincial",
+    "province": "山东",
+    "module": "panduan",
+    "title": "第129题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 129 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "中等",
+    "source": "2007年山东公务员考试《行测》第129题",
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shandong-2007-未标注-130",
+    "category": "provincial",
+    "province": "山东",
+    "module": "panduan",
+    "title": "第130题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 130 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "中等",
+    "source": "2007年山东公务员考试《行测》第130题",
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shandong-2007-未标注-131",
+    "category": "provincial",
+    "province": "山东",
+    "module": "panduan",
+    "title": "第131题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 131 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "中等",
+    "source": "2007年山东公务员考试《行测》第131题",
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shandong-2007-未标注-132",
+    "category": "provincial",
+    "province": "山东",
+    "module": "panduan",
+    "title": "第132题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 132 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "中等",
+    "source": "2007年山东公务员考试《行测》第132题",
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shandong-2007-未标注-133",
+    "category": "provincial",
+    "province": "山东",
+    "module": "panduan",
+    "title": "第133题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 133 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "中等",
+    "source": "2007年山东公务员考试《行测》第133题",
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shandong-2007-未标注-134",
+    "category": "provincial",
+    "province": "山东",
+    "module": "panduan",
+    "title": "第134题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 134 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "中等",
+    "source": "2007年山东公务员考试《行测》第134题",
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shandong-2007-未标注-135",
+    "category": "provincial",
+    "province": "山东",
+    "module": "panduan",
+    "title": "第135题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 135 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "中等",
+    "source": "2007年山东公务员考试《行测》第135题",
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shandong-2007-未标注-136",
+    "category": "provincial",
+    "province": "山东",
+    "module": "panduan",
+    "title": "第136题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 136 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "中等",
+    "source": "2007年山东公务员考试《行测》第136题",
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shandong-2007-未标注-137",
+    "category": "provincial",
+    "province": "山东",
+    "module": "panduan",
+    "title": "第137题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 137 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "中等",
+    "source": "2007年山东公务员考试《行测》第137题",
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shandong-2007-未标注-138",
+    "category": "provincial",
+    "province": "山东",
+    "module": "panduan",
+    "title": "第138题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 138 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "中等",
+    "source": "2007年山东公务员考试《行测》第138题",
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shandong-2007-未标注-139",
+    "category": "provincial",
+    "province": "山东",
+    "module": "panduan",
+    "title": "第139题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 139 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "中等",
+    "source": "2007年山东公务员考试《行测》第139题",
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shandong-2007-未标注-140",
+    "category": "provincial",
+    "province": "山东",
+    "module": "panduan",
+    "title": "第140题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 140 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "中等",
+    "source": "2007年山东公务员考试《行测》第140题",
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shandong-2007-未标注-141",
+    "category": "provincial",
+    "province": "山东",
+    "module": "panduan",
+    "title": "第141题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 141 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "中等",
+    "source": "2007年山东公务员考试《行测》第141题",
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shandong-2007-未标注-142",
+    "category": "provincial",
+    "province": "山东",
+    "module": "panduan",
+    "title": "第142题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 142 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "中等",
+    "source": "2007年山东公务员考试《行测》第142题",
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shandong-2007-未标注-143",
+    "category": "provincial",
+    "province": "山东",
+    "module": "panduan",
+    "title": "第143题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 143 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "中等",
+    "source": "2007年山东公务员考试《行测》第143题",
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shandong-2007-未标注-144",
+    "category": "provincial",
+    "province": "山东",
+    "module": "panduan",
+    "title": "第144题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 144 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "中等",
+    "source": "2007年山东公务员考试《行测》第144题",
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shandong-2007-未标注-145",
+    "category": "provincial",
+    "province": "山东",
+    "module": "panduan",
+    "title": "第145题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 145 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "中等",
+    "source": "2007年山东公务员考试《行测》第145题",
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shandong-2007-未标注-146",
+    "category": "provincial",
+    "province": "山东",
+    "module": "panduan",
+    "title": "第146题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 146 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "中等",
+    "source": "2007年山东公务员考试《行测》第146题",
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shandong-2007-未标注-147",
+    "category": "provincial",
+    "province": "山东",
+    "module": "panduan",
+    "title": "第147题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 147 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "中等",
+    "source": "2007年山东公务员考试《行测》第147题",
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shandong-2007-未标注-148",
+    "category": "provincial",
+    "province": "山东",
+    "module": "panduan",
+    "title": "第148题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 148 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "中等",
+    "source": "2007年山东公务员考试《行测》第148题",
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shandong-2007-未标注-149",
+    "category": "provincial",
+    "province": "山东",
+    "module": "panduan",
+    "title": "第149题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 149 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "中等",
+    "source": "2007年山东公务员考试《行测》第149题",
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shandong-2007-未标注-150",
+    "category": "provincial",
+    "province": "山东",
+    "module": "panduan",
+    "title": "第150题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 150 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "中等",
+    "source": "2007年山东公务员考试《行测》第150题",
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shandong-2007-未标注-151",
+    "category": "provincial",
+    "province": "山东",
+    "module": "panduan",
+    "title": "第151题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 151 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "中等",
+    "source": "2007年山东公务员考试《行测》第151题",
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shandong-2007-未标注-152",
+    "category": "provincial",
+    "province": "山东",
+    "module": "panduan",
+    "title": "第152题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 152 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "中等",
+    "source": "2007年山东公务员考试《行测》第152题",
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shandong-2007-未标注-153",
+    "category": "provincial",
+    "province": "山东",
+    "module": "panduan",
+    "title": "第153题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 153 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "中等",
+    "source": "2007年山东公务员考试《行测》第153题",
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shandong-2007-未标注-154",
+    "category": "provincial",
+    "province": "山东",
+    "module": "panduan",
+    "title": "第154题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 154 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "中等",
+    "source": "2007年山东公务员考试《行测》第154题",
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shandong-2007-未标注-155",
+    "category": "provincial",
+    "province": "山东",
+    "module": "panduan",
+    "title": "第155题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 155 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "中等",
+    "source": "2007年山东公务员考试《行测》第155题",
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shandong-2007-未标注-156",
+    "category": "provincial",
+    "province": "山东",
+    "module": "panduan",
+    "title": "第156题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 156 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "中等",
+    "source": "2007年山东公务员考试《行测》第156题",
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shandong-2007-未标注-157",
+    "category": "provincial",
+    "province": "山东",
+    "module": "panduan",
+    "title": "第157题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 157 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "中等",
+    "source": "2007年山东公务员考试《行测》第157题",
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shandong-2007-未标注-158",
+    "category": "provincial",
+    "province": "山东",
+    "module": "panduan",
+    "title": "第158题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 158 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "中等",
+    "source": "2007年山东公务员考试《行测》第158题",
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shandong-2007-未标注-159",
+    "category": "provincial",
+    "province": "山东",
+    "module": "panduan",
+    "title": "第159题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 159 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "中等",
+    "source": "2007年山东公务员考试《行测》第159题",
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shandong-2007-未标注-160",
+    "category": "provincial",
+    "province": "山东",
+    "module": "panduan",
+    "title": "第160题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 160 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "中等",
+    "source": "2007年山东公务员考试《行测》第160题",
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shandong-2007-未标注-161",
+    "category": "provincial",
+    "province": "山东",
+    "module": "panduan",
+    "title": "第161题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 161 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "中等",
+    "source": "2007年山东公务员考试《行测》第161题",
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shandong-2007-未标注-162",
+    "category": "provincial",
+    "province": "山东",
+    "module": "panduan",
+    "title": "第162题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 162 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "中等",
+    "source": "2007年山东公务员考试《行测》第162题",
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shandong-2007-未标注-163",
+    "category": "provincial",
+    "province": "山东",
+    "module": "panduan",
+    "title": "第163题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 163 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "中等",
+    "source": "2007年山东公务员考试《行测》第163题",
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shandong-2007-未标注-164",
+    "category": "provincial",
+    "province": "山东",
+    "module": "panduan",
+    "title": "第164题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 164 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "中等",
+    "source": "2007年山东公务员考试《行测》第164题",
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shandong-2007-未标注-165",
+    "category": "provincial",
+    "province": "山东",
+    "module": "panduan",
+    "title": "第165题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 165 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "中等",
+    "source": "2007年山东公务员考试《行测》第165题",
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shandong-2007-未标注-166",
+    "category": "provincial",
+    "province": "山东",
+    "module": "panduan",
+    "title": "第166题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 166 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "中等",
+    "source": "2007年山东公务员考试《行测》第166题",
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shandong-2007-未标注-167",
+    "category": "provincial",
+    "province": "山东",
+    "module": "panduan",
+    "title": "第167题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 167 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "中等",
+    "source": "2007年山东公务员考试《行测》第167题",
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shandong-2007-未标注-168",
+    "category": "provincial",
+    "province": "山东",
+    "module": "panduan",
+    "title": "第168题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 168 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "中等",
+    "source": "2007年山东公务员考试《行测》第168题",
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shandong-2007-未标注-169",
+    "category": "provincial",
+    "province": "山东",
+    "module": "panduan",
+    "title": "第169题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 169 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "中等",
+    "source": "2007年山东公务员考试《行测》第169题",
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shandong-2007-未标注-170",
+    "category": "provincial",
+    "province": "山东",
+    "module": "panduan",
+    "title": "第170题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 170 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "中等",
+    "source": "2007年山东公务员考试《行测》第170题",
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shandong-2007-未标注-171",
+    "category": "provincial",
+    "province": "山东",
+    "module": "panduan",
+    "title": "第171题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 171 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "中等",
+    "source": "2007年山东公务员考试《行测》第171题",
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shandong-2007-未标注-172",
+    "category": "provincial",
+    "province": "山东",
+    "module": "panduan",
+    "title": "第172题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 172 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "中等",
+    "source": "2007年山东公务员考试《行测》第172题",
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shandong-2007-未标注-173",
+    "category": "provincial",
+    "province": "山东",
+    "module": "panduan",
+    "title": "第173题（原卷文本缺失）",
+    "stem": "（原卷此题在 Word 文本层缺失，题号 173 保留占位，待人工补录。）",
+    "options": [],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
+    "difficulty": "中等",
+    "source": "2007年山东公务员考试《行测》第173题",
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
+  },
+  {
+    "id": "prov-shandong-2007-未标注-174",
+    "category": "provincial",
+    "module": "panduan",
+    "title": "判断·职权是由组织领导者的地位决定的一种具有强制性的法定权力。…",
+    "stem": "职权是由组织领导者的地位决定的一种具有强制性的法定权力。它有明确的范围，权力因职位不同 而变化。\n根据上述定义，下列属于职权的是（ ）。",
+    "options": [
+      {
+        "key": "A",
+        "text": "如果 A 对"
+      },
+      {
+        "key": "B",
+        "text": "拥有权力，那么A 就能影响 B 的一些行为，这种影响与职位无关\nB.A 对 B 具有强制性的决定权力，这种权力同A 和 B 的个人因素无关"
+      },
+      {
+        "key": "C",
+        "text": "A 的影响权力 B 一定会接受"
+      },
+      {
+        "key": "D",
+        "text": "既包括 A 的法定权力，也包括 A 的非法定权力"
+      }
+    ],
+    "answer": "",
+    "explanation": "",
+    "keyPoints": [],
+    "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "中等",
+    "source": "2007年山东公务员考试《行测》第174题",
+    "province": "山东",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shandong-2008-未标注-51",
+    "category": "provincial",
+    "module": "panduan",
+    "title": "判断·从所给的四个选项中，选择最合适的一个填入问号处。使之呈现…",
+    "stem": "从所给的四个选项中，选择最合适的一个填入问号处。使之呈现一定的规律性。",
+    "options": [],
+    "answer": "D",
+    "explanation": "元素组成相似，元素叠加。\n每一幅图都由内外两个图形组成。每一组中第一幅图的内图形变成第二幅图的外图形，第二幅图的内图\n形变成第三幅图的外图形，第三幅图的内图形变成第一幅图的外图形。由此推出第二组中第三幅图的外图形 应是第二幅图的内图形（平行四边形）， 内图形应该是第一幅图的外图形（梯形）。\n故正确答案为 D。",
+    "keyPoints": [
+      "元素组成相似，元素叠加",
+      "每一幅图都由内外两个图形组成",
+      "每一组中第一幅图的内图形变成第二幅图的外图形，第二幅图的内图"
+    ],
+    "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "中等",
+    "source": "2008年山东公务员考试《行测》第51题",
+    "isImageQuestion": true,
+    "province": "山东",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shandong-2008-未标注-52",
+    "category": "provincial",
+    "module": "panduan",
+    "title": "判断·从所给的四个选项中，选择最合适的一个填入问号处。使之呈现…",
+    "stem": "从所给的四个选项中，选择最合适的一个填入问号处。使之呈现一定的规律性。",
+    "options": [],
+    "answer": "C",
+    "explanation": "元素组成相同，考察位置规律。\n第一组图中，左下角元素每次逆时针旋转一格，其余元素每次旋转两格。 故正确答案为 C。",
+    "keyPoints": [
+      "元素组成相同，考察位置规律",
+      "第一组图中，左下角元素每次逆时针旋转一格，其余元素每次旋转两格",
+      "故正确答案为 C"
+    ],
+    "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "中等",
+    "source": "2008年山东公务员考试《行测》第52题",
+    "isImageQuestion": true,
+    "province": "山东",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shandong-2008-未标注-53",
+    "category": "provincial",
+    "module": "panduan",
+    "title": "判断·从所给的四个选项中，选择最合适的一个填入问号处。使之呈现…",
+    "stem": "从所给的四个选项中，选择最合适的一个填入问号处。使之呈现一定的规律性。",
+    "options": [],
+    "answer": "C",
+    "explanation": "元素叠加。\n第一组图中的每幅图均由三个大小不同的相同图形由外向内叠加构成。 故正确答案为 C。",
+    "keyPoints": [
+      "第一组图中的每幅图均由三个大小不同的相同图形由外向内叠加构成",
+      "故正确答案为 C"
+    ],
+    "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "中等",
+    "source": "2008年山东公务员考试《行测》第53题",
+    "isImageQuestion": true,
+    "province": "山东",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shandong-2008-未标注-54",
+    "category": "provincial",
+    "module": "panduan",
+    "title": "判断·从所给的四个选项中，选择最合适的一个填入问号处。使之呈现…",
+    "stem": "从所给的四个选项中，选择最合适的一个填入问号处。使之呈现一定的规律性。",
+    "options": [],
+    "answer": "D",
+    "explanation": "观察图形内部的阴影线，第一组中三幅图内部的阴影都向左倾斜，第二组中三幅图内部的阴影都向 右倾斜。\n故正确答案为 D。",
+    "keyPoints": [
+      "故正确答案为 D"
+    ],
+    "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "中等",
+    "source": "2008年山东公务员考试《行测》第54题",
+    "isImageQuestion": true,
+    "province": "山东",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shandong-2008-未标注-55",
+    "category": "provincial",
+    "module": "panduan",
+    "title": "判断·从所给的四个选项中，选择最合适的一个填入问号处。使之呈现…",
+    "stem": "从所给的四个选项中，选择最合适的一个填入问号处。使之呈现一定的规律性。",
+    "options": [],
+    "answer": "D",
+    "explanation": "元素组成相同，考察位置规律。\n第一组图中，三角形那块向六边形一侧整体翻转（即右翻）得到第二幅图，之后再向右移动得到第三幅 图；与此类似，第二组图中，正方形那块向圆一侧整体翻转（即左翻）后应向左移动。\n故正确答案为 D。",
+    "keyPoints": [
+      "元素组成相同，考察位置规律",
+      "故正确答案为 D"
+    ],
+    "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "中等",
+    "source": "2008年山东公务员考试《行测》第55题",
+    "isImageQuestion": true,
+    "province": "山东",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shandong-2008-未标注-56",
+    "category": "provincial",
+    "module": "panduan",
+    "title": "判断·政府执政能力是政府执行的能力和效能，是政府贯彻执行党和国…",
+    "stem": "政府执政能力是政府执行的能力和效能，是政府贯彻执行党和国家路线方针政策以实现既定目标的实践 能力。\n根据以上定义，下列不属于政府执政能力的是：",
+    "options": [
+      {
+        "key": "A",
+        "text": "政府执行过程中的量化成分"
+      },
+      {
+        "key": "B",
+        "text": "政府执行过程中的效果体"
+      },
+      {
+        "key": "C",
+        "text": "实现组织经营战略目标的能力"
+      },
+      {
+        "key": "D",
+        "text": "把行政决策所规定的具体任务化为工作实际"
+      }
+    ],
+    "answer": "C",
+    "explanation": "第一步：抓住定义中的关键词。\n关键词是“执行 ”的“能力和效能 ”。 第二步：逐一判断选项。\nA 中的“量化成分 ”符合执行的“能力 ”； B 中的“效果体 ”是符合执行的“效能 ”；\nD 中的具体任务实际化符合题干后半句的定义；\n题干中政府执行力只是“贯彻执行 ”，并非参与经营，C 不符。 故正确答案为 C。",
+    "keyPoints": [
+      "第一步：抓住定义中的关键词",
+      "关键词是“执行 ”的“能力和效能 ”",
+      "第二步：逐一判断选项"
+    ],
+    "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "中等",
+    "source": "2008年山东公务员考试《行测》第56题",
+    "province": "山东",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shandong-2008-未标注-57",
+    "category": "provincial",
+    "module": "panduan",
+    "title": "判断·错误记忆是指对从未经历的事件“ 回忆 ”，或者对经历事件…",
+    "stem": "错误记忆是指对从未经历的事件“ 回忆 ”，或者对经历事件的错误回忆。 下列属于错误记忆的是：",
+    "options": [
+      {
+        "key": "A",
+        "text": "无效信息解码、储存以及提取的精神过程"
+      },
+      {
+        "key": "B",
+        "text": "这件事曾经做过，但他记不清楚细节了"
+      },
+      {
+        "key": "C",
+        "text": "回忆不出这个词是否真的学过，只是猜测有可能学过"
+      },
+      {
+        "key": "D",
+        "text": "人们对这一突发事件的记忆"
+      }
+    ],
+    "answer": "C",
+    "explanation": "第一步：抓住定义中的关键词。\n关键词是“未经历 ”或“经历却错误 ”。 第二步：逐一判断选项。\nA 中“无效信息 ”说明“经历过 ”且记起的是没有用的内容，但并非记错； B 中“做过 ”说明“经历过 ”，但“记不清细节 ”并非“错误回忆 ”；\nD 中是人们对经历过的事件的正确记忆；\nC 中对经历过与否都不确定，要么是未学过，要么是学过但回忆不起来，C 是记忆错误。 故正确答案为 C。",
+    "keyPoints": [
+      "第一步：抓住定义中的关键词",
+      "关键词是“未经历 ”或“经历却错误 ”",
+      "第二步：逐一判断选项"
+    ],
+    "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "中等",
+    "source": "2008年山东公务员考试《行测》第57题",
+    "province": "山东",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shandong-2008-未标注-58",
+    "category": "provincial",
+    "module": "panduan",
+    "title": "判断·权职冲突是指各行政主体在行使行政职权过程中因职权界定而导…",
+    "stem": "权职冲突是指各行政主体在行使行政职权过程中因职权界定而导致的争议或对抗。 根据以上定义，下列不属于权职冲突的是：",
+    "options": [
+      {
+        "key": "A",
+        "text": "两个或两个以上行政主体对同一行政管理事项都认为自己有管辖权，而他方无管辖权"
+      },
+      {
+        "key": "B",
+        "text": "两个或两个以上行政主体对同一行政管理事项都认为自己无管辖权，而他方有管辖权"
+      },
+      {
+        "key": "C",
+        "text": "两个或两个以上行政主体对同一行政管理事项都认为自己和他方有管辖权，但在管辖方面、程度或主导性 上存在争议"
+      },
+      {
+        "key": "D",
+        "text": "行政主体依法享有的对特定行政事项实施行政管理的资格、权能与义务"
+      }
+    ],
+    "answer": "D",
+    "explanation": "第一步：抓住定义中的关键词。\n关键词是“职权界定 ”不明，并由此“导致争议或对抗 ”。 第二步：逐一判断选项。\n“职权冲突 ”的原因是“职权界定 ”不明，其中涉及到管辖权的有无和管辖的程度，A、B、C 选项分别 从不同侧面指向了“职权界定 ”的不明；\nD 选项并非在阐述什么是“职权冲突 ”而是解释了什么是“职权 ”。 故正确答案为 D。",
+    "keyPoints": [
+      "第一步：抓住定义中的关键词",
+      "关键词是“职权界定 ”不明，并由此“导致争议或对抗 ”",
+      "第二步：逐一判断选项"
+    ],
+    "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "中等",
+    "source": "2008年山东公务员考试《行测》第58题",
+    "province": "山东",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shandong-2008-未标注-59",
+    "category": "provincial",
+    "module": "panduan",
+    "title": "判断·和谐无论是从其词源意义来看，还是从其哲学本体论上看，都是…",
+    "stem": "和谐无论是从其词源意义来看，还是从其哲学本体论上看，都是多样性的统一和对立要素的有机结合。 根据以上定义，不属于和谐哲学意蕴的表述是：",
+    "options": [
+      {
+        "key": "A",
+        "text": "差异和对立是和谐形成的基础和前提"
+      },
+      {
+        "key": "B",
+        "text": "由和谐创生新的事物"
+      },
+      {
+        "key": "C",
+        "text": "六律只有其按规律“和调 ”才能形成悦耳的音乐"
+      },
+      {
+        "key": "D",
+        "text": "五味不加以“和调 ”也能形成爽口的美味"
+      }
+    ],
+    "answer": "D",
+    "explanation": "第一步：抓住定义中的关键词。\n题干的关键词是“多样性的统一 ”和“对立性的结合 ”。 第二步：逐一判断选项。\nA、C 都强调了对立性和统一性，A、C 符合定义；\n和谐的中心是“统一和对立 ”，对立统一的事物有机结合后定能产生新的事物，B 符合定义；\nD 中“不加以‘和调 ’，也能…… ”排除了统一性在“美味 ”中发挥的作用，把 D 改为“将五味按照一 定的规律加以‘和调 ’才能形成爽口的美味 ”就符合“和谐 ”的定义。\n故正确答案为 D。",
+    "keyPoints": [
+      "第一步：抓住定义中的关键词",
+      "题干的关键词是“多样性的统一 ”和“对立性的结合 ”",
+      "第二步：逐一判断选项"
+    ],
+    "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "中等",
+    "source": "2008年山东公务员考试《行测》第59题",
+    "province": "山东",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shandong-2008-未标注-60",
+    "category": "provincial",
+    "module": "panduan",
+    "title": "判断·财产性收入是指家庭拥有的动产（如银行存款、有价证券等）、…",
+    "stem": "财产性收入是指家庭拥有的动产（如银行存款、有价证券等）、不动产（如房屋、车辆、土地、收藏品 等）所获得的收入。根据以上定义，下列不属于财产性收入的是：",
+    "options": [
+      {
+        "key": "A",
+        "text": "财产运营所获得的红利"
+      },
+      {
+        "key": "B",
+        "text": "出让财产使用权所获得的专利收入"
+      },
+      {
+        "key": "C",
+        "text": "非财产增值收益"
+      },
+      {
+        "key": "D",
+        "text": "出让财产使用权所获得的利息、租金"
+      }
+    ],
+    "answer": "C",
+    "explanation": "第一步：抓住定义中的关键词。\n关键词是基于“动产 ”、“不动产 ”这些财产的收入。\n第二步：逐一判断选项。\nA 中“红利 ”是基于“动产或不动产的运营所得 ”； B 中“专利收入 ”是基于“ 出让动产所有权所得 ”；\nD 中“利息、租金 ”是基于“ 出让不动产所有权所得 ”。A、B、D 属于财产性收入。\nC 中“非财产增值收益 ”不是基于“动产 ”或“不动产 ”这些财产所得，C 不属于财产性收入。 故正确答案为 C。",
+    "keyPoints": [
+      "第一步：抓住定义中的关键词",
+      "关键词是基于“动产 ”、“不动产 ”这些财产的收入",
+      "第二步：逐一判断选项"
+    ],
+    "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "中等",
+    "source": "2008年山东公务员考试《行测》第60题",
+    "province": "山东",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shandong-2008-未标注-61",
+    "category": "provincial",
+    "module": "panduan",
+    "title": "判断·产权是指主体对物的排他性权利，它的本质是人们在社会中发生…",
+    "stem": "产权是指主体对物的排他性权利，它的本质是人们在社会中发生的对劳动成果的权利。 根据以上定义，下列不属于产权的是：",
+    "options": [
+      {
+        "key": "A",
+        "text": "所有权、 占有权"
+      },
+      {
+        "key": "B",
+        "text": "收益权、转让权"
+      },
+      {
+        "key": "C",
+        "text": "劳动选择权、劳动交换转让权"
+      },
+      {
+        "key": "D",
+        "text": "支配权、使用权"
+      }
+    ],
+    "answer": "C",
+    "explanation": "第一步：抓住定义中的关键词。\n题干强调相对“物 ”的“排他性 ”权利。产权的对象是“劳动成果 ”。\n第二步：逐一判断选项。\nC 中的“劳动选择权、劳动交换转让权 ”并非对“劳动成果 ”的权利，“劳动 ”也不是“物 ”的范畴， 所以C 不属于产权；\n产权包括财产的所有权、 占有权、支配权、使用权、收益权和处置权，所以 A、B、D 属于产权。\n故正确答案为 C。",
+    "keyPoints": [
+      "第一步：抓住定义中的关键词",
+      "题干强调相对“物 ”的“排他性 ”权利",
+      "产权的对象是“劳动成果 ”"
+    ],
+    "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "中等",
+    "source": "2008年山东公务员考试《行测》第61题",
+    "province": "山东",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shandong-2008-未标注-62",
+    "category": "provincial",
+    "module": "panduan",
+    "title": "判断·公共政策是社会公共权威在特定的情景中，为达到一定目标而制…",
+    "stem": "公共政策是社会公共权威在特定的情景中，为达到一定目标而制定的行动方案或行动准则。 根据以上定义，下列不属于公共政策的是：",
+    "options": [
+      {
+        "key": "A",
+        "text": "政府机关和执政党的政策"
+      },
+      {
+        "key": "B",
+        "text": "学校、社区的政策"
+      },
+      {
+        "key": "C",
+        "text": "村委会的政策"
+      },
+      {
+        "key": "D",
+        "text": "公共权力机关和非政府公共组织"
+      }
+    ],
+    "answer": "D",
+    "explanation": "第一步：抓住定义中的关键词。\n题干的关键词是“公共权威 ”。\n第二步：逐一判断选项。\nA 中“政府机关和执政党 ”是“公共权威 ”；\nB、C 中“学校、社区、村委会 ”等非政府公共组织在一定范围内也是“公共权威 ”；\nD 中“公共权力机关和非政府公共组织 ”范围太大，这些机关和组织不一定都是“社会公共权威 ”。\n故正确答案为 D。",
+    "keyPoints": [
+      "第一步：抓住定义中的关键词",
+      "题干的关键词是“公共权威 ”",
+      "第二步：逐一判断选项"
+    ],
+    "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "中等",
+    "source": "2008年山东公务员考试《行测》第62题",
+    "province": "山东",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shandong-2008-未标注-63",
+    "category": "provincial",
+    "module": "panduan",
+    "title": "判断·三段论是由两个包含着一个公共项的直言命题得出一个新的直言…",
+    "stem": "三段论是由两个包含着一个公共项的直言命题得出一个新的直言命题的推理。根据以上定义，下列推理 属于有效三段论的是：",
+    "options": [
+      {
+        "key": "A",
+        "text": "他不是被告人，被告人有权获得辩护，所以他无权获得辩护"
+      },
+      {
+        "key": "B",
+        "text": "菊花是花，所以野菊花是野花"
+      },
+      {
+        "key": "C",
+        "text": "人都受制于自然法则，所以他受制于自然法则"
+      },
+      {
+        "key": "D",
+        "text": "如果要马儿跑的好，就要叫马儿吃足草。你不叫马儿吃足草，就不能叫马儿跑的好"
+      }
+    ],
+    "answer": "C",
+    "explanation": "第一步：抓住定义中的关键词。\n关键词是原有的两个直言命题含有一个“公共项 ”。\n第二步：逐一判断选项。\n根据“三段论 ”的定义，C 可整理为“人都受制于自然法则，他是人，所以他受制于自然法则 ”，“共 同项 ”是“人 ”，所以C 属于有效三段论；\nA 中的“不是被告人 ”与“被告人 ”不是公共项；\nB 中直言命题不全且无公共项；\nD 前半部分是充分条件，后半部分是利用逆否规则而得到的推论，所以不是三段论。\n故正确答案为 C。",
+    "keyPoints": [
+      "第一步：抓住定义中的关键词",
+      "关键词是原有的两个直言命题含有一个“公共项 ”",
+      "第二步：逐一判断选项"
+    ],
+    "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "中等",
+    "source": "2008年山东公务员考试《行测》第63题",
+    "province": "山东",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shandong-2008-未标注-64",
+    "category": "provincial",
+    "module": "panduan",
+    "title": "判断·博弈思维是指这样的思维方式， 由于我们的目标取决于自己和…",
+    "stem": "博弈思维是指这样的思维方式， 由于我们的目标取决于自己和他人的策略选择，要使用理性分析力，分 析各种可能的备选策略及其组合下的各种可能后果和实现这些后果的可能性，从而选择使我们收益最大的策 略。\n根据以上定义，下列对博弈思维的理解不准确的是：",
+    "options": [
+      {
+        "key": "A",
+        "text": "博弈思维的出发点是“谋事在人 ”，尽管有些时候是“成事在天 ”"
+      },
+      {
+        "key": "B",
+        "text": "“塞翁失马，焉知非福 ”所反映的是博弈思维"
+      },
+      {
+        "key": "C",
+        "text": "博弈思维正所谓“种瓜得瓜，种豆得豆 ”，这里的“种 ”，行动也，“瓜 ”“豆 ”结果也"
+      },
+      {
+        "key": "D",
+        "text": "持博弈思维的人既不怨天尤人、不自暴自弃，同时也不忘乎所以"
+      }
+    ],
+    "answer": "B",
+    "explanation": "第一步：抓住定义中的关键词。\n关键词是“分析 ”、“选择 ”和“后果 ”。\n第二步：逐一判断选项。\nA 中出发点“谋事在人 ”是“分析 ”和“选择 ”的可控性，“成事在天 ”是“后果 ”的不可控性，A 正确；\nB 中“塞翁失马 ”并不是当事人的主动“选择 ”，“焉知非福 ”是事后当事人对于“后果 ”的心态转化， 这个后果不是由当事人的“选择 ”而得到的，B 错误；\nC 中“种什么 ”是“选择 ”的过程，“瓜 ”、“豆 ”是种的“后果 ”，C 正确；\n由题干可知，“后果 ”是通过自己的“分析 ”和“选择 ”而产生的，好坏都在自己，D 正确。\n故正确答案为 B。",
+    "keyPoints": [
+      "第一步：抓住定义中的关键词",
+      "关键词是“分析 ”、“选择 ”和“后果 ”",
+      "第二步：逐一判断选项"
+    ],
+    "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "中等",
+    "source": "2008年山东公务员考试《行测》第64题",
+    "province": "山东",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shandong-2008-未标注-65",
+    "category": "provincial",
+    "module": "panduan",
+    "title": "判断·划分是把一个属概念分为他的各个种概念，以明确概念外延的一…",
+    "stem": "划分是把一个属概念分为他的各个种概念，以明确概念外延的一种思维方法。正确的划分要求划分出的\n各项外延之和必须等于母项，而且要采用同一标准，子项的外延不相容，而且是同一层次的概念。 下列语句作为划分正确的是：",
+    "options": [
+      {
+        "key": "A",
+        "text": "直系亲属分为“双亲 ”“胞亲 ”“配偶 ”和“子女 ”"
+      },
+      {
+        "key": "B",
+        "text": "战争分为常规战争和非常规战争"
+      },
+      {
+        "key": "C",
+        "text": "地球分为南半球和北半球"
+      },
+      {
+        "key": "D",
+        "text": "健康分为心理健康和生理健康"
+      }
+    ],
+    "answer": "C",
+    "explanation": "第一步：抓住定义中的关键词。\n划分需按“统一标准 ”。划分出的“子项外延之和必须等于母项 ”且“子项的外延不相容且是同一层次 ”， 即子项应为全异关系。\n第二步：逐一判断选项。\nA 中各项的外延之和不等于“直系亲属 ”，“双亲 ”、“子女 ”、“配偶 ”属于“直系亲属 ”，但“直 系亲属 ”还应包括外祖父与外孙子女等，且“胞亲 ”不属于“直系亲属 ”；\nB 中按使用的武器种类分为“常规战争 ”和“非常规战争 ”，但是它们的外延之和小于战争，因为战争 还包括不使用武器的战争；\nC 中“南半球 ”和“北半球 ”是按方位划分的，二者之和等于地球且二者是全异关系；\nD 中子项外延之和小于母项，因为健康包括心理健康、生理健康和道德健康。\n故正确答案为 C。",
+    "keyPoints": [
+      "第一步：抓住定义中的关键词",
+      "划分需按“统一标准 ”"
+    ],
+    "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "中等",
+    "source": "2008年山东公务员考试《行测》第65题",
+    "province": "山东",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shandong-2008-未标注-66",
+    "category": "provincial",
+    "module": "panduan",
+    "title": "判断·社会保险是指国家通过立法，多渠道筹集资金，在劳动者暂时或…",
+    "stem": "社会保险是指国家通过立法，多渠道筹集资金，在劳动者暂时或永久丧失劳动力以及其他原因中断工作，\n没有经济收入或劳动收入减少时，给予经济补助，使他们能够享有基本生活条件的一项社会保障制度。 根据以上定义，下列属于社会保险的是：",
+    "options": [
+      {
+        "key": "A",
+        "text": "向老人、儿童、残疾人等人群提供的必要生活保障"
+      },
+      {
+        "key": "B",
+        "text": "养老、失业、医疗、工伤、生育等保险"
+      },
+      {
+        "key": "C",
+        "text": "对城市生活无着落的流浪乞讨人员救助"
+      },
+      {
+        "key": "D",
+        "text": "最低生活保障、农村五保供养、特困户救助、灾民救助"
+      }
+    ],
+    "answer": "B",
+    "explanation": "第一步：抓住定义中的关键词。\n社会保险的对象是“丧失劳动能力或中断工作 ”的“劳动者 ”，即它的保险对象范围限于职工，不包括 其他社会成员。\n第二步：逐一判断选项。\nA、C、D 中的对象范围不符合题干中“丧失劳动能力或中断工作 ”的“劳动者 ”这一要件。\nA 中“ 向老人、儿童、残疾人等人群提供的必要生活保障 ”属于社会保障；\nC 中“对城市生活无着落的流浪乞讨人员救助 ”和 D 中“最低生活保障、农村五保供养、特困户救助、 灾民救助 ”属于社会救助；\nB 中，按照我国劳动法的规定，社会保险项目分为养老保险、失业保险、医疗保险、工伤保险和生育保 险，B 正确。\n故正确答案为 B。",
+    "keyPoints": [
+      "第一步：抓住定义中的关键词",
+      "第二步：逐一判断选项"
+    ],
+    "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "中等",
+    "source": "2008年山东公务员考试《行测》第66题",
+    "province": "山东",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shandong-2008-未标注-67",
+    "category": "provincial",
+    "module": "panduan",
+    "title": "判断·政府绩效评估就是根据绩效目标，运用评估指标对政府部门履行…",
+    "stem": "政府绩效评估就是根据绩效目标，运用评估指标对政府部门履行行政职能所产生的结果及其影响进行评 估、划分绩效等级、提出绩效改进计划和运用评估结果来改进绩效的活动过程。\n根据以上定义，下列对政府绩效评估的理解，不准确的是：",
+    "options": [
+      {
+        "key": "A",
+        "text": "评估活动过程谋求信息沟通机制在政府部门之间、政府部门与公众之间的建立和完善"
+      },
+      {
+        "key": "B",
+        "text": "评估结果的使用谋求政府责任实现机制的加强与完善"
+      },
+      {
+        "key": "C",
+        "text": "评估目的是规范行政行为，提高效能，使政府部门在管理公共事物、提供公共服务和改善公众生活质量等 方面具有竞争力"
+      },
+      {
+        "key": "D",
+        "text": "政府绩效评估不是强调以结果为本"
+      }
+    ],
+    "answer": "D",
+    "explanation": "第一步：抓住定义中的关键词。\n题干指出，政府绩效评估围绕着“结果 ”进行一系列的活动从而改进绩效。 第二步：逐一判断选项。\nA、B、C 都指出政府绩效评估的是为了改善政府的执政效能，符合题干中改进绩效这一目标； D 选项与题干意思相反，政府绩效评估强调应以“结果 ”为本。\n故正确答案为 D。",
+    "keyPoints": [
+      "第一步：抓住定义中的关键词",
+      "题干指出，政府绩效评估围绕着“结果 ”进行一系列的活动从而改进绩效",
+      "第二步：逐一判断选项"
+    ],
+    "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "中等",
+    "source": "2008年山东公务员考试《行测》第67题",
+    "province": "山东",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shandong-2008-未标注-68",
+    "category": "provincial",
+    "module": "panduan",
+    "title": "判断·概念的内涵是概念所反映的对象的本质属性，它是概念质的规定…",
+    "stem": "概念的内涵是概念所反映的对象的本质属性，它是概念质的规定性，说明概念所反映的对象是什么样的。 下列不是从内涵方面说明概念的是：",
+    "options": [
+      {
+        "key": "A",
+        "text": "单身汉是未婚成年的男性"
+      },
+      {
+        "key": "B",
+        "text": "社会关系包括经济、思想、政治、文化以及家庭等各方面的关系"
+      },
+      {
+        "key": "C",
+        "text": "鱼是用鳃呼吸、鳍游水、有脊椎的水生动物"
+      },
+      {
+        "key": "D",
+        "text": "商品是用来交换的劳动产品"
+      }
+    ],
+    "answer": "B",
+    "explanation": "第一步：抓住定义中的关键词。\n题干中对“概念的内涵 ”的定义强调了“本质属性 ”，“说明反映的对象是什么样的 ”。\n第二步：逐一判断选项。\nA、C、D 三项都是说明事物是什么，是怎么样的。\nB 列举了“社会关系 ”包括哪些关系，提出了“社会 ”包含了哪些层面的内容，而没有说明“社会关系 ” 是什么，B 属于概念的外延。\n故正确答案为 B。",
+    "keyPoints": [
+      "第一步：抓住定义中的关键词",
+      "第二步：逐一判断选项"
+    ],
+    "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "中等",
+    "source": "2008年山东公务员考试《行测》第68题",
+    "province": "山东",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shandong-2008-未标注-69",
+    "category": "provincial",
+    "module": "panduan",
+    "title": "判断·假设就是根据已知的科学原理和一定的事实材料，对未知事物的…",
+    "stem": "假设就是根据已知的科学原理和一定的事实材料，对未知事物的普遍规律性和因果性所作出的假定性解 释。\n下列不属于假设的是：",
+    "options": [
+      {
+        "key": "A",
+        "text": "爱滋病是由支原菌和艾滋病毒引起的"
+      },
+      {
+        "key": "B",
+        "text": "世界气候渐变暖是大气的因素，或是海洋的因素，或是地球内部的因素"
+      },
+      {
+        "key": "C",
+        "text": "民法中的“宣告死亡 ”"
+      },
+      {
+        "key": "D",
+        "text": "能溶解一切物质的“万能溶液 ”"
+      }
+    ],
+    "answer": "A",
+    "explanation": "第一步：抓住定义中的关键词。\n关键词强调对“未知事物 ”做出假定性解释。 第二步：逐一判断选项。\nA 中的“艾滋病 ”已经确实存在，该病由支原菌和艾滋病毒引起也在医学上被证实，因此是对“ 已知事 物 ”做出确定性解释，A 不符；\n目前“气候变暖 ”的真正原因还是“未知 ”的，“大气、海洋、地球内部 ”这些因素都只是猜测，B 符\n合；\n失踪人是否真的死亡是“未知 ”的，他事实上也可能还活着，只是被假定死亡，C 符合；\n根据科学原理推测可能存在一种“能溶解一切物质 ”的物质，但这种物质是什么还是“未知的 ”，只是 目前假定存在这种物质并且它叫“万能溶液 ”，D 符合。\n故正确答案为 A。",
+    "keyPoints": [
+      "第一步：抓住定义中的关键词",
+      "关键词强调对“未知事物 ”做出假定性解释",
+      "第二步：逐一判断选项"
+    ],
+    "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "中等",
+    "source": "2008年山东公务员考试《行测》第69题",
+    "province": "山东",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shandong-2008-未标注-70",
+    "category": "provincial",
+    "module": "panduan",
+    "title": "判断·重大突发事件是在紧急状态下发生的严重危机事件。它包括重大…",
+    "stem": "重大突发事件是在紧急状态下发生的严重危机事件。它包括重大突发性自然灾害、重大突发性工业事故 及灾难性事故、重大突发性社会扰乱事故和重大突发性政治危机。\n根据以上定义，下列情况不属于重大突发性社会扰乱事故的是：",
+    "options": [
+      {
+        "key": "A",
+        "text": "传染病和恶性中毒"
+      },
+      {
+        "key": "B",
+        "text": "恐怖活动、民族冲突、公共场合突发性扰乱"
+      },
+      {
+        "key": "C",
+        "text": "社会动乱、选举危机、政变"
+      },
+      {
+        "key": "D",
+        "text": "球场暴力、春运火车站人员滞留、节假日旅游景区人员拥挤事故"
+      }
+    ],
+    "answer": "C",
+    "explanation": "第一步：判断考察定义。\n由题干知“重大突发性社会扰乱事故 ”强调“社会扰乱性 ”，并且与“重大突发性自然灾害 ”、“重大 突发性政治危机 ”等是全异关系。\n第二步：逐一判断选项。\n此题注意问的不是“重大突发事件 ”，而是“重大突发社会扰乱事故 ”，因此不能用题干的第一句话来 验证。突发性公共卫生事件（传染和恶性中毒等）、恐怖活动、民族冲突、公共场合突发型扰乱（如球场暴 力、春运火车站人员滞留、节假日旅游景区人员拥挤事故等）具有扰乱社会秩序的特征，因此 A、B、D 属于 “重大突发性社会扰乱事故 ”；\nC 中“社会动乱、选举危机、政变 ”等具有鲜明政治性，因此 C 属于“重大突发性政治危机 ”。 故正确答案为 C。",
+    "keyPoints": [
+      "第一步：判断考察定义",
+      "第二步：逐一判断选项"
+    ],
+    "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "中等",
+    "source": "2008年山东公务员考试《行测》第70题",
+    "province": "山东",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shandong-2008-未标注-71",
+    "category": "provincial",
+    "module": "panduan",
+    "title": "判断·电子：商务",
+    "stem": "电子：商务",
+    "options": [
+      {
+        "key": "A",
+        "text": "技术：竞争"
+      },
+      {
+        "key": "B",
+        "text": "经济：信息"
+      },
+      {
+        "key": "C",
+        "text": "鉴定：事故"
+      },
+      {
+        "key": "D",
+        "text": "董事长：股东"
+      }
+    ],
+    "answer": "B",
+    "explanation": "第一步：判断题干词语间第一重逻辑关系，并在选项中进行选择。\n“ 电子 ”和“商务 ”都是名词，合在一起构成新名词“ 电子商务 ”。C 中“鉴定 ”是动词，D 中“董事长 ” 和“股东 ”不能组成新名词，排除 C、D。\n第二步：再判断题干词语间第二重逻辑关系，并在选项中进行选择。\n电子商务是商务的一种，二者是种属关系。本题易误选 A，技术竞争是竞争的一种，但是竞争既可以是 名词也可以是动词；B 中两词都是名词并构成新名词，且经济信息是信息的一种，所以B 符合。\n故正确答案为 B。",
+    "keyPoints": [
+      "第一步：判断题干词语间第一重逻辑关系，并在选项中进行选择",
+      "“ 电子 ”和“商务 ”都是名词，合在一起构成新名词“ 电子商务 ”"
+    ],
+    "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "中等",
+    "source": "2008年山东公务员考试《行测》第71题",
+    "province": "山东",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shandong-2008-未标注-72",
+    "category": "provincial",
+    "module": "panduan",
+    "title": "判断·超声波：机械波",
+    "stem": "超声波：机械波",
+    "options": [
+      {
+        "key": "A",
+        "text": "极限：常数"
+      },
+      {
+        "key": "B",
+        "text": "轮船：船"
+      },
+      {
+        "key": "C",
+        "text": "一次方程式：线性方程"
+      },
+      {
+        "key": "D",
+        "text": "斡旋：调解"
+      }
+    ],
+    "answer": "B",
+    "explanation": "第一步：判断题干词语间逻辑关系。\n超声波是指频率为 20 千赫—50 兆赫左右的电磁波，它是一种机械波。题干两词是包容关系中的种属关 系。\n第二步：判断选项词语间逻辑关系。\nA 中的“极限 ”和“常数 ”都是数学中的名词，二者是对应关系； B 中轮船是船的一种，二者是种属关系；\n线性方程也称一次方程，因此 C 中两词为全同关系；\nD 中“斡旋 ”和“调解 ”是并列关系中的反对关系。二者都是外交上解决国际争端的方法，但除了“斡 旋 ”和“调解 ”还可以调停等。\n故正确答案为 B。",
+    "keyPoints": [
+      "第一步：判断题干词语间逻辑关系",
+      "超声波是指频率为 20 千赫—50 兆赫左右的电磁波，它是一种机械波",
+      "题干两词是包容关系中的种属关 系"
+    ],
+    "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "中等",
+    "source": "2008年山东公务员考试《行测》第72题",
+    "province": "山东",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shandong-2008-未标注-73",
+    "category": "provincial",
+    "module": "panduan",
+    "title": "判断·得主：失主",
+    "stem": "得主：失主",
+    "options": [
+      {
+        "key": "A",
+        "text": "白灾：黑灾"
+      },
+      {
+        "key": "B",
+        "text": "软武器：硬武器"
+      },
+      {
+        "key": "C",
+        "text": "数据：非数据"
+      },
+      {
+        "key": "D",
+        "text": "远程：近程"
+      }
+    ],
+    "answer": "C",
+    "explanation": "第一步：判断题干词语间逻辑关系。\n题干两词是并列关系中的矛盾关系。在一对得失关系里，不是得主就是失主。 第二步：判断选项词语间逻辑关系。\nA 中“黑灾 ”和“ 白灾 ”只是众多草原灾难中的两种，两词是反对关系； B 中两词是反对关系；\nC 中两词是矛盾关系，不存在其他情况；\nD 中两词是反对关系，因为还存在中远程等情况。 故正确答案为 C。",
+    "keyPoints": [
+      "第一步：判断题干词语间逻辑关系",
+      "题干两词是并列关系中的矛盾关系",
+      "在一对得失关系里，不是得主就是失主"
+    ],
+    "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "中等",
+    "source": "2008年山东公务员考试《行测》第73题",
+    "province": "山东",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shandong-2008-未标注-74",
+    "category": "provincial",
+    "module": "panduan",
+    "title": "判断·守望：期待",
+    "stem": "守望：期待",
+    "options": [
+      {
+        "key": "A",
+        "text": "智慧：语言"
+      },
+      {
+        "key": "B",
+        "text": "咬文：嚼字"
+      },
+      {
+        "key": "C",
+        "text": "智商：情商"
+      },
+      {
+        "key": "D",
+        "text": "升腾：冲刺"
+      }
+    ],
+    "answer": "B",
+    "explanation": "第一步：判断题干词语间逻辑关系。 题干两词是近义词，属于全同关系。\n第二步：判断选项词语间逻辑关系。 A 中“智慧 ”和“语言 ”是对应关系； B 中“咬文 ”和“嚼字 ”也是近义词；\nC 中“情商 ”和“智商 ”是反对关系， 除了这二者之外还有“逆境商 ”； D 中“升腾 ”指向上升，“冲刺 ”指向前。\n故正确答案为 B。",
+    "keyPoints": [
+      "第一步：判断题干词语间逻辑关系",
+      "题干两词是近义词，属于全同关系",
+      "第二步：判断选项词语间逻辑关系"
+    ],
+    "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "中等",
+    "source": "2008年山东公务员考试《行测》第74题",
+    "province": "山东",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shandong-2008-未标注-75",
+    "category": "provincial",
+    "module": "panduan",
+    "title": "判断·车辆：车",
+    "stem": "车辆：车",
+    "options": [
+      {
+        "key": "A",
+        "text": "花：花卉"
+      },
+      {
+        "key": "B",
+        "text": "山脉：山"
+      },
+      {
+        "key": "C",
+        "text": "解放军：战士"
+      },
+      {
+        "key": "D",
+        "text": "书籍：报纸"
+      }
+    ],
+    "answer": "B",
+    "explanation": "第一步：判断题干词语间逻辑关系。\n题干中“车辆 ”是集合名词，“车 ”是非集合名词，“车辆 ”是“车 ”的集合，二者是对应关系。\n第二步：判断选项词语间逻辑关系。\nA 中“花卉 ”是集合名词，“花 ”是非集合名词，但是 A 中词语间的顺序和题干相反，A 错误；\nB 中“ 山脉 ”是集合名词，“ 山 ”是非集合名词，“ 山脉 ”是“ 山 ”的集合，二者是对应关系，B 正确；\nC 中“解放军 ”和“战士 ”是包容关系，C 错误； D 中“书籍 ”和“报纸 ”并列关系，D 错误。\n故正确答案为 B。",
+    "keyPoints": [
+      "第一步：判断题干词语间逻辑关系",
+      "第二步：判断选项词语间逻辑关系"
+    ],
+    "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "中等",
+    "source": "2008年山东公务员考试《行测》第75题",
+    "province": "山东",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shandong-2008-未标注-76",
+    "category": "provincial",
+    "module": "panduan",
+    "title": "判断·生态：原生态",
+    "stem": "生态：原生态",
+    "options": [
+      {
+        "key": "A",
+        "text": "金三角：珠三角"
+      },
+      {
+        "key": "B",
+        "text": "海内：天涯"
+      },
+      {
+        "key": "C",
+        "text": "公交： 巴士"
+      },
+      {
+        "key": "D",
+        "text": "缩水：布缩水"
+      }
+    ],
+    "answer": "D",
+    "explanation": "第一步：判断题干词语间逻辑关系。\n题干中两词是包容关系中的属种关系，原生态是一种生态。 第二步：判断选项词语间逻辑关系。\nD 中布缩水是缩水的一种，与题干逻辑关系相同。\nA 中“金三角 ”和“珠三角 ”是两个不同的地方，是并列关系； B 中“海内 ”和“天涯 ”是对应关系，都表示空间、距离；\nC 中“公交 ”和“ 巴士 ”是本土词和英译词之间的同义词，是全同关系。 故正确答案为 D。",
+    "keyPoints": [
+      "第一步：判断题干词语间逻辑关系",
+      "题干中两词是包容关系中的属种关系，原生态是一种生态",
+      "第二步：判断选项词语间逻辑关系"
+    ],
+    "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "中等",
+    "source": "2008年山东公务员考试《行测》第76题",
+    "province": "山东",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shandong-2008-未标注-77",
+    "category": "provincial",
+    "module": "panduan",
+    "title": "判断·未婚：无权",
+    "stem": "未婚：无权",
+    "options": [
+      {
+        "key": "A",
+        "text": "国家：不丹"
+      },
+      {
+        "key": "B",
+        "text": "非法：无理"
+      },
+      {
+        "key": "C",
+        "text": "无锡：非党员"
+      },
+      {
+        "key": "D",
+        "text": "不倒翁：不健康"
+      }
+    ],
+    "answer": "B",
+    "explanation": "第一步：判断题干词语间逻辑关系。\n题干中“未婚 ”和“无权 ”都是负概念，形成对应关系。 第二步：判断选项词语间逻辑关系。\nA 中“ 国家 ”，C 中“无锡 ”，D 中“不倒翁 ”都不是负概念。\nB 中“非法 ”和“无理 ”都是负概念。 故正确答案为 B。",
+    "keyPoints": [
+      "第一步：判断题干词语间逻辑关系",
+      "题干中“未婚 ”和“无权 ”都是负概念，形成对应关系",
+      "第二步：判断选项词语间逻辑关系"
+    ],
+    "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "中等",
+    "source": "2008年山东公务员考试《行测》第77题",
+    "province": "山东",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shandong-2008-未标注-78",
+    "category": "provincial",
+    "module": "panduan",
+    "title": "判断·硬件：软件",
+    "stem": "硬件：软件",
+    "options": [
+      {
+        "key": "A",
+        "text": "上弦：下弦"
+      },
+      {
+        "key": "B",
+        "text": "淡入：淡出"
+      },
+      {
+        "key": "C",
+        "text": "胜诉：败诉"
+      },
+      {
+        "key": "D",
+        "text": "实概念：空概念"
+      }
+    ],
+    "answer": "D",
+    "explanation": "第一步：判断题干词语间逻辑关系。\n题干中两词硬件 ”与“软件 ”是并列关系中的矛盾关系。 第二步：判断选项词语间逻辑关系。\nA、B、C 项均为反对关系。\nD 中“实概念 ”与“空概念 ”的和等于“概念 ”，因此二者是矛盾关系。 故正确答案为 D。",
+    "keyPoints": [
+      "第一步：判断题干词语间逻辑关系",
+      "题干中两词硬件 ”与“软件 ”是并列关系中的矛盾关系",
+      "第二步：判断选项词语间逻辑关系"
+    ],
+    "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "中等",
+    "source": "2008年山东公务员考试《行测》第78题",
+    "province": "山东",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shandong-2008-未标注-79",
+    "category": "provincial",
+    "module": "panduan",
+    "title": "判断·“西安事变 ”：“双十二事变 ”",
+    "stem": "“西安事变 ”：“双十二事变 ”",
+    "options": [
+      {
+        "key": "A",
+        "text": "公共管理：大家管理"
+      },
+      {
+        "key": "B",
+        "text": "教育：说教"
+      },
+      {
+        "key": "C",
+        "text": "合同：契约"
+      },
+      {
+        "key": "D",
+        "text": "值日：值夜"
+      }
+    ],
+    "answer": "C",
+    "explanation": "第一步：判断题干词语间逻辑关系。\n“西安事变 ”就是“双十二事件 ”，二者是全同关系中的同义词。 第二步：判断选项词语间逻辑关系。\n与题干相同逻辑关系的是 C，“合同 ”就是“契约 ”。 A、B、D 项中各词语间并非同义词。\n故正确答案为 C。",
+    "keyPoints": [
+      "第一步：判断题干词语间逻辑关系",
+      "“西安事变 ”就是“双十二事件 ”，二者是全同关系中的同义词",
+      "第二步：判断选项词语间逻辑关系"
+    ],
+    "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "中等",
+    "source": "2008年山东公务员考试《行测》第79题",
+    "province": "山东",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shandong-2008-未标注-80",
+    "category": "provincial",
+    "module": "panduan",
+    "title": "判断·经济规律：法则",
+    "stem": "经济规律：法则",
+    "options": [
+      {
+        "key": "A",
+        "text": "军事情报：新情报"
+      },
+      {
+        "key": "B",
+        "text": "高校学生：研究生"
+      },
+      {
+        "key": "C",
+        "text": "小麦：粮食作物"
+      },
+      {
+        "key": "D",
+        "text": "文学作品：短篇小说"
+      }
+    ],
+    "answer": "C",
+    "explanation": "第一步：判断题干词语间逻辑关系。\n题干中两词是包容关系中的种属关系，“经济规律 ”是一种“法则 ”。\n第二步：判断选项词语间逻辑关系。 A 中两词是交叉关系；\nB 中两词是是属种关系； C 中两词也是种属关系； D 中两词是属种关系。\n故正确答案为 C。",
+    "keyPoints": [
+      "第一步：判断题干词语间逻辑关系",
+      "题干中两词是包容关系中的种属关系，“经济规律 ”是一种“法则 ”",
+      "第二步：判断选项词语间逻辑关系"
+    ],
+    "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "中等",
+    "source": "2008年山东公务员考试《行测》第80题",
+    "province": "山东",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shandong-2008-未标注-81",
+    "category": "provincial",
+    "module": "panduan",
+    "title": "判断·数字控制具有准确性，也具有高效性；不仅适用于简单的批量工…",
+    "stem": "数字控制具有准确性，也具有高效性；不仅适用于简单的批量工作，而且适用于复杂的单间工作；不仅 讲标准、讲程序，而且讲规范、讲信用，一旦操作违反了设计的路线，数控就会自动做出反应，“命令 ”正 处于工作状态的各个环节嘎然而止。制度则是规范行为、统一方向、提高效率的。管理靠制度，制度如数控。 由此得出：",
+    "options": [
+      {
+        "key": "A",
+        "text": "管者，拘束之意也，具有刚性，是一种硬约束"
+      },
+      {
+        "key": "B",
+        "text": "制度是管的要义所在"
+      },
+      {
+        "key": "C",
+        "text": "没有制度，就导致各行其是，远离甚至背离预先设定的目标"
+      },
+      {
+        "key": "D",
+        "text": "没有制度就失去了成员需要共同遵守的办事规程或行动准则"
+      }
+    ],
+    "answer": "C",
+    "explanation": "第一步：抓住题干中的对象及其关系。\n题干前半部分指出数控的特点及重要性，后半部分把制度与数控作类比。\n第二步：判断整体关系。\n根据类比，题干总体阐述的是制度对于管理的重要性，可以推出 C。 第三步：逐一判断选项。\nA 错误，“数控不仅讲标准和程序，而且将规范和信用 ”说明数控有柔性，是软约束，类比制度也应如 此；\nB 错误，“制度可以提高效率，是管理的倚靠 ”，但是这不表明制度就是要义；\nD 错误，题干中并没有相关内容来说明“没有制度会怎么样 ”。\n故正确答案为 C。",
+    "keyPoints": [
+      "第一步：抓住题干中的对象及其关系",
+      "题干前半部分指出数控的特点及重要性，后半部分把制度与数控作类比",
+      "第二步：判断整体关系"
+    ],
+    "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "中等",
+    "source": "2008年山东公务员考试《行测》第81题",
+    "province": "山东",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shandong-2008-未标注-82",
+    "category": "provincial",
+    "module": "panduan",
+    "title": "判断·2007 年 6 月宣布，他们用小鼠皮肤细胞培养出诱导性…",
+    "stem": "2007 年 6 月宣布，他们用小鼠皮肤细胞培养出诱导性多功能干细胞，这些诱导性多功能干细胞能产生身 体内包括卵子和精子在内的所有细胞，具有与胚胎干细胞相同的功效。同年 11 月，两个小组再次报告说，他 们成功地用人类皮肤细胞培养出了诱导性多功能干细胞，由于这项研究解决了胚胎干细胞研究所面临的伦理 问题。\n由此不能得出的是：",
+    "options": [
+      {
+        "key": "A",
+        "text": "用人类皮肤细胞仿制出胚胎干细胞"
+      },
+      {
+        "key": "B",
+        "text": "今后将彻底改变干细胞研究的科学与政策"
+      },
+      {
+        "key": "C",
+        "text": "今后将为生物医学研究开辟新的方向"
+      },
+      {
+        "key": "D",
+        "text": "伦理问题与生物医学研究方向关系不大"
+      }
+    ],
+    "answer": "D",
+    "explanation": "第一步：抓住每句话中的对象及其关系。\n第一句指出诱导性多功能干细胞具有与胚胎干细胞相同的功效。第二句指出用人类皮肤细胞能够培养出 诱导性多功能干细胞。这两句话有公共项“诱导性多功能干细胞 ”。\n第二步：逐一判断选项的作用。\n用人类皮肤细胞培养出的诱导性多功能干细胞能具有与胚胎干细胞相同的功能，也就是说这个过程是仿 制胚胎干细胞的过程，A 正确；\n“用人类皮肤仿制胚胎干细胞 ”这个研究影响着干细胞的科学和生物研究的未来发展趋向，B、C 正确； 题干的最后提到了“这项研究解决了胚胎干细胞研究所面临的伦理问题 ”，这说明生物研究和伦理问题\n有较大关系，D 错误。 故正确答案为 D。",
+    "keyPoints": [
+      "第一步：抓住每句话中的对象及其关系",
+      "第一句指出诱导性多功能干细胞具有与胚胎干细胞相同的功效",
+      "第二句指出用人类皮肤细胞能够培养出 诱导性多功能干细胞"
+    ],
+    "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "中等",
+    "source": "2008年山东公务员考试《行测》第82题",
+    "province": "山东",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shandong-2008-未标注-83",
+    "category": "provincial",
+    "module": "panduan",
+    "title": "判断·9 个人组成投票体，民主地决定各种议案，议案获得通过需要…",
+    "stem": "9 个人组成投票体，民主地决定各种议案，议案获得通过需要 5 票或 5 票以上。此时每个人的权利均等。 一旦其中出现 5 个或 5 个以上的人结盟，那么其余的人实际上已被出局。若 9 个人形成 4 个联盟，人数分别\n为 3、3、2、1，每个联盟的权利不再相等。 由此推出结论：",
+    "options": [
+      {
+        "key": "A",
+        "text": "人数分别为\n3、3、2 的权利相等，人数为 1 的联盟权利为 0"
+      },
+      {
+        "key": "B",
+        "text": "若 9 人形成 3 个联盟，这 3 个联盟的人数分别为\n4、3、2"
+      },
+      {
+        "key": "C",
+        "text": "若 9 人形成 3 个联盟，各联盟拥有的权利相等"
+      },
+      {
+        "key": "D",
+        "text": "人数分别为"
+      }
+    ],
+    "answer": "A",
+    "explanation": "第一步：翻译题干。利用充分必要条件\n第一、二句：每个人权利均等∧5 票或 5 票以上→议案通过。 第三句：5 人或 5 人以上结盟→其余人出局。\n第四句：9 人结成 4 个联盟∨人数为 3、3、2、1→每个联盟的权利不相等。 第二步：翻译选项并判断各选项正确与否\nA：人数为 1 的联盟与其他任何一个联盟组合，得票都在 5 票以下。对应第一、二句的逻辑，权利均等∧ 5 票以下无法推出议案通过。所以人数为 1 的联盟对选票的结果都没有实质的影响，因此其权力为 0。A 正确， D 错误。\nB：9 个人结成 3 个联盟时，还可能出现人数为 3、3、3 的情况。B 不周全，所以B 错误。\nC：结成 3 个联盟且联盟人数为 1、1、7 时， 由第三句的逻辑可知，人数为 1 的 2 个联盟自动出局。此 时三个联盟的权利不等。所以C 错误。\n故正确答案为 A。",
+    "keyPoints": [
+      "第一步：翻译题干",
+      "利用充分必要条件",
+      "第一、二句：每个人权利均等∧5 票或 5 票以上→议案通过"
+    ],
+    "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "中等",
+    "source": "2008年山东公务员考试《行测》第83题",
+    "province": "山东",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shandong-2008-未标注-84",
+    "category": "provincial",
+    "module": "panduan",
+    "title": "判断·已知：（1）如果甲和乙是肇事者，丙 就不是肇事者；（2）…",
+    "stem": "已知：（1）如果甲和乙是肇事者，丙 就不是肇事者；（2）如果丁是肇事者，那么乙就是肇事者；（3） 甲和丙都是肇事者。\n由此推出：",
+    "options": [
+      {
+        "key": "A",
+        "text": "乙和丁都是肇事者"
+      },
+      {
+        "key": "B",
+        "text": "乙和丁都不是肇事者"
+      },
+      {
+        "key": "C",
+        "text": "乙是肇事者，丁不是肇事者"
+      },
+      {
+        "key": "D",
+        "text": "乙不是肇事者，丁是肇事者"
+      }
+    ],
+    "answer": "B",
+    "explanation": "第一步：翻译题干。利用充分必要条件。\n（1）： 甲是∧乙是→丙不是。\n（2）：丁是→ 乙是。\n（3）： 甲是∧丙是。\n第二步：从事实信息开始推导，并得到结论。\n（3）是事实信息，所以丙是肇事者，且甲是肇事者。“丙是肇事者 ”否定了（1）的后件可以得到否定 （1）的前件的结论，即甲和乙不能都是肇事者。又因为“ 甲是肇事者 ”，所以乙不是肇事者。“ 乙不是肇事 者 ”否定了（2）的后件可以得到否定（2）的前件的结论，即丁不是肇事者。\n故正确答案为 B。",
+    "keyPoints": [
+      "第一步：翻译题干",
+      "利用充分必要条件",
+      "（1）： 甲是∧乙是→丙不是"
+    ],
+    "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "中等",
+    "source": "2008年山东公务员考试《行测》第84题",
+    "province": "山东",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shandong-2008-未标注-85",
+    "category": "provincial",
+    "module": "panduan",
+    "title": "判断·假定一个人群只有两个人 A B 构成，A B 均知道一件…",
+    "stem": "假定一个人群只有两个人 A B 构成，A B 均知道一件命题 P，P 是 A B 的知识，但此时 P 还不 是他们的公共知识。当 A B 双方均知道 P，并且他们各自知道对方知道自己知道 P……这是一个无穷的过 程。\n由此推出：",
+    "options": [
+      {
+        "key": "A",
+        "text": "与 A、"
+      },
+      {
+        "key": "B",
+        "text": "之间是公共知识 B、与 A、B 之间是基础知识"
+      },
+      {
+        "key": "C",
+        "text": "与 A、B 之间是通用知识"
+      },
+      {
+        "key": "D",
+        "text": "与 A、B 之间是同一知识"
+      }
+    ],
+    "answer": "A",
+    "explanation": "第一步：翻译题干。利用充分必要条件。\n原题干的假设为：P 不是公共知识→A 知 P∧B 知P∧A、B 互不知道对方情况。\n第二步:利用题干中剩余语句进行判断。\n题干中“当 A、B 双方均知道 P ”意味着“A 知P∧B 知 P ”，这属于肯定题干后件中的一部分。此外，题 干中“他们各自知道对方知道自己知道 P ”意味着“A、B 互相知道对方知道 P ”，这属于否定题干后件中的 一部分。利用联言命题和逆否规则，肯定题干后件中的一部分并且否定题干后件中的一部分，可以得到否定 题干前件的结论“P 是公共知识 ”。\n故正确答案为 A。",
+    "keyPoints": [
+      "第一步：翻译题干",
+      "利用充分必要条件"
+    ],
+    "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "中等",
+    "source": "2008年山东公务员考试《行测》第85题",
+    "province": "山东",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shandong-2008-未标注-86",
+    "category": "provincial",
+    "module": "panduan",
+    "title": "判断·美国《科学》杂志公布了 2007 年度科学研究十大攻破之…",
+    "stem": "美国《科学》杂志公布了 2007 年度科学研究十大攻破之一是：通过对人和大鼠的研究，科学家提出，记 忆力和想象力均植根于人类大脑的海马区，该区是大脑重要的记忆中心。\n由此推断：",
+    "options": [
+      {
+        "key": "A",
+        "text": "大脑记忆也许能重新梳理过去的经历"
+      },
+      {
+        "key": "B",
+        "text": "大脑记忆也许能产生关于未来的想象"
+      },
+      {
+        "key": "C",
+        "text": "科学家发现人类大脑的重要记忆中心"
+      },
+      {
+        "key": "D",
+        "text": "科学家发现挑战人类智力的记忆程序"
+      }
+    ],
+    "answer": "C",
+    "explanation": "第一步：抓住题干的对象并判断整体关系。\n题干阐述了科学发现了海马区是大脑重要的记忆中心和想象中心。 第二步：逐一判断选项的作用。\nA 突出梳理过去，B 突出想象未来，这在题干中都未涉及到，所以 A、B 错误；\n根据题干整体关系可知“海马区是大脑重要的记忆中心和想象中心 ”，所以C 正确； D 强调发现记忆程序，而题干强调发现了海马区的记忆功能，所以D 错误。\n故正确答案为 C。",
+    "keyPoints": [
+      "第一步：抓住题干的对象并判断整体关系",
+      "题干阐述了科学发现了海马区是大脑重要的记忆中心和想象中心",
+      "第二步：逐一判断选项的作用"
+    ],
+    "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "中等",
+    "source": "2008年山东公务员考试《行测》第86题",
+    "province": "山东",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shandong-2008-未标注-87",
+    "category": "provincial",
+    "module": "panduan",
+    "title": "判断·人类基因组测序完成后，生物学家便一直在绘制碱基上的小差异…",
+    "stem": "人类基因组测序完成后，生物学家便一直在绘制碱基上的小差异，即单核苷酸多态性，这些小差异成为 2007 年 10 余个研究项目的关键内容。在这些被称为广泛关联基因组研究中，研究人员对数千名患病或无病\n个体的DNA 进行了对比， 以确定哪些小的基因差异会给人类带来疾病风险。 由此推断不出的是：",
+    "options": [
+      {
+        "key": "A",
+        "text": "今后更多的人将会拥有自己部分或全部的基因组"
+      },
+      {
+        "key": "B",
+        "text": "今后更多的人将会准确地了解自己存在患何种疾病的风险"
+      },
+      {
+        "key": "C",
+        "text": "发现人类基因组个体差异"
+      },
+      {
+        "key": "D",
+        "text": "发现人类基因组集合体差异"
+      }
+    ],
+    "answer": "D",
+    "explanation": "第一步：抓住每句话中的对象及其关系。\n第一句指出基因测序完成后，着重研究人类基因组上碱基上小差异。第二句指出通过病者与无病个体 DNA 对比来确定个体致病基因。\n第二步：逐一判断选项的作用。\n由第二句可知发现的是基因个体差异而非集合体差异，C 能推出，D 不能推出； 基因测序能够完成，说明人们拥有基因组是可以实现的，A 能推出；\n知道致病的基因后，人们就可以知道自己身上是否有潜在疾病，B 能推出。 故正确答案为 D。",
+    "keyPoints": [
+      "第一步：抓住每句话中的对象及其关系",
+      "第一句指出基因测序完成后，着重研究人类基因组上碱基上小差异",
+      "第二句指出通过病者与无病个体 DNA 对比来确定个体致病基因"
+    ],
+    "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "中等",
+    "source": "2008年山东公务员考试《行测》第87题",
+    "province": "山东",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shandong-2008-未标注-88",
+    "category": "provincial",
+    "module": "panduan",
+    "title": "判断·已知： （1） 甲要被录取，乙就不被录取； （2）只要乙…",
+    "stem": "已知：\n（1） 甲要被录取，乙就不被录取；\n（2）只要乙不被录取， 甲就被录取；\n（3） 甲被录取。已知这三个判断只有一个真，两个假。 由此推出：",
+    "options": [
+      {
+        "key": "A",
+        "text": "甲乙都被录取"
+      },
+      {
+        "key": "B",
+        "text": "甲乙都未被录取"
+      },
+      {
+        "key": "C",
+        "text": "甲被录取，乙未被录取"
+      },
+      {
+        "key": "D",
+        "text": "甲未被录取，乙被录取"
+      }
+    ],
+    "answer": "B",
+    "explanation": "第一步：翻译题干并观察题干。\n（1）： 甲→ -乙。（2）：－乙→ 甲。（3）： 甲。\n本题不存在明显矛盾关系，适合用代入法。\n第二步：逐一代入选项并判断选项正确与否。\n代入 A，“ 甲乙都被录取 ”，那么（1）为假，（2）为真，（3）为真，这和题干中“三个判断只有一个\n真，两个假 ”不符，A 错误；\n代入 B，“ 甲乙都未被录取 ”，那么（1）为真，（2）为假，（3）为假，这和题干中“三个判断只有一\n个真，两个假 ”符合，B 正确；\n代入 C，“ 甲被录取，乙未被录取 ”，那么（1）、（2）、（3）都为真，这和题干中“三个判断只有一\n个真，两个假 ”不符，C 错误；\n代入 D，“ 甲未被录取，乙被录取 ”，那么（1）为真，（2）为真，（3）为假，这和题干中“三个判断 只有一个真，两个假 ”不符，D 错误。\n故正确答案为 B。",
+    "keyPoints": [
+      "第一步：翻译题干并观察题干",
+      "（1）： 甲→ -乙",
+      "（2）：－乙→ 甲"
+    ],
+    "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "中等",
+    "source": "2008年山东公务员考试《行测》第88题",
+    "province": "山东",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shandong-2008-未标注-89",
+    "category": "provincial",
+    "module": "panduan",
+    "title": "判断·科学家们运用有关原理，在其他情况保持不变的条件下，根据心…",
+    "stem": "科学家们运用有关原理，在其他情况保持不变的条件下，根据心肌梗塞病情发展越厉害，头发中的含钙 量就相应的越加减少的事实，即头发的含钙量的减少状况与心肌梗塞病情的发展状况之间有定量的共变关系， 得出了结论：通过对头发中含钙量的分析，是可以预断心肌梗塞病情的发展状况的。\n这一结论的得出运用了：",
+    "options": [
+      {
+        "key": "A",
+        "text": "演绎推理"
+      },
+      {
+        "key": "B",
+        "text": "归纳推理"
+      },
+      {
+        "key": "C",
+        "text": "类比推理"
+      },
+      {
+        "key": "D",
+        "text": "求因果联系的逻辑方法"
+      }
+    ],
+    "answer": "D",
+    "explanation": "第一步：抓住题干的对象并判断其关系。\n题干先说“头发中钙含量变化，心肌梗塞发展也变化 ”，即“头发中钙含量 ”和“心肌梗塞发展 ”共变， 而后推出“钙含量与心肌梗塞病情间有因果关系 ”。\n第二步：判断题干的逻辑方法。\n由共变关系推出二者具有因果关系，这符合共变法的逻辑推断形式。共变法是判明现象因果的一种方法， 故选 D。\n注：演绎推理：从一般性的前提出发，通过推导即“演绎 ”，得出具体陈述或个别结论的过程。 归纳推理：从个别性知识推出一般性结论的推理。\n类比推理：根据两个或两类对象有部分属性相同，从而推出它们的其他属性也相同的推理。\n共变法：探求现象因果联系的方法之一。在被研究的现象发生变化的若干场合中，如果只有一种发生变 化的先行情况，那么这种情况就是该现象的原因。\n故正确答案为 D。",
+    "keyPoints": [
+      "第一步：抓住题干的对象并判断其关系",
+      "第二步：判断题干的逻辑方法"
+    ],
+    "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "中等",
+    "source": "2008年山东公务员考试《行测》第89题",
+    "province": "山东",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shandong-2008-未标注-90",
+    "category": "provincial",
+    "module": "panduan",
+    "title": "判断·在国际上，一般胰腺癌患者中位生存期 4 至 6 个月，美…",
+    "stem": "在国际上，一般胰腺癌患者中位生存期 4 至 6 个月，美国国立卫生研究院报告，这种癌一年生存率为8%， 五年为 3%，中位生存期仅 2 至 3 个月，而我国经中医诊治的上海地区百余位胰腺癌患者中已有近 20 位躲过\n了 3 到 5 年，这些患者绝大多数是无法手术，未经过化放疗的，现在绝大多数活的有滋有味。 由此不能推出的是：",
+    "options": [
+      {
+        "key": "A",
+        "text": "中医是一种实用技术，它可以解决很多问题"
+      },
+      {
+        "key": "B",
+        "text": "中医具有奇妙的科学内容"
+      },
+      {
+        "key": "C",
+        "text": "中医是一种实实在在存在的，几十亿人用了多少年都很有价值的"
+      },
+      {
+        "key": "D",
+        "text": "中医叫人糊糊涂涂地活，西医叫人明明白白的死"
+      }
+    ],
+    "answer": "C",
+    "explanation": "第一步：抓住每句话中的对象及其关系。\n题干前半部分指出在国际上，胰腺癌患者生存期短，死亡率高。后半部分指出中医有助于胰腺癌的治疗。 第二步：逐一判断选项。\n由题干后半部分可知中医具有实际效果，能解决问题，A 正确；\n中医治疗率高，无法手术未放化疗的患者通过中医治疗而存活，这表明了中医的奇妙，B 正确； C 中的“几十亿人用了很多年 ”并未在题中涉及，C 错误；\n美国报告中有明确的数据，对比题干后半部分中“无法化疗，近 20 位，绝大多数 ”等虚指可知 D 正确。 故正确答案为 C。",
+    "keyPoints": [
+      "第一步：抓住每句话中的对象及其关系",
+      "题干前半部分指出在国际上，胰腺癌患者生存期短，死亡率高",
+      "后半部分指出中医有助于胰腺癌的治疗"
+    ],
+    "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "中等",
+    "source": "2008年山东公务员考试《行测》第90题",
+    "province": "山东",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shandong-2009-未标注-36",
+    "category": "provincial",
+    "module": "panduan",
+    "title": "判断·请从所给的四个选项中，选择最合适的一个填入问号处，使之呈…",
+    "stem": "请从所给的四个选项中，选择最合适的一个填入问号处，使之呈现一定的规律性：",
+    "options": [],
+    "answer": "D",
+    "explanation": "元素组成凌乱，题干中给出的五幅图都是由一个封闭的面，选项面数依次为 2、2、0、1 。 故正确答案为 D。",
+    "keyPoints": [
+      "故正确答案为 D"
+    ],
+    "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "中等",
+    "source": "2009年山东公务员考试《行测》第36题",
+    "isImageQuestion": true,
+    "province": "山东",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shandong-2009-未标注-37",
+    "category": "provincial",
+    "module": "panduan",
+    "title": "判断·请从所给的四个选项中，选择最合适的一个填入问号处，使之呈…",
+    "stem": "请从所给的四个选项中，选择最合适的一个填入问号处，使之呈现一定的规律性：",
+    "options": [],
+    "answer": "D",
+    "explanation": "特殊考点，题干给出的五幅图都是相同的两个阿拉伯数字关于竖轴的对称，符合此规律的只有 D。A、B、C 都不是由阿拉伯数字组合而成。\n故正确答案为 D。",
+    "keyPoints": [
+      "A、B、C 都不是由阿拉伯数字组合而成",
+      "故正确答案为 D"
+    ],
+    "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "中等",
+    "source": "2009年山东公务员考试《行测》第37题",
+    "isImageQuestion": true,
+    "province": "山东",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shandong-2009-未标注-38",
+    "category": "provincial",
+    "module": "panduan",
+    "title": "判断·请从所给的四个选项中，选择最合适的一个填入问号处，使之呈…",
+    "stem": "请从所给的四个选项中，选择最合适的一个填入问号处，使之呈现一定的规律性：",
+    "options": [],
+    "answer": "D",
+    "explanation": "元素组成凌乱，考查数数。\n题干给出的四幅图中黑色部分的个数分别为 1，4，3，2。当选出的图中有 5 或 0 个黑色的部分时， 重新排序后，黑色部分的个数可能构成一组连续自然数列。选项中只有 D 中有 5 个黑色部分。\n故正确答案为 D。",
+    "keyPoints": [
+      "元素组成凌乱，考查数数",
+      "题干给出的四幅图中黑色部分的个数分别为 1，4，3，2"
+    ],
+    "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "中等",
+    "source": "2009年山东公务员考试《行测》第38题",
+    "isImageQuestion": true,
+    "province": "山东",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shandong-2009-未标注-39",
+    "category": "provincial",
+    "module": "panduan",
+    "title": "判断·请从所给的四个选项中，选择最合适的一个填入问号处，使之呈…",
+    "stem": "请从所给的四个选项中，选择最合适的一个填入问号处，使之呈现一定的规律性：",
+    "options": [],
+    "answer": "C",
+    "explanation": "元素组成相似，黑白阴影的叠加运算。\n题干中第一行的三幅图和第二行的三幅图共有的规律是：前两幅图中的黑色月亮与白色月亮重合， 则这个月亮在第三幅图中消失；前两幅图中的黑色星星与白色星星重合，则这个星星在第三幅图中消失。 因此第三行的前两幅图中有三个星星和全部月亮因重合而消失，最后只剩下一个黑色星星。\n故正确答案为 C。",
+    "keyPoints": [
+      "元素组成相似，黑白阴影的叠加运算",
+      "因此第三行的前两幅图中有三个星星和全部月亮因重合而消失，最后只剩下一个黑色星星"
+    ],
+    "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "中等",
+    "source": "2009年山东公务员考试《行测》第39题",
+    "isImageQuestion": true,
+    "province": "山东",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shandong-2009-未标注-40",
+    "category": "provincial",
+    "module": "panduan",
+    "title": "判断·请根据图形规律，从四个选项中选出最合适的一项。",
+    "stem": "请根据图形规律，从四个选项中选出最合适的一项。",
+    "options": [],
+    "answer": "B",
+    "explanation": "观察题干可知，立体图形的五个斜面是矩形，两个斜面是直角梯形，因此排除 A、C；原图的梯 形部分不会出现 D 图中的那样一条直线，因此排除 D。\n故正确答案为 B。",
+    "keyPoints": [
+      "故正确答案为 B"
+    ],
+    "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "中等",
+    "source": "2009年山东公务员考试《行测》第40题",
+    "isImageQuestion": true,
+    "province": "山东",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shandong-2009-未标注-41",
+    "category": "provincial",
+    "module": "panduan",
+    "title": "判断·人文关怀是指一种普通的人类自我关怀，表现为人格、人的价值…",
+    "stem": "人文关怀是指一种普通的人类自我关怀，表现为人格、人的价值、人的命运和尊严的关切，对人的生 存状态和社会地位、人的进步需求、生活条件保障的关注， 以及对理想人格的肯定和塑造。\n根据上述定义，下列属于人文关怀的是：",
+    "options": [
+      {
+        "key": "A",
+        "text": "对民众的博大的爱，深刻地理解和无私地付出"
+      },
+      {
+        "key": "B",
+        "text": "对人生存状况的关注，对人的生命和健康的呵护"
+      },
+      {
+        "key": "C",
+        "text": "对人的精神状态和人性的深切关怀，对人的情感、意志和价值的尊重"
+      },
+      {
+        "key": "D",
+        "text": "在强调国家利益的同时，关心个人的价值和利益及个人的困难和困境"
+      }
+    ],
+    "answer": "C",
+    "explanation": "第一步：抓住定义中的关键词。\n人文关怀强调“人类自我关怀 ”，表现的是对于人自身相关需求和状态的“关注 ”。 第二步：逐一判断选项。\nA 中“对民众的付出 ”并非是题干中所指的“关注 ”，A 不符合定义；\nB 中前半句“对人生存状况的关注 ”属于人文关怀，而后半句“对人的生命和健康的呵护 ”不属于 人文关怀，B 不符合定义；\nC 中前半句和后半句都体现了对人的关怀，C 符合定义； D 中“强调国家利益 ”不属于人文关怀，D 不符合定义。 故正确答案为 C。",
+    "keyPoints": [
+      "第一步：抓住定义中的关键词",
+      "人文关怀强调“人类自我关怀 ”，表现的是对于人自身相关需求和状态的“关注 ”",
+      "第二步：逐一判断选项"
+    ],
+    "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "中等",
+    "source": "2009年山东公务员考试《行测》第41题",
+    "province": "山东",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shandong-2009-未标注-42",
+    "category": "provincial",
+    "module": "panduan",
+    "title": "判断·社会责任是公民、企业和各种组织对国家或社会公共利益方面应…",
+    "stem": "社会责任是公民、企业和各种组织对国家或社会公共利益方面应尽的责任或义务。社会责任就是行为\n主体对社会负有一定的责任，人是社会的动物，只有在社会中才能体现出人的真正本质。 根据上述定义，下列属于公民社会责任的是：",
+    "options": [
+      {
+        "key": "A",
+        "text": "宪法法律规定以外的公民义务"
+      },
+      {
+        "key": "B",
+        "text": "公民应尽的非道德责任的责任"
+      },
+      {
+        "key": "C",
+        "text": "爱国守法、明礼诚信、敬业奉献"
+      },
+      {
+        "key": "D",
+        "text": "在工作单位应尽的一些岗位职责"
+      }
+    ],
+    "answer": "C",
+    "explanation": "第一步：抓住定义中的关键词。\n社会责任强调行为主体对“ 国家或社会公共利益方面 ”应尽的责任或义务。 第二步：逐一判断选项。\nA、B 中没有明确指出是对“ 国家或社会公共利益方面 ”应尽的责任或义务，A、B 不符合定义；\nC 中的责任和义务可以明确归为对“ 国家或社会公共利益方面 ”应尽的责任和义务，C 符合定义； D 中岗位职责是行为主体对工作单位应尽的责任，不属于社会责任的范围，D 不符合定义。\n故正确答案为 C。",
+    "keyPoints": [
+      "第一步：抓住定义中的关键词",
+      "社会责任强调行为主体对“ 国家或社会公共利益方面 ”应尽的责任或义务",
+      "第二步：逐一判断选项"
+    ],
+    "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "中等",
+    "source": "2009年山东公务员考试《行测》第42题",
+    "province": "山东",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shandong-2009-未标注-43",
+    "category": "provincial",
+    "module": "panduan",
+    "title": "判断·公共意识是独立自由的个体所具有的一种整体意识或整体观念。…",
+    "stem": "公共意识是独立自由的个体所具有的一种整体意识或整体观念。公共意识一方面是个人主体自由的体 现，另一方面是对于一个超越于个体自身以外的共同整体的体现。\n根据上述定义，下列属于公共意识的是：",
+    "options": [
+      {
+        "key": "A",
+        "text": "期望公民必须变得无私并在行为上完全利他"
+      },
+      {
+        "key": "B",
+        "text": "公民顾及私利的同时，追求公共目标和利益"
+      },
+      {
+        "key": "C",
+        "text": "现代社会所张扬的一种精神气质和公共精神"
+      },
+      {
+        "key": "D",
+        "text": "把自己认定为一个与他人联系在一起的集合体"
+      }
+    ],
+    "answer": "D",
+    "explanation": "第一步：抓住定义中的关键词。\n公共意识强调“独立自由的个体 ”具有“整体意识或整体观念 ”，即同时体现“个人主体自由 ”和 “超越于个体自身以外的共同整体 ”。\n第二步：逐一判断选项。\nA 中“无私并完全利他 ”要求体现“共同整体 ”而不体现“个人主体自由 ”，但是题干要求同时体 现“个人主体自由 ”和“超越于个体自身以外的共同整体 ”，A 错误；\nB 说“追求公共目标和利益 ”，但是题干强调“具有共同整体的观念 ”，二者不是同一概念，B 错 误；\nC 中“现代社会所张扬的一种精神气质和公共精神 ”，但题干中并没有体现出公共意识是现代社会 所独有的，所以C 错误；\nD 中“把自己认定为一个与他人联系在一起的集合体 ”是“个体 ”具有“整体意识 ”的体现，符合 关键词，所以D 正确。\n故正确答案为 D。",
+    "keyPoints": [
+      "第一步：抓住定义中的关键词",
+      "第二步：逐一判断选项"
+    ],
+    "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "中等",
+    "source": "2009年山东公务员考试《行测》第43题",
+    "province": "山东",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shandong-2009-未标注-44",
+    "category": "provincial",
+    "module": "panduan",
+    "title": "判断·团队精神是指团队的成员为了团队的利益和目标，而相互协作、…",
+    "stem": "团队精神是指团队的成员为了团队的利益和目标，而相互协作、竭尽全力的意愿和作风。高绩效团队 强大竞争力的根源，不在于其成员个人能力的卓越，而在于其成员整体“合力 ”的强大，其中起关键作用 的就是团队精神。\n根据上述定义，下列属于团队精神的是：",
+    "options": [
+      {
+        "key": "A",
+        "text": "忠诚、投入、志趣相投、相互吸引"
+      },
+      {
+        "key": "B",
+        "text": "有凝聚力和为团队利益牺牲的意愿"
+      },
+      {
+        "key": "C",
+        "text": "高绩效团队的灵魂和难以模仿的特质"
+      },
+      {
+        "key": "D",
+        "text": "将每个成员“粘 ”在一起的“胶 ”"
+      }
+    ],
+    "answer": "B",
+    "explanation": "第一步：抓住定义中的关键词。\n题干的关键在于“ 团队的成员 ”，“为了团队的利益和目标而相互协作、竭尽全力 ”，“意愿和作 风 ”。\n第二步：逐一判断选项。\nA 中“忠诚、投入、志趣相投、相互吸引 ”不是“为了团队的利益和目标 ”，A 错误；\nB 中“有凝聚力和为团队利益牺牲的意愿 ”符合“相互协作、竭尽全力 ”，“意愿和作风 ”，B 正 确；\nC 中“难以模仿的特质 ”并未在题干中体现，C 错误；\n题干中“ 团队精神 ”对成员整体“合力 ”的强大起作用，但这种作用并非和“胶 ”的概念完全对应， D 错误。\n故正确答案为 B。",
+    "keyPoints": [
+      "第一步：抓住定义中的关键词",
+      "第二步：逐一判断选项"
+    ],
+    "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "中等",
+    "source": "2009年山东公务员考试《行测》第44题",
+    "province": "山东",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shandong-2009-未标注-45",
+    "category": "provincial",
+    "module": "panduan",
+    "title": "判断·城市化是人类生产与生活方式由农村型向城市型转化的历史过程…",
+    "stem": "城市化是人类生产与生活方式由农村型向城市型转化的历史过程，表现为乡村人口向城市人口转化以 及城市不断发展和完善的过程。党的十七届三中全会会议公报指出，到 2020 年，城乡经济社会发展一体化 机制将基本建立。\n根据上述定义，下列对城市化的理解正确的是：",
+    "options": [
+      {
+        "key": "A",
+        "text": "大批的农民迁移到城市， 由农民变为市民"
+      },
+      {
+        "key": "B",
+        "text": "农民进城的数量越来越多，就说明城市化率越高"
+      },
+      {
+        "key": "C",
+        "text": "农民进城越多，这个地方的社会发展越先进"
+      },
+      {
+        "key": "D",
+        "text": "农民生产方式的工业化、生活方式的城市化"
+      }
+    ],
+    "answer": "D",
+    "explanation": "第一步：抓住定义中的关键词。\n城市化的内涵是“人类生产与生活方式由农村型向城市型转化 ”。 第二步：逐一判断选项。\nA 项中“农民迁移到城市 ”是城市化进程中的表现和特征，并不意味着生产和生活方式向城市型转 化，A 不符合城市化的内涵，A 错误；\nB 项中“农民进城的数量增加 ”是城市化的表现，并不代表他们的“生产与生活方式 ”变得城市化， 同理 C 项中“农民进城的数量 ”并不能反映“城市化率的高低 ”和“社会发展的水平 ”，所以 B、C 错 误；\nD 项中“农民生产方式的工业化 ”是“生产方式由农村型转向城市型 ”，“农民生活方式的城市化 ” 是“生活方式由农村型转向城市型 ”，均符合定义中的关键词，所以D 正确。\n故正确答案为 D。",
+    "keyPoints": [
+      "第一步：抓住定义中的关键词",
+      "城市化的内涵是“人类生产与生活方式由农村型向城市型转化 ”",
+      "第二步：逐一判断选项"
+    ],
+    "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "中等",
+    "source": "2009年山东公务员考试《行测》第45题",
+    "province": "山东",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shandong-2009-未标注-46",
+    "category": "provincial",
+    "module": "panduan",
+    "title": "判断·不正当竞争是指一切违反商业道德和善良风俗，特别是违反有关…",
+    "stem": "不正当竞争是指一切违反商业道德和善良风俗，特别是违反有关法律规定的商品生产经营行为。它包 括垄断行为，限制竞争行为，经营者采用欺骗、胁迫、利诱、诋毁、窃用以及其他不道德手段从事市场交 易的行为。\n根据上述定义，下列属于不正当竞争行为的是：",
+    "options": [
+      {
+        "key": "A",
+        "text": "欺骗性交易行为、不正当销售行为、拒绝“三包 ”行为"
+      },
+      {
+        "key": "B",
+        "text": "诋毁竞争对手行为、商业贿赂行为、无合格商品标志行为"
+      },
+      {
+        "key": "C",
+        "text": "贬低竞争对手行为、附加条件的交易行为、协议限制的竞争行为"
+      },
+      {
+        "key": "D",
+        "text": "侵犯商业秘密行为、不出具购物发票行为、无视消费者权益行为"
+      }
+    ],
+    "answer": "C",
+    "explanation": "第一步：抓住定义中的关键词。\n不正当竞争的行为主体主要是“经营者 ”。不正当竞争是“经营者相互之间 ”违反有关法律规定的 商品生产经营行为，其造成的影响也主要是针对竞争对手。\n第二步：逐一判断选项。\nA 中“拒绝‘三包 ’行为 ”，B 中“无合格商品标志 ”和 D 中“不出具购物发票、无视消费者权益 ” 主要是经营者针对消费者的违法行为，而非“经营者之间的行为 ”，A、B、D 不完全符合不正当竞争定 义；\nC 中三个行为都是“经营者相互之间 ”的行为，且符合定义。\n故正确答案为 C。",
+    "keyPoints": [
+      "第一步：抓住定义中的关键词",
+      "不正当竞争的行为主体主要是“经营者 ”"
+    ],
+    "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "中等",
+    "source": "2009年山东公务员考试《行测》第46题",
+    "province": "山东",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shandong-2009-未标注-47",
+    "category": "provincial",
+    "module": "panduan",
+    "title": "判断·企业文化的核心就是以人为本的价值观，具体来说就是尊重人，…",
+    "stem": "企业文化的核心就是以人为本的价值观，具体来说就是尊重人，服务人，发展人。尊重人，就是对人 平等、关心、理解、宽容；服务人，就是为人提供周到细致的服务，提供各种保护和保障举措；发展人， 就是应因人的现实需求和目标需要，实现人的各种权益和利益。\n根据上述定义，下列属于企业文化的核心的是：",
+    "options": [
+      {
+        "key": "A",
+        "text": "企业领导人的一些大的经营理念和经营方略"
+      },
+      {
+        "key": "B",
+        "text": "企业的责任、创新、诚信、推动力、影响力"
+      },
+      {
+        "key": "C",
+        "text": "把人而不是金钱、机器看作自然资源"
+      },
+      {
+        "key": "D",
+        "text": "企业管理者、业内人士、普通员工的价值观"
+      }
+    ],
+    "answer": "C",
+    "explanation": "第一步：抓住定义中的关键词。\n企业文化强调“ 以人为本的价值观 ”，其主体是“人 ”。“ 以人为本 ”就是把人看作自然资源，就 会尊重人、服务人、发展人。\n第二步：逐一判断选项。\nA 中“经营理念和经营方略 ”，B 中“企业的责任、创新、诚信、推动力、影响力 ”和 D 中“管理 者、员工的价值观 ”都没有指出把人当作企业的资源和根本；\nC 中“把人看作自然资源 ”体现了“ 以人为本 ”。\n故正确答案为 C。",
+    "keyPoints": [
+      "第一步：抓住定义中的关键词",
+      "企业文化强调“ 以人为本的价值观 ”，其主体是“人 ”",
+      "“ 以人为本 ”就是把人看作自然资源，就 会尊重人、服务人、发展人"
+    ],
+    "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "中等",
+    "source": "2009年山东公务员考试《行测》第47题",
+    "province": "山东",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shandong-2009-未标注-48",
+    "category": "provincial",
+    "module": "panduan",
+    "title": "判断·逆向思维是一种比较特殊的思维方式，它的思维取向是与常人的…",
+    "stem": "逆向思维是一种比较特殊的思维方式，它的思维取向是与常人的思维取向相反的。逆向思维并不是主 张人们在思考时违逆常规，不受限制的胡思乱想，而是训练一种小概率思维模式，即在思维活动中关注小 概率可能性的思维。\n根据上述定义，下列属于逆向思维的是：",
+    "options": [
+      {
+        "key": "A",
+        "text": "人弃我取，人进我退，人动我静，人刚我柔"
+      },
+      {
+        "key": "B",
+        "text": "以某一复杂问题的结果为发散点，尽可能多的把它与别的事物组合成新问题"
+      },
+      {
+        "key": "C",
+        "text": "以某一复杂问题的结果为发散点，推出各种结果的各种原因"
+      },
+      {
+        "key": "D",
+        "text": "将人们通常思考的思路稍加扭转，“歪打正着 ”"
+      }
+    ],
+    "answer": "A",
+    "explanation": "第一步：抓住定义中的关键词。\n逆向思维强调“与常人的思维取向相反 ”，“关注小概率可能性 ”。\n第二步：逐一判断选项。\nA 中“人弃、进、动、刚，我取、退、静、柔 ”表明我的行为和别人取向相反，这属于逆向思维 A 符合；\nB、C 中“ 以结果为发散点进行多种推导 ”，这属于发散性思维，B、C 不符；\nD 中“对常人的思维稍加扭转 ”并非“与常人的思维相反 ”，D 不符。\n故正确答案为 A。",
+    "keyPoints": [
+      "第一步：抓住定义中的关键词",
+      "逆向思维强调“与常人的思维取向相反 ”，“关注小概率可能性 ”",
+      "第二步：逐一判断选项"
+    ],
+    "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "中等",
+    "source": "2009年山东公务员考试《行测》第48题",
+    "province": "山东",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shandong-2009-未标注-49",
+    "category": "provincial",
+    "module": "panduan",
+    "title": "判断·揣摩指的是对自身以外的人和事的推测、估量、判断等。揣摩必…",
+    "stem": "揣摩指的是对自身以外的人和事的推测、估量、判断等。揣摩必须以良好的心态为基础，以实践经验 总结为依据， 以认真分析思考为前提。能够比较全面、客观和准确地推测、估量、估计、判断他人内心情 感，是人们认识和处理复杂问题时必需的一种基本功。\n根据上述定义，下列属于揣摩的是：",
+    "options": [
+      {
+        "key": "A",
+        "text": "知己知彼，百战不殆"
+      },
+      {
+        "key": "B",
+        "text": "凡事预则立，不预则废"
+      },
+      {
+        "key": "C",
+        "text": "仁者见仁，智者见智"
+      },
+      {
+        "key": "D",
+        "text": "己所不欲，勿施于人"
+      }
+    ],
+    "answer": "A",
+    "explanation": "第一步：抓住定义中的关键词。\n揣摩强调“对自身以外的人和事的推测、估量、判断 ”，“ 以良好的心态为基础，以实践经验总结 为依据， 以认真分析思考为前提 ”。\n第二步：逐一判断选项。\nA 的意思是：如果对敌我双方的情况都能判断透彻，打起仗来就可以一直立于不败之地。所以A 体 现了“ 以实践经验总结为依据，以认真分析思考为前提 ”，“对敌方心态的推测和判断 ”，这很显然属 于揣摩，A 正确；\nB 的意思是：不论做什么事，事先有准备，就能得到成功，不然就会失败。所以 B 中“对事情预先 做准备 ”是“对自身以外的事的估量 ”，但 B 并没有体现“ 以实践经验总结为依据 ”，B 错误；\nC 的意思是：对同一个问题，不同的人从不同的立场或角度有不同的看法。所以C 不存在“对自身 以外的人的判断、推测 ”，C 错误；\nD 的意思是： 自己不想做的事情，不要强加给别人，而不用考虑别人是否真的不想做，所以D 未涉 及判断、推测“他人内心的想法 ”。\n故正确答案为 A。",
+    "keyPoints": [
+      "第一步：抓住定义中的关键词",
+      "第二步：逐一判断选项"
+    ],
+    "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "中等",
+    "source": "2009年山东公务员考试《行测》第49题",
+    "province": "山东",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shandong-2009-未标注-50",
+    "category": "provincial",
+    "module": "panduan",
+    "title": "判断·食品添加剂是为提高食品品质和色、香、味、形以及防腐、保鲜…",
+    "stem": "食品添加剂是为提高食品品质和色、香、味、形以及防腐、保鲜和加工工艺的功能而加入食品中的化 学合成或天然物质。食品添加剂只要以合理方式、合理剂量使用，不会引发食品安全问题。\n根据上述定义，下列属于食品添加剂的是：",
+    "options": [
+      {
+        "key": "A",
+        "text": "色素、膨松剂、蛋白精、防腐剂"
+      },
+      {
+        "key": "B",
+        "text": "甜味剂、水分、乳化剂、硫化钠"
+      },
+      {
+        "key": "C",
+        "text": "味精、木糖醇、维生素、矿物质"
+      },
+      {
+        "key": "D",
+        "text": "着色剂、罂粟壳、面粉处理剂"
+      }
+    ],
+    "answer": "C",
+    "explanation": "第一步：抓住定义中的关键词。\n食品添加剂是指在合理使用时“不会引发食品安全问题 ”的化学合成或天然物质。 第二步：逐一判断选项。\nA 中“蛋白精 ”是以“三聚氰胺 ”、“羟甲基羧基氮 ”等工业废料为原料生产的非蛋白氮饲料添\n加剂，有害人体，不属于食品添加剂；\nB 中“硫化钠 ”是一种易燃，具强腐蚀性、刺激性的化学物品，对人体有害，不属于食品添加剂； C 中四种物质都属于食品添加剂；\nD 中“罂粟壳 ”易使人成瘾，不属于食品添加剂。 故正确答案为 C。",
+    "keyPoints": [
+      "第一步：抓住定义中的关键词",
+      "食品添加剂是指在合理使用时“不会引发食品安全问题 ”的化学合成或天然物质",
+      "第二步：逐一判断选项"
+    ],
+    "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "中等",
+    "source": "2009年山东公务员考试《行测》第50题",
+    "province": "山东",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shandong-2009-未标注-51",
+    "category": "provincial",
+    "module": "panduan",
+    "title": "判断·位置：高度",
+    "stem": "位置：高度",
+    "options": [
+      {
+        "key": "A",
+        "text": "卧室：厨房"
+      },
+      {
+        "key": "B",
+        "text": "室内：墙壁"
+      },
+      {
+        "key": "C",
+        "text": "苏打：漂白"
+      },
+      {
+        "key": "D",
+        "text": "网球：排球"
+      }
+    ],
+    "answer": "B",
+    "explanation": "第一步：判断题干词语间逻辑关系。\n题干中“位置 ”指物体某一时刻在空间的所在处，是没有具体数量规定的认识对象（一般空间）。 题干中“高度 ”是指自平均海平面至一个平面、一个点或者可以视为一个点的物体的垂直距离，是有具 体数量规定的认识对象（具体空间）。因此“位置 ”和“高度 ”是内容和表现形式的对应关系。\n第二步：判断选项词语间逻辑关系。\nA 中“卧室 ”和“厨房 ”是并列关系，A 不符；\nB 中“室内 ”是空间上的一般认识，“墙壁 ”是用于分隔“室内 ”和“室外 ”的具体表现，因此“室 内 ”和“墙壁 ”符合内容和表现形式的对应关系，B 符合；\nC 中“苏打 ”和“漂白 ”是功能上的对应关系，C 不符；\nD 中“ 网球 ”和“排球 ”是并列关系，D 不符。 故正确答案为 B。",
+    "keyPoints": [
+      "第一步：判断题干词语间逻辑关系"
+    ],
+    "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "中等",
+    "source": "2009年山东公务员考试《行测》第51题",
+    "province": "山东",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shandong-2009-未标注-52",
+    "category": "provincial",
+    "module": "panduan",
+    "title": "判断·地球：北极",
+    "stem": "地球：北极",
+    "options": [
+      {
+        "key": "A",
+        "text": "星球：月亮"
+      },
+      {
+        "key": "B",
+        "text": "昆虫：蚊虫"
+      },
+      {
+        "key": "C",
+        "text": "联合国：中国"
+      },
+      {
+        "key": "D",
+        "text": "书本：封面"
+      }
+    ],
+    "answer": "D",
+    "explanation": "第一步：判断题干词语间逻辑关系。\n题干中“地球 ”和“北极 ”是包容关系中的物理组成关系。 第二步：判断选项词语间逻辑关系。\nA 中“星球 ”和“月亮 ”是属种关系，A 错误； B 中“ 昆虫 ”和“蚊子 ”是属种关系，B 错误；\nC 中“ 中国 ”和“联合国 ”是包容关系，但“联合国 ”并不是多个国家的物理组成，C 错误； D 中“书本 ”和“封面 ”也是包容关系中的物理组成关系，D 正确。\n故正确答案为 D。",
+    "keyPoints": [
+      "第一步：判断题干词语间逻辑关系",
+      "题干中“地球 ”和“北极 ”是包容关系中的物理组成关系",
+      "第二步：判断选项词语间逻辑关系"
+    ],
+    "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "中等",
+    "source": "2009年山东公务员考试《行测》第52题",
+    "province": "山东",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shandong-2009-未标注-53",
+    "category": "provincial",
+    "module": "panduan",
+    "title": "判断·丰功：伟绩",
+    "stem": "丰功：伟绩",
+    "options": [
+      {
+        "key": "A",
+        "text": "维和：行动"
+      },
+      {
+        "key": "B",
+        "text": "风餐：露宿"
+      },
+      {
+        "key": "C",
+        "text": "文化：传播"
+      },
+      {
+        "key": "D",
+        "text": "风卷：残云"
+      }
+    ],
+    "answer": "B",
+    "explanation": "第一步：判断题干词语间逻辑关系。\n题干中“ 丰功 ”和“伟绩 ”构成并列式成语。 第二步：判断选项词语间逻辑关系。\nA 中“维和 ”和“行动 ”不能构成成语；\nB 中“风餐 ”和“露宿 ”同样构成并列式成语； C 中“文化 ”和“传播 ”不能构成成语；\nD 中“风卷 ”和“残云 ”构成动宾式成语。 故正确答案为 B。",
+    "keyPoints": [
+      "第一步：判断题干词语间逻辑关系",
+      "题干中“ 丰功 ”和“伟绩 ”构成并列式成语",
+      "第二步：判断选项词语间逻辑关系"
+    ],
+    "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "中等",
+    "source": "2009年山东公务员考试《行测》第53题",
+    "province": "山东",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shandong-2009-未标注-54",
+    "category": "provincial",
+    "module": "panduan",
+    "title": "判断·心理：承受",
+    "stem": "心理：承受",
+    "options": [
+      {
+        "key": "A",
+        "text": "干扰：闹钟"
+      },
+      {
+        "key": "B",
+        "text": "信息：刺激"
+      },
+      {
+        "key": "C",
+        "text": "睡眠：质量"
+      },
+      {
+        "key": "D",
+        "text": "消化：吸收"
+      }
+    ],
+    "answer": "B",
+    "explanation": "第一步：判断题干词语间逻辑关系。\n题干中“心理 ”和“承受 ”可构成主谓短语。 第二步：判断选项词语间逻辑关系。\nA 中“干扰 ”和“ 闹钟 ”是属性关系； B 中词语可构成主谓短语；\nC 中“睡眠 ”和“质量 ”构成偏正式短语； D 中“消化 ”和“吸收 ”构成并列式短语。 故正确答案为 B。",
+    "keyPoints": [
+      "第一步：判断题干词语间逻辑关系",
+      "题干中“心理 ”和“承受 ”可构成主谓短语",
+      "第二步：判断选项词语间逻辑关系"
+    ],
+    "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "中等",
+    "source": "2009年山东公务员考试《行测》第54题",
+    "province": "山东",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shandong-2009-未标注-55",
+    "category": "provincial",
+    "module": "panduan",
+    "title": "判断·期刊：杂志",
+    "stem": "期刊：杂志",
+    "options": [
+      {
+        "key": "A",
+        "text": "水果：柠檬"
+      },
+      {
+        "key": "B",
+        "text": "酱油：食品"
+      },
+      {
+        "key": "C",
+        "text": "油墨：印刷"
+      },
+      {
+        "key": "D",
+        "text": "皮肤：搔痒"
+      }
+    ],
+    "answer": "A",
+    "explanation": "第一步：判断题干词语间逻辑关系。\n题干中“期刊 ”和“杂志 ”是属种关系。“杂志 ”是“期刊 ”的一种。\n第二步：判断选项词语间逻辑关系。\nA 中“水果 ”和“柠檬 ”是属种关系关系，“柠檬 ”是“水果 ”的一种； B 中“酱油 ”和“食品 ”是种属关系，与题干顺序不同；\nC、D 中的词语间明显不是种属关系，而是对应关系。 故正确答案为 A。",
+    "keyPoints": [
+      "第一步：判断题干词语间逻辑关系",
+      "题干中“期刊 ”和“杂志 ”是属种关系",
+      "“杂志 ”是“期刊 ”的一种"
+    ],
+    "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "中等",
+    "source": "2009年山东公务员考试《行测》第55题",
+    "province": "山东",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shandong-2009-未标注-56",
+    "category": "provincial",
+    "module": "panduan",
+    "title": "判断·双杠：单杠",
+    "stem": "双杠：单杠",
+    "options": [
+      {
+        "key": "A",
+        "text": "阑尾：心脏"
+      },
+      {
+        "key": "B",
+        "text": "毫米： 口径"
+      },
+      {
+        "key": "C",
+        "text": "南宋：北宋"
+      },
+      {
+        "key": "D",
+        "text": "纪念：周年"
+      }
+    ],
+    "answer": "C",
+    "explanation": "第一步：判断题干词语间第一重逻辑关系，并在选项中进行选择。 题干中“双杠 ”和“单杠 ”构成并列关系，符合此逻辑关系的有 A、C。 第二步：再判断题干词语间第二重逻辑关系，并在选项中进行选择。\n题干中“双杠 ”和“单杠 ”都是体操工具，功能相近，C 中“南宋 ”和“北宋 ”是宋朝两朝，朝代 相连，C 正确；\nA 中“ 阑尾 ”与“心脏 ”在人体器官中，重要程度相差很大，A 错误。 故正确答案为 C。",
+    "keyPoints": [
+      "第一步：判断题干词语间第一重逻辑关系，并在选项中进行选择",
+      "题干中“双杠 ”和“单杠 ”构成并列关系，符合此逻辑关系的有 A、C",
+      "第二步：再判断题干词语间第二重逻辑关系，并在选项中进行选择"
+    ],
+    "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "中等",
+    "source": "2009年山东公务员考试《行测》第56题",
+    "province": "山东",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shandong-2009-未标注-57",
+    "category": "provincial",
+    "module": "panduan",
+    "title": "判断·真皮：标志",
+    "stem": "真皮：标志",
+    "options": [
+      {
+        "key": "A",
+        "text": "模拟：通信"
+      },
+      {
+        "key": "B",
+        "text": "噪声：范围"
+      },
+      {
+        "key": "C",
+        "text": "火车：车厢"
+      },
+      {
+        "key": "D",
+        "text": "中国：邮票"
+      }
+    ],
+    "answer": "B",
+    "explanation": "第一步：判断题干词语间逻辑关系。\n题干中“真皮 ”和“标志 ”合成“真皮标志 ”。“真皮标志 ”是“真皮 ”的证明标志，用于保障消 费者的权益。\n第二步：判断选项词语间逻辑关系。\nA 中“模拟 ”和“通信 ”虽然可以合成“模拟通信 ”，但是“模拟通信 ”是“通信 ”的一种并且这 也不符合题干的逻辑顺序，所以A 错误；\nB 中“噪声范围 ”是“噪声 ”的考量标准，用于保护公民的健康，所以B 正确；\nC 中“火车车厢 ”和“火车 ”是组成关系，所以C 错误； D 中“ 中国邮票 ”和“ 中国 ”是对应关系，所以D 错误。 故正确答案为 B。",
+    "keyPoints": [
+      "第一步：判断题干词语间逻辑关系",
+      "题干中“真皮 ”和“标志 ”合成“真皮标志 ”",
+      "“真皮标志 ”是“真皮 ”的证明标志，用于保障消 费者的权益"
+    ],
+    "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "中等",
+    "source": "2009年山东公务员考试《行测》第57题",
+    "province": "山东",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shandong-2009-未标注-58",
+    "category": "provincial",
+    "module": "panduan",
+    "title": "判断·军队：军人",
+    "stem": "军队：军人",
+    "options": [
+      {
+        "key": "A",
+        "text": "灯具：台灯"
+      },
+      {
+        "key": "B",
+        "text": "车辆：轿车"
+      },
+      {
+        "key": "C",
+        "text": "饰品：挂件"
+      },
+      {
+        "key": "D",
+        "text": "文具：笔墨"
+      }
+    ],
+    "answer": "A",
+    "explanation": "题干：军队和军人是组成关系，军队是由军人组成的。\nA 项：灯具和台灯是组成关系，灯具包括台灯、顶灯、落地灯等等； B 项：车辆和轿车也是种属关系，轿车是车辆的一种；\nC 项：饰品和挂件是交叉关系，挂件并不一定都是饰品，如男士腰间挂的钥匙，就不是饰品；\nD 项：笔墨作文字或文章解，则与文具不构成包含关系。笔墨作毛笔和黑墨解释，则与文具形成包 含关系，但笔墨指的是两个事物，与题干的逻辑关系相比有一定距离。\n故正确答案为 A。",
+    "keyPoints": [
+      "题干：军队和军人是组成关系，军队是由军人组成的"
+    ],
+    "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "中等",
+    "source": "2009年山东公务员考试《行测》第58题",
+    "province": "山东",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shandong-2009-未标注-59",
+    "category": "provincial",
+    "module": "panduan",
+    "title": "判断·红光：满面",
+    "stem": "红光：满面",
+    "options": [
+      {
+        "key": "A",
+        "text": "东山：再起"
+      },
+      {
+        "key": "B",
+        "text": "魂牵：梦绕"
+      },
+      {
+        "key": "C",
+        "text": "五光：十色"
+      },
+      {
+        "key": "D",
+        "text": "雨打：芭蕉"
+      }
+    ],
+    "answer": "A",
+    "explanation": "第一步：判断题干词语间逻辑关系。\n题干中“红光 ”和“满面 ”构成偏正式成语，用作谓语、定语。 第二步：判断选项词语间逻辑关系。\nA 中“东山 ”和“再起 ”构成偏正式成语，用作谓语、定语，A 符合； B 中“魂牵 ”和“梦萦 ”构成联合主谓式成语，用作谓语、状语；\nC 中“五光 ”和“十色 ”构成并列式成语，用作谓语、定语、状语；\nD 中“雨打 ”和“芭蕉 ”不能构成成语。 故正确答案为 A。",
+    "keyPoints": [
+      "第一步：判断题干词语间逻辑关系",
+      "题干中“红光 ”和“满面 ”构成偏正式成语，用作谓语、定语",
+      "第二步：判断选项词语间逻辑关系"
+    ],
+    "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "中等",
+    "source": "2009年山东公务员考试《行测》第59题",
+    "province": "山东",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shandong-2009-未标注-60",
+    "category": "provincial",
+    "module": "panduan",
+    "title": "判断·休克： 昏厥",
+    "stem": "休克： 昏厥",
+    "options": [
+      {
+        "key": "A",
+        "text": "同一：统一"
+      },
+      {
+        "key": "B",
+        "text": "口误：误口"
+      },
+      {
+        "key": "C",
+        "text": "分类：划分"
+      },
+      {
+        "key": "D",
+        "text": "再见：再会"
+      }
+    ],
+    "answer": "D",
+    "explanation": "第一步：判断题干词语间逻辑关系。\n题干中“休克 ”和“ 昏厥 ”是一对近义词，二者是全同关系。 第二步：判断选项词语间逻辑关系。\nA 中“ 同一 ”的近义词是“相同 ”，而不是“统一 ”； B 中“ 口误 ”的近义词是“说错 ”；\nC 中“划分 ”的近义词是“分别、区分 ”； D 中“再会 ”和“再见 ”也是近义词。\n故正确答案为 D。",
+    "keyPoints": [
+      "第一步：判断题干词语间逻辑关系",
+      "题干中“休克 ”和“ 昏厥 ”是一对近义词，二者是全同关系",
+      "第二步：判断选项词语间逻辑关系"
+    ],
+    "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "中等",
+    "source": "2009年山东公务员考试《行测》第60题",
+    "province": "山东",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shandong-2009-未标注-61",
+    "category": "provincial",
+    "module": "panduan",
+    "title": "判断·2008 年以来，索马里附近海域先后发生累计 120 起…",
+    "stem": "2008 年以来，索马里附近海域先后发生累计 120 起海盗劫船事件。海盗何以猖獗？ 甲乙丙丁四人断定 如下：\n甲：海盗猖獗的主因是被劫船只的船主通常都愿支付高额赎金。\n乙：如果海盗猖獗的主因是被劫船主愿意支付高额赎金，那么肯定会助长海盗的气焰。 丙：确实助长了海盗的气焰，但其主因并非被劫船主都愿意支付高额赎金。\n丁：海盗猖獗的主因是被劫船主愿支付高额赎金，但其嚣张气焰并非由此生成。 如果上述断定有一个为真，那么以下断定不可能为真，除了：",
+    "options": [
+      {
+        "key": "A",
+        "text": "甲"
+      },
+      {
+        "key": "B",
+        "text": "乙"
+      },
+      {
+        "key": "C",
+        "text": "丙"
+      },
+      {
+        "key": "D",
+        "text": "丁"
+      }
+    ],
+    "answer": "B",
+    "explanation": "第一步：翻译题干。 甲：主因是支付高额赎金；\n乙：主因是支付高额赎金→助长气焰；\n丙：助长气焰∧－主因是支付高额赎金； 丁：主因是支付高额赎金∧－助长气焰 第二步：找突破口。\n从第一步的翻译可看出，丁的断定是乙的断定的负命题，乙、丁的话存在矛盾关系，两人的话必有 一真一假，此为本题的突破口。\n第三步：看其他的话。\n因为本题只有一句话为真，故甲、丙的话都为假。由甲的话为假，可知主因不是船主通常都愿支付 高额赎金，可翻译为“－主因是支付高额赎金 ”。又知丙的话为假，因为丙的话是联言命题，其后件为 真，故前件必须为假，即“助长气焰 ”为假，因此“－助长气焰 ”为真。\n第四步：判断突破口两句话的真假。\n从第三步可知，“－主因是支付高额赎金 ”为真，“－助长气焰 ”为真，丁的话是个联言命题，前 件为假，整句话都为假，乙的话是个假言命题，前件为假，则整句话为真，即丁的话为假，乙的话为真。\n故正确答案为 B。",
+    "keyPoints": [
+      "第一步：翻译题干",
+      "甲：主因是支付高额赎金；",
+      "乙：主因是支付高额赎金→助长气焰；"
+    ],
+    "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "中等",
+    "source": "2009年山东公务员考试《行测》第61题",
+    "province": "山东",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shandong-2009-未标注-62",
+    "category": "provincial",
+    "module": "panduan",
+    "title": "判断·下派干部中：有三个人是到基层锻炼过的，四个是山东人，两个…",
+    "stem": "下派干部中：有三个人是到基层锻炼过的，四个是山东人，两个是济南人，五个是研究生学历。以上 情况涉及了开现场会的所有人员，其中济南人不是研究生学历，那么开现场会的全部人数是：",
+    "options": [
+      {
+        "key": "A",
+        "text": "最少 5 人，最多 12 人"
+      },
+      {
+        "key": "B",
+        "text": "最少 7 人，最多 12 人"
+      },
+      {
+        "key": "C",
+        "text": "最少 5 人，最多 14 人"
+      },
+      {
+        "key": "D",
+        "text": "最少 7 人，最多 14 人"
+      }
+    ],
+    "answer": "B",
+    "explanation": "第一步：观察题干。\n题干中人员的身份存在交叉，要求得出总的人数。\n第二步：根据题干进行推导。\n根据常识可知，“ 山东四人 ”和“济南两人 ”可包含，因此最多减两人。\n由题干“济南人不是研究生学历 ”可知，“济南人 ”与“研究生 ”不可交叉，因此最少加两人。\n综上所述，可以列出计算式：3＋4＋2＋5－2＝12；5＋2＝7 。\n故正确答案为 B。",
+    "keyPoints": [
+      "第一步：观察题干",
+      "题干中人员的身份存在交叉，要求得出总的人数",
+      "第二步：根据题干进行推导"
+    ],
+    "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "中等",
+    "source": "2009年山东公务员考试《行测》第62题",
+    "province": "山东",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
+  },
+  {
+    "id": "prov-shandong-2009-未标注-63",
+    "category": "provincial",
+    "module": "panduan",
+    "title": "判断·有一件未留姓名的好人好事在某社区传开， 甲乙丙丁四人有如…",
+    "stem": "有一件未留姓名的好人好事在某社区传开， 甲乙丙丁四人有如下对话：\n甲说：这件事肯定是乙、丙、丁中的一位做的。 乙说：我没有做这件事，好人好事是丙做的。\n丙说：此事是甲和乙中的一位做的。 丁说：乙说的是事实。\n经调查，证实这四人中有两人说的符合实际。 由此推出：",
+    "options": [
+      {
+        "key": "A",
+        "text": "是甲做的好事"
+      },
+      {
+        "key": "B",
+        "text": "是乙做的好事"
+      },
+      {
+        "key": "C",
+        "text": "是丙做的好事"
+      },
+      {
+        "key": "D",
+        "text": "是丁做的好事"
+      }
+    ],
+    "answer": "B",
+    "explanation": "第一步：找突破口。\n由题干可知，乙和丁的话是突破口乙和丁同真同假。\n第二步：建立假设，逐一判断选项。\n假设乙为真，则甲和丁都真，“ 甲、乙、丁都为真 ”与题干中“两真两假 ”不符，所以假设不成立， 乙为假。\n假设乙为假，则乙、丁为假，甲、丙为真，这与题干中“两真两假 ”符合，所以假设成立，乙为假。 由乙为假可以推出好事是乙做的。\n故正确答案为 B。",
+    "keyPoints": [
+      "第一步：找突破口",
+      "由题干可知，乙和丁的话是突破口乙和丁同真同假",
+      "第二步：建立假设，逐一判断选项"
+    ],
+    "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
+    "difficulty": "中等",
+    "source": "2009年山东公务员考试《行测》第63题",
+    "province": "山东",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
+  }
+]

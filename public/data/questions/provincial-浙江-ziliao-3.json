@@ -31,7 +31,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年浙江公务员考试《行测》（A类）第111题",
-    "province": "浙江"
+    "province": "浙江",
+    "isAbnormal": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2025-A类-112",
@@ -66,7 +69,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年浙江公务员考试《行测》（A类）第112题",
-    "province": "浙江"
+    "province": "浙江",
+    "isAbnormal": true,
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2025-A类-113",
@@ -100,7 +106,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年浙江公务员考试《行测》（A类）第113题",
-    "province": "浙江"
+    "province": "浙江",
+    "isAbnormal": true,
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2025-A类-114",
@@ -135,7 +144,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年浙江公务员考试《行测》（A类）第114题",
-    "province": "浙江"
+    "province": "浙江",
+    "isAbnormal": true,
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2025-A类-115",
@@ -153,7 +165,9 @@
     "difficulty": "中等",
     "source": "2025年浙江公务员考试《行测》（A类）第115题",
     "isImageQuestion": true,
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2025-A类-116",
@@ -188,7 +202,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年浙江公务员考试《行测》（A类）第116题",
-    "province": "浙江"
+    "province": "浙江",
+    "isAbnormal": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2025-A类-117",
@@ -222,7 +239,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年浙江公务员考试《行测》（A类）第117题",
-    "province": "浙江"
+    "province": "浙江",
+    "isAbnormal": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2025-A类-118",
@@ -257,7 +277,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年浙江公务员考试《行测》（A类）第118题",
-    "province": "浙江"
+    "province": "浙江",
+    "isAbnormal": true,
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2025-A类-119",
@@ -291,7 +314,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年浙江公务员考试《行测》（A类）第119题",
-    "province": "浙江"
+    "province": "浙江",
+    "isAbnormal": true,
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2025-A类-120",
@@ -327,7 +353,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年浙江公务员考试《行测》（A类）第120题",
-    "province": "浙江"
+    "province": "浙江",
+    "isAbnormal": true,
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2025-A类-121",
@@ -361,7 +390,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年浙江公务员考试《行测》（A类）第121题",
-    "province": "浙江"
+    "province": "浙江",
+    "isAbnormal": true,
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2025-A类-122",
@@ -396,7 +428,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年浙江公务员考试《行测》（A类）第122题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "图形材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2025-A类-123",
@@ -430,7 +464,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年浙江公务员考试《行测》（A类）第123题",
-    "province": "浙江"
+    "province": "浙江",
+    "isAbnormal": true,
+    "subModule": "图形材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2025-A类-124",
@@ -465,7 +502,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年浙江公务员考试《行测》（A类）第124题",
-    "province": "浙江"
+    "province": "浙江",
+    "isAbnormal": true,
+    "subModule": "图形材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2025-A类-125",
@@ -500,7 +540,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年浙江公务员考试《行测》（A类）第125题",
-    "province": "浙江"
+    "province": "浙江",
+    "isAbnormal": true,
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2025-B类-106",
@@ -534,7 +577,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年浙江公务员考试《行测》（B类）第106题",
-    "province": "浙江"
+    "province": "浙江",
+    "isAbnormal": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2025-B类-107",
@@ -569,7 +615,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年浙江公务员考试《行测》（B类）第107题",
-    "province": "浙江"
+    "province": "浙江",
+    "isAbnormal": true,
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2025-B类-108",
@@ -603,7 +652,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年浙江公务员考试《行测》（B类）第108题",
-    "province": "浙江"
+    "province": "浙江",
+    "isAbnormal": true,
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2025-B类-109",
@@ -638,7 +690,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年浙江公务员考试《行测》（B类）第109题",
-    "province": "浙江"
+    "province": "浙江",
+    "isAbnormal": true,
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2025-B类-110",
@@ -656,7 +711,10 @@
     "difficulty": "中等",
     "source": "2025年浙江公务员考试《行测》（B类）第110题",
     "isImageQuestion": true,
-    "province": "浙江"
+    "province": "浙江",
+    "isAbnormal": true,
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2025-B类-111",
@@ -691,7 +749,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年浙江公务员考试《行测》（B类）第111题",
-    "province": "浙江"
+    "province": "浙江",
+    "isAbnormal": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2025-B类-112",
@@ -725,7 +786,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年浙江公务员考试《行测》（B类）第112题",
-    "province": "浙江"
+    "province": "浙江",
+    "isAbnormal": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2025-B类-113",
@@ -760,7 +824,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年浙江公务员考试《行测》（B类）第113题",
-    "province": "浙江"
+    "province": "浙江",
+    "isAbnormal": true,
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2025-B类-114",
@@ -794,7 +861,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年浙江公务员考试《行测》（B类）第114题",
-    "province": "浙江"
+    "province": "浙江",
+    "isAbnormal": true,
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2025-B类-115",
@@ -830,7 +900,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年浙江公务员考试《行测》（B类）第115题",
-    "province": "浙江"
+    "province": "浙江",
+    "isAbnormal": true,
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2025-B类-116",
@@ -865,7 +938,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年浙江公务员考试《行测》（B类）第116题",
-    "province": "浙江"
+    "province": "浙江",
+    "isAbnormal": true,
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2025-B类-117",
@@ -899,7 +975,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年浙江公务员考试《行测》（B类）第117题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "图形材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2025-B类-118",
@@ -933,7 +1011,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年浙江公务员考试《行测》（B类）第118题",
-    "province": "浙江"
+    "province": "浙江",
+    "isAbnormal": true,
+    "subModule": "图形材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2025-B类-119",
@@ -968,7 +1049,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年浙江公务员考试《行测》（B类）第119题",
-    "province": "浙江"
+    "province": "浙江",
+    "isAbnormal": true,
+    "subModule": "图形材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2025-B类-120",
@@ -1003,7 +1087,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年浙江公务员考试《行测》（B类）第120题",
-    "province": "浙江"
+    "province": "浙江",
+    "isAbnormal": true,
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2025-C类-106",
@@ -1035,7 +1122,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年浙江公务员考试《行测》（C类）第106题",
-    "province": "浙江"
+    "province": "浙江",
+    "isAbnormal": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-zhejiang-2025-C类-107",
@@ -1067,7 +1157,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年浙江公务员考试《行测》（C类）第107题",
-    "province": "浙江"
+    "province": "浙江",
+    "isAbnormal": true,
+    "subModule": "综合材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-zhejiang-2025-C类-108",
@@ -1099,7 +1192,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年浙江公务员考试《行测》（C类）第108题",
-    "province": "浙江"
+    "province": "浙江",
+    "isAbnormal": true,
+    "subModule": "综合材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-zhejiang-2025-C类-109",
@@ -1131,7 +1227,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年浙江公务员考试《行测》（C类）第109题",
-    "province": "浙江"
+    "province": "浙江",
+    "isAbnormal": true,
+    "subModule": "综合材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-zhejiang-2025-C类-110",
@@ -1163,7 +1262,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年浙江公务员考试《行测》（C类）第110题",
-    "province": "浙江"
+    "province": "浙江",
+    "isAbnormal": true,
+    "subModule": "综合材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-zhejiang-2025-C类-111",
@@ -1195,7 +1297,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年浙江公务员考试《行测》（C类）第111题",
-    "province": "浙江"
+    "province": "浙江",
+    "isAbnormal": true,
+    "subModule": "综合材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-zhejiang-2025-C类-112",
@@ -1227,7 +1332,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年浙江公务员考试《行测》（C类）第112题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "图形材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2025-C类-113",
@@ -1259,7 +1366,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年浙江公务员考试《行测》（C类）第113题",
-    "province": "浙江"
+    "province": "浙江",
+    "isAbnormal": true,
+    "subModule": "综合材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-zhejiang-2025-C类-114",
@@ -1291,7 +1401,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年浙江公务员考试《行测》（C类）第114题",
-    "province": "浙江"
+    "province": "浙江",
+    "isAbnormal": true,
+    "subModule": "综合材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-zhejiang-2025-C类-115",
@@ -1323,6 +1436,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年浙江公务员考试《行测》（C类）第115题",
-    "province": "浙江"
+    "province": "浙江",
+    "isAbnormal": true,
+    "subModule": "综合材料",
+    "subModule_confidence": "low"
   }
 ]

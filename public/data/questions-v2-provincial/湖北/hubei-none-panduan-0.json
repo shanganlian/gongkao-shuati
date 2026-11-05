@@ -13,7 +13,9 @@
     "difficulty": "中等",
     "source": "2008年湖北公务员考试《行测》第51题",
     "isImageQuestion": true,
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2008-未标注-52",
@@ -29,7 +31,9 @@
     "difficulty": "中等",
     "source": "2008年湖北公务员考试《行测》第52题",
     "isImageQuestion": true,
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2008-未标注-53",
@@ -47,7 +51,9 @@
     "difficulty": "中等",
     "source": "2008年湖北公务员考试《行测》第53题",
     "isImageQuestion": true,
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2008-未标注-54",
@@ -63,7 +69,9 @@
     "difficulty": "中等",
     "source": "2008年湖北公务员考试《行测》第54题",
     "isImageQuestion": true,
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2008-未标注-55",
@@ -79,7 +87,9 @@
     "difficulty": "中等",
     "source": "2008年湖北公务员考试《行测》第55题",
     "isImageQuestion": true,
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2008-未标注-56",
@@ -95,7 +105,9 @@
     "difficulty": "中等",
     "source": "2008年湖北公务员考试《行测》第56题",
     "isImageQuestion": true,
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2008-未标注-57",
@@ -111,7 +123,9 @@
     "difficulty": "中等",
     "source": "2008年湖北公务员考试《行测》第57题",
     "isImageQuestion": true,
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2008-未标注-58",
@@ -130,7 +144,9 @@
     "difficulty": "中等",
     "source": "2008年湖北公务员考试《行测》第58题",
     "isImageQuestion": true,
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2008-未标注-59",
@@ -149,7 +165,9 @@
     "difficulty": "中等",
     "source": "2008年湖北公务员考试《行测》第59题",
     "isImageQuestion": true,
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2008-未标注-60",
@@ -167,7 +185,9 @@
     "difficulty": "中等",
     "source": "2008年湖北公务员考试《行测》第60题",
     "isImageQuestion": true,
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2008-未标注-61",
@@ -199,7 +219,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2008年湖北公务员考试《行测》第61题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2008-未标注-62",
@@ -231,7 +253,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2008年湖北公务员考试《行测》第62题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2008-未标注-63",
@@ -263,7 +287,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2008年湖北公务员考试《行测》第63题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2008-未标注-64",
@@ -297,7 +323,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2008年湖北公务员考试《行测》第64题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2008-未标注-65",
@@ -329,7 +357,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2008年湖北公务员考试《行测》第65题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2008-未标注-66",
@@ -361,7 +391,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2008年湖北公务员考试《行测》第66题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2008-未标注-67",
@@ -393,7 +425,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2008年湖北公务员考试《行测》第67题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2008-未标注-68",
@@ -427,7 +461,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2008年湖北公务员考试《行测》第68题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2008-未标注-69",
@@ -459,7 +495,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2008年湖北公务员考试《行测》第69题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2008-未标注-70",
@@ -494,7 +532,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2008年湖北公务员考试《行测》第70题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2008-未标注-71",
@@ -526,7 +566,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2008年湖北公务员考试《行测》第71题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2008-未标注-72",
@@ -558,7 +600,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2008年湖北公务员考试《行测》第72题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2008-未标注-73",
@@ -593,7 +637,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2008年湖北公务员考试《行测》第73题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2008-未标注-74",
@@ -628,7 +674,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2008年湖北公务员考试《行测》第74题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2008-未标注-75",
@@ -664,7 +712,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2008年湖北公务员考试《行测》第75题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2008-未标注-76",
@@ -696,7 +746,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2008年湖北公务员考试《行测》第76题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2008-未标注-77",
@@ -728,7 +780,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2008年湖北公务员考试《行测》第77题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2008-未标注-78",
@@ -762,7 +816,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2008年湖北公务员考试《行测》第78题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2008-未标注-79",
@@ -798,7 +854,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2008年湖北公务员考试《行测》第79题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2008-未标注-80",
@@ -832,7 +890,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2008年湖北公务员考试《行测》第80题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2008-未标注-81",
@@ -864,7 +924,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2008年湖北公务员考试《行测》第81题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2008-未标注-82",
@@ -900,7 +962,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2008年湖北公务员考试《行测》第82题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2008-未标注-83",
@@ -932,7 +996,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2008年湖北公务员考试《行测》第83题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2008-未标注-84",
@@ -964,7 +1030,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2008年湖北公务员考试《行测》第84题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2008-未标注-85",
@@ -998,7 +1066,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2008年湖北公务员考试《行测》第85题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2008-未标注-86",
@@ -1033,7 +1103,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2008年湖北公务员考试《行测》第86题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2008-未标注-87",
@@ -1061,7 +1133,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2008年湖北公务员考试《行测》第87题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2008-未标注-88",
@@ -1096,7 +1170,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2008年湖北公务员考试《行测》第88题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2008-未标注-89",
@@ -1128,7 +1204,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2008年湖北公务员考试《行测》第89题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2008-未标注-90",
@@ -1163,7 +1241,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2008年湖北公务员考试《行测》第90题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2009-426联考-51",
@@ -1181,7 +1261,9 @@
     "difficulty": "中等",
     "source": "2009年湖北公务员考试《行测》（426联考）第51题",
     "isImageQuestion": true,
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2009-426联考-52",
@@ -1200,7 +1282,9 @@
     "difficulty": "中等",
     "source": "2009年湖北公务员考试《行测》（426联考）第52题",
     "isImageQuestion": true,
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2009-426联考-53",
@@ -1218,7 +1302,9 @@
     "difficulty": "中等",
     "source": "2009年湖北公务员考试《行测》（426联考）第53题",
     "isImageQuestion": true,
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2009-426联考-54",
@@ -1236,7 +1322,9 @@
     "difficulty": "中等",
     "source": "2009年湖北公务员考试《行测》（426联考）第54题",
     "isImageQuestion": true,
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2009-426联考-55",
@@ -1255,7 +1343,9 @@
     "difficulty": "中等",
     "source": "2009年湖北公务员考试《行测》（426联考）第55题",
     "isImageQuestion": true,
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2009-426联考-56",
@@ -1291,7 +1381,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年湖北公务员考试《行测》（426联考）第56题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2009-426联考-57",
@@ -1326,7 +1418,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年湖北公务员考试《行测》（426联考）第57题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2009-426联考-58",
@@ -1361,7 +1455,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年湖北公务员考试《行测》（426联考）第58题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2009-426联考-59",
@@ -1397,7 +1493,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年湖北公务员考试《行测》（426联考）第59题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2009-426联考-60",
@@ -1432,7 +1530,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年湖北公务员考试《行测》（426联考）第60题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2009-426联考-61",
@@ -1467,7 +1567,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年湖北公务员考试《行测》（426联考）第61题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2009-426联考-62",
@@ -1501,7 +1603,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年湖北公务员考试《行测》（426联考）第62题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2009-426联考-63",
@@ -1536,7 +1640,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年湖北公务员考试《行测》（426联考）第63题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2009-426联考-64",
@@ -1572,7 +1678,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年湖北公务员考试《行测》（426联考）第64题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2009-426联考-65",
@@ -1607,7 +1715,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年湖北公务员考试《行测》（426联考）第65题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2009-426联考-66",
@@ -1642,7 +1752,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年湖北公务员考试《行测》（426联考）第66题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2009-426联考-67",
@@ -1678,7 +1790,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年湖北公务员考试《行测》（426联考）第67题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2009-426联考-68",
@@ -1714,7 +1828,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年湖北公务员考试《行测》（426联考）第68题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2009-426联考-69",
@@ -1750,7 +1866,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年湖北公务员考试《行测》（426联考）第69题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2009-426联考-70",
@@ -1784,7 +1902,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年湖北公务员考试《行测》（426联考）第70题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2009-426联考-71",
@@ -1820,7 +1940,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年湖北公务员考试《行测》（426联考）第71题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2009-426联考-72",
@@ -1854,7 +1976,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年湖北公务员考试《行测》（426联考）第72题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2009-426联考-73",
@@ -1888,7 +2012,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年湖北公务员考试《行测》（426联考）第73题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2009-426联考-74",
@@ -1922,7 +2048,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年湖北公务员考试《行测》（426联考）第74题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2009-426联考-75",
@@ -1957,7 +2085,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年湖北公务员考试《行测》（426联考）第75题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2009-426联考-76",
@@ -1992,7 +2122,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年湖北公务员考试《行测》（426联考）第76题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2009-426联考-77",
@@ -2028,7 +2160,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年湖北公务员考试《行测》（426联考）第77题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2009-426联考-78",
@@ -2063,7 +2197,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年湖北公务员考试《行测》（426联考）第78题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2009-426联考-79",
@@ -2098,7 +2234,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年湖北公务员考试《行测》（426联考）第79题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2009-426联考-80",
@@ -2134,7 +2272,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年湖北公务员考试《行测》（426联考）第80题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2009-426联考-81",
@@ -2170,7 +2310,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年湖北公务员考试《行测》（426联考）第81题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2009-426联考-82",
@@ -2205,7 +2347,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年湖北公务员考试《行测》（426联考）第82题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2009-426联考-83",
@@ -2241,7 +2385,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年湖北公务员考试《行测》（426联考）第83题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2009-426联考-84",
@@ -2276,7 +2422,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年湖北公务员考试《行测》（426联考）第84题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2009-426联考-85",
@@ -2311,7 +2459,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年湖北公务员考试《行测》（426联考）第85题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2010-未标注-61",
@@ -2331,7 +2481,9 @@
     "difficulty": "中等",
     "source": "2010年湖北公务员考试《行测》第61题",
     "isImageQuestion": true,
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2010-未标注-62",
@@ -2350,7 +2502,9 @@
     "difficulty": "中等",
     "source": "2010年湖北公务员考试《行测》第62题",
     "isImageQuestion": true,
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2010-未标注-63",
@@ -2369,7 +2523,9 @@
     "difficulty": "中等",
     "source": "2010年湖北公务员考试《行测》第63题",
     "isImageQuestion": true,
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2010-未标注-64",
@@ -2388,7 +2544,9 @@
     "difficulty": "中等",
     "source": "2010年湖北公务员考试《行测》第64题",
     "isImageQuestion": true,
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2010-未标注-65",
@@ -2406,7 +2564,9 @@
     "difficulty": "中等",
     "source": "2010年湖北公务员考试《行测》第65题",
     "isImageQuestion": true,
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2010-未标注-66",
@@ -2425,7 +2585,9 @@
     "difficulty": "中等",
     "source": "2010年湖北公务员考试《行测》第66题",
     "isImageQuestion": true,
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2010-未标注-67",
@@ -2444,7 +2606,9 @@
     "difficulty": "中等",
     "source": "2010年湖北公务员考试《行测》第67题",
     "isImageQuestion": true,
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2010-未标注-68",
@@ -2462,7 +2626,9 @@
     "difficulty": "中等",
     "source": "2010年湖北公务员考试《行测》第68题",
     "isImageQuestion": true,
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2010-未标注-69",
@@ -2480,7 +2646,9 @@
     "difficulty": "中等",
     "source": "2010年湖北公务员考试《行测》第69题",
     "isImageQuestion": true,
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2010-未标注-70",
@@ -2499,7 +2667,9 @@
     "difficulty": "中等",
     "source": "2010年湖北公务员考试《行测》第70题",
     "isImageQuestion": true,
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2010-未标注-71",
@@ -2534,7 +2704,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年湖北公务员考试《行测》第71题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2010-未标注-72",
@@ -2569,7 +2741,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年湖北公务员考试《行测》第72题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2010-未标注-73",
@@ -2604,7 +2778,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年湖北公务员考试《行测》第73题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2010-未标注-74",
@@ -2639,7 +2815,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年湖北公务员考试《行测》第74题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2010-未标注-75",
@@ -2674,7 +2852,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年湖北公务员考试《行测》第75题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2010-未标注-76",
@@ -2710,7 +2890,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年湖北公务员考试《行测》第76题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2010-未标注-77",
@@ -2746,7 +2928,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年湖北公务员考试《行测》第77题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2010-未标注-78",
@@ -2782,7 +2966,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年湖北公务员考试《行测》第78题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2010-未标注-79",
@@ -2818,7 +3004,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年湖北公务员考试《行测》第79题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2010-未标注-80",
@@ -2853,7 +3041,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年湖北公务员考试《行测》第80题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2010-未标注-81",
@@ -2889,7 +3079,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年湖北公务员考试《行测》第81题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2010-未标注-82",
@@ -2925,7 +3117,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年湖北公务员考试《行测》第82题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2010-未标注-83",
@@ -2961,7 +3155,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年湖北公务员考试《行测》第83题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2010-未标注-84",
@@ -2996,7 +3192,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年湖北公务员考试《行测》第84题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2010-未标注-85",
@@ -3032,7 +3230,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年湖北公务员考试《行测》第85题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2010-未标注-86",
@@ -3067,7 +3267,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年湖北公务员考试《行测》第86题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2010-未标注-87",
@@ -3103,7 +3305,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年湖北公务员考试《行测》第87题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2010-未标注-88",
@@ -3138,7 +3342,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年湖北公务员考试《行测》第88题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2010-未标注-89",
@@ -3173,7 +3379,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年湖北公务员考试《行测》第89题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2010-未标注-90",
@@ -3209,7 +3417,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年湖北公务员考试《行测》第90题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2011-424联考-51",
@@ -3227,7 +3437,9 @@
     "difficulty": "中等",
     "source": "2011年湖北公务员考试《行测》（424联考）第51题",
     "isImageQuestion": true,
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2011-424联考-52",
@@ -3247,7 +3459,9 @@
     "difficulty": "中等",
     "source": "2011年湖北公务员考试《行测》（424联考）第52题",
     "isImageQuestion": true,
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2011-424联考-53",
@@ -3266,7 +3480,9 @@
     "difficulty": "中等",
     "source": "2011年湖北公务员考试《行测》（424联考）第53题",
     "isImageQuestion": true,
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2011-424联考-54",
@@ -3286,7 +3502,9 @@
     "difficulty": "中等",
     "source": "2011年湖北公务员考试《行测》（424联考）第54题",
     "isImageQuestion": true,
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2011-424联考-55",
@@ -3306,7 +3524,9 @@
     "difficulty": "中等",
     "source": "2011年湖北公务员考试《行测》（424联考）第55题",
     "isImageQuestion": true,
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2011-424联考-56",
@@ -3325,7 +3545,9 @@
     "difficulty": "中等",
     "source": "2011年湖北公务员考试《行测》（424联考）第56题",
     "isImageQuestion": true,
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2011-424联考-57",
@@ -3344,7 +3566,9 @@
     "difficulty": "中等",
     "source": "2011年湖北公务员考试《行测》（424联考）第57题",
     "isImageQuestion": true,
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2011-424联考-58",
@@ -3363,7 +3587,9 @@
     "difficulty": "中等",
     "source": "2011年湖北公务员考试《行测》（424联考）第58题",
     "isImageQuestion": true,
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2011-424联考-59",
@@ -3382,7 +3608,9 @@
     "difficulty": "中等",
     "source": "2011年湖北公务员考试《行测》（424联考）第59题",
     "isImageQuestion": true,
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2011-424联考-60",
@@ -3400,7 +3628,9 @@
     "difficulty": "中等",
     "source": "2011年湖北公务员考试《行测》（424联考）第60题",
     "isImageQuestion": true,
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2011-424联考-61",
@@ -3436,7 +3666,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年湖北公务员考试《行测》（424联考）第61题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2011-424联考-62",
@@ -3472,7 +3704,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年湖北公务员考试《行测》（424联考）第62题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2011-424联考-63",
@@ -3508,7 +3742,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年湖北公务员考试《行测》（424联考）第63题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2011-424联考-64",
@@ -3544,7 +3780,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年湖北公务员考试《行测》（424联考）第64题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2011-424联考-65",
@@ -3580,7 +3818,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年湖北公务员考试《行测》（424联考）第65题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2011-424联考-66",
@@ -3616,7 +3856,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年湖北公务员考试《行测》（424联考）第66题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2011-424联考-67",
@@ -3652,7 +3894,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年湖北公务员考试《行测》（424联考）第67题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2011-424联考-68",
@@ -3688,7 +3932,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年湖北公务员考试《行测》（424联考）第68题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2011-424联考-69",
@@ -3724,7 +3970,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年湖北公务员考试《行测》（424联考）第69题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2011-424联考-70",
@@ -3760,7 +4008,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年湖北公务员考试《行测》（424联考）第70题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2011-424联考-71",
@@ -3795,7 +4045,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年湖北公务员考试《行测》（424联考）第71题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2011-424联考-72",
@@ -3831,7 +4083,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年湖北公务员考试《行测》（424联考）第72题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2011-424联考-73",
@@ -3867,7 +4121,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年湖北公务员考试《行测》（424联考）第73题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2011-424联考-74",
@@ -3901,7 +4157,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年湖北公务员考试《行测》（424联考）第74题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2011-424联考-75",
@@ -3936,7 +4194,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年湖北公务员考试《行测》（424联考）第75题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2011-424联考-76",
@@ -3971,7 +4231,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年湖北公务员考试《行测》（424联考）第76题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2011-424联考-77",
@@ -4006,7 +4268,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年湖北公务员考试《行测》（424联考）第77题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2011-424联考-78",
@@ -4042,7 +4306,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年湖北公务员考试《行测》（424联考）第78题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2011-424联考-79",
@@ -4076,7 +4342,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年湖北公务员考试《行测》（424联考）第79题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2011-424联考-80",
@@ -4111,7 +4379,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年湖北公务员考试《行测》（424联考）第80题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2012-421联考-66",
@@ -4130,7 +4400,9 @@
     "difficulty": "中等",
     "source": "2012年湖北公务员考试《行测》（421联考）第66题",
     "isImageQuestion": true,
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2012-421联考-67",
@@ -4148,7 +4420,9 @@
     "difficulty": "中等",
     "source": "2012年湖北公务员考试《行测》（421联考）第67题",
     "isImageQuestion": true,
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2012-421联考-68",
@@ -4167,7 +4441,9 @@
     "difficulty": "中等",
     "source": "2012年湖北公务员考试《行测》（421联考）第68题",
     "isImageQuestion": true,
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2012-421联考-69",
@@ -4185,7 +4461,9 @@
     "difficulty": "中等",
     "source": "2012年湖北公务员考试《行测》（421联考）第69题",
     "isImageQuestion": true,
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2012-421联考-70",
@@ -4205,7 +4483,9 @@
     "difficulty": "中等",
     "source": "2012年湖北公务员考试《行测》（421联考）第70题",
     "isImageQuestion": true,
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2012-421联考-71",
@@ -4241,7 +4521,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年湖北公务员考试《行测》（421联考）第71题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2012-421联考-72",
@@ -4277,7 +4559,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年湖北公务员考试《行测》（421联考）第72题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2012-421联考-73",
@@ -4313,7 +4597,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年湖北公务员考试《行测》（421联考）第73题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2012-421联考-74",
@@ -4349,7 +4635,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年湖北公务员考试《行测》（421联考）第74题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2012-421联考-75",
@@ -4384,7 +4672,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年湖北公务员考试《行测》（421联考）第75题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2012-421联考-76",
@@ -4419,7 +4709,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年湖北公务员考试《行测》（421联考）第76题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2012-421联考-77",
@@ -4455,7 +4747,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年湖北公务员考试《行测》（421联考）第77题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2012-421联考-78",
@@ -4490,7 +4784,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年湖北公务员考试《行测》（421联考）第78题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2012-421联考-79",
@@ -4526,7 +4822,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年湖北公务员考试《行测》（421联考）第79题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2012-421联考-80",
@@ -4562,7 +4860,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年湖北公务员考试《行测》（421联考）第80题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2012-421联考-81",
@@ -4597,7 +4897,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年湖北公务员考试《行测》（421联考）第81题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2012-421联考-82",
@@ -4629,7 +4931,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年湖北公务员考试《行测》（421联考）第82题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2012-421联考-83",
@@ -4664,7 +4968,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年湖北公务员考试《行测》（421联考）第83题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2012-421联考-84",
@@ -4700,7 +5006,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年湖北公务员考试《行测》（421联考）第84题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2012-421联考-85",
@@ -4735,7 +5043,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年湖北公务员考试《行测》（421联考）第85题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2012-421联考-86",
@@ -4771,7 +5081,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年湖北公务员考试《行测》（421联考）第86题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2012-421联考-87",
@@ -4807,7 +5119,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年湖北公务员考试《行测》（421联考）第87题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2012-421联考-88",
@@ -4843,7 +5157,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年湖北公务员考试《行测》（421联考）第88题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2012-421联考-89",
@@ -4878,7 +5194,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年湖北公务员考试《行测》（421联考）第89题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2012-421联考-90",
@@ -4913,7 +5231,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年湖北公务员考试《行测》（421联考）第90题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2012-421联考-91",
@@ -4947,7 +5267,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年湖北公务员考试《行测》（421联考）第91题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2012-421联考-92",
@@ -4981,7 +5303,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年湖北公务员考试《行测》（421联考）第92题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2012-421联考-93",
@@ -5017,7 +5341,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年湖北公务员考试《行测》（421联考）第93题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2012-421联考-94",
@@ -5052,7 +5378,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年湖北公务员考试《行测》（421联考）第94题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2012-421联考-95",
@@ -5087,7 +5415,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年湖北公务员考试《行测》（421联考）第95题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2012-421联考-96",
@@ -5122,7 +5452,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年湖北公务员考试《行测》（421联考）第96题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2012-421联考-97",
@@ -5158,7 +5490,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年湖北公务员考试《行测》（421联考）第97题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2012-421联考-98",
@@ -5194,7 +5528,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年湖北公务员考试《行测》（421联考）第98题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2012-421联考-99",
@@ -5229,7 +5565,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年湖北公务员考试《行测》（421联考）第99题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2012-421联考-100",
@@ -5265,7 +5603,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年湖北公务员考试《行测》（421联考）第100题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2013-413联考-91",
@@ -5284,7 +5624,9 @@
     "difficulty": "中等",
     "source": "2013年湖北公务员考试《行测》（413联考）第91题",
     "isImageQuestion": true,
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2013-413联考-92",
@@ -5303,7 +5645,9 @@
     "difficulty": "中等",
     "source": "2013年湖北公务员考试《行测》（413联考）第92题",
     "isImageQuestion": true,
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2013-413联考-93",
@@ -5321,7 +5665,9 @@
     "difficulty": "中等",
     "source": "2013年湖北公务员考试《行测》（413联考）第93题",
     "isImageQuestion": true,
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2013-413联考-94",
@@ -5341,7 +5687,9 @@
     "difficulty": "中等",
     "source": "2013年湖北公务员考试《行测》（413联考）第94题",
     "isImageQuestion": true,
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2013-413联考-95",
@@ -5360,7 +5708,9 @@
     "difficulty": "中等",
     "source": "2013年湖北公务员考试《行测》（413联考）第95题",
     "isImageQuestion": true,
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2013-413联考-96",
@@ -5380,7 +5730,9 @@
     "difficulty": "中等",
     "source": "2013年湖北公务员考试《行测》（413联考）第96题",
     "isImageQuestion": true,
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2013-413联考-97",
@@ -5399,7 +5751,9 @@
     "difficulty": "中等",
     "source": "2013年湖北公务员考试《行测》（413联考）第97题",
     "isImageQuestion": true,
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2013-413联考-98",
@@ -5418,7 +5772,9 @@
     "difficulty": "中等",
     "source": "2013年湖北公务员考试《行测》（413联考）第98题",
     "isImageQuestion": true,
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2013-413联考-99",
@@ -5453,7 +5809,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年湖北公务员考试《行测》（413联考）第99题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2013-413联考-100",
@@ -5488,7 +5846,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年湖北公务员考试《行测》（413联考）第100题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2013-413联考-101",
@@ -5524,7 +5884,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年湖北公务员考试《行测》（413联考）第101题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2013-413联考-102",
@@ -5560,7 +5922,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年湖北公务员考试《行测》（413联考）第102题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2013-413联考-103",
@@ -5594,7 +5958,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年湖北公务员考试《行测》（413联考）第103题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2013-413联考-104",
@@ -5628,7 +5994,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年湖北公务员考试《行测》（413联考）第104题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2013-413联考-105",
@@ -5662,7 +6030,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年湖北公务员考试《行测》（413联考）第105题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2013-413联考-106",
@@ -5697,7 +6067,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年湖北公务员考试《行测》（413联考）第106题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2013-413联考-107",
@@ -5732,7 +6104,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年湖北公务员考试《行测》（413联考）第107题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2013-413联考-108",
@@ -5766,7 +6140,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年湖北公务员考试《行测》（413联考）第108题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2013-413联考-109",
@@ -5801,7 +6177,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年湖北公务员考试《行测》（413联考）第109题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2013-413联考-110",
@@ -5836,7 +6214,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年湖北公务员考试《行测》（413联考）第110题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2013-413联考-111",
@@ -5870,7 +6250,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年湖北公务员考试《行测》（413联考）第111题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2013-413联考-112",
@@ -5906,7 +6288,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年湖北公务员考试《行测》（413联考）第112题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2013-413联考-113",
@@ -5942,7 +6326,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年湖北公务员考试《行测》（413联考）第113题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2013-413联考-114",
@@ -5978,7 +6364,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年湖北公务员考试《行测》（413联考）第114题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2013-413联考-115",
@@ -6014,7 +6402,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年湖北公务员考试《行测》（413联考）第115题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2013-413联考-116",
@@ -6049,7 +6439,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年湖北公务员考试《行测》（413联考）第116题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2013-413联考-117",
@@ -6083,7 +6475,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年湖北公务员考试《行测》（413联考）第117题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2013-413联考-118",
@@ -6119,7 +6513,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年湖北公务员考试《行测》（413联考）第118题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2013-413联考-119",
@@ -6153,7 +6549,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年湖北公务员考试《行测》（413联考）第119题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2013-413联考-120",
@@ -6188,6 +6586,8 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年湖北公务员考试《行测》（413联考）第120题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   }
 ]

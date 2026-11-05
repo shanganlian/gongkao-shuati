@@ -33,7 +33,9 @@
     "difficulty": "拔高",
     "source": "2023年贵州公务员考试《行测》第68题",
     "isImageQuestion": true,
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2023-未标注-69",
@@ -69,7 +71,9 @@
     "difficulty": "拔高",
     "source": "2023年贵州公务员考试《行测》第69题",
     "isImageQuestion": true,
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "几何",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guizhou-2023-未标注-70",
@@ -104,7 +108,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2023年贵州公务员考试《行测》第70题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guizhou-2024-未标注-48",
@@ -138,7 +144,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2024年贵州公务员考试《行测》第48题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2024-未标注-49",
@@ -174,7 +182,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2024年贵州公务员考试《行测》第49题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2024-未标注-50",
@@ -208,7 +218,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2024年贵州公务员考试《行测》第50题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2024-未标注-51",
@@ -243,7 +255,9 @@
     "difficulty": "拔高",
     "source": "2024年贵州公务员考试《行测》第51题",
     "isImageQuestion": true,
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2024-未标注-52",
@@ -278,7 +292,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2024年贵州公务员考试《行测》第52题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2024-未标注-53",
@@ -314,7 +330,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2024年贵州公务员考试《行测》第53题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2024-未标注-54",
@@ -349,7 +367,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2024年贵州公务员考试《行测》第54题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2024-未标注-55",
@@ -386,7 +406,9 @@
     "difficulty": "拔高",
     "source": "2024年贵州公务员考试《行测》第55题",
     "isImageQuestion": true,
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2024-未标注-56",
@@ -422,7 +444,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2024年贵州公务员考试《行测》第56题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2024-未标注-57",
@@ -458,7 +482,9 @@
     "difficulty": "拔高",
     "source": "2024年贵州公务员考试《行测》第57题",
     "isImageQuestion": true,
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2024-未标注-58",
@@ -494,7 +520,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2024年贵州公务员考试《行测》第58题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2024-未标注-59",
@@ -530,7 +558,9 @@
     "difficulty": "拔高",
     "source": "2024年贵州公务员考试《行测》第59题",
     "isImageQuestion": true,
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2024-未标注-60",
@@ -565,7 +595,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2024年贵州公务员考试《行测》第60题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2025-未标注-47",
@@ -600,7 +632,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年贵州公务员考试《行测》第47题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2025-未标注-48",
@@ -616,7 +650,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2025年贵州公务员考试《行测》第48题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guizhou-2025-未标注-49",
@@ -651,7 +687,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年贵州公务员考试《行测》第49题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2025-未标注-50",
@@ -686,7 +724,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年贵州公务员考试《行测》第50题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2025-未标注-51",
@@ -721,7 +761,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年贵州公务员考试《行测》第51题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2025-未标注-52",
@@ -755,7 +797,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年贵州公务员考试《行测》第52题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2025-未标注-53",
@@ -789,7 +833,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年贵州公务员考试《行测》第53题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2025-未标注-54",
@@ -823,7 +869,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年贵州公务员考试《行测》第54题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2025-未标注-55",
@@ -842,7 +890,9 @@
     "difficulty": "拔高",
     "source": "2025年贵州公务员考试《行测》第55题",
     "isImageQuestion": true,
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2025-未标注-56",
@@ -861,7 +911,9 @@
     "difficulty": "拔高",
     "source": "2025年贵州公务员考试《行测》第56题",
     "isImageQuestion": true,
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2025-未标注-57",
@@ -896,7 +948,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年贵州公务员考试《行测》第57题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2025-未标注-58",
@@ -932,7 +986,9 @@
     "difficulty": "拔高",
     "source": "2025年贵州公务员考试《行测》第58题",
     "isImageQuestion": true,
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2025-未标注-59",
@@ -951,7 +1007,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年贵州公务员考试《行测》第59题",
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guizhou-2025-未标注-60",
@@ -986,6 +1044,8 @@
     "difficulty": "拔高",
     "source": "2025年贵州公务员考试《行测》第60题",
     "isImageQuestion": true,
-    "province": "贵州"
+    "province": "贵州",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   }
 ]

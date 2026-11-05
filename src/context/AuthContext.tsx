@@ -2,6 +2,7 @@ import React, { createContext, useContext, useState, useEffect, ReactNode } from
 import { User } from '@supabase/supabase-js';
 import { supabase } from '../lib/supabase';
 import { mergeGuestDataToAccount } from '../lib/guestStore';
+import { translateAuthError } from '../lib/authErrors';
 
 interface AuthContextValue {
   user: User | null;
@@ -47,12 +48,12 @@ function AuthProvider({ children }: { children: ReactNode }) {
 
   const signUp = async (email: string, password: string) => {
     const { error } = await supabase.auth.signUp({ email, password });
-    return { error: error?.message };
+    return { error: translateAuthError(error?.message) };
   };
 
   const signIn = async (email: string, password: string) => {
     const { error } = await supabase.auth.signInWithPassword({ email, password });
-    return { error: error?.message };
+    return { error: translateAuthError(error?.message) };
   };
 
   const sendEmailOtp = async (email: string) => {
@@ -60,7 +61,7 @@ function AuthProvider({ children }: { children: ReactNode }) {
       email: email.trim(),
       options: { shouldCreateUser: true },
     });
-    return { error: error?.message };
+    return { error: translateAuthError(error?.message) };
   };
 
   const verifyEmailOtp = async (email: string, token: string) => {
@@ -69,7 +70,7 @@ function AuthProvider({ children }: { children: ReactNode }) {
       token: token.trim(),
       type: 'email',
     });
-    return { error: error?.message };
+    return { error: translateAuthError(error?.message) };
   };
 
   const signOut = async () => {

@@ -4,8 +4,12 @@ import path from 'path';
 import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
+  // SKIP_PUBLIC_COPY=1：只构建前端（dist 不拷贝 public/data 题库），
+  // 供 deploy/release-frontend.ps1 做“仅更新 UI”的快速发布。
+  const publicDir: string | false = process.env.SKIP_PUBLIC_COPY === '1' ? false : 'public';
   return {
     plugins: [react(), tailwindcss()],
+    publicDir,
     resolve: {
       alias: {
         '@': path.resolve(__dirname, '.'),

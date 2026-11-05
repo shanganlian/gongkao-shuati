@@ -31,7 +31,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2024年国家公务员考试《行测》地市级第16题"
+    "source": "2024年国家公务员考试《行测》地市级第16题",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2024-地市级-17",
@@ -65,7 +67,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2024年国家公务员考试《行测》地市级第17题"
+    "source": "2024年国家公务员考试《行测》地市级第17题",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2024-地市级-18",
@@ -99,7 +103,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2024年国家公务员考试《行测》地市级第18题"
+    "source": "2024年国家公务员考试《行测》地市级第18题",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2024-地市级-19",
@@ -134,7 +140,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2024年国家公务员考试《行测》地市级第19题"
+    "source": "2024年国家公务员考试《行测》地市级第19题",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2024-地市级-20",
@@ -167,7 +175,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2024年国家公务员考试《行测》地市级第20题"
+    "source": "2024年国家公务员考试《行测》地市级第20题",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2024-行政执法-1",
@@ -201,7 +211,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2024年国家公务员考试《行测》行政执法第1题"
+    "source": "2024年国家公务员考试《行测》行政执法第1题",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2024-行政执法-2",
@@ -234,7 +246,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2024年国家公务员考试《行测》行政执法第2题"
+    "source": "2024年国家公务员考试《行测》行政执法第2题",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2024-行政执法-3",
@@ -268,7 +282,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2024年国家公务员考试《行测》行政执法第3题"
+    "source": "2024年国家公务员考试《行测》行政执法第3题",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2024-行政执法-4",
@@ -302,7 +318,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2024年国家公务员考试《行测》行政执法第4题"
+    "source": "2024年国家公务员考试《行测》行政执法第4题",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2024-行政执法-5",
@@ -335,7 +353,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2024年国家公务员考试《行测》行政执法第5题"
+    "source": "2024年国家公务员考试《行测》行政执法第5题",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2024-行政执法-6",
@@ -370,7 +390,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2024年国家公务员考试《行测》行政执法第6题",
-    "isImageQuestion": true
+    "isImageQuestion": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2024-行政执法-7",
@@ -403,7 +425,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2024年国家公务员考试《行测》行政执法第7题"
+    "source": "2024年国家公务员考试《行测》行政执法第7题",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2024-行政执法-8",
@@ -436,7 +460,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2024年国家公务员考试《行测》行政执法第8题"
+    "source": "2024年国家公务员考试《行测》行政执法第8题",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2024-行政执法-9",
@@ -470,7 +496,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2024年国家公务员考试《行测》行政执法第9题"
+    "source": "2024年国家公务员考试《行测》行政执法第9题",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2024-行政执法-10",
@@ -503,7 +531,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2024年国家公务员考试《行测》行政执法第10题"
+    "source": "2024年国家公务员考试《行测》行政执法第10题",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2024-行政执法-11",
@@ -537,7 +567,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2024年国家公务员考试《行测》行政执法第11题"
+    "source": "2024年国家公务员考试《行测》行政执法第11题",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2024-行政执法-12",
@@ -571,7 +603,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2024年国家公务员考试《行测》行政执法第12题",
-    "isImageQuestion": true
+    "isImageQuestion": true,
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2024-行政执法-13",
@@ -605,7 +639,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2024年国家公务员考试《行测》行政执法第13题"
+    "source": "2024年国家公务员考试《行测》行政执法第13题",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2024-行政执法-14",
@@ -638,7 +674,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2024年国家公务员考试《行测》行政执法第14题"
+    "source": "2024年国家公务员考试《行测》行政执法第14题",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2024-行政执法-15",
@@ -672,7 +710,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2024年国家公务员考试《行测》行政执法第15题"
+    "source": "2024年国家公务员考试《行测》行政执法第15题",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2024-行政执法-16",
@@ -706,7 +746,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2024年国家公务员考试《行测》行政执法第16题"
+    "source": "2024年国家公务员考试《行测》行政执法第16题",
+    "subModule": "地理国情",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2024-行政执法-17",
@@ -739,7 +781,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2024年国家公务员考试《行测》行政执法第17题"
+    "source": "2024年国家公务员考试《行测》行政执法第17题",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2024-行政执法-18",
@@ -774,7 +818,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2024年国家公务员考试《行测》行政执法第18题"
+    "source": "2024年国家公务员考试《行测》行政执法第18题",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2024-行政执法-19",
@@ -807,7 +853,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2024年国家公务员考试《行测》行政执法第19题"
+    "source": "2024年国家公务员考试《行测》行政执法第19题",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2024-行政执法-20",
@@ -843,7 +891,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2024年国家公务员考试《行测》行政执法第20题",
-    "isImageQuestion": true
+    "isImageQuestion": true,
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2025-副省级-1",
@@ -877,7 +927,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2025年国家公务员考试《行测》副省级第1题"
+    "source": "2025年国家公务员考试《行测》副省级第1题",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2025-副省级-2",
@@ -911,7 +963,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2025年国家公务员考试《行测》副省级第2题"
+    "source": "2025年国家公务员考试《行测》副省级第2题",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2025-副省级-3",
@@ -944,7 +998,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2025年国家公务员考试《行测》副省级第3题"
+    "source": "2025年国家公务员考试《行测》副省级第3题",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2025-副省级-4",
@@ -977,7 +1033,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2025年国家公务员考试《行测》副省级第4题"
+    "source": "2025年国家公务员考试《行测》副省级第4题",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2025-副省级-5",
@@ -1011,7 +1069,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2025年国家公务员考试《行测》副省级第5题"
+    "source": "2025年国家公务员考试《行测》副省级第5题",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2025-副省级-6",
@@ -1045,7 +1105,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2025年国家公务员考试《行测》副省级第6题"
+    "source": "2025年国家公务员考试《行测》副省级第6题",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2025-副省级-7",
@@ -1078,7 +1140,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2025年国家公务员考试《行测》副省级第7题"
+    "source": "2025年国家公务员考试《行测》副省级第7题",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2025-副省级-8",
@@ -1112,7 +1176,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2025年国家公务员考试《行测》副省级第8题"
+    "source": "2025年国家公务员考试《行测》副省级第8题",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2025-副省级-9",
@@ -1145,7 +1211,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2025年国家公务员考试《行测》副省级第9题"
+    "source": "2025年国家公务员考试《行测》副省级第9题",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2025-副省级-10",
@@ -1178,7 +1246,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2025年国家公务员考试《行测》副省级第10题"
+    "source": "2025年国家公务员考试《行测》副省级第10题",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2025-副省级-11",
@@ -1211,7 +1281,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2025年国家公务员考试《行测》副省级第11题"
+    "source": "2025年国家公务员考试《行测》副省级第11题",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2025-副省级-12",
@@ -1244,7 +1316,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2025年国家公务员考试《行测》副省级第12题"
+    "source": "2025年国家公务员考试《行测》副省级第12题",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2025-副省级-13",
@@ -1280,7 +1354,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2025年国家公务员考试《行测》副省级第13题",
-    "isImageQuestion": true
+    "isImageQuestion": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2025-副省级-14",
@@ -1313,7 +1389,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2025年国家公务员考试《行测》副省级第14题"
+    "source": "2025年国家公务员考试《行测》副省级第14题",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2025-副省级-15",
@@ -1346,7 +1424,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2025年国家公务员考试《行测》副省级第15题"
+    "source": "2025年国家公务员考试《行测》副省级第15题",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2025-副省级-16",
@@ -1380,7 +1460,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2025年国家公务员考试《行测》副省级第16题"
+    "source": "2025年国家公务员考试《行测》副省级第16题",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2025-副省级-17",
@@ -1413,7 +1495,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2025年国家公务员考试《行测》副省级第17题"
+    "source": "2025年国家公务员考试《行测》副省级第17题",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2025-副省级-18",
@@ -1447,7 +1531,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2025年国家公务员考试《行测》副省级第18题"
+    "source": "2025年国家公务员考试《行测》副省级第18题",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2025-副省级-19",
@@ -1481,7 +1567,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2025年国家公务员考试《行测》副省级第19题"
+    "source": "2025年国家公务员考试《行测》副省级第19题",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2025-副省级-20",
@@ -1515,7 +1603,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2025年国家公务员考试《行测》副省级第20题",
-    "isImageQuestion": true
+    "isImageQuestion": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2025-地市级-1",
@@ -1549,7 +1639,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2025年国家公务员考试《行测》地市级第1题"
+    "source": "2025年国家公务员考试《行测》地市级第1题",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2025-地市级-2",
@@ -1583,7 +1675,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2025年国家公务员考试《行测》地市级第2题"
+    "source": "2025年国家公务员考试《行测》地市级第2题",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2025-地市级-3",
@@ -1616,7 +1710,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2025年国家公务员考试《行测》地市级第3题"
+    "source": "2025年国家公务员考试《行测》地市级第3题",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2025-地市级-4",
@@ -1649,7 +1745,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2025年国家公务员考试《行测》地市级第4题"
+    "source": "2025年国家公务员考试《行测》地市级第4题",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2025-地市级-5",
@@ -1683,7 +1781,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2025年国家公务员考试《行测》地市级第5题"
+    "source": "2025年国家公务员考试《行测》地市级第5题",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2025-地市级-6",
@@ -1718,7 +1818,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2025年国家公务员考试《行测》地市级第6题",
-    "isImageQuestion": true
+    "isImageQuestion": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2025-地市级-7",
@@ -1751,7 +1853,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2025年国家公务员考试《行测》地市级第7题"
+    "source": "2025年国家公务员考试《行测》地市级第7题",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2025-地市级-8",
@@ -1785,7 +1889,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2025年国家公务员考试《行测》地市级第8题"
+    "source": "2025年国家公务员考试《行测》地市级第8题",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2025-地市级-9",
@@ -1818,7 +1924,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2025年国家公务员考试《行测》地市级第9题"
+    "source": "2025年国家公务员考试《行测》地市级第9题",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2025-地市级-10",
@@ -1851,7 +1959,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2025年国家公务员考试《行测》地市级第10题"
+    "source": "2025年国家公务员考试《行测》地市级第10题",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2025-地市级-11",
@@ -1884,7 +1994,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2025年国家公务员考试《行测》地市级第11题"
+    "source": "2025年国家公务员考试《行测》地市级第11题",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2025-地市级-12",
@@ -1917,7 +2029,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2025年国家公务员考试《行测》地市级第12题"
+    "source": "2025年国家公务员考试《行测》地市级第12题",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2025-地市级-13",
@@ -1953,7 +2067,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2025年国家公务员考试《行测》地市级第13题",
-    "isImageQuestion": true
+    "isImageQuestion": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2025-地市级-14",
@@ -1986,7 +2102,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2025年国家公务员考试《行测》地市级第14题"
+    "source": "2025年国家公务员考试《行测》地市级第14题",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2025-地市级-15",
@@ -2019,7 +2137,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2025年国家公务员考试《行测》地市级第15题"
+    "source": "2025年国家公务员考试《行测》地市级第15题",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2025-地市级-16",
@@ -2053,7 +2173,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2025年国家公务员考试《行测》地市级第16题"
+    "source": "2025年国家公务员考试《行测》地市级第16题",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2025-地市级-17",
@@ -2086,7 +2208,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2025年国家公务员考试《行测》地市级第17题"
+    "source": "2025年国家公务员考试《行测》地市级第17题",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2025-地市级-18",
@@ -2120,7 +2244,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2025年国家公务员考试《行测》地市级第18题"
+    "source": "2025年国家公务员考试《行测》地市级第18题",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2025-地市级-19",
@@ -2154,7 +2280,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2025年国家公务员考试《行测》地市级第19题"
+    "source": "2025年国家公务员考试《行测》地市级第19题",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2025-地市级-20",
@@ -2188,7 +2316,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2025年国家公务员考试《行测》地市级第20题",
-    "isImageQuestion": true
+    "isImageQuestion": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2025-行政执法-1",
@@ -2222,7 +2352,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2025年国家公务员考试《行测》行政执法第1题"
+    "source": "2025年国家公务员考试《行测》行政执法第1题",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2025-行政执法-2",
@@ -2256,7 +2388,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2025年国家公务员考试《行测》行政执法第2题"
+    "source": "2025年国家公务员考试《行测》行政执法第2题",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2025-行政执法-3",
@@ -2289,7 +2423,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2025年国家公务员考试《行测》行政执法第3题"
+    "source": "2025年国家公务员考试《行测》行政执法第3题",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2025-行政执法-4",
@@ -2322,7 +2458,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2025年国家公务员考试《行测》行政执法第4题"
+    "source": "2025年国家公务员考试《行测》行政执法第4题",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2025-行政执法-5",
@@ -2356,7 +2494,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2025年国家公务员考试《行测》行政执法第5题"
+    "source": "2025年国家公务员考试《行测》行政执法第5题",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2025-行政执法-6",
@@ -2391,7 +2531,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2025年国家公务员考试《行测》行政执法第6题",
-    "isImageQuestion": true
+    "isImageQuestion": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2025-行政执法-7",
@@ -2424,7 +2566,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2025年国家公务员考试《行测》行政执法第7题"
+    "source": "2025年国家公务员考试《行测》行政执法第7题",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2025-行政执法-8",
@@ -2458,7 +2602,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2025年国家公务员考试《行测》行政执法第8题"
+    "source": "2025年国家公务员考试《行测》行政执法第8题",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2025-行政执法-9",
@@ -2491,7 +2637,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2025年国家公务员考试《行测》行政执法第9题"
+    "source": "2025年国家公务员考试《行测》行政执法第9题",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2025-行政执法-10",
@@ -2524,7 +2672,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2025年国家公务员考试《行测》行政执法第10题"
+    "source": "2025年国家公务员考试《行测》行政执法第10题",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2025-行政执法-11",
@@ -2557,7 +2707,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2025年国家公务员考试《行测》行政执法第11题"
+    "source": "2025年国家公务员考试《行测》行政执法第11题",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2025-行政执法-12",
@@ -2590,7 +2742,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2025年国家公务员考试《行测》行政执法第12题"
+    "source": "2025年国家公务员考试《行测》行政执法第12题",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2025-行政执法-13",
@@ -2626,7 +2780,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2025年国家公务员考试《行测》行政执法第13题",
-    "isImageQuestion": true
+    "isImageQuestion": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2025-行政执法-14",
@@ -2659,7 +2815,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2025年国家公务员考试《行测》行政执法第14题"
+    "source": "2025年国家公务员考试《行测》行政执法第14题",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2025-行政执法-15",
@@ -2692,7 +2850,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2025年国家公务员考试《行测》行政执法第15题"
+    "source": "2025年国家公务员考试《行测》行政执法第15题",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2025-行政执法-16",
@@ -2726,7 +2886,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2025年国家公务员考试《行测》行政执法第16题"
+    "source": "2025年国家公务员考试《行测》行政执法第16题",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2025-行政执法-17",
@@ -2759,7 +2921,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2025年国家公务员考试《行测》行政执法第17题"
+    "source": "2025年国家公务员考试《行测》行政执法第17题",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2025-行政执法-18",
@@ -2793,7 +2957,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2025年国家公务员考试《行测》行政执法第18题"
+    "source": "2025年国家公务员考试《行测》行政执法第18题",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2025-行政执法-19",
@@ -2827,7 +2993,9 @@
     ],
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
-    "source": "2025年国家公务员考试《行测》行政执法第19题"
+    "source": "2025年国家公务员考试《行测》行政执法第19题",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2025-行政执法-20",
@@ -2861,6 +3029,8 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2025年国家公务员考试《行测》行政执法第20题",
-    "isImageQuestion": true
+    "isImageQuestion": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   }
 ]

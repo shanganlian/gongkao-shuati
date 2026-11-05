@@ -42,11 +42,11 @@ export class QuestionErrorBoundary extends React.Component<Props, State> {
   render() {
     if (this.state.hasError) {
       return (
-        <div className="bg-amber-50 border border-amber-200 rounded-2xl p-6 text-center">
-          <p className="text-sm font-semibold text-amber-900">
+        <div className="bg-slate-50 dark:bg-slate-800 border border-slate-200 dark:border-slate-700 rounded-2xl p-6 text-center">
+          <p className="text-sm font-semibold text-slate-800 dark:text-slate-200">
             {this.props.fallbackText || '该题数据异常，已自动跳过'}
           </p>
-          <p className="text-xs text-amber-700 mt-1">
+          <p className="text-xs text-slate-500 dark:text-slate-400 mt-1">
             请点击「下一题」继续练习。
           </p>
         </div>

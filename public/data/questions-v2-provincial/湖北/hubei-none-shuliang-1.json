@@ -32,7 +32,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2020年湖北公务员考试《行测》第62题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2020-未标注-63",
@@ -66,7 +68,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2020年湖北公务员考试《行测》第63题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2020-未标注-64",
@@ -101,7 +105,9 @@
     "difficulty": "拔高",
     "source": "2020年湖北公务员考试《行测》第64题",
     "isImageQuestion": true,
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2020-未标注-65",
@@ -137,7 +143,9 @@
     "difficulty": "拔高",
     "source": "2020年湖北公务员考试《行测》第65题",
     "isImageQuestion": true,
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2020-未标注-66",
@@ -170,7 +178,9 @@
     "difficulty": "拔高",
     "source": "2020年湖北公务员考试《行测》第66题",
     "isImageQuestion": true,
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2020-未标注-67",
@@ -190,7 +200,10 @@
     "difficulty": "拔高",
     "source": "2020年湖北公务员考试《行测》第67题",
     "isImageQuestion": true,
-    "province": "湖北"
+    "province": "湖北",
+    "isAbnormal": true,
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2020-未标注-68",
@@ -225,7 +238,9 @@
     "difficulty": "拔高",
     "source": "2020年湖北公务员考试《行测》第68题",
     "isImageQuestion": true,
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2020-未标注-69",
@@ -262,7 +277,9 @@
     "difficulty": "拔高",
     "source": "2020年湖北公务员考试《行测》第69题",
     "isImageQuestion": true,
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2020-未标注-70",
@@ -298,7 +315,9 @@
     "difficulty": "拔高",
     "source": "2020年湖北公务员考试《行测》第70题",
     "isImageQuestion": true,
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2021-未标注-56",
@@ -333,7 +352,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2021年湖北公务员考试《行测》第56题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2021-未标注-57",
@@ -368,7 +389,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2021年湖北公务员考试《行测》第57题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2021-未标注-58",
@@ -402,7 +425,10 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2021年湖北公务员考试《行测》第58题",
-    "province": "湖北"
+    "province": "湖北",
+    "isAbnormal": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2021-未标注-59",
@@ -437,7 +463,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2021年湖北公务员考试《行测》第59题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2021-未标注-60",
@@ -472,7 +500,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2021年湖北公务员考试《行测》第60题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2021-未标注-61",
@@ -507,7 +537,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2021年湖北公务员考试《行测》第61题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2021-未标注-62",
@@ -543,7 +575,9 @@
     "difficulty": "拔高",
     "source": "2021年湖北公务员考试《行测》第62题",
     "isImageQuestion": true,
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2021-未标注-63",
@@ -579,7 +613,9 @@
     "difficulty": "拔高",
     "source": "2021年湖北公务员考试《行测》第63题",
     "isImageQuestion": true,
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2021-未标注-64",
@@ -614,7 +650,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2021年湖北公务员考试《行测》第64题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2021-未标注-65",
@@ -634,7 +672,9 @@
     "difficulty": "拔高",
     "source": "2021年湖北公务员考试《行测》第65题",
     "isImageQuestion": true,
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2021-未标注-66",
@@ -668,7 +708,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2021年湖北公务员考试《行测》第66题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2021-未标注-67",
@@ -704,7 +746,9 @@
     "difficulty": "拔高",
     "source": "2021年湖北公务员考试《行测》第67题",
     "isImageQuestion": true,
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2021-未标注-68",
@@ -741,7 +785,9 @@
     "difficulty": "拔高",
     "source": "2021年湖北公务员考试《行测》第68题",
     "isImageQuestion": true,
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2021-未标注-69",
@@ -777,7 +823,9 @@
     "difficulty": "拔高",
     "source": "2021年湖北公务员考试《行测》第69题",
     "isImageQuestion": true,
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2021-未标注-70",
@@ -814,7 +862,9 @@
     "difficulty": "拔高",
     "source": "2021年湖北公务员考试《行测》第70题",
     "isImageQuestion": true,
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2022-未标注-56",
@@ -848,7 +898,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2022年湖北公务员考试《行测》第56题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2022-未标注-57",
@@ -880,7 +932,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2022年湖北公务员考试《行测》第57题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2022-未标注-58",
@@ -914,7 +968,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2022年湖北公务员考试《行测》第58题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2022-未标注-59",
@@ -930,7 +986,10 @@
     "difficulty": "拔高",
     "source": "2022年湖北公务员考试《行测》第59题",
     "isImageQuestion": true,
-    "province": "湖北"
+    "province": "湖北",
+    "isAbnormal": true,
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2022-未标注-60",
@@ -946,7 +1005,10 @@
     "difficulty": "拔高",
     "source": "2022年湖北公务员考试《行测》第60题",
     "isImageQuestion": true,
-    "province": "湖北"
+    "province": "湖北",
+    "isAbnormal": true,
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2022-未标注-61",
@@ -978,7 +1040,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2022年湖北公务员考试《行测》第61题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2022-未标注-62",
@@ -1013,7 +1077,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2022年湖北公务员考试《行测》第62题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2022-未标注-63",
@@ -1047,7 +1113,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2022年湖北公务员考试《行测》第63题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2022-未标注-64",
@@ -1082,7 +1150,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2022年湖北公务员考试《行测》第64题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2022-未标注-65",
@@ -1114,7 +1184,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2022年湖北公务员考试《行测》第65题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2022-未标注-66",
@@ -1149,7 +1221,9 @@
     "difficulty": "拔高",
     "source": "2022年湖北公务员考试《行测》第66题",
     "isImageQuestion": true,
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2022-未标注-67",
@@ -1184,7 +1258,10 @@
     "difficulty": "拔高",
     "source": "2022年湖北公务员考试《行测》第67题",
     "isImageQuestion": true,
-    "province": "湖北"
+    "province": "湖北",
+    "isAbnormal": true,
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2022-未标注-68",
@@ -1218,7 +1295,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2022年湖北公务员考试《行测》第68题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2022-未标注-69",
@@ -1252,7 +1331,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2022年湖北公务员考试《行测》第69题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2022-未标注-70",
@@ -1287,7 +1368,9 @@
     "difficulty": "拔高",
     "source": "2022年湖北公务员考试《行测》第70题",
     "isImageQuestion": true,
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2022-未标注-71",
@@ -1306,7 +1389,9 @@
     "difficulty": "拔高",
     "source": "2022年湖北公务员考试《行测》第71题",
     "isImageQuestion": true,
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "几何",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-hubei-2022-未标注-72",
@@ -1342,7 +1427,9 @@
     "difficulty": "拔高",
     "source": "2022年湖北公务员考试《行测》第72题",
     "isImageQuestion": true,
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2022-未标注-73",
@@ -1360,7 +1447,9 @@
     "difficulty": "拔高",
     "source": "2022年湖北公务员考试《行测》第73题",
     "isImageQuestion": true,
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "几何",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-hubei-2022-未标注-74",
@@ -1379,7 +1468,9 @@
     "difficulty": "拔高",
     "source": "2022年湖北公务员考试《行测》第74题",
     "isImageQuestion": true,
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2022-未标注-75",
@@ -1415,7 +1506,9 @@
     "difficulty": "拔高",
     "source": "2022年湖北公务员考试《行测》第75题",
     "isImageQuestion": true,
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "几何",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-hubei-2022-未标注-76",
@@ -1450,7 +1543,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2022年湖北公务员考试《行测》第76题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-hubei-2022-未标注-77",
@@ -1485,7 +1580,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2022年湖北公务员考试《行测》第77题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-hubei-2022-未标注-78",
@@ -1519,7 +1616,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2022年湖北公务员考试《行测》第78题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-hubei-2022-未标注-79",
@@ -1553,7 +1652,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2022年湖北公务员考试《行测》第79题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-hubei-2022-未标注-80",
@@ -1588,7 +1689,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2022年湖北公务员考试《行测》第80题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-hubei-2022-未标注-81",
@@ -1623,7 +1726,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2022年湖北公务员考试《行测》第81题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-hubei-2022-未标注-82",
@@ -1658,7 +1763,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2022年湖北公务员考试《行测》第82题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-hubei-2022-未标注-83",
@@ -1693,7 +1800,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2022年湖北公务员考试《行测》第83题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-hubei-2022-未标注-84",
@@ -1728,7 +1837,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2022年湖北公务员考试《行测》第84题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-hubei-2022-未标注-85",
@@ -1762,7 +1873,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2022年湖北公务员考试《行测》第85题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-hubei-2022-未标注-86",
@@ -1797,7 +1910,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2022年湖北公务员考试《行测》第86题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-hubei-2022-未标注-87",
@@ -1831,7 +1946,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2022年湖北公务员考试《行测》第87题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-hubei-2022-未标注-88",
@@ -1865,7 +1982,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2022年湖北公务员考试《行测》第88题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-hubei-2022-未标注-89",
@@ -1900,7 +2019,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2022年湖北公务员考试《行测》第89题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-hubei-2022-未标注-90",
@@ -1935,7 +2056,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2022年湖北公务员考试《行测》第90题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-hubei-2022-未标注-91",
@@ -1969,7 +2092,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2022年湖北公务员考试《行测》第91题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-hubei-2022-未标注-92",
@@ -2004,7 +2129,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2022年湖北公务员考试《行测》第92题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-hubei-2022-未标注-93",
@@ -2039,7 +2166,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2022年湖北公务员考试《行测》第93题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-hubei-2022-未标注-94",
@@ -2073,7 +2202,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2022年湖北公务员考试《行测》第94题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-hubei-2022-未标注-95",
@@ -2107,7 +2238,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2022年湖北公务员考试《行测》第95题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-hubei-2022-未标注-96",
@@ -2142,7 +2275,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2022年湖北公务员考试《行测》第96题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-hubei-2022-未标注-97",
@@ -2176,7 +2311,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2022年湖北公务员考试《行测》第97题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-hubei-2022-未标注-98",
@@ -2211,7 +2348,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2022年湖北公务员考试《行测》第98题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-hubei-2022-未标注-99",
@@ -2245,7 +2384,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2022年湖北公务员考试《行测》第99题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-hubei-2022-未标注-100",
@@ -2279,7 +2420,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2022年湖北公务员考试《行测》第100题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-hubei-2022-未标注-101",
@@ -2314,7 +2457,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2022年湖北公务员考试《行测》第101题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-hubei-2022-未标注-102",
@@ -2349,7 +2494,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2022年湖北公务员考试《行测》第102题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-hubei-2022-未标注-103",
@@ -2383,7 +2530,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2022年湖北公务员考试《行测》第103题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-hubei-2022-未标注-104",
@@ -2417,7 +2566,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2022年湖北公务员考试《行测》第104题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-hubei-2022-未标注-105",
@@ -2452,7 +2603,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2022年湖北公务员考试《行测》第105题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-hubei-2023-未标注-56",
@@ -2486,7 +2639,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2023年湖北公务员考试《行测》第56题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2023-未标注-57",
@@ -2521,7 +2676,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2023年湖北公务员考试《行测》第57题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2023-未标注-58",
@@ -2556,7 +2713,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2023年湖北公务员考试《行测》第58题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2023-未标注-59",
@@ -2591,7 +2750,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2023年湖北公务员考试《行测》第59题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2023-未标注-60",
@@ -2627,7 +2788,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2023年湖北公务员考试《行测》第60题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2023-未标注-61",
@@ -2663,7 +2826,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2023年湖北公务员考试《行测》第61题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2023-未标注-62",
@@ -2699,7 +2864,9 @@
     "difficulty": "拔高",
     "source": "2023年湖北公务员考试《行测》第62题",
     "isImageQuestion": true,
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2023-未标注-63",
@@ -2735,7 +2902,9 @@
     "difficulty": "拔高",
     "source": "2023年湖北公务员考试《行测》第63题",
     "isImageQuestion": true,
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2023-未标注-64",
@@ -2772,7 +2941,9 @@
     "difficulty": "拔高",
     "source": "2023年湖北公务员考试《行测》第64题",
     "isImageQuestion": true,
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2023-未标注-65",
@@ -2803,7 +2974,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2023年湖北公务员考试《行测》第65题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2023-未标注-66",
@@ -2838,7 +3011,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2023年湖北公务员考试《行测》第66题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2023-未标注-67",
@@ -2875,7 +3050,9 @@
     "difficulty": "拔高",
     "source": "2023年湖北公务员考试《行测》第67题",
     "isImageQuestion": true,
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2023-未标注-68",
@@ -2911,7 +3088,9 @@
     "difficulty": "拔高",
     "source": "2023年湖北公务员考试《行测》第68题",
     "isImageQuestion": true,
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2023-未标注-69",
@@ -2947,7 +3126,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2023年湖北公务员考试《行测》第69题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2023-未标注-70",
@@ -2983,7 +3164,9 @@
     "difficulty": "拔高",
     "source": "2023年湖北公务员考试《行测》第70题",
     "isImageQuestion": true,
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2024-未标注-56",
@@ -3018,7 +3201,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2024年湖北公务员考试《行测》第56题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2024-未标注-57",
@@ -3050,7 +3235,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2024年湖北公务员考试《行测》第57题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2024-未标注-58",
@@ -3087,7 +3274,9 @@
     "difficulty": "拔高",
     "source": "2024年湖北公务员考试《行测》第58题",
     "isImageQuestion": true,
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2024-未标注-59",
@@ -3123,7 +3312,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2024年湖北公务员考试《行测》第59题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2024-未标注-60",
@@ -3158,7 +3349,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2024年湖北公务员考试《行测》第60题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2024-未标注-61",
@@ -3178,7 +3371,10 @@
     "difficulty": "拔高",
     "source": "2024年湖北公务员考试《行测》第61题",
     "isImageQuestion": true,
-    "province": "湖北"
+    "province": "湖北",
+    "isAbnormal": true,
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2024-未标注-62",
@@ -3215,7 +3411,9 @@
     "difficulty": "拔高",
     "source": "2024年湖北公务员考试《行测》第62题",
     "isImageQuestion": true,
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2024-未标注-63",
@@ -3234,7 +3432,10 @@
     "difficulty": "拔高",
     "source": "2024年湖北公务员考试《行测》第63题",
     "isImageQuestion": true,
-    "province": "湖北"
+    "province": "湖北",
+    "isAbnormal": true,
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2024-未标注-64",
@@ -3269,7 +3470,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2024年湖北公务员考试《行测》第64题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2024-未标注-65",
@@ -3304,7 +3507,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2024年湖北公务员考试《行测》第65题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2024-未标注-66",
@@ -3340,7 +3545,9 @@
     "difficulty": "拔高",
     "source": "2024年湖北公务员考试《行测》第66题",
     "isImageQuestion": true,
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2024-未标注-67",
@@ -3376,7 +3583,10 @@
     "difficulty": "拔高",
     "source": "2024年湖北公务员考试《行测》第67题",
     "isImageQuestion": true,
-    "province": "湖北"
+    "province": "湖北",
+    "isAbnormal": true,
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2024-未标注-68",
@@ -3412,7 +3622,9 @@
     "difficulty": "拔高",
     "source": "2024年湖北公务员考试《行测》第68题",
     "isImageQuestion": true,
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2024-未标注-69",
@@ -3431,7 +3643,10 @@
     "difficulty": "拔高",
     "source": "2024年湖北公务员考试《行测》第69题",
     "isImageQuestion": true,
-    "province": "湖北"
+    "province": "湖北",
+    "isAbnormal": true,
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2024-未标注-70",
@@ -3467,7 +3682,10 @@
     "difficulty": "拔高",
     "source": "2024年湖北公务员考试《行测》第70题",
     "isImageQuestion": true,
-    "province": "湖北"
+    "province": "湖北",
+    "isAbnormal": true,
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2025-未标注-56",
@@ -3501,7 +3719,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年湖北公务员考试《行测》第56题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2025-未标注-57",
@@ -3536,7 +3756,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年湖北公务员考试《行测》第57题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2025-未标注-58",
@@ -3555,7 +3777,10 @@
     "difficulty": "拔高",
     "source": "2025年湖北公务员考试《行测》第58题",
     "isImageQuestion": true,
-    "province": "湖北"
+    "province": "湖北",
+    "isAbnormal": true,
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2025-未标注-59",
@@ -3590,7 +3815,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年湖北公务员考试《行测》第59题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2025-未标注-60",
@@ -3624,7 +3851,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年湖北公务员考试《行测》第60题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-hubei-2025-未标注-61",
@@ -3640,7 +3869,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2025年湖北公务员考试《行测》第61题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-hubei-2025-未标注-62",
@@ -3672,7 +3903,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年湖北公务员考试《行测》第62题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2025-未标注-63",
@@ -3708,7 +3941,9 @@
     "difficulty": "拔高",
     "source": "2025年湖北公务员考试《行测》第63题",
     "isImageQuestion": true,
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2025-未标注-64",
@@ -3741,7 +3976,9 @@
     "difficulty": "拔高",
     "source": "2025年湖北公务员考试《行测》第64题",
     "isImageQuestion": true,
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2025-未标注-65",
@@ -3760,7 +3997,9 @@
     "difficulty": "拔高",
     "source": "2025年湖北公务员考试《行测》第65题",
     "isImageQuestion": true,
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2025-未标注-66",
@@ -3792,7 +4031,9 @@
     "difficulty": "拔高",
     "source": "2025年湖北公务员考试《行测》第66题",
     "isImageQuestion": true,
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2025-未标注-67",
@@ -3827,7 +4068,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年湖北公务员考试《行测》第67题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2025-未标注-68",
@@ -3861,7 +4104,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年湖北公务员考试《行测》第68题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-hubei-2025-未标注-69",
@@ -3897,7 +4142,9 @@
     "difficulty": "拔高",
     "source": "2025年湖北公务员考试《行测》第69题",
     "isImageQuestion": true,
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2025-未标注-70",
@@ -3931,6 +4178,8 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年湖北公务员考试《行测》第70题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   }
 ]

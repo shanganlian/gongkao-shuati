@@ -30,7 +30,9 @@
     "difficulty": "拔高",
     "source": "2008年辽宁公务员考试《行测》第46题",
     "isImageQuestion": true,
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2008-未标注-47",
@@ -49,7 +51,10 @@
     "difficulty": "拔高",
     "source": "2008年辽宁公务员考试《行测》第47题",
     "isImageQuestion": true,
-    "province": "辽宁"
+    "province": "辽宁",
+    "isAbnormal": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2008-未标注-48",
@@ -84,7 +89,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2008年辽宁公务员考试《行测》第48题",
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-liaoning-2008-未标注-49",
@@ -119,7 +126,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2008年辽宁公务员考试《行测》第49题",
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2008-未标注-50",
@@ -155,7 +164,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2008年辽宁公务员考试《行测》第50题",
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2008-未标注-51",
@@ -175,7 +186,10 @@
     "difficulty": "拔高",
     "source": "2008年辽宁公务员考试《行测》第51题",
     "isImageQuestion": true,
-    "province": "辽宁"
+    "province": "辽宁",
+    "isAbnormal": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2008-未标注-52",
@@ -211,7 +225,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2008年辽宁公务员考试《行测》第52题",
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2008-未标注-53",
@@ -248,7 +264,9 @@
     "difficulty": "拔高",
     "source": "2008年辽宁公务员考试《行测》第53题",
     "isImageQuestion": true,
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2008-未标注-54",
@@ -284,7 +302,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2008年辽宁公务员考试《行测》第54题",
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2008-未标注-55",
@@ -319,7 +339,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2008年辽宁公务员考试《行测》第55题",
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2008-未标注-56",
@@ -354,7 +376,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2008年辽宁公务员考试《行测》第56题",
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-liaoning-2008-未标注-57",
@@ -389,7 +413,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2008年辽宁公务员考试《行测》第57题",
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2008-未标注-58",
@@ -425,7 +451,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2008年辽宁公务员考试《行测》第58题",
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-liaoning-2008-未标注-59",
@@ -460,7 +488,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2008年辽宁公务员考试《行测》第59题",
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-liaoning-2008-未标注-60",
@@ -495,7 +525,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2008年辽宁公务员考试《行测》第60题",
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-liaoning-2008-未标注-61",
@@ -530,7 +562,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2008年辽宁公务员考试《行测》第61题",
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-liaoning-2008-未标注-62",
@@ -565,7 +599,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2008年辽宁公务员考试《行测》第62题",
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-liaoning-2008-未标注-63",
@@ -601,7 +637,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2008年辽宁公务员考试《行测》第63题",
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2008-未标注-64",
@@ -637,7 +675,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2008年辽宁公务员考试《行测》第64题",
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2008-未标注-65",
@@ -672,7 +712,9 @@
     "difficulty": "拔高",
     "source": "2008年辽宁公务员考试《行测》第65题",
     "isImageQuestion": true,
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2009-913联考-86",
@@ -692,7 +734,10 @@
     "difficulty": "拔高",
     "source": "2009年辽宁公务员考试《行测》（913联考）第86题",
     "isImageQuestion": true,
-    "province": "辽宁"
+    "province": "辽宁",
+    "isAbnormal": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2009-913联考-87",
@@ -727,7 +772,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2009年辽宁公务员考试《行测》（913联考）第87题",
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2009-913联考-88",
@@ -764,7 +811,9 @@
     "difficulty": "拔高",
     "source": "2009年辽宁公务员考试《行测》（913联考）第88题",
     "isImageQuestion": true,
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2009-913联考-89",
@@ -800,7 +849,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2009年辽宁公务员考试《行测》（913联考）第89题",
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2009-913联考-90",
@@ -835,7 +886,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2009年辽宁公务员考试《行测》（913联考）第90题",
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2009-913联考-91",
@@ -853,7 +906,10 @@
     "difficulty": "拔高",
     "source": "2009年辽宁公务员考试《行测》（913联考）第91题",
     "isImageQuestion": true,
-    "province": "辽宁"
+    "province": "辽宁",
+    "isAbnormal": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-liaoning-2009-913联考-92",
@@ -889,7 +945,9 @@
     "difficulty": "拔高",
     "source": "2009年辽宁公务员考试《行测》（913联考）第92题",
     "isImageQuestion": true,
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2009-913联考-93",
@@ -925,7 +983,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2009年辽宁公务员考试《行测》（913联考）第93题",
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2009-913联考-94",
@@ -960,7 +1020,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2009年辽宁公务员考试《行测》（913联考）第94题",
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2009-913联考-95",
@@ -979,7 +1041,10 @@
     "difficulty": "拔高",
     "source": "2009年辽宁公务员考试《行测》（913联考）第95题",
     "isImageQuestion": true,
-    "province": "辽宁"
+    "province": "辽宁",
+    "isAbnormal": true,
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2009-913联考-96",
@@ -1015,7 +1080,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2009年辽宁公务员考试《行测》（913联考）第96题",
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2009-913联考-97",
@@ -1049,7 +1116,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2009年辽宁公务员考试《行测》（913联考）第97题",
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2009-913联考-98",
@@ -1085,7 +1154,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2009年辽宁公务员考试《行测》（913联考）第98题",
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2009-913联考-99",
@@ -1120,7 +1191,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2009年辽宁公务员考试《行测》（913联考）第99题",
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2009-913联考-100",
@@ -1156,7 +1229,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2009年辽宁公务员考试《行测》（913联考）第100题",
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2010-425联考-1",
@@ -1192,7 +1267,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2010年辽宁公务员考试《行测》（425联考）第1题",
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2010-425联考-2",
@@ -1227,7 +1304,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2010年辽宁公务员考试《行测》（425联考）第2题",
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2010-425联考-3",
@@ -1263,7 +1342,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2010年辽宁公务员考试《行测》（425联考）第3题",
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2010-425联考-4",
@@ -1299,7 +1380,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2010年辽宁公务员考试《行测》（425联考）第4题",
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2010-425联考-5",
@@ -1334,7 +1417,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2010年辽宁公务员考试《行测》（425联考）第5题",
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2010-425联考-6",
@@ -1369,7 +1454,9 @@
     "difficulty": "拔高",
     "source": "2010年辽宁公务员考试《行测》（425联考）第6题",
     "isImageQuestion": true,
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2010-425联考-7",
@@ -1402,7 +1489,9 @@
     "difficulty": "拔高",
     "source": "2010年辽宁公务员考试《行测》（425联考）第7题",
     "isImageQuestion": true,
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-liaoning-2010-425联考-8",
@@ -1436,7 +1525,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2010年辽宁公务员考试《行测》（425联考）第8题",
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2010-425联考-9",
@@ -1471,7 +1562,9 @@
     "difficulty": "拔高",
     "source": "2010年辽宁公务员考试《行测》（425联考）第9题",
     "isImageQuestion": true,
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2010-425联考-10",
@@ -1505,7 +1598,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2010年辽宁公务员考试《行测》（425联考）第10题",
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2010-425联考-11",
@@ -1539,7 +1634,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2010年辽宁公务员考试《行测》（425联考）第11题",
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2010-425联考-12",
@@ -1575,7 +1672,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2010年辽宁公务员考试《行测》（425联考）第12题",
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2010-425联考-13",
@@ -1607,7 +1706,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2010年辽宁公务员考试《行测》（425联考）第13题",
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2010-425联考-14",
@@ -1625,7 +1726,10 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2010年辽宁公务员考试《行测》（425联考）第14题",
-    "province": "辽宁"
+    "province": "辽宁",
+    "isAbnormal": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2010-425联考-15",
@@ -1641,7 +1745,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2010年辽宁公务员考试《行测》（425联考）第15题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-liaoning-2010-425联考-16",
@@ -1657,7 +1763,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2010年辽宁公务员考试《行测》（425联考）第16题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-liaoning-2010-425联考-17",
@@ -1675,7 +1783,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2010年辽宁公务员考试《行测》（425联考）第17题",
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-liaoning-2010-425联考-18",
@@ -1691,7 +1801,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2010年辽宁公务员考试《行测》（425联考）第18题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-liaoning-2010-425联考-19",
@@ -1707,7 +1819,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2010年辽宁公务员考试《行测》（425联考）第19题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-liaoning-2010-425联考-20",
@@ -1723,7 +1837,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2010年辽宁公务员考试《行测》（425联考）第20题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-liaoning-2010-425联考-21",
@@ -1739,7 +1855,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2010年辽宁公务员考试《行测》（425联考）第21题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-liaoning-2010-425联考-22",
@@ -1755,7 +1873,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2010年辽宁公务员考试《行测》（425联考）第22题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-liaoning-2010-425联考-23",
@@ -1771,7 +1891,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2010年辽宁公务员考试《行测》（425联考）第23题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-liaoning-2010-425联考-24",
@@ -1787,7 +1909,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2010年辽宁公务员考试《行测》（425联考）第24题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-liaoning-2010-425联考-25",
@@ -1803,7 +1927,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2010年辽宁公务员考试《行测》（425联考）第25题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-liaoning-2010-425联考-26",
@@ -1819,7 +1945,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2010年辽宁公务员考试《行测》（425联考）第26题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-liaoning-2010-425联考-27",
@@ -1835,7 +1963,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2010年辽宁公务员考试《行测》（425联考）第27题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-liaoning-2010-425联考-28",
@@ -1851,7 +1981,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2010年辽宁公务员考试《行测》（425联考）第28题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-liaoning-2010-425联考-29",
@@ -1867,7 +1999,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2010年辽宁公务员考试《行测》（425联考）第29题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-liaoning-2010-425联考-30",
@@ -1883,7 +2017,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2010年辽宁公务员考试《行测》（425联考）第30题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-liaoning-2010-425联考-31",
@@ -1899,7 +2035,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2010年辽宁公务员考试《行测》（425联考）第31题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-liaoning-2010-425联考-32",
@@ -1915,7 +2053,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2010年辽宁公务员考试《行测》（425联考）第32题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-liaoning-2010-425联考-33",
@@ -1931,7 +2071,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2010年辽宁公务员考试《行测》（425联考）第33题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-liaoning-2010-425联考-34",
@@ -1967,7 +2109,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2010年辽宁公务员考试《行测》（425联考）第34题",
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-liaoning-2010-918联考-31",
@@ -2003,7 +2147,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2010年辽宁公务员考试《行测》（918联考）第31题",
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2010-918联考-32",
@@ -2019,7 +2165,10 @@
     "difficulty": "拔高",
     "source": "2010年辽宁公务员考试《行测》（918联考）第32题",
     "isImageQuestion": true,
-    "province": "辽宁"
+    "province": "辽宁",
+    "isAbnormal": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-liaoning-2010-918联考-33",
@@ -2054,7 +2203,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2010年辽宁公务员考试《行测》（918联考）第33题",
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2010-918联考-34",
@@ -2089,7 +2240,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2010年辽宁公务员考试《行测》（918联考）第34题",
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2010-918联考-35",
@@ -2125,7 +2278,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2010年辽宁公务员考试《行测》（918联考）第35题",
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2010-918联考-36",
@@ -2160,7 +2315,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2010年辽宁公务员考试《行测》（918联考）第36题",
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2010-918联考-37",
@@ -2196,7 +2353,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2010年辽宁公务员考试《行测》（918联考）第37题",
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2010-918联考-38",
@@ -2231,7 +2390,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2010年辽宁公务员考试《行测》（918联考）第38题",
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2010-918联考-39",
@@ -2265,7 +2426,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2010年辽宁公务员考试《行测》（918联考）第39题",
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2010-918联考-40",
@@ -2300,7 +2463,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2010年辽宁公务员考试《行测》（918联考）第40题",
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2010-918联考-41",
@@ -2334,7 +2499,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2010年辽宁公务员考试《行测》（918联考）第41题",
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2010-918联考-42",
@@ -2368,7 +2535,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2010年辽宁公务员考试《行测》（918联考）第42题",
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2010-918联考-43",
@@ -2402,7 +2571,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2010年辽宁公务员考试《行测》（918联考）第43题",
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2010-918联考-44",
@@ -2438,7 +2609,9 @@
     "difficulty": "拔高",
     "source": "2010年辽宁公务员考试《行测》（918联考）第44题",
     "isImageQuestion": true,
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2010-918联考-45",
@@ -2470,7 +2643,9 @@
     "difficulty": "拔高",
     "source": "2010年辽宁公务员考试《行测》（918联考）第45题",
     "isImageQuestion": true,
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "几何",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-liaoning-2011-424联考-41",
@@ -2506,7 +2681,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2011年辽宁公务员考试《行测》（424联考）第41题",
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2011-424联考-42",
@@ -2540,7 +2717,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2011年辽宁公务员考试《行测》（424联考）第42题",
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2011-424联考-43",
@@ -2572,7 +2751,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2011年辽宁公务员考试《行测》（424联考）第43题",
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2011-424联考-44",
@@ -2607,7 +2788,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2011年辽宁公务员考试《行测》（424联考）第44题",
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2011-424联考-45",
@@ -2642,7 +2825,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2011年辽宁公务员考试《行测》（424联考）第45题",
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2011-424联考-46",
@@ -2677,7 +2862,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2011年辽宁公务员考试《行测》（424联考）第46题",
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2011-424联考-47",
@@ -2713,7 +2900,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2011年辽宁公务员考试《行测》（424联考）第47题",
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2011-424联考-48",
@@ -2748,7 +2937,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2011年辽宁公务员考试《行测》（424联考）第48题",
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2011-424联考-49",
@@ -2782,7 +2973,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2011年辽宁公务员考试《行测》（424联考）第49题",
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2011-424联考-50",
@@ -2818,7 +3011,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2011年辽宁公务员考试《行测》（424联考）第50题",
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2012-421联考-51",
@@ -2852,7 +3047,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2012年辽宁公务员考试《行测》（421联考）第51题",
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2012-421联考-52",
@@ -2884,7 +3081,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2012年辽宁公务员考试《行测》（421联考）第52题",
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2012-421联考-53",
@@ -2918,7 +3117,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2012年辽宁公务员考试《行测》（421联考）第53题",
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2012-421联考-54",
@@ -2953,7 +3154,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2012年辽宁公务员考试《行测》（421联考）第54题",
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2012-421联考-55",
@@ -2971,7 +3174,10 @@
     "difficulty": "拔高",
     "source": "2012年辽宁公务员考试《行测》（421联考）第55题",
     "isImageQuestion": true,
-    "province": "辽宁"
+    "province": "辽宁",
+    "isAbnormal": true,
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2012-421联考-56",
@@ -3006,7 +3212,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2012年辽宁公务员考试《行测》（421联考）第56题",
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2012-421联考-57",
@@ -3042,7 +3250,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2012年辽宁公务员考试《行测》（421联考）第57题",
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2012-421联考-58",
@@ -3076,7 +3286,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2012年辽宁公务员考试《行测》（421联考）第58题",
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2012-421联考-59",
@@ -3110,7 +3322,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2012年辽宁公务员考试《行测》（421联考）第59题",
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2012-421联考-60",
@@ -3129,7 +3343,10 @@
     "difficulty": "拔高",
     "source": "2012年辽宁公务员考试《行测》（421联考）第60题",
     "isImageQuestion": true,
-    "province": "辽宁"
+    "province": "辽宁",
+    "isAbnormal": true,
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2012-421联考-61",
@@ -3163,7 +3380,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2012年辽宁公务员考试《行测》（421联考）第61题",
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2012-421联考-62",
@@ -3198,7 +3417,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2012年辽宁公务员考试《行测》（421联考）第62题",
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2012-421联考-63",
@@ -3233,7 +3454,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2012年辽宁公务员考试《行测》（421联考）第63题",
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2012-421联考-64",
@@ -3269,7 +3492,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2012年辽宁公务员考试《行测》（421联考）第64题",
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-liaoning-2012-421联考-65",
@@ -3305,7 +3530,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2012年辽宁公务员考试《行测》（421联考）第65题",
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2012-915联考-61",
@@ -3340,7 +3567,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2012年辽宁公务员考试《行测》（915联考）第61题",
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2012-915联考-62",
@@ -3374,7 +3603,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2012年辽宁公务员考试《行测》（915联考）第62题",
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2012-915联考-63",
@@ -3406,7 +3637,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2012年辽宁公务员考试《行测》（915联考）第63题",
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2012-915联考-64",
@@ -3438,7 +3671,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2012年辽宁公务员考试《行测》（915联考）第64题",
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2012-915联考-65",
@@ -3473,7 +3708,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2012年辽宁公务员考试《行测》（915联考）第65题",
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2012-915联考-66",
@@ -3507,7 +3744,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2012年辽宁公务员考试《行测》（915联考）第66题",
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2012-915联考-67",
@@ -3542,7 +3781,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2012年辽宁公务员考试《行测》（915联考）第67题",
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2012-915联考-68",
@@ -3576,7 +3817,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2012年辽宁公务员考试《行测》（915联考）第68题",
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2012-915联考-69",
@@ -3610,7 +3853,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2012年辽宁公务员考试《行测》（915联考）第69题",
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2012-915联考-70",
@@ -3646,7 +3891,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2012年辽宁公务员考试《行测》（915联考）第70题",
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2013-413联考-76",
@@ -3682,7 +3929,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2013年辽宁公务员考试《行测》（413联考）第76题",
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2013-413联考-77",
@@ -3716,7 +3965,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2013年辽宁公务员考试《行测》（413联考）第77题",
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2013-413联考-78",
@@ -3751,7 +4002,9 @@
     "difficulty": "拔高",
     "source": "2013年辽宁公务员考试《行测》（413联考）第78题",
     "isImageQuestion": true,
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-liaoning-2013-413联考-79",
@@ -3787,7 +4040,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2013年辽宁公务员考试《行测》（413联考）第79题",
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2013-413联考-80",
@@ -3821,7 +4076,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2013年辽宁公务员考试《行测》（413联考）第80题",
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2013-413联考-81",
@@ -3856,7 +4113,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2013年辽宁公务员考试《行测》（413联考）第81题",
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2013-413联考-82",
@@ -3890,7 +4149,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2013年辽宁公务员考试《行测》（413联考）第82题",
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2013-413联考-83",
@@ -3926,7 +4187,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2013年辽宁公务员考试《行测》（413联考）第83题",
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2013-413联考-84",
@@ -3961,7 +4224,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2013年辽宁公务员考试《行测》（413联考）第84题",
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2013-413联考-85",
@@ -3990,7 +4255,9 @@
     "difficulty": "拔高",
     "source": "2013年辽宁公务员考试《行测》（413联考）第85题",
     "isImageQuestion": true,
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2013-413联考-86",
@@ -4024,7 +4291,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2013年辽宁公务员考试《行测》（413联考）第86题",
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2013-413联考-87",
@@ -4058,7 +4327,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2013年辽宁公务员考试《行测》（413联考）第87题",
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2013-413联考-88",
@@ -4094,7 +4365,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2013年辽宁公务员考试《行测》（413联考）第88题",
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2013-413联考-89",
@@ -4128,7 +4401,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2013年辽宁公务员考试《行测》（413联考）第89题",
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2013-413联考-90",
@@ -4162,7 +4437,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2013年辽宁公务员考试《行测》（413联考）第90题",
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2014-412联考-41",
@@ -4197,7 +4474,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2014年辽宁公务员考试《行测》（412联考）第41题",
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2014-412联考-42",
@@ -4232,7 +4511,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2014年辽宁公务员考试《行测》（412联考）第42题",
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2014-412联考-43",
@@ -4266,7 +4547,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2014年辽宁公务员考试《行测》（412联考）第43题",
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2014-412联考-44",
@@ -4302,7 +4585,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2014年辽宁公务员考试《行测》（412联考）第44题",
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2014-412联考-45",
@@ -4337,7 +4622,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2014年辽宁公务员考试《行测》（412联考）第45题",
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2014-412联考-46",
@@ -4372,7 +4659,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2014年辽宁公务员考试《行测》（412联考）第46题",
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2014-412联考-47",
@@ -4406,7 +4695,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2014年辽宁公务员考试《行测》（412联考）第47题",
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2014-412联考-48",
@@ -4441,7 +4732,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2014年辽宁公务员考试《行测》（412联考）第48题",
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2014-412联考-49",
@@ -4475,7 +4768,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2014年辽宁公务员考试《行测》（412联考）第49题",
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2014-412联考-50",
@@ -4509,7 +4804,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2014年辽宁公务员考试《行测》（412联考）第50题",
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2015-425联考-61",
@@ -4545,7 +4842,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2015年辽宁公务员考试《行测》（425联考）第61题",
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2015-425联考-62",
@@ -4579,7 +4878,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2015年辽宁公务员考试《行测》（425联考）第62题",
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2015-425联考-63",
@@ -4611,7 +4912,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2015年辽宁公务员考试《行测》（425联考）第63题",
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2015-425联考-64",
@@ -4645,7 +4948,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2015年辽宁公务员考试《行测》（425联考）第64题",
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2015-425联考-65",
@@ -4678,7 +4983,9 @@
     "difficulty": "拔高",
     "source": "2015年辽宁公务员考试《行测》（425联考）第65题",
     "isImageQuestion": true,
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "几何",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-liaoning-2015-425联考-66",
@@ -4712,7 +5019,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2015年辽宁公务员考试《行测》（425联考）第66题",
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2015-425联考-67",
@@ -4749,7 +5058,9 @@
     "difficulty": "拔高",
     "source": "2015年辽宁公务员考试《行测》（425联考）第67题",
     "isImageQuestion": true,
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2015-425联考-68",
@@ -4781,7 +5092,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2015年辽宁公务员考试《行测》（425联考）第68题",
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2015-425联考-69",
@@ -4816,7 +5129,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2015年辽宁公务员考试《行测》（425联考）第69题",
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2015-425联考-70",
@@ -4851,7 +5166,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2015年辽宁公务员考试《行测》（425联考）第70题",
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2016-423联考-61",
@@ -4885,7 +5202,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2016年辽宁公务员考试《行测》（423联考）第61题",
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2016-423联考-62",
@@ -4916,7 +5235,9 @@
     "difficulty": "拔高",
     "source": "2016年辽宁公务员考试《行测》（423联考）第62题",
     "isImageQuestion": true,
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2016-423联考-63",
@@ -4951,7 +5272,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2016年辽宁公务员考试《行测》（423联考）第63题",
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2016-423联考-64",
@@ -4987,7 +5310,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2016年辽宁公务员考试《行测》（423联考）第64题",
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2016-423联考-65",
@@ -5022,7 +5347,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2016年辽宁公务员考试《行测》（423联考）第65题",
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2016-423联考-66",
@@ -5056,7 +5383,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2016年辽宁公务员考试《行测》（423联考）第66题",
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2016-423联考-67",
@@ -5090,7 +5419,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2016年辽宁公务员考试《行测》（423联考）第67题",
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2016-423联考-68",
@@ -5124,7 +5455,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2016年辽宁公务员考试《行测》（423联考）第68题",
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2016-423联考-69",
@@ -5159,7 +5492,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2016年辽宁公务员考试《行测》（423联考）第69题",
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2016-423联考-70",
@@ -5187,7 +5522,9 @@
     "difficulty": "拔高",
     "source": "2016年辽宁公务员考试《行测》（423联考）第70题",
     "isImageQuestion": true,
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2017-未标注-41",
@@ -5221,7 +5558,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2017年辽宁公务员考试《行测》第41题",
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2017-未标注-42",
@@ -5255,7 +5594,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2017年辽宁公务员考试《行测》第42题",
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2017-未标注-43",
@@ -5290,7 +5631,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2017年辽宁公务员考试《行测》第43题",
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2017-未标注-44",
@@ -5324,7 +5667,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2017年辽宁公务员考试《行测》第44题",
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2017-未标注-45",
@@ -5360,7 +5705,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2017年辽宁公务员考试《行测》第45题",
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2017-未标注-46",
@@ -5395,7 +5742,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2017年辽宁公务员考试《行测》第46题",
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2017-未标注-47",
@@ -5430,7 +5779,9 @@
     "difficulty": "拔高",
     "source": "2017年辽宁公务员考试《行测》第47题",
     "isImageQuestion": true,
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2017-未标注-48",
@@ -5462,7 +5813,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2017年辽宁公务员考试《行测》第48题",
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2017-未标注-49",
@@ -5496,7 +5849,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2017年辽宁公务员考试《行测》第49题",
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2017-未标注-50",
@@ -5530,7 +5885,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2017年辽宁公务员考试《行测》第50题",
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-liaoning-2018-未标注-61",
@@ -5564,7 +5921,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2018年辽宁公务员考试《行测》第61题",
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2018-未标注-62",
@@ -5599,7 +5958,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2018年辽宁公务员考试《行测》第62题",
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2018-未标注-63",
@@ -5633,7 +5994,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2018年辽宁公务员考试《行测》第63题",
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2018-未标注-64",
@@ -5669,7 +6032,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2018年辽宁公务员考试《行测》第64题",
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2018-未标注-65",
@@ -5704,7 +6069,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2018年辽宁公务员考试《行测》第65题",
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2018-未标注-66",
@@ -5740,7 +6107,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2018年辽宁公务员考试《行测》第66题",
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2018-未标注-67",
@@ -5776,7 +6145,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2018年辽宁公务员考试《行测》第67题",
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2018-未标注-68",
@@ -5811,7 +6182,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2018年辽宁公务员考试《行测》第68题",
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2018-未标注-69",
@@ -5845,7 +6218,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2018年辽宁公务员考试《行测》第69题",
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2018-未标注-70",
@@ -5881,7 +6256,9 @@
     "difficulty": "拔高",
     "source": "2018年辽宁公务员考试《行测》第70题",
     "isImageQuestion": true,
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2019-未标注-61",
@@ -5915,7 +6292,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年辽宁公务员考试《行测》第61题",
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2019-未标注-62",
@@ -5949,7 +6328,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年辽宁公务员考试《行测》第62题",
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2019-未标注-63",
@@ -5984,7 +6365,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年辽宁公务员考试《行测》第63题",
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2019-未标注-64",
@@ -6019,7 +6402,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年辽宁公务员考试《行测》第64题",
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2019-未标注-65",
@@ -6038,7 +6423,10 @@
     "difficulty": "拔高",
     "source": "2019年辽宁公务员考试《行测》第65题",
     "isImageQuestion": true,
-    "province": "辽宁"
+    "province": "辽宁",
+    "isAbnormal": true,
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2019-未标注-66",
@@ -6073,7 +6461,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年辽宁公务员考试《行测》第66题",
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2019-未标注-67",
@@ -6108,7 +6498,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年辽宁公务员考试《行测》第67题",
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2019-未标注-68",
@@ -6144,7 +6536,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年辽宁公务员考试《行测》第68题",
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2019-未标注-69",
@@ -6176,7 +6570,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年辽宁公务员考试《行测》第69题",
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2019-未标注-70",
@@ -6210,7 +6606,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年辽宁公务员考试《行测》第70题",
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2020-未标注-61",
@@ -6245,7 +6643,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2020年辽宁公务员考试《行测》第61题",
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2020-未标注-62",
@@ -6280,7 +6680,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2020年辽宁公务员考试《行测》第62题",
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2020-未标注-63",
@@ -6315,7 +6717,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2020年辽宁公务员考试《行测》第63题",
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2020-未标注-64",
@@ -6350,7 +6754,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2020年辽宁公务员考试《行测》第64题",
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2020-未标注-65",
@@ -6386,7 +6792,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2020年辽宁公务员考试《行测》第65题",
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2020-未标注-66",
@@ -6422,6 +6830,8 @@
     "difficulty": "拔高",
     "source": "2020年辽宁公务员考试《行测》第66题",
     "isImageQuestion": true,
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   }
 ]

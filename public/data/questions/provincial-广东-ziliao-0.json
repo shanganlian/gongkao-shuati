@@ -13,7 +13,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2004年广东公务员考试《行测》（上半年）第86题",
-    "province": "广东"
+    "province": "广东",
+    "isAbnormal": true,
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2004-上半年-87",
@@ -29,7 +32,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2004年广东公务员考试《行测》（上半年）第87题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2004-上半年-88",
@@ -45,7 +50,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2004年广东公务员考试《行测》（上半年）第88题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2004-上半年-89",
@@ -61,7 +68,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2004年广东公务员考试《行测》（上半年）第89题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2004-上半年-90",
@@ -77,7 +86,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2004年广东公务员考试《行测》（上半年）第90题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2004-上半年-91",
@@ -93,7 +104,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2004年广东公务员考试《行测》（上半年）第91题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2004-上半年-92",
@@ -109,7 +122,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2004年广东公务员考试《行测》（上半年）第92题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2004-上半年-93",
@@ -125,7 +140,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2004年广东公务员考试《行测》（上半年）第93题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2004-上半年-94",
@@ -160,7 +177,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2004年广东公务员考试《行测》（上半年）第94题",
-    "province": "广东"
+    "province": "广东",
+    "isAbnormal": true,
+    "subModule": "综合材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2004-上半年-95",
@@ -196,7 +216,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2004年广东公务员考试《行测》（上半年）第95题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2004-上半年-96",
@@ -229,7 +251,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2004年广东公务员考试《行测》（上半年）第96题",
-    "province": "广东"
+    "province": "广东",
+    "isAbnormal": true,
+    "subModule": "图形材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2004-上半年-97",
@@ -264,7 +289,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2004年广东公务员考试《行测》（上半年）第97题",
-    "province": "广东"
+    "province": "广东",
+    "isAbnormal": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2004-上半年-98",
@@ -299,7 +327,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2004年广东公务员考试《行测》（上半年）第98题",
-    "province": "广东"
+    "province": "广东",
+    "isAbnormal": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2004-上半年-99",
@@ -332,7 +363,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2004年广东公务员考试《行测》（上半年）第99题",
-    "province": "广东"
+    "province": "广东",
+    "isAbnormal": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2004-上半年-100",
@@ -367,7 +401,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2004年广东公务员考试《行测》（上半年）第100题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "综合材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2004-下半年-86",
@@ -400,7 +436,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2004年广东公务员考试《行测》（下半年）第86题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2004-下半年-87",
@@ -435,7 +473,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2004年广东公务员考试《行测》（下半年）第87题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2004-下半年-88",
@@ -470,7 +510,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2004年广东公务员考试《行测》（下半年）第88题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2004-下半年-89",
@@ -503,7 +545,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2004年广东公务员考试《行测》（下半年）第89题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2004-下半年-90",
@@ -538,7 +582,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2004年广东公务员考试《行测》（下半年）第90题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2004-下半年-91",
@@ -573,7 +619,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2004年广东公务员考试《行测》（下半年）第91题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2004-下半年-92",
@@ -608,7 +656,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2004年广东公务员考试《行测》（下半年）第92题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2004-下半年-93",
@@ -643,7 +693,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2004年广东公务员考试《行测》（下半年）第93题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2004-下半年-94",
@@ -680,7 +732,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2004年广东公务员考试《行测》（下半年）第94题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2004-下半年-95",
@@ -713,7 +767,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2004年广东公务员考试《行测》（下半年）第95题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2004-下半年-96",
@@ -748,7 +804,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2004年广东公务员考试《行测》（下半年）第96题",
-    "province": "广东"
+    "province": "广东",
+    "isAbnormal": true,
+    "subModule": "图形材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2004-下半年-97",
@@ -785,7 +844,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2004年广东公务员考试《行测》（下半年）第97题",
-    "province": "广东"
+    "province": "广东",
+    "isAbnormal": true,
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2004-下半年-98",
@@ -818,7 +880,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2004年广东公务员考试《行测》（下半年）第98题",
-    "province": "广东"
+    "province": "广东",
+    "isAbnormal": true,
+    "subModule": "综合材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2004-下半年-99",
@@ -853,7 +918,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2004年广东公务员考试《行测》（下半年）第99题",
-    "province": "广东"
+    "province": "广东",
+    "isAbnormal": true,
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2004-下半年-100",
@@ -886,7 +954,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2004年广东公务员考试《行测》（下半年）第100题",
-    "province": "广东"
+    "province": "广东",
+    "isAbnormal": true,
+    "subModule": "图形材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2005-上半年-86",
@@ -922,7 +993,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2005年广东公务员考试《行测》（上半年）第86题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2005-上半年-87",
@@ -957,7 +1030,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2005年广东公务员考试《行测》（上半年）第87题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2005-上半年-88",
@@ -992,7 +1067,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2005年广东公务员考试《行测》（上半年）第88题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2005-上半年-89",
@@ -1028,7 +1105,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2005年广东公务员考试《行测》（上半年）第89题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2005-上半年-90",
@@ -1061,7 +1140,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2005年广东公务员考试《行测》（上半年）第90题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2005-上半年-91",
@@ -1077,7 +1158,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2005年广东公务员考试《行测》（上半年）第91题",
-    "province": "广东"
+    "province": "广东",
+    "isAbnormal": true,
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2005-上半年-92",
@@ -1093,7 +1177,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2005年广东公务员考试《行测》（上半年）第92题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-上半年-93",
@@ -1109,7 +1195,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2005年广东公务员考试《行测》（上半年）第93题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-上半年-94",
@@ -1125,7 +1213,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2005年广东公务员考试《行测》（上半年）第94题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-上半年-95",
@@ -1141,7 +1231,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2005年广东公务员考试《行测》（上半年）第95题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-上半年-96",
@@ -1157,7 +1249,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2005年广东公务员考试《行测》（上半年）第96题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-上半年-97",
@@ -1173,7 +1267,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2005年广东公务员考试《行测》（上半年）第97题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-上半年-98",
@@ -1189,7 +1285,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2005年广东公务员考试《行测》（上半年）第98题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-上半年-99",
@@ -1205,7 +1303,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2005年广东公务员考试《行测》（上半年）第99题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-上半年-100",
@@ -1221,7 +1321,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2005年广东公务员考试《行测》（上半年）第100题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-上半年-101",
@@ -1237,7 +1339,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2005年广东公务员考试《行测》（上半年）第101题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-上半年-102",
@@ -1253,7 +1357,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2005年广东公务员考试《行测》（上半年）第102题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-上半年-103",
@@ -1269,7 +1375,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2005年广东公务员考试《行测》（上半年）第103题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-上半年-104",
@@ -1285,7 +1393,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2005年广东公务员考试《行测》（上半年）第104题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-上半年-105",
@@ -1301,7 +1411,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2005年广东公务员考试《行测》（上半年）第105题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-上半年-106",
@@ -1317,7 +1429,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2005年广东公务员考试《行测》（上半年）第106题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-上半年-107",
@@ -1333,7 +1447,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2005年广东公务员考试《行测》（上半年）第107题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-上半年-108",
@@ -1349,7 +1465,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2005年广东公务员考试《行测》（上半年）第108题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-上半年-109",
@@ -1365,7 +1483,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2005年广东公务员考试《行测》（上半年）第109题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-上半年-110",
@@ -1381,7 +1501,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2005年广东公务员考试《行测》（上半年）第110题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-上半年-111",
@@ -1397,7 +1519,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2005年广东公务员考试《行测》（上半年）第111题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-上半年-112",
@@ -1413,7 +1537,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2005年广东公务员考试《行测》（上半年）第112题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-上半年-113",
@@ -1429,7 +1555,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2005年广东公务员考试《行测》（上半年）第113题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-上半年-114",
@@ -1445,7 +1573,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2005年广东公务员考试《行测》（上半年）第114题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-上半年-115",
@@ -1461,7 +1591,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2005年广东公务员考试《行测》（上半年）第115题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-上半年-116",
@@ -1477,7 +1609,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2005年广东公务员考试《行测》（上半年）第116题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-上半年-117",
@@ -1493,7 +1627,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2005年广东公务员考试《行测》（上半年）第117题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-上半年-118",
@@ -1509,7 +1645,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2005年广东公务员考试《行测》（上半年）第118题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-上半年-119",
@@ -1525,7 +1663,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2005年广东公务员考试《行测》（上半年）第119题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-上半年-120",
@@ -1541,7 +1681,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2005年广东公务员考试《行测》（上半年）第120题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-上半年-121",
@@ -1557,7 +1699,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2005年广东公务员考试《行测》（上半年）第121题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-上半年-122",
@@ -1573,7 +1717,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2005年广东公务员考试《行测》（上半年）第122题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-上半年-123",
@@ -1589,7 +1735,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2005年广东公务员考试《行测》（上半年）第123题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-上半年-124",
@@ -1605,7 +1753,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2005年广东公务员考试《行测》（上半年）第124题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-上半年-125",
@@ -1621,7 +1771,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2005年广东公务员考试《行测》（上半年）第125题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "综合材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-上半年-126",
@@ -1637,7 +1789,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2005年广东公务员考试《行测》（上半年）第126题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-上半年-127",
@@ -1653,7 +1807,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2005年广东公务员考试《行测》（上半年）第127题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-上半年-128",
@@ -1669,7 +1825,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2005年广东公务员考试《行测》（上半年）第128题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-上半年-129",
@@ -1685,7 +1843,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2005年广东公务员考试《行测》（上半年）第129题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-上半年-130",
@@ -1701,7 +1861,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2005年广东公务员考试《行测》（上半年）第130题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-上半年-131",
@@ -1717,7 +1879,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2005年广东公务员考试《行测》（上半年）第131题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-上半年-132",
@@ -1733,7 +1897,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2005年广东公务员考试《行测》（上半年）第132题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-上半年-133",
@@ -1749,7 +1915,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2005年广东公务员考试《行测》（上半年）第133题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-上半年-134",
@@ -1765,7 +1933,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2005年广东公务员考试《行测》（上半年）第134题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-上半年-135",
@@ -1781,7 +1951,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2005年广东公务员考试《行测》（上半年）第135题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-上半年-136",
@@ -1797,7 +1969,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2005年广东公务员考试《行测》（上半年）第136题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-上半年-137",
@@ -1813,7 +1987,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2005年广东公务员考试《行测》（上半年）第137题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-上半年-138",
@@ -1829,7 +2005,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2005年广东公务员考试《行测》（上半年）第138题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-上半年-139",
@@ -1845,7 +2023,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2005年广东公务员考试《行测》（上半年）第139题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-上半年-140",
@@ -1861,7 +2041,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2005年广东公务员考试《行测》（上半年）第140题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-上半年-141",
@@ -1877,7 +2059,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2005年广东公务员考试《行测》（上半年）第141题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-上半年-142",
@@ -1893,7 +2077,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2005年广东公务员考试《行测》（上半年）第142题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-上半年-143",
@@ -1909,7 +2095,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2005年广东公务员考试《行测》（上半年）第143题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-上半年-144",
@@ -1925,7 +2113,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2005年广东公务员考试《行测》（上半年）第144题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-上半年-145",
@@ -1941,7 +2131,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2005年广东公务员考试《行测》（上半年）第145题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-上半年-146",
@@ -1957,7 +2149,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2005年广东公务员考试《行测》（上半年）第146题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-上半年-147",
@@ -1973,7 +2167,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2005年广东公务员考试《行测》（上半年）第147题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-上半年-148",
@@ -1989,7 +2185,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2005年广东公务员考试《行测》（上半年）第148题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-上半年-149",
@@ -2005,7 +2203,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2005年广东公务员考试《行测》（上半年）第149题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-上半年-150",
@@ -2021,7 +2221,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2005年广东公务员考试《行测》（上半年）第150题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-上半年-151",
@@ -2037,7 +2239,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2005年广东公务员考试《行测》（上半年）第151题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-上半年-152",
@@ -2053,7 +2257,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2005年广东公务员考试《行测》（上半年）第152题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-上半年-153",
@@ -2069,7 +2275,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2005年广东公务员考试《行测》（上半年）第153题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-上半年-154",
@@ -2085,7 +2293,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2005年广东公务员考试《行测》（上半年）第154题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-上半年-155",
@@ -2101,7 +2311,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2005年广东公务员考试《行测》（上半年）第155题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-上半年-156",
@@ -2117,7 +2329,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2005年广东公务员考试《行测》（上半年）第156题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-上半年-157",
@@ -2133,7 +2347,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2005年广东公务员考试《行测》（上半年）第157题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-上半年-158",
@@ -2149,7 +2365,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2005年广东公务员考试《行测》（上半年）第158题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-上半年-159",
@@ -2165,7 +2383,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2005年广东公务员考试《行测》（上半年）第159题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-上半年-160",
@@ -2181,7 +2401,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2005年广东公务员考试《行测》（上半年）第160题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-上半年-161",
@@ -2197,7 +2419,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2005年广东公务员考试《行测》（上半年）第161题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-上半年-162",
@@ -2213,7 +2437,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2005年广东公务员考试《行测》（上半年）第162题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-上半年-163",
@@ -2229,7 +2455,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2005年广东公务员考试《行测》（上半年）第163题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-上半年-164",
@@ -2245,7 +2473,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2005年广东公务员考试《行测》（上半年）第164题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-上半年-165",
@@ -2261,7 +2491,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2005年广东公务员考试《行测》（上半年）第165题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-上半年-166",
@@ -2277,7 +2509,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2005年广东公务员考试《行测》（上半年）第166题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-上半年-167",
@@ -2293,7 +2527,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2005年广东公务员考试《行测》（上半年）第167题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-上半年-168",
@@ -2309,7 +2545,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2005年广东公务员考试《行测》（上半年）第168题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-上半年-169",
@@ -2325,7 +2563,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2005年广东公务员考试《行测》（上半年）第169题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-上半年-170",
@@ -2341,7 +2581,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2005年广东公务员考试《行测》（上半年）第170题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-上半年-171",
@@ -2357,7 +2599,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2005年广东公务员考试《行测》（上半年）第171题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-上半年-172",
@@ -2373,7 +2617,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2005年广东公务员考试《行测》（上半年）第172题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-上半年-173",
@@ -2405,7 +2651,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2005年广东公务员考试《行测》（上半年）第173题",
-    "province": "广东"
+    "province": "广东",
+    "isAbnormal": true,
+    "subModule": "综合材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-下半年-86",
@@ -2440,7 +2689,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2005年广东公务员考试《行测》（下半年）第86题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2005-下半年-87",
@@ -2469,7 +2720,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2005年广东公务员考试《行测》（下半年）第87题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2005-下半年-88",
@@ -2485,7 +2738,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2005年广东公务员考试《行测》（下半年）第88题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-下半年-89",
@@ -2501,7 +2756,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2005年广东公务员考试《行测》（下半年）第89题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-下半年-90",
@@ -2517,7 +2774,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2005年广东公务员考试《行测》（下半年）第90题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-下半年-91",
@@ -2533,7 +2792,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2005年广东公务员考试《行测》（下半年）第91题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-下半年-92",
@@ -2549,7 +2810,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2005年广东公务员考试《行测》（下半年）第92题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-下半年-93",
@@ -2565,7 +2828,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2005年广东公务员考试《行测》（下半年）第93题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-下半年-94",
@@ -2581,7 +2846,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2005年广东公务员考试《行测》（下半年）第94题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-下半年-95",
@@ -2597,7 +2864,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2005年广东公务员考试《行测》（下半年）第95题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "综合材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-下半年-96",
@@ -2613,7 +2882,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2005年广东公务员考试《行测》（下半年）第96题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-下半年-97",
@@ -2629,7 +2900,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2005年广东公务员考试《行测》（下半年）第97题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-下半年-98",
@@ -2645,7 +2918,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2005年广东公务员考试《行测》（下半年）第98题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-下半年-99",
@@ -2661,7 +2936,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2005年广东公务员考试《行测》（下半年）第99题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-下半年-100",
@@ -2677,7 +2954,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2005年广东公务员考试《行测》（下半年）第100题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-下半年-101",
@@ -2693,7 +2972,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2005年广东公务员考试《行测》（下半年）第101题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-下半年-102",
@@ -2709,7 +2990,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2005年广东公务员考试《行测》（下半年）第102题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-下半年-103",
@@ -2725,7 +3008,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2005年广东公务员考试《行测》（下半年）第103题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-下半年-104",
@@ -2741,7 +3026,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2005年广东公务员考试《行测》（下半年）第104题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-下半年-105",
@@ -2757,7 +3044,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2005年广东公务员考试《行测》（下半年）第105题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-下半年-106",
@@ -2773,7 +3062,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2005年广东公务员考试《行测》（下半年）第106题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-下半年-107",
@@ -2789,7 +3080,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2005年广东公务员考试《行测》（下半年）第107题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-下半年-108",
@@ -2805,7 +3098,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2005年广东公务员考试《行测》（下半年）第108题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-下半年-109",
@@ -2821,7 +3116,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2005年广东公务员考试《行测》（下半年）第109题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-下半年-110",
@@ -2837,7 +3134,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2005年广东公务员考试《行测》（下半年）第110题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-下半年-111",
@@ -2853,7 +3152,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2005年广东公务员考试《行测》（下半年）第111题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-下半年-112",
@@ -2869,7 +3170,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2005年广东公务员考试《行测》（下半年）第112题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-下半年-113",
@@ -2885,7 +3188,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2005年广东公务员考试《行测》（下半年）第113题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-下半年-114",
@@ -2901,7 +3206,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2005年广东公务员考试《行测》（下半年）第114题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-下半年-115",
@@ -2917,7 +3224,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2005年广东公务员考试《行测》（下半年）第115题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-下半年-116",
@@ -2933,7 +3242,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2005年广东公务员考试《行测》（下半年）第116题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-下半年-117",
@@ -2949,7 +3260,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2005年广东公务员考试《行测》（下半年）第117题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-下半年-118",
@@ -2965,7 +3278,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2005年广东公务员考试《行测》（下半年）第118题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-下半年-119",
@@ -2981,7 +3296,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2005年广东公务员考试《行测》（下半年）第119题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-下半年-120",
@@ -2997,7 +3314,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2005年广东公务员考试《行测》（下半年）第120题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-下半年-121",
@@ -3013,7 +3332,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2005年广东公务员考试《行测》（下半年）第121题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-下半年-122",
@@ -3029,7 +3350,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2005年广东公务员考试《行测》（下半年）第122题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-下半年-123",
@@ -3045,7 +3368,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2005年广东公务员考试《行测》（下半年）第123题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-下半年-124",
@@ -3061,7 +3386,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2005年广东公务员考试《行测》（下半年）第124题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-下半年-125",
@@ -3077,7 +3404,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2005年广东公务员考试《行测》（下半年）第125题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "综合材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-下半年-126",
@@ -3093,7 +3422,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2005年广东公务员考试《行测》（下半年）第126题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-下半年-127",
@@ -3109,7 +3440,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2005年广东公务员考试《行测》（下半年）第127题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-下半年-128",
@@ -3125,7 +3458,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2005年广东公务员考试《行测》（下半年）第128题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-下半年-129",
@@ -3141,7 +3476,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2005年广东公务员考试《行测》（下半年）第129题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-下半年-130",
@@ -3157,7 +3494,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2005年广东公务员考试《行测》（下半年）第130题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-下半年-131",
@@ -3173,7 +3512,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2005年广东公务员考试《行测》（下半年）第131题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-下半年-132",
@@ -3189,7 +3530,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2005年广东公务员考试《行测》（下半年）第132题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-下半年-133",
@@ -3205,7 +3548,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2005年广东公务员考试《行测》（下半年）第133题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-下半年-134",
@@ -3221,7 +3566,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2005年广东公务员考试《行测》（下半年）第134题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-下半年-135",
@@ -3237,7 +3584,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2005年广东公务员考试《行测》（下半年）第135题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-下半年-136",
@@ -3253,7 +3602,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2005年广东公务员考试《行测》（下半年）第136题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-下半年-137",
@@ -3269,7 +3620,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2005年广东公务员考试《行测》（下半年）第137题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-下半年-138",
@@ -3285,7 +3638,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2005年广东公务员考试《行测》（下半年）第138题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-下半年-139",
@@ -3301,7 +3656,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2005年广东公务员考试《行测》（下半年）第139题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-下半年-140",
@@ -3317,7 +3674,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2005年广东公务员考试《行测》（下半年）第140题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-下半年-141",
@@ -3333,7 +3692,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2005年广东公务员考试《行测》（下半年）第141题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-下半年-142",
@@ -3349,7 +3710,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2005年广东公务员考试《行测》（下半年）第142题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-下半年-143",
@@ -3365,7 +3728,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2005年广东公务员考试《行测》（下半年）第143题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-下半年-144",
@@ -3381,7 +3746,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2005年广东公务员考试《行测》（下半年）第144题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-下半年-145",
@@ -3397,7 +3764,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2005年广东公务员考试《行测》（下半年）第145题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-下半年-146",
@@ -3413,7 +3782,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2005年广东公务员考试《行测》（下半年）第146题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-下半年-147",
@@ -3429,7 +3800,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2005年广东公务员考试《行测》（下半年）第147题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-下半年-148",
@@ -3445,7 +3818,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2005年广东公务员考试《行测》（下半年）第148题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-下半年-149",
@@ -3461,7 +3836,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2005年广东公务员考试《行测》（下半年）第149题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-下半年-150",
@@ -3477,7 +3854,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2005年广东公务员考试《行测》（下半年）第150题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-下半年-151",
@@ -3493,7 +3872,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2005年广东公务员考试《行测》（下半年）第151题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-下半年-152",
@@ -3509,7 +3890,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2005年广东公务员考试《行测》（下半年）第152题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-下半年-153",
@@ -3525,7 +3908,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2005年广东公务员考试《行测》（下半年）第153题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-下半年-154",
@@ -3541,7 +3926,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2005年广东公务员考试《行测》（下半年）第154题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-下半年-155",
@@ -3557,7 +3944,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2005年广东公务员考试《行测》（下半年）第155题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-下半年-156",
@@ -3573,7 +3962,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2005年广东公务员考试《行测》（下半年）第156题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-下半年-157",
@@ -3589,7 +3980,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2005年广东公务员考试《行测》（下半年）第157题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-下半年-158",
@@ -3605,7 +3998,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2005年广东公务员考试《行测》（下半年）第158题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-下半年-159",
@@ -3621,7 +4016,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2005年广东公务员考试《行测》（下半年）第159题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-下半年-160",
@@ -3637,7 +4034,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2005年广东公务员考试《行测》（下半年）第160题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-下半年-161",
@@ -3653,7 +4052,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2005年广东公务员考试《行测》（下半年）第161题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-下半年-162",
@@ -3669,7 +4070,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2005年广东公务员考试《行测》（下半年）第162题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-下半年-163",
@@ -3685,7 +4088,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2005年广东公务员考试《行测》（下半年）第163题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-下半年-164",
@@ -3701,7 +4106,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2005年广东公务员考试《行测》（下半年）第164题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-下半年-165",
@@ -3717,7 +4124,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2005年广东公务员考试《行测》（下半年）第165题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-下半年-166",
@@ -3733,7 +4142,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2005年广东公务员考试《行测》（下半年）第166题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-下半年-167",
@@ -3749,6 +4160,8 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2005年广东公务员考试《行测》（下半年）第167题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   }
 ]

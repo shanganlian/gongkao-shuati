@@ -31,7 +31,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年天津公务员考试《行测》（426联考）第101题",
-    "province": "天津"
+    "province": "天津",
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-tianjin-2009-426联考-102",
@@ -65,7 +67,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年天津公务员考试《行测》（426联考）第102题",
-    "province": "天津"
+    "province": "天津",
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-tianjin-2009-426联考-103",
@@ -100,7 +104,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年天津公务员考试《行测》（426联考）第103题",
-    "province": "天津"
+    "province": "天津",
+    "isAbnormal": true,
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-tianjin-2009-426联考-104",
@@ -134,7 +141,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年天津公务员考试《行测》（426联考）第104题",
-    "province": "天津"
+    "province": "天津",
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-tianjin-2009-426联考-105",
@@ -166,7 +175,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年天津公务员考试《行测》（426联考）第105题",
-    "province": "天津"
+    "province": "天津",
+    "subModule": "综合材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-tianjin-2009-426联考-106",
@@ -202,7 +213,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年天津公务员考试《行测》（426联考）第106题",
-    "province": "天津"
+    "province": "天津",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-tianjin-2009-426联考-107",
@@ -237,7 +250,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年天津公务员考试《行测》（426联考）第107题",
-    "province": "天津"
+    "province": "天津",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-tianjin-2009-426联考-108",
@@ -273,7 +288,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年天津公务员考试《行测》（426联考）第108题",
-    "province": "天津"
+    "province": "天津",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-tianjin-2009-426联考-109",
@@ -308,7 +325,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年天津公务员考试《行测》（426联考）第109题",
-    "province": "天津"
+    "province": "天津",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-tianjin-2009-426联考-110",
@@ -341,7 +360,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年天津公务员考试《行测》（426联考）第110题",
-    "province": "天津"
+    "province": "天津",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-tianjin-2009-426联考-111",
@@ -377,7 +398,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年天津公务员考试《行测》（426联考）第111题",
-    "province": "天津"
+    "province": "天津",
+    "isAbnormal": true,
+    "subModule": "综合材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-tianjin-2009-426联考-112",
@@ -413,7 +437,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年天津公务员考试《行测》（426联考）第112题",
-    "province": "天津"
+    "province": "天津",
+    "isAbnormal": true,
+    "subModule": "综合材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-tianjin-2009-426联考-113",
@@ -448,7 +475,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年天津公务员考试《行测》（426联考）第113题",
-    "province": "天津"
+    "province": "天津",
+    "isAbnormal": true,
+    "subModule": "综合材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-tianjin-2009-426联考-114",
@@ -484,7 +514,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年天津公务员考试《行测》（426联考）第114题",
-    "province": "天津"
+    "province": "天津",
+    "isAbnormal": true,
+    "subModule": "综合材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-tianjin-2009-426联考-115",
@@ -520,7 +553,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年天津公务员考试《行测》（426联考）第115题",
-    "province": "天津"
+    "province": "天津",
+    "isAbnormal": true,
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-tianjin-2009-426联考-116",
@@ -555,7 +591,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年天津公务员考试《行测》（426联考）第116题",
-    "province": "天津"
+    "province": "天津",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-tianjin-2009-426联考-117",
@@ -591,7 +629,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年天津公务员考试《行测》（426联考）第117题",
-    "province": "天津"
+    "province": "天津",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-tianjin-2009-426联考-118",
@@ -627,7 +667,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年天津公务员考试《行测》（426联考）第118题",
-    "province": "天津"
+    "province": "天津",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-tianjin-2009-426联考-119",
@@ -664,7 +706,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年天津公务员考试《行测》（426联考）第119题",
-    "province": "天津"
+    "province": "天津",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-tianjin-2009-426联考-120",
@@ -701,7 +745,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年天津公务员考试《行测》（426联考）第120题",
-    "province": "天津"
+    "province": "天津",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-tianjin-2010-425联考-81",
@@ -737,7 +783,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年天津公务员考试《行测》（425联考）第81题",
-    "province": "天津"
+    "province": "天津",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-tianjin-2010-425联考-82",
@@ -772,7 +820,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年天津公务员考试《行测》（425联考）第82题",
-    "province": "天津"
+    "province": "天津",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-tianjin-2010-425联考-83",
@@ -808,7 +858,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年天津公务员考试《行测》（425联考）第83题",
-    "province": "天津"
+    "province": "天津",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-tianjin-2010-425联考-84",
@@ -844,7 +896,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年天津公务员考试《行测》（425联考）第84题",
-    "province": "天津"
+    "province": "天津",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-tianjin-2010-425联考-85",
@@ -879,7 +933,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年天津公务员考试《行测》（425联考）第85题",
-    "province": "天津"
+    "province": "天津",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-tianjin-2010-425联考-86",
@@ -915,7 +971,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年天津公务员考试《行测》（425联考）第86题",
-    "province": "天津"
+    "province": "天津",
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-tianjin-2010-425联考-87",
@@ -950,7 +1008,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年天津公务员考试《行测》（425联考）第87题",
-    "province": "天津"
+    "province": "天津",
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-tianjin-2010-425联考-88",
@@ -985,7 +1045,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年天津公务员考试《行测》（425联考）第88题",
-    "province": "天津"
+    "province": "天津",
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-tianjin-2010-425联考-89",
@@ -1020,7 +1082,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年天津公务员考试《行测》（425联考）第89题",
-    "province": "天津"
+    "province": "天津",
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-tianjin-2010-425联考-90",
@@ -1055,7 +1119,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年天津公务员考试《行测》（425联考）第90题",
-    "province": "天津"
+    "province": "天津",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-tianjin-2010-425联考-91",
@@ -1091,7 +1157,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年天津公务员考试《行测》（425联考）第91题",
-    "province": "天津"
+    "province": "天津",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-tianjin-2010-425联考-92",
@@ -1127,7 +1195,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年天津公务员考试《行测》（425联考）第92题",
-    "province": "天津"
+    "province": "天津",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-tianjin-2010-425联考-93",
@@ -1163,7 +1233,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年天津公务员考试《行测》（425联考）第93题",
-    "province": "天津"
+    "province": "天津",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-tianjin-2010-425联考-94",
@@ -1200,7 +1272,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年天津公务员考试《行测》（425联考）第94题",
-    "province": "天津"
+    "province": "天津",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-tianjin-2010-425联考-95",
@@ -1233,7 +1307,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年天津公务员考试《行测》（425联考）第95题",
-    "province": "天津"
+    "province": "天津",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-tianjin-2010-425联考-96",
@@ -1270,7 +1346,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年天津公务员考试《行测》（425联考）第96题",
-    "province": "天津"
+    "province": "天津",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-tianjin-2010-425联考-97",
@@ -1307,7 +1385,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年天津公务员考试《行测》（425联考）第97题",
-    "province": "天津"
+    "province": "天津",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-tianjin-2010-425联考-98",
@@ -1342,7 +1422,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年天津公务员考试《行测》（425联考）第98题",
-    "province": "天津"
+    "province": "天津",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-tianjin-2010-425联考-99",
@@ -1378,7 +1460,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年天津公务员考试《行测》（425联考）第99题",
-    "province": "天津"
+    "province": "天津",
+    "subModule": "综合材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-tianjin-2010-425联考-100",
@@ -1411,7 +1495,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年天津公务员考试《行测》（425联考）第100题",
-    "province": "天津"
+    "province": "天津",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-tianjin-2011-424联考-101",
@@ -1447,7 +1533,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年天津公务员考试《行测》（424联考）第101题",
-    "province": "天津"
+    "province": "天津",
+    "subModule": "图形材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-tianjin-2011-424联考-102",
@@ -1482,7 +1570,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年天津公务员考试《行测》（424联考）第102题",
-    "province": "天津"
+    "province": "天津",
+    "isAbnormal": true,
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-tianjin-2011-424联考-103",
@@ -1517,7 +1608,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年天津公务员考试《行测》（424联考）第103题",
-    "province": "天津"
+    "province": "天津",
+    "isAbnormal": true,
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-tianjin-2011-424联考-104",
@@ -1553,7 +1647,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年天津公务员考试《行测》（424联考）第104题",
-    "province": "天津"
+    "province": "天津",
+    "isAbnormal": true,
+    "subModule": "综合材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-tianjin-2011-424联考-105",
@@ -1589,7 +1686,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年天津公务员考试《行测》（424联考）第105题",
-    "province": "天津"
+    "province": "天津",
+    "isAbnormal": true,
+    "subModule": "综合材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-tianjin-2011-424联考-106",
@@ -1626,7 +1726,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年天津公务员考试《行测》（424联考）第106题",
-    "province": "天津"
+    "province": "天津",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-tianjin-2011-424联考-107",
@@ -1662,7 +1764,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年天津公务员考试《行测》（424联考）第107题",
-    "province": "天津"
+    "province": "天津",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-tianjin-2011-424联考-108",
@@ -1699,7 +1803,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年天津公务员考试《行测》（424联考）第108题",
-    "province": "天津"
+    "province": "天津",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-tianjin-2011-424联考-109",
@@ -1735,7 +1841,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年天津公务员考试《行测》（424联考）第109题",
-    "province": "天津"
+    "province": "天津",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-tianjin-2011-424联考-110",
@@ -1768,7 +1876,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年天津公务员考试《行测》（424联考）第110题",
-    "province": "天津"
+    "province": "天津",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-tianjin-2011-424联考-111",
@@ -1805,7 +1915,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年天津公务员考试《行测》（424联考）第111题",
-    "province": "天津"
+    "province": "天津",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-tianjin-2011-424联考-112",
@@ -1842,7 +1954,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年天津公务员考试《行测》（424联考）第112题",
-    "province": "天津"
+    "province": "天津",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-tianjin-2011-424联考-113",
@@ -1878,7 +1992,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年天津公务员考试《行测》（424联考）第113题",
-    "province": "天津"
+    "province": "天津",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-tianjin-2011-424联考-114",
@@ -1913,7 +2029,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年天津公务员考试《行测》（424联考）第114题",
-    "province": "天津"
+    "province": "天津",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-tianjin-2011-424联考-115",
@@ -1950,7 +2068,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年天津公务员考试《行测》（424联考）第115题",
-    "province": "天津"
+    "province": "天津",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-tianjin-2011-424联考-116",
@@ -1986,7 +2106,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年天津公务员考试《行测》（424联考）第116题",
-    "province": "天津"
+    "province": "天津",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-tianjin-2011-424联考-117",
@@ -2022,7 +2144,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年天津公务员考试《行测》（424联考）第117题",
-    "province": "天津"
+    "province": "天津",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-tianjin-2011-424联考-118",
@@ -2058,7 +2182,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年天津公务员考试《行测》（424联考）第118题",
-    "province": "天津"
+    "province": "天津",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-tianjin-2011-424联考-119",
@@ -2093,7 +2219,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年天津公务员考试《行测》（424联考）第119题",
-    "province": "天津"
+    "province": "天津",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-tianjin-2011-424联考-120",
@@ -2128,7 +2256,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年天津公务员考试《行测》（424联考）第120题",
-    "province": "天津"
+    "province": "天津",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-tianjin-2012-未标注-96",
@@ -2164,7 +2294,9 @@
     "difficulty": "中等",
     "source": "2012年天津公务员考试《行测》第96题",
     "isImageQuestion": true,
-    "province": "天津"
+    "province": "天津",
+    "subModule": "图形材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-tianjin-2012-未标注-97",
@@ -2183,7 +2315,10 @@
     "difficulty": "中等",
     "source": "2012年天津公务员考试《行测》第97题",
     "isImageQuestion": true,
-    "province": "天津"
+    "province": "天津",
+    "isAbnormal": true,
+    "subModule": "图形材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-tianjin-2012-未标注-98",
@@ -2199,7 +2334,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2012年天津公务员考试《行测》第98题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-tianjin-2012-未标注-99",
@@ -2215,7 +2352,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2012年天津公务员考试《行测》第99题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-tianjin-2012-未标注-100",
@@ -2231,7 +2370,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2012年天津公务员考试《行测》第100题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-tianjin-2012-未标注-101",
@@ -2247,7 +2388,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2012年天津公务员考试《行测》第101题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-tianjin-2012-未标注-102",
@@ -2263,7 +2406,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2012年天津公务员考试《行测》第102题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-tianjin-2012-未标注-103",
@@ -2279,7 +2424,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2012年天津公务员考试《行测》第103题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-tianjin-2012-未标注-104",
@@ -2295,7 +2442,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2012年天津公务员考试《行测》第104题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-tianjin-2012-未标注-105",
@@ -2311,7 +2460,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2012年天津公务员考试《行测》第105题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-tianjin-2012-未标注-106",
@@ -2327,7 +2478,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2012年天津公务员考试《行测》第106题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-tianjin-2012-未标注-107",
@@ -2343,7 +2496,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2012年天津公务员考试《行测》第107题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-tianjin-2012-未标注-108",
@@ -2359,7 +2514,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2012年天津公务员考试《行测》第108题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-tianjin-2012-未标注-109",
@@ -2375,7 +2532,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2012年天津公务员考试《行测》第109题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-tianjin-2012-未标注-110",
@@ -2391,7 +2550,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2012年天津公务员考试《行测》第110题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-tianjin-2012-未标注-111",
@@ -2407,7 +2568,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2012年天津公务员考试《行测》第111题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-tianjin-2012-未标注-112",
@@ -2423,7 +2586,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2012年天津公务员考试《行测》第112题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-tianjin-2012-未标注-113",
@@ -2439,7 +2604,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2012年天津公务员考试《行测》第113题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-tianjin-2012-未标注-114",
@@ -2455,7 +2622,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2012年天津公务员考试《行测》第114题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-tianjin-2012-未标注-115",
@@ -2471,7 +2640,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2012年天津公务员考试《行测》第115题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-tianjin-2012-未标注-116",
@@ -2487,7 +2658,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2012年天津公务员考试《行测》第116题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-tianjin-2012-未标注-117",
@@ -2503,7 +2676,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2012年天津公务员考试《行测》第117题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-tianjin-2012-未标注-118",
@@ -2519,7 +2694,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2012年天津公务员考试《行测》第118题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-tianjin-2012-未标注-119",
@@ -2535,7 +2712,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2012年天津公务员考试《行测》第119题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-tianjin-2012-未标注-120",
@@ -2551,7 +2730,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2012年天津公务员考试《行测》第120题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-tianjin-2012-未标注-121",
@@ -2567,7 +2748,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2012年天津公务员考试《行测》第121题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-tianjin-2012-未标注-122",
@@ -2583,7 +2766,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2012年天津公务员考试《行测》第122题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-tianjin-2012-未标注-123",
@@ -2599,7 +2784,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2012年天津公务员考试《行测》第123题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-tianjin-2012-未标注-124",
@@ -2615,7 +2802,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2012年天津公务员考试《行测》第124题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-tianjin-2012-未标注-125",
@@ -2631,7 +2820,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2012年天津公务员考试《行测》第125题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "综合材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-tianjin-2012-未标注-126",
@@ -2647,7 +2838,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2012年天津公务员考试《行测》第126题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-tianjin-2012-未标注-127",
@@ -2663,7 +2856,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2012年天津公务员考试《行测》第127题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-tianjin-2012-未标注-128",
@@ -2679,7 +2874,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2012年天津公务员考试《行测》第128题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-tianjin-2012-未标注-129",
@@ -2695,7 +2892,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2012年天津公务员考试《行测》第129题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-tianjin-2012-未标注-130",
@@ -2711,7 +2910,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2012年天津公务员考试《行测》第130题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-tianjin-2012-未标注-131",
@@ -2727,7 +2928,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2012年天津公务员考试《行测》第131题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-tianjin-2012-未标注-132",
@@ -2743,7 +2946,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2012年天津公务员考试《行测》第132题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-tianjin-2012-未标注-133",
@@ -2759,7 +2964,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2012年天津公务员考试《行测》第133题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-tianjin-2012-未标注-134",
@@ -2775,7 +2982,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2012年天津公务员考试《行测》第134题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-tianjin-2012-未标注-135",
@@ -2791,7 +3000,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2012年天津公务员考试《行测》第135题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-tianjin-2012-未标注-136",
@@ -2807,7 +3018,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2012年天津公务员考试《行测》第136题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-tianjin-2012-未标注-137",
@@ -2823,7 +3036,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2012年天津公务员考试《行测》第137题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-tianjin-2012-未标注-138",
@@ -2839,7 +3054,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2012年天津公务员考试《行测》第138题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-tianjin-2012-未标注-139",
@@ -2855,7 +3072,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2012年天津公务员考试《行测》第139题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-tianjin-2012-未标注-140",
@@ -2871,7 +3090,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2012年天津公务员考试《行测》第140题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-tianjin-2012-未标注-141",
@@ -2887,7 +3108,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2012年天津公务员考试《行测》第141题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-tianjin-2012-未标注-142",
@@ -2903,7 +3126,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2012年天津公务员考试《行测》第142题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-tianjin-2012-未标注-143",
@@ -2919,7 +3144,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2012年天津公务员考试《行测》第143题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-tianjin-2012-未标注-144",
@@ -2935,7 +3162,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2012年天津公务员考试《行测》第144题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-tianjin-2012-未标注-145",
@@ -2951,7 +3180,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2012年天津公务员考试《行测》第145题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-tianjin-2012-未标注-146",
@@ -2967,7 +3198,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2012年天津公务员考试《行测》第146题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-tianjin-2012-未标注-147",
@@ -2983,7 +3216,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2012年天津公务员考试《行测》第147题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-tianjin-2012-未标注-148",
@@ -2999,7 +3234,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2012年天津公务员考试《行测》第148题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-tianjin-2012-未标注-149",
@@ -3015,7 +3252,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2012年天津公务员考试《行测》第149题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-tianjin-2012-未标注-150",
@@ -3031,7 +3270,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2012年天津公务员考试《行测》第150题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-tianjin-2012-未标注-151",
@@ -3065,7 +3306,10 @@
     "difficulty": "中等",
     "source": "2012年天津公务员考试《行测》第151题",
     "isImageQuestion": true,
-    "province": "天津"
+    "province": "天津",
+    "isAbnormal": true,
+    "subModule": "图形材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-tianjin-2013-未标注-101",
@@ -3101,7 +3345,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年天津公务员考试《行测》第101题",
-    "province": "天津"
+    "province": "天津",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-tianjin-2013-未标注-102",
@@ -3137,7 +3383,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年天津公务员考试《行测》第102题",
-    "province": "天津"
+    "province": "天津",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-tianjin-2013-未标注-103",
@@ -3173,7 +3421,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年天津公务员考试《行测》第103题",
-    "province": "天津"
+    "province": "天津",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-tianjin-2013-未标注-104",
@@ -3208,7 +3458,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年天津公务员考试《行测》第104题",
-    "province": "天津"
+    "province": "天津",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-tianjin-2013-未标注-105",
@@ -3244,7 +3496,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年天津公务员考试《行测》第105题",
-    "province": "天津"
+    "province": "天津",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-tianjin-2013-未标注-106",
@@ -3281,7 +3535,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年天津公务员考试《行测》第106题",
-    "province": "天津"
+    "province": "天津",
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-tianjin-2013-未标注-107",
@@ -3318,7 +3574,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年天津公务员考试《行测》第107题",
-    "province": "天津"
+    "province": "天津",
+    "subModule": "综合材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-tianjin-2013-未标注-108",
@@ -3355,7 +3613,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年天津公务员考试《行测》第108题",
-    "province": "天津"
+    "province": "天津",
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-tianjin-2013-未标注-109",
@@ -3392,7 +3652,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年天津公务员考试《行测》第109题",
-    "province": "天津"
+    "province": "天津",
+    "subModule": "综合材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-tianjin-2013-未标注-110",
@@ -3427,7 +3689,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年天津公务员考试《行测》第110题",
-    "province": "天津"
+    "province": "天津",
+    "isAbnormal": true,
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-tianjin-2013-未标注-111",
@@ -3463,7 +3728,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年天津公务员考试《行测》第111题",
-    "province": "天津"
+    "province": "天津",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-tianjin-2013-未标注-112",
@@ -3498,7 +3765,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年天津公务员考试《行测》第112题",
-    "province": "天津"
+    "province": "天津",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-tianjin-2013-未标注-113",
@@ -3533,7 +3802,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年天津公务员考试《行测》第113题",
-    "province": "天津"
+    "province": "天津",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-tianjin-2013-未标注-114",
@@ -3568,7 +3839,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年天津公务员考试《行测》第114题",
-    "province": "天津"
+    "province": "天津",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-tianjin-2013-未标注-115",
@@ -3603,7 +3876,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年天津公务员考试《行测》第115题",
-    "province": "天津"
+    "province": "天津",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-tianjin-2013-未标注-116",
@@ -3639,7 +3914,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年天津公务员考试《行测》第116题",
-    "province": "天津"
+    "province": "天津",
+    "isAbnormal": true,
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-tianjin-2013-未标注-117",
@@ -3674,7 +3952,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年天津公务员考试《行测》第117题",
-    "province": "天津"
+    "province": "天津",
+    "isAbnormal": true,
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-tianjin-2013-未标注-118",
@@ -3710,7 +3991,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年天津公务员考试《行测》第118题",
-    "province": "天津"
+    "province": "天津",
+    "isAbnormal": true,
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-tianjin-2013-未标注-119",
@@ -3746,7 +4030,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年天津公务员考试《行测》第119题",
-    "province": "天津"
+    "province": "天津",
+    "subModule": "综合材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-tianjin-2013-未标注-120",
@@ -3781,7 +4067,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年天津公务员考试《行测》第120题",
-    "province": "天津"
+    "province": "天津",
+    "isAbnormal": true,
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-tianjin-2014-未标注-101",
@@ -3817,7 +4106,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年天津公务员考试《行测》第101题",
-    "province": "天津"
+    "province": "天津",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-tianjin-2014-未标注-102",
@@ -3852,7 +4143,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年天津公务员考试《行测》第102题",
-    "province": "天津"
+    "province": "天津",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-tianjin-2014-未标注-103",
@@ -3888,7 +4181,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年天津公务员考试《行测》第103题",
-    "province": "天津"
+    "province": "天津",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-tianjin-2014-未标注-104",
@@ -3924,7 +4219,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年天津公务员考试《行测》第104题",
-    "province": "天津"
+    "province": "天津",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-tianjin-2014-未标注-105",
@@ -3960,7 +4257,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年天津公务员考试《行测》第105题",
-    "province": "天津"
+    "province": "天津",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-tianjin-2014-未标注-106",
@@ -3997,7 +4296,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年天津公务员考试《行测》第106题",
-    "province": "天津"
+    "province": "天津",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-tianjin-2014-未标注-107",
@@ -4034,7 +4335,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年天津公务员考试《行测》第107题",
-    "province": "天津"
+    "province": "天津",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-tianjin-2014-未标注-108",
@@ -4070,7 +4373,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年天津公务员考试《行测》第108题",
-    "province": "天津"
+    "province": "天津",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-tianjin-2014-未标注-109",
@@ -4107,7 +4412,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年天津公务员考试《行测》第109题",
-    "province": "天津"
+    "province": "天津",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-tianjin-2014-未标注-110",
@@ -4143,7 +4450,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年天津公务员考试《行测》第110题",
-    "province": "天津"
+    "province": "天津",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-tianjin-2014-未标注-111",
@@ -4180,7 +4489,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年天津公务员考试《行测》第111题",
-    "province": "天津"
+    "province": "天津",
+    "isAbnormal": true,
+    "subModule": "综合材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-tianjin-2014-未标注-112",
@@ -4217,7 +4529,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年天津公务员考试《行测》第112题",
-    "province": "天津"
+    "province": "天津",
+    "isAbnormal": true,
+    "subModule": "综合材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-tianjin-2014-未标注-113",
@@ -4254,7 +4569,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年天津公务员考试《行测》第113题",
-    "province": "天津"
+    "province": "天津",
+    "isAbnormal": true,
+    "subModule": "综合材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-tianjin-2014-未标注-114",
@@ -4289,7 +4607,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年天津公务员考试《行测》第114题",
-    "province": "天津"
+    "province": "天津",
+    "isAbnormal": true,
+    "subModule": "图形材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-tianjin-2014-未标注-115",
@@ -4326,7 +4647,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年天津公务员考试《行测》第115题",
-    "province": "天津"
+    "province": "天津",
+    "isAbnormal": true,
+    "subModule": "综合材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-tianjin-2014-未标注-116",
@@ -4361,7 +4685,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年天津公务员考试《行测》第116题",
-    "province": "天津"
+    "province": "天津",
+    "isAbnormal": true,
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-tianjin-2014-未标注-117",
@@ -4398,7 +4725,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年天津公务员考试《行测》第117题",
-    "province": "天津"
+    "province": "天津",
+    "isAbnormal": true,
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-tianjin-2014-未标注-118",
@@ -4435,7 +4765,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年天津公务员考试《行测》第118题",
-    "province": "天津"
+    "province": "天津",
+    "isAbnormal": true,
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-tianjin-2014-未标注-119",
@@ -4472,7 +4805,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年天津公务员考试《行测》第119题",
-    "province": "天津"
+    "province": "天津",
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-tianjin-2014-未标注-120",
@@ -4508,7 +4843,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年天津公务员考试《行测》第120题",
-    "province": "天津"
+    "province": "天津",
+    "isAbnormal": true,
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-tianjin-2015-未标注-101",
@@ -4546,7 +4884,9 @@
     "difficulty": "中等",
     "source": "2015年天津公务员考试《行测》第101题",
     "isImageQuestion": true,
-    "province": "天津"
+    "province": "天津",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-tianjin-2015-未标注-102",
@@ -4582,7 +4922,9 @@
     "difficulty": "中等",
     "source": "2015年天津公务员考试《行测》第102题",
     "isImageQuestion": true,
-    "province": "天津"
+    "province": "天津",
+    "subModule": "综合材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-tianjin-2015-未标注-103",
@@ -4619,7 +4961,9 @@
     "difficulty": "中等",
     "source": "2015年天津公务员考试《行测》第103题",
     "isImageQuestion": true,
-    "province": "天津"
+    "province": "天津",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-tianjin-2015-未标注-104",
@@ -4657,7 +5001,9 @@
     "difficulty": "中等",
     "source": "2015年天津公务员考试《行测》第104题",
     "isImageQuestion": true,
-    "province": "天津"
+    "province": "天津",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-tianjin-2015-未标注-105",
@@ -4695,7 +5041,9 @@
     "difficulty": "中等",
     "source": "2015年天津公务员考试《行测》第105题",
     "isImageQuestion": true,
-    "province": "天津"
+    "province": "天津",
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-tianjin-2015-未标注-106",
@@ -4731,7 +5079,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年天津公务员考试《行测》第106题",
-    "province": "天津"
+    "province": "天津",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-tianjin-2015-未标注-107",
@@ -4767,7 +5117,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年天津公务员考试《行测》第107题",
-    "province": "天津"
+    "province": "天津",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-tianjin-2015-未标注-108",
@@ -4802,7 +5154,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年天津公务员考试《行测》第108题",
-    "province": "天津"
+    "province": "天津",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-tianjin-2015-未标注-109",
@@ -4837,7 +5191,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年天津公务员考试《行测》第109题",
-    "province": "天津"
+    "province": "天津",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-tianjin-2015-未标注-110",
@@ -4874,7 +5230,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年天津公务员考试《行测》第110题",
-    "province": "天津"
+    "province": "天津",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-tianjin-2015-未标注-111",
@@ -4909,7 +5267,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年天津公务员考试《行测》第111题",
-    "province": "天津"
+    "province": "天津",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-tianjin-2015-未标注-112",
@@ -4944,7 +5304,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年天津公务员考试《行测》第112题",
-    "province": "天津"
+    "province": "天津",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-tianjin-2015-未标注-113",
@@ -4980,7 +5342,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年天津公务员考试《行测》第113题",
-    "province": "天津"
+    "province": "天津",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-tianjin-2015-未标注-114",
@@ -5015,7 +5379,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年天津公务员考试《行测》第114题",
-    "province": "天津"
+    "province": "天津",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-tianjin-2015-未标注-115",
@@ -5051,7 +5417,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年天津公务员考试《行测》第115题",
-    "province": "天津"
+    "province": "天津",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-tianjin-2015-未标注-116",
@@ -5088,7 +5456,9 @@
     "difficulty": "中等",
     "source": "2015年天津公务员考试《行测》第116题",
     "isImageQuestion": true,
-    "province": "天津"
+    "province": "天津",
+    "subModule": "图形材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-tianjin-2015-未标注-117",
@@ -5125,7 +5495,9 @@
     "difficulty": "中等",
     "source": "2015年天津公务员考试《行测》第117题",
     "isImageQuestion": true,
-    "province": "天津"
+    "province": "天津",
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-tianjin-2015-未标注-118",
@@ -5162,7 +5534,9 @@
     "difficulty": "中等",
     "source": "2015年天津公务员考试《行测》第118题",
     "isImageQuestion": true,
-    "province": "天津"
+    "province": "天津",
+    "subModule": "图形材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-tianjin-2015-未标注-119",
@@ -5198,7 +5572,9 @@
     "difficulty": "中等",
     "source": "2015年天津公务员考试《行测》第119题",
     "isImageQuestion": true,
-    "province": "天津"
+    "province": "天津",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-tianjin-2015-未标注-120",
@@ -5234,7 +5610,9 @@
     "difficulty": "中等",
     "source": "2015年天津公务员考试《行测》第120题",
     "isImageQuestion": true,
-    "province": "天津"
+    "province": "天津",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-tianjin-2015-未标注-106-2",
@@ -5269,7 +5647,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年天津公务员考试《行测》第106题",
-    "province": "天津"
+    "province": "天津",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-tianjin-2015-未标注-107-2",
@@ -5304,7 +5684,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年天津公务员考试《行测》第107题",
-    "province": "天津"
+    "province": "天津",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-tianjin-2015-未标注-108-2",
@@ -5340,7 +5722,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年天津公务员考试《行测》第108题",
-    "province": "天津"
+    "province": "天津",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-tianjin-2015-未标注-109-2",
@@ -5376,7 +5760,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年天津公务员考试《行测》第109题",
-    "province": "天津"
+    "province": "天津",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-tianjin-2015-未标注-110-2",
@@ -5411,7 +5797,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年天津公务员考试《行测》第110题",
-    "province": "天津"
+    "province": "天津",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-tianjin-2015-未标注-111-2",
@@ -5448,7 +5836,9 @@
     "difficulty": "中等",
     "source": "2015年天津公务员考试《行测》第111题",
     "isImageQuestion": true,
-    "province": "天津"
+    "province": "天津",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-tianjin-2015-未标注-112-2",
@@ -5485,7 +5875,9 @@
     "difficulty": "中等",
     "source": "2015年天津公务员考试《行测》第112题",
     "isImageQuestion": true,
-    "province": "天津"
+    "province": "天津",
+    "subModule": "图形材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-tianjin-2015-未标注-113-2",
@@ -5522,7 +5914,9 @@
     "difficulty": "中等",
     "source": "2015年天津公务员考试《行测》第113题",
     "isImageQuestion": true,
-    "province": "天津"
+    "province": "天津",
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-tianjin-2015-未标注-114-2",
@@ -5559,7 +5953,9 @@
     "difficulty": "中等",
     "source": "2015年天津公务员考试《行测》第114题",
     "isImageQuestion": true,
-    "province": "天津"
+    "province": "天津",
+    "subModule": "图形材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-tianjin-2015-未标注-115-2",
@@ -5597,7 +5993,9 @@
     "difficulty": "中等",
     "source": "2015年天津公务员考试《行测》第115题",
     "isImageQuestion": true,
-    "province": "天津"
+    "province": "天津",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-tianjin-2015-未标注-116-2",
@@ -5634,7 +6032,9 @@
     "difficulty": "中等",
     "source": "2015年天津公务员考试《行测》第116题",
     "isImageQuestion": true,
-    "province": "天津"
+    "province": "天津",
+    "subModule": "图形材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-tianjin-2015-未标注-117-2",
@@ -5671,7 +6071,9 @@
     "difficulty": "中等",
     "source": "2015年天津公务员考试《行测》第117题",
     "isImageQuestion": true,
-    "province": "天津"
+    "province": "天津",
+    "subModule": "图形材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-tianjin-2015-未标注-118-2",
@@ -5709,7 +6111,9 @@
     "difficulty": "中等",
     "source": "2015年天津公务员考试《行测》第118题",
     "isImageQuestion": true,
-    "province": "天津"
+    "province": "天津",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-tianjin-2015-未标注-119-2",
@@ -5747,7 +6151,9 @@
     "difficulty": "中等",
     "source": "2015年天津公务员考试《行测》第119题",
     "isImageQuestion": true,
-    "province": "天津"
+    "province": "天津",
+    "subModule": "综合材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-tianjin-2015-未标注-120-2",
@@ -5784,7 +6190,9 @@
     "difficulty": "中等",
     "source": "2015年天津公务员考试《行测》第120题",
     "isImageQuestion": true,
-    "province": "天津"
+    "province": "天津",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-tianjin-2016-423联考-101",
@@ -5821,7 +6229,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年天津公务员考试《行测》（423联考）第101题",
-    "province": "天津"
+    "province": "天津",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-tianjin-2016-423联考-102",
@@ -5857,7 +6267,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年天津公务员考试《行测》（423联考）第102题",
-    "province": "天津"
+    "province": "天津",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-tianjin-2016-423联考-103",
@@ -5892,7 +6304,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年天津公务员考试《行测》（423联考）第103题",
-    "province": "天津"
+    "province": "天津",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-tianjin-2016-423联考-104",
@@ -5928,7 +6342,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年天津公务员考试《行测》（423联考）第104题",
-    "province": "天津"
+    "province": "天津",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-tianjin-2016-423联考-105",
@@ -5963,7 +6379,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年天津公务员考试《行测》（423联考）第105题",
-    "province": "天津"
+    "province": "天津",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-tianjin-2016-423联考-106",
@@ -5998,7 +6416,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年天津公务员考试《行测》（423联考）第106题",
-    "province": "天津"
+    "province": "天津",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-tianjin-2016-423联考-107",
@@ -6035,7 +6455,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年天津公务员考试《行测》（423联考）第107题",
-    "province": "天津"
+    "province": "天津",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-tianjin-2016-423联考-108",
@@ -6070,7 +6492,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年天津公务员考试《行测》（423联考）第108题",
-    "province": "天津"
+    "province": "天津",
+    "subModule": "综合材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-tianjin-2016-423联考-109",
@@ -6105,6 +6529,8 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年天津公务员考试《行测》（423联考）第109题",
-    "province": "天津"
+    "province": "天津",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   }
 ]

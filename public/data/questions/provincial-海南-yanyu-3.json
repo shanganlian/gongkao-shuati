@@ -31,7 +31,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2022年海南公务员考试《行测》第41题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2022-未标注-42",
@@ -47,7 +49,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2022年海南公务员考试《行测》第42题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "片段阅读",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-hainan-2022-未标注-43",
@@ -83,7 +87,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2022年海南公务员考试《行测》第43题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2022-未标注-44",
@@ -118,7 +124,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2022年海南公务员考试《行测》第44题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2022-未标注-45",
@@ -154,7 +162,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2022年海南公务员考试《行测》第45题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2022-未标注-46",
@@ -190,7 +200,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2022年海南公务员考试《行测》第46题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2022-未标注-47",
@@ -225,7 +237,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2022年海南公务员考试《行测》第47题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2022-未标注-48",
@@ -261,7 +275,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2022年海南公务员考试《行测》第48题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "语句表达",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2022-未标注-49",
@@ -296,7 +312,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2022年海南公务员考试《行测》第49题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2022-未标注-50",
@@ -331,7 +349,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2022年海南公务员考试《行测》第50题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2023-未标注-26",
@@ -365,7 +385,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2023年海南公务员考试《行测》第26题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2023-未标注-27",
@@ -399,7 +421,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2023年海南公务员考试《行测》第27题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2023-未标注-28",
@@ -433,7 +457,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2023年海南公务员考试《行测》第28题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2023-未标注-29",
@@ -467,7 +493,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2023年海南公务员考试《行测》第29题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2023-未标注-30",
@@ -501,7 +529,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2023年海南公务员考试《行测》第30题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2023-未标注-31",
@@ -536,7 +566,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2023年海南公务员考试《行测》第31题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2023-未标注-32",
@@ -570,7 +602,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2023年海南公务员考试《行测》第32题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2023-未标注-33",
@@ -604,7 +638,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2023年海南公务员考试《行测》第33题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2023-未标注-34",
@@ -638,7 +674,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2023年海南公务员考试《行测》第34题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2023-未标注-35",
@@ -673,7 +711,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2023年海南公务员考试《行测》第35题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2023-未标注-36",
@@ -707,7 +747,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2023年海南公务员考试《行测》第36题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2023-未标注-37",
@@ -741,7 +783,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2023年海南公务员考试《行测》第37题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2023-未标注-38",
@@ -775,7 +819,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2023年海南公务员考试《行测》第38题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2023-未标注-39",
@@ -810,7 +856,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2023年海南公务员考试《行测》第39题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2023-未标注-40",
@@ -844,7 +892,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2023年海南公务员考试《行测》第40题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2023-未标注-41",
@@ -878,7 +928,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2023年海南公务员考试《行测》第41题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2023-未标注-42",
@@ -913,7 +965,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2023年海南公务员考试《行测》第42题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2023-未标注-43",
@@ -947,7 +1001,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2023年海南公务员考试《行测》第43题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2023-未标注-44",
@@ -982,7 +1038,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2023年海南公务员考试《行测》第44题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "语句表达",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2023-未标注-45",
@@ -1017,7 +1075,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2023年海南公务员考试《行测》第45题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2023-未标注-46",
@@ -1051,7 +1111,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2023年海南公务员考试《行测》第46题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2023-未标注-47",
@@ -1085,7 +1147,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2023年海南公务员考试《行测》第47题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2023-未标注-48",
@@ -1119,7 +1183,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2023年海南公务员考试《行测》第48题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2023-未标注-49",
@@ -1154,7 +1220,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2023年海南公务员考试《行测》第49题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2023-未标注-50",
@@ -1190,7 +1258,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2023年海南公务员考试《行测》第50题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "语句表达",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2023-未标注-51",
@@ -1224,7 +1294,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2023年海南公务员考试《行测》第51题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2023-未标注-52",
@@ -1259,7 +1331,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2023年海南公务员考试《行测》第52题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2023-未标注-53",
@@ -1294,7 +1368,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2023年海南公务员考试《行测》第53题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2023-未标注-54",
@@ -1329,7 +1405,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2023年海南公务员考试《行测》第54题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2023-未标注-55",
@@ -1364,7 +1442,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2023年海南公务员考试《行测》第55题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2024-未标注-21",
@@ -1398,7 +1478,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年海南公务员考试《行测》第21题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2024-未标注-22",
@@ -1430,7 +1512,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年海南公务员考试《行测》第22题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2024-未标注-23",
@@ -1462,7 +1546,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年海南公务员考试《行测》第23题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2024-未标注-24",
@@ -1494,7 +1580,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年海南公务员考试《行测》第24题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2024-未标注-25",
@@ -1526,7 +1614,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年海南公务员考试《行测》第25题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2024-未标注-26",
@@ -1558,7 +1648,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年海南公务员考试《行测》第26题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2024-未标注-27",
@@ -1590,7 +1682,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年海南公务员考试《行测》第27题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2024-未标注-28",
@@ -1622,7 +1716,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年海南公务员考试《行测》第28题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2024-未标注-29",
@@ -1654,7 +1750,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年海南公务员考试《行测》第29题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2024-未标注-30",
@@ -1686,7 +1784,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年海南公务员考试《行测》第30题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2024-未标注-31",
@@ -1720,7 +1820,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年海南公务员考试《行测》第31题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2024-未标注-32",
@@ -1752,7 +1854,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年海南公务员考试《行测》第32题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2024-未标注-33",
@@ -1784,7 +1888,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年海南公务员考试《行测》第33题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2024-未标注-34",
@@ -1816,7 +1922,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年海南公务员考试《行测》第34题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2024-未标注-35",
@@ -1848,7 +1956,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年海南公务员考试《行测》第35题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2024-未标注-36",
@@ -1883,7 +1993,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年海南公务员考试《行测》第36题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2024-未标注-37",
@@ -1919,7 +2031,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年海南公务员考试《行测》第37题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2024-未标注-38",
@@ -1953,7 +2067,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年海南公务员考试《行测》第38题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2024-未标注-39",
@@ -1985,7 +2101,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年海南公务员考试《行测》第39题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2024-未标注-40",
@@ -2017,7 +2135,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年海南公务员考试《行测》第40题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2024-未标注-41",
@@ -2051,7 +2171,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年海南公务员考试《行测》第41题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "语句表达",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2024-未标注-42",
@@ -2085,7 +2207,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年海南公务员考试《行测》第42题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2024-未标注-43",
@@ -2119,7 +2243,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年海南公务员考试《行测》第43题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "语句表达",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2024-未标注-44",
@@ -2151,7 +2277,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年海南公务员考试《行测》第44题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2024-未标注-45",
@@ -2185,7 +2313,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年海南公务员考试《行测》第45题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2024-未标注-46",
@@ -2219,7 +2349,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年海南公务员考试《行测》第46题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2024-未标注-47",
@@ -2235,7 +2367,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2024年海南公务员考试《行测》第47题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "片段阅读",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-hainan-2024-未标注-48",
@@ -2271,7 +2405,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年海南公务员考试《行测》第48题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2024-未标注-49",
@@ -2306,7 +2442,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年海南公务员考试《行测》第49题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2024-未标注-50",
@@ -2341,7 +2479,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年海南公务员考试《行测》第50题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2025-未标注-31",
@@ -2376,7 +2516,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年海南公务员考试《行测》第31题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2025-未标注-32",
@@ -2411,7 +2553,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年海南公务员考试《行测》第32题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2025-未标注-33",
@@ -2446,7 +2590,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年海南公务员考试《行测》第33题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2025-未标注-34",
@@ -2480,7 +2626,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年海南公务员考试《行测》第34题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2025-未标注-35",
@@ -2514,7 +2662,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年海南公务员考试《行测》第35题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2025-未标注-36",
@@ -2548,7 +2698,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年海南公务员考试《行测》第36题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2025-未标注-37",
@@ -2582,7 +2734,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年海南公务员考试《行测》第37题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2025-未标注-38",
@@ -2616,7 +2770,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年海南公务员考试《行测》第38题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2025-未标注-39",
@@ -2650,7 +2806,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年海南公务员考试《行测》第39题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2025-未标注-40",
@@ -2684,7 +2842,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年海南公务员考试《行测》第40题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2025-未标注-41",
@@ -2718,7 +2878,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年海南公务员考试《行测》第41题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2025-未标注-42",
@@ -2752,7 +2914,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年海南公务员考试《行测》第42题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2025-未标注-43",
@@ -2787,7 +2951,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年海南公务员考试《行测》第43题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "语句表达",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2025-未标注-44",
@@ -2822,7 +2988,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年海南公务员考试《行测》第44题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2025-未标注-45",
@@ -2858,7 +3026,9 @@
     "difficulty": "中等",
     "source": "2025年海南公务员考试《行测》第45题",
     "isImageQuestion": true,
-    "province": "海南"
+    "province": "海南",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2025-未标注-46",
@@ -2892,7 +3062,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年海南公务员考试《行测》第46题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2025-未标注-47",
@@ -2926,7 +3098,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年海南公务员考试《行测》第47题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2025-未标注-48",
@@ -2961,7 +3135,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年海南公务员考试《行测》第48题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2025-未标注-49",
@@ -2996,7 +3172,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年海南公务员考试《行测》第49题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2025-未标注-50",
@@ -3031,7 +3209,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年海南公务员考试《行测》第50题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "语句表达",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2025-未标注-51",
@@ -3066,7 +3246,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年海南公务员考试《行测》第51题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "语句表达",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2025-未标注-52",
@@ -3100,7 +3282,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年海南公务员考试《行测》第52题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2025-未标注-53",
@@ -3135,7 +3319,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年海南公务员考试《行测》第53题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2025-未标注-54",
@@ -3166,7 +3352,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年海南公务员考试《行测》第54题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2025-未标注-55",
@@ -3201,6 +3389,8 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年海南公务员考试《行测》第55题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   }
 ]

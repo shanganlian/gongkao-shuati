@@ -7,11 +7,30 @@ import {
   CandidateCard, 
   ExaminerCard, 
   InterviewRoom, 
-  CommunityPost 
+  CommunityPost,
+  GrowthBadge
 } from '../types';
 import knowledgeTreeRaw from './knowledge.json';
 
 export const KNOWLEDGE_TREE: KnowledgeChapter[] = knowledgeTreeRaw as KnowledgeChapter[];
+
+/**
+ * 事业编（事考）数据钩子开关。
+ * 现状：题库暂无事业编数据（全库仅 1 道历史遗留测试题），因此前端所有事业编入口
+ * （目标考试下拉、真题试卷、通关秘籍、学习计划目标考试）均已隐藏，避免挂空选项误导用户。
+ * 恢复方式：待事业编数据源接入后，把此开关改为 true 即可，无需改动各组件代码。
+ */
+export const PUBLIC_INSTITUTION_ENABLED = false;
+
+/**
+ * 备考社区（打卡广场）总开关。
+ * 现状：社区内容依赖演示数据，真实用户量不足以支撑互勉氛围，先整体下线入口
+ * （导航卡片、移动端 Tab、首页跳转、每日打卡 CTA 均不再指向社区）。
+ * 恢复条件：注册用户 ≥ 1000（真实打卡与心得分享池足够），把此开关改为 true 即可；
+ * 组件与数据代码全部保留，未删除任何实现。
+ * 注意：社区组件只做展示，打卡记录仍由 activityStats 本机账本记录，下线不影响成长线。
+ */
+export const COMMUNITY_ENABLED = false;
 
 export const EXAM_MODULE_NAMES: Record<string, string> = {
   changshi: '常识判断',
@@ -148,6 +167,18 @@ export const ALL_PROVINCES: string[] = Array.from(
   new Set(MOCK_QUESTIONS.map(q => q.province).filter((p): p is string => !!p))
 ).sort();
 
+// 省考「省份筛选」下拉框选项：按考生使用频次排序（江浙粤鲁等报考大省在前），
+// 不含「全部省份」；联考不是省份（全库仅 1 题单独标 联考，且每个省份视图已自动包含联考题），故不列入。
+// 「深圳 / 广州」在数据里独立成省（单列市考，共 3,162 题），必须列出，否则去掉「全部省份」后无法触达。
+export const PROVINCE_LIST_BY_FREQUENCY: string[] = [
+  '江苏', '浙江', '广东', '山东', '上海', '北京',
+  '河南', '四川', '湖北', '湖南', '河北', '安徽',
+  '福建', '江西', '深圳', '广州',
+  '陕西', '山西', '天津', '重庆', '辽宁', '吉林', '黑龙江',
+  '云南', '贵州', '广西', '内蒙古', '甘肃', '新疆', '海南',
+  '宁夏', '青海', '西藏'
+];
+
 // 31 个省级行政区（不含港澳台）+ 联考，用于省份筛选下拉框
 export const PROVINCE_LIST: string[] = [
   '北京', '天津', '上海', '重庆',
@@ -183,6 +214,7 @@ export const MOCK_PAPERS: Paper[] = [
     difficulty: '省考标杆卷 · 侧重基层与综合'
   },
   {
+    // 事业编（事考）试卷：题库暂无数据，默认隐藏入口（PUBLIC_INSTITUTION_ENABLED 打开后自动恢复）
     id: 'paper-2025-sy-tongkao',
     title: '2025年全国事业单位统考《职业能力倾向测验》（综合管理A类）',
     category: 'public_institution',
@@ -277,6 +309,7 @@ export const MOCK_KNOWLEDGE_POINTS: KnowledgePoint[] = [
     coreConcepts: ['因果倒置', '幸存者偏差', '充分必要条件', '排他性验证']
   },
   {
+    // 事业编（事考）知识点：题库暂无数据，默认隐藏入口（PUBLIC_INSTITUTION_ENABLED 打开后自动恢复）
     id: 'kp-4',
     module: 'changshi',
     category: 'public_institution',
@@ -508,58 +541,54 @@ export const MOCK_INTERVIEW_ROOMS: InterviewRoom[] = [
   }
 ];
 
-export const MOCK_GROWTH_BADGES = [
+export const MOCK_GROWTH_BADGES: GrowthBadge[] = [
   {
     id: 'b-1',
     name: '按部就班 · 日拱一卒',
-    category: 'consistency' as const,
-    description: '连续完成每日两题长线思维晨练达 30 天，不浮躁不急功。',
-    isUnlocked: true,
-    earnedDate: '2026-09-15',
-    tier: 'gold' as const
+    category: 'consistency',
+    description: '累计完成每日两题长线思维晨练达 30 天，不浮躁不急功。',
+    isUnlocked: false,
+    tier: 'gold'
   },
   {
     id: 'b-2',
     name: '申论立论 · 官样笔锋',
-    category: 'mindset' as const,
-    description: '掌握大作文五段三分法，在每日晨练中形成严密公职逻辑链。',
-    isUnlocked: true,
-    earnedDate: '2026-09-20',
-    tier: 'jade' as const
+    category: 'mindset',
+    description: '完成首日每日两题晨练，开始积累公职视角与破题逻辑链。',
+    isUnlocked: false,
+    tier: 'jade'
   },
   {
     id: 'b-3',
     name: '考场自若 · 破除胆怯',
-    category: 'interview' as const,
-    description: '使用自录视频功能完成首次结构化全流程答题复盘，直视镜头。',
-    isUnlocked: true,
-    earnedDate: '2026-09-22',
-    tier: 'silver' as const
+    category: 'interview',
+    description: '完成首次结构化面试开口练习并生成复盘报告，直视镜头。',
+    isUnlocked: false,
+    tier: 'silver'
   },
   {
     id: 'b-4',
     name: '群策破局 · 善谋通达',
-    category: 'interview' as const,
-    description: '在无领导小组讨论中成功担任“框架搭建者”，促成全员共识。',
+    category: 'interview',
+    description: '累计完成 3 场面试对练，逐步形成群策破局的协作与表达框架。',
     isUnlocked: false,
-    tier: 'jade' as const
+    tier: 'jade'
   },
   {
     id: 'b-5',
     name: '资料秒杀 · 敏睿若神',
-    category: 'practice' as const,
-    description: '资料分析掌握两期比重与基期差值速算法，真题达标率突破85%。',
-    isUnlocked: true,
-    earnedDate: '2026-09-24',
-    tier: 'silver' as const
+    category: 'practice',
+    description: '资料分析累计作答 5 题且正确率达到 85%，速算模型稳固。',
+    isUnlocked: false,
+    tier: 'silver'
   },
   {
     id: 'b-6',
     name: '静水流深 · 六十日坚守',
-    category: 'consistency' as const,
+    category: 'consistency',
     description: '连续坚持长线备战 60 天，把成年人的思考方式化为本能。',
     isUnlocked: false,
-    tier: 'gold' as const
+    tier: 'gold'
   }
 ];
 

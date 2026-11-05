@@ -33,7 +33,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年上海公务员考试《行测》（B卷）第56题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "语句表达",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2015-B卷-57",
@@ -62,7 +64,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年上海公务员考试《行测》（B卷）第57题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "语句表达",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2015-B卷-58",
@@ -78,7 +82,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2015年上海公务员考试《行测》（B卷）第58题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "片段阅读",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2015-B卷-59",
@@ -114,7 +120,10 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年上海公务员考试《行测》（B卷）第59题",
-    "province": "上海"
+    "province": "上海",
+    "isAbnormal": true,
+    "subModule": "语句表达",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2015-B卷-60",
@@ -151,7 +160,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年上海公务员考试《行测》（B卷）第60题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "语句表达",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2015-B卷-61",
@@ -188,7 +199,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年上海公务员考试《行测》（B卷）第61题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2015-B卷-62",
@@ -224,7 +237,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年上海公务员考试《行测》（B卷）第62题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2015-B卷-63",
@@ -260,7 +275,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年上海公务员考试《行测》（B卷）第63题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2015-B卷-64",
@@ -295,7 +312,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年上海公务员考试《行测》（B卷）第64题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2015-B卷-65",
@@ -331,7 +350,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年上海公务员考试《行测》（B卷）第65题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2015-B卷-66",
@@ -367,7 +388,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年上海公务员考试《行测》（B卷）第66题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2015-B卷-67",
@@ -404,7 +427,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年上海公务员考试《行测》（B卷）第67题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2015-B卷-68",
@@ -441,7 +466,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年上海公务员考试《行测》（B卷）第68题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2015-B卷-69",
@@ -477,7 +504,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年上海公务员考试《行测》（B卷）第69题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2015-B卷-70",
@@ -512,7 +541,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年上海公务员考试《行测》（B卷）第70题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2015-B卷-71",
@@ -548,7 +579,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年上海公务员考试《行测》（B卷）第71题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2015-B卷-72",
@@ -584,7 +617,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年上海公务员考试《行测》（B卷）第72题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "篇章阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2015-B卷-73",
@@ -621,7 +656,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年上海公务员考试《行测》（B卷）第73题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2015-B卷-74",
@@ -654,7 +691,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年上海公务员考试《行测》（B卷）第74题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2015-B卷-75",
@@ -690,7 +729,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年上海公务员考试《行测》（B卷）第75题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2016-A卷-34",
@@ -725,7 +766,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年上海公务员考试《行测》（A卷）第34题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2016-A卷-35",
@@ -743,7 +786,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年上海公务员考试《行测》（A卷）第35题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2016-A卷-36",
@@ -779,7 +824,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年上海公务员考试《行测》（A卷）第36题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2016-A卷-37",
@@ -815,7 +862,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年上海公务员考试《行测》（A卷）第37题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2016-A卷-38",
@@ -852,7 +901,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年上海公务员考试《行测》（A卷）第38题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2016-A卷-39",
@@ -885,7 +936,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年上海公务员考试《行测》（A卷）第39题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "语句表达",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2016-A卷-40",
@@ -918,7 +971,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年上海公务员考试《行测》（A卷）第40题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "语句表达",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2016-A卷-41",
@@ -951,7 +1006,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年上海公务员考试《行测》（A卷）第41题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2016-A卷-42",
@@ -987,7 +1044,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年上海公务员考试《行测》（A卷）第42题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "语句表达",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2016-A卷-43",
@@ -1022,7 +1081,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年上海公务员考试《行测》（A卷）第43题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "语句表达",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2016-A卷-44",
@@ -1055,7 +1116,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年上海公务员考试《行测》（A卷）第44题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "语句表达",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2016-A卷-45",
@@ -1090,7 +1153,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年上海公务员考试《行测》（A卷）第45题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2016-A卷-46",
@@ -1125,7 +1190,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年上海公务员考试《行测》（A卷）第46题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2016-A卷-47",
@@ -1160,7 +1227,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年上海公务员考试《行测》（A卷）第47题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "语句表达",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2016-A卷-48",
@@ -1197,7 +1266,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年上海公务员考试《行测》（A卷）第48题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2016-A卷-49",
@@ -1233,7 +1304,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年上海公务员考试《行测》（A卷）第49题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2016-A卷-50",
@@ -1268,7 +1341,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年上海公务员考试《行测》（A卷）第50题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2016-A卷-51",
@@ -1305,7 +1380,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年上海公务员考试《行测》（A卷）第51题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2016-A卷-52",
@@ -1338,7 +1415,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年上海公务员考试《行测》（A卷）第52题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2016-A卷-53",
@@ -1371,7 +1450,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年上海公务员考试《行测》（A卷）第53题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2016-A卷-54",
@@ -1404,7 +1485,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年上海公务员考试《行测》（A卷）第54题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2016-B卷-21",
@@ -1440,7 +1523,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年上海公务员考试《行测》（B卷）第21题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "片段阅读",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2016-B卷-22",
@@ -1475,7 +1560,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年上海公务员考试《行测》（B卷）第22题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "片段阅读",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2016-B卷-23",
@@ -1510,7 +1597,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年上海公务员考试《行测》（B卷）第23题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "片段阅读",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2016-B卷-24",
@@ -1545,7 +1634,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年上海公务员考试《行测》（B卷）第24题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "片段阅读",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2016-B卷-25",
@@ -1579,7 +1670,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年上海公务员考试《行测》（B卷）第25题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2016-B卷-26",
@@ -1615,7 +1708,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年上海公务员考试《行测》（B卷）第26题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2016-B卷-27",
@@ -1650,7 +1745,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年上海公务员考试《行测》（B卷）第27题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "片段阅读",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2016-B卷-28",
@@ -1682,7 +1779,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年上海公务员考试《行测》（B卷）第28题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "片段阅读",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2016-B卷-29",
@@ -1717,7 +1816,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年上海公务员考试《行测》（B卷）第29题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "片段阅读",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2016-B卷-30",
@@ -1753,7 +1854,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年上海公务员考试《行测》（B卷）第30题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "片段阅读",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2016-B卷-31",
@@ -1787,7 +1890,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年上海公务员考试《行测》（B卷）第31题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "片段阅读",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2016-B卷-32",
@@ -1822,7 +1927,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年上海公务员考试《行测》（B卷）第32题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "片段阅读",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2016-B卷-33",
@@ -1857,7 +1964,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年上海公务员考试《行测》（B卷）第33题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2016-B卷-34",
@@ -1891,7 +2000,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年上海公务员考试《行测》（B卷）第34题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "片段阅读",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2016-B卷-35",
@@ -1923,7 +2034,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年上海公务员考试《行测》（B卷）第35题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2016-B卷-36",
@@ -1958,7 +2071,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年上海公务员考试《行测》（B卷）第36题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2016-B卷-37",
@@ -1992,7 +2107,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年上海公务员考试《行测》（B卷）第37题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "片段阅读",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2016-B卷-38",
@@ -2027,7 +2144,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年上海公务员考试《行测》（B卷）第38题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "片段阅读",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2016-B卷-39",
@@ -2061,7 +2180,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年上海公务员考试《行测》（B卷）第39题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "片段阅读",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2016-B卷-40",
@@ -2096,7 +2217,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年上海公务员考试《行测》（B卷）第40题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "片段阅读",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2016-B卷-41",
@@ -2128,7 +2251,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年上海公务员考试《行测》（B卷）第41题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "片段阅读",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2016-B卷-42",
@@ -2162,7 +2287,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年上海公务员考试《行测》（B卷）第42题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "片段阅读",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2016-B卷-43",
@@ -2197,7 +2324,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年上海公务员考试《行测》（B卷）第43题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "片段阅读",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2016-B卷-44",
@@ -2231,7 +2360,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年上海公务员考试《行测》（B卷）第44题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "片段阅读",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2016-B卷-45",
@@ -2266,7 +2397,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年上海公务员考试《行测》（B卷）第45题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "片段阅读",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2016-B卷-46",
@@ -2301,7 +2434,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年上海公务员考试《行测》（B卷）第46题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "片段阅读",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2016-B卷-47",
@@ -2337,7 +2472,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年上海公务员考试《行测》（B卷）第47题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "语句表达",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2016-B卷-48",
@@ -2371,7 +2508,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年上海公务员考试《行测》（B卷）第48题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "语句表达",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2016-B卷-49",
@@ -2407,7 +2546,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年上海公务员考试《行测》（B卷）第49题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "片段阅读",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2016-B卷-50",
@@ -2441,7 +2582,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年上海公务员考试《行测》（B卷）第50题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "语句表达",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2016-B卷-51",
@@ -2476,7 +2619,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年上海公务员考试《行测》（B卷）第51题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2016-B卷-52",
@@ -2512,7 +2657,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年上海公务员考试《行测》（B卷）第52题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2016-B卷-53",
@@ -2548,7 +2695,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年上海公务员考试《行测》（B卷）第53题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2016-B卷-54",
@@ -2584,7 +2733,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年上海公务员考试《行测》（B卷）第54题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2016-B卷-55",
@@ -2619,7 +2770,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年上海公务员考试《行测》（B卷）第55题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2016-B卷-56",
@@ -2653,7 +2806,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年上海公务员考试《行测》（B卷）第56题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "语句表达",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2016-B卷-57",
@@ -2688,7 +2843,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年上海公务员考试《行测》（B卷）第57题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "语句表达",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2016-B卷-58",
@@ -2722,7 +2879,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年上海公务员考试《行测》（B卷）第58题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "语句表达",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2016-B卷-59",
@@ -2757,7 +2916,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年上海公务员考试《行测》（B卷）第59题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "语句表达",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2016-B卷-60",
@@ -2792,7 +2953,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年上海公务员考试《行测》（B卷）第60题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "语句表达",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2016-B卷-61",
@@ -2826,7 +2989,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年上海公务员考试《行测》（B卷）第61题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2016-B卷-62",
@@ -2860,7 +3025,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年上海公务员考试《行测》（B卷）第62题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "语句表达",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2016-B卷-63",
@@ -2895,7 +3062,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年上海公务员考试《行测》（B卷）第63题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2016-B卷-64",
@@ -2930,7 +3099,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年上海公务员考试《行测》（B卷）第64题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "语句表达",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2016-B卷-65",
@@ -2965,7 +3136,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年上海公务员考试《行测》（B卷）第65题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2016-B卷-66",
@@ -2999,7 +3172,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年上海公务员考试《行测》（B卷）第66题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2016-B卷-67",
@@ -3033,7 +3208,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年上海公务员考试《行测》（B卷）第67题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "语句表达",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2016-B卷-68",
@@ -3068,7 +3245,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年上海公务员考试《行测》（B卷）第68题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2016-B卷-69",
@@ -3103,7 +3282,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年上海公务员考试《行测》（B卷）第69题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2016-B卷-70",
@@ -3139,7 +3320,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年上海公务员考试《行测》（B卷）第70题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2016-B卷-71",
@@ -3174,7 +3357,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年上海公务员考试《行测》（B卷）第71题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2016-B卷-72",
@@ -3206,7 +3391,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年上海公务员考试《行测》（B卷）第72题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2016-B卷-73",
@@ -3241,7 +3428,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年上海公务员考试《行测》（B卷）第73题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2016-B卷-74",
@@ -3276,7 +3465,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年上海公务员考试《行测》（B卷）第74题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2016-B卷-75",
@@ -3311,7 +3502,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年上海公务员考试《行测》（B卷）第75题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2016-B卷-76",
@@ -3331,7 +3524,10 @@
     "difficulty": "中等",
     "source": "2016年上海公务员考试《行测》（B卷）第76题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "isAbnormal": true,
+    "subModule": "片段阅读",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2016-B卷-77",
@@ -3365,7 +3561,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年上海公务员考试《行测》（B卷）第77题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "片段阅读",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2016-B卷-78",
@@ -3397,7 +3595,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年上海公务员考试《行测》（B卷）第78题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "片段阅读",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2016-B卷-79",
@@ -3433,7 +3633,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年上海公务员考试《行测》（B卷）第79题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "片段阅读",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2016-B卷-80",
@@ -3468,7 +3670,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年上海公务员考试《行测》（B卷）第80题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "片段阅读",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2016-B卷-81",
@@ -3503,7 +3707,10 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年上海公务员考试《行测》（B卷）第81题",
-    "province": "上海"
+    "province": "上海",
+    "isAbnormal": true,
+    "subModule": "语句表达",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2016-B卷-82",
@@ -3538,7 +3745,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年上海公务员考试《行测》（B卷）第82题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "语句表达",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2016-B卷-83",
@@ -3574,7 +3783,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年上海公务员考试《行测》（B卷）第83题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "片段阅读",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2016-B卷-84",
@@ -3610,7 +3821,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年上海公务员考试《行测》（B卷）第84题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "片段阅读",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2016-B卷-85",
@@ -3646,7 +3859,9 @@
     "difficulty": "中等",
     "source": "2016年上海公务员考试《行测》（B卷）第85题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "片段阅读",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2017-未标注-30",
@@ -3681,7 +3896,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年上海公务员考试《行测》第30题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "语句表达",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2017-未标注-31",
@@ -3716,7 +3933,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年上海公务员考试《行测》第31题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2017-未标注-32",
@@ -3751,7 +3970,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年上海公务员考试《行测》第32题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "语句表达",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2017-未标注-33",
@@ -3786,7 +4007,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年上海公务员考试《行测》第33题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2017-未标注-34",
@@ -3821,7 +4044,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年上海公务员考试《行测》第34题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2017-未标注-35",
@@ -3856,7 +4081,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年上海公务员考试《行测》第35题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2017-未标注-36",
@@ -3892,7 +4119,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年上海公务员考试《行测》第36题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2017-未标注-37",
@@ -3927,7 +4156,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年上海公务员考试《行测》第37题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2017-未标注-38",
@@ -3962,7 +4193,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年上海公务员考试《行测》第38题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2017-未标注-39",
@@ -3998,7 +4231,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年上海公务员考试《行测》第39题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2017-未标注-40",
@@ -4033,7 +4268,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年上海公务员考试《行测》第40题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2017-未标注-41",
@@ -4069,7 +4306,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年上海公务员考试《行测》第41题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2017-未标注-42",
@@ -4105,7 +4344,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年上海公务员考试《行测》第42题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2017-未标注-43",
@@ -4140,7 +4381,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年上海公务员考试《行测》第43题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2017-未标注-44",
@@ -4173,7 +4416,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年上海公务员考试《行测》第44题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2017-未标注-45",
@@ -4206,7 +4451,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年上海公务员考试《行测》第45题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2017-未标注-46",
@@ -4242,7 +4489,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年上海公务员考试《行测》第46题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2017-未标注-47",
@@ -4279,7 +4528,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年上海公务员考试《行测》第47题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2017-未标注-48",
@@ -4316,7 +4567,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年上海公务员考试《行测》第48题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2017-未标注-49",
@@ -4352,7 +4605,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年上海公务员考试《行测》第49题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2017-未标注-50",
@@ -4388,7 +4643,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年上海公务员考试《行测》第50题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2018-未标注-21",
@@ -4423,7 +4680,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年上海公务员考试《行测》第21题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "片段阅读",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2018-未标注-22",
@@ -4458,7 +4717,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年上海公务员考试《行测》第22题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "片段阅读",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2018-未标注-23",
@@ -4492,7 +4753,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年上海公务员考试《行测》第23题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "片段阅读",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2018-未标注-24",
@@ -4527,7 +4790,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年上海公务员考试《行测》第24题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "片段阅读",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2018-未标注-25",
@@ -4561,7 +4826,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年上海公务员考试《行测》第25题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "片段阅读",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2018-未标注-26",
@@ -4595,7 +4862,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年上海公务员考试《行测》第26题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "片段阅读",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2018-未标注-27",
@@ -4630,7 +4899,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年上海公务员考试《行测》第27题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "片段阅读",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2018-未标注-28",
@@ -4664,7 +4935,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年上海公务员考试《行测》第28题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "片段阅读",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2018-未标注-29",
@@ -4699,7 +4972,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年上海公务员考试《行测》第29题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "片段阅读",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2018-未标注-30",
@@ -4734,7 +5009,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年上海公务员考试《行测》第30题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "片段阅读",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2018-未标注-31",
@@ -4769,7 +5046,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年上海公务员考试《行测》第31题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "片段阅读",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2018-未标注-32",
@@ -4804,7 +5083,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年上海公务员考试《行测》第32题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "片段阅读",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2018-未标注-33",
@@ -4839,7 +5120,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年上海公务员考试《行测》第33题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "片段阅读",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2018-未标注-34",
@@ -4873,7 +5156,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年上海公务员考试《行测》第34题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "片段阅读",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2018-未标注-35",
@@ -4908,7 +5193,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年上海公务员考试《行测》第35题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "片段阅读",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2018-未标注-36",
@@ -4943,7 +5230,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年上海公务员考试《行测》第36题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "片段阅读",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2018-未标注-37",
@@ -4978,7 +5267,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年上海公务员考试《行测》第37题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "片段阅读",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2018-未标注-38",
@@ -5012,7 +5303,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年上海公务员考试《行测》第38题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2018-未标注-39",
@@ -5047,7 +5340,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年上海公务员考试《行测》第39题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "片段阅读",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2018-未标注-40",
@@ -5081,7 +5376,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年上海公务员考试《行测》第40题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "片段阅读",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2018-未标注-41",
@@ -5116,7 +5413,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年上海公务员考试《行测》第41题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "片段阅读",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2018-未标注-42",
@@ -5148,7 +5447,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年上海公务员考试《行测》第42题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "片段阅读",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2018-未标注-43",
@@ -5183,7 +5484,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年上海公务员考试《行测》第43题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "片段阅读",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2018-未标注-44",
@@ -5218,7 +5521,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年上海公务员考试《行测》第44题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "片段阅读",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2018-未标注-45",
@@ -5253,7 +5558,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年上海公务员考试《行测》第45题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "片段阅读",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2018-未标注-46",
@@ -5288,7 +5595,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年上海公务员考试《行测》第46题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2018-未标注-47",
@@ -5322,7 +5631,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年上海公务员考试《行测》第47题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "片段阅读",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2018-未标注-48",
@@ -5357,7 +5668,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年上海公务员考试《行测》第48题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "片段阅读",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2018-未标注-49",
@@ -5392,7 +5705,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年上海公务员考试《行测》第49题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "片段阅读",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2018-未标注-50",
@@ -5427,7 +5742,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年上海公务员考试《行测》第50题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "片段阅读",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2018-未标注-51",
@@ -5462,7 +5779,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年上海公务员考试《行测》第51题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2018-未标注-52",
@@ -5497,7 +5816,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年上海公务员考试《行测》第52题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "片段阅读",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2018-未标注-53",
@@ -5531,7 +5852,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年上海公务员考试《行测》第53题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "片段阅读",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2018-未标注-54",
@@ -5566,7 +5889,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年上海公务员考试《行测》第54题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "片段阅读",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2018-未标注-55",
@@ -5601,7 +5926,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年上海公务员考试《行测》第55题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "片段阅读",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2018-A卷-46",
@@ -5637,7 +5964,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年上海公务员考试《行测》（A卷）第46题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2018-A卷-47",
@@ -5652,7 +5981,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年上海公务员考试《行测》（A卷）第47题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2018-A卷-48",
@@ -5689,7 +6020,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年上海公务员考试《行测》（A卷）第48题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2018-A卷-49",
@@ -5726,7 +6059,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年上海公务员考试《行测》（A卷）第49题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2018-A卷-50",
@@ -5758,7 +6093,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年上海公务员考试《行测》（A卷）第50题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2018-A卷-51",
@@ -5791,7 +6128,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年上海公务员考试《行测》（A卷）第51题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "语句表达",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2018-A卷-52",
@@ -5827,7 +6166,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年上海公务员考试《行测》（A卷）第52题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "语句表达",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2018-A卷-53",
@@ -5864,7 +6205,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年上海公务员考试《行测》（A卷）第53题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "语句表达",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2018-A卷-54",
@@ -5901,7 +6244,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年上海公务员考试《行测》（A卷）第54题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "语句表达",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2018-A卷-55",
@@ -5937,7 +6282,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年上海公务员考试《行测》（A卷）第55题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2018-A卷-56",
@@ -5973,7 +6320,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年上海公务员考试《行测》（A卷）第56题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2018-A卷-57",
@@ -6009,7 +6358,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年上海公务员考试《行测》（A卷）第57题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "语句表达",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2018-A卷-58",
@@ -6045,7 +6396,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年上海公务员考试《行测》（A卷）第58题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2018-A卷-59",
@@ -6082,7 +6435,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年上海公务员考试《行测》（A卷）第59题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2018-A卷-60",
@@ -6118,7 +6473,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年上海公务员考试《行测》（A卷）第60题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2018-A卷-61",
@@ -6155,7 +6512,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年上海公务员考试《行测》（A卷）第61题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2018-A卷-62",
@@ -6190,7 +6549,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年上海公务员考试《行测》（A卷）第62题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2018-A卷-63",
@@ -6227,7 +6588,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年上海公务员考试《行测》（A卷）第63题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2018-A卷-64",
@@ -6263,7 +6626,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年上海公务员考试《行测》（A卷）第64题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "语句表达",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2018-A卷-65",
@@ -6298,7 +6663,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年上海公务员考试《行测》（A卷）第65题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2018-A卷-66",
@@ -6333,7 +6700,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年上海公务员考试《行测》（A卷）第66题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2018-A卷-67",
@@ -6370,7 +6739,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年上海公务员考试《行测》（A卷）第67题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2018-A卷-68",
@@ -6405,7 +6776,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年上海公务员考试《行测》（A卷）第68题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2018-A卷-69",
@@ -6441,7 +6814,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年上海公务员考试《行测》（A卷）第69题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2018-A卷-70",
@@ -6477,7 +6852,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年上海公务员考试《行测》（A卷）第70题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2018-B类-1",
@@ -6511,7 +6888,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年上海公务员考试《行测》（B类）第1题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2018-B类-2",
@@ -6543,7 +6922,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年上海公务员考试《行测》（B类）第2题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2018-B类-3",
@@ -6579,7 +6960,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年上海公务员考试《行测》（B类）第3题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2018-B类-4",
@@ -6611,7 +6994,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年上海公务员考试《行测》（B类）第4题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2018-B类-5",
@@ -6646,7 +7031,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年上海公务员考试《行测》（B类）第5题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2018-B类-6",
@@ -6681,7 +7068,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年上海公务员考试《行测》（B类）第6题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "语句表达",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2018-B类-7",
@@ -6715,7 +7104,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年上海公务员考试《行测》（B类）第7题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "语句表达",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2018-B类-8",
@@ -6750,7 +7141,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年上海公务员考试《行测》（B类）第8题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "语句表达",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2018-B类-9",
@@ -6784,7 +7177,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年上海公务员考试《行测》（B类）第9题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "语句表达",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2018-B类-10",
@@ -6819,7 +7214,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年上海公务员考试《行测》（B类）第10题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "语句表达",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2018-B类-11",
@@ -6853,7 +7250,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年上海公务员考试《行测》（B类）第11题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2018-B类-12",
@@ -6887,7 +7286,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年上海公务员考试《行测》（B类）第12题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2018-B类-13",
@@ -6921,6 +7322,8 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年上海公务员考试《行测》（B类）第13题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   }
 ]

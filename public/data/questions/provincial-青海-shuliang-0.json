@@ -33,7 +33,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2010年青海公务员考试《行测》（918联考）第31题",
-    "province": "青海"
+    "province": "青海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2010-918联考-32",
@@ -49,7 +51,10 @@
     "difficulty": "拔高",
     "source": "2010年青海公务员考试《行测》（918联考）第32题",
     "isImageQuestion": true,
-    "province": "青海"
+    "province": "青海",
+    "isAbnormal": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-qinghai-2010-918联考-33",
@@ -85,7 +90,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2010年青海公务员考试《行测》（918联考）第33题",
-    "province": "青海"
+    "province": "青海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2010-918联考-34",
@@ -120,7 +127,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2010年青海公务员考试《行测》（918联考）第34题",
-    "province": "青海"
+    "province": "青海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2010-918联考-35",
@@ -156,7 +165,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2010年青海公务员考试《行测》（918联考）第35题",
-    "province": "青海"
+    "province": "青海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2010-918联考-36",
@@ -192,7 +203,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2010年青海公务员考试《行测》（918联考）第36题",
-    "province": "青海"
+    "province": "青海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2010-918联考-37",
@@ -228,7 +241,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2010年青海公务员考试《行测》（918联考）第37题",
-    "province": "青海"
+    "province": "青海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2010-918联考-38",
@@ -263,7 +278,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2010年青海公务员考试《行测》（918联考）第38题",
-    "province": "青海"
+    "province": "青海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2010-918联考-39",
@@ -298,7 +315,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2010年青海公务员考试《行测》（918联考）第39题",
-    "province": "青海"
+    "province": "青海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2010-918联考-40",
@@ -333,7 +352,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2010年青海公务员考试《行测》（918联考）第40题",
-    "province": "青海"
+    "province": "青海",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2010-918联考-41",
@@ -368,7 +389,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2010年青海公务员考试《行测》（918联考）第41题",
-    "province": "青海"
+    "province": "青海",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2010-918联考-42",
@@ -403,7 +426,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2010年青海公务员考试《行测》（918联考）第42题",
-    "province": "青海"
+    "province": "青海",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2010-918联考-43",
@@ -437,7 +462,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2010年青海公务员考试《行测》（918联考）第43题",
-    "province": "青海"
+    "province": "青海",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2010-918联考-44",
@@ -474,7 +501,9 @@
     "difficulty": "拔高",
     "source": "2010年青海公务员考试《行测》（918联考）第44题",
     "isImageQuestion": true,
-    "province": "青海"
+    "province": "青海",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2010-918联考-45",
@@ -506,7 +535,9 @@
     "difficulty": "拔高",
     "source": "2010年青海公务员考试《行测》（918联考）第45题",
     "isImageQuestion": true,
-    "province": "青海"
+    "province": "青海",
+    "subModule": "几何",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-qinghai-2011-424联考-41",
@@ -542,7 +573,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2011年青海公务员考试《行测》（424联考）第41题",
-    "province": "青海"
+    "province": "青海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2011-424联考-42",
@@ -576,7 +609,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2011年青海公务员考试《行测》（424联考）第42题",
-    "province": "青海"
+    "province": "青海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2011-424联考-43",
@@ -608,7 +643,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2011年青海公务员考试《行测》（424联考）第43题",
-    "province": "青海"
+    "province": "青海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2011-424联考-44",
@@ -642,7 +679,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2011年青海公务员考试《行测》（424联考）第44题",
-    "province": "青海"
+    "province": "青海",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2011-424联考-45",
@@ -677,7 +716,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2011年青海公务员考试《行测》（424联考）第45题",
-    "province": "青海"
+    "province": "青海",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2011-424联考-46",
@@ -711,7 +752,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2011年青海公务员考试《行测》（424联考）第46题",
-    "province": "青海"
+    "province": "青海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2011-424联考-47",
@@ -746,7 +789,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2011年青海公务员考试《行测》（424联考）第47题",
-    "province": "青海"
+    "province": "青海",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2011-424联考-48",
@@ -780,7 +825,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2011年青海公务员考试《行测》（424联考）第48题",
-    "province": "青海"
+    "province": "青海",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2011-424联考-49",
@@ -814,7 +861,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2011年青海公务员考试《行测》（424联考）第49题",
-    "province": "青海"
+    "province": "青海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2011-424联考-50",
@@ -850,7 +899,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2011年青海公务员考试《行测》（424联考）第50题",
-    "province": "青海"
+    "province": "青海",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2012-421联考-51",
@@ -884,7 +935,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2012年青海公务员考试《行测》（421联考）第51题",
-    "province": "青海"
+    "province": "青海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2012-421联考-52",
@@ -919,7 +972,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2012年青海公务员考试《行测》（421联考）第52题",
-    "province": "青海"
+    "province": "青海",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2012-421联考-53",
@@ -953,7 +1008,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2012年青海公务员考试《行测》（421联考）第53题",
-    "province": "青海"
+    "province": "青海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2012-421联考-54",
@@ -988,7 +1045,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2012年青海公务员考试《行测》（421联考）第54题",
-    "province": "青海"
+    "province": "青海",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2012-421联考-55",
@@ -1008,7 +1067,10 @@
     "difficulty": "拔高",
     "source": "2012年青海公务员考试《行测》（421联考）第55题",
     "isImageQuestion": true,
-    "province": "青海"
+    "province": "青海",
+    "isAbnormal": true,
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2012-421联考-56",
@@ -1043,7 +1105,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2012年青海公务员考试《行测》（421联考）第56题",
-    "province": "青海"
+    "province": "青海",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2012-421联考-57",
@@ -1079,7 +1143,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2012年青海公务员考试《行测》（421联考）第57题",
-    "province": "青海"
+    "province": "青海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2012-421联考-58",
@@ -1113,7 +1179,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2012年青海公务员考试《行测》（421联考）第58题",
-    "province": "青海"
+    "province": "青海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2012-421联考-59",
@@ -1147,7 +1215,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2012年青海公务员考试《行测》（421联考）第59题",
-    "province": "青海"
+    "province": "青海",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2012-421联考-60",
@@ -1167,7 +1237,10 @@
     "difficulty": "拔高",
     "source": "2012年青海公务员考试《行测》（421联考）第60题",
     "isImageQuestion": true,
-    "province": "青海"
+    "province": "青海",
+    "isAbnormal": true,
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2012-421联考-61",
@@ -1201,7 +1274,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2012年青海公务员考试《行测》（421联考）第61题",
-    "province": "青海"
+    "province": "青海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2012-421联考-62",
@@ -1236,7 +1311,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2012年青海公务员考试《行测》（421联考）第62题",
-    "province": "青海"
+    "province": "青海",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2012-421联考-63",
@@ -1271,7 +1348,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2012年青海公务员考试《行测》（421联考）第63题",
-    "province": "青海"
+    "province": "青海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2012-421联考-64",
@@ -1306,7 +1385,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2012年青海公务员考试《行测》（421联考）第64题",
-    "province": "青海"
+    "province": "青海",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2012-421联考-65",
@@ -1342,7 +1423,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2012年青海公务员考试《行测》（421联考）第65题",
-    "province": "青海"
+    "province": "青海",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2014-未标注-56",
@@ -1377,7 +1460,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2014年青海公务员考试《行测》第56题",
-    "province": "青海"
+    "province": "青海",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2014-未标注-57",
@@ -1413,7 +1498,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2014年青海公务员考试《行测》第57题",
-    "province": "青海"
+    "province": "青海",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2014-未标注-58",
@@ -1448,7 +1535,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2014年青海公务员考试《行测》第58题",
-    "province": "青海"
+    "province": "青海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2014-未标注-59",
@@ -1483,7 +1572,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2014年青海公务员考试《行测》第59题",
-    "province": "青海"
+    "province": "青海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2014-未标注-60",
@@ -1519,7 +1610,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2014年青海公务员考试《行测》第60题",
-    "province": "青海"
+    "province": "青海",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2014-未标注-61",
@@ -1554,7 +1647,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2014年青海公务员考试《行测》第61题",
-    "province": "青海"
+    "province": "青海",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2014-未标注-62",
@@ -1588,7 +1683,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2014年青海公务员考试《行测》第62题",
-    "province": "青海"
+    "province": "青海",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2014-未标注-63",
@@ -1620,7 +1717,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2014年青海公务员考试《行测》第63题",
-    "province": "青海"
+    "province": "青海",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2014-未标注-64",
@@ -1655,7 +1754,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2014年青海公务员考试《行测》第64题",
-    "province": "青海"
+    "province": "青海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2014-未标注-65",
@@ -1690,7 +1791,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2014年青海公务员考试《行测》第65题",
-    "province": "青海"
+    "province": "青海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-qinghai-2015-425联考-61",
@@ -1723,7 +1826,9 @@
     "difficulty": "拔高",
     "source": "2015年青海公务员考试《行测》（425联考）第61题",
     "isImageQuestion": true,
-    "province": "青海"
+    "province": "青海",
+    "subModule": "几何",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-qinghai-2015-425联考-62",
@@ -1757,7 +1862,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2015年青海公务员考试《行测》（425联考）第62题",
-    "province": "青海"
+    "province": "青海",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2015-425联考-63",
@@ -1789,7 +1896,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2015年青海公务员考试《行测》（425联考）第63题",
-    "province": "青海"
+    "province": "青海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2015-425联考-64",
@@ -1823,7 +1932,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2015年青海公务员考试《行测》（425联考）第64题",
-    "province": "青海"
+    "province": "青海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2015-425联考-65",
@@ -1858,7 +1969,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2015年青海公务员考试《行测》（425联考）第65题",
-    "province": "青海"
+    "province": "青海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-qinghai-2015-425联考-66",
@@ -1892,7 +2005,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2015年青海公务员考试《行测》（425联考）第66题",
-    "province": "青海"
+    "province": "青海",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2015-425联考-67",
@@ -1928,7 +2043,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2015年青海公务员考试《行测》（425联考）第67题",
-    "province": "青海"
+    "province": "青海",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2015-425联考-68",
@@ -1962,7 +2079,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2015年青海公务员考试《行测》（425联考）第68题",
-    "province": "青海"
+    "province": "青海",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2015-425联考-69",
@@ -1998,7 +2117,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2015年青海公务员考试《行测》（425联考）第69题",
-    "province": "青海"
+    "province": "青海",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2015-425联考-70",
@@ -2033,7 +2154,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2015年青海公务员考试《行测》（425联考）第70题",
-    "province": "青海"
+    "province": "青海",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2016-423联考-61",
@@ -2067,7 +2190,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2016年青海公务员考试《行测》（423联考）第61题",
-    "province": "青海"
+    "province": "青海",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2016-423联考-62",
@@ -2103,7 +2228,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2016年青海公务员考试《行测》（423联考）第62题",
-    "province": "青海"
+    "province": "青海",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2016-423联考-63",
@@ -2137,7 +2264,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2016年青海公务员考试《行测》（423联考）第63题",
-    "province": "青海"
+    "province": "青海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2016-423联考-64",
@@ -2155,7 +2284,10 @@
     "difficulty": "拔高",
     "source": "2016年青海公务员考试《行测》（423联考）第64题",
     "isImageQuestion": true,
-    "province": "青海"
+    "province": "青海",
+    "isAbnormal": true,
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2016-423联考-65",
@@ -2189,7 +2321,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2016年青海公务员考试《行测》（423联考）第65题",
-    "province": "青海"
+    "province": "青海",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2016-423联考-66",
@@ -2225,7 +2359,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2016年青海公务员考试《行测》（423联考）第66题",
-    "province": "青海"
+    "province": "青海",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2016-423联考-67",
@@ -2259,7 +2395,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2016年青海公务员考试《行测》（423联考）第67题",
-    "province": "青海"
+    "province": "青海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2016-423联考-68",
@@ -2294,7 +2432,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2016年青海公务员考试《行测》（423联考）第68题",
-    "province": "青海"
+    "province": "青海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2016-423联考-69",
@@ -2328,7 +2468,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2016年青海公务员考试《行测》（423联考）第69题",
-    "province": "青海"
+    "province": "青海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2016-423联考-70",
@@ -2363,7 +2505,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2016年青海公务员考试《行测》（423联考）第70题",
-    "province": "青海"
+    "province": "青海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2017-422联考-61",
@@ -2397,7 +2541,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2017年青海公务员考试《行测》（422联考）第61题",
-    "province": "青海"
+    "province": "青海",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2017-422联考-62",
@@ -2432,7 +2578,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2017年青海公务员考试《行测》（422联考）第62题",
-    "province": "青海"
+    "province": "青海",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2017-422联考-63",
@@ -2468,7 +2616,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2017年青海公务员考试《行测》（422联考）第63题",
-    "province": "青海"
+    "province": "青海",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2017-422联考-64",
@@ -2505,7 +2655,9 @@
     "difficulty": "拔高",
     "source": "2017年青海公务员考试《行测》（422联考）第64题",
     "isImageQuestion": true,
-    "province": "青海"
+    "province": "青海",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2017-422联考-65",
@@ -2540,7 +2692,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2017年青海公务员考试《行测》（422联考）第65题",
-    "province": "青海"
+    "province": "青海",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2017-422联考-66",
@@ -2574,7 +2728,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2017年青海公务员考试《行测》（422联考）第66题",
-    "province": "青海"
+    "province": "青海",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2017-422联考-67",
@@ -2607,7 +2763,9 @@
     "difficulty": "拔高",
     "source": "2017年青海公务员考试《行测》（422联考）第67题",
     "isImageQuestion": true,
-    "province": "青海"
+    "province": "青海",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2017-422联考-68",
@@ -2641,7 +2799,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2017年青海公务员考试《行测》（422联考）第68题",
-    "province": "青海"
+    "province": "青海",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2017-422联考-69",
@@ -2674,7 +2834,9 @@
     "difficulty": "拔高",
     "source": "2017年青海公务员考试《行测》（422联考）第69题",
     "isImageQuestion": true,
-    "province": "青海"
+    "province": "青海",
+    "subModule": "几何",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-qinghai-2017-422联考-70",
@@ -2708,7 +2870,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2017年青海公务员考试《行测》（422联考）第70题",
-    "province": "青海"
+    "province": "青海",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2018-未标注-56",
@@ -2742,7 +2906,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2018年青海公务员考试《行测》第56题",
-    "province": "青海"
+    "province": "青海",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2018-未标注-57",
@@ -2776,7 +2942,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2018年青海公务员考试《行测》第57题",
-    "province": "青海"
+    "province": "青海",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2018-未标注-58",
@@ -2811,7 +2979,9 @@
     "difficulty": "拔高",
     "source": "2018年青海公务员考试《行测》第58题",
     "isImageQuestion": true,
-    "province": "青海"
+    "province": "青海",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2018-未标注-59",
@@ -2845,7 +3015,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2018年青海公务员考试《行测》第59题",
-    "province": "青海"
+    "province": "青海",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2018-未标注-60",
@@ -2880,7 +3052,9 @@
     "difficulty": "拔高",
     "source": "2018年青海公务员考试《行测》第60题",
     "isImageQuestion": true,
-    "province": "青海"
+    "province": "青海",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2018-未标注-61",
@@ -2914,7 +3088,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2018年青海公务员考试《行测》第61题",
-    "province": "青海"
+    "province": "青海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2018-未标注-62",
@@ -2949,7 +3125,9 @@
     "difficulty": "拔高",
     "source": "2018年青海公务员考试《行测》第62题",
     "isImageQuestion": true,
-    "province": "青海"
+    "province": "青海",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2018-未标注-63",
@@ -2983,7 +3161,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2018年青海公务员考试《行测》第63题",
-    "province": "青海"
+    "province": "青海",
+    "subModule": "几何",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-qinghai-2018-未标注-64",
@@ -3017,7 +3197,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2018年青海公务员考试《行测》第64题",
-    "province": "青海"
+    "province": "青海",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2018-未标注-65",
@@ -3051,7 +3233,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2018年青海公务员考试《行测》第65题",
-    "province": "青海"
+    "province": "青海",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2019-未标注-76",
@@ -3086,7 +3270,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年青海公务员考试《行测》第76题",
-    "province": "青海"
+    "province": "青海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2019-未标注-77",
@@ -3122,7 +3308,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年青海公务员考试《行测》第77题",
-    "province": "青海"
+    "province": "青海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2019-未标注-78",
@@ -3155,7 +3343,9 @@
     "difficulty": "拔高",
     "source": "2019年青海公务员考试《行测》第78题",
     "isImageQuestion": true,
-    "province": "青海"
+    "province": "青海",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2019-未标注-79",
@@ -3191,7 +3381,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年青海公务员考试《行测》第79题",
-    "province": "青海"
+    "province": "青海",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2019-未标注-80",
@@ -3226,7 +3418,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年青海公务员考试《行测》第80题",
-    "province": "青海"
+    "province": "青海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2019-未标注-81",
@@ -3260,7 +3454,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年青海公务员考试《行测》第81题",
-    "province": "青海"
+    "province": "青海",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2019-未标注-82",
@@ -3296,7 +3492,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年青海公务员考试《行测》第82题",
-    "province": "青海"
+    "province": "青海",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2019-未标注-83",
@@ -3332,7 +3530,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年青海公务员考试《行测》第83题",
-    "province": "青海"
+    "province": "青海",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2019-未标注-84",
@@ -3368,7 +3568,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年青海公务员考试《行测》第84题",
-    "province": "青海"
+    "province": "青海",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2019-未标注-85",
@@ -3404,7 +3606,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年青海公务员考试《行测》第85题",
-    "province": "青海"
+    "province": "青海",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2019-未标注-56-2",
@@ -3439,7 +3643,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年青海公务员考试《行测》第56题",
-    "province": "青海"
+    "province": "青海",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2019-未标注-57-2",
@@ -3474,7 +3680,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年青海公务员考试《行测》第57题",
-    "province": "青海"
+    "province": "青海",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2019-未标注-58-2",
@@ -3509,7 +3717,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年青海公务员考试《行测》第58题",
-    "province": "青海"
+    "province": "青海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2019-未标注-59-2",
@@ -3543,7 +3753,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年青海公务员考试《行测》第59题",
-    "province": "青海"
+    "province": "青海",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2019-未标注-60-2",
@@ -3579,7 +3791,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年青海公务员考试《行测》第60题",
-    "province": "青海"
+    "province": "青海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2019-未标注-61-2",
@@ -3615,7 +3829,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年青海公务员考试《行测》第61题",
-    "province": "青海"
+    "province": "青海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2019-未标注-62-2",
@@ -3651,7 +3867,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年青海公务员考试《行测》第62题",
-    "province": "青海"
+    "province": "青海",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2019-未标注-63-2",
@@ -3686,7 +3904,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年青海公务员考试《行测》第63题",
-    "province": "青海"
+    "province": "青海",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2019-未标注-64-2",
@@ -3721,7 +3941,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年青海公务员考试《行测》第64题",
-    "province": "青海"
+    "province": "青海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2019-未标注-65-2",
@@ -3756,7 +3978,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年青海公务员考试《行测》第65题",
-    "province": "青海"
+    "province": "青海",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2020-A卷-66",
@@ -3792,7 +4016,9 @@
     "difficulty": "拔高",
     "source": "2020年青海公务员考试《行测》（A卷）第66题",
     "isImageQuestion": true,
-    "province": "青海"
+    "province": "青海",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2020-A卷-67",
@@ -3827,7 +4053,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2020年青海公务员考试《行测》（A卷）第67题",
-    "province": "青海"
+    "province": "青海",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2020-A卷-68",
@@ -3862,7 +4090,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2020年青海公务员考试《行测》（A卷）第68题",
-    "province": "青海"
+    "province": "青海",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2020-A卷-69",
@@ -3898,7 +4128,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2020年青海公务员考试《行测》（A卷）第69题",
-    "province": "青海"
+    "province": "青海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2020-A卷-70",
@@ -3917,7 +4149,10 @@
     "difficulty": "拔高",
     "source": "2020年青海公务员考试《行测》（A卷）第70题",
     "isImageQuestion": true,
-    "province": "青海"
+    "province": "青海",
+    "isAbnormal": true,
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2020-A卷-71",
@@ -3951,7 +4186,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2020年青海公务员考试《行测》（A卷）第71题",
-    "province": "青海"
+    "province": "青海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2020-A卷-72",
@@ -3986,7 +4223,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2020年青海公务员考试《行测》（A卷）第72题",
-    "province": "青海"
+    "province": "青海",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2020-A卷-73",
@@ -4021,7 +4260,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2020年青海公务员考试《行测》（A卷）第73题",
-    "province": "青海"
+    "province": "青海",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2020-A卷-74",
@@ -4057,7 +4298,9 @@
     "difficulty": "拔高",
     "source": "2020年青海公务员考试《行测》（A卷）第74题",
     "isImageQuestion": true,
-    "province": "青海"
+    "province": "青海",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2020-A卷-75",
@@ -4090,7 +4333,9 @@
     "difficulty": "拔高",
     "source": "2020年青海公务员考试《行测》（A卷）第75题",
     "isImageQuestion": true,
-    "province": "青海"
+    "province": "青海",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2020-A卷-76",
@@ -4125,7 +4370,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2020年青海公务员考试《行测》（A卷）第76题",
-    "province": "青海"
+    "province": "青海",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2020-A卷-77",
@@ -4144,7 +4391,10 @@
     "difficulty": "拔高",
     "source": "2020年青海公务员考试《行测》（A卷）第77题",
     "isImageQuestion": true,
-    "province": "青海"
+    "province": "青海",
+    "isAbnormal": true,
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2020-A卷-78",
@@ -4164,7 +4414,10 @@
     "difficulty": "拔高",
     "source": "2020年青海公务员考试《行测》（A卷）第78题",
     "isImageQuestion": true,
-    "province": "青海"
+    "province": "青海",
+    "isAbnormal": true,
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2020-A卷-79",
@@ -4199,7 +4452,9 @@
     "difficulty": "拔高",
     "source": "2020年青海公务员考试《行测》（A卷）第79题",
     "isImageQuestion": true,
-    "province": "青海"
+    "province": "青海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2020-A卷-80",
@@ -4234,7 +4489,9 @@
     "difficulty": "拔高",
     "source": "2020年青海公务员考试《行测》（A卷）第80题",
     "isImageQuestion": true,
-    "province": "青海"
+    "province": "青海",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2020-B卷-66",
@@ -4269,7 +4526,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2020年青海公务员考试《行测》（B卷）第66题",
-    "province": "青海"
+    "province": "青海",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2020-B卷-67",
@@ -4304,7 +4563,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2020年青海公务员考试《行测》（B卷）第67题",
-    "province": "青海"
+    "province": "青海",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2020-B卷-68",
@@ -4341,7 +4602,9 @@
     "difficulty": "拔高",
     "source": "2020年青海公务员考试《行测》（B卷）第68题",
     "isImageQuestion": true,
-    "province": "青海"
+    "province": "青海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-qinghai-2020-B卷-69",
@@ -4360,7 +4623,10 @@
     "difficulty": "拔高",
     "source": "2020年青海公务员考试《行测》（B卷）第69题",
     "isImageQuestion": true,
-    "province": "青海"
+    "province": "青海",
+    "isAbnormal": true,
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2020-B卷-70",
@@ -4394,7 +4660,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2020年青海公务员考试《行测》（B卷）第70题",
-    "province": "青海"
+    "province": "青海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2020-B卷-71",
@@ -4430,7 +4698,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2020年青海公务员考试《行测》（B卷）第71题",
-    "province": "青海"
+    "province": "青海",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2020-B卷-72",
@@ -4465,7 +4735,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2020年青海公务员考试《行测》（B卷）第72题",
-    "province": "青海"
+    "province": "青海",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2020-B卷-73",
@@ -4500,7 +4772,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2020年青海公务员考试《行测》（B卷）第73题",
-    "province": "青海"
+    "province": "青海",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2020-B卷-74",
@@ -4519,7 +4793,10 @@
     "difficulty": "拔高",
     "source": "2020年青海公务员考试《行测》（B卷）第74题",
     "isImageQuestion": true,
-    "province": "青海"
+    "province": "青海",
+    "isAbnormal": true,
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2020-B卷-75",
@@ -4539,7 +4816,10 @@
     "difficulty": "拔高",
     "source": "2020年青海公务员考试《行测》（B卷）第75题",
     "isImageQuestion": true,
-    "province": "青海"
+    "province": "青海",
+    "isAbnormal": true,
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2020-B卷-76",
@@ -4574,7 +4854,9 @@
     "difficulty": "拔高",
     "source": "2020年青海公务员考试《行测》（B卷）第76题",
     "isImageQuestion": true,
-    "province": "青海"
+    "province": "青海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2020-B卷-77",
@@ -4609,7 +4891,9 @@
     "difficulty": "拔高",
     "source": "2020年青海公务员考试《行测》（B卷）第77题",
     "isImageQuestion": true,
-    "province": "青海"
+    "province": "青海",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2020-B卷-78",
@@ -4643,7 +4927,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2020年青海公务员考试《行测》（B卷）第78题",
-    "province": "青海"
+    "province": "青海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2020-B卷-79",
@@ -4679,7 +4965,9 @@
     "difficulty": "拔高",
     "source": "2020年青海公务员考试《行测》（B卷）第79题",
     "isImageQuestion": true,
-    "province": "青海"
+    "province": "青海",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2020-B卷-80",
@@ -4714,7 +5002,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2020年青海公务员考试《行测》（B卷）第80题",
-    "province": "青海"
+    "province": "青海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2020-C卷-61",
@@ -4749,7 +5039,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2020年青海公务员考试《行测》（C卷）第61题",
-    "province": "青海"
+    "province": "青海",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2020-C卷-62",
@@ -4785,7 +5077,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2020年青海公务员考试《行测》（C卷）第62题",
-    "province": "青海"
+    "province": "青海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2020-C卷-63",
@@ -4804,7 +5098,10 @@
     "difficulty": "拔高",
     "source": "2020年青海公务员考试《行测》（C卷）第63题",
     "isImageQuestion": true,
-    "province": "青海"
+    "province": "青海",
+    "isAbnormal": true,
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2020-C卷-64",
@@ -4840,7 +5137,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2020年青海公务员考试《行测》（C卷）第64题",
-    "province": "青海"
+    "province": "青海",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2020-C卷-65",
@@ -4875,7 +5174,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2020年青海公务员考试《行测》（C卷）第65题",
-    "province": "青海"
+    "province": "青海",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2020-C卷-66",
@@ -4911,7 +5212,9 @@
     "difficulty": "拔高",
     "source": "2020年青海公务员考试《行测》（C卷）第66题",
     "isImageQuestion": true,
-    "province": "青海"
+    "province": "青海",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2020-C卷-67",
@@ -4943,7 +5246,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2020年青海公务员考试《行测》（C卷）第67题",
-    "province": "青海"
+    "province": "青海",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2020-C卷-68",
@@ -4963,7 +5268,10 @@
     "difficulty": "拔高",
     "source": "2020年青海公务员考试《行测》（C卷）第68题",
     "isImageQuestion": true,
-    "province": "青海"
+    "province": "青海",
+    "isAbnormal": true,
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2020-C卷-69",
@@ -4983,7 +5291,10 @@
     "difficulty": "拔高",
     "source": "2020年青海公务员考试《行测》（C卷）第69题",
     "isImageQuestion": true,
-    "province": "青海"
+    "province": "青海",
+    "isAbnormal": true,
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2020-C卷-70",
@@ -5018,7 +5329,9 @@
     "difficulty": "拔高",
     "source": "2020年青海公务员考试《行测》（C卷）第70题",
     "isImageQuestion": true,
-    "province": "青海"
+    "province": "青海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2020-C卷-71",
@@ -5053,7 +5366,9 @@
     "difficulty": "拔高",
     "source": "2020年青海公务员考试《行测》（C卷）第71题",
     "isImageQuestion": true,
-    "province": "青海"
+    "province": "青海",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2020-C卷-72",
@@ -5087,7 +5402,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2020年青海公务员考试《行测》（C卷）第72题",
-    "province": "青海"
+    "province": "青海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2020-C卷-73",
@@ -5123,7 +5440,9 @@
     "difficulty": "拔高",
     "source": "2020年青海公务员考试《行测》（C卷）第73题",
     "isImageQuestion": true,
-    "province": "青海"
+    "province": "青海",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2020-C卷-74",
@@ -5158,7 +5477,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2020年青海公务员考试《行测》（C卷）第74题",
-    "province": "青海"
+    "province": "青海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2020-C卷-75",
@@ -5193,7 +5514,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2020年青海公务员考试《行测》（C卷）第75题",
-    "province": "青海"
+    "province": "青海",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2022-未标注-61",
@@ -5225,7 +5548,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2022年青海公务员考试《行测》第61题",
-    "province": "青海"
+    "province": "青海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2022-未标注-62",
@@ -5257,7 +5582,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2022年青海公务员考试《行测》第62题",
-    "province": "青海"
+    "province": "青海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2022-未标注-63",
@@ -5289,7 +5616,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2022年青海公务员考试《行测》第63题",
-    "province": "青海"
+    "province": "青海",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2022-未标注-64",
@@ -5321,7 +5650,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2022年青海公务员考试《行测》第64题",
-    "province": "青海"
+    "province": "青海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2022-未标注-65",
@@ -5353,7 +5684,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2022年青海公务员考试《行测》第65题",
-    "province": "青海"
+    "province": "青海",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2022-未标注-66",
@@ -5385,7 +5718,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2022年青海公务员考试《行测》第66题",
-    "province": "青海"
+    "province": "青海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2022-未标注-67",
@@ -5417,7 +5752,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2022年青海公务员考试《行测》第67题",
-    "province": "青海"
+    "province": "青海",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2022-未标注-68",
@@ -5449,7 +5786,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2022年青海公务员考试《行测》第68题",
-    "province": "青海"
+    "province": "青海",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2022-未标注-69",
@@ -5482,7 +5821,9 @@
     "difficulty": "拔高",
     "source": "2022年青海公务员考试《行测》第69题",
     "isImageQuestion": true,
-    "province": "青海"
+    "province": "青海",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2022-未标注-70",
@@ -5515,7 +5856,9 @@
     "difficulty": "拔高",
     "source": "2022年青海公务员考试《行测》第70题",
     "isImageQuestion": true,
-    "province": "青海"
+    "province": "青海",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2023-未标注-56",
@@ -5550,7 +5893,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2023年青海公务员考试《行测》第56题",
-    "province": "青海"
+    "province": "青海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-qinghai-2023-未标注-57",
@@ -5586,7 +5931,9 @@
     "difficulty": "拔高",
     "source": "2023年青海公务员考试《行测》第57题",
     "isImageQuestion": true,
-    "province": "青海"
+    "province": "青海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-qinghai-2023-未标注-58",
@@ -5620,7 +5967,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2023年青海公务员考试《行测》第58题",
-    "province": "青海"
+    "province": "青海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-qinghai-2023-未标注-59",
@@ -5655,7 +6004,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2023年青海公务员考试《行测》第59题",
-    "province": "青海"
+    "province": "青海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-qinghai-2023-未标注-60",
@@ -5689,7 +6040,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2023年青海公务员考试《行测》第60题",
-    "province": "青海"
+    "province": "青海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-qinghai-2023-未标注-61",
@@ -5725,7 +6078,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2023年青海公务员考试《行测》第61题",
-    "province": "青海"
+    "province": "青海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2023-未标注-62",
@@ -5760,7 +6115,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2023年青海公务员考试《行测》第62题",
-    "province": "青海"
+    "province": "青海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2023-未标注-63",
@@ -5780,7 +6137,10 @@
     "difficulty": "拔高",
     "source": "2023年青海公务员考试《行测》第63题",
     "isImageQuestion": true,
-    "province": "青海"
+    "province": "青海",
+    "isAbnormal": true,
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2023-未标注-64",
@@ -5814,7 +6174,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2023年青海公务员考试《行测》第64题",
-    "province": "青海"
+    "province": "青海",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2023-未标注-65",
@@ -5850,7 +6212,9 @@
     "difficulty": "拔高",
     "source": "2023年青海公务员考试《行测》第65题",
     "isImageQuestion": true,
-    "province": "青海"
+    "province": "青海",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2023-未标注-66",
@@ -5886,7 +6250,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2023年青海公务员考试《行测》第66题",
-    "province": "青海"
+    "province": "青海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2023-未标注-67",
@@ -5923,7 +6289,9 @@
     "difficulty": "拔高",
     "source": "2023年青海公务员考试《行测》第67题",
     "isImageQuestion": true,
-    "province": "青海"
+    "province": "青海",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2023-未标注-68",
@@ -5959,7 +6327,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2023年青海公务员考试《行测》第68题",
-    "province": "青海"
+    "province": "青海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2023-未标注-69",
@@ -5992,7 +6362,9 @@
     "difficulty": "拔高",
     "source": "2023年青海公务员考试《行测》第69题",
     "isImageQuestion": true,
-    "province": "青海"
+    "province": "青海",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2023-未标注-70",
@@ -6026,7 +6398,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2023年青海公务员考试《行测》第70题",
-    "province": "青海"
+    "province": "青海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2024-未标注-61",
@@ -6062,7 +6436,9 @@
     "difficulty": "拔高",
     "source": "2024年青海公务员考试《行测》第61题",
     "isImageQuestion": true,
-    "province": "青海"
+    "province": "青海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2024-未标注-62",
@@ -6098,7 +6474,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2024年青海公务员考试《行测》第62题",
-    "province": "青海"
+    "province": "青海",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2024-未标注-63",
@@ -6133,7 +6511,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2024年青海公务员考试《行测》第63题",
-    "province": "青海"
+    "province": "青海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2024-未标注-64",
@@ -6170,7 +6550,9 @@
     "difficulty": "拔高",
     "source": "2024年青海公务员考试《行测》第64题",
     "isImageQuestion": true,
-    "province": "青海"
+    "province": "青海",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2024-未标注-65",
@@ -6204,7 +6586,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2024年青海公务员考试《行测》第65题",
-    "province": "青海"
+    "province": "青海",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2024-未标注-66",
@@ -6222,7 +6606,10 @@
     "difficulty": "拔高",
     "source": "2024年青海公务员考试《行测》第66题",
     "isImageQuestion": true,
-    "province": "青海"
+    "province": "青海",
+    "isAbnormal": true,
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2024-未标注-67",
@@ -6256,7 +6643,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2024年青海公务员考试《行测》第67题",
-    "province": "青海"
+    "province": "青海",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2024-未标注-68",
@@ -6292,7 +6681,9 @@
     "difficulty": "拔高",
     "source": "2024年青海公务员考试《行测》第68题",
     "isImageQuestion": true,
-    "province": "青海"
+    "province": "青海",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2024-未标注-69",
@@ -6328,7 +6719,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2024年青海公务员考试《行测》第69题",
-    "province": "青海"
+    "province": "青海",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2024-未标注-70",
@@ -6363,7 +6756,10 @@
     "difficulty": "拔高",
     "source": "2024年青海公务员考试《行测》第70题",
     "isImageQuestion": true,
-    "province": "青海"
+    "province": "青海",
+    "isAbnormal": true,
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2025-未标注-56",
@@ -6399,7 +6795,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年青海公务员考试《行测》第56题",
-    "province": "青海"
+    "province": "青海",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2025-未标注-57",
@@ -6434,7 +6832,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年青海公务员考试《行测》第57题",
-    "province": "青海"
+    "province": "青海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-qinghai-2025-未标注-58",
@@ -6454,7 +6854,10 @@
     "difficulty": "拔高",
     "source": "2025年青海公务员考试《行测》第58题",
     "isImageQuestion": true,
-    "province": "青海"
+    "province": "青海",
+    "isAbnormal": true,
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2025-未标注-59",
@@ -6489,7 +6892,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年青海公务员考试《行测》第59题",
-    "province": "青海"
+    "province": "青海",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2025-未标注-60",
@@ -6526,7 +6931,9 @@
     "difficulty": "拔高",
     "source": "2025年青海公务员考试《行测》第60题",
     "isImageQuestion": true,
-    "province": "青海"
+    "province": "青海",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2025-未标注-61",
@@ -6562,7 +6969,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年青海公务员考试《行测》第61题",
-    "province": "青海"
+    "province": "青海",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2025-未标注-62",
@@ -6598,7 +7007,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年青海公务员考试《行测》第62题",
-    "province": "青海"
+    "province": "青海",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2025-未标注-63",
@@ -6627,7 +7038,9 @@
     "difficulty": "拔高",
     "source": "2025年青海公务员考试《行测》第63题",
     "isImageQuestion": true,
-    "province": "青海"
+    "province": "青海",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2025-未标注-64",
@@ -6664,7 +7077,9 @@
     "difficulty": "拔高",
     "source": "2025年青海公务员考试《行测》第64题",
     "isImageQuestion": true,
-    "province": "青海"
+    "province": "青海",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2025-未标注-65",
@@ -6700,6 +7115,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年青海公务员考试《行测》第65题",
-    "province": "青海"
+    "province": "青海",
+    "isAbnormal": true,
+    "subModule": "几何",
+    "subModule_confidence": "high"
   }
 ]

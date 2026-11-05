@@ -31,7 +31,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2009年国家公务员考试《行测》未标注第61题"
+    "source": "2009年国家公务员考试《行测》未标注第61题",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2009-未标注-62",
@@ -65,7 +67,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2009年国家公务员考试《行测》未标注第62题"
+    "source": "2009年国家公务员考试《行测》未标注第62题",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2009-未标注-63",
@@ -99,7 +103,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2009年国家公务员考试《行测》未标注第63题"
+    "source": "2009年国家公务员考试《行测》未标注第63题",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2009-未标注-64",
@@ -133,7 +139,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年国家公务员考试《行测》未标注第64题",
-    "isImageQuestion": true
+    "isImageQuestion": true,
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2009-未标注-65",
@@ -167,7 +175,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2009年国家公务员考试《行测》未标注第65题"
+    "source": "2009年国家公务员考试《行测》未标注第65题",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2010-未标注-1",
@@ -200,7 +210,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2010年国家公务员考试《行测》未标注第1题"
+    "source": "2010年国家公务员考试《行测》未标注第1题",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2010-未标注-2",
@@ -234,7 +246,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2010年国家公务员考试《行测》未标注第2题"
+    "source": "2010年国家公务员考试《行测》未标注第2题",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2010-未标注-3",
@@ -268,7 +282,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2010年国家公务员考试《行测》未标注第3题"
+    "source": "2010年国家公务员考试《行测》未标注第3题",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2010-未标注-4",
@@ -302,7 +318,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2010年国家公务员考试《行测》未标注第4题"
+    "source": "2010年国家公务员考试《行测》未标注第4题",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2010-未标注-5",
@@ -336,7 +354,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2010年国家公务员考试《行测》未标注第5题"
+    "source": "2010年国家公务员考试《行测》未标注第5题",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2010-未标注-6",
@@ -369,7 +389,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2010年国家公务员考试《行测》未标注第6题"
+    "source": "2010年国家公务员考试《行测》未标注第6题",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2010-未标注-7",
@@ -402,7 +424,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2010年国家公务员考试《行测》未标注第7题"
+    "source": "2010年国家公务员考试《行测》未标注第7题",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2010-未标注-8",
@@ -436,7 +460,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2010年国家公务员考试《行测》未标注第8题"
+    "source": "2010年国家公务员考试《行测》未标注第8题",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2010-未标注-9",
@@ -469,7 +495,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2010年国家公务员考试《行测》未标注第9题"
+    "source": "2010年国家公务员考试《行测》未标注第9题",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2010-未标注-10",
@@ -503,7 +531,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2010年国家公务员考试《行测》未标注第10题"
+    "source": "2010年国家公务员考试《行测》未标注第10题",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2010-未标注-11",
@@ -537,7 +567,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2010年国家公务员考试《行测》未标注第11题"
+    "source": "2010年国家公务员考试《行测》未标注第11题",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2010-未标注-12",
@@ -572,7 +604,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2010年国家公务员考试《行测》未标注第12题"
+    "source": "2010年国家公务员考试《行测》未标注第12题",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2010-未标注-13",
@@ -607,7 +641,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2010年国家公务员考试《行测》未标注第13题"
+    "source": "2010年国家公务员考试《行测》未标注第13题",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2010-未标注-14",
@@ -641,7 +677,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2010年国家公务员考试《行测》未标注第14题"
+    "source": "2010年国家公务员考试《行测》未标注第14题",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2010-未标注-15",
@@ -675,7 +713,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2010年国家公务员考试《行测》未标注第15题"
+    "source": "2010年国家公务员考试《行测》未标注第15题",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2010-未标注-16",
@@ -708,7 +748,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2010年国家公务员考试《行测》未标注第16题"
+    "source": "2010年国家公务员考试《行测》未标注第16题",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2010-未标注-17",
@@ -743,7 +785,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2010年国家公务员考试《行测》未标注第17题"
+    "source": "2010年国家公务员考试《行测》未标注第17题",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2010-未标注-18",
@@ -777,7 +821,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2010年国家公务员考试《行测》未标注第18题"
+    "source": "2010年国家公务员考试《行测》未标注第18题",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2010-未标注-19",
@@ -811,7 +857,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2010年国家公务员考试《行测》未标注第19题"
+    "source": "2010年国家公务员考试《行测》未标注第19题",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2010-未标注-20",
@@ -845,7 +893,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2010年国家公务员考试《行测》未标注第20题"
+    "source": "2010年国家公务员考试《行测》未标注第20题",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2010-未标注-21",
@@ -880,7 +930,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2010年国家公务员考试《行测》未标注第21题"
+    "source": "2010年国家公务员考试《行测》未标注第21题",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2010-未标注-22",
@@ -913,7 +965,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2010年国家公务员考试《行测》未标注第22题"
+    "source": "2010年国家公务员考试《行测》未标注第22题",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2010-未标注-23",
@@ -946,7 +1000,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2010年国家公务员考试《行测》未标注第23题"
+    "source": "2010年国家公务员考试《行测》未标注第23题",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2010-未标注-24",
@@ -980,7 +1036,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2010年国家公务员考试《行测》未标注第24题"
+    "source": "2010年国家公务员考试《行测》未标注第24题",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2010-未标注-25",
@@ -1015,7 +1073,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2010年国家公务员考试《行测》未标注第25题"
+    "source": "2010年国家公务员考试《行测》未标注第25题",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2010-未标注-26",
@@ -1049,7 +1109,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2010年国家公务员考试《行测》未标注第26题"
+    "source": "2010年国家公务员考试《行测》未标注第26题",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2010-未标注-27",
@@ -1082,7 +1144,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2010年国家公务员考试《行测》未标注第27题"
+    "source": "2010年国家公务员考试《行测》未标注第27题",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2010-未标注-28",
@@ -1116,7 +1180,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2010年国家公务员考试《行测》未标注第28题"
+    "source": "2010年国家公务员考试《行测》未标注第28题",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2010-未标注-29",
@@ -1151,7 +1217,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2010年国家公务员考试《行测》未标注第29题"
+    "source": "2010年国家公务员考试《行测》未标注第29题",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2010-未标注-30",
@@ -1184,7 +1252,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2010年国家公务员考试《行测》未标注第30题"
+    "source": "2010年国家公务员考试《行测》未标注第30题",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2010-未标注-31",
@@ -1218,7 +1288,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2010年国家公务员考试《行测》未标注第31题"
+    "source": "2010年国家公务员考试《行测》未标注第31题",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2010-未标注-32",
@@ -1252,7 +1324,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2010年国家公务员考试《行测》未标注第32题"
+    "source": "2010年国家公务员考试《行测》未标注第32题",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2010-未标注-33",
@@ -1287,7 +1361,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2010年国家公务员考试《行测》未标注第33题"
+    "source": "2010年国家公务员考试《行测》未标注第33题",
+    "subModule": "语句表达",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2010-未标注-34",
@@ -1320,7 +1396,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2010年国家公务员考试《行测》未标注第34题"
+    "source": "2010年国家公务员考试《行测》未标注第34题",
+    "subModule": "语句表达",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2010-未标注-35",
@@ -1353,7 +1431,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2010年国家公务员考试《行测》未标注第35题"
+    "source": "2010年国家公务员考试《行测》未标注第35题",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2010-未标注-36",
@@ -1388,7 +1468,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2010年国家公务员考试《行测》未标注第36题"
+    "source": "2010年国家公务员考试《行测》未标注第36题",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2010-未标注-37",
@@ -1421,7 +1503,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2010年国家公务员考试《行测》未标注第37题"
+    "source": "2010年国家公务员考试《行测》未标注第37题",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2010-未标注-38",
@@ -1454,7 +1538,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2010年国家公务员考试《行测》未标注第38题"
+    "source": "2010年国家公务员考试《行测》未标注第38题",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2010-未标注-39",
@@ -1487,7 +1573,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2010年国家公务员考试《行测》未标注第39题"
+    "source": "2010年国家公务员考试《行测》未标注第39题",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2010-未标注-40",
@@ -1520,7 +1608,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2010年国家公务员考试《行测》未标注第40题"
+    "source": "2010年国家公务员考试《行测》未标注第40题",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2011-未标注-26",
@@ -1554,7 +1644,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2011年国家公务员考试《行测》未标注第26题"
+    "source": "2011年国家公务员考试《行测》未标注第26题",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2011-未标注-27",
@@ -1588,7 +1680,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2011年国家公务员考试《行测》未标注第27题"
+    "source": "2011年国家公务员考试《行测》未标注第27题",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2011-未标注-28",
@@ -1621,7 +1715,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2011年国家公务员考试《行测》未标注第28题"
+    "source": "2011年国家公务员考试《行测》未标注第28题",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2011-未标注-29",
@@ -1654,7 +1750,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2011年国家公务员考试《行测》未标注第29题"
+    "source": "2011年国家公务员考试《行测》未标注第29题",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2011-未标注-30",
@@ -1687,7 +1785,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2011年国家公务员考试《行测》未标注第30题"
+    "source": "2011年国家公务员考试《行测》未标注第30题",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2011-未标注-31",
@@ -1718,7 +1818,9 @@
     "keyPoints": [],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2011年国家公务员考试《行测》未标注第31题"
+    "source": "2011年国家公务员考试《行测》未标注第31题",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2011-未标注-32",
@@ -1751,7 +1853,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2011年国家公务员考试《行测》未标注第32题"
+    "source": "2011年国家公务员考试《行测》未标注第32题",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2011-未标注-33",
@@ -1784,7 +1888,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2011年国家公务员考试《行测》未标注第33题"
+    "source": "2011年国家公务员考试《行测》未标注第33题",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2011-未标注-34",
@@ -1817,7 +1923,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2011年国家公务员考试《行测》未标注第34题"
+    "source": "2011年国家公务员考试《行测》未标注第34题",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2011-未标注-35",
@@ -1848,7 +1956,9 @@
     "keyPoints": [],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2011年国家公务员考试《行测》未标注第35题"
+    "source": "2011年国家公务员考试《行测》未标注第35题",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2011-未标注-36",
@@ -1882,7 +1992,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2011年国家公务员考试《行测》未标注第36题"
+    "source": "2011年国家公务员考试《行测》未标注第36题",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2011-未标注-37",
@@ -1916,7 +2028,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2011年国家公务员考试《行测》未标注第37题"
+    "source": "2011年国家公务员考试《行测》未标注第37题",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2011-未标注-38",
@@ -1949,7 +2063,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2011年国家公务员考试《行测》未标注第38题"
+    "source": "2011年国家公务员考试《行测》未标注第38题",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2011-未标注-39",
@@ -1980,7 +2096,9 @@
     "keyPoints": [],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2011年国家公务员考试《行测》未标注第39题"
+    "source": "2011年国家公务员考试《行测》未标注第39题",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2011-未标注-40",
@@ -2013,7 +2131,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2011年国家公务员考试《行测》未标注第40题"
+    "source": "2011年国家公务员考试《行测》未标注第40题",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2011-未标注-41",
@@ -2048,7 +2168,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2011年国家公务员考试《行测》未标注第41题"
+    "source": "2011年国家公务员考试《行测》未标注第41题",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2011-未标注-42",
@@ -2081,7 +2203,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2011年国家公务员考试《行测》未标注第42题"
+    "source": "2011年国家公务员考试《行测》未标注第42题",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2011-未标注-43",
@@ -2116,7 +2240,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2011年国家公务员考试《行测》未标注第43题"
+    "source": "2011年国家公务员考试《行测》未标注第43题",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2011-未标注-44",
@@ -2149,7 +2275,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2011年国家公务员考试《行测》未标注第44题"
+    "source": "2011年国家公务员考试《行测》未标注第44题",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2011-未标注-45",
@@ -2182,7 +2310,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2011年国家公务员考试《行测》未标注第45题"
+    "source": "2011年国家公务员考试《行测》未标注第45题",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2011-未标注-46",
@@ -2216,7 +2346,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2011年国家公务员考试《行测》未标注第46题"
+    "source": "2011年国家公务员考试《行测》未标注第46题",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2011-未标注-47",
@@ -2250,7 +2382,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2011年国家公务员考试《行测》未标注第47题"
+    "source": "2011年国家公务员考试《行测》未标注第47题",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2011-未标注-48",
@@ -2285,7 +2419,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年国家公务员考试《行测》未标注第48题",
-    "isImageQuestion": true
+    "isImageQuestion": true,
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2011-未标注-49",
@@ -2318,7 +2454,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2011年国家公务员考试《行测》未标注第49题"
+    "source": "2011年国家公务员考试《行测》未标注第49题",
+    "subModule": "语句表达",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2011-未标注-50",
@@ -2351,7 +2489,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2011年国家公务员考试《行测》未标注第50题"
+    "source": "2011年国家公务员考试《行测》未标注第50题",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2011-未标注-51",
@@ -2386,7 +2526,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2011年国家公务员考试《行测》未标注第51题"
+    "source": "2011年国家公务员考试《行测》未标注第51题",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2011-未标注-52",
@@ -2420,7 +2562,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2011年国家公务员考试《行测》未标注第52题"
+    "source": "2011年国家公务员考试《行测》未标注第52题",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2011-未标注-53",
@@ -2454,7 +2598,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2011年国家公务员考试《行测》未标注第53题"
+    "source": "2011年国家公务员考试《行测》未标注第53题",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2011-未标注-54",
@@ -2487,7 +2633,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2011年国家公务员考试《行测》未标注第54题"
+    "source": "2011年国家公务员考试《行测》未标注第54题",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2011-未标注-55",
@@ -2522,7 +2670,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2011年国家公务员考试《行测》未标注第55题"
+    "source": "2011年国家公务员考试《行测》未标注第55题",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2011-未标注-56",
@@ -2555,7 +2705,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2011年国家公务员考试《行测》未标注第56题"
+    "source": "2011年国家公务员考试《行测》未标注第56题",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2011-未标注-57",
@@ -2588,7 +2740,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2011年国家公务员考试《行测》未标注第57题"
+    "source": "2011年国家公务员考试《行测》未标注第57题",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2011-未标注-58",
@@ -2622,7 +2776,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2011年国家公务员考试《行测》未标注第58题"
+    "source": "2011年国家公务员考试《行测》未标注第58题",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2011-未标注-59",
@@ -2655,7 +2811,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2011年国家公务员考试《行测》未标注第59题"
+    "source": "2011年国家公务员考试《行测》未标注第59题",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2011-未标注-60",
@@ -2689,7 +2847,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2011年国家公务员考试《行测》未标注第60题"
+    "source": "2011年国家公务员考试《行测》未标注第60题",
+    "subModule": "语句表达",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2011-未标注-61",
@@ -2723,7 +2883,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2011年国家公务员考试《行测》未标注第61题"
+    "source": "2011年国家公务员考试《行测》未标注第61题",
+    "subModule": "语句表达",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2011-未标注-62",
@@ -2758,7 +2920,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2011年国家公务员考试《行测》未标注第62题"
+    "source": "2011年国家公务员考试《行测》未标注第62题",
+    "subModule": "语句表达",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2011-未标注-63",
@@ -2791,7 +2955,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2011年国家公务员考试《行测》未标注第63题"
+    "source": "2011年国家公务员考试《行测》未标注第63题",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2011-未标注-64",
@@ -2824,7 +2990,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2011年国家公务员考试《行测》未标注第64题"
+    "source": "2011年国家公务员考试《行测》未标注第64题",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2011-未标注-65",
@@ -2857,7 +3025,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2011年国家公务员考试《行测》未标注第65题"
+    "source": "2011年国家公务员考试《行测》未标注第65题",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2012-未标注-26",
@@ -2890,7 +3060,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2012年国家公务员考试《行测》未标注第26题"
+    "source": "2012年国家公务员考试《行测》未标注第26题",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2012-未标注-27",
@@ -2923,7 +3095,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2012年国家公务员考试《行测》未标注第27题"
+    "source": "2012年国家公务员考试《行测》未标注第27题",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2012-未标注-28",
@@ -2956,7 +3130,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2012年国家公务员考试《行测》未标注第28题"
+    "source": "2012年国家公务员考试《行测》未标注第28题",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2012-未标注-29",
@@ -2989,7 +3165,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2012年国家公务员考试《行测》未标注第29题"
+    "source": "2012年国家公务员考试《行测》未标注第29题",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2012-未标注-30",
@@ -3022,7 +3200,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2012年国家公务员考试《行测》未标注第30题"
+    "source": "2012年国家公务员考试《行测》未标注第30题",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2012-未标注-31",
@@ -3056,7 +3236,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2012年国家公务员考试《行测》未标注第31题"
+    "source": "2012年国家公务员考试《行测》未标注第31题",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2012-未标注-32",
@@ -3090,7 +3272,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2012年国家公务员考试《行测》未标注第32题"
+    "source": "2012年国家公务员考试《行测》未标注第32题",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2012-未标注-33",
@@ -3121,7 +3305,9 @@
     "keyPoints": [],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2012年国家公务员考试《行测》未标注第33题"
+    "source": "2012年国家公务员考试《行测》未标注第33题",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2012-未标注-34",
@@ -3155,7 +3341,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2012年国家公务员考试《行测》未标注第34题"
+    "source": "2012年国家公务员考试《行测》未标注第34题",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2012-未标注-35",
@@ -3190,7 +3378,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2012年国家公务员考试《行测》未标注第35题"
+    "source": "2012年国家公务员考试《行测》未标注第35题",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2012-未标注-36",
@@ -3225,7 +3415,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2012年国家公务员考试《行测》未标注第36题"
+    "source": "2012年国家公务员考试《行测》未标注第36题",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2012-未标注-37",
@@ -3260,7 +3452,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2012年国家公务员考试《行测》未标注第37题"
+    "source": "2012年国家公务员考试《行测》未标注第37题",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2012-未标注-38",
@@ -3293,7 +3487,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2012年国家公务员考试《行测》未标注第38题"
+    "source": "2012年国家公务员考试《行测》未标注第38题",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2012-未标注-39",
@@ -3328,7 +3524,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2012年国家公务员考试《行测》未标注第39题"
+    "source": "2012年国家公务员考试《行测》未标注第39题",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2012-未标注-40",
@@ -3363,7 +3561,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2012年国家公务员考试《行测》未标注第40题"
+    "source": "2012年国家公务员考试《行测》未标注第40题",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2012-未标注-41",
@@ -3398,7 +3598,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2012年国家公务员考试《行测》未标注第41题"
+    "source": "2012年国家公务员考试《行测》未标注第41题",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2012-未标注-42",
@@ -3433,7 +3635,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2012年国家公务员考试《行测》未标注第42题"
+    "source": "2012年国家公务员考试《行测》未标注第42题",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2012-未标注-43",
@@ -3466,7 +3670,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2012年国家公务员考试《行测》未标注第43题"
+    "source": "2012年国家公务员考试《行测》未标注第43题",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2012-未标注-44",
@@ -3500,7 +3706,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2012年国家公务员考试《行测》未标注第44题"
+    "source": "2012年国家公务员考试《行测》未标注第44题",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2012-未标注-45",
@@ -3533,7 +3741,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2012年国家公务员考试《行测》未标注第45题"
+    "source": "2012年国家公务员考试《行测》未标注第45题",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2012-未标注-46",
@@ -3567,7 +3777,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2012年国家公务员考试《行测》未标注第46题"
+    "source": "2012年国家公务员考试《行测》未标注第46题",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2012-未标注-47",
@@ -3601,7 +3813,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2012年国家公务员考试《行测》未标注第47题"
+    "source": "2012年国家公务员考试《行测》未标注第47题",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2012-未标注-48",
@@ -3636,7 +3850,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2012年国家公务员考试《行测》未标注第48题"
+    "source": "2012年国家公务员考试《行测》未标注第48题",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2012-未标注-49",
@@ -3667,7 +3883,9 @@
     "keyPoints": [],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2012年国家公务员考试《行测》未标注第49题"
+    "source": "2012年国家公务员考试《行测》未标注第49题",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2012-未标注-50",
@@ -3701,7 +3919,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2012年国家公务员考试《行测》未标注第50题"
+    "source": "2012年国家公务员考试《行测》未标注第50题",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2012-未标注-51",
@@ -3734,7 +3954,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2012年国家公务员考试《行测》未标注第51题"
+    "source": "2012年国家公务员考试《行测》未标注第51题",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2012-未标注-52",
@@ -3767,7 +3989,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2012年国家公务员考试《行测》未标注第52题"
+    "source": "2012年国家公务员考试《行测》未标注第52题",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2012-未标注-53",
@@ -3801,7 +4025,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2012年国家公务员考试《行测》未标注第53题"
+    "source": "2012年国家公务员考试《行测》未标注第53题",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2012-未标注-54",
@@ -3835,7 +4061,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2012年国家公务员考试《行测》未标注第54题"
+    "source": "2012年国家公务员考试《行测》未标注第54题",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2012-未标注-55",
@@ -3869,7 +4097,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2012年国家公务员考试《行测》未标注第55题"
+    "source": "2012年国家公务员考试《行测》未标注第55题",
+    "subModule": "语句表达",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2012-未标注-56",
@@ -3904,7 +4134,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2012年国家公务员考试《行测》未标注第56题"
+    "source": "2012年国家公务员考试《行测》未标注第56题",
+    "subModule": "语句表达",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2012-未标注-57",
@@ -3938,7 +4170,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2012年国家公务员考试《行测》未标注第57题"
+    "source": "2012年国家公务员考试《行测》未标注第57题",
+    "subModule": "语句表达",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2012-未标注-58",
@@ -3972,7 +4206,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2012年国家公务员考试《行测》未标注第58题"
+    "source": "2012年国家公务员考试《行测》未标注第58题",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2012-未标注-59",
@@ -4005,7 +4241,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2012年国家公务员考试《行测》未标注第59题"
+    "source": "2012年国家公务员考试《行测》未标注第59题",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2012-未标注-60",
@@ -4039,7 +4277,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2012年国家公务员考试《行测》未标注第60题"
+    "source": "2012年国家公务员考试《行测》未标注第60题",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2012-未标注-61",
@@ -4072,7 +4312,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2012年国家公务员考试《行测》未标注第61题"
+    "source": "2012年国家公务员考试《行测》未标注第61题",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2012-未标注-62",
@@ -4106,7 +4348,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2012年国家公务员考试《行测》未标注第62题"
+    "source": "2012年国家公务员考试《行测》未标注第62题",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2012-未标注-63",
@@ -4141,7 +4385,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2012年国家公务员考试《行测》未标注第63题"
+    "source": "2012年国家公务员考试《行测》未标注第63题",
+    "subModule": "语句表达",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2012-未标注-64",
@@ -4174,7 +4420,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2012年国家公务员考试《行测》未标注第64题"
+    "source": "2012年国家公务员考试《行测》未标注第64题",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2012-未标注-65",
@@ -4207,7 +4455,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2012年国家公务员考试《行测》未标注第65题"
+    "source": "2012年国家公务员考试《行测》未标注第65题",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2013-未标注-21",
@@ -4240,7 +4490,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2013年国家公务员考试《行测》未标注第21题"
+    "source": "2013年国家公务员考试《行测》未标注第21题",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2013-未标注-22",
@@ -4273,7 +4525,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2013年国家公务员考试《行测》未标注第22题"
+    "source": "2013年国家公务员考试《行测》未标注第22题",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2013-未标注-23",
@@ -4306,7 +4560,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2013年国家公务员考试《行测》未标注第23题"
+    "source": "2013年国家公务员考试《行测》未标注第23题",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2013-未标注-24",
@@ -4339,7 +4595,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2013年国家公务员考试《行测》未标注第24题"
+    "source": "2013年国家公务员考试《行测》未标注第24题",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2013-未标注-25",
@@ -4373,7 +4631,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2013年国家公务员考试《行测》未标注第25题"
+    "source": "2013年国家公务员考试《行测》未标注第25题",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2013-未标注-26",
@@ -4406,7 +4666,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2013年国家公务员考试《行测》未标注第26题"
+    "source": "2013年国家公务员考试《行测》未标注第26题",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2013-未标注-27",
@@ -4437,7 +4699,9 @@
     "keyPoints": [],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2013年国家公务员考试《行测》未标注第27题"
+    "source": "2013年国家公务员考试《行测》未标注第27题",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2013-未标注-28",
@@ -4472,7 +4736,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2013年国家公务员考试《行测》未标注第28题"
+    "source": "2013年国家公务员考试《行测》未标注第28题",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2013-未标注-29",
@@ -4506,7 +4772,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2013年国家公务员考试《行测》未标注第29题"
+    "source": "2013年国家公务员考试《行测》未标注第29题",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2013-未标注-30",
@@ -4537,7 +4805,9 @@
     "keyPoints": [],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2013年国家公务员考试《行测》未标注第30题"
+    "source": "2013年国家公务员考试《行测》未标注第30题",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2013-未标注-31",
@@ -4570,7 +4840,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2013年国家公务员考试《行测》未标注第31题"
+    "source": "2013年国家公务员考试《行测》未标注第31题",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2013-未标注-32",
@@ -4604,7 +4876,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2013年国家公务员考试《行测》未标注第32题"
+    "source": "2013年国家公务员考试《行测》未标注第32题",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2013-未标注-33",
@@ -4637,7 +4911,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2013年国家公务员考试《行测》未标注第33题"
+    "source": "2013年国家公务员考试《行测》未标注第33题",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2013-未标注-34",
@@ -4670,7 +4946,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2013年国家公务员考试《行测》未标注第34题"
+    "source": "2013年国家公务员考试《行测》未标注第34题",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2013-未标注-35",
@@ -4703,7 +4981,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2013年国家公务员考试《行测》未标注第35题"
+    "source": "2013年国家公务员考试《行测》未标注第35题",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2013-未标注-36",
@@ -4736,7 +5016,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2013年国家公务员考试《行测》未标注第36题"
+    "source": "2013年国家公务员考试《行测》未标注第36题",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2013-未标注-37",
@@ -4769,7 +5051,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2013年国家公务员考试《行测》未标注第37题"
+    "source": "2013年国家公务员考试《行测》未标注第37题",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2013-未标注-38",
@@ -4800,7 +5084,9 @@
     "keyPoints": [],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2013年国家公务员考试《行测》未标注第38题"
+    "source": "2013年国家公务员考试《行测》未标注第38题",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2013-未标注-39",
@@ -4834,7 +5120,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2013年国家公务员考试《行测》未标注第39题"
+    "source": "2013年国家公务员考试《行测》未标注第39题",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2013-未标注-40",
@@ -4869,7 +5157,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2013年国家公务员考试《行测》未标注第40题"
+    "source": "2013年国家公务员考试《行测》未标注第40题",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2013-未标注-41",
@@ -4903,7 +5193,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2013年国家公务员考试《行测》未标注第41题"
+    "source": "2013年国家公务员考试《行测》未标注第41题",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2013-未标注-42",
@@ -4934,7 +5226,9 @@
     "keyPoints": [],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2013年国家公务员考试《行测》未标注第42题"
+    "source": "2013年国家公务员考试《行测》未标注第42题",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2013-未标注-43",
@@ -4968,7 +5262,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2013年国家公务员考试《行测》未标注第43题"
+    "source": "2013年国家公务员考试《行测》未标注第43题",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2013-未标注-44",
@@ -4999,7 +5295,9 @@
     "keyPoints": [],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2013年国家公务员考试《行测》未标注第44题"
+    "source": "2013年国家公务员考试《行测》未标注第44题",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2013-未标注-45",
@@ -5032,7 +5330,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2013年国家公务员考试《行测》未标注第45题"
+    "source": "2013年国家公务员考试《行测》未标注第45题",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2013-未标注-46",
@@ -5067,7 +5367,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2013年国家公务员考试《行测》未标注第46题"
+    "source": "2013年国家公务员考试《行测》未标注第46题",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2013-未标注-47",
@@ -5100,7 +5402,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2013年国家公务员考试《行测》未标注第47题"
+    "source": "2013年国家公务员考试《行测》未标注第47题",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2013-未标注-48",
@@ -5133,7 +5437,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2013年国家公务员考试《行测》未标注第48题"
+    "source": "2013年国家公务员考试《行测》未标注第48题",
+    "subModule": "语句表达",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2013-未标注-49",
@@ -5164,7 +5470,9 @@
     "keyPoints": [],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2013年国家公务员考试《行测》未标注第49题"
+    "source": "2013年国家公务员考试《行测》未标注第49题",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2013-未标注-50",
@@ -5197,7 +5505,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2013年国家公务员考试《行测》未标注第50题"
+    "source": "2013年国家公务员考试《行测》未标注第50题",
+    "subModule": "语句表达",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2013-未标注-51",
@@ -5231,7 +5541,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2013年国家公务员考试《行测》未标注第51题"
+    "source": "2013年国家公务员考试《行测》未标注第51题",
+    "subModule": "语句表达",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2013-未标注-52",
@@ -5265,7 +5577,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2013年国家公务员考试《行测》未标注第52题"
+    "source": "2013年国家公务员考试《行测》未标注第52题",
+    "subModule": "语句表达",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2013-未标注-53",
@@ -5299,7 +5613,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2013年国家公务员考试《行测》未标注第53题"
+    "source": "2013年国家公务员考试《行测》未标注第53题",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2013-未标注-54",
@@ -5333,7 +5649,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2013年国家公务员考试《行测》未标注第54题"
+    "source": "2013年国家公务员考试《行测》未标注第54题",
+    "subModule": "语句表达",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2013-未标注-55",
@@ -5368,7 +5686,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2013年国家公务员考试《行测》未标注第55题"
+    "source": "2013年国家公务员考试《行测》未标注第55题",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2013-未标注-56",
@@ -5402,7 +5722,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2013年国家公务员考试《行测》未标注第56题"
+    "source": "2013年国家公务员考试《行测》未标注第56题",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2013-未标注-57",
@@ -5436,7 +5758,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2013年国家公务员考试《行测》未标注第57题"
+    "source": "2013年国家公务员考试《行测》未标注第57题",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2013-未标注-58",
@@ -5470,7 +5794,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2013年国家公务员考试《行测》未标注第58题"
+    "source": "2013年国家公务员考试《行测》未标注第58题",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2013-未标注-59",
@@ -5503,7 +5829,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2013年国家公务员考试《行测》未标注第59题"
+    "source": "2013年国家公务员考试《行测》未标注第59题",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2013-未标注-60",
@@ -5537,7 +5865,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2013年国家公务员考试《行测》未标注第60题"
+    "source": "2013年国家公务员考试《行测》未标注第60题",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2014-未标注-21",
@@ -5571,7 +5901,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2014年国家公务员考试《行测》未标注第21题"
+    "source": "2014年国家公务员考试《行测》未标注第21题",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2014-未标注-22",
@@ -5604,7 +5936,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2014年国家公务员考试《行测》未标注第22题"
+    "source": "2014年国家公务员考试《行测》未标注第22题",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2014-未标注-23",
@@ -5637,7 +5971,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2014年国家公务员考试《行测》未标注第23题"
+    "source": "2014年国家公务员考试《行测》未标注第23题",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2014-未标注-24",
@@ -5671,7 +6007,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2014年国家公务员考试《行测》未标注第24题"
+    "source": "2014年国家公务员考试《行测》未标注第24题",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2014-未标注-25",
@@ -5704,7 +6042,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2014年国家公务员考试《行测》未标注第25题"
+    "source": "2014年国家公务员考试《行测》未标注第25题",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2014-未标注-26",
@@ -5737,7 +6077,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2014年国家公务员考试《行测》未标注第26题"
+    "source": "2014年国家公务员考试《行测》未标注第26题",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2014-未标注-27",
@@ -5770,7 +6112,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2014年国家公务员考试《行测》未标注第27题"
+    "source": "2014年国家公务员考试《行测》未标注第27题",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2014-未标注-28",
@@ -5804,7 +6148,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2014年国家公务员考试《行测》未标注第28题"
+    "source": "2014年国家公务员考试《行测》未标注第28题",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2014-未标注-29",
@@ -5838,7 +6184,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2014年国家公务员考试《行测》未标注第29题"
+    "source": "2014年国家公务员考试《行测》未标注第29题",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2014-未标注-30",
@@ -5872,7 +6220,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2014年国家公务员考试《行测》未标注第30题"
+    "source": "2014年国家公务员考试《行测》未标注第30题",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2014-未标注-31",
@@ -5906,7 +6256,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2014年国家公务员考试《行测》未标注第31题"
+    "source": "2014年国家公务员考试《行测》未标注第31题",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2014-未标注-32",
@@ -5940,7 +6292,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2014年国家公务员考试《行测》未标注第32题"
+    "source": "2014年国家公务员考试《行测》未标注第32题",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2014-未标注-33",
@@ -5973,7 +6327,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2014年国家公务员考试《行测》未标注第33题"
+    "source": "2014年国家公务员考试《行测》未标注第33题",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2014-未标注-34",
@@ -6007,7 +6363,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2014年国家公务员考试《行测》未标注第34题"
+    "source": "2014年国家公务员考试《行测》未标注第34题",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2014-未标注-35",
@@ -6040,7 +6398,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2014年国家公务员考试《行测》未标注第35题"
+    "source": "2014年国家公务员考试《行测》未标注第35题",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2014-未标注-36",
@@ -6073,7 +6433,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2014年国家公务员考试《行测》未标注第36题"
+    "source": "2014年国家公务员考试《行测》未标注第36题",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2014-未标注-37",
@@ -6108,7 +6470,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2014年国家公务员考试《行测》未标注第37题"
+    "source": "2014年国家公务员考试《行测》未标注第37题",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2014-未标注-38",
@@ -6139,7 +6503,9 @@
     "keyPoints": [],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2014年国家公务员考试《行测》未标注第38题"
+    "source": "2014年国家公务员考试《行测》未标注第38题",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2014-未标注-39",
@@ -6173,7 +6539,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2014年国家公务员考试《行测》未标注第39题"
+    "source": "2014年国家公务员考试《行测》未标注第39题",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2014-未标注-40",
@@ -6206,7 +6574,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2014年国家公务员考试《行测》未标注第40题"
+    "source": "2014年国家公务员考试《行测》未标注第40题",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2014-未标注-41",
@@ -6240,7 +6610,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2014年国家公务员考试《行测》未标注第41题"
+    "source": "2014年国家公务员考试《行测》未标注第41题",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2014-未标注-42",
@@ -6274,7 +6646,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2014年国家公务员考试《行测》未标注第42题"
+    "source": "2014年国家公务员考试《行测》未标注第42题",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2014-未标注-43",
@@ -6308,7 +6682,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2014年国家公务员考试《行测》未标注第43题"
+    "source": "2014年国家公务员考试《行测》未标注第43题",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2014-未标注-44",
@@ -6341,7 +6717,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2014年国家公务员考试《行测》未标注第44题"
+    "source": "2014年国家公务员考试《行测》未标注第44题",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2014-未标注-45",
@@ -6374,7 +6752,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2014年国家公务员考试《行测》未标注第45题"
+    "source": "2014年国家公务员考试《行测》未标注第45题",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2014-未标注-46",
@@ -6407,7 +6787,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2014年国家公务员考试《行测》未标注第46题"
+    "source": "2014年国家公务员考试《行测》未标注第46题",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2014-未标注-47",
@@ -6441,7 +6823,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2014年国家公务员考试《行测》未标注第47题"
+    "source": "2014年国家公务员考试《行测》未标注第47题",
+    "subModule": "语句表达",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2014-未标注-48",
@@ -6476,7 +6860,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2014年国家公务员考试《行测》未标注第48题"
+    "source": "2014年国家公务员考试《行测》未标注第48题",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2014-未标注-49",
@@ -6510,7 +6896,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2014年国家公务员考试《行测》未标注第49题"
+    "source": "2014年国家公务员考试《行测》未标注第49题",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2014-未标注-50",
@@ -6544,7 +6932,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2014年国家公务员考试《行测》未标注第50题"
+    "source": "2014年国家公务员考试《行测》未标注第50题",
+    "subModule": "语句表达",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2014-未标注-51",
@@ -6577,7 +6967,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2014年国家公务员考试《行测》未标注第51题"
+    "source": "2014年国家公务员考试《行测》未标注第51题",
+    "subModule": "语句表达",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2014-未标注-52",
@@ -6611,7 +7003,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2014年国家公务员考试《行测》未标注第52题"
+    "source": "2014年国家公务员考试《行测》未标注第52题",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2014-未标注-53",
@@ -6645,7 +7039,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2014年国家公务员考试《行测》未标注第53题"
+    "source": "2014年国家公务员考试《行测》未标注第53题",
+    "subModule": "语句表达",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2014-未标注-54",
@@ -6676,7 +7072,9 @@
     "keyPoints": [],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2014年国家公务员考试《行测》未标注第54题"
+    "source": "2014年国家公务员考试《行测》未标注第54题",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2014-未标注-55",
@@ -6710,6 +7108,8 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2014年国家公务员考试《行测》未标注第55题"
+    "source": "2014年国家公务员考试《行测》未标注第55题",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   }
 ]

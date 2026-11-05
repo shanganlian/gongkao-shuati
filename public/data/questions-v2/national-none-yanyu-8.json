@@ -32,7 +32,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2025年国家公务员考试《行测》行政执法第31题"
+    "source": "2025年国家公务员考试《行测》行政执法第31题",
+    "subModule": "片段阅读",
+    "subModule_confidence": "low"
   },
   {
     "id": "gk-2025-行政执法-32",
@@ -66,7 +68,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2025年国家公务员考试《行测》行政执法第32题"
+    "source": "2025年国家公务员考试《行测》行政执法第32题",
+    "subModule": "片段阅读",
+    "subModule_confidence": "low"
   },
   {
     "id": "gk-2025-行政执法-33",
@@ -101,7 +105,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年国家公务员考试《行测》行政执法第33题",
-    "isImageQuestion": true
+    "isImageQuestion": true,
+    "subModule": "片段阅读",
+    "subModule_confidence": "low"
   },
   {
     "id": "gk-2025-行政执法-34",
@@ -135,7 +141,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2025年国家公务员考试《行测》行政执法第34题"
+    "source": "2025年国家公务员考试《行测》行政执法第34题",
+    "subModule": "片段阅读",
+    "subModule_confidence": "low"
   },
   {
     "id": "gk-2025-行政执法-35",
@@ -169,7 +177,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2025年国家公务员考试《行测》行政执法第35题"
+    "source": "2025年国家公务员考试《行测》行政执法第35题",
+    "subModule": "片段阅读",
+    "subModule_confidence": "low"
   },
   {
     "id": "gk-2025-行政执法-36",
@@ -203,7 +213,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年国家公务员考试《行测》行政执法第36题",
-    "isImageQuestion": true
+    "isImageQuestion": true,
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2025-行政执法-37",
@@ -234,7 +246,9 @@
     "keyPoints": [],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2025年国家公务员考试《行测》行政执法第37题"
+    "source": "2025年国家公务员考试《行测》行政执法第37题",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2025-行政执法-38",
@@ -267,7 +281,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2025年国家公务员考试《行测》行政执法第38题"
+    "source": "2025年国家公务员考试《行测》行政执法第38题",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2025-行政执法-39",
@@ -300,7 +316,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2025年国家公务员考试《行测》行政执法第39题"
+    "source": "2025年国家公务员考试《行测》行政执法第39题",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2025-行政执法-40",
@@ -334,7 +352,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年国家公务员考试《行测》行政执法第40题",
-    "isImageQuestion": true
+    "isImageQuestion": true,
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2025-行政执法-41",
@@ -365,7 +385,9 @@
     "keyPoints": [],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2025年国家公务员考试《行测》行政执法第41题"
+    "source": "2025年国家公务员考试《行测》行政执法第41题",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2025-行政执法-42",
@@ -398,7 +420,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2025年国家公务员考试《行测》行政执法第42题"
+    "source": "2025年国家公务员考试《行测》行政执法第42题",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2025-行政执法-43",
@@ -431,7 +455,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2025年国家公务员考试《行测》行政执法第43题"
+    "source": "2025年国家公务员考试《行测》行政执法第43题",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2025-行政执法-44",
@@ -462,7 +488,9 @@
     "keyPoints": [],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2025年国家公务员考试《行测》行政执法第44题"
+    "source": "2025年国家公务员考试《行测》行政执法第44题",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2025-行政执法-45",
@@ -493,7 +521,9 @@
     "keyPoints": [],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2025年国家公务员考试《行测》行政执法第45题"
+    "source": "2025年国家公务员考试《行测》行政执法第45题",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2025-行政执法-46",
@@ -524,7 +554,9 @@
     "keyPoints": [],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2025年国家公务员考试《行测》行政执法第46题"
+    "source": "2025年国家公务员考试《行测》行政执法第46题",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2025-行政执法-47",
@@ -555,7 +587,9 @@
     "keyPoints": [],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2025年国家公务员考试《行测》行政执法第47题"
+    "source": "2025年国家公务员考试《行测》行政执法第47题",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2025-行政执法-48",
@@ -587,7 +621,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年国家公务员考试《行测》行政执法第48题",
-    "isImageQuestion": true
+    "isImageQuestion": true,
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2025-行政执法-49",
@@ -618,7 +654,9 @@
     "keyPoints": [],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2025年国家公务员考试《行测》行政执法第49题"
+    "source": "2025年国家公务员考试《行测》行政执法第49题",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2025-行政执法-50",
@@ -649,7 +687,9 @@
     "keyPoints": [],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2025年国家公务员考试《行测》行政执法第50题"
+    "source": "2025年国家公务员考试《行测》行政执法第50题",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2025-行政执法-51",
@@ -680,7 +720,9 @@
     "keyPoints": [],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2025年国家公务员考试《行测》行政执法第51题"
+    "source": "2025年国家公务员考试《行测》行政执法第51题",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2025-行政执法-52",
@@ -713,7 +755,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2025年国家公务员考试《行测》行政执法第52题"
+    "source": "2025年国家公务员考试《行测》行政执法第52题",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2025-行政执法-53",
@@ -744,7 +788,9 @@
     "keyPoints": [],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2025年国家公务员考试《行测》行政执法第53题"
+    "source": "2025年国家公务员考试《行测》行政执法第53题",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2025-行政执法-54",
@@ -777,7 +823,9 @@
     ],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2025年国家公务员考试《行测》行政执法第54题"
+    "source": "2025年国家公务员考试《行测》行政执法第54题",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2025-行政执法-55",
@@ -808,6 +856,8 @@
     "keyPoints": [],
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2025年国家公务员考试《行测》行政执法第55题"
+    "source": "2025年国家公务员考试《行测》行政执法第55题",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   }
 ]

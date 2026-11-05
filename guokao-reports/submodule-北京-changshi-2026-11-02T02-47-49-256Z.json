@@ -1,0 +1,98 @@
+{
+  "generatedAt": "2026-11-02T02:47:49.256Z",
+  "promptVersion": "submodule-v2",
+  "model": "deepseek-flash",
+  "scope": {
+    "provinces": [
+      "北京"
+    ],
+    "modules": [
+      "changshi"
+    ],
+    "shards": [
+      "provincial-北京-changshi-0.json",
+      "provincial-北京-changshi-1.json",
+      "provincial-北京-changshi-2.json",
+      "provincial-北京-changshi-3.json"
+    ]
+  },
+  "counts": {
+    "matched": 656,
+    "existing": 0,
+    "invalidExisting": 0,
+    "needs": 656,
+    "attempted": 20,
+    "apiCalls": 8,
+    "cacheHits": 12,
+    "succeeded": 5,
+    "failed": 3,
+    "notRun": 636,
+    "classified": 17,
+    "lowConfidence": 0
+  },
+  "timing": {
+    "elapsedMs": 11533,
+    "perQuestionMs": 1441.625,
+    "per1000Ms": 1441625,
+    "per1000Minutes": 24.027083333333334,
+    "per1000MinutesAtConcurrency": 4.004513888888889,
+    "observedPer1000Minutes": 9.610833333333334
+  },
+  "usage": {
+    "promptTokens": 3868,
+    "completionTokens": 311,
+    "cacheHitTokens": 2688,
+    "cacheMissTokens": 1180,
+    "totalTokens": 4179
+  },
+  "price": {
+    "hit": 0.006,
+    "miss": 0.3,
+    "output": 1.2,
+    "usdCny": 7.1
+  },
+  "cost": {
+    "usdPeak": 0.000743328,
+    "usdOffPeak": 0.000371664,
+    "per1000UsdPeak": 0.092916,
+    "per1000CnyPeak": 0.6597036
+  },
+  "distribution": {
+    "常识判断": {
+      "total": 17,
+      "subModules": {
+        "政治时政": 6,
+        "法律": 6,
+        "地理国情": 1,
+        "经济管理": 1,
+        "人文历史": 2,
+        "科技": 1
+      }
+    }
+  },
+  "failures": [
+    {
+      "key": "provincial-北京-changshi-0.json#16#prov-beijing-2008-应届-72#b259259c09f2",
+      "id": "prov-beijing-2008-应届-72",
+      "province": "北京",
+      "module": "changshi",
+      "error": "DeepSeek 返回内容为空"
+    },
+    {
+      "key": "provincial-北京-changshi-0.json#2#prov-beijing-2008-应届-58#5c9c4a7391d1",
+      "id": "prov-beijing-2008-应届-58",
+      "province": "北京",
+      "module": "changshi",
+      "error": "DeepSeek 返回内容为空"
+    },
+    {
+      "key": "provincial-北京-changshi-0.json#12#prov-beijing-2008-应届-68#e8cfed595415",
+      "id": "prov-beijing-2008-应届-68",
+      "province": "北京",
+      "module": "changshi",
+      "error": "DeepSeek 返回内容为空"
+    }
+  ],
+  "lowConfidence": [],
+  "reviewSample": []
+}

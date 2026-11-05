@@ -32,7 +32,9 @@
     "difficulty": "拔高",
     "source": "2023年四川公务员考试《行测》第46题",
     "isImageQuestion": true,
-    "province": "四川"
+    "province": "四川",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2023-未标注-47",
@@ -68,7 +70,9 @@
     "difficulty": "拔高",
     "source": "2023年四川公务员考试《行测》第47题",
     "isImageQuestion": true,
-    "province": "四川"
+    "province": "四川",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2023-未标注-48",
@@ -102,7 +106,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2023年四川公务员考试《行测》第48题",
-    "province": "四川"
+    "province": "四川",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2023-未标注-49",
@@ -120,7 +126,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2023年四川公务员考试《行测》第49题",
-    "province": "四川"
+    "province": "四川",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2023-未标注-50",
@@ -136,7 +144,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2023年四川公务员考试《行测》第50题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-sichuan-2023-未标注-51",
@@ -152,7 +162,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2023年四川公务员考试《行测》第51题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-sichuan-2023-未标注-52",
@@ -168,7 +180,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2023年四川公务员考试《行测》第52题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-sichuan-2023-未标注-53",
@@ -184,7 +198,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2023年四川公务员考试《行测》第53题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-sichuan-2023-未标注-54",
@@ -200,7 +216,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2023年四川公务员考试《行测》第54题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-sichuan-2023-未标注-55",
@@ -216,7 +234,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2023年四川公务员考试《行测》第55题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-sichuan-2023-未标注-56",
@@ -232,7 +252,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2023年四川公务员考试《行测》第56题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-sichuan-2023-未标注-57",
@@ -248,7 +270,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2023年四川公务员考试《行测》第57题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-sichuan-2023-未标注-58",
@@ -264,7 +288,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2023年四川公务员考试《行测》第58题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-sichuan-2023-未标注-59",
@@ -280,7 +306,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2023年四川公务员考试《行测》第59题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-sichuan-2023-未标注-60",
@@ -296,7 +324,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2023年四川公务员考试《行测》第60题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-sichuan-2023-未标注-61",
@@ -312,7 +342,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2023年四川公务员考试《行测》第61题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-sichuan-2023-未标注-62",
@@ -349,7 +381,10 @@
     "difficulty": "拔高",
     "source": "2023年四川公务员考试《行测》第62题",
     "isImageQuestion": true,
-    "province": "四川"
+    "province": "四川",
+    "isAbnormal": true,
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2024-未标注-46",
@@ -381,7 +416,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2024年四川公务员考试《行测》第46题",
-    "province": "四川"
+    "province": "四川",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2024-未标注-47",
@@ -413,7 +450,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2024年四川公务员考试《行测》第47题",
-    "province": "四川"
+    "province": "四川",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2024-未标注-48",
@@ -445,7 +484,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2024年四川公务员考试《行测》第48题",
-    "province": "四川"
+    "province": "四川",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2024-未标注-49",
@@ -477,7 +518,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2024年四川公务员考试《行测》第49题",
-    "province": "四川"
+    "province": "四川",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2024-未标注-50",
@@ -509,7 +552,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2024年四川公务员考试《行测》第50题",
-    "province": "四川"
+    "province": "四川",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2024-未标注-51",
@@ -541,7 +586,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2024年四川公务员考试《行测》第51题",
-    "province": "四川"
+    "province": "四川",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2024-未标注-52",
@@ -573,7 +620,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2024年四川公务员考试《行测》第52题",
-    "province": "四川"
+    "province": "四川",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2024-未标注-53",
@@ -606,7 +655,9 @@
     "difficulty": "拔高",
     "source": "2024年四川公务员考试《行测》第53题",
     "isImageQuestion": true,
-    "province": "四川"
+    "province": "四川",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2024-未标注-54",
@@ -638,7 +689,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2024年四川公务员考试《行测》第54题",
-    "province": "四川"
+    "province": "四川",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2024-未标注-55",
@@ -671,7 +724,9 @@
     "difficulty": "拔高",
     "source": "2024年四川公务员考试《行测》第55题",
     "isImageQuestion": true,
-    "province": "四川"
+    "province": "四川",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2025-选调-56",
@@ -691,7 +746,9 @@
     "difficulty": "拔高",
     "source": "2025年四川公务员考试《行测》（选调）第56题",
     "isImageQuestion": true,
-    "province": "四川"
+    "province": "四川",
+    "subModule": "几何",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-sichuan-2025-选调-57",
@@ -710,7 +767,9 @@
     "difficulty": "拔高",
     "source": "2025年四川公务员考试《行测》（选调）第57题",
     "isImageQuestion": true,
-    "province": "四川"
+    "province": "四川",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2025-选调-58",
@@ -730,7 +789,9 @@
     "difficulty": "拔高",
     "source": "2025年四川公务员考试《行测》（选调）第58题",
     "isImageQuestion": true,
-    "province": "四川"
+    "province": "四川",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-sichuan-2025-选调-59",
@@ -750,7 +811,9 @@
     "difficulty": "拔高",
     "source": "2025年四川公务员考试《行测》（选调）第59题",
     "isImageQuestion": true,
-    "province": "四川"
+    "province": "四川",
+    "subModule": "几何",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-sichuan-2025-选调-60",
@@ -770,7 +833,9 @@
     "difficulty": "拔高",
     "source": "2025年四川公务员考试《行测》（选调）第60题",
     "isImageQuestion": true,
-    "province": "四川"
+    "province": "四川",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2025-选调-61",
@@ -789,7 +854,9 @@
     "difficulty": "拔高",
     "source": "2025年四川公务员考试《行测》（选调）第61题",
     "isImageQuestion": true,
-    "province": "四川"
+    "province": "四川",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2025-选调-62",
@@ -809,7 +876,9 @@
     "difficulty": "拔高",
     "source": "2025年四川公务员考试《行测》（选调）第62题",
     "isImageQuestion": true,
-    "province": "四川"
+    "province": "四川",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-sichuan-2025-选调-63",
@@ -846,7 +915,9 @@
     "difficulty": "拔高",
     "source": "2025年四川公务员考试《行测》（选调）第63题",
     "isImageQuestion": true,
-    "province": "四川"
+    "province": "四川",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-sichuan-2025-选调-64",
@@ -882,7 +953,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年四川公务员考试《行测》（选调）第64题",
-    "province": "四川"
+    "province": "四川",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-sichuan-2025-选调-65",
@@ -917,7 +990,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年四川公务员考试《行测》（选调）第65题",
-    "province": "四川"
+    "province": "四川",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-sichuan-2025-选调-66",
@@ -953,7 +1028,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年四川公务员考试《行测》（选调）第66题",
-    "province": "四川"
+    "province": "四川",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-sichuan-2025-选调-67",
@@ -988,7 +1065,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年四川公务员考试《行测》（选调）第67题",
-    "province": "四川"
+    "province": "四川",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-sichuan-2025-选调-68",
@@ -1024,7 +1103,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年四川公务员考试《行测》（选调）第68题",
-    "province": "四川"
+    "province": "四川",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-sichuan-2025-选调-69",
@@ -1044,7 +1125,10 @@
     "difficulty": "拔高",
     "source": "2025年四川公务员考试《行测》（选调）第69题",
     "isImageQuestion": true,
-    "province": "四川"
+    "province": "四川",
+    "isAbnormal": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-sichuan-2025-选调-70",
@@ -1079,6 +1163,8 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年四川公务员考试《行测》（选调）第70题",
-    "province": "四川"
+    "province": "四川",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   }
 ]

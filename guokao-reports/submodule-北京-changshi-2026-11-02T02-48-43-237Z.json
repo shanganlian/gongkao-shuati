@@ -1,0 +1,76 @@
+{
+  "generatedAt": "2026-11-02T02:48:43.237Z",
+  "promptVersion": "submodule-v2",
+  "model": "deepseek-flash",
+  "scope": {
+    "provinces": [
+      "北京"
+    ],
+    "modules": [
+      "changshi"
+    ],
+    "shards": [
+      "provincial-北京-changshi-0.json",
+      "provincial-北京-changshi-1.json",
+      "provincial-北京-changshi-2.json",
+      "provincial-北京-changshi-3.json"
+    ]
+  },
+  "counts": {
+    "matched": 656,
+    "existing": 0,
+    "invalidExisting": 0,
+    "needs": 656,
+    "attempted": 20,
+    "apiCalls": 3,
+    "cacheHits": 17,
+    "succeeded": 3,
+    "failed": 0,
+    "notRun": 636,
+    "classified": 20,
+    "lowConfidence": 0
+  },
+  "timing": {
+    "elapsedMs": 1940,
+    "perQuestionMs": 646.6666666666666,
+    "per1000Ms": 646666.6666666666,
+    "per1000Minutes": 10.777777777777777,
+    "per1000MinutesAtConcurrency": 1.796296296296296,
+    "observedPer1000Minutes": 1.6166666666666667
+  },
+  "usage": {
+    "promptTokens": 2285,
+    "completionTokens": 476,
+    "cacheHitTokens": 1664,
+    "cacheMissTokens": 621,
+    "totalTokens": 2761
+  },
+  "price": {
+    "hit": 0.006,
+    "miss": 0.3,
+    "output": 1.2,
+    "usdCny": 7.1
+  },
+  "cost": {
+    "usdPeak": 0.000767484,
+    "usdOffPeak": 0.000383742,
+    "per1000UsdPeak": 0.255828,
+    "per1000CnyPeak": 1.8163787999999998
+  },
+  "distribution": {
+    "常识判断": {
+      "total": 20,
+      "subModules": {
+        "政治时政": 8,
+        "法律": 6,
+        "地理国情": 1,
+        "经济管理": 2,
+        "人文历史": 2,
+        "科技": 1
+      }
+    }
+  },
+  "failures": [],
+  "lowConfidence": [],
+  "reviewSample": []
+}

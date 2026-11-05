@@ -118,7 +118,7 @@ export const AudioPlayerFloating: React.FC<AudioPlayerFloatingProps> = ({
   const currentPersona = VOICE_PERSONAS[selectedVoice] || VOICE_PERSONAS.Kore;
 
   return (
-    <div className="fixed bottom-4 right-4 left-4 md:left-auto md:w-[420px] z-50 bg-slate-900 text-white rounded-2xl shadow-2xl p-4.5 border border-slate-700 transition-all">
+    <div className="fixed bottom-4 right-4 left-4 md:left-auto md:w-[420px] z-50 bg-slate-900 dark:bg-slate-700 text-white rounded-2xl shadow-2xl p-4.5 border border-slate-700 transition-all">
       {/* Header Info */}
       <div className="flex items-center justify-between gap-3 mb-3">
         <div className="flex items-center gap-2.5 min-w-0">
@@ -149,7 +149,7 @@ export const AudioPlayerFloating: React.FC<AudioPlayerFloatingProps> = ({
             stopAllSpeech();
             onClose();
           }}
-          className="p-1 text-slate-400 hover:text-white rounded-lg hover:bg-slate-800 transition-colors cursor-pointer"
+          className="p-1 text-slate-400 hover:text-white rounded-lg hover:bg-slate-800 dark:hover:bg-slate-600 transition-colors cursor-pointer"
           title="关闭语音播放"
         >
           <X className="w-4 h-4" />
@@ -160,7 +160,7 @@ export const AudioPlayerFloating: React.FC<AudioPlayerFloatingProps> = ({
       <div className="mb-3 p-2 bg-slate-800/80 rounded-xl border border-slate-700/80">
         <div className="flex items-center justify-between text-[11px] text-slate-300 mb-1.5 px-0.5">
           <span className="font-semibold flex items-center gap-1">
-            <Sparkles className="w-3 h-3 text-amber-400" />
+            <Sparkles className="w-3 h-3 text-emerald-300" />
             选择讲解人声音色：
           </span>
           <span className="text-[10px] text-slate-400">富有真情实感与抑扬顿挫</span>
@@ -196,7 +196,7 @@ export const AudioPlayerFloating: React.FC<AudioPlayerFloatingProps> = ({
             key={i}
             className={`w-1 rounded-full transition-all duration-300 ${
               isPlaying 
-                ? 'bg-emerald-400 animate-pulse' 
+                ? 'bg-emerald-400 dark:bg-emerald-700 animate-pulse' 
                 : 'bg-slate-700'
             }`}
             style={{
@@ -224,7 +224,7 @@ export const AudioPlayerFloating: React.FC<AudioPlayerFloatingProps> = ({
         <div className="flex items-center gap-3">
           <button
             onClick={handleRestart}
-            className="p-1.5 text-slate-400 hover:text-white rounded-lg hover:bg-slate-800 transition-colors cursor-pointer"
+            className="p-1.5 text-slate-400 hover:text-white rounded-lg hover:bg-slate-800 dark:hover:bg-slate-600 transition-colors cursor-pointer"
             title="从头重播"
           >
             <RotateCcw className="w-4 h-4" />
@@ -233,15 +233,15 @@ export const AudioPlayerFloating: React.FC<AudioPlayerFloatingProps> = ({
           <button
             onClick={togglePlay}
             disabled={isLoadingAudio}
-            className="w-8 h-8 rounded-full bg-emerald-500 hover:bg-emerald-400 text-slate-950 flex items-center justify-center transition-all cursor-pointer shadow-md disabled:opacity-50"
+            className="w-8 h-8 rounded-full bg-emerald-500 hover:bg-emerald-400 dark:hover:bg-emerald-700 text-slate-950 dark:text-slate-100 flex items-center justify-center transition-all cursor-pointer shadow-md disabled:opacity-50"
             title={isPlaying ? '暂停' : '播放'}
           >
             {isLoadingAudio ? (
-              <Loader2 className="w-4 h-4 animate-spin text-slate-950" />
+              <Loader2 className="w-4 h-4 animate-spin text-slate-950 dark:text-slate-100" />
             ) : isPlaying ? (
-              <Pause className="w-4 h-4 fill-slate-950" />
+              <Pause className="w-4 h-4 fill-slate-950 dark:fill-slate-100" />
             ) : (
-              <Play className="w-4 h-4 fill-slate-950 ml-0.5" />
+              <Play className="w-4 h-4 fill-slate-950 dark:fill-slate-100 ml-0.5" />
             )}
           </button>
         </div>

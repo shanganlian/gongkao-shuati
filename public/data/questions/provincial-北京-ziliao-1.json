@@ -33,7 +33,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年北京公务员考试《行测》第121题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2017-未标注-122",
@@ -70,7 +72,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年北京公务员考试《行测》第122题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2017-未标注-123",
@@ -106,7 +110,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年北京公务员考试《行测》第123题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2017-未标注-124",
@@ -143,7 +149,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年北京公务员考试《行测》第124题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2017-未标注-125",
@@ -178,7 +186,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年北京公务员考试《行测》第125题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2017-未标注-126",
@@ -213,7 +223,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年北京公务员考试《行测》第126题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2017-未标注-127",
@@ -248,7 +260,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年北京公务员考试《行测》第127题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2017-未标注-128",
@@ -284,7 +298,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年北京公务员考试《行测》第128题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2017-未标注-129",
@@ -320,7 +336,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年北京公务员考试《行测》第129题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2017-未标注-130",
@@ -355,7 +373,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年北京公务员考试《行测》第130题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2017-未标注-131",
@@ -392,7 +412,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年北京公务员考试《行测》第131题",
-    "province": "北京"
+    "province": "北京",
+    "isAbnormal": true,
+    "subModule": "图形材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2017-未标注-132",
@@ -428,7 +451,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年北京公务员考试《行测》第132题",
-    "province": "北京"
+    "province": "北京",
+    "isAbnormal": true,
+    "subModule": "图形材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2017-未标注-133",
@@ -464,7 +490,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年北京公务员考试《行测》第133题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2017-未标注-134",
@@ -499,7 +527,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年北京公务员考试《行测》第134题",
-    "province": "北京"
+    "province": "北京",
+    "isAbnormal": true,
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2017-未标注-135",
@@ -536,7 +567,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年北京公务员考试《行测》第135题",
-    "province": "北京"
+    "province": "北京",
+    "isAbnormal": true,
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2018-未标注-116",
@@ -571,7 +605,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年北京公务员考试《行测》第116题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "图形材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2018-未标注-117",
@@ -605,7 +641,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年北京公务员考试《行测》第117题",
-    "province": "北京"
+    "province": "北京",
+    "isAbnormal": true,
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2018-未标注-118",
@@ -637,7 +676,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年北京公务员考试《行测》第118题",
-    "province": "北京"
+    "province": "北京",
+    "isAbnormal": true,
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2018-未标注-119",
@@ -672,7 +714,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年北京公务员考试《行测》第119题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2018-未标注-120",
@@ -707,7 +751,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年北京公务员考试《行测》第120题",
-    "province": "北京"
+    "province": "北京",
+    "isAbnormal": true,
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2018-未标注-121",
@@ -742,7 +789,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年北京公务员考试《行测》第121题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2018-未标注-122",
@@ -778,7 +827,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年北京公务员考试《行测》第122题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2018-未标注-123",
@@ -814,7 +865,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年北京公务员考试《行测》第123题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2018-未标注-124",
@@ -849,7 +902,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年北京公务员考试《行测》第124题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2018-未标注-125",
@@ -882,7 +937,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年北京公务员考试《行测》第125题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2018-未标注-126",
@@ -917,7 +974,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年北京公务员考试《行测》第126题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2018-未标注-127",
@@ -952,7 +1011,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年北京公务员考试《行测》第127题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2018-未标注-128",
@@ -988,7 +1049,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年北京公务员考试《行测》第128题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2018-未标注-129",
@@ -1024,7 +1087,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年北京公务员考试《行测》第129题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2018-未标注-130",
@@ -1057,7 +1122,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年北京公务员考试《行测》第130题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2018-未标注-131",
@@ -1090,7 +1157,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年北京公务员考试《行测》第131题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2018-未标注-132",
@@ -1125,7 +1194,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年北京公务员考试《行测》第132题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2018-未标注-133",
@@ -1160,7 +1231,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年北京公务员考试《行测》第133题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2018-未标注-134",
@@ -1196,7 +1269,9 @@
     "difficulty": "中等",
     "source": "2018年北京公务员考试《行测》第134题",
     "isImageQuestion": true,
-    "province": "北京"
+    "province": "北京",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2018-未标注-135",
@@ -1232,7 +1307,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年北京公务员考试《行测》第135题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2019-未标注-116",
@@ -1267,7 +1344,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年北京公务员考试《行测》第116题",
-    "province": "北京"
+    "province": "北京",
+    "isAbnormal": true,
+    "subModule": "综合材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-beijing-2019-未标注-117",
@@ -1303,7 +1383,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年北京公务员考试《行测》第117题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "综合材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-beijing-2019-未标注-118",
@@ -1339,7 +1421,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年北京公务员考试《行测》第118题",
-    "province": "北京"
+    "province": "北京",
+    "isAbnormal": true,
+    "subModule": "综合材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-beijing-2019-未标注-119",
@@ -1359,7 +1444,9 @@
     "difficulty": "中等",
     "source": "2019年北京公务员考试《行测》第119题",
     "isImageQuestion": true,
-    "province": "北京"
+    "province": "北京",
+    "subModule": "综合材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-beijing-2019-未标注-120",
@@ -1396,7 +1483,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年北京公务员考试《行测》第120题",
-    "province": "北京"
+    "province": "北京",
+    "isAbnormal": true,
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2019-未标注-121",
@@ -1431,7 +1521,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年北京公务员考试《行测》第121题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2019-未标注-122",
@@ -1466,7 +1558,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年北京公务员考试《行测》第122题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2019-未标注-123",
@@ -1502,7 +1596,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年北京公务员考试《行测》第123题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2019-未标注-124",
@@ -1535,7 +1631,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年北京公务员考试《行测》第124题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2019-未标注-125",
@@ -1570,7 +1668,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年北京公务员考试《行测》第125题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2019-未标注-126",
@@ -1605,7 +1705,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年北京公务员考试《行测》第126题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2019-未标注-127",
@@ -1640,7 +1742,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年北京公务员考试《行测》第127题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2019-未标注-128",
@@ -1676,7 +1780,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年北京公务员考试《行测》第128题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2019-未标注-129",
@@ -1709,7 +1815,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年北京公务员考试《行测》第129题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2019-未标注-130",
@@ -1744,7 +1852,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年北京公务员考试《行测》第130题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2019-未标注-131",
@@ -1779,7 +1889,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年北京公务员考试《行测》第131题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2019-未标注-132",
@@ -1815,7 +1927,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年北京公务员考试《行测》第132题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2019-未标注-133",
@@ -1851,7 +1965,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年北京公务员考试《行测》第133题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2019-未标注-134",
@@ -1887,7 +2003,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年北京公务员考试《行测》第134题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2019-未标注-135",
@@ -1922,7 +2040,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年北京公务员考试《行测》第135题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2020-未标注-116",
@@ -1957,7 +2077,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年北京公务员考试《行测》第116题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2020-未标注-117",
@@ -1992,7 +2114,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年北京公务员考试《行测》第117题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2020-未标注-118",
@@ -2028,7 +2152,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年北京公务员考试《行测》第118题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2020-未标注-119",
@@ -2063,7 +2189,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年北京公务员考试《行测》第119题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2020-未标注-120",
@@ -2099,7 +2227,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年北京公务员考试《行测》第120题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2020-未标注-121",
@@ -2134,7 +2264,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年北京公务员考试《行测》第121题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2020-未标注-122",
@@ -2168,7 +2300,9 @@
     "difficulty": "中等",
     "source": "2020年北京公务员考试《行测》第122题",
     "isImageQuestion": true,
-    "province": "北京"
+    "province": "北京",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2020-未标注-123",
@@ -2203,7 +2337,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年北京公务员考试《行测》第123题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2020-未标注-124",
@@ -2238,7 +2374,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年北京公务员考试《行测》第124题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2020-未标注-125",
@@ -2273,7 +2411,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年北京公务员考试《行测》第125题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2020-未标注-126",
@@ -2308,7 +2448,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年北京公务员考试《行测》第126题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2020-未标注-127",
@@ -2343,7 +2485,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年北京公务员考试《行测》第127题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2020-未标注-128",
@@ -2378,7 +2522,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年北京公务员考试《行测》第128题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2020-未标注-129",
@@ -2413,7 +2559,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年北京公务员考试《行测》第129题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2020-未标注-130",
@@ -2449,7 +2597,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年北京公务员考试《行测》第130题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2020-未标注-131",
@@ -2484,7 +2634,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年北京公务员考试《行测》第131题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2020-未标注-132",
@@ -2519,7 +2671,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年北京公务员考试《行测》第132题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2020-未标注-133",
@@ -2554,7 +2708,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年北京公务员考试《行测》第133题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2020-未标注-134",
@@ -2589,7 +2745,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年北京公务员考试《行测》第134题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2020-未标注-135",
@@ -2624,7 +2782,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年北京公务员考试《行测》第135题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2020-乡镇-111",
@@ -2659,7 +2819,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年北京公务员考试《行测》（乡镇）第111题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2020-乡镇-112",
@@ -2694,7 +2856,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年北京公务员考试《行测》（乡镇）第112题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2020-乡镇-113",
@@ -2730,7 +2894,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年北京公务员考试《行测》（乡镇）第113题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2020-乡镇-114",
@@ -2765,7 +2931,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年北京公务员考试《行测》（乡镇）第114题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2020-乡镇-115",
@@ -2801,7 +2969,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年北京公务员考试《行测》（乡镇）第115题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2020-乡镇-116",
@@ -2836,7 +3006,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年北京公务员考试《行测》（乡镇）第116题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2020-乡镇-117",
@@ -2870,7 +3042,9 @@
     "difficulty": "中等",
     "source": "2020年北京公务员考试《行测》（乡镇）第117题",
     "isImageQuestion": true,
-    "province": "北京"
+    "province": "北京",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2020-乡镇-118",
@@ -2905,7 +3079,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年北京公务员考试《行测》（乡镇）第118题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2020-乡镇-119",
@@ -2940,7 +3116,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年北京公务员考试《行测》（乡镇）第119题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2020-乡镇-120",
@@ -2976,7 +3154,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年北京公务员考试《行测》（乡镇）第120题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2020-乡镇-121",
@@ -3011,7 +3191,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年北京公务员考试《行测》（乡镇）第121题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2020-乡镇-122",
@@ -3046,7 +3228,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年北京公务员考试《行测》（乡镇）第122题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2020-乡镇-123",
@@ -3081,7 +3265,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年北京公务员考试《行测》（乡镇）第123题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2020-乡镇-124",
@@ -3116,7 +3302,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年北京公务员考试《行测》（乡镇）第124题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2020-乡镇-125",
@@ -3152,7 +3340,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年北京公务员考试《行测》（乡镇）第125题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2020-乡镇-126",
@@ -3187,7 +3377,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年北京公务员考试《行测》（乡镇）第126题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2020-乡镇-127",
@@ -3222,7 +3414,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年北京公务员考试《行测》（乡镇）第127题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2020-乡镇-128",
@@ -3257,7 +3451,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年北京公务员考试《行测》（乡镇）第128题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2020-乡镇-129",
@@ -3292,7 +3488,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年北京公务员考试《行测》（乡镇）第129题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2020-乡镇-130",
@@ -3327,7 +3525,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年北京公务员考试《行测》（乡镇）第130题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2021-未标注-116",
@@ -3363,7 +3563,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年北京公务员考试《行测》第116题",
-    "province": "北京"
+    "province": "北京",
+    "isAbnormal": true,
+    "subModule": "图形材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2021-未标注-117",
@@ -3398,7 +3601,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年北京公务员考试《行测》第117题",
-    "province": "北京"
+    "province": "北京",
+    "isAbnormal": true,
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2021-未标注-118",
@@ -3435,7 +3641,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年北京公务员考试《行测》第118题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "图形材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2021-未标注-119",
@@ -3471,7 +3679,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年北京公务员考试《行测》第119题",
-    "province": "北京"
+    "province": "北京",
+    "isAbnormal": true,
+    "subModule": "图形材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2021-未标注-120",
@@ -3507,7 +3718,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年北京公务员考试《行测》第120题",
-    "province": "北京"
+    "province": "北京",
+    "isAbnormal": true,
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2021-未标注-121",
@@ -3544,7 +3758,9 @@
     "difficulty": "中等",
     "source": "2021年北京公务员考试《行测》第121题",
     "isImageQuestion": true,
-    "province": "北京"
+    "province": "北京",
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2021-未标注-122",
@@ -3581,7 +3797,9 @@
     "difficulty": "中等",
     "source": "2021年北京公务员考试《行测》第122题",
     "isImageQuestion": true,
-    "province": "北京"
+    "province": "北京",
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2021-未标注-123",
@@ -3618,7 +3836,9 @@
     "difficulty": "中等",
     "source": "2021年北京公务员考试《行测》第123题",
     "isImageQuestion": true,
-    "province": "北京"
+    "province": "北京",
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2021-未标注-124",
@@ -3655,7 +3875,9 @@
     "difficulty": "中等",
     "source": "2021年北京公务员考试《行测》第124题",
     "isImageQuestion": true,
-    "province": "北京"
+    "province": "北京",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2021-未标注-125",
@@ -3692,7 +3914,9 @@
     "difficulty": "中等",
     "source": "2021年北京公务员考试《行测》第125题",
     "isImageQuestion": true,
-    "province": "北京"
+    "province": "北京",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2021-未标注-126",
@@ -3728,7 +3952,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年北京公务员考试《行测》第126题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2021-未标注-127",
@@ -3764,7 +3990,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年北京公务员考试《行测》第127题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2021-未标注-128",
@@ -3799,7 +4027,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年北京公务员考试《行测》第128题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2021-未标注-129",
@@ -3836,7 +4066,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年北京公务员考试《行测》第129题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2021-未标注-130",
@@ -3872,7 +4104,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年北京公务员考试《行测》第130题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2021-未标注-131",
@@ -3908,7 +4142,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年北京公务员考试《行测》第131题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2021-未标注-132",
@@ -3944,7 +4180,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年北京公务员考试《行测》第132题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2021-未标注-133",
@@ -3979,7 +4217,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年北京公务员考试《行测》第133题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2021-未标注-134",
@@ -4014,7 +4254,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年北京公务员考试《行测》第134题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2021-未标注-135",
@@ -4050,7 +4292,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年北京公务员考试《行测》第135题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2021-乡镇-111",
@@ -4086,7 +4330,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年北京公务员考试《行测》（乡镇）第111题",
-    "province": "北京"
+    "province": "北京",
+    "isAbnormal": true,
+    "subModule": "图形材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2021-乡镇-112",
@@ -4121,7 +4368,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年北京公务员考试《行测》（乡镇）第112题",
-    "province": "北京"
+    "province": "北京",
+    "isAbnormal": true,
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2021-乡镇-113",
@@ -4158,7 +4408,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年北京公务员考试《行测》（乡镇）第113题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "图形材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2021-乡镇-114",
@@ -4194,7 +4446,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年北京公务员考试《行测》（乡镇）第114题",
-    "province": "北京"
+    "province": "北京",
+    "isAbnormal": true,
+    "subModule": "图形材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2021-乡镇-115",
@@ -4230,7 +4485,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年北京公务员考试《行测》（乡镇）第115题",
-    "province": "北京"
+    "province": "北京",
+    "isAbnormal": true,
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2021-乡镇-116",
@@ -4267,7 +4525,9 @@
     "difficulty": "中等",
     "source": "2021年北京公务员考试《行测》（乡镇）第116题",
     "isImageQuestion": true,
-    "province": "北京"
+    "province": "北京",
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2021-乡镇-117",
@@ -4304,7 +4564,9 @@
     "difficulty": "中等",
     "source": "2021年北京公务员考试《行测》（乡镇）第117题",
     "isImageQuestion": true,
-    "province": "北京"
+    "province": "北京",
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2021-乡镇-118",
@@ -4341,7 +4603,9 @@
     "difficulty": "中等",
     "source": "2021年北京公务员考试《行测》（乡镇）第118题",
     "isImageQuestion": true,
-    "province": "北京"
+    "province": "北京",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2021-乡镇-119",
@@ -4378,7 +4642,9 @@
     "difficulty": "中等",
     "source": "2021年北京公务员考试《行测》（乡镇）第119题",
     "isImageQuestion": true,
-    "province": "北京"
+    "province": "北京",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2021-乡镇-120",
@@ -4415,7 +4681,9 @@
     "difficulty": "中等",
     "source": "2021年北京公务员考试《行测》（乡镇）第120题",
     "isImageQuestion": true,
-    "province": "北京"
+    "province": "北京",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2021-乡镇-121",
@@ -4451,7 +4719,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年北京公务员考试《行测》（乡镇）第121题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2021-乡镇-122",
@@ -4487,7 +4757,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年北京公务员考试《行测》（乡镇）第122题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2021-乡镇-123",
@@ -4522,7 +4794,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年北京公务员考试《行测》（乡镇）第123题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2021-乡镇-124",
@@ -4559,7 +4833,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年北京公务员考试《行测》（乡镇）第124题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2021-乡镇-125",
@@ -4595,7 +4871,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年北京公务员考试《行测》（乡镇）第125题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2021-乡镇-126",
@@ -4631,7 +4909,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年北京公务员考试《行测》（乡镇）第126题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2021-乡镇-127",
@@ -4667,7 +4947,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年北京公务员考试《行测》（乡镇）第127题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2021-乡镇-128",
@@ -4702,7 +4984,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年北京公务员考试《行测》（乡镇）第128题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2021-乡镇-129",
@@ -4737,7 +5021,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年北京公务员考试《行测》（乡镇）第129题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2021-乡镇-130",
@@ -4773,7 +5059,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年北京公务员考试《行测》（乡镇）第130题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2022-未标注-116",
@@ -4808,7 +5096,9 @@
     "difficulty": "中等",
     "source": "2022年北京公务员考试《行测》第116题",
     "isImageQuestion": true,
-    "province": "北京"
+    "province": "北京",
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2022-未标注-117",
@@ -4828,7 +5118,9 @@
     "difficulty": "中等",
     "source": "2022年北京公务员考试《行测》第117题",
     "isImageQuestion": true,
-    "province": "北京"
+    "province": "北京",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2022-未标注-118",
@@ -4864,7 +5156,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2022年北京公务员考试《行测》第118题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2022-未标注-119",
@@ -4899,7 +5193,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2022年北京公务员考试《行测》第119题",
-    "province": "北京"
+    "province": "北京",
+    "isAbnormal": true,
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2022-未标注-120",
@@ -4934,7 +5231,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2022年北京公务员考试《行测》第120题",
-    "province": "北京"
+    "province": "北京",
+    "isAbnormal": true,
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2022-未标注-121",
@@ -4969,7 +5269,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2022年北京公务员考试《行测》第121题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2022-未标注-122",
@@ -5005,7 +5307,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2022年北京公务员考试《行测》第122题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2022-未标注-123",
@@ -5041,7 +5345,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2022年北京公务员考试《行测》第123题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2022-未标注-124",
@@ -5077,7 +5383,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2022年北京公务员考试《行测》第124题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2022-未标注-125",
@@ -5113,7 +5421,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2022年北京公务员考试《行测》第125题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2022-未标注-126",
@@ -5149,7 +5459,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2022年北京公务员考试《行测》第126题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2022-未标注-127",
@@ -5184,7 +5496,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2022年北京公务员考试《行测》第127题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2022-未标注-128",
@@ -5220,7 +5534,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2022年北京公务员考试《行测》第128题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2022-未标注-129",
@@ -5256,7 +5572,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2022年北京公务员考试《行测》第129题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2022-未标注-130",
@@ -5292,7 +5610,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2022年北京公务员考试《行测》第130题",
-    "province": "北京"
+    "province": "北京",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2022-未标注-131",
@@ -5328,7 +5648,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2022年北京公务员考试《行测》第131题",
-    "province": "北京"
+    "province": "北京",
+    "isAbnormal": true,
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2022-未标注-132",
@@ -5364,7 +5687,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2022年北京公务员考试《行测》第132题",
-    "province": "北京"
+    "province": "北京",
+    "isAbnormal": true,
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2022-未标注-133",
@@ -5400,7 +5726,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2022年北京公务员考试《行测》第133题",
-    "province": "北京"
+    "province": "北京",
+    "isAbnormal": true,
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2022-未标注-134",
@@ -5437,7 +5766,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2022年北京公务员考试《行测》第134题",
-    "province": "北京"
+    "province": "北京",
+    "isAbnormal": true,
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-beijing-2022-未标注-135",
@@ -5473,6 +5805,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2022年北京公务员考试《行测》第135题",
-    "province": "北京"
+    "province": "北京",
+    "isAbnormal": true,
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   }
 ]

@@ -32,7 +32,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2025年陕西公务员考试《行测》第16题",
-    "province": "陕西"
+    "province": "陕西",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shaanxi-2025-未标注-17",
@@ -67,7 +69,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2025年陕西公务员考试《行测》第17题",
-    "province": "陕西"
+    "province": "陕西",
+    "subModule": "地理国情",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shaanxi-2025-未标注-18",
@@ -102,7 +106,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2025年陕西公务员考试《行测》第18题",
-    "province": "陕西"
+    "province": "陕西",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shaanxi-2025-未标注-19",
@@ -137,7 +143,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2025年陕西公务员考试《行测》第19题",
-    "province": "陕西"
+    "province": "陕西",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shaanxi-2025-未标注-20",
@@ -172,7 +180,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2025年陕西公务员考试《行测》第20题",
-    "province": "陕西"
+    "province": "陕西",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shaanxi-2025-未标注-21",
@@ -207,7 +217,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2025年陕西公务员考试《行测》第21题",
-    "province": "陕西"
+    "province": "陕西",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shaanxi-2025-未标注-22",
@@ -242,7 +254,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2025年陕西公务员考试《行测》第22题",
-    "province": "陕西"
+    "province": "陕西",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shaanxi-2025-未标注-23",
@@ -277,7 +291,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2025年陕西公务员考试《行测》第23题",
-    "province": "陕西"
+    "province": "陕西",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shaanxi-2025-未标注-24",
@@ -313,7 +329,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2025年陕西公务员考试《行测》第24题",
-    "province": "陕西"
+    "province": "陕西",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shaanxi-2025-未标注-25",
@@ -348,6 +366,8 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2025年陕西公务员考试《行测》第25题",
-    "province": "陕西"
+    "province": "陕西",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   }
 ]

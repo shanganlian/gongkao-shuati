@@ -31,7 +31,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年湖北公务员考试《行测》第86题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2025-未标注-87",
@@ -66,7 +68,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年湖北公务员考试《行测》第87题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2025-未标注-88",
@@ -101,7 +105,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年湖北公务员考试《行测》第88题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2025-未标注-89",
@@ -135,7 +141,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年湖北公务员考试《行测》第89题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2025-未标注-90",
@@ -170,7 +178,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年湖北公务员考试《行测》第90题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2025-未标注-91",
@@ -205,7 +215,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年湖北公务员考试《行测》第91题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2025-未标注-92",
@@ -239,7 +251,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年湖北公务员考试《行测》第92题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2025-未标注-93",
@@ -255,7 +269,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2025年湖北公务员考试《行测》第93题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-hubei-2025-未标注-94",
@@ -271,7 +287,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2025年湖北公务员考试《行测》第94题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-hubei-2025-未标注-95",
@@ -287,7 +305,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2025年湖北公务员考试《行测》第95题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-hubei-2025-未标注-96",
@@ -322,7 +342,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年湖北公务员考试《行测》第96题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2025-未标注-97",
@@ -357,7 +379,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年湖北公务员考试《行测》第97题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2025-未标注-98",
@@ -392,7 +416,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年湖北公务员考试《行测》第98题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2025-未标注-99",
@@ -427,7 +453,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年湖北公务员考试《行测》第99题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2025-未标注-100",
@@ -461,7 +489,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年湖北公务员考试《行测》第100题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2025-未标注-101",
@@ -496,7 +526,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年湖北公务员考试《行测》第101题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2025-未标注-102",
@@ -531,7 +563,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年湖北公务员考试《行测》第102题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2025-未标注-103",
@@ -566,7 +600,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年湖北公务员考试《行测》第103题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2025-未标注-104",
@@ -601,7 +637,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年湖北公务员考试《行测》第104题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hubei-2025-未标注-105",
@@ -636,6 +674,8 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年湖北公务员考试《行测》第105题",
-    "province": "湖北"
+    "province": "湖北",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   }
 ]

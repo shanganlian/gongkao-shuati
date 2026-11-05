@@ -32,7 +32,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2024年湖南公务员考试《行测》第58题",
-    "province": "湖南"
+    "province": "湖南",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hunan-2024-未标注-59",
@@ -66,7 +68,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2024年湖南公务员考试《行测》第59题",
-    "province": "湖南"
+    "province": "湖南",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hunan-2024-未标注-60",
@@ -100,7 +104,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2024年湖南公务员考试《行测》第60题",
-    "province": "湖南"
+    "province": "湖南",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hunan-2024-未标注-61",
@@ -136,7 +142,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2024年湖南公务员考试《行测》第61题",
-    "province": "湖南"
+    "province": "湖南",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hunan-2024-未标注-62",
@@ -171,7 +179,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2024年湖南公务员考试《行测》第62题",
-    "province": "湖南"
+    "province": "湖南",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hunan-2024-未标注-63",
@@ -208,7 +218,9 @@
     "difficulty": "拔高",
     "source": "2024年湖南公务员考试《行测》第63题",
     "isImageQuestion": true,
-    "province": "湖南"
+    "province": "湖南",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hunan-2024-未标注-64",
@@ -243,7 +255,9 @@
     "difficulty": "拔高",
     "source": "2024年湖南公务员考试《行测》第64题",
     "isImageQuestion": true,
-    "province": "湖南"
+    "province": "湖南",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hunan-2024-未标注-65",
@@ -277,7 +291,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2024年湖南公务员考试《行测》第65题",
-    "province": "湖南"
+    "province": "湖南",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hunan-2025-未标注-55",
@@ -292,7 +308,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年湖南公务员考试《行测》第55题",
-    "province": "湖南"
+    "province": "湖南",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-hunan-2025-未标注-56",
@@ -327,7 +345,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年湖南公务员考试《行测》第56题",
-    "province": "湖南"
+    "province": "湖南",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hunan-2025-未标注-57",
@@ -361,7 +381,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年湖南公务员考试《行测》第57题",
-    "province": "湖南"
+    "province": "湖南",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-hunan-2025-未标注-58",
@@ -396,7 +418,10 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年湖南公务员考试《行测》第58题",
-    "province": "湖南"
+    "province": "湖南",
+    "isAbnormal": true,
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hunan-2025-未标注-59",
@@ -431,7 +456,9 @@
     "difficulty": "拔高",
     "source": "2025年湖南公务员考试《行测》第59题",
     "isImageQuestion": true,
-    "province": "湖南"
+    "province": "湖南",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hunan-2025-未标注-60",
@@ -463,7 +490,9 @@
     "difficulty": "拔高",
     "source": "2025年湖南公务员考试《行测》第60题",
     "isImageQuestion": true,
-    "province": "湖南"
+    "province": "湖南",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hunan-2025-未标注-61",
@@ -496,7 +525,9 @@
     "difficulty": "拔高",
     "source": "2025年湖南公务员考试《行测》第61题",
     "isImageQuestion": true,
-    "province": "湖南"
+    "province": "湖南",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hunan-2025-未标注-62",
@@ -532,7 +563,9 @@
     "difficulty": "拔高",
     "source": "2025年湖南公务员考试《行测》第62题",
     "isImageQuestion": true,
-    "province": "湖南"
+    "province": "湖南",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hunan-2025-未标注-63",
@@ -567,7 +600,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年湖南公务员考试《行测》第63题",
-    "province": "湖南"
+    "province": "湖南",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hunan-2025-未标注-64",
@@ -602,7 +637,9 @@
     "difficulty": "拔高",
     "source": "2025年湖南公务员考试《行测》第64题",
     "isImageQuestion": true,
-    "province": "湖南"
+    "province": "湖南",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hunan-2025-未标注-65",
@@ -638,6 +675,8 @@
     "difficulty": "拔高",
     "source": "2025年湖南公务员考试《行测》第65题",
     "isImageQuestion": true,
-    "province": "湖南"
+    "province": "湖南",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   }
 ]

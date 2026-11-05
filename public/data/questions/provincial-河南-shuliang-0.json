@@ -22,7 +22,9 @@
     "difficulty": "拔高",
     "source": "2006年河南公务员考试《行测》第31题",
     "isImageQuestion": true,
-    "province": "河南"
+    "province": "河南",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-henan-2006-未标注-32",
@@ -57,7 +59,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2006年河南公务员考试《行测》第32题",
-    "province": "河南"
+    "province": "河南",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-henan-2006-未标注-33",
@@ -89,7 +93,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2006年河南公务员考试《行测》第33题",
-    "province": "河南"
+    "province": "河南",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-henan-2006-未标注-34",
@@ -123,7 +129,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2006年河南公务员考试《行测》第34题",
-    "province": "河南"
+    "province": "河南",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-henan-2006-未标注-35",
@@ -157,7 +165,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2006年河南公务员考试《行测》第35题",
-    "province": "河南"
+    "province": "河南",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-henan-2006-未标注-36",
@@ -191,7 +201,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2006年河南公务员考试《行测》第36题",
-    "province": "河南"
+    "province": "河南",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-henan-2006-未标注-37",
@@ -223,7 +235,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2006年河南公务员考试《行测》第37题",
-    "province": "河南"
+    "province": "河南",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-henan-2006-未标注-38",
@@ -255,7 +269,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2006年河南公务员考试《行测》第38题",
-    "province": "河南"
+    "province": "河南",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-henan-2006-未标注-39",
@@ -289,7 +305,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2006年河南公务员考试《行测》第39题",
-    "province": "河南"
+    "province": "河南",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-henan-2006-未标注-40",
@@ -321,7 +339,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2006年河南公务员考试《行测》第40题",
-    "province": "河南"
+    "province": "河南",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-henan-2006-未标注-41",
@@ -353,7 +373,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2006年河南公务员考试《行测》第41题",
-    "province": "河南"
+    "province": "河南",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-henan-2006-未标注-42",
@@ -385,7 +407,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2006年河南公务员考试《行测》第42题",
-    "province": "河南"
+    "province": "河南",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-henan-2006-未标注-43",
@@ -417,7 +441,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2006年河南公务员考试《行测》第43题",
-    "province": "河南"
+    "province": "河南",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-henan-2006-未标注-44",
@@ -451,7 +477,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2006年河南公务员考试《行测》第44题",
-    "province": "河南"
+    "province": "河南",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-henan-2006-未标注-45",
@@ -486,7 +514,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2006年河南公务员考试《行测》第45题",
-    "province": "河南"
+    "province": "河南",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-henan-2008-未标注-61",
@@ -514,7 +544,9 @@
     "difficulty": "拔高",
     "source": "2008年河南公务员考试《行测》第61题",
     "isImageQuestion": true,
-    "province": "河南"
+    "province": "河南",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-henan-2008-未标注-62",
@@ -549,7 +581,9 @@
     "difficulty": "拔高",
     "source": "2008年河南公务员考试《行测》第62题",
     "isImageQuestion": true,
-    "province": "河南"
+    "province": "河南",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-henan-2008-未标注-63",
@@ -581,7 +615,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2008年河南公务员考试《行测》第63题",
-    "province": "河南"
+    "province": "河南",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-henan-2008-未标注-64",
@@ -615,7 +651,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2008年河南公务员考试《行测》第64题",
-    "province": "河南"
+    "province": "河南",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-henan-2008-未标注-65",
@@ -649,7 +687,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2008年河南公务员考试《行测》第65题",
-    "province": "河南"
+    "province": "河南",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-henan-2008-未标注-66",
@@ -681,7 +721,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2008年河南公务员考试《行测》第66题",
-    "province": "河南"
+    "province": "河南",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-henan-2008-未标注-67",
@@ -716,7 +758,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2008年河南公务员考试《行测》第67题",
-    "province": "河南"
+    "province": "河南",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-henan-2008-未标注-68",
@@ -751,7 +795,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2008年河南公务员考试《行测》第68题",
-    "province": "河南"
+    "province": "河南",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-henan-2008-未标注-69",
@@ -786,7 +832,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2008年河南公务员考试《行测》第69题",
-    "province": "河南"
+    "province": "河南",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-henan-2008-未标注-70",
@@ -820,7 +868,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2008年河南公务员考试《行测》第70题",
-    "province": "河南"
+    "province": "河南",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-henan-2008-未标注-71",
@@ -855,7 +905,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2008年河南公务员考试《行测》第71题",
-    "province": "河南"
+    "province": "河南",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-henan-2008-未标注-72",
@@ -889,7 +941,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2008年河南公务员考试《行测》第72题",
-    "province": "河南"
+    "province": "河南",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-henan-2008-未标注-73",
@@ -923,7 +977,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2008年河南公务员考试《行测》第73题",
-    "province": "河南"
+    "province": "河南",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-henan-2008-未标注-74",
@@ -959,7 +1015,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2008年河南公务员考试《行测》第74题",
-    "province": "河南"
+    "province": "河南",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-henan-2008-未标注-75",
@@ -993,7 +1051,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2008年河南公务员考试《行测》第75题",
-    "province": "河南"
+    "province": "河南",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-henan-2008-未标注-76",
@@ -1028,7 +1088,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2008年河南公务员考试《行测》第76题",
-    "province": "河南"
+    "province": "河南",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-henan-2008-未标注-77",
@@ -1064,7 +1126,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2008年河南公务员考试《行测》第77题",
-    "province": "河南"
+    "province": "河南",
+    "subModule": "经济利润",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-henan-2008-未标注-78",
@@ -1098,7 +1162,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2008年河南公务员考试《行测》第78题",
-    "province": "河南"
+    "province": "河南",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-henan-2008-未标注-79",
@@ -1134,7 +1200,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2008年河南公务员考试《行测》第79题",
-    "province": "河南"
+    "province": "河南",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-henan-2008-未标注-80",
@@ -1169,7 +1237,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2008年河南公务员考试《行测》第80题",
-    "province": "河南"
+    "province": "河南",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-henan-2009-未标注-61",
@@ -1204,7 +1274,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2009年河南公务员考试《行测》第61题",
-    "province": "河南"
+    "province": "河南",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-henan-2009-未标注-62",
@@ -1241,7 +1313,9 @@
     "difficulty": "拔高",
     "source": "2009年河南公务员考试《行测》第62题",
     "isImageQuestion": true,
-    "province": "河南"
+    "province": "河南",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-henan-2009-未标注-63",
@@ -1277,7 +1351,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2009年河南公务员考试《行测》第63题",
-    "province": "河南"
+    "province": "河南",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-henan-2009-未标注-64",
@@ -1313,7 +1389,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2009年河南公务员考试《行测》第64题",
-    "province": "河南"
+    "province": "河南",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-henan-2009-未标注-65",
@@ -1348,7 +1426,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2009年河南公务员考试《行测》第65题",
-    "province": "河南"
+    "province": "河南",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-henan-2009-未标注-66",
@@ -1383,7 +1463,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2009年河南公务员考试《行测》第66题",
-    "province": "河南"
+    "province": "河南",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-henan-2009-未标注-67",
@@ -1418,7 +1500,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2009年河南公务员考试《行测》第67题",
-    "province": "河南"
+    "province": "河南",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-henan-2009-未标注-68",
@@ -1453,7 +1537,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2009年河南公务员考试《行测》第68题",
-    "province": "河南"
+    "province": "河南",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-henan-2009-未标注-69",
@@ -1487,7 +1573,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2009年河南公务员考试《行测》第69题",
-    "province": "河南"
+    "province": "河南",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-henan-2009-未标注-70",
@@ -1522,7 +1610,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2009年河南公务员考试《行测》第70题",
-    "province": "河南"
+    "province": "河南",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-henan-2009-未标注-71",
@@ -1557,7 +1647,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2009年河南公务员考试《行测》第71题",
-    "province": "河南"
+    "province": "河南",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-henan-2009-未标注-72",
@@ -1591,7 +1683,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2009年河南公务员考试《行测》第72题",
-    "province": "河南"
+    "province": "河南",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-henan-2009-未标注-73",
@@ -1625,7 +1719,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2009年河南公务员考试《行测》第73题",
-    "province": "河南"
+    "province": "河南",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-henan-2009-未标注-74",
@@ -1660,7 +1756,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2009年河南公务员考试《行测》第74题",
-    "province": "河南"
+    "province": "河南",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-henan-2009-未标注-75",
@@ -1695,7 +1793,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2009年河南公务员考试《行测》第75题",
-    "province": "河南"
+    "province": "河南",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-henan-2009-未标注-76",
@@ -1730,7 +1830,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2009年河南公务员考试《行测》第76题",
-    "province": "河南"
+    "province": "河南",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-henan-2009-未标注-77",
@@ -1765,7 +1867,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2009年河南公务员考试《行测》第77题",
-    "province": "河南"
+    "province": "河南",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-henan-2009-未标注-78",
@@ -1801,7 +1905,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2009年河南公务员考试《行测》第78题",
-    "province": "河南"
+    "province": "河南",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-henan-2009-未标注-79",
@@ -1837,7 +1943,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2009年河南公务员考试《行测》第79题",
-    "province": "河南"
+    "province": "河南",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-henan-2009-未标注-80",
@@ -1872,7 +1980,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2009年河南公务员考试《行测》第80题",
-    "province": "河南"
+    "province": "河南",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-henan-2010-918联考-31",
@@ -1908,7 +2018,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2010年河南公务员考试《行测》（918联考）第31题",
-    "province": "河南"
+    "province": "河南",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-henan-2010-918联考-32",
@@ -1924,7 +2036,10 @@
     "difficulty": "拔高",
     "source": "2010年河南公务员考试《行测》（918联考）第32题",
     "isImageQuestion": true,
-    "province": "河南"
+    "province": "河南",
+    "isAbnormal": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-henan-2010-918联考-33",
@@ -1960,7 +2075,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2010年河南公务员考试《行测》（918联考）第33题",
-    "province": "河南"
+    "province": "河南",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-henan-2010-918联考-34",
@@ -1995,7 +2112,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2010年河南公务员考试《行测》（918联考）第34题",
-    "province": "河南"
+    "province": "河南",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-henan-2010-918联考-35",
@@ -2031,7 +2150,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2010年河南公务员考试《行测》（918联考）第35题",
-    "province": "河南"
+    "province": "河南",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-henan-2010-918联考-36",
@@ -2067,7 +2188,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2010年河南公务员考试《行测》（918联考）第36题",
-    "province": "河南"
+    "province": "河南",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-henan-2010-918联考-37",
@@ -2103,7 +2226,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2010年河南公务员考试《行测》（918联考）第37题",
-    "province": "河南"
+    "province": "河南",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-henan-2010-918联考-38",
@@ -2138,7 +2263,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2010年河南公务员考试《行测》（918联考）第38题",
-    "province": "河南"
+    "province": "河南",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-henan-2010-918联考-39",
@@ -2173,7 +2300,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2010年河南公务员考试《行测》（918联考）第39题",
-    "province": "河南"
+    "province": "河南",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-henan-2010-918联考-40",
@@ -2208,7 +2337,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2010年河南公务员考试《行测》（918联考）第40题",
-    "province": "河南"
+    "province": "河南",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-henan-2010-918联考-41",
@@ -2243,7 +2374,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2010年河南公务员考试《行测》（918联考）第41题",
-    "province": "河南"
+    "province": "河南",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-henan-2010-918联考-42",
@@ -2279,7 +2412,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2010年河南公务员考试《行测》（918联考）第42题",
-    "province": "河南"
+    "province": "河南",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-henan-2010-918联考-43",
@@ -2313,7 +2448,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2010年河南公务员考试《行测》（918联考）第43题",
-    "province": "河南"
+    "province": "河南",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-henan-2010-918联考-44",
@@ -2350,7 +2487,9 @@
     "difficulty": "拔高",
     "source": "2010年河南公务员考试《行测》（918联考）第44题",
     "isImageQuestion": true,
-    "province": "河南"
+    "province": "河南",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-henan-2010-918联考-45",
@@ -2382,7 +2521,9 @@
     "difficulty": "拔高",
     "source": "2010年河南公务员考试《行测》（918联考）第45题",
     "isImageQuestion": true,
-    "province": "河南"
+    "province": "河南",
+    "subModule": "几何",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-henan-2011-917联考-56",
@@ -2416,7 +2557,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2011年河南公务员考试《行测》（917联考）第56题",
-    "province": "河南"
+    "province": "河南",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-henan-2011-917联考-57",
@@ -2448,7 +2591,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2011年河南公务员考试《行测》（917联考）第57题",
-    "province": "河南"
+    "province": "河南",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-henan-2011-917联考-58",
@@ -2483,7 +2628,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2011年河南公务员考试《行测》（917联考）第58题",
-    "province": "河南"
+    "province": "河南",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-henan-2011-917联考-59",
@@ -2515,7 +2662,9 @@
     "difficulty": "拔高",
     "source": "2011年河南公务员考试《行测》（917联考）第59题",
     "isImageQuestion": true,
-    "province": "河南"
+    "province": "河南",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-henan-2011-917联考-60",
@@ -2550,7 +2699,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2011年河南公务员考试《行测》（917联考）第60题",
-    "province": "河南"
+    "province": "河南",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-henan-2011-917联考-61",
@@ -2586,7 +2737,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2011年河南公务员考试《行测》（917联考）第61题",
-    "province": "河南"
+    "province": "河南",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-henan-2011-917联考-62",
@@ -2622,7 +2775,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2011年河南公务员考试《行测》（917联考）第62题",
-    "province": "河南"
+    "province": "河南",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-henan-2011-917联考-63",
@@ -2656,7 +2811,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2011年河南公务员考试《行测》（917联考）第63题",
-    "province": "河南"
+    "province": "河南",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-henan-2011-917联考-64",
@@ -2690,7 +2847,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2011年河南公务员考试《行测》（917联考）第64题",
-    "province": "河南"
+    "province": "河南",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-henan-2011-917联考-65",
@@ -2725,7 +2884,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2011年河南公务员考试《行测》（917联考）第65题",
-    "province": "河南"
+    "province": "河南",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-henan-2011-未标注-31",
@@ -2761,7 +2922,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2011年河南公务员考试《行测》第31题",
-    "province": "河南"
+    "province": "河南",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-henan-2011-未标注-32",
@@ -2795,7 +2958,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2011年河南公务员考试《行测》第32题",
-    "province": "河南"
+    "province": "河南",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-henan-2011-未标注-33",
@@ -2831,7 +2996,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2011年河南公务员考试《行测》第33题",
-    "province": "河南"
+    "province": "河南",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-henan-2011-未标注-34",
@@ -2867,7 +3034,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2011年河南公务员考试《行测》第34题",
-    "province": "河南"
+    "province": "河南",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-henan-2011-未标注-35",
@@ -2899,7 +3068,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2011年河南公务员考试《行测》第35题",
-    "province": "河南"
+    "province": "河南",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-henan-2011-未标注-36",
@@ -2934,7 +3105,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2011年河南公务员考试《行测》第36题",
-    "province": "河南"
+    "province": "河南",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-henan-2011-未标注-37",
@@ -2950,7 +3123,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2011年河南公务员考试《行测》第37题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-henan-2011-未标注-38",
@@ -2986,7 +3161,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2011年河南公务员考试《行测》第38题",
-    "province": "河南"
+    "province": "河南",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-henan-2011-未标注-39",
@@ -3002,7 +3179,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2011年河南公务员考试《行测》第39题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-henan-2011-未标注-40",
@@ -3038,7 +3217,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2011年河南公务员考试《行测》第40题",
-    "province": "河南"
+    "province": "河南",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-henan-2011-未标注-41",
@@ -3075,7 +3256,9 @@
     "difficulty": "拔高",
     "source": "2011年河南公务员考试《行测》第41题",
     "isImageQuestion": true,
-    "province": "河南"
+    "province": "河南",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-henan-2011-未标注-42",
@@ -3111,7 +3294,9 @@
     "difficulty": "拔高",
     "source": "2011年河南公务员考试《行测》第42题",
     "isImageQuestion": true,
-    "province": "河南"
+    "province": "河南",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-henan-2011-未标注-43",
@@ -3146,7 +3331,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2011年河南公务员考试《行测》第43题",
-    "province": "河南"
+    "province": "河南",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-henan-2011-未标注-44",
@@ -3182,7 +3369,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2011年河南公务员考试《行测》第44题",
-    "province": "河南"
+    "province": "河南",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-henan-2011-未标注-45",
@@ -3198,7 +3387,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2011年河南公务员考试《行测》第45题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-henan-2011-未标注-46",
@@ -3230,7 +3421,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2011年河南公务员考试《行测》第46题",
-    "province": "河南"
+    "province": "河南",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-henan-2011-未标注-47",
@@ -3265,7 +3458,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2011年河南公务员考试《行测》第47题",
-    "province": "河南"
+    "province": "河南",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-henan-2011-未标注-48",
@@ -3301,7 +3496,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2011年河南公务员考试《行测》第48题",
-    "province": "河南"
+    "province": "河南",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-henan-2011-未标注-49",
@@ -3337,7 +3534,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2011年河南公务员考试《行测》第49题",
-    "province": "河南"
+    "province": "河南",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-henan-2011-未标注-50",
@@ -3372,7 +3571,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2011年河南公务员考试《行测》第50题",
-    "province": "河南"
+    "province": "河南",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-henan-2012-915联考-61",
@@ -3406,7 +3607,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2012年河南公务员考试《行测》（915联考）第61题",
-    "province": "河南"
+    "province": "河南",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-henan-2012-915联考-62",
@@ -3440,7 +3643,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2012年河南公务员考试《行测》（915联考）第62题",
-    "province": "河南"
+    "province": "河南",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-henan-2012-915联考-63",
@@ -3476,7 +3681,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2012年河南公务员考试《行测》（915联考）第63题",
-    "province": "河南"
+    "province": "河南",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-henan-2012-915联考-64",
@@ -3508,7 +3715,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2012年河南公务员考试《行测》（915联考）第64题",
-    "province": "河南"
+    "province": "河南",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-henan-2012-915联考-65",
@@ -3543,7 +3752,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2012年河南公务员考试《行测》（915联考）第65题",
-    "province": "河南"
+    "province": "河南",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-henan-2012-915联考-66",
@@ -3577,7 +3788,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2012年河南公务员考试《行测》（915联考）第66题",
-    "province": "河南"
+    "province": "河南",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-henan-2012-915联考-67",
@@ -3612,7 +3825,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2012年河南公务员考试《行测》（915联考）第67题",
-    "province": "河南"
+    "province": "河南",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-henan-2012-915联考-68",
@@ -3646,7 +3861,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2012年河南公务员考试《行测》（915联考）第68题",
-    "province": "河南"
+    "province": "河南",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-henan-2012-915联考-69",
@@ -3680,7 +3897,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2012年河南公务员考试《行测》（915联考）第69题",
-    "province": "河南"
+    "province": "河南",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-henan-2012-915联考-70",
@@ -3715,7 +3934,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2012年河南公务员考试《行测》（915联考）第70题",
-    "province": "河南"
+    "province": "河南",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-henan-2013-未标注-51",
@@ -3747,7 +3968,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2013年河南公务员考试《行测》第51题",
-    "province": "河南"
+    "province": "河南",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-henan-2013-未标注-52",
@@ -3782,7 +4005,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2013年河南公务员考试《行测》第52题",
-    "province": "河南"
+    "province": "河南",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-henan-2013-未标注-53",
@@ -3814,7 +4039,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2013年河南公务员考试《行测》第53题",
-    "province": "河南"
+    "province": "河南",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-henan-2013-未标注-54",
@@ -3850,7 +4077,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2013年河南公务员考试《行测》第54题",
-    "province": "河南"
+    "province": "河南",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-henan-2013-未标注-55",
@@ -3884,7 +4113,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2013年河南公务员考试《行测》第55题",
-    "province": "河南"
+    "province": "河南",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-henan-2013-未标注-56",
@@ -3920,7 +4151,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2013年河南公务员考试《行测》第56题",
-    "province": "河南"
+    "province": "河南",
+    "subModule": "排列概率",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-henan-2013-未标注-57",
@@ -3956,7 +4189,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2013年河南公务员考试《行测》第57题",
-    "province": "河南"
+    "province": "河南",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-henan-2013-未标注-58",
@@ -3990,7 +4225,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2013年河南公务员考试《行测》第58题",
-    "province": "河南"
+    "province": "河南",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-henan-2013-未标注-59",
@@ -4022,7 +4259,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2013年河南公务员考试《行测》第59题",
-    "province": "河南"
+    "province": "河南",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-henan-2013-未标注-60",
@@ -4054,7 +4293,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2013年河南公务员考试《行测》第60题",
-    "province": "河南"
+    "province": "河南",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-henan-2013-未标注-61",
@@ -4086,7 +4327,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2013年河南公务员考试《行测》第61题",
-    "province": "河南"
+    "province": "河南",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-henan-2013-未标注-62",
@@ -4121,7 +4364,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2013年河南公务员考试《行测》第62题",
-    "province": "河南"
+    "province": "河南",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-henan-2013-未标注-63",
@@ -4156,7 +4401,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2013年河南公务员考试《行测》第63题",
-    "province": "河南"
+    "province": "河南",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-henan-2013-未标注-64",
@@ -4190,7 +4437,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2013年河南公务员考试《行测》第64题",
-    "province": "河南"
+    "province": "河南",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-henan-2013-未标注-65",
@@ -4225,7 +4474,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2013年河南公务员考试《行测》第65题",
-    "province": "河南"
+    "province": "河南",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-henan-2014-未标注-31",
@@ -4261,7 +4512,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2014年河南公务员考试《行测》第31题",
-    "province": "河南"
+    "province": "河南",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-henan-2014-未标注-32",
@@ -4297,7 +4550,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2014年河南公务员考试《行测》第32题",
-    "province": "河南"
+    "province": "河南",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-henan-2014-未标注-33",
@@ -4329,7 +4584,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2014年河南公务员考试《行测》第33题",
-    "province": "河南"
+    "province": "河南",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-henan-2014-未标注-34",
@@ -4364,7 +4621,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2014年河南公务员考试《行测》第34题",
-    "province": "河南"
+    "province": "河南",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-henan-2014-未标注-35",
@@ -4399,7 +4658,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2014年河南公务员考试《行测》第35题",
-    "province": "河南"
+    "province": "河南",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-henan-2014-未标注-36",
@@ -4434,7 +4695,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2014年河南公务员考试《行测》第36题",
-    "province": "河南"
+    "province": "河南",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-henan-2014-未标注-37",
@@ -4470,7 +4733,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2014年河南公务员考试《行测》第37题",
-    "province": "河南"
+    "province": "河南",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-henan-2014-未标注-38",
@@ -4504,7 +4769,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2014年河南公务员考试《行测》第38题",
-    "province": "河南"
+    "province": "河南",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-henan-2014-未标注-39",
@@ -4538,7 +4805,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2014年河南公务员考试《行测》第39题",
-    "province": "河南"
+    "province": "河南",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-henan-2014-未标注-40",
@@ -4571,7 +4840,9 @@
     "difficulty": "拔高",
     "source": "2014年河南公务员考试《行测》第40题",
     "isImageQuestion": true,
-    "province": "河南"
+    "province": "河南",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-henan-2014-未标注-41",
@@ -4606,7 +4877,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2014年河南公务员考试《行测》第41题",
-    "province": "河南"
+    "province": "河南",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-henan-2014-未标注-42",
@@ -4641,7 +4914,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2014年河南公务员考试《行测》第42题",
-    "province": "河南"
+    "province": "河南",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-henan-2014-未标注-43",
@@ -4677,7 +4952,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2014年河南公务员考试《行测》第43题",
-    "province": "河南"
+    "province": "河南",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-henan-2014-未标注-44",
@@ -4711,7 +4988,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2014年河南公务员考试《行测》第44题",
-    "province": "河南"
+    "province": "河南",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-henan-2014-未标注-45",
@@ -4747,7 +5026,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2014年河南公务员考试《行测》第45题",
-    "province": "河南"
+    "province": "河南",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-henan-2015-未标注-31",
@@ -4782,7 +5063,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2015年河南公务员考试《行测》第31题",
-    "province": "河南"
+    "province": "河南",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-henan-2015-未标注-32",
@@ -4817,7 +5100,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2015年河南公务员考试《行测》第32题",
-    "province": "河南"
+    "province": "河南",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-henan-2015-未标注-33",
@@ -4852,7 +5137,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2015年河南公务员考试《行测》第33题",
-    "province": "河南"
+    "province": "河南",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-henan-2015-未标注-34",
@@ -4887,7 +5174,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2015年河南公务员考试《行测》第34题",
-    "province": "河南"
+    "province": "河南",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-henan-2015-未标注-35",
@@ -4922,7 +5211,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2015年河南公务员考试《行测》第35题",
-    "province": "河南"
+    "province": "河南",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-henan-2015-未标注-36",
@@ -4957,7 +5248,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2015年河南公务员考试《行测》第36题",
-    "province": "河南"
+    "province": "河南",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-henan-2015-未标注-37",
@@ -4993,7 +5286,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2015年河南公务员考试《行测》第37题",
-    "province": "河南"
+    "province": "河南",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-henan-2015-未标注-38",
@@ -5029,7 +5324,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2015年河南公务员考试《行测》第38题",
-    "province": "河南"
+    "province": "河南",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-henan-2015-未标注-39",
@@ -5064,7 +5361,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2015年河南公务员考试《行测》第39题",
-    "province": "河南"
+    "province": "河南",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-henan-2015-未标注-40",
@@ -5100,7 +5399,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2015年河南公务员考试《行测》第40题",
-    "province": "河南"
+    "province": "河南",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-henan-2015-未标注-41",
@@ -5136,7 +5437,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2015年河南公务员考试《行测》第41题",
-    "province": "河南"
+    "province": "河南",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-henan-2015-未标注-42",
@@ -5170,7 +5473,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2015年河南公务员考试《行测》第42题",
-    "province": "河南"
+    "province": "河南",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-henan-2015-未标注-43",
@@ -5204,7 +5509,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2015年河南公务员考试《行测》第43题",
-    "province": "河南"
+    "province": "河南",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-henan-2015-未标注-44",
@@ -5238,7 +5545,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2015年河南公务员考试《行测》第44题",
-    "province": "河南"
+    "province": "河南",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-henan-2015-未标注-45",
@@ -5273,7 +5582,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2015年河南公务员考试《行测》第45题",
-    "province": "河南"
+    "province": "河南",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-henan-2016-未标注-51",
@@ -5308,7 +5619,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2016年河南公务员考试《行测》第51题",
-    "province": "河南"
+    "province": "河南",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-henan-2016-未标注-52",
@@ -5343,7 +5656,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2016年河南公务员考试《行测》第52题",
-    "province": "河南"
+    "province": "河南",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-henan-2016-未标注-53",
@@ -5379,7 +5694,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2016年河南公务员考试《行测》第53题",
-    "province": "河南"
+    "province": "河南",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-henan-2016-未标注-54",
@@ -5414,7 +5731,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2016年河南公务员考试《行测》第54题",
-    "province": "河南"
+    "province": "河南",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-henan-2016-未标注-55",
@@ -5450,7 +5769,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2016年河南公务员考试《行测》第55题",
-    "province": "河南"
+    "province": "河南",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-henan-2016-未标注-56",
@@ -5485,7 +5806,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2016年河南公务员考试《行测》第56题",
-    "province": "河南"
+    "province": "河南",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-henan-2016-未标注-57",
@@ -5520,7 +5843,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2016年河南公务员考试《行测》第57题",
-    "province": "河南"
+    "province": "河南",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-henan-2016-未标注-58",
@@ -5556,7 +5881,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2016年河南公务员考试《行测》第58题",
-    "province": "河南"
+    "province": "河南",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-henan-2016-未标注-59",
@@ -5591,7 +5918,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2016年河南公务员考试《行测》第59题",
-    "province": "河南"
+    "province": "河南",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-henan-2016-未标注-60",
@@ -5625,7 +5954,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2016年河南公务员考试《行测》第60题",
-    "province": "河南"
+    "province": "河南",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-henan-2016-未标注-61",
@@ -5661,7 +5992,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2016年河南公务员考试《行测》第61题",
-    "province": "河南"
+    "province": "河南",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-henan-2016-未标注-62",
@@ -5696,7 +6029,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2016年河南公务员考试《行测》第62题",
-    "province": "河南"
+    "province": "河南",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-henan-2016-未标注-63",
@@ -5730,7 +6065,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2016年河南公务员考试《行测》第63题",
-    "province": "河南"
+    "province": "河南",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-henan-2016-未标注-64",
@@ -5765,7 +6102,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2016年河南公务员考试《行测》第64题",
-    "province": "河南"
+    "province": "河南",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-henan-2016-未标注-65",
@@ -5801,7 +6140,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2016年河南公务员考试《行测》第65题",
-    "province": "河南"
+    "province": "河南",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-henan-2017-未标注-31",
@@ -5836,7 +6177,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2017年河南公务员考试《行测》第31题",
-    "province": "河南"
+    "province": "河南",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-henan-2017-未标注-32",
@@ -5870,7 +6213,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2017年河南公务员考试《行测》第32题",
-    "province": "河南"
+    "province": "河南",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-henan-2017-未标注-33",
@@ -5906,7 +6251,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2017年河南公务员考试《行测》第33题",
-    "province": "河南"
+    "province": "河南",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-henan-2017-未标注-34",
@@ -5942,7 +6289,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2017年河南公务员考试《行测》第34题",
-    "province": "河南"
+    "province": "河南",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-henan-2017-未标注-35",
@@ -5978,7 +6327,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2017年河南公务员考试《行测》第35题",
-    "province": "河南"
+    "province": "河南",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-henan-2017-未标注-36",
@@ -6012,7 +6363,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2017年河南公务员考试《行测》第36题",
-    "province": "河南"
+    "province": "河南",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-henan-2017-未标注-37",
@@ -6047,7 +6400,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2017年河南公务员考试《行测》第37题",
-    "province": "河南"
+    "province": "河南",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-henan-2017-未标注-38",
@@ -6083,7 +6438,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2017年河南公务员考试《行测》第38题",
-    "province": "河南"
+    "province": "河南",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-henan-2017-未标注-39",
@@ -6119,7 +6476,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2017年河南公务员考试《行测》第39题",
-    "province": "河南"
+    "province": "河南",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-henan-2017-未标注-40",
@@ -6153,7 +6512,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2017年河南公务员考试《行测》第40题",
-    "province": "河南"
+    "province": "河南",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-henan-2017-未标注-41",
@@ -6188,7 +6549,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2017年河南公务员考试《行测》第41题",
-    "province": "河南"
+    "province": "河南",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-henan-2017-未标注-42",
@@ -6222,7 +6585,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2017年河南公务员考试《行测》第42题",
-    "province": "河南"
+    "province": "河南",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-henan-2017-未标注-43",
@@ -6257,7 +6622,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2017年河南公务员考试《行测》第43题",
-    "province": "河南"
+    "province": "河南",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-henan-2017-未标注-44",
@@ -6292,7 +6659,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2017年河南公务员考试《行测》第44题",
-    "province": "河南"
+    "province": "河南",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-henan-2017-未标注-45",
@@ -6329,7 +6698,9 @@
     "difficulty": "拔高",
     "source": "2017年河南公务员考试《行测》第45题",
     "isImageQuestion": true,
-    "province": "河南"
+    "province": "河南",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-henan-2018-选调-61",
@@ -6365,7 +6736,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2018年河南公务员考试《行测》（选调）第61题",
-    "province": "河南"
+    "province": "河南",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-henan-2018-选调-62",
@@ -6399,7 +6772,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2018年河南公务员考试《行测》（选调）第62题",
-    "province": "河南"
+    "province": "河南",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-henan-2018-选调-63",
@@ -6434,7 +6809,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2018年河南公务员考试《行测》（选调）第63题",
-    "province": "河南"
+    "province": "河南",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-henan-2018-选调-64",
@@ -6468,7 +6845,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2018年河南公务员考试《行测》（选调）第64题",
-    "province": "河南"
+    "province": "河南",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-henan-2018-选调-65",
@@ -6504,7 +6883,9 @@
     "difficulty": "拔高",
     "source": "2018年河南公务员考试《行测》（选调）第65题",
     "isImageQuestion": true,
-    "province": "河南"
+    "province": "河南",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-henan-2018-选调-66",
@@ -6540,7 +6921,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2018年河南公务员考试《行测》（选调）第66题",
-    "province": "河南"
+    "province": "河南",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-henan-2018-选调-67",
@@ -6559,7 +6942,10 @@
     "difficulty": "拔高",
     "source": "2018年河南公务员考试《行测》（选调）第67题",
     "isImageQuestion": true,
-    "province": "河南"
+    "province": "河南",
+    "isAbnormal": true,
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-henan-2018-选调-68",
@@ -6594,7 +6980,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2018年河南公务员考试《行测》（选调）第68题",
-    "province": "河南"
+    "province": "河南",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-henan-2018-选调-69",
@@ -6630,7 +7018,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2018年河南公务员考试《行测》（选调）第69题",
-    "province": "河南"
+    "province": "河南",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-henan-2018-选调-70",
@@ -6666,7 +7056,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2018年河南公务员考试《行测》（选调）第70题",
-    "province": "河南"
+    "province": "河南",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-henan-2019-未标注-31",
@@ -6701,7 +7093,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年河南公务员考试《行测》第31题",
-    "province": "河南"
+    "province": "河南",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-henan-2019-未标注-32",
@@ -6736,7 +7130,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年河南公务员考试《行测》第32题",
-    "province": "河南"
+    "province": "河南",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-henan-2019-未标注-33",
@@ -6770,7 +7166,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年河南公务员考试《行测》第33题",
-    "province": "河南"
+    "province": "河南",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-henan-2019-未标注-34",
@@ -6802,7 +7200,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年河南公务员考试《行测》第34题",
-    "province": "河南"
+    "province": "河南",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-henan-2019-未标注-35",
@@ -6838,6 +7238,8 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年河南公务员考试《行测》第35题",
-    "province": "河南"
+    "province": "河南",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   }
 ]

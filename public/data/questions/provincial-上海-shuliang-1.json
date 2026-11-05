@@ -33,7 +33,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2020年上海公务员考试《行测》（A类）第59题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2020-A类-60",
@@ -68,7 +70,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2020年上海公务员考试《行测》（A类）第60题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2020-A类-61",
@@ -103,7 +107,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2020年上海公务员考试《行测》（A类）第61题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2020-A类-62",
@@ -140,7 +146,9 @@
     "difficulty": "拔高",
     "source": "2020年上海公务员考试《行测》（A类）第62题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2020-A类-63",
@@ -174,7 +182,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2020年上海公务员考试《行测》（A类）第63题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2020-A类-64",
@@ -210,7 +220,9 @@
     "difficulty": "拔高",
     "source": "2020年上海公务员考试《行测》（A类）第64题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2020-A类-65",
@@ -246,7 +258,9 @@
     "difficulty": "拔高",
     "source": "2020年上海公务员考试《行测》（A类）第65题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2020-A类-66",
@@ -283,7 +297,9 @@
     "difficulty": "拔高",
     "source": "2020年上海公务员考试《行测》（A类）第66题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2020-A类-67",
@@ -320,7 +336,9 @@
     "difficulty": "拔高",
     "source": "2020年上海公务员考试《行测》（A类）第67题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2020-A类-68",
@@ -356,7 +374,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2020年上海公务员考试《行测》（A类）第68题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2020-A类-69",
@@ -392,7 +412,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2020年上海公务员考试《行测》（A类）第69题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2020-A类-70",
@@ -427,7 +449,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2020年上海公务员考试《行测》（A类）第70题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2020-B类-56",
@@ -463,7 +487,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2020年上海公务员考试《行测》（B类）第56题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2020-B类-57",
@@ -499,7 +525,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2020年上海公务员考试《行测》（B类）第57题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2020-B类-58",
@@ -535,7 +563,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2020年上海公务员考试《行测》（B类）第58题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2020-B类-59",
@@ -570,7 +600,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2020年上海公务员考试《行测》（B类）第59题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2020-B类-60",
@@ -606,7 +638,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2020年上海公务员考试《行测》（B类）第60题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2020-B类-61",
@@ -641,7 +675,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2020年上海公务员考试《行测》（B类）第61题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2020-B类-62",
@@ -676,7 +712,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2020年上海公务员考试《行测》（B类）第62题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2020-B类-63",
@@ -712,7 +750,9 @@
     "difficulty": "拔高",
     "source": "2020年上海公务员考试《行测》（B类）第63题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2020-B类-64",
@@ -748,7 +788,9 @@
     "difficulty": "拔高",
     "source": "2020年上海公务员考试《行测》（B类）第64题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2020-B类-65",
@@ -785,7 +827,9 @@
     "difficulty": "拔高",
     "source": "2020年上海公务员考试《行测》（B类）第65题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2020-B类-66",
@@ -820,7 +864,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2020年上海公务员考试《行测》（B类）第66题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2020-B类-67",
@@ -856,7 +902,9 @@
     "difficulty": "拔高",
     "source": "2020年上海公务员考试《行测》（B类）第67题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2020-B类-68",
@@ -891,7 +939,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2020年上海公务员考试《行测》（B类）第68题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2020-B类-69",
@@ -927,7 +977,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2020年上海公务员考试《行测》（B类）第69题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "经济利润",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2020-B类-70",
@@ -963,7 +1015,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2020年上海公务员考试《行测》（B类）第70题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2021-B卷-56",
@@ -999,7 +1053,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2021年上海公务员考试《行测》（B卷）第56题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2021-B卷-57",
@@ -1034,7 +1090,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2021年上海公务员考试《行测》（B卷）第57题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2021-B卷-58",
@@ -1070,7 +1128,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2021年上海公务员考试《行测》（B卷）第58题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2021-B卷-59",
@@ -1106,7 +1166,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2021年上海公务员考试《行测》（B卷）第59题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2021-B卷-60",
@@ -1142,7 +1204,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2021年上海公务员考试《行测》（B卷）第60题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2021-B卷-61",
@@ -1178,7 +1242,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2021年上海公务员考试《行测》（B卷）第61题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2021-B卷-62",
@@ -1214,7 +1280,9 @@
     "difficulty": "拔高",
     "source": "2021年上海公务员考试《行测》（B卷）第62题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2021-B卷-63",
@@ -1249,7 +1317,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2021年上海公务员考试《行测》（B卷）第63题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2021-B卷-64",
@@ -1284,7 +1354,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2021年上海公务员考试《行测》（B卷）第64题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2021-B卷-65",
@@ -1320,7 +1392,9 @@
     "difficulty": "拔高",
     "source": "2021年上海公务员考试《行测》（B卷）第65题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2021-B卷-66",
@@ -1355,7 +1429,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2021年上海公务员考试《行测》（B卷）第66题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2021-B卷-67",
@@ -1388,7 +1464,9 @@
     "difficulty": "拔高",
     "source": "2021年上海公务员考试《行测》（B卷）第67题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2021-B卷-68",
@@ -1424,7 +1502,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2021年上海公务员考试《行测》（B卷）第68题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2021-B卷-69",
@@ -1459,7 +1539,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2021年上海公务员考试《行测》（B卷）第69题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2021-B卷-70",
@@ -1479,7 +1561,10 @@
     "difficulty": "拔高",
     "source": "2021年上海公务员考试《行测》（B卷）第70题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "isAbnormal": true,
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2022-B类-56",
@@ -1515,7 +1600,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2022年上海公务员考试《行测》（B类）第56题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2022-B类-57",
@@ -1552,7 +1639,9 @@
     "difficulty": "拔高",
     "source": "2022年上海公务员考试《行测》（B类）第57题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2022-B类-58",
@@ -1588,7 +1677,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2022年上海公务员考试《行测》（B类）第58题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2022-B类-59",
@@ -1625,7 +1716,9 @@
     "difficulty": "拔高",
     "source": "2022年上海公务员考试《行测》（B类）第59题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2022-B类-60",
@@ -1662,7 +1755,9 @@
     "difficulty": "拔高",
     "source": "2022年上海公务员考试《行测》（B类）第60题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2022-B类-61",
@@ -1698,7 +1793,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2022年上海公务员考试《行测》（B类）第61题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2022-B类-62",
@@ -1734,7 +1831,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2022年上海公务员考试《行测》（B类）第62题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2022-B类-63",
@@ -1771,7 +1870,9 @@
     "difficulty": "拔高",
     "source": "2022年上海公务员考试《行测》（B类）第63题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2022-B类-64",
@@ -1807,7 +1908,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2022年上海公务员考试《行测》（B类）第64题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2022-B类-65",
@@ -1843,7 +1946,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2022年上海公务员考试《行测》（B类）第65题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2022-B类-66",
@@ -1880,7 +1985,9 @@
     "difficulty": "拔高",
     "source": "2022年上海公务员考试《行测》（B类）第66题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2022-B类-67",
@@ -1900,7 +2007,9 @@
     "difficulty": "拔高",
     "source": "2022年上海公务员考试《行测》（B类）第67题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "几何",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2022-B类-68",
@@ -1933,7 +2042,9 @@
     "difficulty": "拔高",
     "source": "2022年上海公务员考试《行测》（B类）第68题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2022-B类-69",
@@ -1953,7 +2064,9 @@
     "difficulty": "拔高",
     "source": "2022年上海公务员考试《行测》（B类）第69题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "几何",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2022-B类-70",
@@ -1973,7 +2086,9 @@
     "difficulty": "拔高",
     "source": "2022年上海公务员考试《行测》（B类）第70题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "几何",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2023-A卷-56",
@@ -2009,7 +2124,9 @@
     "difficulty": "拔高",
     "source": "2023年上海公务员考试《行测》（A卷）第56题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2023-A卷-57",
@@ -2046,7 +2163,9 @@
     "difficulty": "拔高",
     "source": "2023年上海公务员考试《行测》（A卷）第57题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2023-A卷-58",
@@ -2083,7 +2202,9 @@
     "difficulty": "拔高",
     "source": "2023年上海公务员考试《行测》（A卷）第58题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2023-A卷-59",
@@ -2120,7 +2241,9 @@
     "difficulty": "拔高",
     "source": "2023年上海公务员考试《行测》（A卷）第59题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2023-A卷-60",
@@ -2157,7 +2280,9 @@
     "difficulty": "拔高",
     "source": "2023年上海公务员考试《行测》（A卷）第60题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2023-A卷-61",
@@ -2194,7 +2319,9 @@
     "difficulty": "拔高",
     "source": "2023年上海公务员考试《行测》（A卷）第61题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2023-A卷-62",
@@ -2231,7 +2358,9 @@
     "difficulty": "拔高",
     "source": "2023年上海公务员考试《行测》（A卷）第62题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2023-A卷-63",
@@ -2264,7 +2393,9 @@
     "difficulty": "拔高",
     "source": "2023年上海公务员考试《行测》（A卷）第63题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2023-A卷-64",
@@ -2300,7 +2431,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2023年上海公务员考试《行测》（A卷）第64题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2023-A卷-65",
@@ -2336,7 +2469,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2023年上海公务员考试《行测》（A卷）第65题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2023-A卷-66",
@@ -2372,7 +2507,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2023年上海公务员考试《行测》（A卷）第66题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2023-A卷-67",
@@ -2409,7 +2546,9 @@
     "difficulty": "拔高",
     "source": "2023年上海公务员考试《行测》（A卷）第67题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "几何",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2023-A卷-68",
@@ -2442,7 +2581,9 @@
     "difficulty": "拔高",
     "source": "2023年上海公务员考试《行测》（A卷）第68题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2023-A卷-69",
@@ -2479,7 +2620,9 @@
     "difficulty": "拔高",
     "source": "2023年上海公务员考试《行测》（A卷）第69题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2023-A卷-70",
@@ -2516,7 +2659,9 @@
     "difficulty": "拔高",
     "source": "2023年上海公务员考试《行测》（A卷）第70题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2023-B类-56",
@@ -2550,7 +2695,9 @@
     "difficulty": "拔高",
     "source": "2023年上海公务员考试《行测》（B类）第56题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2023-B类-57",
@@ -2588,7 +2735,9 @@
     "difficulty": "拔高",
     "source": "2023年上海公务员考试《行测》（B类）第57题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2023-B类-58",
@@ -2626,7 +2775,9 @@
     "difficulty": "拔高",
     "source": "2023年上海公务员考试《行测》（B类）第58题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2023-B类-59",
@@ -2663,7 +2814,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2023年上海公务员考试《行测》（B类）第59题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2023-B类-60",
@@ -2700,7 +2853,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2023年上海公务员考试《行测》（B类）第60题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2023-B类-61",
@@ -2737,7 +2892,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2023年上海公务员考试《行测》（B类）第61题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2023-B类-62",
@@ -2758,7 +2915,9 @@
     "difficulty": "拔高",
     "source": "2023年上海公务员考试《行测》（B类）第62题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2023-B类-63",
@@ -2796,7 +2955,9 @@
     "difficulty": "拔高",
     "source": "2023年上海公务员考试《行测》（B类）第63题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2023-B类-64",
@@ -2833,7 +2994,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2023年上海公务员考试《行测》（B类）第64题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2023-B类-65",
@@ -2870,7 +3033,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2023年上海公务员考试《行测》（B类）第65题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2023-B类-66",
@@ -2891,7 +3056,10 @@
     "difficulty": "拔高",
     "source": "2023年上海公务员考试《行测》（B类）第66题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "isAbnormal": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2023-B类-67",
@@ -2925,7 +3093,9 @@
     "difficulty": "拔高",
     "source": "2023年上海公务员考试《行测》（B类）第67题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "几何",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2023-B类-68",
@@ -2963,7 +3133,9 @@
     "difficulty": "拔高",
     "source": "2023年上海公务员考试《行测》（B类）第68题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2023-B类-69",
@@ -2984,7 +3156,9 @@
     "difficulty": "拔高",
     "source": "2023年上海公务员考试《行测》（B类）第69题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2023-B类-70",
@@ -3018,7 +3192,9 @@
     "difficulty": "拔高",
     "source": "2023年上海公务员考试《行测》（B类）第70题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "几何",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2025-A类-91",
@@ -3050,7 +3226,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年上海公务员考试《行测》（A类）第91题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2025-A类-92",
@@ -3085,7 +3263,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年上海公务员考试《行测》（A类）第92题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2025-A类-93",
@@ -3121,7 +3301,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年上海公务员考试《行测》（A类）第93题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2025-A类-94",
@@ -3153,7 +3335,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年上海公务员考试《行测》（A类）第94题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2025-A类-95",
@@ -3186,7 +3370,9 @@
     "difficulty": "拔高",
     "source": "2025年上海公务员考试《行测》（A类）第95题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2025-A类-96",
@@ -3219,7 +3405,9 @@
     "difficulty": "拔高",
     "source": "2025年上海公务员考试《行测》（A类）第96题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2025-A类-97",
@@ -3255,7 +3443,9 @@
     "difficulty": "拔高",
     "source": "2025年上海公务员考试《行测》（A类）第97题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2025-A类-98",
@@ -3287,7 +3477,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年上海公务员考试《行测》（A类）第98题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2025-A类-99",
@@ -3324,7 +3516,9 @@
     "difficulty": "拔高",
     "source": "2025年上海公务员考试《行测》（A类）第99题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2025-A类-100",
@@ -3357,7 +3551,9 @@
     "difficulty": "拔高",
     "source": "2025年上海公务员考试《行测》（A类）第100题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2025-A类-101",
@@ -3394,7 +3590,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年上海公务员考试《行测》（A类）第101题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2025-A类-102",
@@ -3427,7 +3625,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年上海公务员考试《行测》（A类）第102题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2025-A类-103",
@@ -3464,7 +3664,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年上海公务员考试《行测》（A类）第103题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2025-A类-104",
@@ -3497,7 +3699,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年上海公务员考试《行测》（A类）第104题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2025-A类-105",
@@ -3534,7 +3738,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年上海公务员考试《行测》（A类）第105题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2025-A类-106",
@@ -3571,7 +3777,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年上海公务员考试《行测》（A类）第106题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2025-A类-107",
@@ -3604,7 +3812,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年上海公务员考试《行测》（A类）第107题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2025-A类-108",
@@ -3637,7 +3847,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年上海公务员考试《行测》（A类）第108题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2025-A类-109",
@@ -3670,7 +3882,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年上海公务员考试《行测》（A类）第109题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2025-A类-110",
@@ -3687,7 +3901,10 @@
     "difficulty": "拔高",
     "source": "2025年上海公务员考试《行测》（A类）第110题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "isAbnormal": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2025-A类-111",
@@ -3719,7 +3936,10 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年上海公务员考试《行测》（A类）第111题",
-    "province": "上海"
+    "province": "上海",
+    "isAbnormal": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2025-A类-112",
@@ -3754,7 +3974,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年上海公务员考试《行测》（A类）第112题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2025-A类-113",
@@ -3790,7 +4012,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年上海公务员考试《行测》（A类）第113题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2025-A类-114",
@@ -3823,7 +4047,9 @@
     "difficulty": "拔高",
     "source": "2025年上海公务员考试《行测》（A类）第114题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2025-A类-115",
@@ -3855,7 +4081,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年上海公务员考试《行测》（A类）第115题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "经济利润",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2025-A类-116",
@@ -3891,7 +4119,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年上海公务员考试《行测》（A类）第116题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2025-A类-117",
@@ -3928,7 +4158,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年上海公务员考试《行测》（A类）第117题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2025-A类-118",
@@ -3964,7 +4196,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年上海公务员考试《行测》（A类）第118题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2025-A类-119",
@@ -4000,7 +4234,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年上海公务员考试《行测》（A类）第119题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2025-A类-120",
@@ -4036,7 +4272,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年上海公务员考试《行测》（A类）第120题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2025-A类-121",
@@ -4073,7 +4311,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年上海公务员考试《行测》（A类）第121题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2025-A类-122",
@@ -4110,7 +4350,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年上海公务员考试《行测》（A类）第122题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2025-A类-123",
@@ -4147,7 +4389,10 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年上海公务员考试《行测》（A类）第123题",
-    "province": "上海"
+    "province": "上海",
+    "isAbnormal": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2025-A类-124",
@@ -4183,7 +4428,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年上海公务员考试《行测》（A类）第124题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2025-A类-125",
@@ -4219,7 +4466,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年上海公务员考试《行测》（A类）第125题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2025-A类-126",
@@ -4255,7 +4504,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年上海公务员考试《行测》（A类）第126题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2025-A类-127",
@@ -4291,7 +4542,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年上海公务员考试《行测》（A类）第127题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2025-A类-128",
@@ -4327,7 +4580,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年上海公务员考试《行测》（A类）第128题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2025-A类-129",
@@ -4363,7 +4618,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年上海公务员考试《行测》（A类）第129题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2025-A类-130",
@@ -4400,7 +4657,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年上海公务员考试《行测》（A类）第130题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2025-B类-91",
@@ -4435,7 +4694,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年上海公务员考试《行测》（B类）第91题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2025-B类-92",
@@ -4470,7 +4731,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年上海公务员考试《行测》（B类）第92题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2025-B类-93",
@@ -4506,7 +4769,9 @@
     "difficulty": "拔高",
     "source": "2025年上海公务员考试《行测》（B类）第93题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2025-B类-94",
@@ -4542,7 +4807,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年上海公务员考试《行测》（B类）第94题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2025-B类-95",
@@ -4578,7 +4845,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年上海公务员考试《行测》（B类）第95题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2025-B类-96",
@@ -4614,7 +4883,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年上海公务员考试《行测》（B类）第96题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2025-B类-97",
@@ -4649,7 +4920,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年上海公务员考试《行测》（B类）第97题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2025-B类-98",
@@ -4686,7 +4959,9 @@
     "difficulty": "拔高",
     "source": "2025年上海公务员考试《行测》（B类）第98题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2025-B类-99",
@@ -4723,7 +4998,9 @@
     "difficulty": "拔高",
     "source": "2025年上海公务员考试《行测》（B类）第99题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2025-B类-100",
@@ -4759,7 +5036,9 @@
     "difficulty": "拔高",
     "source": "2025年上海公务员考试《行测》（B类）第100题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2025-B类-101",
@@ -4796,7 +5075,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年上海公务员考试《行测》（B类）第101题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2025-B类-102",
@@ -4833,7 +5114,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年上海公务员考试《行测》（B类）第102题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2025-B类-103",
@@ -4870,7 +5153,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年上海公务员考试《行测》（B类）第103题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2025-B类-104",
@@ -4907,7 +5192,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年上海公务员考试《行测》（B类）第104题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2025-B类-105",
@@ -4944,7 +5231,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年上海公务员考试《行测》（B类）第105题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2025-B类-106",
@@ -4980,7 +5269,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年上海公务员考试《行测》（B类）第106题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2025-B类-107",
@@ -5016,7 +5307,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年上海公务员考试《行测》（B类）第107题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2025-B类-108",
@@ -5053,7 +5346,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年上海公务员考试《行测》（B类）第108题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2025-B类-109",
@@ -5091,7 +5386,9 @@
     "difficulty": "拔高",
     "source": "2025年上海公务员考试《行测》（B类）第109题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2025-B类-110",
@@ -5128,7 +5425,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年上海公务员考试《行测》（B类）第110题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2025-B类-111",
@@ -5165,7 +5464,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年上海公务员考试《行测》（B类）第111题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2025-B类-112",
@@ -5202,7 +5503,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年上海公务员考试《行测》（B类）第112题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2025-B类-113",
@@ -5239,7 +5542,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年上海公务员考试《行测》（B类）第113题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2025-B类-114",
@@ -5276,7 +5581,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年上海公务员考试《行测》（B类）第114题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "经济利润",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2025-B类-115",
@@ -5313,7 +5620,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年上海公务员考试《行测》（B类）第115题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2025-B类-116",
@@ -5349,7 +5658,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年上海公务员考试《行测》（B类）第116题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2025-B类-117",
@@ -5386,7 +5697,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年上海公务员考试《行测》（B类）第117题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2025-B类-118",
@@ -5422,7 +5735,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年上海公务员考试《行测》（B类）第118题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2025-B类-119",
@@ -5458,7 +5773,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年上海公务员考试《行测》（B类）第119题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2025-B类-120",
@@ -5494,7 +5811,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年上海公务员考试《行测》（B类）第120题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2025-B类-121",
@@ -5531,7 +5850,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年上海公务员考试《行测》（B类）第121题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2025-B类-122",
@@ -5568,7 +5889,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年上海公务员考试《行测》（B类）第122题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2025-B类-123",
@@ -5605,7 +5928,10 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年上海公务员考试《行测》（B类）第123题",
-    "province": "上海"
+    "province": "上海",
+    "isAbnormal": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2025-B类-124",
@@ -5641,7 +5967,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年上海公务员考试《行测》（B类）第124题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2025-B类-125",
@@ -5677,7 +6005,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年上海公务员考试《行测》（B类）第125题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2025-B类-126",
@@ -5713,7 +6043,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年上海公务员考试《行测》（B类）第126题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2025-B类-127",
@@ -5749,7 +6081,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年上海公务员考试《行测》（B类）第127题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2025-B类-128",
@@ -5785,7 +6119,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年上海公务员考试《行测》（B类）第128题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2025-B类-129",
@@ -5821,7 +6157,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年上海公务员考试《行测》（B类）第129题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2025-B类-130",
@@ -5857,7 +6195,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年上海公务员考试《行测》（B类）第130题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2025-B类-91-2",
@@ -5892,7 +6232,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年上海公务员考试《行测》（B类）第91题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2025-B类-92-2",
@@ -5927,7 +6269,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年上海公务员考试《行测》（B类）第92题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2025-B类-93-2",
@@ -5963,7 +6307,9 @@
     "difficulty": "拔高",
     "source": "2025年上海公务员考试《行测》（B类）第93题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2025-B类-94-2",
@@ -5999,7 +6345,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年上海公务员考试《行测》（B类）第94题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2025-B类-95-2",
@@ -6035,7 +6383,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年上海公务员考试《行测》（B类）第95题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2025-B类-96-2",
@@ -6071,7 +6421,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年上海公务员考试《行测》（B类）第96题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2025-B类-97-2",
@@ -6106,7 +6458,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年上海公务员考试《行测》（B类）第97题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2025-B类-98-2",
@@ -6143,7 +6497,9 @@
     "difficulty": "拔高",
     "source": "2025年上海公务员考试《行测》（B类）第98题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2025-B类-99-2",
@@ -6180,7 +6536,9 @@
     "difficulty": "拔高",
     "source": "2025年上海公务员考试《行测》（B类）第99题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2025-B类-100-2",
@@ -6215,7 +6573,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年上海公务员考试《行测》（B类）第100题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2025-B类-101-2",
@@ -6251,7 +6611,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年上海公务员考试《行测》（B类）第101题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2025-B类-102-2",
@@ -6287,7 +6649,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年上海公务员考试《行测》（B类）第102题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2025-B类-103-2",
@@ -6323,7 +6687,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年上海公务员考试《行测》（B类）第103题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2025-B类-104-2",
@@ -6359,7 +6725,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年上海公务员考试《行测》（B类）第104题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2025-B类-105-2",
@@ -6395,7 +6763,10 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年上海公务员考试《行测》（B类）第105题",
-    "province": "上海"
+    "province": "上海",
+    "isAbnormal": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2025-B类-106-2",
@@ -6431,7 +6802,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年上海公务员考试《行测》（B类）第106题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2025-B类-107-2",
@@ -6467,7 +6840,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年上海公务员考试《行测》（B类）第107题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2025-B类-108-2",
@@ -6504,7 +6879,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年上海公务员考试《行测》（B类）第108题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2025-B类-109-2",
@@ -6542,7 +6919,9 @@
     "difficulty": "拔高",
     "source": "2025年上海公务员考试《行测》（B类）第109题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2025-B类-110-2",
@@ -6579,7 +6958,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年上海公务员考试《行测》（B类）第110题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2025-B类-111-2",
@@ -6616,7 +6997,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年上海公务员考试《行测》（B类）第111题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2025-B类-112-2",
@@ -6653,7 +7036,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年上海公务员考试《行测》（B类）第112题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2025-B类-113-2",
@@ -6690,7 +7075,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年上海公务员考试《行测》（B类）第113题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2025-B类-114-2",
@@ -6727,7 +7114,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年上海公务员考试《行测》（B类）第114题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "经济利润",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2025-B类-115-2",
@@ -6764,7 +7153,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年上海公务员考试《行测》（B类）第115题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2025-B类-116-2",
@@ -6800,7 +7191,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年上海公务员考试《行测》（B类）第116题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2025-B类-117-2",
@@ -6837,7 +7230,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年上海公务员考试《行测》（B类）第117题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2025-B类-118-2",
@@ -6873,7 +7268,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年上海公务员考试《行测》（B类）第118题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2025-B类-119-2",
@@ -6909,7 +7306,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年上海公务员考试《行测》（B类）第119题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2025-B类-120-2",
@@ -6945,7 +7344,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年上海公务员考试《行测》（B类）第120题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2025-B类-121-2",
@@ -6982,7 +7383,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年上海公务员考试《行测》（B类）第121题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2025-B类-122-2",
@@ -7019,7 +7422,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年上海公务员考试《行测》（B类）第122题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2025-B类-123-2",
@@ -7056,6 +7461,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年上海公务员考试《行测》（B类）第123题",
-    "province": "上海"
+    "province": "上海",
+    "isAbnormal": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   }
 ]

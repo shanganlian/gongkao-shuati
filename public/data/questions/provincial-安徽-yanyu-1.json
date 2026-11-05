@@ -31,7 +31,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年安徽公务员考试《行测》第46题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2014-未标注-47",
@@ -66,7 +68,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年安徽公务员考试《行测》第47题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "语句表达",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2014-未标注-48",
@@ -102,7 +106,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年安徽公务员考试《行测》第48题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2014-未标注-49",
@@ -137,7 +143,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年安徽公务员考试《行测》第49题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2014-未标注-50",
@@ -172,7 +180,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年安徽公务员考试《行测》第50题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2015-联考-21",
@@ -207,7 +217,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年安徽公务员考试《行测》（联考）第21题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2015-联考-22",
@@ -243,7 +255,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年安徽公务员考试《行测》（联考）第22题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2015-联考-23",
@@ -278,7 +292,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年安徽公务员考试《行测》（联考）第23题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2015-联考-24",
@@ -314,7 +330,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年安徽公务员考试《行测》（联考）第24题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2015-联考-25",
@@ -349,7 +367,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年安徽公务员考试《行测》（联考）第25题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2015-联考-26",
@@ -383,7 +403,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年安徽公务员考试《行测》（联考）第26题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2015-联考-27",
@@ -419,7 +441,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年安徽公务员考试《行测》（联考）第27题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2015-联考-28",
@@ -454,7 +478,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年安徽公务员考试《行测》（联考）第28题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2015-联考-29",
@@ -489,7 +515,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年安徽公务员考试《行测》（联考）第29题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2015-联考-30",
@@ -524,7 +552,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年安徽公务员考试《行测》（联考）第30题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2015-联考-31",
@@ -559,7 +589,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年安徽公务员考试《行测》（联考）第31题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "语句表达",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2015-联考-32",
@@ -595,7 +627,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年安徽公务员考试《行测》（联考）第32题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "语句表达",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2015-联考-33",
@@ -629,7 +663,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年安徽公务员考试《行测》（联考）第33题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2015-联考-34",
@@ -664,7 +700,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年安徽公务员考试《行测》（联考）第34题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2015-联考-35",
@@ -699,7 +737,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年安徽公务员考试《行测》（联考）第35题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2015-联考-36",
@@ -734,7 +774,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年安徽公务员考试《行测》（联考）第36题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2015-联考-37",
@@ -770,7 +812,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年安徽公务员考试《行测》（联考）第37题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2015-联考-38",
@@ -805,7 +849,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年安徽公务员考试《行测》（联考）第38题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2015-联考-39",
@@ -840,7 +886,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年安徽公务员考试《行测》（联考）第39题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2015-联考-40",
@@ -876,7 +924,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年安徽公务员考试《行测》（联考）第40题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2015-联考-41",
@@ -912,7 +962,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年安徽公务员考试《行测》（联考）第41题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2015-联考-42",
@@ -947,7 +999,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年安徽公务员考试《行测》（联考）第42题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2015-联考-43",
@@ -982,7 +1036,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年安徽公务员考试《行测》（联考）第43题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2015-联考-44",
@@ -1014,7 +1070,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年安徽公务员考试《行测》（联考）第44题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2015-联考-45",
@@ -1049,7 +1107,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年安徽公务员考试《行测》（联考）第45题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "语句表达",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2015-联考-46",
@@ -1083,7 +1143,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年安徽公务员考试《行测》（联考）第46题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2015-联考-47",
@@ -1115,7 +1177,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年安徽公务员考试《行测》（联考）第47题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2015-联考-48",
@@ -1151,7 +1215,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年安徽公务员考试《行测》（联考）第48题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2015-联考-49",
@@ -1186,7 +1252,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年安徽公务员考试《行测》（联考）第49题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2015-联考-50",
@@ -1221,7 +1289,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年安徽公务员考试《行测》（联考）第50题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2016-联考-21",
@@ -1253,7 +1323,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年安徽公务员考试《行测》（联考）第21题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2016-联考-22",
@@ -1288,7 +1360,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年安徽公务员考试《行测》（联考）第22题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2016-联考-23",
@@ -1323,7 +1397,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年安徽公务员考试《行测》（联考）第23题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2016-联考-24",
@@ -1358,7 +1434,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年安徽公务员考试《行测》（联考）第24题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2016-联考-25",
@@ -1393,7 +1471,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年安徽公务员考试《行测》（联考）第25题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2016-联考-26",
@@ -1428,7 +1508,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年安徽公务员考试《行测》（联考）第26题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2016-联考-27",
@@ -1460,7 +1542,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年安徽公务员考试《行测》（联考）第27题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2016-联考-28",
@@ -1492,7 +1576,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年安徽公务员考试《行测》（联考）第28题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2016-联考-29",
@@ -1526,7 +1612,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年安徽公务员考试《行测》（联考）第29题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2016-联考-30",
@@ -1558,7 +1646,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年安徽公务员考试《行测》（联考）第30题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2016-联考-31",
@@ -1590,7 +1680,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年安徽公务员考试《行测》（联考）第31题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "语句表达",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2016-联考-32",
@@ -1624,7 +1716,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年安徽公务员考试《行测》（联考）第32题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "语句表达",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2016-联考-33",
@@ -1656,7 +1750,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年安徽公务员考试《行测》（联考）第33题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "语句表达",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2016-联考-34",
@@ -1691,7 +1787,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年安徽公务员考试《行测》（联考）第34题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2016-联考-35",
@@ -1725,7 +1823,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年安徽公务员考试《行测》（联考）第35题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2016-联考-36",
@@ -1760,7 +1860,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年安徽公务员考试《行测》（联考）第36题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2016-联考-37",
@@ -1795,7 +1897,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年安徽公务员考试《行测》（联考）第37题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2016-联考-38",
@@ -1830,7 +1934,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年安徽公务员考试《行测》（联考）第38题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2016-联考-39",
@@ -1864,7 +1970,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年安徽公务员考试《行测》（联考）第39题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2016-联考-40",
@@ -1899,7 +2007,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年安徽公务员考试《行测》（联考）第40题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2016-联考-41",
@@ -1933,7 +2043,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年安徽公务员考试《行测》（联考）第41题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2016-联考-42",
@@ -1968,7 +2080,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年安徽公务员考试《行测》（联考）第42题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2016-联考-43",
@@ -2004,7 +2118,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年安徽公务员考试《行测》（联考）第43题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2016-联考-44",
@@ -2036,7 +2152,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年安徽公务员考试《行测》（联考）第44题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "语句表达",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2016-联考-45",
@@ -2070,7 +2188,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年安徽公务员考试《行测》（联考）第45题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2016-联考-46",
@@ -2104,7 +2224,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年安徽公务员考试《行测》（联考）第46题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2016-联考-47",
@@ -2139,7 +2261,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年安徽公务员考试《行测》（联考）第47题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2016-联考-48",
@@ -2174,7 +2298,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年安徽公务员考试《行测》（联考）第48题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2016-联考-49",
@@ -2210,7 +2336,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年安徽公务员考试《行测》（联考）第49题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2016-联考-50",
@@ -2242,7 +2370,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年安徽公务员考试《行测》（联考）第50题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2017-联考-1",
@@ -2274,7 +2404,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年安徽公务员考试《行测》（联考）第1题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2017-联考-2",
@@ -2306,7 +2438,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年安徽公务员考试《行测》（联考）第2题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2017-联考-3",
@@ -2338,7 +2472,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年安徽公务员考试《行测》（联考）第3题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2017-联考-4",
@@ -2372,7 +2508,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年安徽公务员考试《行测》（联考）第4题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2017-联考-5",
@@ -2406,7 +2544,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年安徽公务员考试《行测》（联考）第5题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2017-联考-6",
@@ -2440,7 +2580,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年安徽公务员考试《行测》（联考）第6题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2017-联考-7",
@@ -2474,7 +2616,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年安徽公务员考试《行测》（联考）第7题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2017-联考-8",
@@ -2508,7 +2652,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年安徽公务员考试《行测》（联考）第8题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2017-联考-9",
@@ -2540,7 +2686,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年安徽公务员考试《行测》（联考）第9题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2017-联考-10",
@@ -2574,7 +2722,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年安徽公务员考试《行测》（联考）第10题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2017-联考-11",
@@ -2608,7 +2758,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年安徽公务员考试《行测》（联考）第11题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "语句表达",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2017-联考-12",
@@ -2642,7 +2794,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年安徽公务员考试《行测》（联考）第12题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "语句表达",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2017-联考-13",
@@ -2676,7 +2830,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年安徽公务员考试《行测》（联考）第13题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2017-联考-14",
@@ -2708,7 +2864,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年安徽公务员考试《行测》（联考）第14题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2017-联考-15",
@@ -2742,7 +2900,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年安徽公务员考试《行测》（联考）第15题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2017-联考-16",
@@ -2774,7 +2934,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年安徽公务员考试《行测》（联考）第16题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2017-联考-17",
@@ -2808,7 +2970,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年安徽公务员考试《行测》（联考）第17题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2017-联考-18",
@@ -2840,7 +3004,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年安徽公务员考试《行测》（联考）第18题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2017-联考-19",
@@ -2872,7 +3038,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年安徽公务员考试《行测》（联考）第19题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2017-联考-20",
@@ -2906,7 +3074,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年安徽公务员考试《行测》（联考）第20题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2017-联考-21",
@@ -2940,7 +3110,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年安徽公务员考试《行测》（联考）第21题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2017-联考-22",
@@ -2975,7 +3147,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年安徽公务员考试《行测》（联考）第22题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2017-联考-23",
@@ -3007,7 +3181,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年安徽公务员考试《行测》（联考）第23题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2017-联考-24",
@@ -3041,7 +3217,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年安徽公务员考试《行测》（联考）第24题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2017-联考-25",
@@ -3073,7 +3251,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年安徽公务员考试《行测》（联考）第25题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2018-联考-1",
@@ -3107,7 +3287,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年安徽公务员考试《行测》（联考）第1题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2018-联考-2",
@@ -3141,7 +3323,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年安徽公务员考试《行测》（联考）第2题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2018-联考-3",
@@ -3175,7 +3359,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年安徽公务员考试《行测》（联考）第3题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2018-联考-4",
@@ -3209,7 +3395,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年安徽公务员考试《行测》（联考）第4题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2018-联考-5",
@@ -3243,7 +3431,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年安徽公务员考试《行测》（联考）第5题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2018-联考-6",
@@ -3278,7 +3468,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年安徽公务员考试《行测》（联考）第6题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2018-联考-7",
@@ -3310,7 +3502,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年安徽公务员考试《行测》（联考）第7题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2018-联考-8",
@@ -3345,7 +3539,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年安徽公务员考试《行测》（联考）第8题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2018-联考-9",
@@ -3377,7 +3573,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年安徽公务员考试《行测》（联考）第9题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2018-联考-10",
@@ -3411,7 +3609,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年安徽公务员考试《行测》（联考）第10题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2018-联考-11",
@@ -3445,7 +3645,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年安徽公务员考试《行测》（联考）第11题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2018-联考-12",
@@ -3477,7 +3679,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年安徽公务员考试《行测》（联考）第12题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "语句表达",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2018-联考-13",
@@ -3512,7 +3716,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年安徽公务员考试《行测》（联考）第13题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "语句表达",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2018-联考-14",
@@ -3544,7 +3750,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年安徽公务员考试《行测》（联考）第14题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "语句表达",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2018-联考-15",
@@ -3576,7 +3784,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年安徽公务员考试《行测》（联考）第15题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "语句表达",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2018-联考-16",
@@ -3611,7 +3821,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年安徽公务员考试《行测》（联考）第16题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2018-联考-17",
@@ -3646,7 +3858,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年安徽公务员考试《行测》（联考）第17题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2018-联考-18",
@@ -3680,7 +3894,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年安徽公务员考试《行测》（联考）第18题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2018-联考-19",
@@ -3712,7 +3928,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年安徽公务员考试《行测》（联考）第19题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2018-联考-20",
@@ -3747,7 +3965,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年安徽公务员考试《行测》（联考）第20题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2018-联考-21",
@@ -3782,7 +4002,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年安徽公务员考试《行测》（联考）第21题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2018-联考-22",
@@ -3816,7 +4038,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年安徽公务员考试《行测》（联考）第22题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2018-联考-23",
@@ -3851,7 +4075,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年安徽公务员考试《行测》（联考）第23题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2018-联考-24",
@@ -3883,7 +4109,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年安徽公务员考试《行测》（联考）第24题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2018-联考-25",
@@ -3915,7 +4143,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年安徽公务员考试《行测》（联考）第25题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2018-联考-26",
@@ -3931,7 +4161,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2018年安徽公务员考试《行测》（联考）第26题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "片段阅读",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-anhui-2019-联考-36",
@@ -3965,7 +4197,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年安徽公务员考试《行测》（联考）第36题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2019-联考-37",
@@ -3997,7 +4231,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年安徽公务员考试《行测》（联考）第37题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2019-联考-38",
@@ -4029,7 +4265,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年安徽公务员考试《行测》（联考）第38题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2019-联考-39",
@@ -4063,7 +4301,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年安徽公务员考试《行测》（联考）第39题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2019-联考-40",
@@ -4097,7 +4337,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年安徽公务员考试《行测》（联考）第40题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2019-联考-41",
@@ -4129,7 +4371,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年安徽公务员考试《行测》（联考）第41题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2019-联考-42",
@@ -4163,7 +4407,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年安徽公务员考试《行测》（联考）第42题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2019-联考-43",
@@ -4195,7 +4441,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年安徽公务员考试《行测》（联考）第43题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2019-联考-44",
@@ -4229,7 +4477,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年安徽公务员考试《行测》（联考）第44题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2019-联考-45",
@@ -4261,7 +4511,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年安徽公务员考试《行测》（联考）第45题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2019-联考-46",
@@ -4293,7 +4545,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年安徽公务员考试《行测》（联考）第46题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2019-联考-47",
@@ -4327,7 +4581,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年安徽公务员考试《行测》（联考）第47题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "语句表达",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2019-联考-48",
@@ -4361,7 +4617,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年安徽公务员考试《行测》（联考）第48题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "语句表达",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2019-联考-49",
@@ -4395,7 +4653,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年安徽公务员考试《行测》（联考）第49题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "语句表达",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2019-联考-50",
@@ -4429,7 +4689,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年安徽公务员考试《行测》（联考）第50题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2019-联考-51",
@@ -4463,7 +4725,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年安徽公务员考试《行测》（联考）第51题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2019-联考-52",
@@ -4497,7 +4761,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年安徽公务员考试《行测》（联考）第52题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2019-联考-53",
@@ -4531,7 +4797,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年安徽公务员考试《行测》（联考）第53题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2019-联考-54",
@@ -4563,7 +4831,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年安徽公务员考试《行测》（联考）第54题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2019-联考-55",
@@ -4598,7 +4868,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年安徽公务员考试《行测》（联考）第55题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2019-联考-56",
@@ -4632,7 +4904,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年安徽公务员考试《行测》（联考）第56题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2019-联考-57",
@@ -4666,7 +4940,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年安徽公务员考试《行测》（联考）第57题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2019-联考-58",
@@ -4701,7 +4977,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年安徽公务员考试《行测》（联考）第58题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2019-联考-59",
@@ -4733,7 +5011,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年安徽公务员考试《行测》（联考）第59题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2019-联考-60",
@@ -4765,7 +5045,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年安徽公务员考试《行测》（联考）第60题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2020-未标注-16",
@@ -4800,7 +5082,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年安徽公务员考试《行测》第16题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2020-未标注-17",
@@ -4836,7 +5120,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年安徽公务员考试《行测》第17题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2020-未标注-18",
@@ -4871,7 +5157,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年安徽公务员考试《行测》第18题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2020-未标注-19",
@@ -4906,7 +5194,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年安徽公务员考试《行测》第19题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2020-未标注-20",
@@ -4942,7 +5232,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年安徽公务员考试《行测》第20题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2020-未标注-21",
@@ -4976,7 +5268,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年安徽公务员考试《行测》第21题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2020-未标注-22",
@@ -5011,7 +5305,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年安徽公务员考试《行测》第22题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2020-未标注-23",
@@ -5030,7 +5326,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年安徽公务员考试《行测》第23题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2020-未标注-24",
@@ -5066,7 +5364,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年安徽公务员考试《行测》第24题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2020-未标注-25",
@@ -5103,7 +5403,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年安徽公务员考试《行测》第25题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2020-未标注-26",
@@ -5139,7 +5441,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年安徽公务员考试《行测》第26题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2020-未标注-27",
@@ -5175,7 +5479,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年安徽公务员考试《行测》第27题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2020-未标注-28",
@@ -5211,7 +5517,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年安徽公务员考试《行测》第28题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2020-未标注-29",
@@ -5246,7 +5554,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年安徽公务员考试《行测》第29题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "语句表达",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2020-未标注-30",
@@ -5282,7 +5592,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年安徽公务员考试《行测》第30题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "语句表达",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2020-未标注-31",
@@ -5317,7 +5629,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年安徽公务员考试《行测》第31题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2020-未标注-32",
@@ -5354,7 +5668,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年安徽公务员考试《行测》第32题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2020-未标注-33",
@@ -5390,7 +5706,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年安徽公务员考试《行测》第33题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2020-未标注-34",
@@ -5427,7 +5745,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年安徽公务员考试《行测》第34题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2020-未标注-35",
@@ -5464,7 +5784,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年安徽公务员考试《行测》第35题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2020-未标注-36",
@@ -5500,7 +5822,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年安徽公务员考试《行测》第36题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2020-未标注-37",
@@ -5536,7 +5860,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年安徽公务员考试《行测》第37题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2020-未标注-38",
@@ -5572,7 +5898,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年安徽公务员考试《行测》第38题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2020-未标注-39",
@@ -5608,7 +5936,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年安徽公务员考试《行测》第39题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2020-未标注-40",
@@ -5644,7 +5974,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年安徽公务员考试《行测》第40题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2020-选调-16",
@@ -5676,7 +6008,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年安徽公务员考试《行测》（选调）第16题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2020-选调-17",
@@ -5710,7 +6044,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年安徽公务员考试《行测》（选调）第17题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2020-选调-18",
@@ -5744,7 +6080,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年安徽公务员考试《行测》（选调）第18题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2020-选调-19",
@@ -5779,7 +6117,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年安徽公务员考试《行测》（选调）第19题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "语句表达",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2020-选调-20",
@@ -5813,7 +6153,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年安徽公务员考试《行测》（选调）第20题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2020-选调-21",
@@ -5845,7 +6187,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年安徽公务员考试《行测》（选调）第21题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2020-选调-22",
@@ -5879,7 +6223,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年安徽公务员考试《行测》（选调）第22题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2020-选调-23",
@@ -5911,7 +6257,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年安徽公务员考试《行测》（选调）第23题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "语句表达",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2020-选调-24",
@@ -5946,7 +6294,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年安徽公务员考试《行测》（选调）第24题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2020-选调-25",
@@ -5978,7 +6328,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年安徽公务员考试《行测》（选调）第25题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2020-选调-26",
@@ -6013,7 +6365,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年安徽公务员考试《行测》（选调）第26题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2020-选调-27",
@@ -6048,7 +6402,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年安徽公务员考试《行测》（选调）第27题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2020-选调-28",
@@ -6083,7 +6439,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年安徽公务员考试《行测》（选调）第28题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2020-选调-29",
@@ -6118,7 +6476,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年安徽公务员考试《行测》（选调）第29题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2020-选调-30",
@@ -6153,7 +6513,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年安徽公务员考试《行测》（选调）第30题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2020-选调-31",
@@ -6188,7 +6550,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年安徽公务员考试《行测》（选调）第31题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2020-选调-32",
@@ -6224,7 +6588,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年安徽公务员考试《行测》（选调）第32题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-anhui-2020-选调-33",
@@ -6260,7 +6626,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年安徽公务员考试《行测》（选调）第33题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2020-选调-34",
@@ -6295,7 +6663,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年安徽公务员考试《行测》（选调）第34题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2020-选调-35",
@@ -6331,7 +6701,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年安徽公务员考试《行测》（选调）第35题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2021-未标注-36",
@@ -6366,7 +6738,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年安徽公务员考试《行测》第36题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2021-未标注-37",
@@ -6398,7 +6772,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年安徽公务员考试《行测》第37题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2021-未标注-38",
@@ -6433,7 +6809,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年安徽公务员考试《行测》第38题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2021-未标注-39",
@@ -6467,7 +6845,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年安徽公务员考试《行测》第39题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2021-未标注-40",
@@ -6501,7 +6881,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年安徽公务员考试《行测》第40题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2021-未标注-41",
@@ -6536,7 +6918,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年安徽公务员考试《行测》第41题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2021-未标注-42",
@@ -6568,7 +6952,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年安徽公务员考试《行测》第42题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2021-未标注-43",
@@ -6603,7 +6989,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年安徽公务员考试《行测》第43题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2021-未标注-44",
@@ -6638,7 +7026,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年安徽公务员考试《行测》第44题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2021-未标注-45",
@@ -6672,7 +7062,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年安徽公务员考试《行测》第45题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "逻辑填空",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2021-未标注-46",
@@ -6708,7 +7100,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年安徽公务员考试《行测》第46题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "语句表达",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2021-未标注-47",
@@ -6743,7 +7137,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年安徽公务员考试《行测》第47题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2021-未标注-48",
@@ -6778,7 +7174,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年安徽公务员考试《行测》第48题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2021-未标注-49",
@@ -6813,6 +7211,8 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年安徽公务员考试《行测》第49题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   }
 ]

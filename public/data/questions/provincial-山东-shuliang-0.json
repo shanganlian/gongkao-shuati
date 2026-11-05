@@ -13,7 +13,10 @@
     "difficulty": "拔高",
     "source": "2006年山东公务员考试《行测》第1题",
     "isImageQuestion": true,
-    "province": "山东"
+    "province": "山东",
+    "isAbnormal": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shandong-2006-未标注-2",
@@ -50,7 +53,9 @@
     "difficulty": "拔高",
     "source": "2006年山东公务员考试《行测》第2题",
     "isImageQuestion": true,
-    "province": "山东"
+    "province": "山东",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2006-未标注-3",
@@ -87,7 +92,9 @@
     "difficulty": "拔高",
     "source": "2006年山东公务员考试《行测》第3题",
     "isImageQuestion": true,
-    "province": "山东"
+    "province": "山东",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shandong-2006-未标注-4",
@@ -103,7 +110,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2006年山东公务员考试《行测》第4题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shandong-2006-未标注-5",
@@ -119,7 +128,10 @@
     "difficulty": "拔高",
     "source": "2006年山东公务员考试《行测》第5题",
     "isImageQuestion": true,
-    "province": "山东"
+    "province": "山东",
+    "isAbnormal": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2006-未标注-6",
@@ -153,7 +165,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2006年山东公务员考试《行测》第6题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2006-未标注-7",
@@ -187,7 +201,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2006年山东公务员考试《行测》第7题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2006-未标注-8",
@@ -222,7 +238,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2006年山东公务员考试《行测》第8题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2006-未标注-9",
@@ -254,7 +272,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2006年山东公务员考试《行测》第9题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2006-未标注-10",
@@ -287,7 +307,9 @@
     "difficulty": "拔高",
     "source": "2006年山东公务员考试《行测》第10题",
     "isImageQuestion": true,
-    "province": "山东"
+    "province": "山东",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2006-未标注-11",
@@ -319,7 +341,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2006年山东公务员考试《行测》第11题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2006-未标注-12",
@@ -351,7 +375,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2006年山东公务员考试《行测》第12题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2006-未标注-13",
@@ -383,7 +409,9 @@
     "difficulty": "拔高",
     "source": "2006年山东公务员考试《行测》第13题",
     "isImageQuestion": true,
-    "province": "山东"
+    "province": "山东",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2006-未标注-14",
@@ -419,7 +447,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2006年山东公务员考试《行测》第14题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2006-未标注-15",
@@ -451,7 +481,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2006年山东公务员考试《行测》第15题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2007-未标注-41",
@@ -483,7 +515,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2007年山东公务员考试《行测》第41题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2007-未标注-42",
@@ -499,7 +533,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2007年山东公务员考试《行测》第42题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shandong-2007-未标注-43",
@@ -536,7 +572,9 @@
     "difficulty": "拔高",
     "source": "2007年山东公务员考试《行测》第43题",
     "isImageQuestion": true,
-    "province": "山东"
+    "province": "山东",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2007-未标注-44",
@@ -572,7 +610,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2007年山东公务员考试《行测》第44题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2007-未标注-45",
@@ -604,7 +644,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2007年山东公务员考试《行测》第45题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2007-未标注-46",
@@ -636,7 +678,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2007年山东公务员考试《行测》第46题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2007-未标注-47",
@@ -670,7 +714,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2007年山东公务员考试《行测》第47题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2007-未标注-48",
@@ -704,7 +750,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2007年山东公务员考试《行测》第48题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2007-未标注-49",
@@ -739,7 +787,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2007年山东公务员考试《行测》第49题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2007-未标注-50",
@@ -775,7 +825,9 @@
     "difficulty": "拔高",
     "source": "2007年山东公务员考试《行测》第50题",
     "isImageQuestion": true,
-    "province": "山东"
+    "province": "山东",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2007-未标注-51",
@@ -812,7 +864,9 @@
     "difficulty": "拔高",
     "source": "2007年山东公务员考试《行测》第51题",
     "isImageQuestion": true,
-    "province": "山东"
+    "province": "山东",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2007-未标注-52",
@@ -846,7 +900,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2007年山东公务员考试《行测》第52题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2007-未标注-53",
@@ -878,7 +934,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2007年山东公务员考试《行测》第53题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2007-未标注-54",
@@ -913,7 +971,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2007年山东公务员考试《行测》第54题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2007-未标注-55",
@@ -949,7 +1009,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2007年山东公务员考试《行测》第55题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2007-未标注-56",
@@ -981,7 +1043,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2007年山东公务员考试《行测》第56题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2007-未标注-57",
@@ -1015,7 +1079,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2007年山东公务员考试《行测》第57题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2007-未标注-58",
@@ -1051,7 +1117,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2007年山东公务员考试《行测》第58题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2007-未标注-59",
@@ -1083,7 +1151,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2007年山东公务员考试《行测》第59题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2007-未标注-60",
@@ -1117,7 +1187,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2007年山东公务员考试《行测》第60题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2007-未标注-61",
@@ -1133,7 +1205,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2007年山东公务员考试《行测》第61题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shandong-2007-未标注-62",
@@ -1149,7 +1223,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2007年山东公务员考试《行测》第62题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shandong-2007-未标注-63",
@@ -1165,7 +1241,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2007年山东公务员考试《行测》第63题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shandong-2007-未标注-64",
@@ -1181,7 +1259,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2007年山东公务员考试《行测》第64题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shandong-2007-未标注-65",
@@ -1197,7 +1277,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2007年山东公务员考试《行测》第65题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shandong-2007-未标注-66",
@@ -1213,7 +1295,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2007年山东公务员考试《行测》第66题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shandong-2007-未标注-67",
@@ -1229,7 +1313,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2007年山东公务员考试《行测》第67题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shandong-2007-未标注-68",
@@ -1245,7 +1331,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2007年山东公务员考试《行测》第68题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shandong-2007-未标注-69",
@@ -1261,7 +1349,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2007年山东公务员考试《行测》第69题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shandong-2007-未标注-70",
@@ -1277,7 +1367,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2007年山东公务员考试《行测》第70题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shandong-2007-未标注-71",
@@ -1293,7 +1385,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2007年山东公务员考试《行测》第71题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shandong-2007-未标注-72",
@@ -1309,7 +1403,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2007年山东公务员考试《行测》第72题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shandong-2008-未标注-31",
@@ -1344,7 +1440,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2008年山东公务员考试《行测》第31题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2008-未标注-32",
@@ -1379,7 +1477,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2008年山东公务员考试《行测》第32题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2008-未标注-33",
@@ -1415,7 +1515,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2008年山东公务员考试《行测》第33题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2008-未标注-34",
@@ -1435,7 +1537,10 @@
     "difficulty": "拔高",
     "source": "2008年山东公务员考试《行测》第34题",
     "isImageQuestion": true,
-    "province": "山东"
+    "province": "山东",
+    "isAbnormal": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2008-未标注-35",
@@ -1471,7 +1576,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2008年山东公务员考试《行测》第35题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2008-未标注-36",
@@ -1505,7 +1612,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2008年山东公务员考试《行测》第36题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2008-未标注-37",
@@ -1541,7 +1650,9 @@
     "difficulty": "拔高",
     "source": "2008年山东公务员考试《行测》第37题",
     "isImageQuestion": true,
-    "province": "山东"
+    "province": "山东",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shandong-2008-未标注-38",
@@ -1577,7 +1688,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2008年山东公务员考试《行测》第38题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2008-未标注-39",
@@ -1613,7 +1726,9 @@
     "difficulty": "拔高",
     "source": "2008年山东公务员考试《行测》第39题",
     "isImageQuestion": true,
-    "province": "山东"
+    "province": "山东",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2008-未标注-40",
@@ -1647,7 +1762,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2008年山东公务员考试《行测》第40题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2008-未标注-41",
@@ -1681,7 +1798,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2008年山东公务员考试《行测》第41题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2008-未标注-42",
@@ -1717,7 +1836,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2008年山东公务员考试《行测》第42题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2008-未标注-43",
@@ -1752,7 +1873,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2008年山东公务员考试《行测》第43题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "经济利润",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shandong-2008-未标注-44",
@@ -1786,7 +1909,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2008年山东公务员考试《行测》第44题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2008-未标注-45",
@@ -1821,7 +1946,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2008年山东公务员考试《行测》第45题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2008-未标注-46",
@@ -1855,7 +1982,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2008年山东公务员考试《行测》第46题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2008-未标注-47",
@@ -1890,7 +2019,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2008年山东公务员考试《行测》第47题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2008-未标注-48",
@@ -1924,7 +2055,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2008年山东公务员考试《行测》第48题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2008-未标注-49",
@@ -1958,7 +2091,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2008年山东公务员考试《行测》第49题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2008-未标注-50",
@@ -1994,7 +2129,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2008年山东公务员考试《行测》第50题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2009-未标注-101",
@@ -2029,7 +2166,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2009年山东公务员考试《行测》第101题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2009-未标注-102",
@@ -2065,7 +2204,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2009年山东公务员考试《行测》第102题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2009-未标注-103",
@@ -2101,7 +2242,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2009年山东公务员考试《行测》第103题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2009-未标注-104",
@@ -2138,7 +2281,9 @@
     "difficulty": "拔高",
     "source": "2009年山东公务员考试《行测》第104题",
     "isImageQuestion": true,
-    "province": "山东"
+    "province": "山东",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shandong-2009-未标注-105",
@@ -2157,7 +2302,10 @@
     "difficulty": "拔高",
     "source": "2009年山东公务员考试《行测》第105题",
     "isImageQuestion": true,
-    "province": "山东"
+    "province": "山东",
+    "isAbnormal": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2009-未标注-106",
@@ -2191,7 +2339,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2009年山东公务员考试《行测》第106题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2009-未标注-107",
@@ -2226,7 +2376,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2009年山东公务员考试《行测》第107题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2009-未标注-108",
@@ -2261,7 +2413,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2009年山东公务员考试《行测》第108题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2009-未标注-109",
@@ -2296,7 +2450,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2009年山东公务员考试《行测》第109题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shandong-2009-未标注-110",
@@ -2332,7 +2488,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2009年山东公务员考试《行测》第110题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2009-未标注-111",
@@ -2366,7 +2524,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2009年山东公务员考试《行测》第111题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2009-未标注-112",
@@ -2400,7 +2560,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2009年山东公务员考试《行测》第112题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2009-未标注-113",
@@ -2436,7 +2598,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2009年山东公务员考试《行测》第113题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2009-未标注-114",
@@ -2470,7 +2634,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2009年山东公务员考试《行测》第114题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2009-未标注-115",
@@ -2506,7 +2672,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2009年山东公务员考试《行测》第115题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2009-未标注-116",
@@ -2540,7 +2708,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2009年山东公务员考试《行测》第116题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2009-未标注-117",
@@ -2576,7 +2746,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2009年山东公务员考试《行测》第117题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2009-未标注-118",
@@ -2613,7 +2785,9 @@
     "difficulty": "拔高",
     "source": "2009年山东公务员考试《行测》第118题",
     "isImageQuestion": true,
-    "province": "山东"
+    "province": "山东",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2009-未标注-119",
@@ -2649,7 +2823,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2009年山东公务员考试《行测》第119题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2009-未标注-120",
@@ -2686,7 +2862,9 @@
     "difficulty": "拔高",
     "source": "2009年山东公务员考试《行测》第120题",
     "isImageQuestion": true,
-    "province": "山东"
+    "province": "山东",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shandong-2010-425联考-1",
@@ -2722,7 +2900,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2010年山东公务员考试《行测》（425联考）第1题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2010-425联考-2",
@@ -2757,7 +2937,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2010年山东公务员考试《行测》（425联考）第2题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2010-425联考-3",
@@ -2793,7 +2975,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2010年山东公务员考试《行测》（425联考）第3题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2010-425联考-4",
@@ -2829,7 +3013,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2010年山东公务员考试《行测》（425联考）第4题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2010-425联考-5",
@@ -2864,7 +3050,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2010年山东公务员考试《行测》（425联考）第5题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2010-425联考-6",
@@ -2899,7 +3087,9 @@
     "difficulty": "拔高",
     "source": "2010年山东公务员考试《行测》（425联考）第6题",
     "isImageQuestion": true,
-    "province": "山东"
+    "province": "山东",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2010-425联考-7",
@@ -2934,7 +3124,9 @@
     "difficulty": "拔高",
     "source": "2010年山东公务员考试《行测》（425联考）第7题",
     "isImageQuestion": true,
-    "province": "山东"
+    "province": "山东",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2010-425联考-8",
@@ -2968,7 +3160,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2010年山东公务员考试《行测》（425联考）第8题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shandong-2010-425联考-9",
@@ -3003,7 +3197,9 @@
     "difficulty": "拔高",
     "source": "2010年山东公务员考试《行测》（425联考）第9题",
     "isImageQuestion": true,
-    "province": "山东"
+    "province": "山东",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2010-425联考-10",
@@ -3038,7 +3234,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2010年山东公务员考试《行测》（425联考）第10题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2010-425联考-11",
@@ -3072,7 +3270,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2010年山东公务员考试《行测》（425联考）第11题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2010-425联考-12",
@@ -3108,7 +3308,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2010年山东公务员考试《行测》（425联考）第12题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2010-425联考-13",
@@ -3142,7 +3344,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2010年山东公务员考试《行测》（425联考）第13题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2010-425联考-14",
@@ -3159,7 +3363,10 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2010年山东公务员考试《行测》（425联考）第14题",
-    "province": "山东"
+    "province": "山东",
+    "isAbnormal": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2010-425联考-15",
@@ -3175,7 +3382,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2010年山东公务员考试《行测》（425联考）第15题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shandong-2010-425联考-16",
@@ -3191,7 +3400,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2010年山东公务员考试《行测》（425联考）第16题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shandong-2010-425联考-17",
@@ -3209,7 +3420,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2010年山东公务员考试《行测》（425联考）第17题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shandong-2010-425联考-18",
@@ -3225,7 +3438,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2010年山东公务员考试《行测》（425联考）第18题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shandong-2010-425联考-19",
@@ -3241,7 +3456,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2010年山东公务员考试《行测》（425联考）第19题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shandong-2010-425联考-20",
@@ -3257,7 +3474,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2010年山东公务员考试《行测》（425联考）第20题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shandong-2010-425联考-21",
@@ -3273,7 +3492,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2010年山东公务员考试《行测》（425联考）第21题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shandong-2010-425联考-22",
@@ -3289,7 +3510,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2010年山东公务员考试《行测》（425联考）第22题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shandong-2010-425联考-23",
@@ -3305,7 +3528,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2010年山东公务员考试《行测》（425联考）第23题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shandong-2010-425联考-24",
@@ -3321,7 +3546,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2010年山东公务员考试《行测》（425联考）第24题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shandong-2010-425联考-25",
@@ -3337,7 +3564,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2010年山东公务员考试《行测》（425联考）第25题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shandong-2010-425联考-26",
@@ -3353,7 +3582,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2010年山东公务员考试《行测》（425联考）第26题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shandong-2010-425联考-27",
@@ -3369,7 +3600,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2010年山东公务员考试《行测》（425联考）第27题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shandong-2010-425联考-28",
@@ -3385,7 +3618,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2010年山东公务员考试《行测》（425联考）第28题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shandong-2010-425联考-29",
@@ -3401,7 +3636,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2010年山东公务员考试《行测》（425联考）第29题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shandong-2010-425联考-30",
@@ -3417,7 +3654,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2010年山东公务员考试《行测》（425联考）第30题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shandong-2010-425联考-31",
@@ -3433,7 +3672,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2010年山东公务员考试《行测》（425联考）第31题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shandong-2010-425联考-32",
@@ -3449,7 +3690,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2010年山东公务员考试《行测》（425联考）第32题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shandong-2010-425联考-33",
@@ -3465,7 +3708,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2010年山东公务员考试《行测》（425联考）第33题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shandong-2010-425联考-34",
@@ -3501,7 +3746,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2010年山东公务员考试《行测》（425联考）第34题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shandong-2011-424联考-41",
@@ -3537,7 +3784,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2011年山东公务员考试《行测》（424联考）第41题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2011-424联考-42",
@@ -3571,7 +3820,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2011年山东公务员考试《行测》（424联考）第42题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2011-424联考-43",
@@ -3603,7 +3854,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2011年山东公务员考试《行测》（424联考）第43题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2011-424联考-44",
@@ -3637,7 +3890,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2011年山东公务员考试《行测》（424联考）第44题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2011-424联考-45",
@@ -3672,7 +3927,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2011年山东公务员考试《行测》（424联考）第45题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2011-424联考-46",
@@ -3706,7 +3963,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2011年山东公务员考试《行测》（424联考）第46题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2011-424联考-47",
@@ -3741,7 +4000,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2011年山东公务员考试《行测》（424联考）第47题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2011-424联考-48",
@@ -3775,7 +4036,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2011年山东公务员考试《行测》（424联考）第48题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2011-424联考-49",
@@ -3809,7 +4072,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2011年山东公务员考试《行测》（424联考）第49题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2011-424联考-50",
@@ -3845,7 +4110,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2011年山东公务员考试《行测》（424联考）第50题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2012-未标注-51",
@@ -3879,7 +4146,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2012年山东公务员考试《行测》第51题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2012-未标注-52",
@@ -3913,7 +4182,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2012年山东公务员考试《行测》第52题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2012-未标注-53",
@@ -3949,7 +4220,9 @@
     "difficulty": "拔高",
     "source": "2012年山东公务员考试《行测》第53题",
     "isImageQuestion": true,
-    "province": "山东"
+    "province": "山东",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2012-未标注-54",
@@ -3985,7 +4258,9 @@
     "difficulty": "拔高",
     "source": "2012年山东公务员考试《行测》第54题",
     "isImageQuestion": true,
-    "province": "山东"
+    "province": "山东",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2012-未标注-55",
@@ -4020,7 +4295,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2012年山东公务员考试《行测》第55题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2012-未标注-56",
@@ -4056,7 +4333,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2012年山东公务员考试《行测》第56题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2012-未标注-57",
@@ -4092,7 +4371,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2012年山东公务员考试《行测》第57题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2012-未标注-58",
@@ -4126,7 +4407,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2012年山东公务员考试《行测》第58题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2012-未标注-59",
@@ -4161,7 +4444,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2012年山东公务员考试《行测》第59题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2012-未标注-60",
@@ -4197,7 +4482,9 @@
     "difficulty": "拔高",
     "source": "2012年山东公务员考试《行测》第60题",
     "isImageQuestion": true,
-    "province": "山东"
+    "province": "山东",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2012-未标注-61",
@@ -4233,7 +4520,9 @@
     "difficulty": "拔高",
     "source": "2012年山东公务员考试《行测》第61题",
     "isImageQuestion": true,
-    "province": "山东"
+    "province": "山东",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2012-未标注-62",
@@ -4269,7 +4558,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2012年山东公务员考试《行测》第62题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2012-未标注-63",
@@ -4304,7 +4595,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2012年山东公务员考试《行测》第63题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2012-未标注-64",
@@ -4340,7 +4633,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2012年山东公务员考试《行测》第64题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2012-未标注-65",
@@ -4375,7 +4670,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2012年山东公务员考试《行测》第65题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2013-未标注-51",
@@ -4410,7 +4707,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2013年山东公务员考试《行测》第51题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2013-未标注-52",
@@ -4446,7 +4745,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2013年山东公务员考试《行测》第52题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2013-未标注-53",
@@ -4480,7 +4781,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2013年山东公务员考试《行测》第53题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2013-未标注-54",
@@ -4514,7 +4817,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2013年山东公务员考试《行测》第54题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2013-未标注-55",
@@ -4548,7 +4853,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2013年山东公务员考试《行测》第55题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2013-未标注-56",
@@ -4583,7 +4890,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2013年山东公务员考试《行测》第56题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2013-未标注-57",
@@ -4618,7 +4927,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2013年山东公务员考试《行测》第57题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2013-未标注-58",
@@ -4653,7 +4964,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2013年山东公务员考试《行测》第58题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2013-未标注-59",
@@ -4687,7 +5000,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2013年山东公务员考试《行测》第59题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2013-未标注-60",
@@ -4722,7 +5037,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2013年山东公务员考试《行测》第60题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2013-未标注-61",
@@ -4758,7 +5075,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2013年山东公务员考试《行测》第61题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2013-未标注-62",
@@ -4792,7 +5111,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2013年山东公务员考试《行测》第62题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2013-未标注-63",
@@ -4828,7 +5149,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2013年山东公务员考试《行测》第63题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2013-未标注-64",
@@ -4862,7 +5185,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2013年山东公务员考试《行测》第64题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2013-未标注-65",
@@ -4898,7 +5223,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2013年山东公务员考试《行测》第65题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2014-未标注-51",
@@ -4933,7 +5260,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2014年山东公务员考试《行测》第51题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2014-未标注-52",
@@ -4968,7 +5297,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2014年山东公务员考试《行测》第52题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2014-未标注-53",
@@ -5004,7 +5335,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2014年山东公务员考试《行测》第53题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2014-未标注-54",
@@ -5040,7 +5373,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2014年山东公务员考试《行测》第54题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2014-未标注-55",
@@ -5076,7 +5411,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2014年山东公务员考试《行测》第55题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2014-未标注-56",
@@ -5111,7 +5448,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2014年山东公务员考试《行测》第56题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2014-未标注-57",
@@ -5147,7 +5486,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2014年山东公务员考试《行测》第57题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2014-未标注-58",
@@ -5167,7 +5508,10 @@
     "difficulty": "拔高",
     "source": "2014年山东公务员考试《行测》第58题",
     "isImageQuestion": true,
-    "province": "山东"
+    "province": "山东",
+    "isAbnormal": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2014-未标注-59",
@@ -5203,7 +5547,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2014年山东公务员考试《行测》第59题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2014-未标注-60",
@@ -5237,7 +5583,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2014年山东公务员考试《行测》第60题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2014-未标注-61",
@@ -5273,7 +5621,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2014年山东公务员考试《行测》第61题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2014-未标注-62",
@@ -5309,7 +5659,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2014年山东公务员考试《行测》第62题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shandong-2014-未标注-63",
@@ -5345,7 +5697,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2014年山东公务员考试《行测》第63题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2014-未标注-64",
@@ -5380,7 +5734,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2014年山东公务员考试《行测》第64题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2014-未标注-65",
@@ -5417,7 +5773,9 @@
     "difficulty": "拔高",
     "source": "2014年山东公务员考试《行测》第65题",
     "isImageQuestion": true,
-    "province": "山东"
+    "province": "山东",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2015-未标注-51",
@@ -5453,7 +5811,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2015年山东公务员考试《行测》第51题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2015-未标注-52",
@@ -5488,7 +5848,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2015年山东公务员考试《行测》第52题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2015-未标注-53",
@@ -5522,7 +5884,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2015年山东公务员考试《行测》第53题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2015-未标注-54",
@@ -5559,7 +5923,9 @@
     "difficulty": "拔高",
     "source": "2015年山东公务员考试《行测》第54题",
     "isImageQuestion": true,
-    "province": "山东"
+    "province": "山东",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shandong-2015-未标注-55",
@@ -5596,7 +5962,9 @@
     "difficulty": "拔高",
     "source": "2015年山东公务员考试《行测》第55题",
     "isImageQuestion": true,
-    "province": "山东"
+    "province": "山东",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2015-未标注-56",
@@ -5633,7 +6001,9 @@
     "difficulty": "拔高",
     "source": "2015年山东公务员考试《行测》第56题",
     "isImageQuestion": true,
-    "province": "山东"
+    "province": "山东",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2015-未标注-57",
@@ -5668,7 +6038,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2015年山东公务员考试《行测》第57题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2015-未标注-58",
@@ -5702,7 +6074,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2015年山东公务员考试《行测》第58题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2015-未标注-59",
@@ -5736,7 +6110,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2015年山东公务员考试《行测》第59题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2015-未标注-60",
@@ -5770,7 +6146,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2015年山东公务员考试《行测》第60题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2015-未标注-61",
@@ -5805,7 +6183,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2015年山东公务员考试《行测》第61题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2015-未标注-62",
@@ -5841,7 +6221,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2015年山东公务员考试《行测》第62题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2015-未标注-63",
@@ -5875,7 +6257,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2015年山东公务员考试《行测》第63题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2015-未标注-64",
@@ -5910,7 +6294,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2015年山东公务员考试《行测》第64题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2015-未标注-65",
@@ -5945,7 +6331,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2015年山东公务员考试《行测》第65题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2016-未标注-51",
@@ -5981,7 +6369,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2016年山东公务员考试《行测》第51题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2016-未标注-52",
@@ -6015,7 +6405,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2016年山东公务员考试《行测》第52题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2016-未标注-53",
@@ -6050,7 +6442,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2016年山东公务员考试《行测》第53题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2016-未标注-54",
@@ -6085,7 +6479,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2016年山东公务员考试《行测》第54题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2016-未标注-55",
@@ -6119,7 +6515,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2016年山东公务员考试《行测》第55题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2016-未标注-56",
@@ -6154,7 +6552,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2016年山东公务员考试《行测》第56题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2016-未标注-57",
@@ -6188,7 +6588,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2016年山东公务员考试《行测》第57题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2016-未标注-58",
@@ -6222,7 +6624,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2016年山东公务员考试《行测》第58题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2016-未标注-59",
@@ -6257,6 +6661,8 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2016年山东公务员考试《行测》第59题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   }
 ]

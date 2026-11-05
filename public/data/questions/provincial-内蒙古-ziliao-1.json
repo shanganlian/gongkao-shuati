@@ -35,7 +35,9 @@
     "difficulty": "中等",
     "source": "2020年内蒙古公务员考试《行测》第111题",
     "isImageQuestion": true,
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2020-未标注-112",
@@ -72,7 +74,9 @@
     "difficulty": "中等",
     "source": "2020年内蒙古公务员考试《行测》第112题",
     "isImageQuestion": true,
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2020-未标注-113",
@@ -109,7 +113,9 @@
     "difficulty": "中等",
     "source": "2020年内蒙古公务员考试《行测》第113题",
     "isImageQuestion": true,
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "图形材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2020-未标注-114",
@@ -146,7 +152,9 @@
     "difficulty": "中等",
     "source": "2020年内蒙古公务员考试《行测》第114题",
     "isImageQuestion": true,
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "图形材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2020-未标注-115",
@@ -183,7 +191,9 @@
     "difficulty": "中等",
     "source": "2020年内蒙古公务员考试《行测》第115题",
     "isImageQuestion": true,
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2020-未标注-116",
@@ -220,7 +230,9 @@
     "difficulty": "中等",
     "source": "2020年内蒙古公务员考试《行测》第116题",
     "isImageQuestion": true,
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2020-未标注-117",
@@ -257,7 +269,9 @@
     "difficulty": "中等",
     "source": "2020年内蒙古公务员考试《行测》第117题",
     "isImageQuestion": true,
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2020-未标注-118",
@@ -294,7 +308,9 @@
     "difficulty": "中等",
     "source": "2020年内蒙古公务员考试《行测》第118题",
     "isImageQuestion": true,
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2020-未标注-119",
@@ -331,7 +347,9 @@
     "difficulty": "中等",
     "source": "2020年内蒙古公务员考试《行测》第119题",
     "isImageQuestion": true,
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2020-未标注-120",
@@ -368,7 +386,9 @@
     "difficulty": "中等",
     "source": "2020年内蒙古公务员考试《行测》第120题",
     "isImageQuestion": true,
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2020-未标注-106-2",
@@ -403,7 +423,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年内蒙古公务员考试《行测》第106题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "isAbnormal": true,
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2020-未标注-107-2",
@@ -422,7 +445,9 @@
     "difficulty": "中等",
     "source": "2020年内蒙古公务员考试《行测》第107题",
     "isImageQuestion": true,
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2020-未标注-108-2",
@@ -457,7 +482,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年内蒙古公务员考试《行测》第108题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "isAbnormal": true,
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2020-未标注-109-2",
@@ -492,7 +520,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年内蒙古公务员考试《行测》第109题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "isAbnormal": true,
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2020-未标注-110-2",
@@ -528,7 +559,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年内蒙古公务员考试《行测》第110题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "isAbnormal": true,
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2020-未标注-111-2",
@@ -563,7 +597,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年内蒙古公务员考试《行测》第111题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2020-未标注-112-2",
@@ -599,7 +635,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年内蒙古公务员考试《行测》第112题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2020-未标注-113-2",
@@ -632,7 +670,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年内蒙古公务员考试《行测》第113题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2020-未标注-114-2",
@@ -667,7 +707,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年内蒙古公务员考试《行测》第114题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2020-未标注-115-2",
@@ -700,7 +742,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年内蒙古公务员考试《行测》第115题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2020-未标注-116-2",
@@ -737,7 +781,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年内蒙古公务员考试《行测》第116题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2020-未标注-117-2",
@@ -772,7 +818,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年内蒙古公务员考试《行测》第117题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2020-未标注-118-2",
@@ -807,7 +855,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年内蒙古公务员考试《行测》第118题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2020-未标注-119-2",
@@ -842,7 +892,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年内蒙古公务员考试《行测》第119题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2020-未标注-120-2",
@@ -878,7 +930,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年内蒙古公务员考试《行测》第120题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2021-未标注-106",
@@ -914,7 +968,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年内蒙古公务员考试《行测》第106题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2021-未标注-107",
@@ -951,7 +1007,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年内蒙古公务员考试《行测》第107题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2021-未标注-108",
@@ -986,7 +1044,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年内蒙古公务员考试《行测》第108题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2021-未标注-109",
@@ -1023,7 +1083,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年内蒙古公务员考试《行测》第109题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2021-未标注-110",
@@ -1060,7 +1122,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年内蒙古公务员考试《行测》第110题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2021-未标注-111",
@@ -1096,7 +1160,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年内蒙古公务员考试《行测》第111题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2021-未标注-112",
@@ -1132,7 +1198,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年内蒙古公务员考试《行测》第112题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2021-未标注-113",
@@ -1168,7 +1236,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年内蒙古公务员考试《行测》第113题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2021-未标注-114",
@@ -1203,7 +1273,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年内蒙古公务员考试《行测》第114题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2021-未标注-115",
@@ -1239,7 +1311,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年内蒙古公务员考试《行测》第115题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2021-未标注-116",
@@ -1258,7 +1332,10 @@
     "difficulty": "中等",
     "source": "2021年内蒙古公务员考试《行测》第116题",
     "isImageQuestion": true,
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "isAbnormal": true,
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2021-未标注-117",
@@ -1293,7 +1370,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年内蒙古公务员考试《行测》第117题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2021-未标注-118",
@@ -1328,7 +1407,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年内蒙古公务员考试《行测》第118题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2021-未标注-119",
@@ -1364,7 +1445,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年内蒙古公务员考试《行测》第119题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2021-未标注-120",
@@ -1400,7 +1483,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年内蒙古公务员考试《行测》第120题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2022-未标注-106",
@@ -1435,7 +1520,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2022年内蒙古公务员考试《行测》第106题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2022-未标注-107",
@@ -1468,7 +1555,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2022年内蒙古公务员考试《行测》第107题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2022-未标注-108",
@@ -1503,7 +1592,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2022年内蒙古公务员考试《行测》第108题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2022-未标注-109",
@@ -1536,7 +1627,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2022年内蒙古公务员考试《行测》第109题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2022-未标注-110",
@@ -1572,7 +1665,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2022年内蒙古公务员考试《行测》第110题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2022-未标注-111",
@@ -1605,7 +1700,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2022年内蒙古公务员考试《行测》第111题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2022-未标注-112",
@@ -1638,7 +1735,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2022年内蒙古公务员考试《行测》第112题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2022-未标注-113",
@@ -1673,7 +1772,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2022年内蒙古公务员考试《行测》第113题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2022-未标注-114",
@@ -1709,7 +1810,9 @@
     "difficulty": "中等",
     "source": "2022年内蒙古公务员考试《行测》第114题",
     "isImageQuestion": true,
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2022-未标注-115",
@@ -1742,7 +1845,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2022年内蒙古公务员考试《行测》第115题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2022-未标注-116",
@@ -1777,7 +1882,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2022年内蒙古公务员考试《行测》第116题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "isAbnormal": true,
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2022-未标注-117",
@@ -1812,7 +1920,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2022年内蒙古公务员考试《行测》第117题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "isAbnormal": true,
+    "subModule": "图形材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2022-未标注-118",
@@ -1849,7 +1960,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2022年内蒙古公务员考试《行测》第118题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "isAbnormal": true,
+    "subModule": "图形材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2022-未标注-119",
@@ -1885,7 +1999,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2022年内蒙古公务员考试《行测》第119题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "isAbnormal": true,
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2022-未标注-120",
@@ -1918,7 +2035,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2022年内蒙古公务员考试《行测》第120题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "isAbnormal": true,
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2023-未标注-106",
@@ -1953,7 +2073,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2023年内蒙古公务员考试《行测》第106题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2023-未标注-107",
@@ -1988,7 +2110,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2023年内蒙古公务员考试《行测》第107题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2023-未标注-108",
@@ -2021,7 +2145,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2023年内蒙古公务员考试《行测》第108题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2023-未标注-109",
@@ -2054,7 +2180,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2023年内蒙古公务员考试《行测》第109题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2023-未标注-110",
@@ -2087,7 +2215,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2023年内蒙古公务员考试《行测》第110题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2023-未标注-111",
@@ -2122,7 +2252,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2023年内蒙古公务员考试《行测》第111题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "图形材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2023-未标注-112",
@@ -2141,7 +2273,10 @@
     "difficulty": "中等",
     "source": "2023年内蒙古公务员考试《行测》第112题",
     "isImageQuestion": true,
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "isAbnormal": true,
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2023-未标注-113",
@@ -2176,7 +2311,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2023年内蒙古公务员考试《行测》第113题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2023-未标注-114",
@@ -2211,7 +2348,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2023年内蒙古公务员考试《行测》第114题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2023-未标注-115",
@@ -2248,7 +2387,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2023年内蒙古公务员考试《行测》第115题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2023-未标注-116",
@@ -2284,7 +2425,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2023年内蒙古公务员考试《行测》第116题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2023-未标注-117",
@@ -2320,7 +2463,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2023年内蒙古公务员考试《行测》第117题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2023-未标注-118",
@@ -2355,7 +2500,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2023年内蒙古公务员考试《行测》第118题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2023-未标注-119",
@@ -2388,7 +2535,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2023年内蒙古公务员考试《行测》第119题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2023-未标注-120",
@@ -2421,7 +2570,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2023年内蒙古公务员考试《行测》第120题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2025-未标注-111",
@@ -2457,7 +2608,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年内蒙古公务员考试《行测》第111题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2025-未标注-112",
@@ -2493,7 +2646,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年内蒙古公务员考试《行测》第112题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2025-未标注-113",
@@ -2528,7 +2683,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年内蒙古公务员考试《行测》第113题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2025-未标注-114",
@@ -2564,7 +2721,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年内蒙古公务员考试《行测》第114题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2025-未标注-115",
@@ -2601,7 +2760,9 @@
     "difficulty": "中等",
     "source": "2025年内蒙古公务员考试《行测》第115题",
     "isImageQuestion": true,
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2025-未标注-116",
@@ -2638,7 +2799,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年内蒙古公务员考试《行测》第116题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2025-未标注-117",
@@ -2673,7 +2836,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年内蒙古公务员考试《行测》第117题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2025-未标注-118",
@@ -2708,7 +2873,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年内蒙古公务员考试《行测》第118题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2025-未标注-119",
@@ -2740,7 +2907,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年内蒙古公务员考试《行测》第119题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2025-未标注-120",
@@ -2760,7 +2929,10 @@
     "difficulty": "中等",
     "source": "2025年内蒙古公务员考试《行测》第120题",
     "isImageQuestion": true,
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "isAbnormal": true,
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2025-未标注-121",
@@ -2795,7 +2967,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年内蒙古公务员考试《行测》第121题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2025-未标注-122",
@@ -2830,7 +3004,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年内蒙古公务员考试《行测》第122题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2025-未标注-123",
@@ -2866,7 +3042,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年内蒙古公务员考试《行测》第123题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2025-未标注-124",
@@ -2901,7 +3079,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年内蒙古公务员考试《行测》第124题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2025-未标注-125",
@@ -2920,6 +3100,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年内蒙古公务员考试《行测》第125题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "isAbnormal": true,
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   }
 ]

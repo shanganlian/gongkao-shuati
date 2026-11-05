@@ -16,7 +16,9 @@
     "difficulty": "中等",
     "source": "2017年广西公务员考试《行测》（422联考）第76题",
     "isImageQuestion": true,
-    "province": "广西"
+    "province": "广西",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2017-422联考-77",
@@ -36,7 +38,9 @@
     "difficulty": "中等",
     "source": "2017年广西公务员考试《行测》（422联考）第77题",
     "isImageQuestion": true,
-    "province": "广西"
+    "province": "广西",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2017-422联考-78",
@@ -55,7 +59,9 @@
     "difficulty": "中等",
     "source": "2017年广西公务员考试《行测》（422联考）第78题",
     "isImageQuestion": true,
-    "province": "广西"
+    "province": "广西",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2017-422联考-79",
@@ -73,7 +79,9 @@
     "difficulty": "中等",
     "source": "2017年广西公务员考试《行测》（422联考）第79题",
     "isImageQuestion": true,
-    "province": "广西"
+    "province": "广西",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2017-422联考-80",
@@ -92,7 +100,9 @@
     "difficulty": "中等",
     "source": "2017年广西公务员考试《行测》（422联考）第80题",
     "isImageQuestion": true,
-    "province": "广西"
+    "province": "广西",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2017-422联考-81",
@@ -127,7 +137,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年广西公务员考试《行测》（422联考）第81题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2017-422联考-82",
@@ -163,7 +175,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年广西公务员考试《行测》（422联考）第82题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2017-422联考-83",
@@ -199,7 +213,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年广西公务员考试《行测》（422联考）第83题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2017-422联考-84",
@@ -234,7 +250,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年广西公务员考试《行测》（422联考）第84题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2017-422联考-85",
@@ -269,7 +287,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年广西公务员考试《行测》（422联考）第85题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2017-422联考-86",
@@ -305,7 +325,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年广西公务员考试《行测》（422联考）第86题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2017-422联考-87",
@@ -341,7 +363,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年广西公务员考试《行测》（422联考）第87题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2017-422联考-88",
@@ -376,7 +400,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年广西公务员考试《行测》（422联考）第88题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2017-422联考-89",
@@ -411,7 +437,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年广西公务员考试《行测》（422联考）第89题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2017-422联考-90",
@@ -446,7 +474,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年广西公务员考试《行测》（422联考）第90题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2017-422联考-91",
@@ -482,7 +512,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年广西公务员考试《行测》（422联考）第91题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2017-422联考-92",
@@ -518,7 +550,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年广西公务员考试《行测》（422联考）第92题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2017-422联考-93",
@@ -554,7 +588,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年广西公务员考试《行测》（422联考）第93题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2017-422联考-94",
@@ -590,7 +626,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年广西公务员考试《行测》（422联考）第94题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2017-422联考-95",
@@ -626,7 +664,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年广西公务员考试《行测》（422联考）第95题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2017-422联考-96",
@@ -661,7 +701,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年广西公务员考试《行测》（422联考）第96题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2017-422联考-97",
@@ -697,7 +739,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年广西公务员考试《行测》（422联考）第97题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2017-422联考-98",
@@ -733,7 +777,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年广西公务员考试《行测》（422联考）第98题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2017-422联考-99",
@@ -769,7 +815,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年广西公务员考试《行测》（422联考）第99题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2017-422联考-100",
@@ -805,7 +853,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年广西公务员考试《行测》（422联考）第100题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2017-422联考-101",
@@ -840,7 +890,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年广西公务员考试《行测》（422联考）第101题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2017-422联考-102",
@@ -875,7 +927,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年广西公务员考试《行测》（422联考）第102题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2017-422联考-103",
@@ -910,7 +964,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年广西公务员考试《行测》（422联考）第103题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2017-422联考-104",
@@ -946,7 +1002,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年广西公务员考试《行测》（422联考）第104题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2017-422联考-105",
@@ -981,7 +1039,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年广西公务员考试《行测》（422联考）第105题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2017-422联考-106",
@@ -1017,7 +1077,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年广西公务员考试《行测》（422联考）第106题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2017-422联考-107",
@@ -1052,7 +1114,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年广西公务员考试《行测》（422联考）第107题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2017-422联考-108",
@@ -1088,7 +1152,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年广西公务员考试《行测》（422联考）第108题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2017-422联考-109",
@@ -1124,7 +1190,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年广西公务员考试《行测》（422联考）第109题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2017-422联考-110",
@@ -1160,7 +1228,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年广西公务员考试《行测》（422联考）第110题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2019-420联考-56",
@@ -1180,7 +1250,9 @@
     "difficulty": "中等",
     "source": "2019年广西公务员考试《行测》（420联考）第56题",
     "isImageQuestion": true,
-    "province": "广西"
+    "province": "广西",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2019-420联考-57",
@@ -1217,7 +1289,9 @@
     "difficulty": "中等",
     "source": "2019年广西公务员考试《行测》（420联考）第57题",
     "isImageQuestion": true,
-    "province": "广西"
+    "province": "广西",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2019-420联考-58",
@@ -1236,7 +1310,9 @@
     "difficulty": "中等",
     "source": "2019年广西公务员考试《行测》（420联考）第58题",
     "isImageQuestion": true,
-    "province": "广西"
+    "province": "广西",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2019-420联考-59",
@@ -1256,7 +1332,9 @@
     "difficulty": "中等",
     "source": "2019年广西公务员考试《行测》（420联考）第59题",
     "isImageQuestion": true,
-    "province": "广西"
+    "province": "广西",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2019-420联考-60",
@@ -1292,7 +1370,9 @@
     "difficulty": "中等",
     "source": "2019年广西公务员考试《行测》（420联考）第60题",
     "isImageQuestion": true,
-    "province": "广西"
+    "province": "广西",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2019-420联考-61",
@@ -1329,7 +1409,9 @@
     "difficulty": "中等",
     "source": "2019年广西公务员考试《行测》（420联考）第61题",
     "isImageQuestion": true,
-    "province": "广西"
+    "province": "广西",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2019-420联考-62",
@@ -1347,7 +1429,9 @@
     "difficulty": "中等",
     "source": "2019年广西公务员考试《行测》（420联考）第62题",
     "isImageQuestion": true,
-    "province": "广西"
+    "province": "广西",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2019-420联考-63",
@@ -1382,7 +1466,9 @@
     "difficulty": "中等",
     "source": "2019年广西公务员考试《行测》（420联考）第63题",
     "isImageQuestion": true,
-    "province": "广西"
+    "province": "广西",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2019-420联考-64",
@@ -1417,7 +1503,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年广西公务员考试《行测》（420联考）第64题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2019-420联考-65",
@@ -1452,7 +1540,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年广西公务员考试《行测》（420联考）第65题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2019-420联考-66",
@@ -1487,7 +1577,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年广西公务员考试《行测》（420联考）第66题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2019-420联考-67",
@@ -1523,7 +1615,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年广西公务员考试《行测》（420联考）第67题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2019-420联考-68",
@@ -1558,7 +1652,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年广西公务员考试《行测》（420联考）第68题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2019-420联考-69",
@@ -1593,7 +1689,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年广西公务员考试《行测》（420联考）第69题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2019-420联考-70",
@@ -1628,7 +1726,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年广西公务员考试《行测》（420联考）第70题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2019-420联考-71",
@@ -1664,7 +1764,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年广西公务员考试《行测》（420联考）第71题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2019-420联考-72",
@@ -1699,7 +1801,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年广西公务员考试《行测》（420联考）第72题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2019-420联考-73",
@@ -1734,7 +1838,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年广西公务员考试《行测》（420联考）第73题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2019-420联考-74",
@@ -1770,7 +1876,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年广西公务员考试《行测》（420联考）第74题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2019-420联考-75",
@@ -1805,7 +1913,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年广西公务员考试《行测》（420联考）第75题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2019-420联考-76",
@@ -1840,7 +1950,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年广西公务员考试《行测》（420联考）第76题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2019-420联考-77",
@@ -1874,7 +1986,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年广西公务员考试《行测》（420联考）第77题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2019-420联考-78",
@@ -1910,7 +2024,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年广西公务员考试《行测》（420联考）第78题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2019-420联考-79",
@@ -1946,7 +2062,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年广西公务员考试《行测》（420联考）第79题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2019-420联考-80",
@@ -1982,7 +2100,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年广西公务员考试《行测》（420联考）第80题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2019-420联考-81",
@@ -2017,7 +2137,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年广西公务员考试《行测》（420联考）第81题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2019-420联考-82",
@@ -2052,7 +2174,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年广西公务员考试《行测》（420联考）第82题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2019-420联考-83",
@@ -2087,7 +2211,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年广西公务员考试《行测》（420联考）第83题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2019-420联考-84",
@@ -2123,7 +2249,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年广西公务员考试《行测》（420联考）第84题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2019-420联考-85",
@@ -2157,7 +2285,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年广西公务员考试《行测》（420联考）第85题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2019-420联考-86",
@@ -2192,7 +2322,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年广西公务员考试《行测》（420联考）第86题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2019-420联考-87",
@@ -2227,7 +2359,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年广西公务员考试《行测》（420联考）第87题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2019-420联考-88",
@@ -2263,7 +2397,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年广西公务员考试《行测》（420联考）第88题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2019-420联考-89",
@@ -2298,7 +2434,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年广西公务员考试《行测》（420联考）第89题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2019-420联考-90",
@@ -2334,7 +2472,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年广西公务员考试《行测》（420联考）第90题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2019-420联考-91",
@@ -2369,7 +2509,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年广西公务员考试《行测》（420联考）第91题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangxi-2019-420联考-92",
@@ -2404,7 +2546,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年广西公务员考试《行测》（420联考）第92题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangxi-2019-420联考-93",
@@ -2439,7 +2583,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年广西公务员考试《行测》（420联考）第93题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangxi-2019-420联考-94",
@@ -2475,7 +2621,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年广西公务员考试《行测》（420联考）第94题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangxi-2019-420联考-95",
@@ -2510,7 +2658,10 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年广西公务员考试《行测》（420联考）第95题",
-    "province": "广西"
+    "province": "广西",
+    "isAbnormal": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangxi-2019-420联考-96",
@@ -2544,7 +2695,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年广西公务员考试《行测》（420联考）第96题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangxi-2019-420联考-97",
@@ -2580,7 +2733,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年广西公务员考试《行测》（420联考）第97题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangxi-2019-420联考-98",
@@ -2614,7 +2769,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年广西公务员考试《行测》（420联考）第98题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangxi-2019-420联考-99",
@@ -2649,7 +2806,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年广西公务员考试《行测》（420联考）第99题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangxi-2019-420联考-100",
@@ -2683,7 +2842,10 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年广西公务员考试《行测》（420联考）第100题",
-    "province": "广西"
+    "province": "广西",
+    "isAbnormal": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2020-未标注-56",
@@ -2720,7 +2882,9 @@
     "difficulty": "中等",
     "source": "2020年广西公务员考试《行测》第56题",
     "isImageQuestion": true,
-    "province": "广西"
+    "province": "广西",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2020-未标注-57",
@@ -2755,7 +2919,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年广西公务员考试《行测》第57题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2020-未标注-58",
@@ -2775,7 +2941,9 @@
     "difficulty": "中等",
     "source": "2020年广西公务员考试《行测》第58题",
     "isImageQuestion": true,
-    "province": "广西"
+    "province": "广西",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2020-未标注-59",
@@ -2795,7 +2963,9 @@
     "difficulty": "中等",
     "source": "2020年广西公务员考试《行测》第59题",
     "isImageQuestion": true,
-    "province": "广西"
+    "province": "广西",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2020-未标注-60",
@@ -2815,7 +2985,9 @@
     "difficulty": "中等",
     "source": "2020年广西公务员考试《行测》第60题",
     "isImageQuestion": true,
-    "province": "广西"
+    "province": "广西",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2020-未标注-61",
@@ -2850,7 +3022,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年广西公务员考试《行测》第61题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2020-未标注-62",
@@ -2886,7 +3060,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年广西公务员考试《行测》第62题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2020-未标注-63",
@@ -2922,7 +3098,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年广西公务员考试《行测》第63题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2020-未标注-64",
@@ -2958,7 +3136,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年广西公务员考试《行测》第64题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2020-未标注-65",
@@ -2994,7 +3174,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年广西公务员考试《行测》第65题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2020-未标注-66",
@@ -3030,7 +3212,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年广西公务员考试《行测》第66题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2020-未标注-67",
@@ -3066,7 +3250,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年广西公务员考试《行测》第67题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2020-未标注-68",
@@ -3101,7 +3287,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年广西公务员考试《行测》第68题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2020-未标注-69",
@@ -3137,7 +3325,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年广西公务员考试《行测》第69题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2020-未标注-70",
@@ -3173,7 +3363,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年广西公务员考试《行测》第70题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2020-未标注-71",
@@ -3209,7 +3401,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年广西公务员考试《行测》第71题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2020-未标注-72",
@@ -3244,7 +3438,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年广西公务员考试《行测》第72题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2020-未标注-73",
@@ -3280,7 +3476,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年广西公务员考试《行测》第73题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2020-未标注-74",
@@ -3315,7 +3513,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年广西公务员考试《行测》第74题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2020-未标注-75",
@@ -3351,7 +3551,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年广西公务员考试《行测》第75题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2020-未标注-76",
@@ -3385,7 +3587,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年广西公务员考试《行测》第76题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2020-未标注-77",
@@ -3420,7 +3624,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年广西公务员考试《行测》第77题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2020-未标注-78",
@@ -3454,7 +3660,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年广西公务员考试《行测》第78题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2020-未标注-79",
@@ -3490,7 +3698,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年广西公务员考试《行测》第79题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2020-未标注-80",
@@ -3525,7 +3735,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年广西公务员考试《行测》第80题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2020-未标注-81",
@@ -3561,7 +3773,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年广西公务员考试《行测》第81题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2020-未标注-82",
@@ -3597,7 +3811,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年广西公务员考试《行测》第82题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2020-未标注-83",
@@ -3633,7 +3849,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年广西公务员考试《行测》第83题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2020-未标注-84",
@@ -3669,7 +3887,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年广西公务员考试《行测》第84题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2020-未标注-85",
@@ -3705,7 +3925,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年广西公务员考试《行测》第85题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2020-未标注-86",
@@ -3741,7 +3963,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年广西公务员考试《行测》第86题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2020-未标注-87",
@@ -3777,7 +4001,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年广西公务员考试《行测》第87题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2020-未标注-88",
@@ -3813,7 +4039,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年广西公务员考试《行测》第88题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2020-未标注-89",
@@ -3849,7 +4077,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年广西公务员考试《行测》第89题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2020-未标注-90",
@@ -3885,7 +4115,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年广西公务员考试《行测》第90题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2021-未标注-61",
@@ -3904,7 +4136,9 @@
     "difficulty": "中等",
     "source": "2021年广西公务员考试《行测》第61题",
     "isImageQuestion": true,
-    "province": "广西"
+    "province": "广西",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2021-未标注-62",
@@ -3941,7 +4175,9 @@
     "difficulty": "中等",
     "source": "2021年广西公务员考试《行测》第62题",
     "isImageQuestion": true,
-    "province": "广西"
+    "province": "广西",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2021-未标注-63",
@@ -3977,7 +4213,9 @@
     "difficulty": "中等",
     "source": "2021年广西公务员考试《行测》第63题",
     "isImageQuestion": true,
-    "province": "广西"
+    "province": "广西",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2021-未标注-64",
@@ -4014,7 +4252,9 @@
     "difficulty": "中等",
     "source": "2021年广西公务员考试《行测》第64题",
     "isImageQuestion": true,
-    "province": "广西"
+    "province": "广西",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2021-未标注-65",
@@ -4032,7 +4272,10 @@
     "difficulty": "中等",
     "source": "2021年广西公务员考试《行测》第65题",
     "isImageQuestion": true,
-    "province": "广西"
+    "province": "广西",
+    "isAbnormal": true,
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2021-未标注-66",
@@ -4052,7 +4295,9 @@
     "difficulty": "中等",
     "source": "2021年广西公务员考试《行测》第66题",
     "isImageQuestion": true,
-    "province": "广西"
+    "province": "广西",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2021-未标注-67",
@@ -4088,7 +4333,9 @@
     "difficulty": "中等",
     "source": "2021年广西公务员考试《行测》第67题",
     "isImageQuestion": true,
-    "province": "广西"
+    "province": "广西",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2021-未标注-68",
@@ -4124,7 +4371,9 @@
     "difficulty": "中等",
     "source": "2021年广西公务员考试《行测》第68题",
     "isImageQuestion": true,
-    "province": "广西"
+    "province": "广西",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2021-未标注-69",
@@ -4159,7 +4408,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年广西公务员考试《行测》第69题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2021-未标注-70",
@@ -4194,7 +4445,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年广西公务员考试《行测》第70题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2021-未标注-71",
@@ -4230,7 +4483,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年广西公务员考试《行测》第71题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2021-未标注-72",
@@ -4265,7 +4520,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年广西公务员考试《行测》第72题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2021-未标注-73",
@@ -4300,7 +4557,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年广西公务员考试《行测》第73题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2021-未标注-74",
@@ -4336,7 +4595,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年广西公务员考试《行测》第74题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2021-未标注-75",
@@ -4371,7 +4632,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年广西公务员考试《行测》第75题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2021-未标注-76",
@@ -4406,7 +4669,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年广西公务员考试《行测》第76题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2021-未标注-77",
@@ -4441,7 +4706,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年广西公务员考试《行测》第77题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2021-未标注-78",
@@ -4477,7 +4744,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年广西公务员考试《行测》第78题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2021-未标注-79",
@@ -4512,7 +4781,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年广西公务员考试《行测》第79题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2021-未标注-80",
@@ -4548,7 +4819,9 @@
     "difficulty": "中等",
     "source": "2021年广西公务员考试《行测》第80题",
     "isImageQuestion": true,
-    "province": "广西"
+    "province": "广西",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2021-未标注-81",
@@ -4584,7 +4857,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年广西公务员考试《行测》第81题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2021-未标注-82",
@@ -4620,7 +4895,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年广西公务员考试《行测》第82题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2021-未标注-83",
@@ -4655,7 +4932,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年广西公务员考试《行测》第83题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2021-未标注-84",
@@ -4690,7 +4969,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年广西公务员考试《行测》第84题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2021-未标注-85",
@@ -4726,7 +5007,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年广西公务员考试《行测》第85题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2021-未标注-86",
@@ -4761,7 +5044,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年广西公务员考试《行测》第86题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2021-未标注-87",
@@ -4795,7 +5080,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年广西公务员考试《行测》第87题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2021-未标注-88",
@@ -4829,7 +5116,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年广西公务员考试《行测》第88题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2021-未标注-89",
@@ -4865,7 +5154,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年广西公务员考试《行测》第89题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2021-未标注-90",
@@ -4900,7 +5191,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年广西公务员考试《行测》第90题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2021-未标注-91",
@@ -4934,7 +5227,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年广西公务员考试《行测》第91题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2021-未标注-92",
@@ -4969,7 +5264,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年广西公务员考试《行测》第92题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2021-未标注-93",
@@ -5004,7 +5301,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年广西公务员考试《行测》第93题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2021-未标注-94",
@@ -5039,7 +5338,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年广西公务员考试《行测》第94题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2021-未标注-95",
@@ -5076,7 +5377,9 @@
     "difficulty": "中等",
     "source": "2021年广西公务员考试《行测》第95题",
     "isImageQuestion": true,
-    "province": "广西"
+    "province": "广西",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2021-未标注-96",
@@ -5111,7 +5414,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年广西公务员考试《行测》第96题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2021-未标注-97",
@@ -5146,7 +5451,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年广西公务员考试《行测》第97题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2021-未标注-98",
@@ -5182,7 +5489,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年广西公务员考试《行测》第98题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2021-未标注-99",
@@ -5218,7 +5527,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年广西公务员考试《行测》第99题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2021-未标注-100",
@@ -5252,7 +5563,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年广西公务员考试《行测》第100题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2023-未标注-56",
@@ -5288,7 +5601,9 @@
     "difficulty": "中等",
     "source": "2023年广西公务员考试《行测》第56题",
     "isImageQuestion": true,
-    "province": "广西"
+    "province": "广西",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2023-未标注-57",
@@ -5324,7 +5639,9 @@
     "difficulty": "中等",
     "source": "2023年广西公务员考试《行测》第57题",
     "isImageQuestion": true,
-    "province": "广西"
+    "province": "广西",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2023-未标注-58",
@@ -5361,7 +5678,9 @@
     "difficulty": "中等",
     "source": "2023年广西公务员考试《行测》第58题",
     "isImageQuestion": true,
-    "province": "广西"
+    "province": "广西",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2023-未标注-59",
@@ -5398,7 +5717,9 @@
     "difficulty": "中等",
     "source": "2023年广西公务员考试《行测》第59题",
     "isImageQuestion": true,
-    "province": "广西"
+    "province": "广西",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2023-未标注-60",
@@ -5435,7 +5756,9 @@
     "difficulty": "中等",
     "source": "2023年广西公务员考试《行测》第60题",
     "isImageQuestion": true,
-    "province": "广西"
+    "province": "广西",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2023-未标注-61",
@@ -5471,7 +5794,9 @@
     "difficulty": "中等",
     "source": "2023年广西公务员考试《行测》第61题",
     "isImageQuestion": true,
-    "province": "广西"
+    "province": "广西",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2023-未标注-62",
@@ -5507,7 +5832,9 @@
     "difficulty": "中等",
     "source": "2023年广西公务员考试《行测》第62题",
     "isImageQuestion": true,
-    "province": "广西"
+    "province": "广西",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2023-未标注-63",
@@ -5542,7 +5869,9 @@
     "difficulty": "中等",
     "source": "2023年广西公务员考试《行测》第63题",
     "isImageQuestion": true,
-    "province": "广西"
+    "province": "广西",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2023-未标注-64",
@@ -5578,7 +5907,9 @@
     "difficulty": "中等",
     "source": "2023年广西公务员考试《行测》第64题",
     "isImageQuestion": true,
-    "province": "广西"
+    "province": "广西",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2023-未标注-65",
@@ -5615,7 +5946,9 @@
     "difficulty": "中等",
     "source": "2023年广西公务员考试《行测》第65题",
     "isImageQuestion": true,
-    "province": "广西"
+    "province": "广西",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2023-未标注-66",
@@ -5650,7 +5983,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2023年广西公务员考试《行测》第66题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2023-未标注-67",
@@ -5685,7 +6020,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2023年广西公务员考试《行测》第67题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2023-未标注-68",
@@ -5720,7 +6057,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2023年广西公务员考试《行测》第68题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2023-未标注-69",
@@ -5756,7 +6095,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2023年广西公务员考试《行测》第69题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2023-未标注-70",
@@ -5792,7 +6133,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2023年广西公务员考试《行测》第70题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2023-未标注-71",
@@ -5827,7 +6170,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2023年广西公务员考试《行测》第71题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2023-未标注-72",
@@ -5862,7 +6207,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2023年广西公务员考试《行测》第72题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2023-未标注-73",
@@ -5898,7 +6245,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2023年广西公务员考试《行测》第73题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2023-未标注-74",
@@ -5933,7 +6282,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2023年广西公务员考试《行测》第74题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2023-未标注-75",
@@ -5968,7 +6319,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2023年广西公务员考试《行测》第75题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2023-未标注-76",
@@ -6004,7 +6357,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2023年广西公务员考试《行测》第76题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2023-未标注-77",
@@ -6039,7 +6394,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2023年广西公务员考试《行测》第77题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2023-未标注-78",
@@ -6074,7 +6431,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2023年广西公务员考试《行测》第78题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2023-未标注-79",
@@ -6110,7 +6469,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2023年广西公务员考试《行测》第79题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2023-未标注-80",
@@ -6145,7 +6506,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2023年广西公务员考试《行测》第80题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2023-未标注-81",
@@ -6181,7 +6544,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2023年广西公务员考试《行测》第81题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2023-未标注-82",
@@ -6216,7 +6581,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2023年广西公务员考试《行测》第82题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2023-未标注-83",
@@ -6252,7 +6619,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2023年广西公务员考试《行测》第83题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2023-未标注-84",
@@ -6287,7 +6656,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2023年广西公务员考试《行测》第84题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2023-未标注-85",
@@ -6322,7 +6693,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2023年广西公务员考试《行测》第85题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2023-未标注-86",
@@ -6358,7 +6731,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2023年广西公务员考试《行测》第86题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2023-未标注-87",
@@ -6394,7 +6769,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2023年广西公务员考试《行测》第87题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2023-未标注-88",
@@ -6430,7 +6807,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2023年广西公务员考试《行测》第88题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2023-未标注-89",
@@ -6466,7 +6845,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2023年广西公务员考试《行测》第89题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2023-未标注-90",
@@ -6502,7 +6883,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2023年广西公务员考试《行测》第90题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2023-未标注-91",
@@ -6537,7 +6920,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2023年广西公务员考试《行测》第91题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2023-未标注-92",
@@ -6573,7 +6958,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2023年广西公务员考试《行测》第92题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2023-未标注-93",
@@ -6609,7 +6996,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2023年广西公务员考试《行测》第93题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2023-未标注-94",
@@ -6645,7 +7034,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2023年广西公务员考试《行测》第94题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2023-未标注-95",
@@ -6681,7 +7072,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2023年广西公务员考试《行测》第95题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2024-未标注-56",
@@ -6717,7 +7110,9 @@
     "difficulty": "中等",
     "source": "2024年广西公务员考试《行测》第56题",
     "isImageQuestion": true,
-    "province": "广西"
+    "province": "广西",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2024-未标注-57",
@@ -6754,7 +7149,9 @@
     "difficulty": "中等",
     "source": "2024年广西公务员考试《行测》第57题",
     "isImageQuestion": true,
-    "province": "广西"
+    "province": "广西",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2024-未标注-58",
@@ -6790,7 +7187,9 @@
     "difficulty": "中等",
     "source": "2024年广西公务员考试《行测》第58题",
     "isImageQuestion": true,
-    "province": "广西"
+    "province": "广西",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2024-未标注-59",
@@ -6822,7 +7221,9 @@
     "difficulty": "中等",
     "source": "2024年广西公务员考试《行测》第59题",
     "isImageQuestion": true,
-    "province": "广西"
+    "province": "广西",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2024-未标注-60",
@@ -6858,6 +7259,8 @@
     "difficulty": "中等",
     "source": "2024年广西公务员考试《行测》第60题",
     "isImageQuestion": true,
-    "province": "广西"
+    "province": "广西",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   }
 ]

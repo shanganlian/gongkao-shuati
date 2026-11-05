@@ -1,0 +1,77 @@
+{
+  "generatedAt": "2026-11-02T01:40:50.783Z",
+  "apply": false,
+  "scannedQuestions": 95486,
+  "scannedFiles": 1196,
+  "candidates": 3,
+  "changedModule": 0,
+  "changedModuleName": 0,
+  "changedTitle": 0,
+  "changedLocations": 0,
+  "changedFiles": [],
+  "remaining": [],
+  "all": [
+    {
+      "id": "gk-2024-副省级-115",
+      "module": "ziliao",
+      "title": "资料·甲、乙、丙、丁4人参加预选赛 。对于预选赛结果 ，几位教…",
+      "stem": "甲、乙、丙、丁4人参加预选赛 。对于预选赛结果 ，几位教练预测如下：\n（ 1 ）如果甲、乙均未通过 ，则丙通过；\n（2）如果乙、丙至少有1人通过 ，则丁也通过；\n（3）如果甲、乙至少有1人通过 ，则丙也通过 ，但是丁不通过。 根据几位教练的预测 ，可以推出：",
+      "material": "",
+      "options": [
+        "A.丙和丁通过",
+        "B.甲和丁通过",
+        "C.甲和乙通过",
+        "D.乙和丙通过"
+      ],
+      "source": "2024年国家公务员考试《行测》副省级第115题",
+      "suggestedModule": "panduan",
+      "suggestedModuleName": "判断推理",
+      "locations": [
+        "public/data/questions/national-none-ziliao-3.json",
+        "public/data/questions-v2/national-none-ziliao-3.json"
+      ]
+    },
+    {
+      "id": "prov-shanghai-2019-A卷-108",
+      "module": "ziliao",
+      "title": "资料·耳塞海绵套一般是指套在耳塞上的用海绵做成的套子。关于耳塞…",
+      "stem": "耳塞海绵套一般是指套在耳塞上的用海绵做成的套子。关于耳塞海绵套的作用，下列表述不符合实际情况的 是 。",
+      "material": "",
+      "options": [
+        "A.方便固定耳塞在耳朵中的位置",
+        "B.可以保护耳塞的清洁",
+        "C.起到削弱低音，提升高音的作用",
+        "D.有缓冲作用，可提高长时间配戴的舒适性"
+      ],
+      "source": "2019年上海公务员考试《行测》（A卷）第108题",
+      "suggestedModule": "changshi",
+      "suggestedModuleName": "常识判断",
+      "locations": [
+        "public/data/questions/provincial-上海-ziliao-1.json",
+        "public/data/questions-v2-provincial/上海/questions.json",
+        "public/data/questions-v2-provincial/上海/shanghai-none-ziliao-1.json"
+      ]
+    },
+    {
+      "id": "prov-shanghai-2019-A卷-121",
+      "module": "ziliao",
+      "title": "资料·从材料可知， 以下说法不符合《深化党和国家机构改革方案》…",
+      "stem": "从材料可知， 以下说法不符合《深化党和国家机构改革方案》 内容的是 。",
+      "material": "",
+      "options": [
+        "A.国家监察委员会和中央党校同属于国家行政机关",
+        "B.人力资源和社会保障部下设国家公务员局",
+        "C.国家民族事务委员会归口中央统战部领导，属于党中央的组成机构",
+        "D.中央全面依法治国委员会是国务院决策议事协调机构"
+      ],
+      "source": "2019年上海公务员考试《行测》（A卷）第121题",
+      "suggestedModule": "changshi",
+      "suggestedModuleName": "常识判断",
+      "locations": [
+        "public/data/questions/provincial-上海-ziliao-1.json",
+        "public/data/questions-v2-provincial/上海/questions.json",
+        "public/data/questions-v2-provincial/上海/shanghai-none-ziliao-1.json"
+      ]
+    }
+  ]
+}

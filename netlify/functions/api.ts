@@ -16,10 +16,21 @@ import {
   buildStatsOverview,
   type AuthContext,
 } from '../../shared/api-auth';
+import {
+  STUDY_PLAN_ENDPOINT,
+  buildTemplateStudyPlan,
+  normalizeStudyPlan,
+  requestDeepSeekStudyPlan,
+  sanitizeStudyPlanRequest,
+} from '../../shared/study-plan';
+import { isQqLoginEnabled } from '../../shared/feature-flags';
 
 const app = express();
 
 app.use(express.json());
+
+/** QQ 登录开关（默认关闭）：未开启时 /api/auth/qq/* 一律 404，和 server.ts 保持一致 */
+app.use('/api/auth/qq', (_req, res, next) => (isQqLoginEnabled() ? next() : res.status(404).json({ error: 'not_found' })));
 
 /** 受保护接口：必须携带 Supabase 登录态（Authorization: Bearer <access_token>） */
 async function requireAuth(req: Request, res: Response, next: NextFunction) {
@@ -171,6 +182,38 @@ app.post('/api/generate-plan', requireAuth, async (req, res) => {
         '第3周：申论大作文五段三分法形成本能，破题不慌'
       ],
       mindsetQuote: '按部就班就是伟大。不看别人的分数，专注自己的每一步！'
+    });
+  }
+});
+
+// 定制计划 v1.0 · DeepSeek 生成 4 周计划（每周主题 + 每日任务清单）
+// 无 Key / 超时 / JSON 不合法：一律返回规则模板（provider=template），不伪装 AI
+app.post(STUDY_PLAN_ENDPOINT, requireAuth, async (req, res) => {
+  const parsed = sanitizeStudyPlanRequest(req.body);
+  if (!parsed.ok) {
+    return res.status(400).json({ error: parsed.error });
+  }
+
+  const input = parsed.value;
+  const apiKey = process.env.DEEPSEEK_API_KEY;
+  if (!apiKey) {
+    return res.json({
+      plan: buildTemplateStudyPlan(input),
+      provider: 'template',
+      note: 'missing-api-key',
+    });
+  }
+
+  try {
+    const content = await requestDeepSeekStudyPlan(apiKey, input);
+    const plan = normalizeStudyPlan(parseJsonLoose(content), input);
+    return res.json({ plan, provider: 'deepseek' });
+  } catch (err: any) {
+    console.error('DeepSeek study plan error:', err?.message || err);
+    return res.json({
+      plan: buildTemplateStudyPlan(input),
+      provider: 'template',
+      note: 'deepseek-failed',
     });
   }
 });

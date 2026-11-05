@@ -448,4 +448,9 @@ module.exports = {
   scanProvince,
   scanProvinces,
   listConvertedProvinces,
+  // 供全库体检脚本复用同一套语义扫描口径
+  paperName,
+  answerDistribution,
+  scanE07,
+  scanExplanationModules,
 };

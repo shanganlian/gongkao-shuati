@@ -29,7 +29,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2006年安徽公务员考试《行测》第1题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2006-未标注-2",
@@ -61,7 +63,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2006年安徽公务员考试《行测》第2题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2006-未标注-3",
@@ -77,7 +81,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2006年安徽公务员考试《行测》第3题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-anhui-2006-未标注-4",
@@ -109,7 +115,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2006年安徽公务员考试《行测》第4题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2006-未标注-5",
@@ -144,7 +152,9 @@
     "difficulty": "拔高",
     "source": "2006年安徽公务员考试《行测》第5题",
     "isImageQuestion": true,
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-anhui-2006-未标注-6",
@@ -160,7 +170,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2006年安徽公务员考试《行测》第6题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-anhui-2006-未标注-7",
@@ -195,7 +207,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2006年安徽公务员考试《行测》第7题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2006-未标注-8",
@@ -227,7 +241,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2006年安徽公务员考试《行测》第8题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2006-未标注-9",
@@ -259,7 +275,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2006年安徽公务员考试《行测》第9题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2006-未标注-10",
@@ -293,7 +311,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2006年安徽公务员考试《行测》第10题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2006-未标注-11",
@@ -325,7 +345,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2006年安徽公务员考试《行测》第11题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2006-未标注-12",
@@ -357,7 +379,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2006年安徽公务员考试《行测》第12题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "排列概率",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-anhui-2006-未标注-13",
@@ -389,7 +413,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2006年安徽公务员考试《行测》第13题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2006-未标注-14",
@@ -424,7 +450,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2006年安徽公务员考试《行测》第14题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2006-未标注-15",
@@ -459,7 +487,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2006年安徽公务员考试《行测》第15题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2007-未标注-1",
@@ -475,7 +505,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2007年安徽公务员考试《行测》第1题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-anhui-2007-未标注-2",
@@ -491,7 +523,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2007年安徽公务员考试《行测》第2题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-anhui-2007-未标注-3",
@@ -507,7 +541,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2007年安徽公务员考试《行测》第3题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-anhui-2007-未标注-4",
@@ -523,7 +559,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2007年安徽公务员考试《行测》第4题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-anhui-2007-未标注-5",
@@ -539,7 +577,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2007年安徽公务员考试《行测》第5题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-anhui-2007-未标注-6",
@@ -555,7 +595,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2007年安徽公务员考试《行测》第6题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-anhui-2007-未标注-7",
@@ -589,7 +631,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2007年安徽公务员考试《行测》第7题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2007-未标注-8",
@@ -625,7 +669,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2007年安徽公务员考试《行测》第8题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2007-未标注-9",
@@ -657,7 +703,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2007年安徽公务员考试《行测》第9题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2007-未标注-10",
@@ -689,7 +737,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2007年安徽公务员考试《行测》第10题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2007-未标注-11",
@@ -721,7 +771,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2007年安徽公务员考试《行测》第11题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2007-未标注-12",
@@ -753,7 +805,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2007年安徽公务员考试《行测》第12题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2007-未标注-13",
@@ -769,7 +823,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2007年安徽公务员考试《行测》第13题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-anhui-2007-未标注-14",
@@ -801,7 +857,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2007年安徽公务员考试《行测》第14题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2007-未标注-15",
@@ -837,7 +895,9 @@
     "difficulty": "拔高",
     "source": "2007年安徽公务员考试《行测》第15题",
     "isImageQuestion": true,
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2007-未标注-16",
@@ -872,7 +932,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2007年安徽公务员考试《行测》第16题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-anhui-2007-未标注-17",
@@ -906,7 +968,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2007年安徽公务员考试《行测》第17题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-anhui-2007-未标注-18",
@@ -940,7 +1004,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2007年安徽公务员考试《行测》第18题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-anhui-2007-未标注-19",
@@ -975,7 +1041,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2007年安徽公务员考试《行测》第19题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-anhui-2007-未标注-20",
@@ -1009,7 +1077,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2007年安徽公务员考试《行测》第20题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-anhui-2007-未标注-21",
@@ -1043,7 +1113,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2007年安徽公务员考试《行测》第21题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-anhui-2007-未标注-22",
@@ -1075,7 +1147,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2007年安徽公务员考试《行测》第22题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-anhui-2007-未标注-23",
@@ -1109,7 +1183,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2007年安徽公务员考试《行测》第23题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-anhui-2007-未标注-24",
@@ -1144,7 +1220,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2007年安徽公务员考试《行测》第24题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-anhui-2007-未标注-25",
@@ -1180,7 +1258,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2007年安徽公务员考试《行测》第25题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-anhui-2007-未标注-26",
@@ -1214,7 +1294,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2007年安徽公务员考试《行测》第26题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-anhui-2007-未标注-27",
@@ -1248,7 +1330,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2007年安徽公务员考试《行测》第27题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-anhui-2007-未标注-28",
@@ -1282,7 +1366,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2007年安徽公务员考试《行测》第28题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-anhui-2007-未标注-29",
@@ -1317,7 +1403,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2007年安徽公务员考试《行测》第29题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-anhui-2007-未标注-30",
@@ -1349,7 +1437,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2007年安徽公务员考试《行测》第30题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-anhui-2007-未标注-31",
@@ -1383,7 +1473,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2007年安徽公务员考试《行测》第31题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-anhui-2007-未标注-32",
@@ -1417,7 +1509,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2007年安徽公务员考试《行测》第32题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-anhui-2007-未标注-33",
@@ -1452,7 +1546,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2007年安徽公务员考试《行测》第33题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-anhui-2007-未标注-34",
@@ -1486,7 +1582,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2007年安徽公务员考试《行测》第34题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-anhui-2007-未标注-35",
@@ -1520,7 +1618,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2007年安徽公务员考试《行测》第35题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-anhui-2007-未标注-36",
@@ -1555,7 +1655,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2007年安徽公务员考试《行测》第36题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-anhui-2007-未标注-37",
@@ -1590,7 +1692,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2007年安徽公务员考试《行测》第37题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-anhui-2007-未标注-38",
@@ -1625,7 +1729,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2007年安徽公务员考试《行测》第38题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-anhui-2007-未标注-39",
@@ -1657,7 +1763,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2007年安徽公务员考试《行测》第39题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-anhui-2007-未标注-40",
@@ -1692,7 +1800,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2007年安徽公务员考试《行测》第40题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-anhui-2007-未标注-41",
@@ -1726,7 +1836,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2007年安徽公务员考试《行测》第41题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-anhui-2007-未标注-42",
@@ -1760,7 +1872,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2007年安徽公务员考试《行测》第42题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-anhui-2007-未标注-43",
@@ -1796,7 +1910,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2007年安徽公务员考试《行测》第43题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-anhui-2007-未标注-44",
@@ -1832,7 +1948,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2007年安徽公务员考试《行测》第44题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-anhui-2007-未标注-45",
@@ -1867,7 +1985,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2007年安徽公务员考试《行测》第45题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-anhui-2008-未标注-1",
@@ -1901,7 +2021,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2008年安徽公务员考试《行测》第1题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2008-未标注-2",
@@ -1936,7 +2058,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2008年安徽公务员考试《行测》第2题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2008-未标注-3",
@@ -1971,7 +2095,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2008年安徽公务员考试《行测》第3题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2008-未标注-4",
@@ -2006,7 +2132,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2008年安徽公务员考试《行测》第4题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2008-未标注-5",
@@ -2042,7 +2170,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2008年安徽公务员考试《行测》第5题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2008-未标注-6",
@@ -2077,7 +2207,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2008年安徽公务员考试《行测》第6题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2008-未标注-7",
@@ -2113,7 +2245,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2008年安徽公务员考试《行测》第7题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2008-未标注-8",
@@ -2145,7 +2279,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2008年安徽公务员考试《行测》第8题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2008-未标注-9",
@@ -2181,7 +2317,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2008年安徽公务员考试《行测》第9题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2008-未标注-10",
@@ -2215,7 +2353,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2008年安徽公务员考试《行测》第10题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2008-未标注-11",
@@ -2250,7 +2390,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2008年安徽公务员考试《行测》第11题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2008-未标注-12",
@@ -2284,7 +2426,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2008年安徽公务员考试《行测》第12题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2008-未标注-13",
@@ -2318,7 +2462,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2008年安徽公务员考试《行测》第13题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2008-未标注-14",
@@ -2338,7 +2484,10 @@
     "difficulty": "拔高",
     "source": "2008年安徽公务员考试《行测》第14题",
     "isImageQuestion": true,
-    "province": "安徽"
+    "province": "安徽",
+    "isAbnormal": true,
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2008-未标注-15",
@@ -2372,7 +2521,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2008年安徽公务员考试《行测》第15题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2009-未标注-1",
@@ -2408,7 +2559,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2009年安徽公务员考试《行测》第1题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2009-未标注-2",
@@ -2444,7 +2597,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2009年安徽公务员考试《行测》第2题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2009-未标注-3",
@@ -2464,7 +2619,10 @@
     "difficulty": "拔高",
     "source": "2009年安徽公务员考试《行测》第3题",
     "isImageQuestion": true,
-    "province": "安徽"
+    "province": "安徽",
+    "isAbnormal": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2009-未标注-4",
@@ -2497,7 +2655,9 @@
     "difficulty": "拔高",
     "source": "2009年安徽公务员考试《行测》第4题",
     "isImageQuestion": true,
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2009-未标注-5",
@@ -2532,7 +2692,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2009年安徽公务员考试《行测》第5题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2009-未标注-6",
@@ -2567,7 +2729,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2009年安徽公务员考试《行测》第6题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2009-未标注-7",
@@ -2602,7 +2766,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2009年安徽公务员考试《行测》第7题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2009-未标注-8",
@@ -2638,7 +2804,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2009年安徽公务员考试《行测》第8题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2009-未标注-9",
@@ -2672,7 +2840,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2009年安徽公务员考试《行测》第9题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2009-未标注-10",
@@ -2707,7 +2877,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2009年安徽公务员考试《行测》第10题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2009-未标注-11",
@@ -2739,7 +2911,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2009年安徽公务员考试《行测》第11题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2009-未标注-12",
@@ -2774,7 +2948,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2009年安徽公务员考试《行测》第12题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2009-未标注-13",
@@ -2808,7 +2984,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2009年安徽公务员考试《行测》第13题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2009-未标注-14",
@@ -2843,7 +3021,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2009年安徽公务员考试《行测》第14题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2009-未标注-15",
@@ -2878,7 +3058,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2009年安徽公务员考试《行测》第15题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2010-未标注-1",
@@ -2914,7 +3096,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2010年安徽公务员考试《行测》第1题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2010-未标注-2",
@@ -2949,7 +3133,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2010年安徽公务员考试《行测》第2题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2010-未标注-3",
@@ -2985,7 +3171,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2010年安徽公务员考试《行测》第3题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2010-未标注-4",
@@ -3018,7 +3206,9 @@
     "difficulty": "拔高",
     "source": "2010年安徽公务员考试《行测》第4题",
     "isImageQuestion": true,
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-anhui-2010-未标注-5",
@@ -3054,7 +3244,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2010年安徽公务员考试《行测》第5题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2010-未标注-6",
@@ -3088,7 +3280,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2010年安徽公务员考试《行测》第6题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2010-未标注-7",
@@ -3123,7 +3317,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2010年安徽公务员考试《行测》第7题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2010-未标注-8",
@@ -3158,7 +3354,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2010年安徽公务员考试《行测》第8题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2010-未标注-9",
@@ -3194,7 +3392,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2010年安徽公务员考试《行测》第9题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2010-未标注-10",
@@ -3228,7 +3428,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2010年安徽公务员考试《行测》第10题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2010-未标注-11",
@@ -3263,7 +3465,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2010年安徽公务员考试《行测》第11题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2010-未标注-12",
@@ -3298,7 +3502,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2010年安徽公务员考试《行测》第12题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2010-未标注-13",
@@ -3334,7 +3540,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2010年安徽公务员考试《行测》第13题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2010-未标注-14",
@@ -3368,7 +3576,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2010年安徽公务员考试《行测》第14题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2010-未标注-15",
@@ -3404,7 +3614,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2010年安徽公务员考试《行测》第15题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2010-未标注-16",
@@ -3438,7 +3650,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2010年安徽公务员考试《行测》第16题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-anhui-2010-未标注-17",
@@ -3472,7 +3686,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2010年安徽公务员考试《行测》第17题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-anhui-2010-未标注-18",
@@ -3508,7 +3724,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2010年安徽公务员考试《行测》第18题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-anhui-2010-未标注-19",
@@ -3543,7 +3761,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2010年安徽公务员考试《行测》第19题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-anhui-2010-未标注-20",
@@ -3578,7 +3798,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2010年安徽公务员考试《行测》第20题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-anhui-2010-未标注-21",
@@ -3613,7 +3835,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2010年安徽公务员考试《行测》第21题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-anhui-2010-未标注-22",
@@ -3649,7 +3873,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2010年安徽公务员考试《行测》第22题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-anhui-2010-未标注-23",
@@ -3684,7 +3910,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2010年安徽公务员考试《行测》第23题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-anhui-2010-未标注-24",
@@ -3720,7 +3948,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2010年安徽公务员考试《行测》第24题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-anhui-2010-未标注-25",
@@ -3755,7 +3985,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2010年安徽公务员考试《行测》第25题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-anhui-2010-未标注-26",
@@ -3790,7 +4022,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2010年安徽公务员考试《行测》第26题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-anhui-2010-未标注-27",
@@ -3825,7 +4059,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2010年安徽公务员考试《行测》第27题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-anhui-2010-未标注-28",
@@ -3857,7 +4093,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2010年安徽公务员考试《行测》第28题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-anhui-2010-未标注-29",
@@ -3892,7 +4130,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2010年安徽公务员考试《行测》第29题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-anhui-2010-未标注-30",
@@ -3927,7 +4167,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2010年安徽公务员考试《行测》第30题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-anhui-2010-未标注-31",
@@ -3961,7 +4203,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2010年安徽公务员考试《行测》第31题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-anhui-2010-未标注-32",
@@ -3995,7 +4239,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2010年安徽公务员考试《行测》第32题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-anhui-2010-未标注-33",
@@ -4029,7 +4275,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2010年安徽公务员考试《行测》第33题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-anhui-2010-未标注-34",
@@ -4063,7 +4311,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2010年安徽公务员考试《行测》第34题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-anhui-2010-未标注-35",
@@ -4097,7 +4347,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2010年安徽公务员考试《行测》第35题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-anhui-2010-未标注-36",
@@ -4131,7 +4383,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2010年安徽公务员考试《行测》第36题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-anhui-2010-未标注-37",
@@ -4165,7 +4419,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2010年安徽公务员考试《行测》第37题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-anhui-2010-未标注-38",
@@ -4201,7 +4457,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2010年安徽公务员考试《行测》第38题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-anhui-2010-未标注-39",
@@ -4235,7 +4493,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2010年安徽公务员考试《行测》第39题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-anhui-2010-未标注-40",
@@ -4270,7 +4530,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2010年安徽公务员考试《行测》第40题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-anhui-2010-未标注-41",
@@ -4305,7 +4567,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2010年安徽公务员考试《行测》第41题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-anhui-2010-未标注-42",
@@ -4340,7 +4604,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2010年安徽公务员考试《行测》第42题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-anhui-2010-未标注-43",
@@ -4375,7 +4641,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2010年安徽公务员考试《行测》第43题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-anhui-2010-未标注-44",
@@ -4411,7 +4679,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2010年安徽公务员考试《行测》第44题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-anhui-2010-未标注-45",
@@ -4446,7 +4716,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2010年安徽公务员考试《行测》第45题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-anhui-2010-未标注-46",
@@ -4482,7 +4754,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2010年安徽公务员考试《行测》第46题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-anhui-2010-未标注-47",
@@ -4518,7 +4792,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2010年安徽公务员考试《行测》第47题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-anhui-2010-未标注-48",
@@ -4555,7 +4831,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2010年安徽公务员考试《行测》第48题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-anhui-2010-未标注-49",
@@ -4591,7 +4869,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2010年安徽公务员考试《行测》第49题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-anhui-2010-未标注-50",
@@ -4627,7 +4907,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2010年安徽公务员考试《行测》第50题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-anhui-2011-未标注-1",
@@ -4662,7 +4944,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2011年安徽公务员考试《行测》第1题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2011-未标注-2",
@@ -4698,7 +4982,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2011年安徽公务员考试《行测》第2题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2011-未标注-3",
@@ -4718,7 +5004,10 @@
     "difficulty": "拔高",
     "source": "2011年安徽公务员考试《行测》第3题",
     "isImageQuestion": true,
-    "province": "安徽"
+    "province": "安徽",
+    "isAbnormal": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-anhui-2011-未标注-4",
@@ -4753,7 +5042,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2011年安徽公务员考试《行测》第4题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2011-未标注-5",
@@ -4789,7 +5080,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2011年安徽公务员考试《行测》第5题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2011-未标注-6",
@@ -4824,7 +5117,9 @@
     "difficulty": "拔高",
     "source": "2011年安徽公务员考试《行测》第6题",
     "isImageQuestion": true,
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2011-未标注-7",
@@ -4858,7 +5153,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2011年安徽公务员考试《行测》第7题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2011-未标注-8",
@@ -4893,7 +5190,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2011年安徽公务员考试《行测》第8题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "几何",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-anhui-2011-未标注-9",
@@ -4928,7 +5227,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2011年安徽公务员考试《行测》第9题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2011-未标注-10",
@@ -4964,7 +5265,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2011年安徽公务员考试《行测》第10题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "经济利润",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-anhui-2011-未标注-11",
@@ -4998,7 +5301,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2011年安徽公务员考试《行测》第11题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2011-未标注-12",
@@ -5034,7 +5339,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2011年安徽公务员考试《行测》第12题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2011-未标注-13",
@@ -5066,7 +5373,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2011年安徽公务员考试《行测》第13题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2011-未标注-14",
@@ -5100,7 +5409,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2011年安徽公务员考试《行测》第14题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2011-未标注-15",
@@ -5135,7 +5446,9 @@
     "difficulty": "拔高",
     "source": "2011年安徽公务员考试《行测》第15题",
     "isImageQuestion": true,
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2011-未标注-16",
@@ -5170,7 +5483,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2011年安徽公务员考试《行测》第16题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-anhui-2011-未标注-17",
@@ -5205,7 +5520,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2011年安徽公务员考试《行测》第17题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-anhui-2011-未标注-18",
@@ -5241,7 +5558,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2011年安徽公务员考试《行测》第18题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-anhui-2011-未标注-19",
@@ -5275,7 +5594,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2011年安徽公务员考试《行测》第19题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-anhui-2011-未标注-20",
@@ -5310,7 +5631,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2011年安徽公务员考试《行测》第20题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-anhui-2011-未标注-21",
@@ -5344,7 +5667,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2011年安徽公务员考试《行测》第21题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-anhui-2011-未标注-22",
@@ -5379,7 +5704,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2011年安徽公务员考试《行测》第22题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-anhui-2011-未标注-23",
@@ -5414,7 +5741,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2011年安徽公务员考试《行测》第23题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-anhui-2011-未标注-24",
@@ -5449,7 +5778,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2011年安徽公务员考试《行测》第24题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-anhui-2011-未标注-25",
@@ -5485,7 +5816,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2011年安徽公务员考试《行测》第25题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-anhui-2011-未标注-26",
@@ -5520,7 +5853,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2011年安徽公务员考试《行测》第26题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-anhui-2011-未标注-27",
@@ -5554,7 +5889,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2011年安徽公务员考试《行测》第27题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-anhui-2011-未标注-28",
@@ -5590,7 +5927,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2011年安徽公务员考试《行测》第28题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-anhui-2011-未标注-29",
@@ -5625,7 +5964,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2011年安徽公务员考试《行测》第29题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-anhui-2011-未标注-30",
@@ -5659,7 +6000,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2011年安徽公务员考试《行测》第30题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-anhui-2011-未标注-31",
@@ -5694,7 +6037,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2011年安徽公务员考试《行测》第31题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-anhui-2011-未标注-32",
@@ -5728,7 +6073,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2011年安徽公务员考试《行测》第32题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-anhui-2011-未标注-33",
@@ -5762,7 +6109,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2011年安徽公务员考试《行测》第33题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-anhui-2011-未标注-34",
@@ -5796,7 +6145,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2011年安徽公务员考试《行测》第34题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-anhui-2011-未标注-35",
@@ -5830,7 +6181,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2011年安徽公务员考试《行测》第35题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-anhui-2011-未标注-36",
@@ -5862,7 +6215,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2011年安徽公务员考试《行测》第36题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-anhui-2011-未标注-37",
@@ -5897,7 +6252,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2011年安徽公务员考试《行测》第37题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-anhui-2011-未标注-38",
@@ -5931,7 +6288,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2011年安徽公务员考试《行测》第38题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-anhui-2011-未标注-39",
@@ -5966,7 +6325,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2011年安徽公务员考试《行测》第39题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-anhui-2011-未标注-40",
@@ -6001,7 +6362,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2011年安徽公务员考试《行测》第40题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-anhui-2012-未标注-56",
@@ -6036,7 +6399,9 @@
     "difficulty": "拔高",
     "source": "2012年安徽公务员考试《行测》第56题",
     "isImageQuestion": true,
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2012-未标注-57",
@@ -6071,7 +6436,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2012年安徽公务员考试《行测》第57题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-anhui-2012-未标注-58",
@@ -6103,7 +6470,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2012年安徽公务员考试《行测》第58题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2012-未标注-59",
@@ -6135,7 +6504,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2012年安徽公务员考试《行测》第59题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2012-未标注-60",
@@ -6169,7 +6540,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2012年安徽公务员考试《行测》第60题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2012-未标注-61",
@@ -6205,7 +6578,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2012年安徽公务员考试《行测》第61题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2012-未标注-62",
@@ -6241,7 +6616,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2012年安徽公务员考试《行测》第62题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2012-未标注-63",
@@ -6277,7 +6654,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2012年安徽公务员考试《行测》第63题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2012-未标注-64",
@@ -6312,7 +6691,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2012年安徽公务员考试《行测》第64题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2012-未标注-65",
@@ -6346,7 +6727,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2012年安徽公务员考试《行测》第65题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2012-未标注-66",
@@ -6382,7 +6765,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2012年安徽公务员考试《行测》第66题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2012-未标注-67",
@@ -6414,7 +6799,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2012年安徽公务员考试《行测》第67题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2012-未标注-68",
@@ -6450,7 +6837,9 @@
     "difficulty": "拔高",
     "source": "2012年安徽公务员考试《行测》第68题",
     "isImageQuestion": true,
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2012-未标注-69",
@@ -6482,7 +6871,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2012年安徽公务员考试《行测》第69题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2012-未标注-70",
@@ -6518,7 +6909,9 @@
     "difficulty": "拔高",
     "source": "2012年安徽公务员考试《行测》第70题",
     "isImageQuestion": true,
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2013-未标注-76",
@@ -6552,7 +6945,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2013年安徽公务员考试《行测》第76题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2013-未标注-77",
@@ -6586,7 +6981,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2013年安徽公务员考试《行测》第77题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2013-未标注-78",
@@ -6621,7 +7018,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2013年安徽公务员考试《行测》第78题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2013-未标注-79",
@@ -6655,7 +7054,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2013年安徽公务员考试《行测》第79题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-anhui-2013-未标注-80",
@@ -6690,6 +7091,8 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2013年安徽公务员考试《行测》第80题",
-    "province": "安徽"
+    "province": "安徽",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   }
 ]

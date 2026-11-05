@@ -33,7 +33,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年山东公务员考试《行测》第41题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2025-未标注-42",
@@ -68,7 +70,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年山东公务员考试《行测》第42题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2025-未标注-43",
@@ -103,7 +107,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年山东公务员考试《行测》第43题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2025-未标注-44",
@@ -139,7 +145,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年山东公务员考试《行测》第44题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2025-未标注-45",
@@ -170,7 +178,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年山东公务员考试《行测》第45题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2025-未标注-46",
@@ -199,7 +209,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年山东公务员考试《行测》第46题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2025-未标注-47",
@@ -231,7 +243,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年山东公务员考试《行测》第47题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "语句表达",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2025-未标注-48",
@@ -268,7 +282,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年山东公务员考试《行测》第48题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "语句表达",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2025-未标注-49",
@@ -305,7 +321,9 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年山东公务员考试《行测》第49题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "语句表达",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2025-未标注-50",
@@ -340,6 +358,8 @@
     "thinkingTip": "【言语】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年山东公务员考试《行测》第50题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "片段阅读",
+    "subModule_confidence": "high"
   }
 ]

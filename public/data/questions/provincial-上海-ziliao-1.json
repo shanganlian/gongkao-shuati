@@ -32,7 +32,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年上海公务员考试《行测》（B卷）第135题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2015-B卷-136",
@@ -69,7 +71,9 @@
     "difficulty": "中等",
     "source": "2015年上海公务员考试《行测》（B卷）第136题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2015-B卷-137",
@@ -105,7 +109,9 @@
     "difficulty": "中等",
     "source": "2015年上海公务员考试《行测》（B卷）第137题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2015-B卷-138",
@@ -141,7 +147,9 @@
     "difficulty": "中等",
     "source": "2015年上海公务员考试《行测》（B卷）第138题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2015-B卷-139",
@@ -177,7 +185,9 @@
     "difficulty": "中等",
     "source": "2015年上海公务员考试《行测》（B卷）第139题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2015-B卷-140",
@@ -213,7 +223,9 @@
     "difficulty": "中等",
     "source": "2015年上海公务员考试《行测》（B卷）第140题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2016-A卷-96",
@@ -246,7 +258,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年上海公务员考试《行测》（A卷）第96题",
-    "province": "上海"
+    "province": "上海",
+    "isAbnormal": true,
+    "subModule": "图形材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2016-A卷-97",
@@ -281,7 +296,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年上海公务员考试《行测》（A卷）第97题",
-    "province": "上海"
+    "province": "上海",
+    "isAbnormal": true,
+    "subModule": "综合材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2016-A卷-98",
@@ -316,7 +334,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年上海公务员考试《行测》（A卷）第98题",
-    "province": "上海"
+    "province": "上海",
+    "isAbnormal": true,
+    "subModule": "综合材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2016-A卷-99",
@@ -349,7 +370,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年上海公务员考试《行测》（A卷）第99题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "图形材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2016-A卷-100",
@@ -384,7 +407,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年上海公务员考试《行测》（A卷）第100题",
-    "province": "上海"
+    "province": "上海",
+    "isAbnormal": true,
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2016-B卷-126",
@@ -420,7 +446,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年上海公务员考试《行测》（B卷）第126题",
-    "province": "上海"
+    "province": "上海",
+    "isAbnormal": true,
+    "subModule": "图形材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2016-B卷-127",
@@ -455,7 +484,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年上海公务员考试《行测》（B卷）第127题",
-    "province": "上海"
+    "province": "上海",
+    "isAbnormal": true,
+    "subModule": "图形材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2016-B卷-128",
@@ -491,7 +523,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年上海公务员考试《行测》（B卷）第128题",
-    "province": "上海"
+    "province": "上海",
+    "isAbnormal": true,
+    "subModule": "图形材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2016-B卷-129",
@@ -526,7 +561,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年上海公务员考试《行测》（B卷）第129题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "图形材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2016-B卷-130",
@@ -559,7 +596,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年上海公务员考试《行测》（B卷）第130题",
-    "province": "上海"
+    "province": "上海",
+    "isAbnormal": true,
+    "subModule": "图形材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2016-B卷-131",
@@ -595,7 +635,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年上海公务员考试《行测》（B卷）第131题",
-    "province": "上海"
+    "province": "上海",
+    "isAbnormal": true,
+    "subModule": "图形材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2016-B卷-132",
@@ -630,7 +673,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年上海公务员考试《行测》（B卷）第132题",
-    "province": "上海"
+    "province": "上海",
+    "isAbnormal": true,
+    "subModule": "图形材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2016-B卷-133",
@@ -666,7 +712,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年上海公务员考试《行测》（B卷）第133题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2016-B卷-134",
@@ -701,7 +749,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年上海公务员考试《行测》（B卷）第134题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2016-B卷-135",
@@ -734,7 +784,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年上海公务员考试《行测》（B卷）第135题",
-    "province": "上海"
+    "province": "上海",
+    "isAbnormal": true,
+    "subModule": "图形材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2016-B卷-136",
@@ -770,7 +823,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年上海公务员考试《行测》（B卷）第136题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2016-B卷-137",
@@ -806,7 +861,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年上海公务员考试《行测》（B卷）第137题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2016-B卷-138",
@@ -841,7 +898,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年上海公务员考试《行测》（B卷）第138题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "图形材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2016-B卷-139",
@@ -876,7 +935,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年上海公务员考试《行测》（B卷）第139题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "图形材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2016-B卷-140",
@@ -913,7 +974,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年上海公务员考试《行测》（B卷）第140题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2017-未标注-122",
@@ -948,7 +1011,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年上海公务员考试《行测》第122题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2017-未标注-123",
@@ -984,7 +1049,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年上海公务员考试《行测》第123题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2017-未标注-124",
@@ -1020,7 +1087,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年上海公务员考试《行测》第124题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2017-未标注-125",
@@ -1039,7 +1108,9 @@
     "difficulty": "中等",
     "source": "2017年上海公务员考试《行测》第125题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2017-未标注-126",
@@ -1075,7 +1146,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年上海公务员考试《行测》第126题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2017-未标注-127",
@@ -1111,7 +1184,9 @@
     "difficulty": "中等",
     "source": "2017年上海公务员考试《行测》第127题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2017-未标注-128",
@@ -1148,7 +1223,9 @@
     "difficulty": "中等",
     "source": "2017年上海公务员考试《行测》第128题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2017-未标注-129",
@@ -1184,7 +1261,9 @@
     "difficulty": "中等",
     "source": "2017年上海公务员考试《行测》第129题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2017-未标注-130",
@@ -1220,7 +1299,9 @@
     "difficulty": "中等",
     "source": "2017年上海公务员考试《行测》第130题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2017-未标注-131",
@@ -1254,7 +1335,9 @@
     "difficulty": "中等",
     "source": "2017年上海公务员考试《行测》第131题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "图形材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2017-未标注-132",
@@ -1290,7 +1373,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年上海公务员考试《行测》第132题",
-    "province": "上海"
+    "province": "上海",
+    "isAbnormal": true,
+    "subModule": "图形材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2017-未标注-133",
@@ -1326,7 +1412,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年上海公务员考试《行测》第133题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2017-未标注-134",
@@ -1362,7 +1450,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年上海公务员考试《行测》第134题",
-    "province": "上海"
+    "province": "上海",
+    "isAbnormal": true,
+    "subModule": "图形材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2017-未标注-135",
@@ -1398,7 +1489,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年上海公务员考试《行测》第135题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "图形材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2017-未标注-136",
@@ -1433,7 +1526,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年上海公务员考试《行测》第136题",
-    "province": "上海"
+    "province": "上海",
+    "isAbnormal": true,
+    "subModule": "图形材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2018-A卷-121",
@@ -1469,7 +1565,9 @@
     "difficulty": "中等",
     "source": "2018年上海公务员考试《行测》（A卷）第121题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2018-A卷-122",
@@ -1506,7 +1604,9 @@
     "difficulty": "中等",
     "source": "2018年上海公务员考试《行测》（A卷）第122题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "图形材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2018-A卷-123",
@@ -1543,7 +1643,9 @@
     "difficulty": "中等",
     "source": "2018年上海公务员考试《行测》（A卷）第123题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "图形材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2018-A卷-124",
@@ -1579,7 +1681,9 @@
     "difficulty": "中等",
     "source": "2018年上海公务员考试《行测》（A卷）第124题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "图形材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2018-A卷-125",
@@ -1616,7 +1720,9 @@
     "difficulty": "中等",
     "source": "2018年上海公务员考试《行测》（A卷）第125题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2018-A卷-126",
@@ -1653,7 +1759,9 @@
     "difficulty": "中等",
     "source": "2018年上海公务员考试《行测》（A卷）第126题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2018-A卷-127",
@@ -1689,7 +1797,9 @@
     "difficulty": "中等",
     "source": "2018年上海公务员考试《行测》（A卷）第127题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2018-A卷-128",
@@ -1725,7 +1835,9 @@
     "difficulty": "中等",
     "source": "2018年上海公务员考试《行测》（A卷）第128题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2018-A卷-129",
@@ -1763,7 +1875,9 @@
     "difficulty": "中等",
     "source": "2018年上海公务员考试《行测》（A卷）第129题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2018-A卷-130",
@@ -1800,7 +1914,9 @@
     "difficulty": "中等",
     "source": "2018年上海公务员考试《行测》（A卷）第130题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2018-A卷-131",
@@ -1835,7 +1951,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年上海公务员考试《行测》（A卷）第131题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2018-A卷-132",
@@ -1870,7 +1988,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年上海公务员考试《行测》（A卷）第132题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2018-A卷-133",
@@ -1906,7 +2026,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年上海公务员考试《行测》（A卷）第133题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2018-A卷-134",
@@ -1942,7 +2064,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年上海公务员考试《行测》（A卷）第134题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2018-A卷-135",
@@ -1978,7 +2102,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年上海公务员考试《行测》（A卷）第135题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2019-A卷-106",
@@ -2013,7 +2139,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年上海公务员考试《行测》（A卷）第106题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2019-A卷-107",
@@ -2050,41 +2178,9 @@
     "difficulty": "中等",
     "source": "2019年上海公务员考试《行测》（A卷）第107题",
     "isImageQuestion": true,
-    "province": "上海"
-  },
-  {
-    "id": "prov-shanghai-2019-A卷-108",
-    "category": "provincial",
-    "module": "ziliao",
-    "title": "资料·耳塞海绵套一般是指套在耳塞上的用海绵做成的套子。关于耳塞…",
-    "stem": "耳塞海绵套一般是指套在耳塞上的用海绵做成的套子。关于耳塞海绵套的作用，下列表述不符合实际情况的 是 。",
-    "options": [
-      {
-        "key": "A",
-        "text": "方便固定耳塞在耳朵中的位置"
-      },
-      {
-        "key": "B",
-        "text": "可以保护耳塞的清洁"
-      },
-      {
-        "key": "C",
-        "text": "起到削弱低音，提升高音的作用"
-      },
-      {
-        "key": "D",
-        "text": "有缓冲作用，可提高长时间配戴的舒适性"
-      }
-    ],
-    "answer": "C",
-    "explanation": "本题考查科技常识。\nA 项正确，每个人的外耳形状不一样，海绵一方面可以增大摩擦力，另一方面使耳塞体积变大，从而使耳塞塞住不掉 下来，方便固定耳塞在耳朵中的位置。\nB 项正确，海绵可以阻止一些外部灰尘进入耳塞；同时，在佩戴耳塞时，海绵还能防止耳朵内部的污垢颗粒（也就是 平时所说的“耳屎”）、汗水等进入耳塞内部，从而保证耳塞的清洁。\nC 项错误，加装了海绵套的耳塞，在佩戴时能够更好的封闭耳道，从而保留了更多的低音，同时海绵的多孔材料有很 强的声音吸附性，吸收了不少的高频频率，使得声音平衡感走向下端，并且因为阻尼作用，改变了振膜震动的特性， 也使声音的中低频厚度陡然增加，产生更低的下潜，整体的听感也更好。所以海绵套是吸收高音，保留更多低音。\nD 项正确，因为耳塞都是塑料做的，长时间佩戴会很不舒服，海绵耳塞套起到了缓冲作用，而且使人们佩戴时不易出 汗，从而长时间佩戴也不会觉得不舒服。\n本题为选非题，故正确答案为 C。",
-    "keyPoints": [
-      "本题考查科技常识"
-    ],
-    "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
-    "difficulty": "中等",
-    "source": "2019年上海公务员考试《行测》（A卷）第108题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2019-A卷-109",
@@ -2119,7 +2215,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年上海公务员考试《行测》（A卷）第109题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2019-A卷-110",
@@ -2153,7 +2251,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年上海公务员考试《行测》（A卷）第110题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2019-A卷-111",
@@ -2188,7 +2288,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年上海公务员考试《行测》（A卷）第111题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2019-A卷-112",
@@ -2224,7 +2326,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年上海公务员考试《行测》（A卷）第112题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2019-A卷-113",
@@ -2260,7 +2364,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年上海公务员考试《行测》（A卷）第113题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2019-A卷-114",
@@ -2294,7 +2400,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年上海公务员考试《行测》（A卷）第114题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2019-A卷-115",
@@ -2329,7 +2437,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年上海公务员考试《行测》（A卷）第115题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2019-A卷-116",
@@ -2364,7 +2474,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年上海公务员考试《行测》（A卷）第116题",
-    "province": "上海"
+    "province": "上海",
+    "isAbnormal": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2019-A卷-117",
@@ -2400,7 +2513,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年上海公务员考试《行测》（A卷）第117题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2019-A卷-118",
@@ -2434,7 +2549,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年上海公务员考试《行测》（A卷）第118题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2019-A卷-119",
@@ -2469,7 +2586,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年上海公务员考试《行测》（A卷）第119题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2019-A卷-120",
@@ -2505,42 +2624,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年上海公务员考试《行测》（A卷）第120题",
-    "province": "上海"
-  },
-  {
-    "id": "prov-shanghai-2019-A卷-121",
-    "category": "provincial",
-    "module": "ziliao",
-    "title": "资料·从材料可知， 以下说法不符合《深化党和国家机构改革方案》…",
-    "stem": "从材料可知， 以下说法不符合《深化党和国家机构改革方案》 内容的是 。",
-    "options": [
-      {
-        "key": "A",
-        "text": "国家监察委员会和中央党校同属于国家行政机关"
-      },
-      {
-        "key": "B",
-        "text": "人力资源和社会保障部下设国家公务员局"
-      },
-      {
-        "key": "C",
-        "text": "国家民族事务委员会归口中央统战部领导，属于党中央的组成机构"
-      },
-      {
-        "key": "D",
-        "text": "中央全面依法治国委员会是国务院决策议事协调机构"
-      }
-    ],
-    "answer": "ABCD",
-    "explanation": "本题考查政治常识。\nA 项错误，根据《监察法》第七条规定：“中华人民共和国国家监察委员会是最高监察机关。”故国家监察委员会是 最高国家监察机关，而非国家行政机关。材料中指出“组建新的中央党校(国家行政学院)，实行一个机构两块牌子， 作为党中央直属事业单位。”由此可见中央党校也不属于国家行政机关，而是党中央直属事业单位。\nB 项错误，材料中指出“将国家公务员局并入中央组织部。中央组织部对外保留国家公务员局牌子。”故国家公务员 局不属于人力资源和社会保障部下设的机构。\nC 项错误，材料中指出“将国家民族事务委员会归口中央统战部领导。国家民族事务委员会仍作为国务院组成部门。” 故国家民族事务委员会是国务院的组成部门，不属于党中央的组成机构。\nD 项错误，材料中指出“组建中央全面依法治国委员会，负责全面依法治国的顶层设计、总体布局、统筹协调、整体 推进、督促落实，作为党中央决策议事协调机构。”故中央全面依法治国委员会是党中央的决策议事协调机构，而 非国务院的决策议事协调机构。\n本题为选非题，故正确答案为 ABCD。",
-    "keyPoints": [
-      "本题考查政治常识",
-      "”故国家监察委员会是 最高国家监察机关，而非国家行政机关"
-    ],
-    "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
-    "difficulty": "中等",
-    "source": "2019年上海公务员考试《行测》（A卷）第121题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2019-A卷-122",
@@ -2575,7 +2661,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年上海公务员考试《行测》（A卷）第122题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2019-A卷-123",
@@ -2609,7 +2697,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年上海公务员考试《行测》（A卷）第123题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2019-A卷-124",
@@ -2644,7 +2734,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年上海公务员考试《行测》（A卷）第124题",
-    "province": "上海"
+    "province": "上海",
+    "isAbnormal": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2019-A卷-125",
@@ -2678,7 +2771,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年上海公务员考试《行测》（A卷）第125题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2019-A卷-126",
@@ -2713,7 +2808,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年上海公务员考试《行测》（A卷）第126题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2019-A卷-127",
@@ -2749,7 +2846,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年上海公务员考试《行测》（A卷）第127题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2019-A卷-128",
@@ -2783,7 +2882,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年上海公务员考试《行测》（A卷）第128题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2019-A卷-129",
@@ -2817,7 +2918,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年上海公务员考试《行测》（A卷）第129题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2019-A卷-130",
@@ -2851,7 +2954,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年上海公务员考试《行测》（A卷）第130题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2019-B卷-106",
@@ -2886,7 +2991,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年上海公务员考试《行测》（B卷）第106题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2019-B卷-107",
@@ -2921,7 +3028,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年上海公务员考试《行测》（B卷）第107题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2019-B卷-108",
@@ -2957,7 +3066,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年上海公务员考试《行测》（B卷）第108题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2019-B卷-109",
@@ -2991,7 +3102,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年上海公务员考试《行测》（B卷）第109题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2019-B卷-110",
@@ -3025,7 +3138,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年上海公务员考试《行测》（B卷）第110题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2019-B卷-111",
@@ -3060,7 +3175,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年上海公务员考试《行测》（B卷）第111题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2019-B卷-112",
@@ -3096,7 +3213,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年上海公务员考试《行测》（B卷）第112题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2019-B卷-113",
@@ -3132,7 +3251,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年上海公务员考试《行测》（B卷）第113题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2019-B卷-114",
@@ -3168,7 +3289,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年上海公务员考试《行测》（B卷）第114题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2019-B卷-115",
@@ -3203,7 +3326,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年上海公务员考试《行测》（B卷）第115题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2019-B卷-116",
@@ -3238,7 +3363,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年上海公务员考试《行测》（B卷）第116题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2019-B卷-117",
@@ -3273,7 +3400,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年上海公务员考试《行测》（B卷）第117题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2019-B卷-118",
@@ -3310,7 +3439,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年上海公务员考试《行测》（B卷）第118题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2019-B卷-119",
@@ -3346,7 +3477,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年上海公务员考试《行测》（B卷）第119题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2019-B卷-120",
@@ -3381,7 +3514,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年上海公务员考试《行测》（B卷）第120题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2019-B卷-121",
@@ -3416,7 +3551,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年上海公务员考试《行测》（B卷）第121题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2019-B卷-122",
@@ -3451,7 +3588,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年上海公务员考试《行测》（B卷）第122题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2019-B卷-123",
@@ -3486,7 +3625,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年上海公务员考试《行测》（B卷）第123题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2019-B卷-124",
@@ -3522,7 +3663,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年上海公务员考试《行测》（B卷）第124题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2019-B卷-125",
@@ -3557,7 +3700,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年上海公务员考试《行测》（B卷）第125题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2019-B卷-126",
@@ -3593,7 +3738,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年上海公务员考试《行测》（B卷）第126题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2019-B卷-127",
@@ -3629,7 +3776,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年上海公务员考试《行测》（B卷）第127题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2019-B卷-128",
@@ -3664,7 +3813,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年上海公务员考试《行测》（B卷）第128题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2019-B卷-129",
@@ -3700,7 +3851,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年上海公务员考试《行测》（B卷）第129题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2019-B卷-130",
@@ -3735,7 +3888,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年上海公务员考试《行测》（B卷）第130题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2020-A类-106",
@@ -3770,7 +3925,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年上海公务员考试《行测》（A类）第106题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2020-A类-107",
@@ -3804,7 +3961,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年上海公务员考试《行测》（A类）第107题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2020-A类-108",
@@ -3840,7 +3999,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年上海公务员考试《行测》（A类）第108题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2020-A类-109",
@@ -3875,7 +4036,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年上海公务员考试《行测》（A类）第109题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2020-A类-110",
@@ -3910,7 +4073,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年上海公务员考试《行测》（A类）第110题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2020-A类-111",
@@ -3946,7 +4111,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年上海公务员考试《行测》（A类）第111题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2020-A类-112",
@@ -3980,7 +4147,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年上海公务员考试《行测》（A类）第112题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2020-A类-113",
@@ -4015,7 +4184,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年上海公务员考试《行测》（A类）第113题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2020-A类-114",
@@ -4050,7 +4221,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年上海公务员考试《行测》（A类）第114题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2020-A类-115",
@@ -4084,7 +4257,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年上海公务员考试《行测》（A类）第115题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2020-A类-116",
@@ -4119,7 +4294,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年上海公务员考试《行测》（A类）第116题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2020-A类-117",
@@ -4154,7 +4331,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年上海公务员考试《行测》（A类）第117题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2020-A类-118",
@@ -4188,7 +4367,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年上海公务员考试《行测》（A类）第118题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2020-A类-119",
@@ -4223,7 +4404,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年上海公务员考试《行测》（A类）第119题",
-    "province": "上海"
+    "province": "上海",
+    "isAbnormal": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2020-A类-120",
@@ -4258,7 +4442,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年上海公务员考试《行测》（A类）第120题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2020-A类-121",
@@ -4293,7 +4479,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年上海公务员考试《行测》（A类）第121题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2020-A类-122",
@@ -4327,7 +4515,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年上海公务员考试《行测》（A类）第122题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2020-A类-123",
@@ -4361,7 +4551,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年上海公务员考试《行测》（A类）第123题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2020-A类-124",
@@ -4395,7 +4587,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年上海公务员考试《行测》（A类）第124题",
-    "province": "上海"
+    "province": "上海",
+    "isAbnormal": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2020-A类-125",
@@ -4430,7 +4625,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年上海公务员考试《行测》（A类）第125题",
-    "province": "上海"
+    "province": "上海",
+    "isAbnormal": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2020-A类-126",
@@ -4465,7 +4663,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年上海公务员考试《行测》（A类）第126题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2020-A类-127",
@@ -4500,7 +4700,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年上海公务员考试《行测》（A类）第127题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2020-A类-128",
@@ -4534,7 +4736,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年上海公务员考试《行测》（A类）第128题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2020-A类-129",
@@ -4569,7 +4773,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年上海公务员考试《行测》（A类）第129题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2020-A类-130",
@@ -4603,7 +4809,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年上海公务员考试《行测》（A类）第130题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2020-B类-106",
@@ -4638,7 +4846,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年上海公务员考试《行测》（B类）第106题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2020-B类-107",
@@ -4672,7 +4882,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年上海公务员考试《行测》（B类）第107题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2020-B类-108",
@@ -4706,7 +4918,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年上海公务员考试《行测》（B类）第108题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2020-B类-109",
@@ -4741,7 +4955,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年上海公务员考试《行测》（B类）第109题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2020-B类-110",
@@ -4776,7 +4992,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年上海公务员考试《行测》（B类）第110题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2020-B类-111",
@@ -4811,7 +5029,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年上海公务员考试《行测》（B类）第111题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2020-B类-112",
@@ -4845,7 +5065,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年上海公务员考试《行测》（B类）第112题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2020-B类-113",
@@ -4881,7 +5103,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年上海公务员考试《行测》（B类）第113题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2020-B类-114",
@@ -4916,7 +5140,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年上海公务员考试《行测》（B类）第114题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2020-B类-115",
@@ -4950,7 +5176,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年上海公务员考试《行测》（B类）第115题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2020-B类-116",
@@ -4985,7 +5213,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年上海公务员考试《行测》（B类）第116题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2020-B类-117",
@@ -5020,7 +5250,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年上海公务员考试《行测》（B类）第117题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2020-B类-118",
@@ -5054,7 +5286,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年上海公务员考试《行测》（B类）第118题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2020-B类-119",
@@ -5089,7 +5323,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年上海公务员考试《行测》（B类）第119题",
-    "province": "上海"
+    "province": "上海",
+    "isAbnormal": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2020-B类-120",
@@ -5124,7 +5361,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年上海公务员考试《行测》（B类）第120题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2020-B类-121",
@@ -5159,7 +5398,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年上海公务员考试《行测》（B类）第121题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2020-B类-122",
@@ -5193,7 +5434,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年上海公务员考试《行测》（B类）第122题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2020-B类-123",
@@ -5228,7 +5471,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年上海公务员考试《行测》（B类）第123题",
-    "province": "上海"
+    "province": "上海",
+    "isAbnormal": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2020-B类-124",
@@ -5262,7 +5508,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年上海公务员考试《行测》（B类）第124题",
-    "province": "上海"
+    "province": "上海",
+    "isAbnormal": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2020-B类-125",
@@ -5297,7 +5546,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年上海公务员考试《行测》（B类）第125题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2020-B类-126",
@@ -5332,7 +5583,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年上海公务员考试《行测》（B类）第126题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2020-B类-127",
@@ -5367,7 +5620,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年上海公务员考试《行测》（B类）第127题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2020-B类-128",
@@ -5401,7 +5656,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年上海公务员考试《行测》（B类）第128题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2020-B类-129",
@@ -5436,7 +5693,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年上海公务员考试《行测》（B类）第129题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2020-B类-130",
@@ -5470,7 +5729,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年上海公务员考试《行测》（B类）第130题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2021-B卷-106",
@@ -5506,7 +5767,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年上海公务员考试《行测》（B卷）第106题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2021-B卷-107",
@@ -5543,7 +5806,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年上海公务员考试《行测》（B卷）第107题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2021-B卷-108",
@@ -5580,7 +5845,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年上海公务员考试《行测》（B卷）第108题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "综合材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2021-B卷-109",
@@ -5617,7 +5884,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年上海公务员考试《行测》（B卷）第109题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "综合材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2021-B卷-110",
@@ -5654,7 +5923,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年上海公务员考试《行测》（B卷）第110题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2021-B卷-111",
@@ -5691,7 +5962,9 @@
     "difficulty": "中等",
     "source": "2021年上海公务员考试《行测》（B卷）第111题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "综合材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2021-B卷-112",
@@ -5728,7 +6001,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年上海公务员考试《行测》（B卷）第112题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "综合材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2021-B卷-113",
@@ -5764,7 +6039,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年上海公务员考试《行测》（B卷）第113题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2021-B卷-114",
@@ -5801,7 +6078,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年上海公务员考试《行测》（B卷）第114题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "综合材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2021-B卷-115",
@@ -5838,7 +6117,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年上海公务员考试《行测》（B卷）第115题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2021-B卷-116",
@@ -5871,7 +6152,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年上海公务员考试《行测》（B卷）第116题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "综合材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2021-B卷-117",
@@ -5904,7 +6187,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年上海公务员考试《行测》（B卷）第117题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2021-B卷-118",
@@ -5937,7 +6222,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年上海公务员考试《行测》（B卷）第118题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2021-B卷-119",
@@ -5953,7 +6240,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2021年上海公务员考试《行测》（B卷）第119题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2021-B卷-120",
@@ -5969,7 +6258,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2021年上海公务员考试《行测》（B卷）第120题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2021-B卷-121",
@@ -5985,7 +6276,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2021年上海公务员考试《行测》（B卷）第121题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2021-B卷-122",
@@ -6001,7 +6294,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2021年上海公务员考试《行测》（B卷）第122题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2021-B卷-123",
@@ -6017,7 +6312,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2021年上海公务员考试《行测》（B卷）第123题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2021-B卷-124",
@@ -6033,7 +6330,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2021年上海公务员考试《行测》（B卷）第124题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2021-B卷-125",
@@ -6049,7 +6348,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2021年上海公务员考试《行测》（B卷）第125题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "综合材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2021-B卷-126",
@@ -6065,7 +6366,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2021年上海公务员考试《行测》（B卷）第126题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2021-B卷-127",
@@ -6098,7 +6401,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年上海公务员考试《行测》（B卷）第127题",
-    "province": "上海"
+    "province": "上海",
+    "isAbnormal": true,
+    "subModule": "综合材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2021-B卷-128",
@@ -6134,7 +6440,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年上海公务员考试《行测》（B卷）第128题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "综合材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2021-B卷-129",
@@ -6170,7 +6478,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年上海公务员考试《行测》（B卷）第129题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "综合材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2021-B卷-130",
@@ -6206,7 +6516,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年上海公务员考试《行测》（B卷）第130题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "综合材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2022-B类-106",
@@ -6240,7 +6552,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2022年上海公务员考试《行测》（B类）第106题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2022-B类-107",
@@ -6275,7 +6589,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2022年上海公务员考试《行测》（B类）第107题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2022-B类-108",
@@ -6309,7 +6625,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2022年上海公务员考试《行测》（B类）第108题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2022-B类-109",
@@ -6344,7 +6662,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2022年上海公务员考试《行测》（B类）第109题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2022-B类-110",
@@ -6381,7 +6701,9 @@
     "difficulty": "中等",
     "source": "2022年上海公务员考试《行测》（B类）第110题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "图形材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2022-B类-111",
@@ -6417,7 +6739,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2022年上海公务员考试《行测》（B类）第111题",
-    "province": "上海"
+    "province": "上海",
+    "isAbnormal": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2022-B类-112",
@@ -6452,7 +6777,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2022年上海公务员考试《行测》（B类）第112题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2022-B类-113",
@@ -6486,7 +6813,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2022年上海公务员考试《行测》（B类）第113题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2022-B类-114",
@@ -6521,7 +6850,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2022年上海公务员考试《行测》（B类）第114题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2022-B类-115",
@@ -6557,7 +6888,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2022年上海公务员考试《行测》（B类）第115题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2022-B类-116",
@@ -6593,7 +6926,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2022年上海公务员考试《行测》（B类）第116题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2022-B类-117",
@@ -6630,7 +6965,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2022年上海公务员考试《行测》（B类）第117题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2022-B类-118",
@@ -6665,7 +7002,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2022年上海公务员考试《行测》（B类）第118题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2022-B类-119",
@@ -6701,7 +7040,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2022年上海公务员考试《行测》（B类）第119题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2022-B类-120",
@@ -6737,7 +7078,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2022年上海公务员考试《行测》（B类）第120题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "综合材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2022-B类-121",
@@ -6773,7 +7116,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2022年上海公务员考试《行测》（B类）第121题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2022-B类-122",
@@ -6809,7 +7154,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2022年上海公务员考试《行测》（B类）第122题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2022-B类-123",
@@ -6845,7 +7192,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2022年上海公务员考试《行测》（B类）第123题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2022-B类-124",
@@ -6880,6 +7229,8 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2022年上海公务员考试《行测》（B类）第124题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   }
 ]

@@ -32,7 +32,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2008年河北公务员考试《行测》第116题",
-    "province": "河北"
+    "province": "河北",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hebei-2008-未标注-117",
@@ -67,7 +69,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2008年河北公务员考试《行测》第117题",
-    "province": "河北"
+    "province": "河北",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hebei-2008-未标注-118",
@@ -103,7 +107,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2008年河北公务员考试《行测》第118题",
-    "province": "河北"
+    "province": "河北",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hebei-2008-未标注-119",
@@ -139,7 +145,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2008年河北公务员考试《行测》第119题",
-    "province": "河北"
+    "province": "河北",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hebei-2008-未标注-120",
@@ -175,7 +183,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2008年河北公务员考试《行测》第120题",
-    "province": "河北"
+    "province": "河北",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hebei-2008-未标注-121",
@@ -210,7 +220,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2008年河北公务员考试《行测》第121题",
-    "province": "河北"
+    "province": "河北",
+    "isAbnormal": true,
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hebei-2008-未标注-122",
@@ -246,7 +259,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2008年河北公务员考试《行测》第122题",
-    "province": "河北"
+    "province": "河北",
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hebei-2008-未标注-123",
@@ -281,7 +296,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2008年河北公务员考试《行测》第123题",
-    "province": "河北"
+    "province": "河北",
+    "isAbnormal": true,
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hebei-2008-未标注-124",
@@ -316,7 +334,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2008年河北公务员考试《行测》第124题",
-    "province": "河北"
+    "province": "河北",
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hebei-2008-未标注-125",
@@ -351,7 +371,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2008年河北公务员考试《行测》第125题",
-    "province": "河北"
+    "province": "河北",
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hebei-2008-未标注-126",
@@ -387,7 +409,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2008年河北公务员考试《行测》第126题",
-    "province": "河北"
+    "province": "河北",
+    "isAbnormal": true,
+    "subModule": "图形材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hebei-2008-未标注-127",
@@ -422,7 +447,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2008年河北公务员考试《行测》第127题",
-    "province": "河北"
+    "province": "河北",
+    "isAbnormal": true,
+    "subModule": "图形材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hebei-2008-未标注-128",
@@ -457,7 +485,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2008年河北公务员考试《行测》第128题",
-    "province": "河北"
+    "province": "河北",
+    "isAbnormal": true,
+    "subModule": "图形材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hebei-2008-未标注-129",
@@ -492,7 +523,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2008年河北公务员考试《行测》第129题",
-    "province": "河北"
+    "province": "河北",
+    "isAbnormal": true,
+    "subModule": "图形材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hebei-2008-未标注-130",
@@ -528,7 +562,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2008年河北公务员考试《行测》第130题",
-    "province": "河北"
+    "province": "河北",
+    "isAbnormal": true,
+    "subModule": "图形材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hebei-2009-未标注-121",
@@ -563,7 +600,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年河北公务员考试《行测》第121题",
-    "province": "河北"
+    "province": "河北",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hebei-2009-未标注-122",
@@ -600,7 +639,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年河北公务员考试《行测》第122题",
-    "province": "河北"
+    "province": "河北",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hebei-2009-未标注-123",
@@ -635,7 +676,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年河北公务员考试《行测》第123题",
-    "province": "河北"
+    "province": "河北",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hebei-2009-未标注-124",
@@ -671,7 +714,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年河北公务员考试《行测》第124题",
-    "province": "河北"
+    "province": "河北",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hebei-2009-未标注-125",
@@ -707,7 +752,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年河北公务员考试《行测》第125题",
-    "province": "河北"
+    "province": "河北",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hebei-2009-未标注-126",
@@ -744,7 +791,9 @@
     "difficulty": "中等",
     "source": "2009年河北公务员考试《行测》第126题",
     "isImageQuestion": true,
-    "province": "河北"
+    "province": "河北",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hebei-2009-未标注-127",
@@ -778,7 +827,9 @@
     "difficulty": "中等",
     "source": "2009年河北公务员考试《行测》第127题",
     "isImageQuestion": true,
-    "province": "河北"
+    "province": "河北",
+    "subModule": "图形材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hebei-2009-未标注-128",
@@ -812,7 +863,9 @@
     "difficulty": "中等",
     "source": "2009年河北公务员考试《行测》第128题",
     "isImageQuestion": true,
-    "province": "河北"
+    "province": "河北",
+    "subModule": "图形材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hebei-2009-未标注-129",
@@ -850,7 +903,9 @@
     "difficulty": "中等",
     "source": "2009年河北公务员考试《行测》第129题",
     "isImageQuestion": true,
-    "province": "河北"
+    "province": "河北",
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hebei-2009-未标注-130",
@@ -884,7 +939,9 @@
     "difficulty": "中等",
     "source": "2009年河北公务员考试《行测》第130题",
     "isImageQuestion": true,
-    "province": "河北"
+    "province": "河北",
+    "subModule": "图形材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hebei-2009-未标注-131",
@@ -919,7 +976,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年河北公务员考试《行测》第131题",
-    "province": "河北"
+    "province": "河北",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hebei-2009-未标注-132",
@@ -955,7 +1014,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年河北公务员考试《行测》第132题",
-    "province": "河北"
+    "province": "河北",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hebei-2009-未标注-133",
@@ -990,7 +1051,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年河北公务员考试《行测》第133题",
-    "province": "河北"
+    "province": "河北",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hebei-2009-未标注-134",
@@ -1026,7 +1089,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年河北公务员考试《行测》第134题",
-    "province": "河北"
+    "province": "河北",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hebei-2009-未标注-135",
@@ -1061,7 +1126,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年河北公务员考试《行测》第135题",
-    "province": "河北"
+    "province": "河北",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hebei-2009-未标注-136",
@@ -1097,7 +1164,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年河北公务员考试《行测》第136题",
-    "province": "河北"
+    "province": "河北",
+    "subModule": "图形材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hebei-2009-未标注-137",
@@ -1130,7 +1199,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年河北公务员考试《行测》第137题",
-    "province": "河北"
+    "province": "河北",
+    "subModule": "图形材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hebei-2009-未标注-138",
@@ -1163,7 +1234,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年河北公务员考试《行测》第138题",
-    "province": "河北"
+    "province": "河北",
+    "subModule": "图形材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hebei-2009-未标注-139",
@@ -1198,7 +1271,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年河北公务员考试《行测》第139题",
-    "province": "河北"
+    "province": "河北",
+    "subModule": "图形材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hebei-2009-未标注-140",
@@ -1233,7 +1308,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年河北公务员考试《行测》第140题",
-    "province": "河北"
+    "province": "河北",
+    "subModule": "图形材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hebei-2011-未标注-89",
@@ -1269,7 +1346,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年河北公务员考试《行测》第89题",
-    "province": "河北"
+    "province": "河北",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hebei-2011-未标注-90",
@@ -1305,7 +1384,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年河北公务员考试《行测》第90题",
-    "province": "河北"
+    "province": "河北",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hebei-2011-未标注-91",
@@ -1342,7 +1423,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年河北公务员考试《行测》第91题",
-    "province": "河北"
+    "province": "河北",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hebei-2011-未标注-92",
@@ -1378,7 +1461,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年河北公务员考试《行测》第92题",
-    "province": "河北"
+    "province": "河北",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hebei-2011-未标注-93",
@@ -1414,7 +1499,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年河北公务员考试《行测》第93题",
-    "province": "河北"
+    "province": "河北",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hebei-2011-未标注-94",
@@ -1450,7 +1537,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年河北公务员考试《行测》第94题",
-    "province": "河北"
+    "province": "河北",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hebei-2011-未标注-95",
@@ -1486,7 +1575,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年河北公务员考试《行测》第95题",
-    "province": "河北"
+    "province": "河北",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hebei-2011-未标注-96",
@@ -1523,7 +1614,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年河北公务员考试《行测》第96题",
-    "province": "河北"
+    "province": "河北",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hebei-2011-未标注-97",
@@ -1559,7 +1652,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年河北公务员考试《行测》第97题",
-    "province": "河北"
+    "province": "河北",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hebei-2011-未标注-98",
@@ -1595,7 +1690,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年河北公务员考试《行测》第98题",
-    "province": "河北"
+    "province": "河北",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hebei-2011-未标注-99",
@@ -1631,7 +1728,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年河北公务员考试《行测》第99题",
-    "province": "河北"
+    "province": "河北",
+    "isAbnormal": true,
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hebei-2011-未标注-100",
@@ -1667,7 +1767,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年河北公务员考试《行测》第100题",
-    "province": "河北"
+    "province": "河北",
+    "isAbnormal": true,
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hebei-2011-未标注-101",
@@ -1704,7 +1807,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年河北公务员考试《行测》第101题",
-    "province": "河北"
+    "province": "河北",
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hebei-2011-未标注-102",
@@ -1740,7 +1845,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年河北公务员考试《行测》第102题",
-    "province": "河北"
+    "province": "河北",
+    "isAbnormal": true,
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hebei-2011-未标注-103",
@@ -1776,7 +1884,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年河北公务员考试《行测》第103题",
-    "province": "河北"
+    "province": "河北",
+    "isAbnormal": true,
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hebei-2012-未标注-86",
@@ -1812,7 +1923,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年河北公务员考试《行测》第86题",
-    "province": "河北"
+    "province": "河北",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hebei-2012-未标注-87",
@@ -1847,7 +1960,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年河北公务员考试《行测》第87题",
-    "province": "河北"
+    "province": "河北",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hebei-2012-未标注-88",
@@ -1882,7 +1997,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年河北公务员考试《行测》第88题",
-    "province": "河北"
+    "province": "河北",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hebei-2012-未标注-89",
@@ -1917,7 +2034,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年河北公务员考试《行测》第89题",
-    "province": "河北"
+    "province": "河北",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hebei-2012-未标注-90",
@@ -1953,7 +2072,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年河北公务员考试《行测》第90题",
-    "province": "河北"
+    "province": "河北",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hebei-2012-未标注-91",
@@ -1990,7 +2111,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年河北公务员考试《行测》第91题",
-    "province": "河北"
+    "province": "河北",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hebei-2012-未标注-92",
@@ -2026,7 +2149,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年河北公务员考试《行测》第92题",
-    "province": "河北"
+    "province": "河北",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hebei-2012-未标注-93",
@@ -2063,7 +2188,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年河北公务员考试《行测》第93题",
-    "province": "河北"
+    "province": "河北",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hebei-2012-未标注-94",
@@ -2100,7 +2227,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年河北公务员考试《行测》第94题",
-    "province": "河北"
+    "province": "河北",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hebei-2012-未标注-95",
@@ -2135,7 +2264,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年河北公务员考试《行测》第95题",
-    "province": "河北"
+    "province": "河北",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hebei-2012-未标注-96",
@@ -2172,7 +2303,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年河北公务员考试《行测》第96题",
-    "province": "河北"
+    "province": "河北",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hebei-2012-未标注-97",
@@ -2207,7 +2340,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年河北公务员考试《行测》第97题",
-    "province": "河北"
+    "province": "河北",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hebei-2012-未标注-98",
@@ -2242,7 +2377,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年河北公务员考试《行测》第98题",
-    "province": "河北"
+    "province": "河北",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hebei-2012-未标注-99",
@@ -2277,7 +2414,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年河北公务员考试《行测》第99题",
-    "province": "河北"
+    "province": "河北",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hebei-2012-未标注-100",
@@ -2312,7 +2451,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年河北公务员考试《行测》第100题",
-    "province": "河北"
+    "province": "河北",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hebei-2013-未标注-86",
@@ -2347,7 +2488,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年河北公务员考试《行测》第86题",
-    "province": "河北"
+    "province": "河北",
+    "isAbnormal": true,
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hebei-2013-未标注-87",
@@ -2383,7 +2527,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年河北公务员考试《行测》第87题",
-    "province": "河北"
+    "province": "河北",
+    "isAbnormal": true,
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hebei-2013-未标注-88",
@@ -2418,7 +2565,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年河北公务员考试《行测》第88题",
-    "province": "河北"
+    "province": "河北",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hebei-2013-未标注-89",
@@ -2455,7 +2604,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年河北公务员考试《行测》第89题",
-    "province": "河北"
+    "province": "河北",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hebei-2013-未标注-90",
@@ -2490,7 +2641,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年河北公务员考试《行测》第90题",
-    "province": "河北"
+    "province": "河北",
+    "isAbnormal": true,
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hebei-2013-未标注-91",
@@ -2527,7 +2681,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年河北公务员考试《行测》第91题",
-    "province": "河北"
+    "province": "河北",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hebei-2013-未标注-92",
@@ -2562,7 +2718,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年河北公务员考试《行测》第92题",
-    "province": "河北"
+    "province": "河北",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hebei-2013-未标注-93",
@@ -2598,7 +2756,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年河北公务员考试《行测》第93题",
-    "province": "河北"
+    "province": "河北",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hebei-2013-未标注-94",
@@ -2633,7 +2793,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年河北公务员考试《行测》第94题",
-    "province": "河北"
+    "province": "河北",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hebei-2013-未标注-95",
@@ -2670,7 +2832,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年河北公务员考试《行测》第95题",
-    "province": "河北"
+    "province": "河北",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hebei-2013-未标注-96",
@@ -2707,7 +2871,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年河北公务员考试《行测》第96题",
-    "province": "河北"
+    "province": "河北",
+    "subModule": "综合材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-hebei-2013-未标注-97",
@@ -2744,7 +2910,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年河北公务员考试《行测》第97题",
-    "province": "河北"
+    "province": "河北",
+    "subModule": "综合材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-hebei-2013-未标注-98",
@@ -2781,7 +2949,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年河北公务员考试《行测》第98题",
-    "province": "河北"
+    "province": "河北",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hebei-2013-未标注-99",
@@ -2816,7 +2986,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年河北公务员考试《行测》第99题",
-    "province": "河北"
+    "province": "河北",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hebei-2013-未标注-100",
@@ -2853,7 +3025,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年河北公务员考试《行测》第100题",
-    "province": "河北"
+    "province": "河北",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hebei-2014-未标注-91",
@@ -2889,7 +3063,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年河北公务员考试《行测》第91题",
-    "province": "河北"
+    "province": "河北",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hebei-2014-未标注-92",
@@ -2926,7 +3102,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年河北公务员考试《行测》第92题",
-    "province": "河北"
+    "province": "河北",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hebei-2014-未标注-93",
@@ -2962,7 +3140,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年河北公务员考试《行测》第93题",
-    "province": "河北"
+    "province": "河北",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hebei-2014-未标注-94",
@@ -2999,7 +3179,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年河北公务员考试《行测》第94题",
-    "province": "河北"
+    "province": "河北",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hebei-2014-未标注-95",
@@ -3035,7 +3217,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年河北公务员考试《行测》第95题",
-    "province": "河北"
+    "province": "河北",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hebei-2014-未标注-96",
@@ -3071,7 +3255,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年河北公务员考试《行测》第96题",
-    "province": "河北"
+    "province": "河北",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hebei-2014-未标注-97",
@@ -3107,7 +3293,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年河北公务员考试《行测》第97题",
-    "province": "河北"
+    "province": "河北",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hebei-2014-未标注-98",
@@ -3143,7 +3331,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年河北公务员考试《行测》第98题",
-    "province": "河北"
+    "province": "河北",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hebei-2014-未标注-99",
@@ -3178,7 +3368,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年河北公务员考试《行测》第99题",
-    "province": "河北"
+    "province": "河北",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hebei-2014-未标注-100",
@@ -3215,7 +3407,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年河北公务员考试《行测》第100题",
-    "province": "河北"
+    "province": "河北",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hebei-2014-未标注-101",
@@ -3252,7 +3446,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年河北公务员考试《行测》第101题",
-    "province": "河北"
+    "province": "河北",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hebei-2014-未标注-102",
@@ -3288,7 +3484,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年河北公务员考试《行测》第102题",
-    "province": "河北"
+    "province": "河北",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hebei-2014-未标注-103",
@@ -3324,7 +3522,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年河北公务员考试《行测》第103题",
-    "province": "河北"
+    "province": "河北",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hebei-2014-未标注-104",
@@ -3359,7 +3559,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年河北公务员考试《行测》第104题",
-    "province": "河北"
+    "province": "河北",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hebei-2014-未标注-105",
@@ -3395,7 +3597,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年河北公务员考试《行测》第105题",
-    "province": "河北"
+    "province": "河北",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hebei-2015-未标注-110",
@@ -3431,7 +3635,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年河北公务员考试《行测》第110题",
-    "province": "河北"
+    "province": "河北",
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hebei-2015-未标注-111",
@@ -3467,7 +3673,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年河北公务员考试《行测》第111题",
-    "province": "河北"
+    "province": "河北",
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hebei-2015-未标注-112",
@@ -3503,7 +3711,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年河北公务员考试《行测》第112题",
-    "province": "河北"
+    "province": "河北",
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hebei-2015-未标注-113",
@@ -3538,7 +3748,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年河北公务员考试《行测》第113题",
-    "province": "河北"
+    "province": "河北",
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hebei-2015-未标注-114",
@@ -3573,7 +3785,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年河北公务员考试《行测》第114题",
-    "province": "河北"
+    "province": "河北",
+    "isAbnormal": true,
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hebei-2015-未标注-115",
@@ -3609,7 +3824,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年河北公务员考试《行测》第115题",
-    "province": "河北"
+    "province": "河北",
+    "isAbnormal": true,
+    "subModule": "图形材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-hebei-2015-未标注-116",
@@ -3645,7 +3863,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年河北公务员考试《行测》第116题",
-    "province": "河北"
+    "province": "河北",
+    "isAbnormal": true,
+    "subModule": "图形材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hebei-2015-未标注-117",
@@ -3680,7 +3901,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年河北公务员考试《行测》第117题",
-    "province": "河北"
+    "province": "河北",
+    "isAbnormal": true,
+    "subModule": "综合材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-hebei-2015-未标注-118",
@@ -3716,7 +3940,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年河北公务员考试《行测》第118题",
-    "province": "河北"
+    "province": "河北",
+    "isAbnormal": true,
+    "subModule": "综合材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-hebei-2015-未标注-119",
@@ -3751,7 +3978,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年河北公务员考试《行测》第119题",
-    "province": "河北"
+    "province": "河北",
+    "isAbnormal": true,
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hebei-2015-未标注-120",
@@ -3787,7 +4017,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年河北公务员考试《行测》第120题",
-    "province": "河北"
+    "province": "河北",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hebei-2015-未标注-121",
@@ -3823,7 +4055,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年河北公务员考试《行测》第121题",
-    "province": "河北"
+    "province": "河北",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hebei-2015-未标注-122",
@@ -3858,7 +4092,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年河北公务员考试《行测》第122题",
-    "province": "河北"
+    "province": "河北",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hebei-2015-未标注-123",
@@ -3894,7 +4130,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年河北公务员考试《行测》第123题",
-    "province": "河北"
+    "province": "河北",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hebei-2015-未标注-124",
@@ -3927,7 +4165,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年河北公务员考试《行测》第124题",
-    "province": "河北"
+    "province": "河北",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hebei-2016-423联考-91",
@@ -3964,7 +4204,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年河北公务员考试《行测》（423联考）第91题",
-    "province": "河北"
+    "province": "河北",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hebei-2016-423联考-92",
@@ -3999,7 +4241,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年河北公务员考试《行测》（423联考）第92题",
-    "province": "河北"
+    "province": "河北",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hebei-2016-423联考-93",
@@ -4034,7 +4278,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年河北公务员考试《行测》（423联考）第93题",
-    "province": "河北"
+    "province": "河北",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hebei-2016-423联考-94",
@@ -4069,7 +4315,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年河北公务员考试《行测》（423联考）第94题",
-    "province": "河北"
+    "province": "河北",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hebei-2016-423联考-95",
@@ -4104,7 +4352,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年河北公务员考试《行测》（423联考）第95题",
-    "province": "河北"
+    "province": "河北",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hebei-2016-423联考-96",
@@ -4139,7 +4389,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年河北公务员考试《行测》（423联考）第96题",
-    "province": "河北"
+    "province": "河北",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hebei-2016-423联考-97",
@@ -4176,7 +4428,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年河北公务员考试《行测》（423联考）第97题",
-    "province": "河北"
+    "province": "河北",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hebei-2016-423联考-98",
@@ -4211,7 +4465,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年河北公务员考试《行测》（423联考）第98题",
-    "province": "河北"
+    "province": "河北",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hebei-2016-423联考-99",
@@ -4246,7 +4502,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年河北公务员考试《行测》（423联考）第99题",
-    "province": "河北"
+    "province": "河北",
+    "subModule": "图形材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hebei-2016-423联考-100",
@@ -4281,7 +4539,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年河北公务员考试《行测》（423联考）第100题",
-    "province": "河北"
+    "province": "河北",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hebei-2016-423联考-101",
@@ -4317,7 +4577,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年河北公务员考试《行测》（423联考）第101题",
-    "province": "河北"
+    "province": "河北",
+    "subModule": "综合材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-hebei-2016-423联考-102",
@@ -4350,7 +4612,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年河北公务员考试《行测》（423联考）第102题",
-    "province": "河北"
+    "province": "河北",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hebei-2016-423联考-103",
@@ -4386,7 +4650,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年河北公务员考试《行测》（423联考）第103题",
-    "province": "河北"
+    "province": "河北",
+    "subModule": "综合材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-hebei-2016-423联考-104",
@@ -4419,7 +4685,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年河北公务员考试《行测》（423联考）第104题",
-    "province": "河北"
+    "province": "河北",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hebei-2016-423联考-105",
@@ -4455,7 +4723,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年河北公务员考试《行测》（423联考）第105题",
-    "province": "河北"
+    "province": "河北",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hebei-2016-423联考-106",
@@ -4490,7 +4760,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年河北公务员考试《行测》（423联考）第106题",
-    "province": "河北"
+    "province": "河北",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hebei-2016-423联考-107",
@@ -4525,7 +4797,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年河北公务员考试《行测》（423联考）第107题",
-    "province": "河北"
+    "province": "河北",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hebei-2016-423联考-108",
@@ -4561,7 +4835,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年河北公务员考试《行测》（423联考）第108题",
-    "province": "河北"
+    "province": "河北",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hebei-2016-423联考-109",
@@ -4597,7 +4873,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年河北公务员考试《行测》（423联考）第109题",
-    "province": "河北"
+    "province": "河北",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hebei-2016-423联考-110",
@@ -4633,7 +4911,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年河北公务员考试《行测》（423联考）第110题",
-    "province": "河北"
+    "province": "河北",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hebei-2017-422联考-91",
@@ -4668,7 +4948,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年河北公务员考试《行测》（422联考）第91题",
-    "province": "河北"
+    "province": "河北",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hebei-2017-422联考-92",
@@ -4703,7 +4985,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年河北公务员考试《行测》（422联考）第92题",
-    "province": "河北"
+    "province": "河北",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hebei-2017-422联考-93",
@@ -4739,7 +5023,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年河北公务员考试《行测》（422联考）第93题",
-    "province": "河北"
+    "province": "河北",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hebei-2017-422联考-94",
@@ -4775,7 +5061,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年河北公务员考试《行测》（422联考）第94题",
-    "province": "河北"
+    "province": "河北",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hebei-2017-422联考-95",
@@ -4812,7 +5100,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年河北公务员考试《行测》（422联考）第95题",
-    "province": "河北"
+    "province": "河北",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hebei-2017-422联考-96",
@@ -4847,7 +5137,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年河北公务员考试《行测》（422联考）第96题",
-    "province": "河北"
+    "province": "河北",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hebei-2017-422联考-97",
@@ -4880,7 +5172,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年河北公务员考试《行测》（422联考）第97题",
-    "province": "河北"
+    "province": "河北",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hebei-2017-422联考-98",
@@ -4915,7 +5209,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年河北公务员考试《行测》（422联考）第98题",
-    "province": "河北"
+    "province": "河北",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hebei-2017-422联考-99",
@@ -4950,7 +5246,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年河北公务员考试《行测》（422联考）第99题",
-    "province": "河北"
+    "province": "河北",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hebei-2017-422联考-100",
@@ -4983,7 +5281,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年河北公务员考试《行测》（422联考）第100题",
-    "province": "河北"
+    "province": "河北",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hebei-2017-422联考-101",
@@ -5018,7 +5318,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年河北公务员考试《行测》（422联考）第101题",
-    "province": "河北"
+    "province": "河北",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hebei-2017-422联考-102",
@@ -5051,7 +5353,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年河北公务员考试《行测》（422联考）第102题",
-    "province": "河北"
+    "province": "河北",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hebei-2017-422联考-103",
@@ -5087,7 +5391,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年河北公务员考试《行测》（422联考）第103题",
-    "province": "河北"
+    "province": "河北",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hebei-2017-422联考-104",
@@ -5106,7 +5412,10 @@
     "difficulty": "中等",
     "source": "2017年河北公务员考试《行测》（422联考）第104题",
     "isImageQuestion": true,
-    "province": "河北"
+    "province": "河北",
+    "isAbnormal": true,
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hebei-2017-422联考-105",
@@ -5142,7 +5451,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年河北公务员考试《行测》（422联考）第105题",
-    "province": "河北"
+    "province": "河北",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hebei-2017-422联考-106",
@@ -5178,7 +5489,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年河北公务员考试《行测》（422联考）第106题",
-    "province": "河北"
+    "province": "河北",
+    "isAbnormal": true,
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hebei-2017-422联考-107",
@@ -5215,7 +5529,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年河北公务员考试《行测》（422联考）第107题",
-    "province": "河北"
+    "province": "河北",
+    "isAbnormal": true,
+    "subModule": "综合材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-hebei-2017-422联考-108",
@@ -5251,7 +5568,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年河北公务员考试《行测》（422联考）第108题",
-    "province": "河北"
+    "province": "河北",
+    "subModule": "综合材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-hebei-2017-422联考-109",
@@ -5288,7 +5607,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年河北公务员考试《行测》（422联考）第109题",
-    "province": "河北"
+    "province": "河北",
+    "isAbnormal": true,
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hebei-2017-422联考-110",
@@ -5325,7 +5647,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年河北公务员考试《行测》（422联考）第110题",
-    "province": "河北"
+    "province": "河北",
+    "isAbnormal": true,
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hebei-2018-421联考-111",
@@ -5358,7 +5683,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年河北公务员考试《行测》（421联考）第111题",
-    "province": "河北"
+    "province": "河北",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hebei-2018-421联考-112",
@@ -5393,7 +5720,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年河北公务员考试《行测》（421联考）第112题",
-    "province": "河北"
+    "province": "河北",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hebei-2018-421联考-113",
@@ -5428,7 +5757,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年河北公务员考试《行测》（421联考）第113题",
-    "province": "河北"
+    "province": "河北",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hebei-2018-421联考-114",
@@ -5461,7 +5792,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年河北公务员考试《行测》（421联考）第114题",
-    "province": "河北"
+    "province": "河北",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hebei-2018-421联考-115",
@@ -5494,7 +5827,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年河北公务员考试《行测》（421联考）第115题",
-    "province": "河北"
+    "province": "河北",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hebei-2018-421联考-116",
@@ -5529,7 +5864,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年河北公务员考试《行测》（421联考）第116题",
-    "province": "河北"
+    "province": "河北",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hebei-2018-421联考-117",
@@ -5564,7 +5901,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年河北公务员考试《行测》（421联考）第117题",
-    "province": "河北"
+    "province": "河北",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hebei-2018-421联考-118",
@@ -5599,7 +5938,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年河北公务员考试《行测》（421联考）第118题",
-    "province": "河北"
+    "province": "河北",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hebei-2018-421联考-119",
@@ -5635,7 +5976,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年河北公务员考试《行测》（421联考）第119题",
-    "province": "河北"
+    "province": "河北",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hebei-2018-421联考-120",
@@ -5670,7 +6013,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年河北公务员考试《行测》（421联考）第120题",
-    "province": "河北"
+    "province": "河北",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hebei-2018-421联考-121",
@@ -5706,7 +6051,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年河北公务员考试《行测》（421联考）第121题",
-    "province": "河北"
+    "province": "河北",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hebei-2018-421联考-122",
@@ -5741,7 +6088,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年河北公务员考试《行测》（421联考）第122题",
-    "province": "河北"
+    "province": "河北",
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hebei-2018-421联考-123",
@@ -5776,7 +6125,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年河北公务员考试《行测》（421联考）第123题",
-    "province": "河北"
+    "province": "河北",
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hebei-2018-421联考-124",
@@ -5812,7 +6163,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年河北公务员考试《行测》（421联考）第124题",
-    "province": "河北"
+    "province": "河北",
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hebei-2018-421联考-125",
@@ -5847,7 +6200,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年河北公务员考试《行测》（421联考）第125题",
-    "province": "河北"
+    "province": "河北",
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hebei-2018-421联考-126",
@@ -5882,7 +6237,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年河北公务员考试《行测》（421联考）第126题",
-    "province": "河北"
+    "province": "河北",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hebei-2018-421联考-127",
@@ -5915,7 +6272,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年河北公务员考试《行测》（421联考）第127题",
-    "province": "河北"
+    "province": "河北",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hebei-2018-421联考-128",
@@ -5952,7 +6311,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年河北公务员考试《行测》（421联考）第128题",
-    "province": "河北"
+    "province": "河北",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hebei-2018-421联考-129",
@@ -5987,7 +6348,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年河北公务员考试《行测》（421联考）第129题",
-    "province": "河北"
+    "province": "河北",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hebei-2018-421联考-130",
@@ -6022,7 +6385,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年河北公务员考试《行测》（421联考）第130题",
-    "province": "河北"
+    "province": "河北",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hebei-2019-420联考-111",
@@ -6057,7 +6422,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年河北公务员考试《行测》（420联考）第111题",
-    "province": "河北"
+    "province": "河北",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hebei-2019-420联考-112",
@@ -6090,7 +6457,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年河北公务员考试《行测》（420联考）第112题",
-    "province": "河北"
+    "province": "河北",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hebei-2019-420联考-113",
@@ -6125,7 +6494,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年河北公务员考试《行测》（420联考）第113题",
-    "province": "河北"
+    "province": "河北",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hebei-2019-420联考-114",
@@ -6161,7 +6532,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年河北公务员考试《行测》（420联考）第114题",
-    "province": "河北"
+    "province": "河北",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hebei-2019-420联考-115",
@@ -6194,7 +6567,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年河北公务员考试《行测》（420联考）第115题",
-    "province": "河北"
+    "province": "河北",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hebei-2019-420联考-116",
@@ -6229,7 +6604,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年河北公务员考试《行测》（420联考）第116题",
-    "province": "河北"
+    "province": "河北",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hebei-2019-420联考-117",
@@ -6264,7 +6641,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年河北公务员考试《行测》（420联考）第117题",
-    "province": "河北"
+    "province": "河北",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hebei-2019-420联考-118",
@@ -6301,7 +6680,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年河北公务员考试《行测》（420联考）第118题",
-    "province": "河北"
+    "province": "河北",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hebei-2019-420联考-119",
@@ -6337,7 +6718,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年河北公务员考试《行测》（420联考）第119题",
-    "province": "河北"
+    "province": "河北",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hebei-2019-420联考-120",
@@ -6370,7 +6753,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年河北公务员考试《行测》（420联考）第120题",
-    "province": "河北"
+    "province": "河北",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hebei-2019-420联考-121",
@@ -6405,7 +6790,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年河北公务员考试《行测》（420联考）第121题",
-    "province": "河北"
+    "province": "河北",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hebei-2019-420联考-122",
@@ -6440,7 +6827,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年河北公务员考试《行测》（420联考）第122题",
-    "province": "河北"
+    "province": "河北",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hebei-2019-420联考-123",
@@ -6476,7 +6865,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年河北公务员考试《行测》（420联考）第123题",
-    "province": "河北"
+    "province": "河北",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hebei-2019-420联考-124",
@@ -6512,7 +6903,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年河北公务员考试《行测》（420联考）第124题",
-    "province": "河北"
+    "province": "河北",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hebei-2019-420联考-125",
@@ -6545,7 +6938,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年河北公务员考试《行测》（420联考）第125题",
-    "province": "河北"
+    "province": "河北",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hebei-2019-420联考-126",
@@ -6580,7 +6975,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年河北公务员考试《行测》（420联考）第126题",
-    "province": "河北"
+    "province": "河北",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hebei-2019-420联考-127",
@@ -6615,7 +7012,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年河北公务员考试《行测》（420联考）第127题",
-    "province": "河北"
+    "province": "河北",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hebei-2019-420联考-128",
@@ -6650,7 +7049,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年河北公务员考试《行测》（420联考）第128题",
-    "province": "河北"
+    "province": "河北",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hebei-2019-420联考-129",
@@ -6686,7 +7087,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年河北公务员考试《行测》（420联考）第129题",
-    "province": "河北"
+    "province": "河北",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hebei-2019-420联考-130",
@@ -6722,7 +7125,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年河北公务员考试《行测》（420联考）第130题",
-    "province": "河北"
+    "province": "河北",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hebei-2020-未标注-111",
@@ -6758,7 +7163,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年河北公务员考试《行测》第111题",
-    "province": "河北"
+    "province": "河北",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hebei-2020-未标注-112",
@@ -6794,7 +7201,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年河北公务员考试《行测》第112题",
-    "province": "河北"
+    "province": "河北",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hebei-2020-未标注-113",
@@ -6829,7 +7238,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年河北公务员考试《行测》第113题",
-    "province": "河北"
+    "province": "河北",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hebei-2020-未标注-114",
@@ -6865,7 +7276,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年河北公务员考试《行测》第114题",
-    "province": "河北"
+    "province": "河北",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hebei-2020-未标注-115",
@@ -6900,7 +7313,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年河北公务员考试《行测》第115题",
-    "province": "河北"
+    "province": "河北",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hebei-2020-未标注-116",
@@ -6919,7 +7334,9 @@
     "difficulty": "中等",
     "source": "2020年河北公务员考试《行测》第116题",
     "isImageQuestion": true,
-    "province": "河北"
+    "province": "河北",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hebei-2020-未标注-117",
@@ -6956,7 +7373,9 @@
     "difficulty": "中等",
     "source": "2020年河北公务员考试《行测》第117题",
     "isImageQuestion": true,
-    "province": "河北"
+    "province": "河北",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hebei-2020-未标注-118",
@@ -6993,7 +7412,9 @@
     "difficulty": "中等",
     "source": "2020年河北公务员考试《行测》第118题",
     "isImageQuestion": true,
-    "province": "河北"
+    "province": "河北",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hebei-2020-未标注-119",
@@ -7030,7 +7451,9 @@
     "difficulty": "中等",
     "source": "2020年河北公务员考试《行测》第119题",
     "isImageQuestion": true,
-    "province": "河北"
+    "province": "河北",
+    "subModule": "图形材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-hebei-2020-未标注-120",
@@ -7068,6 +7491,8 @@
     "difficulty": "中等",
     "source": "2020年河北公务员考试《行测》第120题",
     "isImageQuestion": true,
-    "province": "河北"
+    "province": "河北",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   }
 ]

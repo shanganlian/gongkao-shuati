@@ -33,7 +33,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2017年天津公务员考试《行测》（422联考）第5题",
-    "province": "天津"
+    "province": "天津",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-tianjin-2017-422联考-6",
@@ -69,7 +71,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2017年天津公务员考试《行测》（422联考）第6题",
-    "province": "天津"
+    "province": "天津",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-tianjin-2017-422联考-7",
@@ -105,7 +109,9 @@
     "difficulty": "拔高",
     "source": "2017年天津公务员考试《行测》（422联考）第7题",
     "isImageQuestion": true,
-    "province": "天津"
+    "province": "天津",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-tianjin-2017-422联考-8",
@@ -141,7 +147,9 @@
     "difficulty": "拔高",
     "source": "2017年天津公务员考试《行测》（422联考）第8题",
     "isImageQuestion": true,
-    "province": "天津"
+    "province": "天津",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-tianjin-2017-422联考-9",
@@ -175,7 +183,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2017年天津公务员考试《行测》（422联考）第9题",
-    "province": "天津"
+    "province": "天津",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-tianjin-2017-422联考-10",
@@ -211,7 +221,9 @@
     "difficulty": "拔高",
     "source": "2017年天津公务员考试《行测》（422联考）第10题",
     "isImageQuestion": true,
-    "province": "天津"
+    "province": "天津",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-tianjin-2017-未标注-1",
@@ -245,7 +257,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2017年天津公务员考试《行测》第1题",
-    "province": "天津"
+    "province": "天津",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-tianjin-2017-未标注-2",
@@ -277,7 +291,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2017年天津公务员考试《行测》第2题",
-    "province": "天津"
+    "province": "天津",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-tianjin-2017-未标注-3",
@@ -311,7 +327,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2017年天津公务员考试《行测》第3题",
-    "province": "天津"
+    "province": "天津",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-tianjin-2017-未标注-4",
@@ -345,7 +363,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2017年天津公务员考试《行测》第4题",
-    "province": "天津"
+    "province": "天津",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-tianjin-2017-未标注-5",
@@ -379,7 +399,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2017年天津公务员考试《行测》第5题",
-    "province": "天津"
+    "province": "天津",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-tianjin-2017-未标注-6",
@@ -413,7 +435,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2017年天津公务员考试《行测》第6题",
-    "province": "天津"
+    "province": "天津",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-tianjin-2017-未标注-7",
@@ -449,7 +473,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2017年天津公务员考试《行测》第7题",
-    "province": "天津"
+    "province": "天津",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-tianjin-2017-未标注-8",
@@ -486,7 +512,9 @@
     "difficulty": "拔高",
     "source": "2017年天津公务员考试《行测》第8题",
     "isImageQuestion": true,
-    "province": "天津"
+    "province": "天津",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-tianjin-2017-未标注-9",
@@ -522,7 +550,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2017年天津公务员考试《行测》第9题",
-    "province": "天津"
+    "province": "天津",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-tianjin-2017-未标注-10",
@@ -556,7 +586,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2017年天津公务员考试《行测》第10题",
-    "province": "天津"
+    "province": "天津",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-tianjin-2018-421联考-1",
@@ -590,7 +622,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2018年天津公务员考试《行测》（421联考）第1题",
-    "province": "天津"
+    "province": "天津",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-tianjin-2018-421联考-2",
@@ -626,7 +660,9 @@
     "difficulty": "拔高",
     "source": "2018年天津公务员考试《行测》（421联考）第2题",
     "isImageQuestion": true,
-    "province": "天津"
+    "province": "天津",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-tianjin-2018-421联考-3",
@@ -661,7 +697,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2018年天津公务员考试《行测》（421联考）第3题",
-    "province": "天津"
+    "province": "天津",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-tianjin-2018-421联考-4",
@@ -695,7 +733,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2018年天津公务员考试《行测》（421联考）第4题",
-    "province": "天津"
+    "province": "天津",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-tianjin-2018-421联考-5",
@@ -729,7 +769,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2018年天津公务员考试《行测》（421联考）第5题",
-    "province": "天津"
+    "province": "天津",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-tianjin-2018-421联考-6",
@@ -765,7 +807,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2018年天津公务员考试《行测》（421联考）第6题",
-    "province": "天津"
+    "province": "天津",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-tianjin-2018-421联考-7",
@@ -785,7 +829,10 @@
     "difficulty": "拔高",
     "source": "2018年天津公务员考试《行测》（421联考）第7题",
     "isImageQuestion": true,
-    "province": "天津"
+    "province": "天津",
+    "isAbnormal": true,
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-tianjin-2018-421联考-8",
@@ -822,7 +869,9 @@
     "difficulty": "拔高",
     "source": "2018年天津公务员考试《行测》（421联考）第8题",
     "isImageQuestion": true,
-    "province": "天津"
+    "province": "天津",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-tianjin-2018-421联考-9",
@@ -858,7 +907,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2018年天津公务员考试《行测》（421联考）第9题",
-    "province": "天津"
+    "province": "天津",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-tianjin-2018-421联考-10",
@@ -892,7 +943,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2018年天津公务员考试《行测》（421联考）第10题",
-    "province": "天津"
+    "province": "天津",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-tianjin-2019-420联考-1",
@@ -927,7 +980,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年天津公务员考试《行测》（420联考）第1题",
-    "province": "天津"
+    "province": "天津",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-tianjin-2019-420联考-2",
@@ -962,7 +1017,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年天津公务员考试《行测》（420联考）第2题",
-    "province": "天津"
+    "province": "天津",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-tianjin-2019-420联考-3",
@@ -998,7 +1055,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年天津公务员考试《行测》（420联考）第3题",
-    "province": "天津"
+    "province": "天津",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-tianjin-2019-420联考-4",
@@ -1034,7 +1093,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年天津公务员考试《行测》（420联考）第4题",
-    "province": "天津"
+    "province": "天津",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-tianjin-2019-420联考-5",
@@ -1070,7 +1131,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年天津公务员考试《行测》（420联考）第5题",
-    "province": "天津"
+    "province": "天津",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-tianjin-2019-420联考-6",
@@ -1104,7 +1167,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年天津公务员考试《行测》（420联考）第6题",
-    "province": "天津"
+    "province": "天津",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-tianjin-2019-420联考-7",
@@ -1139,7 +1204,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年天津公务员考试《行测》（420联考）第7题",
-    "province": "天津"
+    "province": "天津",
+    "subModule": "经济利润",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-tianjin-2019-420联考-8",
@@ -1175,7 +1242,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年天津公务员考试《行测》（420联考）第8题",
-    "province": "天津"
+    "province": "天津",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-tianjin-2019-420联考-9",
@@ -1211,7 +1280,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年天津公务员考试《行测》（420联考）第9题",
-    "province": "天津"
+    "province": "天津",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-tianjin-2019-420联考-10",
@@ -1245,7 +1316,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年天津公务员考试《行测》（420联考）第10题",
-    "province": "天津"
+    "province": "天津",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-tianjin-2020-未标注-1",
@@ -1280,7 +1353,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2020年天津公务员考试《行测》第1题",
-    "province": "天津"
+    "province": "天津",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-tianjin-2020-未标注-2",
@@ -1315,7 +1390,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2020年天津公务员考试《行测》第2题",
-    "province": "天津"
+    "province": "天津",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-tianjin-2020-未标注-3",
@@ -1349,7 +1426,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2020年天津公务员考试《行测》第3题",
-    "province": "天津"
+    "province": "天津",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-tianjin-2020-未标注-4",
@@ -1383,7 +1462,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2020年天津公务员考试《行测》第4题",
-    "province": "天津"
+    "province": "天津",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-tianjin-2020-未标注-5",
@@ -1418,7 +1499,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2020年天津公务员考试《行测》第5题",
-    "province": "天津"
+    "province": "天津",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-tianjin-2020-未标注-6",
@@ -1453,7 +1536,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2020年天津公务员考试《行测》第6题",
-    "province": "天津"
+    "province": "天津",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-tianjin-2020-未标注-7",
@@ -1489,7 +1574,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2020年天津公务员考试《行测》第7题",
-    "province": "天津"
+    "province": "天津",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-tianjin-2020-未标注-8",
@@ -1524,7 +1611,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2020年天津公务员考试《行测》第8题",
-    "province": "天津"
+    "province": "天津",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-tianjin-2020-未标注-9",
@@ -1559,7 +1648,9 @@
     "difficulty": "拔高",
     "source": "2020年天津公务员考试《行测》第9题",
     "isImageQuestion": true,
-    "province": "天津"
+    "province": "天津",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-tianjin-2020-未标注-10",
@@ -1593,7 +1684,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2020年天津公务员考试《行测》第10题",
-    "province": "天津"
+    "province": "天津",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-tianjin-2021-未标注-1",
@@ -1628,7 +1721,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2021年天津公务员考试《行测》第1题",
-    "province": "天津"
+    "province": "天津",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-tianjin-2021-未标注-2",
@@ -1663,7 +1758,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2021年天津公务员考试《行测》第2题",
-    "province": "天津"
+    "province": "天津",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-tianjin-2021-未标注-3",
@@ -1697,7 +1794,10 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2021年天津公务员考试《行测》第3题",
-    "province": "天津"
+    "province": "天津",
+    "isAbnormal": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-tianjin-2021-未标注-4",
@@ -1732,7 +1832,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2021年天津公务员考试《行测》第4题",
-    "province": "天津"
+    "province": "天津",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-tianjin-2021-未标注-5",
@@ -1766,7 +1868,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2021年天津公务员考试《行测》第5题",
-    "province": "天津"
+    "province": "天津",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-tianjin-2021-未标注-6",
@@ -1782,7 +1886,9 @@
     "difficulty": "拔高",
     "source": "2021年天津公务员考试《行测》第6题",
     "isImageQuestion": true,
-    "province": "天津"
+    "province": "天津",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-tianjin-2021-未标注-7",
@@ -1818,7 +1924,9 @@
     "difficulty": "拔高",
     "source": "2021年天津公务员考试《行测》第7题",
     "isImageQuestion": true,
-    "province": "天津"
+    "province": "天津",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-tianjin-2021-未标注-8",
@@ -1854,7 +1962,9 @@
     "difficulty": "拔高",
     "source": "2021年天津公务员考试《行测》第8题",
     "isImageQuestion": true,
-    "province": "天津"
+    "province": "天津",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-tianjin-2021-未标注-9",
@@ -1888,7 +1998,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2021年天津公务员考试《行测》第9题",
-    "province": "天津"
+    "province": "天津",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-tianjin-2021-未标注-10",
@@ -1924,7 +2036,9 @@
     "difficulty": "拔高",
     "source": "2021年天津公务员考试《行测》第10题",
     "isImageQuestion": true,
-    "province": "天津"
+    "province": "天津",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-tianjin-2022-未标注-1",
@@ -1960,7 +2074,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2022年天津公务员考试《行测》第1题",
-    "province": "天津"
+    "province": "天津",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-tianjin-2022-未标注-2",
@@ -1984,7 +2100,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2022年天津公务员考试《行测》第2题",
-    "province": "天津"
+    "province": "天津",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-tianjin-2022-未标注-3",
@@ -2016,7 +2134,10 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2022年天津公务员考试《行测》第3题",
-    "province": "天津"
+    "province": "天津",
+    "isAbnormal": true,
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-tianjin-2022-未标注-4",
@@ -2048,7 +2169,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2022年天津公务员考试《行测》第4题",
-    "province": "天津"
+    "province": "天津",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-tianjin-2022-未标注-5",
@@ -2080,7 +2203,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2022年天津公务员考试《行测》第5题",
-    "province": "天津"
+    "province": "天津",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-tianjin-2022-未标注-6",
@@ -2114,7 +2239,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2022年天津公务员考试《行测》第6题",
-    "province": "天津"
+    "province": "天津",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-tianjin-2022-未标注-7",
@@ -2150,7 +2277,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2022年天津公务员考试《行测》第7题",
-    "province": "天津"
+    "province": "天津",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-tianjin-2022-未标注-8",
@@ -2185,7 +2314,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2022年天津公务员考试《行测》第8题",
-    "province": "天津"
+    "province": "天津",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-tianjin-2022-未标注-9",
@@ -2221,7 +2352,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2022年天津公务员考试《行测》第9题",
-    "province": "天津"
+    "province": "天津",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-tianjin-2022-未标注-10",
@@ -2257,7 +2390,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2022年天津公务员考试《行测》第10题",
-    "province": "天津"
+    "province": "天津",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-tianjin-2023-未标注-1",
@@ -2291,7 +2426,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2023年天津公务员考试《行测》第1题",
-    "province": "天津"
+    "province": "天津",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-tianjin-2023-未标注-2",
@@ -2321,7 +2458,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2023年天津公务员考试《行测》第2题",
-    "province": "天津"
+    "province": "天津",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-tianjin-2023-未标注-3",
@@ -2337,7 +2476,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2023年天津公务员考试《行测》第3题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-tianjin-2023-未标注-4",
@@ -2353,7 +2494,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2023年天津公务员考试《行测》第4题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-tianjin-2023-未标注-5",
@@ -2369,7 +2512,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2023年天津公务员考试《行测》第5题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-tianjin-2023-未标注-6",
@@ -2385,7 +2530,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2023年天津公务员考试《行测》第6题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-tianjin-2023-未标注-7",
@@ -2401,7 +2548,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2023年天津公务员考试《行测》第7题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-tianjin-2023-未标注-8",
@@ -2417,7 +2566,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2023年天津公务员考试《行测》第8题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-tianjin-2023-未标注-9",
@@ -2433,7 +2584,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2023年天津公务员考试《行测》第9题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-tianjin-2023-未标注-10",
@@ -2449,7 +2602,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2023年天津公务员考试《行测》第10题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-tianjin-2023-未标注-11",
@@ -2465,7 +2620,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2023年天津公务员考试《行测》第11题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-tianjin-2023-未标注-12",
@@ -2481,7 +2638,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2023年天津公务员考试《行测》第12题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-tianjin-2023-未标注-13",
@@ -2497,7 +2656,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2023年天津公务员考试《行测》第13题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-tianjin-2023-未标注-14",
@@ -2513,7 +2674,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2023年天津公务员考试《行测》第14题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-tianjin-2023-未标注-15",
@@ -2529,7 +2692,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2023年天津公务员考试《行测》第15题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-tianjin-2023-未标注-16",
@@ -2545,7 +2710,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2023年天津公务员考试《行测》第16题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-tianjin-2023-未标注-17",
@@ -2561,7 +2728,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2023年天津公务员考试《行测》第17题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-tianjin-2023-未标注-18",
@@ -2577,7 +2746,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2023年天津公务员考试《行测》第18题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-tianjin-2023-未标注-19",
@@ -2593,7 +2764,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2023年天津公务员考试《行测》第19题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-tianjin-2023-未标注-20",
@@ -2609,7 +2782,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2023年天津公务员考试《行测》第20题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-tianjin-2023-未标注-21",
@@ -2625,7 +2800,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2023年天津公务员考试《行测》第21题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-tianjin-2023-未标注-22",
@@ -2641,7 +2818,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2023年天津公务员考试《行测》第22题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-tianjin-2023-未标注-23",
@@ -2657,7 +2836,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2023年天津公务员考试《行测》第23题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-tianjin-2023-未标注-24",
@@ -2673,7 +2854,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2023年天津公务员考试《行测》第24题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-tianjin-2023-未标注-25",
@@ -2689,7 +2872,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2023年天津公务员考试《行测》第25题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-tianjin-2023-未标注-26",
@@ -2705,7 +2890,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2023年天津公务员考试《行测》第26题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-tianjin-2023-未标注-27",
@@ -2721,7 +2908,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2023年天津公务员考试《行测》第27题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-tianjin-2023-未标注-28",
@@ -2737,7 +2926,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2023年天津公务员考试《行测》第28题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-tianjin-2023-未标注-29",
@@ -2753,7 +2944,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2023年天津公务员考试《行测》第29题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-tianjin-2023-未标注-30",
@@ -2769,7 +2962,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2023年天津公务员考试《行测》第30题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-tianjin-2023-未标注-31",
@@ -2785,7 +2980,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2023年天津公务员考试《行测》第31题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-tianjin-2023-未标注-32",
@@ -2801,7 +2998,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2023年天津公务员考试《行测》第32题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-tianjin-2023-未标注-33",
@@ -2817,7 +3016,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2023年天津公务员考试《行测》第33题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-tianjin-2023-未标注-34",
@@ -2833,7 +3034,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2023年天津公务员考试《行测》第34题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-tianjin-2023-未标注-35",
@@ -2849,7 +3052,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2023年天津公务员考试《行测》第35题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-tianjin-2023-未标注-36",
@@ -2865,7 +3070,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2023年天津公务员考试《行测》第36题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-tianjin-2023-未标注-37",
@@ -2881,7 +3088,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2023年天津公务员考试《行测》第37题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-tianjin-2023-未标注-38",
@@ -2897,7 +3106,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2023年天津公务员考试《行测》第38题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-tianjin-2023-未标注-39",
@@ -2913,7 +3124,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2023年天津公务员考试《行测》第39题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-tianjin-2023-未标注-40",
@@ -2929,7 +3142,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2023年天津公务员考试《行测》第40题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-tianjin-2023-未标注-41",
@@ -2945,7 +3160,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2023年天津公务员考试《行测》第41题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-tianjin-2023-未标注-42",
@@ -2980,7 +3197,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2023年天津公务员考试《行测》第42题",
-    "province": "天津"
+    "province": "天津",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-tianjin-2025-未标注-56",
@@ -3012,7 +3231,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年天津公务员考试《行测》第56题",
-    "province": "天津"
+    "province": "天津",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-tianjin-2025-未标注-57",
@@ -3044,7 +3265,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年天津公务员考试《行测》第57题",
-    "province": "天津"
+    "province": "天津",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-tianjin-2025-未标注-58",
@@ -3076,7 +3299,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年天津公务员考试《行测》第58题",
-    "province": "天津"
+    "province": "天津",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-tianjin-2025-未标注-59",
@@ -3108,7 +3333,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年天津公务员考试《行测》第59题",
-    "province": "天津"
+    "province": "天津",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-tianjin-2025-未标注-60",
@@ -3140,7 +3367,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年天津公务员考试《行测》第60题",
-    "province": "天津"
+    "province": "天津",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-tianjin-2025-未标注-61",
@@ -3172,7 +3401,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年天津公务员考试《行测》第61题",
-    "province": "天津"
+    "province": "天津",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-tianjin-2025-未标注-62",
@@ -3204,7 +3435,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年天津公务员考试《行测》第62题",
-    "province": "天津"
+    "province": "天津",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-tianjin-2025-未标注-63",
@@ -3236,7 +3469,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年天津公务员考试《行测》第63题",
-    "province": "天津"
+    "province": "天津",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-tianjin-2025-未标注-64",
@@ -3268,7 +3503,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年天津公务员考试《行测》第64题",
-    "province": "天津"
+    "province": "天津",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-tianjin-2025-未标注-65",
@@ -3300,7 +3537,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年天津公务员考试《行测》第65题",
-    "province": "天津"
+    "province": "天津",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-tianjin-2025-未标注-66",
@@ -3316,7 +3555,9 @@
     "difficulty": "拔高",
     "source": "2025年天津公务员考试《行测》第66题",
     "isImageQuestion": true,
-    "province": "天津"
+    "province": "天津",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-tianjin-2025-未标注-67",
@@ -3332,7 +3573,9 @@
     "difficulty": "拔高",
     "source": "2025年天津公务员考试《行测》第67题",
     "isImageQuestion": true,
-    "province": "天津"
+    "province": "天津",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-tianjin-2025-未标注-68",
@@ -3348,7 +3591,9 @@
     "difficulty": "拔高",
     "source": "2025年天津公务员考试《行测》第68题",
     "isImageQuestion": true,
-    "province": "天津"
+    "province": "天津",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-tianjin-2025-未标注-69",
@@ -3381,7 +3626,9 @@
     "difficulty": "拔高",
     "source": "2025年天津公务员考试《行测》第69题",
     "isImageQuestion": true,
-    "province": "天津"
+    "province": "天津",
+    "subModule": "几何",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-tianjin-2025-未标注-70",
@@ -3414,6 +3661,8 @@
     "difficulty": "拔高",
     "source": "2025年天津公务员考试《行测》第70题",
     "isImageQuestion": true,
-    "province": "天津"
+    "province": "天津",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   }
 ]

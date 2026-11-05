@@ -33,7 +33,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年深圳公务员考试《行测》（思维能力）第77题",
-    "province": "深圳"
+    "province": "深圳",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shenzhen-2020-思维能力-78",
@@ -69,7 +71,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年深圳公务员考试《行测》（思维能力）第78题",
-    "province": "深圳"
+    "province": "深圳",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shenzhen-2020-思维能力-79",
@@ -104,7 +108,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年深圳公务员考试《行测》（思维能力）第79题",
-    "province": "深圳"
+    "province": "深圳",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shenzhen-2020-思维能力-80",
@@ -140,7 +146,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年深圳公务员考试《行测》（思维能力）第80题",
-    "province": "深圳"
+    "province": "深圳",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shenzhen-2020-行测1-21",
@@ -160,7 +168,9 @@
     "difficulty": "中等",
     "source": "2020年深圳公务员考试《行测》（行测1）第21题",
     "isImageQuestion": true,
-    "province": "深圳"
+    "province": "深圳",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shenzhen-2020-行测1-22",
@@ -180,7 +190,9 @@
     "difficulty": "中等",
     "source": "2020年深圳公务员考试《行测》（行测1）第22题",
     "isImageQuestion": true,
-    "province": "深圳"
+    "province": "深圳",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shenzhen-2020-行测1-23",
@@ -200,7 +212,9 @@
     "difficulty": "中等",
     "source": "2020年深圳公务员考试《行测》（行测1）第23题",
     "isImageQuestion": true,
-    "province": "深圳"
+    "province": "深圳",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shenzhen-2020-行测1-24",
@@ -219,7 +233,9 @@
     "difficulty": "中等",
     "source": "2020年深圳公务员考试《行测》（行测1）第24题",
     "isImageQuestion": true,
-    "province": "深圳"
+    "province": "深圳",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shenzhen-2020-行测1-25",
@@ -239,7 +255,9 @@
     "difficulty": "中等",
     "source": "2020年深圳公务员考试《行测》（行测1）第25题",
     "isImageQuestion": true,
-    "province": "深圳"
+    "province": "深圳",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shenzhen-2020-行测1-26",
@@ -274,7 +292,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年深圳公务员考试《行测》（行测1）第26题",
-    "province": "深圳"
+    "province": "深圳",
+    "subModule": "类比推理",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shenzhen-2020-行测1-27",
@@ -310,7 +330,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年深圳公务员考试《行测》（行测1）第27题",
-    "province": "深圳"
+    "province": "深圳",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shenzhen-2020-行测1-28",
@@ -345,7 +367,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年深圳公务员考试《行测》（行测1）第28题",
-    "province": "深圳"
+    "province": "深圳",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shenzhen-2020-行测1-29",
@@ -380,7 +404,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年深圳公务员考试《行测》（行测1）第29题",
-    "province": "深圳"
+    "province": "深圳",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shenzhen-2020-行测1-30",
@@ -415,7 +441,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年深圳公务员考试《行测》（行测1）第30题",
-    "province": "深圳"
+    "province": "深圳",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shenzhen-2020-行测1-31",
@@ -451,7 +479,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年深圳公务员考试《行测》（行测1）第31题",
-    "province": "深圳"
+    "province": "深圳",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shenzhen-2020-行测1-32",
@@ -487,7 +517,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年深圳公务员考试《行测》（行测1）第32题",
-    "province": "深圳"
+    "province": "深圳",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shenzhen-2020-行测1-33",
@@ -523,7 +555,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年深圳公务员考试《行测》（行测1）第33题",
-    "province": "深圳"
+    "province": "深圳",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shenzhen-2020-行测1-34",
@@ -559,7 +593,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年深圳公务员考试《行测》（行测1）第34题",
-    "province": "深圳"
+    "province": "深圳",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shenzhen-2020-行测1-35",
@@ -595,7 +631,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年深圳公务员考试《行测》（行测1）第35题",
-    "province": "深圳"
+    "province": "深圳",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shenzhen-2020-行测1-36",
@@ -631,7 +669,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年深圳公务员考试《行测》（行测1）第36题",
-    "province": "深圳"
+    "province": "深圳",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shenzhen-2020-行测1-37",
@@ -667,7 +707,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年深圳公务员考试《行测》（行测1）第37题",
-    "province": "深圳"
+    "province": "深圳",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shenzhen-2020-行测1-38",
@@ -703,7 +745,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年深圳公务员考试《行测》（行测1）第38题",
-    "province": "深圳"
+    "province": "深圳",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shenzhen-2020-行测1-39",
@@ -739,7 +783,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年深圳公务员考试《行测》（行测1）第39题",
-    "province": "深圳"
+    "province": "深圳",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shenzhen-2020-行测1-40",
@@ -775,7 +821,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年深圳公务员考试《行测》（行测1）第40题",
-    "province": "深圳"
+    "province": "深圳",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shenzhen-2022-未标注-26",
@@ -811,7 +859,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2022年深圳公务员考试《行测》第26题",
-    "province": "深圳"
+    "province": "深圳",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shenzhen-2022-未标注-27",
@@ -846,7 +896,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2022年深圳公务员考试《行测》第27题",
-    "province": "深圳"
+    "province": "深圳",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shenzhen-2022-未标注-28",
@@ -881,7 +933,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2022年深圳公务员考试《行测》第28题",
-    "province": "深圳"
+    "province": "深圳",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shenzhen-2022-未标注-29",
@@ -916,7 +970,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2022年深圳公务员考试《行测》第29题",
-    "province": "深圳"
+    "province": "深圳",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shenzhen-2022-未标注-30",
@@ -952,7 +1008,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2022年深圳公务员考试《行测》第30题",
-    "province": "深圳"
+    "province": "深圳",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shenzhen-2022-未标注-31",
@@ -972,7 +1030,9 @@
     "difficulty": "中等",
     "source": "2022年深圳公务员考试《行测》第31题",
     "isImageQuestion": true,
-    "province": "深圳"
+    "province": "深圳",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shenzhen-2022-未标注-32",
@@ -992,7 +1052,9 @@
     "difficulty": "中等",
     "source": "2022年深圳公务员考试《行测》第32题",
     "isImageQuestion": true,
-    "province": "深圳"
+    "province": "深圳",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shenzhen-2022-未标注-33",
@@ -1012,7 +1074,9 @@
     "difficulty": "中等",
     "source": "2022年深圳公务员考试《行测》第33题",
     "isImageQuestion": true,
-    "province": "深圳"
+    "province": "深圳",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shenzhen-2022-未标注-34",
@@ -1032,7 +1096,9 @@
     "difficulty": "中等",
     "source": "2022年深圳公务员考试《行测》第34题",
     "isImageQuestion": true,
-    "province": "深圳"
+    "province": "深圳",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shenzhen-2022-未标注-35",
@@ -1052,7 +1118,9 @@
     "difficulty": "中等",
     "source": "2022年深圳公务员考试《行测》第35题",
     "isImageQuestion": true,
-    "province": "深圳"
+    "province": "深圳",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shenzhen-2022-未标注-36",
@@ -1088,7 +1156,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2022年深圳公务员考试《行测》第36题",
-    "province": "深圳"
+    "province": "深圳",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shenzhen-2022-未标注-37",
@@ -1124,7 +1194,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2022年深圳公务员考试《行测》第37题",
-    "province": "深圳"
+    "province": "深圳",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shenzhen-2022-未标注-38",
@@ -1160,7 +1232,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2022年深圳公务员考试《行测》第38题",
-    "province": "深圳"
+    "province": "深圳",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shenzhen-2022-未标注-39",
@@ -1196,7 +1270,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2022年深圳公务员考试《行测》第39题",
-    "province": "深圳"
+    "province": "深圳",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shenzhen-2022-未标注-40",
@@ -1232,7 +1308,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2022年深圳公务员考试《行测》第40题",
-    "province": "深圳"
+    "province": "深圳",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shenzhen-2022-未标注-41",
@@ -1268,7 +1346,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2022年深圳公务员考试《行测》第41题",
-    "province": "深圳"
+    "province": "深圳",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shenzhen-2022-未标注-42",
@@ -1304,7 +1384,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2022年深圳公务员考试《行测》第42题",
-    "province": "深圳"
+    "province": "深圳",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shenzhen-2022-未标注-43",
@@ -1340,7 +1422,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2022年深圳公务员考试《行测》第43题",
-    "province": "深圳"
+    "province": "深圳",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shenzhen-2022-未标注-44",
@@ -1376,7 +1460,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2022年深圳公务员考试《行测》第44题",
-    "province": "深圳"
+    "province": "深圳",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shenzhen-2022-未标注-45",
@@ -1412,7 +1498,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2022年深圳公务员考试《行测》第45题",
-    "province": "深圳"
+    "province": "深圳",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shenzhen-2023-未标注-26",
@@ -1448,7 +1536,9 @@
     "difficulty": "中等",
     "source": "2023年深圳公务员考试《行测》第26题",
     "isImageQuestion": true,
-    "province": "深圳"
+    "province": "深圳",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shenzhen-2023-未标注-27",
@@ -1484,7 +1574,9 @@
     "difficulty": "中等",
     "source": "2023年深圳公务员考试《行测》第27题",
     "isImageQuestion": true,
-    "province": "深圳"
+    "province": "深圳",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shenzhen-2023-未标注-28",
@@ -1520,7 +1612,9 @@
     "difficulty": "中等",
     "source": "2023年深圳公务员考试《行测》第28题",
     "isImageQuestion": true,
-    "province": "深圳"
+    "province": "深圳",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shenzhen-2023-未标注-29",
@@ -1556,7 +1650,9 @@
     "difficulty": "中等",
     "source": "2023年深圳公务员考试《行测》第29题",
     "isImageQuestion": true,
-    "province": "深圳"
+    "province": "深圳",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shenzhen-2023-未标注-30",
@@ -1592,7 +1688,9 @@
     "difficulty": "中等",
     "source": "2023年深圳公务员考试《行测》第30题",
     "isImageQuestion": true,
-    "province": "深圳"
+    "province": "深圳",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shenzhen-2023-未标注-31",
@@ -1628,7 +1726,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2023年深圳公务员考试《行测》第31题",
-    "province": "深圳"
+    "province": "深圳",
+    "subModule": "类比推理",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shenzhen-2023-未标注-32",
@@ -1663,7 +1763,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2023年深圳公务员考试《行测》第32题",
-    "province": "深圳"
+    "province": "深圳",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shenzhen-2023-未标注-33",
@@ -1698,7 +1800,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2023年深圳公务员考试《行测》第33题",
-    "province": "深圳"
+    "province": "深圳",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shenzhen-2023-未标注-34",
@@ -1732,7 +1836,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2023年深圳公务员考试《行测》第34题",
-    "province": "深圳"
+    "province": "深圳",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shenzhen-2023-未标注-35",
@@ -1767,7 +1873,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2023年深圳公务员考试《行测》第35题",
-    "province": "深圳"
+    "province": "深圳",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shenzhen-2023-未标注-36",
@@ -1801,7 +1909,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2023年深圳公务员考试《行测》第36题",
-    "province": "深圳"
+    "province": "深圳",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shenzhen-2023-未标注-37",
@@ -1835,7 +1945,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2023年深圳公务员考试《行测》第37题",
-    "province": "深圳"
+    "province": "深圳",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shenzhen-2023-未标注-38",
@@ -1871,7 +1983,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2023年深圳公务员考试《行测》第38题",
-    "province": "深圳"
+    "province": "深圳",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shenzhen-2023-未标注-39",
@@ -1907,7 +2021,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2023年深圳公务员考试《行测》第39题",
-    "province": "深圳"
+    "province": "深圳",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shenzhen-2023-未标注-40",
@@ -1943,7 +2059,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2023年深圳公务员考试《行测》第40题",
-    "province": "深圳"
+    "province": "深圳",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shenzhen-2023-未标注-41",
@@ -1979,7 +2097,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2023年深圳公务员考试《行测》第41题",
-    "province": "深圳"
+    "province": "深圳",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shenzhen-2023-未标注-42",
@@ -2014,7 +2134,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2023年深圳公务员考试《行测》第42题",
-    "province": "深圳"
+    "province": "深圳",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shenzhen-2023-未标注-43",
@@ -2050,7 +2172,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2023年深圳公务员考试《行测》第43题",
-    "province": "深圳"
+    "province": "深圳",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shenzhen-2023-未标注-44",
@@ -2086,7 +2210,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2023年深圳公务员考试《行测》第44题",
-    "province": "深圳"
+    "province": "深圳",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shenzhen-2023-未标注-45",
@@ -2121,7 +2247,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2023年深圳公务员考试《行测》第45题",
-    "province": "深圳"
+    "province": "深圳",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shenzhen-2024-未标注-26",
@@ -2157,7 +2285,9 @@
     "difficulty": "中等",
     "source": "2024年深圳公务员考试《行测》第26题",
     "isImageQuestion": true,
-    "province": "深圳"
+    "province": "深圳",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shenzhen-2024-未标注-27",
@@ -2193,7 +2323,9 @@
     "difficulty": "中等",
     "source": "2024年深圳公务员考试《行测》第27题",
     "isImageQuestion": true,
-    "province": "深圳"
+    "province": "深圳",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shenzhen-2024-未标注-28",
@@ -2230,7 +2362,9 @@
     "difficulty": "中等",
     "source": "2024年深圳公务员考试《行测》第28题",
     "isImageQuestion": true,
-    "province": "深圳"
+    "province": "深圳",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shenzhen-2024-未标注-29",
@@ -2267,7 +2401,9 @@
     "difficulty": "中等",
     "source": "2024年深圳公务员考试《行测》第29题",
     "isImageQuestion": true,
-    "province": "深圳"
+    "province": "深圳",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shenzhen-2024-未标注-30",
@@ -2302,7 +2438,9 @@
     "difficulty": "中等",
     "source": "2024年深圳公务员考试《行测》第30题",
     "isImageQuestion": true,
-    "province": "深圳"
+    "province": "深圳",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shenzhen-2024-未标注-31",
@@ -2337,7 +2475,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年深圳公务员考试《行测》第31题",
-    "province": "深圳"
+    "province": "深圳",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shenzhen-2024-未标注-32",
@@ -2372,7 +2512,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年深圳公务员考试《行测》第32题",
-    "province": "深圳"
+    "province": "深圳",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shenzhen-2024-未标注-33",
@@ -2407,7 +2549,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年深圳公务员考试《行测》第33题",
-    "province": "深圳"
+    "province": "深圳",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shenzhen-2024-未标注-34",
@@ -2442,7 +2586,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年深圳公务员考试《行测》第34题",
-    "province": "深圳"
+    "province": "深圳",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shenzhen-2024-未标注-35",
@@ -2476,7 +2622,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年深圳公务员考试《行测》第35题",
-    "province": "深圳"
+    "province": "深圳",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shenzhen-2024-未标注-36",
@@ -2512,7 +2660,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年深圳公务员考试《行测》第36题",
-    "province": "深圳"
+    "province": "深圳",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shenzhen-2024-未标注-37",
@@ -2548,7 +2698,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年深圳公务员考试《行测》第37题",
-    "province": "深圳"
+    "province": "深圳",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shenzhen-2024-未标注-38",
@@ -2584,7 +2736,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年深圳公务员考试《行测》第38题",
-    "province": "深圳"
+    "province": "深圳",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shenzhen-2024-未标注-39",
@@ -2619,7 +2773,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年深圳公务员考试《行测》第39题",
-    "province": "深圳"
+    "province": "深圳",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shenzhen-2024-未标注-40",
@@ -2655,7 +2811,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年深圳公务员考试《行测》第40题",
-    "province": "深圳"
+    "province": "深圳",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shenzhen-2024-未标注-41",
@@ -2691,7 +2849,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年深圳公务员考试《行测》第41题",
-    "province": "深圳"
+    "province": "深圳",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shenzhen-2024-未标注-42",
@@ -2727,7 +2887,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年深圳公务员考试《行测》第42题",
-    "province": "深圳"
+    "province": "深圳",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shenzhen-2024-未标注-43",
@@ -2764,7 +2926,9 @@
     "difficulty": "中等",
     "source": "2024年深圳公务员考试《行测》第43题",
     "isImageQuestion": true,
-    "province": "深圳"
+    "province": "深圳",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shenzhen-2024-未标注-44",
@@ -2800,7 +2964,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年深圳公务员考试《行测》第44题",
-    "province": "深圳"
+    "province": "深圳",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shenzhen-2024-未标注-45",
@@ -2836,6 +3002,8 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年深圳公务员考试《行测》第45题",
-    "province": "深圳"
+    "province": "深圳",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   }
 ]

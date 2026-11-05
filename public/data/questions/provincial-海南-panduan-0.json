@@ -16,7 +16,9 @@
     "difficulty": "中等",
     "source": "2009年海南公务员考试《行测》（913联考）第51题",
     "isImageQuestion": true,
-    "province": "海南"
+    "province": "海南",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2009-913联考-52",
@@ -36,7 +38,9 @@
     "difficulty": "中等",
     "source": "2009年海南公务员考试《行测》（913联考）第52题",
     "isImageQuestion": true,
-    "province": "海南"
+    "province": "海南",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2009-913联考-53",
@@ -55,7 +59,9 @@
     "difficulty": "中等",
     "source": "2009年海南公务员考试《行测》（913联考）第53题",
     "isImageQuestion": true,
-    "province": "海南"
+    "province": "海南",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2009-913联考-54",
@@ -74,7 +80,9 @@
     "difficulty": "中等",
     "source": "2009年海南公务员考试《行测》（913联考）第54题",
     "isImageQuestion": true,
-    "province": "海南"
+    "province": "海南",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2009-913联考-55",
@@ -93,7 +101,9 @@
     "difficulty": "中等",
     "source": "2009年海南公务员考试《行测》（913联考）第55题",
     "isImageQuestion": true,
-    "province": "海南"
+    "province": "海南",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2009-913联考-56",
@@ -128,7 +138,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年海南公务员考试《行测》（913联考）第56题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2009-913联考-57",
@@ -163,7 +175,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年海南公务员考试《行测》（913联考）第57题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2009-913联考-58",
@@ -198,7 +212,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年海南公务员考试《行测》（913联考）第58题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2009-913联考-59",
@@ -234,7 +250,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年海南公务员考试《行测》（913联考）第59题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2009-913联考-60",
@@ -269,7 +287,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年海南公务员考试《行测》（913联考）第60题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2009-913联考-61",
@@ -304,7 +324,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年海南公务员考试《行测》（913联考）第61题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2009-913联考-62",
@@ -340,7 +362,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年海南公务员考试《行测》（913联考）第62题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2009-913联考-63",
@@ -375,7 +399,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年海南公务员考试《行测》（913联考）第63题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2009-913联考-64",
@@ -410,7 +436,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年海南公务员考试《行测》（913联考）第64题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2009-913联考-65",
@@ -445,7 +473,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年海南公务员考试《行测》（913联考）第65题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2009-913联考-66",
@@ -481,7 +511,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年海南公务员考试《行测》（913联考）第66题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2009-913联考-67",
@@ -517,7 +549,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年海南公务员考试《行测》（913联考）第67题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2009-913联考-68",
@@ -553,7 +587,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年海南公务员考试《行测》（913联考）第68题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2009-913联考-69",
@@ -589,7 +625,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年海南公务员考试《行测》（913联考）第69题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2009-913联考-70",
@@ -625,7 +663,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年海南公务员考试《行测》（913联考）第70题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2009-913联考-71",
@@ -661,7 +701,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年海南公务员考试《行测》（913联考）第71题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2009-913联考-72",
@@ -697,7 +739,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年海南公务员考试《行测》（913联考）第72题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2009-913联考-73",
@@ -732,7 +776,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年海南公务员考试《行测》（913联考）第73题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2009-913联考-74",
@@ -766,7 +812,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年海南公务员考试《行测》（913联考）第74题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2009-913联考-75",
@@ -802,7 +850,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年海南公务员考试《行测》（913联考）第75题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2009-913联考-76",
@@ -838,7 +888,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年海南公务员考试《行测》（913联考）第76题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2009-913联考-77",
@@ -873,7 +925,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年海南公务员考试《行测》（913联考）第77题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2009-913联考-78",
@@ -909,7 +963,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年海南公务员考试《行测》（913联考）第78题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2009-913联考-79",
@@ -943,7 +999,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年海南公务员考试《行测》（913联考）第79题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2009-913联考-80",
@@ -979,7 +1037,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年海南公务员考试《行测》（913联考）第80题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2009-913联考-81",
@@ -1015,7 +1075,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年海南公务员考试《行测》（913联考）第81题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2009-913联考-82",
@@ -1050,7 +1112,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年海南公务员考试《行测》（913联考）第82题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2009-913联考-83",
@@ -1085,7 +1149,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年海南公务员考试《行测》（913联考）第83题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2009-913联考-84",
@@ -1121,7 +1187,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年海南公务员考试《行测》（913联考）第84题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2009-913联考-85",
@@ -1157,7 +1225,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年海南公务员考试《行测》（913联考）第85题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2009-913联考-51-2",
@@ -1176,7 +1246,9 @@
     "difficulty": "中等",
     "source": "2009年海南公务员考试《行测》（913联考）第51题",
     "isImageQuestion": true,
-    "province": "海南"
+    "province": "海南",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2009-913联考-52-2",
@@ -1196,7 +1268,9 @@
     "difficulty": "中等",
     "source": "2009年海南公务员考试《行测》（913联考）第52题",
     "isImageQuestion": true,
-    "province": "海南"
+    "province": "海南",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2009-913联考-53-2",
@@ -1215,7 +1289,9 @@
     "difficulty": "中等",
     "source": "2009年海南公务员考试《行测》（913联考）第53题",
     "isImageQuestion": true,
-    "province": "海南"
+    "province": "海南",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2009-913联考-54-2",
@@ -1234,7 +1310,9 @@
     "difficulty": "中等",
     "source": "2009年海南公务员考试《行测》（913联考）第54题",
     "isImageQuestion": true,
-    "province": "海南"
+    "province": "海南",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2009-913联考-55-2",
@@ -1253,7 +1331,9 @@
     "difficulty": "中等",
     "source": "2009年海南公务员考试《行测》（913联考）第55题",
     "isImageQuestion": true,
-    "province": "海南"
+    "province": "海南",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2009-913联考-56-2",
@@ -1288,7 +1368,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年海南公务员考试《行测》（913联考）第56题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2009-913联考-57-2",
@@ -1323,7 +1405,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年海南公务员考试《行测》（913联考）第57题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2009-913联考-58-2",
@@ -1358,7 +1442,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年海南公务员考试《行测》（913联考）第58题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2009-913联考-59-2",
@@ -1394,7 +1480,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年海南公务员考试《行测》（913联考）第59题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2009-913联考-60-2",
@@ -1429,7 +1517,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年海南公务员考试《行测》（913联考）第60题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2009-913联考-61-2",
@@ -1464,7 +1554,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年海南公务员考试《行测》（913联考）第61题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2009-913联考-62-2",
@@ -1500,7 +1592,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年海南公务员考试《行测》（913联考）第62题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2009-913联考-63-2",
@@ -1535,7 +1629,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年海南公务员考试《行测》（913联考）第63题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2009-913联考-64-2",
@@ -1570,7 +1666,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年海南公务员考试《行测》（913联考）第64题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2009-913联考-65-2",
@@ -1605,7 +1703,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年海南公务员考试《行测》（913联考）第65题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2009-913联考-66-2",
@@ -1641,7 +1741,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年海南公务员考试《行测》（913联考）第66题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2009-913联考-67-2",
@@ -1677,7 +1779,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年海南公务员考试《行测》（913联考）第67题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2009-913联考-68-2",
@@ -1713,7 +1817,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年海南公务员考试《行测》（913联考）第68题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2009-913联考-69-2",
@@ -1749,7 +1855,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年海南公务员考试《行测》（913联考）第69题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2009-913联考-70-2",
@@ -1785,7 +1893,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年海南公务员考试《行测》（913联考）第70题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2009-913联考-71-2",
@@ -1821,7 +1931,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年海南公务员考试《行测》（913联考）第71题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2009-913联考-72-2",
@@ -1857,7 +1969,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年海南公务员考试《行测》（913联考）第72题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2009-913联考-73-2",
@@ -1892,7 +2006,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年海南公务员考试《行测》（913联考）第73题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2009-913联考-74-2",
@@ -1926,7 +2042,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年海南公务员考试《行测》（913联考）第74题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2009-913联考-75-2",
@@ -1962,7 +2080,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年海南公务员考试《行测》（913联考）第75题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2009-913联考-76-2",
@@ -1998,7 +2118,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年海南公务员考试《行测》（913联考）第76题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2009-913联考-77-2",
@@ -2033,7 +2155,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年海南公务员考试《行测》（913联考）第77题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2009-913联考-78-2",
@@ -2069,7 +2193,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年海南公务员考试《行测》（913联考）第78题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2009-913联考-79-2",
@@ -2103,7 +2229,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年海南公务员考试《行测》（913联考）第79题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2009-913联考-80-2",
@@ -2139,7 +2267,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年海南公务员考试《行测》（913联考）第80题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2009-913联考-81-2",
@@ -2175,7 +2305,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年海南公务员考试《行测》（913联考）第81题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2009-913联考-82-2",
@@ -2210,7 +2342,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年海南公务员考试《行测》（913联考）第82题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2009-913联考-83-2",
@@ -2245,7 +2379,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年海南公务员考试《行测》（913联考）第83题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2009-913联考-84-2",
@@ -2281,7 +2417,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年海南公务员考试《行测》（913联考）第84题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2009-913联考-85-2",
@@ -2317,7 +2455,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年海南公务员考试《行测》（913联考）第85题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2010-425联考-18",
@@ -2337,7 +2477,9 @@
     "difficulty": "中等",
     "source": "2010年海南公务员考试《行测》（425联考）第18题",
     "isImageQuestion": true,
-    "province": "海南"
+    "province": "海南",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2010-425联考-19",
@@ -2372,7 +2514,9 @@
     "difficulty": "中等",
     "source": "2010年海南公务员考试《行测》（425联考）第19题",
     "isImageQuestion": true,
-    "province": "海南"
+    "province": "海南",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2010-425联考-20",
@@ -2388,7 +2532,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2010年海南公务员考试《行测》（425联考）第20题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-hainan-2010-425联考-21",
@@ -2423,7 +2569,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年海南公务员考试《行测》（425联考）第21题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2010-425联考-22",
@@ -2459,7 +2607,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年海南公务员考试《行测》（425联考）第22题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2010-425联考-23",
@@ -2494,7 +2644,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年海南公务员考试《行测》（425联考）第23题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2010-425联考-24",
@@ -2530,7 +2682,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年海南公务员考试《行测》（425联考）第24题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2010-425联考-25",
@@ -2565,7 +2719,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年海南公务员考试《行测》（425联考）第25题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2010-425联考-26",
@@ -2600,7 +2756,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年海南公务员考试《行测》（425联考）第26题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2010-425联考-27",
@@ -2636,7 +2794,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年海南公务员考试《行测》（425联考）第27题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2010-425联考-28",
@@ -2671,7 +2831,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年海南公务员考试《行测》（425联考）第28题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2010-425联考-29",
@@ -2707,7 +2869,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年海南公务员考试《行测》（425联考）第29题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2010-425联考-30",
@@ -2742,7 +2906,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年海南公务员考试《行测》（425联考）第30题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2010-425联考-31",
@@ -2778,7 +2944,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年海南公务员考试《行测》（425联考）第31题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2010-425联考-32",
@@ -2814,7 +2982,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年海南公务员考试《行测》（425联考）第32题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2010-425联考-33",
@@ -2849,7 +3019,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年海南公务员考试《行测》（425联考）第33题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2010-425联考-34",
@@ -2885,7 +3057,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年海南公务员考试《行测》（425联考）第34题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2010-425联考-35",
@@ -2920,7 +3094,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年海南公务员考试《行测》（425联考）第35题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2010-425联考-36",
@@ -2955,7 +3131,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年海南公务员考试《行测》（425联考）第36题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2010-425联考-37",
@@ -2991,7 +3169,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年海南公务员考试《行测》（425联考）第37题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2010-425联考-38",
@@ -3027,7 +3207,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年海南公务员考试《行测》（425联考）第38题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2010-425联考-39",
@@ -3062,7 +3244,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年海南公务员考试《行测》（425联考）第39题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2010-425联考-40",
@@ -3098,7 +3282,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年海南公务员考试《行测》（425联考）第40题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2010-425联考-41",
@@ -3134,7 +3320,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年海南公务员考试《行测》（425联考）第41题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2010-425联考-42",
@@ -3169,7 +3357,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年海南公务员考试《行测》（425联考）第42题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2010-425联考-43",
@@ -3205,7 +3395,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年海南公务员考试《行测》（425联考）第43题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2010-425联考-44",
@@ -3241,7 +3433,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年海南公务员考试《行测》（425联考）第44题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2010-425联考-45",
@@ -3277,7 +3471,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年海南公务员考试《行测》（425联考）第45题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2010-425联考-46",
@@ -3313,7 +3509,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年海南公务员考试《行测》（425联考）第46题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2010-425联考-47",
@@ -3348,7 +3546,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年海南公务员考试《行测》（425联考）第47题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2010-425联考-48",
@@ -3383,7 +3583,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年海南公务员考试《行测》（425联考）第48题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2010-425联考-49",
@@ -3418,7 +3620,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年海南公务员考试《行测》（425联考）第49题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2010-425联考-50",
@@ -3454,7 +3658,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年海南公务员考试《行测》（425联考）第50题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2010-918联考-46",
@@ -3473,7 +3679,9 @@
     "difficulty": "中等",
     "source": "2010年海南公务员考试《行测》（918联考）第46题",
     "isImageQuestion": true,
-    "province": "海南"
+    "province": "海南",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2010-918联考-47",
@@ -3492,7 +3700,9 @@
     "difficulty": "中等",
     "source": "2010年海南公务员考试《行测》（918联考）第47题",
     "isImageQuestion": true,
-    "province": "海南"
+    "province": "海南",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2010-918联考-48",
@@ -3511,7 +3721,9 @@
     "difficulty": "中等",
     "source": "2010年海南公务员考试《行测》（918联考）第48题",
     "isImageQuestion": true,
-    "province": "海南"
+    "province": "海南",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2010-918联考-49",
@@ -3529,7 +3741,9 @@
     "difficulty": "中等",
     "source": "2010年海南公务员考试《行测》（918联考）第49题",
     "isImageQuestion": true,
-    "province": "海南"
+    "province": "海南",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2010-918联考-50",
@@ -3548,7 +3762,9 @@
     "difficulty": "中等",
     "source": "2010年海南公务员考试《行测》（918联考）第50题",
     "isImageQuestion": true,
-    "province": "海南"
+    "province": "海南",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2010-918联考-51",
@@ -3583,7 +3799,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年海南公务员考试《行测》（918联考）第51题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2010-918联考-52",
@@ -3619,7 +3837,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年海南公务员考试《行测》（918联考）第52题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2010-918联考-53",
@@ -3655,7 +3875,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年海南公务员考试《行测》（918联考）第53题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2010-918联考-54",
@@ -3690,7 +3912,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年海南公务员考试《行测》（918联考）第54题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2010-918联考-55",
@@ -3726,7 +3950,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年海南公务员考试《行测》（918联考）第55题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2010-918联考-56",
@@ -3762,7 +3988,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年海南公务员考试《行测》（918联考）第56题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2010-918联考-57",
@@ -3798,7 +4026,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年海南公务员考试《行测》（918联考）第57题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2010-918联考-58",
@@ -3834,7 +4064,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年海南公务员考试《行测》（918联考）第58题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2010-918联考-59",
@@ -3870,7 +4102,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年海南公务员考试《行测》（918联考）第59题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2010-918联考-60",
@@ -3905,7 +4139,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年海南公务员考试《行测》（918联考）第60题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2010-918联考-61",
@@ -3941,7 +4177,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年海南公务员考试《行测》（918联考）第61题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2010-918联考-62",
@@ -3977,7 +4215,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年海南公务员考试《行测》（918联考）第62题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2010-918联考-63",
@@ -4013,7 +4253,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年海南公务员考试《行测》（918联考）第63题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2010-918联考-64",
@@ -4049,7 +4291,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年海南公务员考试《行测》（918联考）第64题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2010-918联考-65",
@@ -4085,7 +4329,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年海南公务员考试《行测》（918联考）第65题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2010-918联考-66",
@@ -4121,7 +4367,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年海南公务员考试《行测》（918联考）第66题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2010-918联考-67",
@@ -4157,7 +4405,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年海南公务员考试《行测》（918联考）第67题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2010-918联考-68",
@@ -4193,7 +4443,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年海南公务员考试《行测》（918联考）第68题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2010-918联考-69",
@@ -4227,7 +4479,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年海南公务员考试《行测》（918联考）第69题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2010-918联考-70",
@@ -4263,7 +4517,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年海南公务员考试《行测》（918联考）第70题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2010-918联考-71",
@@ -4298,7 +4554,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年海南公务员考试《行测》（918联考）第71题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2010-918联考-72",
@@ -4333,7 +4591,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年海南公务员考试《行测》（918联考）第72题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2010-918联考-73",
@@ -4368,7 +4628,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年海南公务员考试《行测》（918联考）第73题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2010-918联考-74",
@@ -4403,7 +4665,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年海南公务员考试《行测》（918联考）第74题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2010-918联考-75",
@@ -4438,7 +4702,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年海南公务员考试《行测》（918联考）第75题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2010-918联考-76",
@@ -4473,7 +4739,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年海南公务员考试《行测》（918联考）第76题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2010-918联考-77",
@@ -4508,7 +4776,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年海南公务员考试《行测》（918联考）第77题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2010-918联考-78",
@@ -4543,7 +4813,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年海南公务员考试《行测》（918联考）第78题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2010-918联考-79",
@@ -4579,7 +4851,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年海南公务员考试《行测》（918联考）第79题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2010-918联考-80",
@@ -4614,7 +4888,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年海南公务员考试《行测》（918联考）第80题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2011-424联考-51",
@@ -4633,7 +4909,9 @@
     "difficulty": "中等",
     "source": "2011年海南公务员考试《行测》（424联考）第51题",
     "isImageQuestion": true,
-    "province": "海南"
+    "province": "海南",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2011-424联考-52",
@@ -4653,7 +4931,9 @@
     "difficulty": "中等",
     "source": "2011年海南公务员考试《行测》（424联考）第52题",
     "isImageQuestion": true,
-    "province": "海南"
+    "province": "海南",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2011-424联考-53",
@@ -4673,7 +4953,9 @@
     "difficulty": "中等",
     "source": "2011年海南公务员考试《行测》（424联考）第53题",
     "isImageQuestion": true,
-    "province": "海南"
+    "province": "海南",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2011-424联考-54",
@@ -4693,7 +4975,9 @@
     "difficulty": "中等",
     "source": "2011年海南公务员考试《行测》（424联考）第54题",
     "isImageQuestion": true,
-    "province": "海南"
+    "province": "海南",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2011-424联考-55",
@@ -4713,7 +4997,9 @@
     "difficulty": "中等",
     "source": "2011年海南公务员考试《行测》（424联考）第55题",
     "isImageQuestion": true,
-    "province": "海南"
+    "province": "海南",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2011-424联考-56",
@@ -4733,7 +5019,9 @@
     "difficulty": "中等",
     "source": "2011年海南公务员考试《行测》（424联考）第56题",
     "isImageQuestion": true,
-    "province": "海南"
+    "province": "海南",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2011-424联考-57",
@@ -4752,7 +5040,9 @@
     "difficulty": "中等",
     "source": "2011年海南公务员考试《行测》（424联考）第57题",
     "isImageQuestion": true,
-    "province": "海南"
+    "province": "海南",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2011-424联考-58",
@@ -4772,7 +5062,9 @@
     "difficulty": "中等",
     "source": "2011年海南公务员考试《行测》（424联考）第58题",
     "isImageQuestion": true,
-    "province": "海南"
+    "province": "海南",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2011-424联考-59",
@@ -4791,7 +5083,9 @@
     "difficulty": "中等",
     "source": "2011年海南公务员考试《行测》（424联考）第59题",
     "isImageQuestion": true,
-    "province": "海南"
+    "province": "海南",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2011-424联考-60",
@@ -4809,7 +5103,9 @@
     "difficulty": "中等",
     "source": "2011年海南公务员考试《行测》（424联考）第60题",
     "isImageQuestion": true,
-    "province": "海南"
+    "province": "海南",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2011-424联考-61",
@@ -4845,7 +5141,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年海南公务员考试《行测》（424联考）第61题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2011-424联考-62",
@@ -4881,7 +5179,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年海南公务员考试《行测》（424联考）第62题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2011-424联考-63",
@@ -4917,7 +5217,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年海南公务员考试《行测》（424联考）第63题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2011-424联考-64",
@@ -4953,7 +5255,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年海南公务员考试《行测》（424联考）第64题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2011-424联考-65",
@@ -4989,7 +5293,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年海南公务员考试《行测》（424联考）第65题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2011-424联考-66",
@@ -5025,7 +5331,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年海南公务员考试《行测》（424联考）第66题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2011-424联考-67",
@@ -5061,7 +5369,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年海南公务员考试《行测》（424联考）第67题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2011-424联考-68",
@@ -5097,7 +5407,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年海南公务员考试《行测》（424联考）第68题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2011-424联考-69",
@@ -5133,7 +5445,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年海南公务员考试《行测》（424联考）第69题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2011-424联考-70",
@@ -5169,7 +5483,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年海南公务员考试《行测》（424联考）第70题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2011-424联考-71",
@@ -5204,7 +5520,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年海南公务员考试《行测》（424联考）第71题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2011-424联考-72",
@@ -5240,7 +5558,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年海南公务员考试《行测》（424联考）第72题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2011-424联考-73",
@@ -5276,7 +5596,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年海南公务员考试《行测》（424联考）第73题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2011-424联考-74",
@@ -5310,7 +5632,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年海南公务员考试《行测》（424联考）第74题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2011-424联考-75",
@@ -5345,7 +5669,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年海南公务员考试《行测》（424联考）第75题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2011-424联考-76",
@@ -5380,7 +5706,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年海南公务员考试《行测》（424联考）第76题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2011-424联考-77",
@@ -5415,7 +5743,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年海南公务员考试《行测》（424联考）第77题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2011-424联考-78",
@@ -5451,7 +5781,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年海南公务员考试《行测》（424联考）第78题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2011-424联考-79",
@@ -5485,7 +5817,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年海南公务员考试《行测》（424联考）第79题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2011-424联考-80",
@@ -5520,7 +5854,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年海南公务员考试《行测》（424联考）第80题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2012-421联考-66",
@@ -5538,7 +5874,9 @@
     "difficulty": "中等",
     "source": "2012年海南公务员考试《行测》（421联考）第66题",
     "isImageQuestion": true,
-    "province": "海南"
+    "province": "海南",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2012-421联考-67",
@@ -5557,7 +5895,9 @@
     "difficulty": "中等",
     "source": "2012年海南公务员考试《行测》（421联考）第67题",
     "isImageQuestion": true,
-    "province": "海南"
+    "province": "海南",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2012-421联考-68",
@@ -5576,7 +5916,9 @@
     "difficulty": "中等",
     "source": "2012年海南公务员考试《行测》（421联考）第68题",
     "isImageQuestion": true,
-    "province": "海南"
+    "province": "海南",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2012-421联考-69",
@@ -5595,7 +5937,9 @@
     "difficulty": "中等",
     "source": "2012年海南公务员考试《行测》（421联考）第69题",
     "isImageQuestion": true,
-    "province": "海南"
+    "province": "海南",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2012-421联考-70",
@@ -5615,7 +5959,9 @@
     "difficulty": "中等",
     "source": "2012年海南公务员考试《行测》（421联考）第70题",
     "isImageQuestion": true,
-    "province": "海南"
+    "province": "海南",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2012-421联考-71",
@@ -5651,7 +5997,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年海南公务员考试《行测》（421联考）第71题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2012-421联考-72",
@@ -5687,7 +6035,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年海南公务员考试《行测》（421联考）第72题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2012-421联考-73",
@@ -5723,7 +6073,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年海南公务员考试《行测》（421联考）第73题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2012-421联考-74",
@@ -5759,7 +6111,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年海南公务员考试《行测》（421联考）第74题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2012-421联考-75",
@@ -5794,7 +6148,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年海南公务员考试《行测》（421联考）第75题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2012-421联考-76",
@@ -5829,7 +6185,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年海南公务员考试《行测》（421联考）第76题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2012-421联考-77",
@@ -5865,7 +6223,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年海南公务员考试《行测》（421联考）第77题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2012-421联考-78",
@@ -5900,7 +6260,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年海南公务员考试《行测》（421联考）第78题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2012-421联考-79",
@@ -5936,7 +6298,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年海南公务员考试《行测》（421联考）第79题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2012-421联考-80",
@@ -5972,7 +6336,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年海南公务员考试《行测》（421联考）第80题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2012-421联考-81",
@@ -6007,7 +6373,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年海南公务员考试《行测》（421联考）第81题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2012-421联考-82",
@@ -6041,7 +6409,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年海南公务员考试《行测》（421联考）第82题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2012-421联考-83",
@@ -6076,7 +6446,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年海南公务员考试《行测》（421联考）第83题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2012-421联考-84",
@@ -6112,7 +6484,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年海南公务员考试《行测》（421联考）第84题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2012-421联考-85",
@@ -6147,7 +6521,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年海南公务员考试《行测》（421联考）第85题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2012-421联考-86",
@@ -6183,7 +6559,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年海南公务员考试《行测》（421联考）第86题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2012-421联考-87",
@@ -6219,7 +6597,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年海南公务员考试《行测》（421联考）第87题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2012-421联考-88",
@@ -6255,7 +6635,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年海南公务员考试《行测》（421联考）第88题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2012-421联考-89",
@@ -6290,7 +6672,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年海南公务员考试《行测》（421联考）第89题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2012-421联考-90",
@@ -6325,7 +6709,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年海南公务员考试《行测》（421联考）第90题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2012-421联考-91",
@@ -6359,7 +6745,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年海南公务员考试《行测》（421联考）第91题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2012-421联考-92",
@@ -6393,7 +6781,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年海南公务员考试《行测》（421联考）第92题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2012-421联考-93",
@@ -6429,7 +6819,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年海南公务员考试《行测》（421联考）第93题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2012-421联考-94",
@@ -6464,7 +6856,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年海南公务员考试《行测》（421联考）第94题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2012-421联考-95",
@@ -6499,7 +6893,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年海南公务员考试《行测》（421联考）第95题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2012-421联考-96",
@@ -6534,7 +6930,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年海南公务员考试《行测》（421联考）第96题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-hainan-2012-421联考-97",
@@ -6570,6 +6968,8 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年海南公务员考试《行测》（421联考）第97题",
-    "province": "海南"
+    "province": "海南",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   }
 ]

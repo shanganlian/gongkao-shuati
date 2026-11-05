@@ -64,7 +64,7 @@ const ScoreRing: React.FC<{ score: number; grade: string }> = ({ score, grade })
       className="relative flex h-32 w-32 shrink-0 items-center justify-center rounded-full"
       style={{ background: `conic-gradient(${ringColor(safe)} ${safe * 3.6}deg, #e2e8f0 0deg)` }}
     >
-      <div className="flex h-[104px] w-[104px] flex-col items-center justify-center rounded-full bg-white">
+      <div className="flex h-[104px] w-[104px] flex-col items-center justify-center rounded-full bg-white dark:bg-slate-900">
         <span className={`text-4xl font-black tabular-nums ${scoreTone(safe)}`}>{safe}</span>
         <span className="mt-0.5 text-[10px] font-semibold text-slate-400">综合得分 · {grade}</span>
       </div>
@@ -78,21 +78,21 @@ const DimensionBar: React.FC<{
   comment: string;
   icon: React.ReactNode;
 }> = ({ label, score, comment, icon }) => (
-  <div className="rounded-xl border border-slate-200 bg-white p-3">
+  <div className="rounded-xl border border-slate-200 dark:border-slate-700 bg-white dark:bg-slate-900 p-3">
     <div className="flex items-center justify-between">
-      <span className="inline-flex items-center gap-1.5 text-xs font-bold text-slate-700">
-        <span className="text-indigo-500">{icon}</span>
+      <span className="inline-flex items-center gap-1.5 text-xs font-bold text-slate-700 dark:text-slate-200">
+        <span className="text-emerald-600 dark:text-emerald-400">{icon}</span>
         {label}
       </span>
       <span className={`text-sm font-black tabular-nums ${scoreTone(score)}`}>{score}</span>
     </div>
-    <div className="mt-2 h-1.5 overflow-hidden rounded-full bg-slate-100">
+    <div className="mt-2 h-1.5 overflow-hidden rounded-full bg-slate-100 dark:bg-slate-800">
       <div
         className="h-full rounded-full transition-[width] duration-500"
         style={{ width: `${Math.max(0, Math.min(100, score))}%`, backgroundColor: ringColor(score) }}
       />
     </div>
-    <p className="mt-2 text-[11px] leading-5 text-slate-500">{comment}</p>
+    <p className="mt-2 text-[11px] leading-5 text-slate-500 dark:text-slate-400">{comment}</p>
   </div>
 );
 
@@ -103,12 +103,12 @@ const MetricTile: React.FC<{
   hint?: string;
   icon: React.ReactNode;
 }> = ({ label, value, unit, hint, icon }) => (
-  <div className="rounded-xl bg-slate-50 p-3">
+  <div className="rounded-xl bg-slate-50 dark:bg-slate-800 p-3">
     <div className="flex items-center gap-1 text-[10px] font-bold uppercase tracking-wide text-slate-400">
       {icon}
       {label}
     </div>
-    <p className="mt-1 text-lg font-black tabular-nums text-slate-800">
+    <p className="mt-1 text-lg font-black tabular-nums text-slate-800 dark:text-slate-200">
       {value}
       {unit && <span className="ml-0.5 text-[10px] font-semibold text-slate-400">{unit}</span>}
     </p>
@@ -145,7 +145,7 @@ export const InterviewReport: React.FC<InterviewReportProps> = ({
       <div className="flex flex-col gap-2 sm:flex-row sm:items-center sm:justify-between">
         <button
           onClick={onBack}
-          className="inline-flex items-center gap-1.5 self-start rounded-lg px-2 py-1.5 text-xs font-semibold text-slate-500 transition-colors hover:bg-slate-100 hover:text-slate-900"
+          className="inline-flex items-center gap-1.5 self-start rounded-lg px-2 py-1.5 text-xs font-semibold text-slate-500 dark:text-slate-400 transition-colors hover:bg-slate-100 dark:hover:bg-slate-800 hover:text-slate-900 dark:hover:text-slate-100"
         >
           <ArrowLeft className="h-4 w-4" />
           返回面试大厅
@@ -153,21 +153,21 @@ export const InterviewReport: React.FC<InterviewReportProps> = ({
         <div className="flex flex-wrap items-center gap-2">
           <button
             onClick={onOpenHistory}
-            className="inline-flex items-center gap-1.5 rounded-lg border border-slate-200 bg-white px-3 py-1.5 text-xs font-semibold text-slate-600 transition-colors hover:bg-slate-50"
+            className="inline-flex items-center gap-1.5 rounded-lg border border-slate-200 dark:border-slate-700 bg-white dark:bg-slate-900 px-3 py-1.5 text-xs font-semibold text-slate-600 dark:text-slate-300 transition-colors hover:bg-slate-50 dark:hover:bg-slate-800"
           >
             <History className="h-3.5 w-3.5" />
             练习记录
           </button>
           <button
             onClick={onRetry}
-            className="inline-flex items-center gap-1.5 rounded-lg bg-indigo-600 px-3.5 py-1.5 text-xs font-bold text-white transition-colors hover:bg-indigo-700"
+            className="inline-flex items-center gap-1.5 rounded-lg bg-emerald-600 px-3.5 py-1.5 text-xs font-bold text-white transition-colors hover:bg-emerald-700"
           >
             <RotateCcw className="h-3.5 w-3.5" />
             再练这道题
           </button>
         </div>
       </div>
-      <section className="overflow-hidden rounded-3xl border border-slate-200/80 bg-white shadow-sm">
+      <section className="overflow-hidden rounded-3xl border border-slate-200/80 dark:border-slate-700/80 bg-white dark:bg-slate-900 shadow-sm">
         <div className="grid gap-5 p-5 sm:p-6 lg:grid-cols-[auto_1fr_auto] lg:items-center">
           <ScoreRing score={review.overallScore} grade={review.grade} />
 
@@ -176,12 +176,12 @@ export const InterviewReport: React.FC<InterviewReportProps> = ({
               <InterviewCategoryBadge category={record.category} />
               <InterviewDifficultyBadge difficulty={record.difficulty} />
               <InterviewProviderBadge provider={review.provider} degraded={review.degraded} />
-              <span className="inline-flex items-center gap-1 rounded-md border border-slate-200 bg-slate-50 px-1.5 py-0.5 text-[10px] font-semibold text-slate-500">
+              <span className="inline-flex items-center gap-1 rounded-md border border-slate-200 dark:border-slate-700 bg-slate-50 dark:bg-slate-800 px-1.5 py-0.5 text-[10px] font-semibold text-slate-500 dark:text-slate-400">
                 {record.inputMode === 'voice' ? <Mic className="h-3 w-3" /> : <FileText className="h-3 w-3" />}
                 {record.inputMode === 'voice' ? '语音作答' : '打字作答'}
               </span>
             </div>
-            <h1 className="mt-2 text-lg font-bold leading-7 text-slate-900 sm:text-xl">
+            <h1 className="mt-2 text-lg font-bold leading-7 text-slate-900 dark:text-slate-100 sm:text-xl">
               {review.grade} · {record.questionTitle}
             </h1>
             <p className="mt-1.5 flex flex-wrap items-center gap-x-3 gap-y-1 text-[11px] text-slate-400">
@@ -192,7 +192,7 @@ export const InterviewReport: React.FC<InterviewReportProps> = ({
               <span>作答 {formatDuration(record.durationSeconds)}</span>
               <span className="font-mono">{record.questionId}</span>
             </p>
-            <p className="mt-2 text-[11px] leading-5 text-slate-500">
+            <p className="mt-2 text-[11px] leading-5 text-slate-500 dark:text-slate-400">
               {providerDescription(review.provider, review.degraded)}
             </p>
             {review.grade && (
@@ -205,21 +205,21 @@ export const InterviewReport: React.FC<InterviewReportProps> = ({
             )}
           </div>
 
-          <div className="rounded-2xl bg-slate-50 p-4 lg:w-52">
+          <div className="rounded-2xl bg-slate-50 dark:bg-slate-800 p-4 lg:w-52">
             <p className="text-[10px] font-bold uppercase tracking-wider text-slate-400">采分点命中</p>
-            <p className="mt-1 text-2xl font-black tabular-nums text-slate-800">
+            <p className="mt-1 text-2xl font-black tabular-nums text-slate-800 dark:text-slate-200">
               {hitCount}
               <span className="text-sm font-semibold text-slate-400"> / {review.pointsTotal}</span>
             </p>
-            <div className="mt-2 h-1.5 overflow-hidden rounded-full bg-slate-200">
+            <div className="mt-2 h-1.5 overflow-hidden rounded-full bg-slate-200 dark:bg-slate-700">
               <div
-                className="h-full rounded-full bg-indigo-500"
+                className="h-full rounded-full bg-emerald-500"
                 style={{
                   width: `${review.pointsTotal ? Math.round((hitCount / review.pointsTotal) * 100) : 0}%`,
                 }}
               />
             </div>
-            <p className="mt-2 text-[11px] text-slate-500">
+            <p className="mt-2 text-[11px] text-slate-500 dark:text-slate-400">
               {review.criticalMissed.length > 0
                 ? `漏掉 ${review.criticalMissed.length} 条主线采分点`
                 : '主线采分点已全部覆盖'}
@@ -228,7 +228,7 @@ export const InterviewReport: React.FC<InterviewReportProps> = ({
         </div>
 
         {review.degraded && (
-          <div className="flex items-start gap-2 border-t border-amber-100 bg-amber-50 px-5 py-3 text-[11px] leading-5 text-amber-800 sm:px-6">
+          <div className="flex items-start gap-2 border-t border-slate-200 dark:border-slate-700 bg-slate-50 dark:bg-slate-800 px-5 py-3 text-[11px] leading-5 text-slate-600 dark:text-slate-300 sm:px-6">
             <AlertTriangle className="mt-0.5 h-4 w-4 shrink-0" />
             <p>
               <span className="font-bold">本次为本地规则评分，不是 AI 点评。</span>
@@ -237,7 +237,7 @@ export const InterviewReport: React.FC<InterviewReportProps> = ({
           </div>
         )}
 
-        <div className="grid grid-cols-2 gap-2 border-t border-slate-100 p-4 sm:grid-cols-4 sm:px-6">
+        <div className="grid grid-cols-2 gap-2 border-t border-slate-100 dark:border-slate-800 p-4 sm:grid-cols-4 sm:px-6">
           <MetricTile
             label="有效字数"
             value={metrics.charCount}
@@ -269,10 +269,10 @@ export const InterviewReport: React.FC<InterviewReportProps> = ({
         </div>
       </section>
       <div className="grid gap-4 lg:grid-cols-[0.9fr_1.25fr]">
-        <section className="rounded-2xl border border-slate-200/80 bg-slate-50/50 p-4 sm:p-5">
+        <section className="rounded-2xl border border-slate-200/80 dark:border-slate-700/80 bg-slate-50/50 dark:bg-slate-800/50 p-4 sm:p-5">
           <div className="flex items-center justify-between">
-            <h2 className="inline-flex items-center gap-1.5 text-sm font-bold text-slate-800">
-              <Target className="h-4 w-4 text-indigo-500" />
+            <h2 className="inline-flex items-center gap-1.5 text-sm font-bold text-slate-800 dark:text-slate-200">
+              <Target className="h-4 w-4 text-emerald-600 dark:text-emerald-400" />
               三维评分
             </h2>
             <span className="text-[10px] text-slate-400">单项 0–100</span>
@@ -299,29 +299,29 @@ export const InterviewReport: React.FC<InterviewReportProps> = ({
           </div>
 
           {criticalMissedText.length > 0 ? (
-            <div className="mt-3 rounded-xl border border-rose-100 bg-rose-50 p-3">
-              <p className="inline-flex items-center gap-1 text-[11px] font-bold text-rose-700">
+            <div className="mt-3 rounded-xl border border-rose-100 dark:border-rose-900 bg-rose-50 dark:bg-rose-900/40 p-3">
+              <p className="inline-flex items-center gap-1 text-[11px] font-bold text-rose-700 dark:text-rose-300">
                 <AlertTriangle className="h-3.5 w-3.5" />
                 主线采分点漏答（会被考官直接扣分）
               </p>
-              <ul className="mt-1.5 space-y-1 text-[11px] leading-5 text-rose-800">
+              <ul className="mt-1.5 space-y-1 text-[11px] leading-5 text-rose-800 dark:text-rose-300">
                 {criticalMissedText.map((text) => (
                   <li key={text}>· {text}</li>
                 ))}
               </ul>
             </div>
           ) : (
-            <div className="mt-3 rounded-xl border border-emerald-100 bg-emerald-50 p-3 text-[11px] font-semibold leading-5 text-emerald-700">
+            <div className="mt-3 rounded-xl border border-emerald-100 dark:border-emerald-900 bg-emerald-50 dark:bg-emerald-900/40 p-3 text-[11px] font-semibold leading-5 text-emerald-700 dark:text-emerald-300">
               <CheckCircle2 className="mr-1 inline h-3.5 w-3.5" />
               本题所有主线采分点均已出现，结构基本完整。
             </div>
           )}
         </section>
 
-        <section className="rounded-2xl border border-slate-200/80 bg-white p-4 sm:p-5">
+        <section className="rounded-2xl border border-slate-200/80 dark:border-slate-700/80 bg-white dark:bg-slate-900 p-4 sm:p-5">
           <div className="flex flex-wrap items-center justify-between gap-2">
-            <h2 className="inline-flex items-center gap-1.5 text-sm font-bold text-slate-800">
-              <BookOpen className="h-4 w-4 text-indigo-500" />
+            <h2 className="inline-flex items-center gap-1.5 text-sm font-bold text-slate-800 dark:text-slate-200">
+              <BookOpen className="h-4 w-4 text-emerald-600 dark:text-emerald-400" />
               采分点逐条对照
             </h2>
             <div className="flex items-center gap-2 text-[10px] text-slate-400">
@@ -330,10 +330,10 @@ export const InterviewReport: React.FC<InterviewReportProps> = ({
                 已覆盖
               </span>
               <span className="inline-flex items-center gap-1">
-                <span className="h-2 w-2 rounded-full bg-rose-400" />
+                <span className="h-2 w-2 rounded-full bg-rose-400 dark:bg-rose-700" />
                 未覆盖
               </span>
-              <span className="text-amber-600">★ 主线</span>
+              <span className="text-amber-600 dark:text-amber-400">★ 主线</span>
             </div>
           </div>
 
@@ -345,36 +345,36 @@ export const InterviewReport: React.FC<InterviewReportProps> = ({
                 <li
                   key={point.index}
                   className={`rounded-xl border p-3 ${
-                    point.hit ? 'border-emerald-100 bg-emerald-50/40' : 'border-rose-100 bg-rose-50/30'
+                    point.hit ? 'border-emerald-100 dark:border-emerald-900 bg-emerald-50/40 dark:bg-emerald-900/40' : 'border-rose-100 dark:border-rose-900 bg-rose-50/30 dark:bg-rose-900/40'
                   }`}
                 >
                   <div className="flex items-start gap-2.5">
                     <span
                       className={`mt-0.5 flex h-6 w-6 shrink-0 items-center justify-center rounded-full text-[11px] font-black ${
-                        point.hit ? 'bg-emerald-100 text-emerald-700' : 'bg-rose-100 text-rose-600'
+                        point.hit ? 'bg-emerald-100 dark:bg-emerald-900/40 text-emerald-700 dark:text-emerald-300' : 'bg-rose-100 dark:bg-rose-900/40 text-rose-600 dark:text-rose-400'
                       }`}
                     >
                       {point.index}
                     </span>
                     <div className="min-w-0 flex-1">
-                      <p className="text-xs font-semibold leading-5 text-slate-800">
-                        {source?.critical && <span className="mr-0.5 text-amber-500">★</span>}
+                      <p className="text-xs font-semibold leading-5 text-slate-800 dark:text-slate-200">
+                        {source?.critical && <span className="mr-0.5 text-amber-500 dark:text-amber-400">★</span>}
                         {text}
                       </p>
                       {point.hit ? (
-                        <p className="mt-1 rounded-lg bg-white/80 px-2 py-1 text-[11px] leading-5 text-emerald-800">
+                        <p className="mt-1 rounded-lg bg-white/80 dark:bg-slate-900/80 px-2 py-1 text-[11px] leading-5 text-emerald-800 dark:text-emerald-300">
                           <span className="font-bold">命中依据：</span>
                           {point.evidence || '作答中出现了该采分点的核心表述'}
                         </p>
                       ) : (
-                        <p className="mt-1 text-[11px] leading-5 text-rose-700">
+                        <p className="mt-1 text-[11px] leading-5 text-rose-700 dark:text-rose-300">
                           未在转写中找到对应表述，下轮把它补成“对象 + 动作 + 结果”。
                         </p>
                       )}
                     </div>
                     <span
                       className={`mt-0.5 inline-flex shrink-0 items-center gap-0.5 rounded-md px-1.5 py-0.5 text-[10px] font-bold ${
-                        point.hit ? 'bg-emerald-100 text-emerald-700' : 'bg-rose-100 text-rose-600'
+                        point.hit ? 'bg-emerald-100 dark:bg-emerald-900/40 text-emerald-700 dark:text-emerald-300' : 'bg-rose-100 dark:bg-rose-900/40 text-rose-600 dark:text-rose-400'
                       }`}
                     >
                       {point.hit ? <CheckCircle2 className="h-3 w-3" /> : <XCircle className="h-3 w-3" />}
@@ -387,29 +387,29 @@ export const InterviewReport: React.FC<InterviewReportProps> = ({
           </ol>
         </section>
       </div>
-      <section className="rounded-2xl border border-slate-200/80 bg-white p-4 sm:p-5">
+      <section className="rounded-2xl border border-slate-200/80 dark:border-slate-700/80 bg-white dark:bg-slate-900 p-4 sm:p-5">
         <div className="flex flex-wrap items-center justify-between gap-2">
-          <h2 className="inline-flex items-center gap-1.5 text-sm font-bold text-slate-800">
-            <Lightbulb className="h-4 w-4 text-amber-500" />
+          <h2 className="inline-flex items-center gap-1.5 text-sm font-bold text-slate-800 dark:text-slate-200">
+            <Lightbulb className="h-4 w-4 text-emerald-600 dark:text-emerald-400" />
             下一次只改这 {review.improvements.length} 点
           </h2>
           <span className="text-[10px] text-slate-400">按优先级排序，不需要一次全改</span>
         </div>
         <div className="mt-3 grid gap-3 md:grid-cols-3">
           {review.improvements.map((item, index) => (
-            <article key={`${item.dimension}-${index}`} className="flex flex-col rounded-xl border border-slate-200 bg-slate-50/60 p-3.5">
+            <article key={`${item.dimension}-${index}`} className="flex flex-col rounded-xl border border-slate-200 dark:border-slate-700 bg-slate-50/60 dark:bg-slate-800/60 p-3.5">
               <div className="flex items-center justify-between">
-                <span className="rounded-md bg-indigo-100 px-1.5 py-0.5 text-[10px] font-bold text-indigo-700">
+                <span className="rounded-md bg-emerald-100 dark:bg-emerald-900/40 px-1.5 py-0.5 text-[10px] font-bold text-emerald-700 dark:text-emerald-300">
                   {item.dimension}
                 </span>
                 <span className="font-mono text-[10px] text-slate-400">0{index + 1}</span>
               </div>
-              <p className="mt-2 text-xs font-bold leading-5 text-slate-800">{item.issue}</p>
-              <p className="mt-1.5 inline-flex items-start gap-1 text-[11px] leading-5 text-slate-600">
-                <ArrowRight className="mt-1 h-3 w-3 shrink-0 text-indigo-400" />
+              <p className="mt-2 text-xs font-bold leading-5 text-slate-800 dark:text-slate-200">{item.issue}</p>
+              <p className="mt-1.5 inline-flex items-start gap-1 text-[11px] leading-5 text-slate-600 dark:text-slate-300">
+                <ArrowRight className="mt-1 h-3 w-3 shrink-0 text-emerald-500 dark:text-emerald-400" />
                 {item.action}
               </p>
-              <p className="mt-2 rounded-lg border border-indigo-100 bg-indigo-50/60 px-2 py-1.5 text-[11px] leading-5 text-indigo-800">
+              <p className="mt-2 rounded-lg border border-emerald-100 dark:border-emerald-900 bg-emerald-50/60 dark:bg-emerald-900/40 px-2 py-1.5 text-[11px] leading-5 text-emerald-800 dark:text-emerald-300">
                 <span className="font-bold">示范句：</span>
                 {item.example}
               </p>
@@ -419,28 +419,28 @@ export const InterviewReport: React.FC<InterviewReportProps> = ({
       </section>
 
       <div className="grid gap-4 lg:grid-cols-2">
-        <section className="rounded-2xl border border-emerald-200/70 bg-emerald-50/40 p-4 sm:p-5">
-          <h2 className="inline-flex items-center gap-1.5 text-sm font-bold text-emerald-800">
+        <section className="rounded-2xl border border-emerald-200/70 dark:border-emerald-800/70 bg-emerald-50/40 dark:bg-emerald-900/40 p-4 sm:p-5">
+          <h2 className="inline-flex items-center gap-1.5 text-sm font-bold text-emerald-800 dark:text-emerald-300">
             <Sparkles className="h-4 w-4" />
             本题亮点
           </h2>
           {review.highlights.length > 0 ? (
             <ul className="mt-2.5 space-y-2">
               {review.highlights.map((text) => (
-                <li key={text} className="flex items-start gap-2 rounded-lg bg-white/70 px-2.5 py-2 text-[11px] leading-5 text-emerald-900">
-                  <CheckCircle2 className="mt-0.5 h-3.5 w-3.5 shrink-0 text-emerald-500" />
+                <li key={text} className="flex items-start gap-2 rounded-lg bg-white/70 dark:bg-slate-900/70 px-2.5 py-2 text-[11px] leading-5 text-emerald-900 dark:text-emerald-200">
+                  <CheckCircle2 className="mt-0.5 h-3.5 w-3.5 shrink-0 text-emerald-500 dark:text-emerald-400" />
                   {text}
                 </li>
               ))}
             </ul>
           ) : (
-            <p className="mt-2 text-[11px] text-emerald-800/70">本轮没有检测到特别突出的亮点，先把主线说全。</p>
+            <p className="mt-2 text-[11px] text-emerald-800/70 dark:text-emerald-300/70">本轮没有检测到特别突出的亮点，先把主线说全。</p>
           )}
         </section>
 
-        <section className="rounded-2xl border border-slate-200/80 bg-white p-4 sm:p-5">
-          <h2 className="inline-flex items-center gap-1.5 text-sm font-bold text-slate-800">
-            <BookOpen className="h-4 w-4 text-indigo-500" />
+        <section className="rounded-2xl border border-slate-200/80 dark:border-slate-700/80 bg-white dark:bg-slate-900 p-4 sm:p-5">
+          <h2 className="inline-flex items-center gap-1.5 text-sm font-bold text-slate-800 dark:text-slate-200">
+            <BookOpen className="h-4 w-4 text-emerald-600 dark:text-emerald-400" />
             可直接背的提纲
           </h2>
           <p className="mt-0.5 text-[10px] text-slate-400">
@@ -451,8 +451,8 @@ export const InterviewReport: React.FC<InterviewReportProps> = ({
           {review.modelOutline.length > 0 ? (
             <ol className="mt-2.5 space-y-1.5">
               {review.modelOutline.map((text, index) => (
-                <li key={`${text}-${index}`} className="flex gap-2 text-[11px] leading-5 text-slate-600">
-                  <span className="font-mono text-[10px] font-bold text-indigo-400">
+                <li key={`${text}-${index}`} className="flex gap-2 text-[11px] leading-5 text-slate-600 dark:text-slate-300">
+                  <span className="font-mono text-[10px] font-bold text-emerald-500 dark:text-emerald-400">
                     {String(index + 1).padStart(2, '0')}
                   </span>
                   <span>{text}</span>
@@ -464,8 +464,8 @@ export const InterviewReport: React.FC<InterviewReportProps> = ({
           )}
         </section>
       </div>
-      <details className="group rounded-2xl border border-slate-200/80 bg-white p-4 sm:p-5">
-        <summary className="flex cursor-pointer list-none items-center justify-between text-sm font-bold text-slate-800">
+      <details className="group rounded-2xl border border-slate-200/80 dark:border-slate-700/80 bg-white dark:bg-slate-900 p-4 sm:p-5">
+        <summary className="flex cursor-pointer list-none items-center justify-between text-sm font-bold text-slate-800 dark:text-slate-200">
           <span className="inline-flex items-center gap-1.5">
             <FileText className="h-4 w-4 text-slate-400" />
             查看原始作答转写
@@ -473,7 +473,7 @@ export const InterviewReport: React.FC<InterviewReportProps> = ({
           <span className="text-[10px] font-semibold text-slate-400 group-open:hidden">展开</span>
           <span className="hidden text-[10px] font-semibold text-slate-400 group-open:inline">收起</span>
         </summary>
-        <p className="mt-3 max-h-80 overflow-y-auto whitespace-pre-wrap rounded-xl bg-slate-50 p-3 text-[12px] leading-6 text-slate-600">
+        <p className="mt-3 max-h-80 overflow-y-auto whitespace-pre-wrap rounded-xl bg-slate-50 dark:bg-slate-800 p-3 text-[12px] leading-6 text-slate-600 dark:text-slate-300">
           {record.answerText?.trim() || '本题没有留下作答文本（可能未识别到语音，或选择了跳过）。'}
         </p>
         <p className="mt-2 text-[10px] text-slate-400">
@@ -481,10 +481,10 @@ export const InterviewReport: React.FC<InterviewReportProps> = ({
         </p>
       </details>
 
-      <section className="flex flex-col gap-4 rounded-2xl bg-slate-900 p-5 text-white sm:flex-row sm:items-center sm:justify-between">
+      <section className="flex flex-col gap-4 rounded-2xl bg-slate-900 dark:bg-slate-700 p-5 text-white sm:flex-row sm:items-center sm:justify-between">
         <div className="flex items-start gap-3">
           <div className="flex h-9 w-9 shrink-0 items-center justify-center rounded-full bg-white/10">
-            <Sparkles className="h-4 w-4 text-amber-300" />
+            <Sparkles className="h-4 w-4 text-emerald-200" />
           </div>
           <div>
             <p className="text-sm font-bold">下一遍，只盯一个改进点</p>
@@ -503,7 +503,7 @@ export const InterviewReport: React.FC<InterviewReportProps> = ({
           </button>
           <button
             onClick={onRetry}
-            className="inline-flex items-center gap-1.5 rounded-xl bg-white px-3.5 py-2 text-xs font-bold text-slate-900 transition-colors hover:bg-slate-100"
+            className="inline-flex items-center gap-1.5 rounded-xl bg-white dark:bg-slate-900 px-3.5 py-2 text-xs font-bold text-slate-900 dark:text-slate-100 transition-colors hover:bg-slate-100 dark:hover:bg-slate-800"
           >
             <RotateCcw className="h-3.5 w-3.5" />
             再练一遍

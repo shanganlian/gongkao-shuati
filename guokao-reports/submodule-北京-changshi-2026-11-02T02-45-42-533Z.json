@@ -1,0 +1,69 @@
+{
+  "generatedAt": "2026-11-02T02:45:42.533Z",
+  "promptVersion": "submodule-v1",
+  "model": "deepseek-flash",
+  "scope": {
+    "provinces": [
+      "北京"
+    ],
+    "modules": [
+      "changshi"
+    ],
+    "shards": [
+      "provincial-北京-changshi-0.json",
+      "provincial-北京-changshi-1.json",
+      "provincial-北京-changshi-2.json",
+      "provincial-北京-changshi-3.json"
+    ]
+  },
+  "counts": {
+    "matched": 656,
+    "existing": 0,
+    "invalidExisting": 0,
+    "needs": 656,
+    "attempted": 1,
+    "apiCalls": 1,
+    "cacheHits": 0,
+    "succeeded": 1,
+    "failed": 0,
+    "notRun": 655,
+    "classified": 1,
+    "lowConfidence": 0
+  },
+  "timing": {
+    "elapsedMs": 6809,
+    "perQuestionMs": 6809,
+    "per1000Ms": 6809000,
+    "per1000Minutes": 113.48333333333333
+  },
+  "usage": {
+    "promptTokens": 624,
+    "completionTokens": 76,
+    "cacheHitTokens": 384,
+    "cacheMissTokens": 240,
+    "totalTokens": 700
+  },
+  "price": {
+    "hit": 0.006,
+    "miss": 0.3,
+    "output": 1.2,
+    "usdCny": 7.1
+  },
+  "cost": {
+    "usdPeak": 0.00016550400000000002,
+    "usdOffPeak": 0.00008275200000000001,
+    "per1000UsdPeak": 0.165504,
+    "per1000CnyPeak": 1.1750784
+  },
+  "distribution": {
+    "常识判断": {
+      "total": 1,
+      "subModules": {
+        "经济管理": 1
+      }
+    }
+  },
+  "failures": [],
+  "lowConfidence": [],
+  "reviewSample": []
+}

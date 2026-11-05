@@ -16,7 +16,9 @@
     "difficulty": "中等",
     "source": "2009年福建公务员考试《行测》（联考）第51题",
     "isImageQuestion": true,
-    "province": "福建"
+    "province": "福建",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2009-联考-52",
@@ -35,7 +37,9 @@
     "difficulty": "中等",
     "source": "2009年福建公务员考试《行测》（联考）第52题",
     "isImageQuestion": true,
-    "province": "福建"
+    "province": "福建",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2009-联考-53",
@@ -53,7 +57,9 @@
     "difficulty": "中等",
     "source": "2009年福建公务员考试《行测》（联考）第53题",
     "isImageQuestion": true,
-    "province": "福建"
+    "province": "福建",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2009-联考-54",
@@ -72,7 +78,9 @@
     "difficulty": "中等",
     "source": "2009年福建公务员考试《行测》（联考）第54题",
     "isImageQuestion": true,
-    "province": "福建"
+    "province": "福建",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2009-联考-55",
@@ -90,7 +98,9 @@
     "difficulty": "中等",
     "source": "2009年福建公务员考试《行测》（联考）第55题",
     "isImageQuestion": true,
-    "province": "福建"
+    "province": "福建",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2009-联考-56",
@@ -125,7 +135,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年福建公务员考试《行测》（联考）第56题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2009-联考-57",
@@ -160,7 +172,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年福建公务员考试《行测》（联考）第57题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2009-联考-58",
@@ -195,7 +209,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年福建公务员考试《行测》（联考）第58题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2009-联考-59",
@@ -231,7 +247,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年福建公务员考试《行测》（联考）第59题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2009-联考-60",
@@ -266,7 +284,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年福建公务员考试《行测》（联考）第60题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2009-联考-61",
@@ -301,7 +321,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年福建公务员考试《行测》（联考）第61题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2009-联考-62",
@@ -337,7 +359,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年福建公务员考试《行测》（联考）第62题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2009-联考-63",
@@ -372,7 +396,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年福建公务员考试《行测》（联考）第63题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2009-联考-64",
@@ -407,7 +433,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年福建公务员考试《行测》（联考）第64题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2009-联考-65",
@@ -442,7 +470,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年福建公务员考试《行测》（联考）第65题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2009-春季-66",
@@ -477,7 +507,9 @@
     "difficulty": "中等",
     "source": "2009年福建公务员考试《行测》（春季）第66题",
     "isImageQuestion": true,
-    "province": "福建"
+    "province": "福建",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2009-联考-66",
@@ -513,7 +545,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年福建公务员考试《行测》（联考）第66题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2009-春季-67",
@@ -532,7 +566,9 @@
     "difficulty": "中等",
     "source": "2009年福建公务员考试《行测》（春季）第67题",
     "isImageQuestion": true,
-    "province": "福建"
+    "province": "福建",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2009-联考-67",
@@ -568,7 +604,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年福建公务员考试《行测》（联考）第67题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2009-春季-68",
@@ -587,7 +625,9 @@
     "difficulty": "中等",
     "source": "2009年福建公务员考试《行测》（春季）第68题",
     "isImageQuestion": true,
-    "province": "福建"
+    "province": "福建",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2009-联考-68",
@@ -623,7 +663,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年福建公务员考试《行测》（联考）第68题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2009-春季-69",
@@ -641,7 +683,9 @@
     "difficulty": "中等",
     "source": "2009年福建公务员考试《行测》（春季）第69题",
     "isImageQuestion": true,
-    "province": "福建"
+    "province": "福建",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2009-联考-69",
@@ -677,7 +721,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年福建公务员考试《行测》（联考）第69题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2009-春季-70",
@@ -696,7 +742,9 @@
     "difficulty": "中等",
     "source": "2009年福建公务员考试《行测》（春季）第70题",
     "isImageQuestion": true,
-    "province": "福建"
+    "province": "福建",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2009-联考-70",
@@ -732,7 +780,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年福建公务员考试《行测》（联考）第70题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2009-春季-71",
@@ -767,7 +817,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年福建公务员考试《行测》（春季）第71题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2009-联考-71",
@@ -803,7 +855,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年福建公务员考试《行测》（联考）第71题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2009-春季-72",
@@ -838,7 +892,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年福建公务员考试《行测》（春季）第72题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2009-联考-72",
@@ -874,7 +930,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年福建公务员考试《行测》（联考）第72题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2009-春季-73",
@@ -910,7 +968,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年福建公务员考试《行测》（春季）第73题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2009-联考-73",
@@ -945,7 +1005,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年福建公务员考试《行测》（联考）第73题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2009-春季-74",
@@ -981,7 +1043,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年福建公务员考试《行测》（春季）第74题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2009-联考-74",
@@ -1015,7 +1079,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年福建公务员考试《行测》（联考）第74题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2009-春季-75",
@@ -1050,7 +1116,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年福建公务员考试《行测》（春季）第75题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2009-联考-75",
@@ -1086,7 +1154,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年福建公务员考试《行测》（联考）第75题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2009-春季-76",
@@ -1121,7 +1191,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年福建公务员考试《行测》（春季）第76题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2009-联考-76",
@@ -1157,7 +1229,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年福建公务员考试《行测》（联考）第76题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2009-春季-77",
@@ -1193,7 +1267,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年福建公务员考试《行测》（春季）第77题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2009-联考-77",
@@ -1228,7 +1304,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年福建公务员考试《行测》（联考）第77题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2009-春季-78",
@@ -1264,7 +1342,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年福建公务员考试《行测》（春季）第78题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2009-联考-78",
@@ -1300,7 +1380,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年福建公务员考试《行测》（联考）第78题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2009-春季-79",
@@ -1335,7 +1417,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年福建公务员考试《行测》（春季）第79题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2009-联考-79",
@@ -1369,7 +1453,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年福建公务员考试《行测》（联考）第79题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2009-春季-80",
@@ -1404,7 +1490,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年福建公务员考试《行测》（春季）第80题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2009-联考-80",
@@ -1440,7 +1528,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年福建公务员考试《行测》（联考）第80题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2009-春季-81",
@@ -1476,7 +1566,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年福建公务员考试《行测》（春季）第81题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2009-联考-81",
@@ -1512,7 +1604,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年福建公务员考试《行测》（联考）第81题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2009-春季-82",
@@ -1548,7 +1642,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年福建公务员考试《行测》（春季）第82题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2009-联考-82",
@@ -1583,7 +1679,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年福建公务员考试《行测》（联考）第82题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2009-春季-83",
@@ -1619,7 +1717,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年福建公务员考试《行测》（春季）第83题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2009-联考-83",
@@ -1654,7 +1754,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年福建公务员考试《行测》（联考）第83题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2009-春季-84",
@@ -1690,7 +1792,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年福建公务员考试《行测》（春季）第84题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2009-联考-84",
@@ -1726,7 +1830,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年福建公务员考试《行测》（联考）第84题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2009-春季-85",
@@ -1761,7 +1867,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年福建公务员考试《行测》（春季）第85题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2009-联考-85",
@@ -1797,7 +1905,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年福建公务员考试《行测》（联考）第85题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2009-春季-86",
@@ -1833,7 +1943,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年福建公务员考试《行测》（春季）第86题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2009-春季-87",
@@ -1868,7 +1980,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年福建公务员考试《行测》（春季）第87题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2009-春季-88",
@@ -1904,7 +2018,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年福建公务员考试《行测》（春季）第88题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2009-春季-89",
@@ -1940,7 +2056,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年福建公务员考试《行测》（春季）第89题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2009-春季-90",
@@ -1976,7 +2094,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年福建公务员考试《行测》（春季）第90题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2009-春季-91",
@@ -2011,7 +2131,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年福建公务员考试《行测》（春季）第91题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2009-春季-92",
@@ -2046,7 +2168,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年福建公务员考试《行测》（春季）第92题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2009-春季-93",
@@ -2081,7 +2205,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年福建公务员考试《行测》（春季）第93题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2009-春季-94",
@@ -2116,7 +2242,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年福建公务员考试《行测》（春季）第94题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2009-春季-95",
@@ -2151,7 +2279,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年福建公务员考试《行测》（春季）第95题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2009-春季-96",
@@ -2187,7 +2317,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年福建公务员考试《行测》（春季）第96题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2009-春季-97",
@@ -2223,7 +2355,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年福建公务员考试《行测》（春季）第97题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2009-春季-98",
@@ -2258,7 +2392,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年福建公务员考试《行测》（春季）第98题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2009-春季-99",
@@ -2294,7 +2430,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年福建公务员考试《行测》（春季）第99题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2009-春季-100",
@@ -2330,7 +2468,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年福建公务员考试《行测》（春季）第100题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2009-春季-101",
@@ -2366,7 +2506,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年福建公务员考试《行测》（春季）第101题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2009-春季-102",
@@ -2401,7 +2543,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年福建公务员考试《行测》（春季）第102题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2009-春季-103",
@@ -2437,7 +2581,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年福建公务员考试《行测》（春季）第103题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2009-春季-104",
@@ -2473,7 +2619,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年福建公务员考试《行测》（春季）第104题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2009-春季-105",
@@ -2508,7 +2656,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年福建公务员考试《行测》（春季）第105题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2010-联考-46",
@@ -2526,7 +2676,9 @@
     "difficulty": "中等",
     "source": "2010年福建公务员考试《行测》（联考）第46题",
     "isImageQuestion": true,
-    "province": "福建"
+    "province": "福建",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2010-联考-47",
@@ -2545,7 +2697,9 @@
     "difficulty": "中等",
     "source": "2010年福建公务员考试《行测》（联考）第47题",
     "isImageQuestion": true,
-    "province": "福建"
+    "province": "福建",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2010-联考-48",
@@ -2564,7 +2718,9 @@
     "difficulty": "中等",
     "source": "2010年福建公务员考试《行测》（联考）第48题",
     "isImageQuestion": true,
-    "province": "福建"
+    "province": "福建",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2010-联考-49",
@@ -2597,7 +2753,9 @@
     "difficulty": "中等",
     "source": "2010年福建公务员考试《行测》（联考）第49题",
     "isImageQuestion": true,
-    "province": "福建"
+    "province": "福建",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2010-联考-50",
@@ -2616,7 +2774,9 @@
     "difficulty": "中等",
     "source": "2010年福建公务员考试《行测》（联考）第50题",
     "isImageQuestion": true,
-    "province": "福建"
+    "province": "福建",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2010-联考-51",
@@ -2651,7 +2811,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年福建公务员考试《行测》（联考）第51题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2010-联考-52",
@@ -2687,7 +2849,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年福建公务员考试《行测》（联考）第52题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2010-联考-53",
@@ -2723,7 +2887,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年福建公务员考试《行测》（联考）第53题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2010-联考-54",
@@ -2758,7 +2924,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年福建公务员考试《行测》（联考）第54题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2010-联考-55",
@@ -2794,7 +2962,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年福建公务员考试《行测》（联考）第55题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2010-联考-56",
@@ -2830,7 +3000,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年福建公务员考试《行测》（联考）第56题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2010-联考-57",
@@ -2866,7 +3038,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年福建公务员考试《行测》（联考）第57题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2010-联考-58",
@@ -2902,7 +3076,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年福建公务员考试《行测》（联考）第58题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2010-联考-59",
@@ -2938,7 +3114,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年福建公务员考试《行测》（联考）第59题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2010-联考-60",
@@ -2973,7 +3151,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年福建公务员考试《行测》（联考）第60题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2010-春季-61",
@@ -2991,7 +3171,9 @@
     "difficulty": "中等",
     "source": "2010年福建公务员考试《行测》（春季）第61题",
     "isImageQuestion": true,
-    "province": "福建"
+    "province": "福建",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2010-联考-61",
@@ -3027,7 +3209,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年福建公务员考试《行测》（联考）第61题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2010-春季-62",
@@ -3045,7 +3229,9 @@
     "difficulty": "中等",
     "source": "2010年福建公务员考试《行测》（春季）第62题",
     "isImageQuestion": true,
-    "province": "福建"
+    "province": "福建",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2010-联考-62",
@@ -3081,7 +3267,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年福建公务员考试《行测》（联考）第62题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2010-春季-63",
@@ -3099,7 +3287,9 @@
     "difficulty": "中等",
     "source": "2010年福建公务员考试《行测》（春季）第63题",
     "isImageQuestion": true,
-    "province": "福建"
+    "province": "福建",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2010-联考-63",
@@ -3135,7 +3325,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年福建公务员考试《行测》（联考）第63题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2010-春季-64",
@@ -3151,7 +3343,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2010年福建公务员考试《行测》（春季）第64题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-fujian-2010-联考-64",
@@ -3187,7 +3381,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年福建公务员考试《行测》（联考）第64题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2010-春季-65",
@@ -3206,7 +3402,9 @@
     "difficulty": "中等",
     "source": "2010年福建公务员考试《行测》（春季）第65题",
     "isImageQuestion": true,
-    "province": "福建"
+    "province": "福建",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2010-联考-65",
@@ -3242,7 +3440,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年福建公务员考试《行测》（联考）第65题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2010-春季-66",
@@ -3277,7 +3477,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年福建公务员考试《行测》（春季）第66题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2010-联考-66",
@@ -3313,7 +3515,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年福建公务员考试《行测》（联考）第66题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2010-春季-67",
@@ -3349,7 +3553,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年福建公务员考试《行测》（春季）第67题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2010-联考-67",
@@ -3385,7 +3591,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年福建公务员考试《行测》（联考）第67题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2010-春季-68",
@@ -3421,7 +3629,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年福建公务员考试《行测》（春季）第68题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2010-联考-68",
@@ -3457,7 +3667,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年福建公务员考试《行测》（联考）第68题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2010-春季-69",
@@ -3492,7 +3704,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年福建公务员考试《行测》（春季）第69题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2010-联考-69",
@@ -3528,7 +3742,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年福建公务员考试《行测》（联考）第69题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2010-春季-70",
@@ -3564,7 +3780,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年福建公务员考试《行测》（春季）第70题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2010-联考-70",
@@ -3600,7 +3818,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年福建公务员考试《行测》（联考）第70题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2010-春季-71",
@@ -3635,7 +3855,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年福建公务员考试《行测》（春季）第71题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2010-联考-71",
@@ -3670,7 +3892,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年福建公务员考试《行测》（联考）第71题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2010-春季-72",
@@ -3706,7 +3930,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年福建公务员考试《行测》（春季）第72题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2010-联考-72",
@@ -3741,7 +3967,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年福建公务员考试《行测》（联考）第72题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2010-春季-73",
@@ -3777,7 +4005,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年福建公务员考试《行测》（春季）第73题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2010-联考-73",
@@ -3812,7 +4042,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年福建公务员考试《行测》（联考）第73题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2010-春季-74",
@@ -3848,7 +4080,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年福建公务员考试《行测》（春季）第74题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2010-联考-74",
@@ -3883,7 +4117,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年福建公务员考试《行测》（联考）第74题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2010-春季-75",
@@ -3918,7 +4154,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年福建公务员考试《行测》（春季）第75题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2010-联考-75",
@@ -3953,7 +4191,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年福建公务员考试《行测》（联考）第75题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2010-春季-76",
@@ -3989,7 +4229,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年福建公务员考试《行测》（春季）第76题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2010-联考-76",
@@ -4024,7 +4266,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年福建公务员考试《行测》（联考）第76题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2010-春季-77",
@@ -4060,7 +4304,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年福建公务员考试《行测》（春季）第77题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2010-联考-77",
@@ -4095,7 +4341,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年福建公务员考试《行测》（联考）第77题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2010-春季-78",
@@ -4131,7 +4379,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年福建公务员考试《行测》（春季）第78题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2010-联考-78",
@@ -4166,7 +4416,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年福建公务员考试《行测》（联考）第78题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2010-春季-79",
@@ -4202,7 +4454,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年福建公务员考试《行测》（春季）第79题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2010-联考-79",
@@ -4238,7 +4492,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年福建公务员考试《行测》（联考）第79题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2010-春季-80",
@@ -4274,7 +4530,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年福建公务员考试《行测》（春季）第80题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2010-联考-80",
@@ -4309,7 +4567,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年福建公务员考试《行测》（联考）第80题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2010-春季-81",
@@ -4345,7 +4605,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年福建公务员考试《行测》（春季）第81题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2010-春季-82",
@@ -4377,7 +4639,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年福建公务员考试《行测》（春季）第82题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2010-春季-83",
@@ -4413,7 +4677,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年福建公务员考试《行测》（春季）第83题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2010-春季-84",
@@ -4449,7 +4715,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年福建公务员考试《行测》（春季）第84题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2010-春季-85",
@@ -4485,7 +4753,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年福建公务员考试《行测》（春季）第85题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2010-春季-86",
@@ -4520,7 +4790,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年福建公务员考试《行测》（春季）第86题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2010-春季-87",
@@ -4556,7 +4828,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年福建公务员考试《行测》（春季）第87题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2010-春季-88",
@@ -4592,7 +4866,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年福建公务员考试《行测》（春季）第88题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2010-春季-89",
@@ -4628,7 +4904,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年福建公务员考试《行测》（春季）第89题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2010-春季-90",
@@ -4663,7 +4941,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年福建公务员考试《行测》（春季）第90题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2010-春季-91",
@@ -4698,7 +4978,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年福建公务员考试《行测》（春季）第91题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2010-春季-92",
@@ -4734,7 +5016,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年福建公务员考试《行测》（春季）第92题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2010-春季-93",
@@ -4770,7 +5054,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年福建公务员考试《行测》（春季）第93题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2010-春季-94",
@@ -4805,7 +5091,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年福建公务员考试《行测》（春季）第94题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2010-春季-95",
@@ -4841,7 +5129,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年福建公务员考试《行测》（春季）第95题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2010-春季-96",
@@ -4877,7 +5167,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年福建公务员考试《行测》（春季）第96题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "图形推理",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-fujian-2010-春季-97",
@@ -4914,7 +5206,9 @@
     "difficulty": "中等",
     "source": "2010年福建公务员考试《行测》（春季）第97题",
     "isImageQuestion": true,
-    "province": "福建"
+    "province": "福建",
+    "subModule": "图形推理",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-fujian-2010-春季-98",
@@ -4933,7 +5227,10 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年福建公务员考试《行测》（春季）第98题",
-    "province": "福建"
+    "province": "福建",
+    "isAbnormal": true,
+    "subModule": "图形推理",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-fujian-2010-春季-99",
@@ -4968,7 +5265,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年福建公务员考试《行测》（春季）第99题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-fujian-2010-春季-100",
@@ -5003,7 +5302,9 @@
     "difficulty": "中等",
     "source": "2010年福建公务员考试《行测》（春季）第100题",
     "isImageQuestion": true,
-    "province": "福建"
+    "province": "福建",
+    "subModule": "图形推理",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-fujian-2010-春季-101",
@@ -5020,7 +5321,10 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年福建公务员考试《行测》（春季）第101题",
-    "province": "福建"
+    "province": "福建",
+    "isAbnormal": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-fujian-2010-春季-102",
@@ -5057,7 +5361,9 @@
     "difficulty": "中等",
     "source": "2010年福建公务员考试《行测》（春季）第102题",
     "isImageQuestion": true,
-    "province": "福建"
+    "province": "福建",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-fujian-2010-春季-103",
@@ -5091,7 +5397,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年福建公务员考试《行测》（春季）第103题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "图形推理",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-fujian-2010-春季-104",
@@ -5127,7 +5435,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年福建公务员考试《行测》（春季）第104题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-fujian-2010-春季-105",
@@ -5158,7 +5468,9 @@
     "difficulty": "中等",
     "source": "2010年福建公务员考试《行测》（春季）第105题",
     "isImageQuestion": true,
-    "province": "福建"
+    "province": "福建",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2011-424联考-51",
@@ -5176,7 +5488,9 @@
     "difficulty": "中等",
     "source": "2011年福建公务员考试《行测》（424联考）第51题",
     "isImageQuestion": true,
-    "province": "福建"
+    "province": "福建",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2011-424联考-52",
@@ -5196,7 +5510,9 @@
     "difficulty": "中等",
     "source": "2011年福建公务员考试《行测》（424联考）第52题",
     "isImageQuestion": true,
-    "province": "福建"
+    "province": "福建",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2011-424联考-53",
@@ -5215,7 +5531,9 @@
     "difficulty": "中等",
     "source": "2011年福建公务员考试《行测》（424联考）第53题",
     "isImageQuestion": true,
-    "province": "福建"
+    "province": "福建",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2011-424联考-54",
@@ -5234,7 +5552,9 @@
     "difficulty": "中等",
     "source": "2011年福建公务员考试《行测》（424联考）第54题",
     "isImageQuestion": true,
-    "province": "福建"
+    "province": "福建",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2011-424联考-55",
@@ -5254,7 +5574,9 @@
     "difficulty": "中等",
     "source": "2011年福建公务员考试《行测》（424联考）第55题",
     "isImageQuestion": true,
-    "province": "福建"
+    "province": "福建",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2011-424联考-56",
@@ -5273,7 +5595,9 @@
     "difficulty": "中等",
     "source": "2011年福建公务员考试《行测》（424联考）第56题",
     "isImageQuestion": true,
-    "province": "福建"
+    "province": "福建",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2011-424联考-57",
@@ -5292,7 +5616,9 @@
     "difficulty": "中等",
     "source": "2011年福建公务员考试《行测》（424联考）第57题",
     "isImageQuestion": true,
-    "province": "福建"
+    "province": "福建",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2011-424联考-58",
@@ -5311,7 +5637,9 @@
     "difficulty": "中等",
     "source": "2011年福建公务员考试《行测》（424联考）第58题",
     "isImageQuestion": true,
-    "province": "福建"
+    "province": "福建",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2011-424联考-59",
@@ -5330,7 +5658,9 @@
     "difficulty": "中等",
     "source": "2011年福建公务员考试《行测》（424联考）第59题",
     "isImageQuestion": true,
-    "province": "福建"
+    "province": "福建",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2011-424联考-60",
@@ -5348,7 +5678,9 @@
     "difficulty": "中等",
     "source": "2011年福建公务员考试《行测》（424联考）第60题",
     "isImageQuestion": true,
-    "province": "福建"
+    "province": "福建",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2011-424联考-61",
@@ -5384,7 +5716,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年福建公务员考试《行测》（424联考）第61题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2011-424联考-62",
@@ -5420,7 +5754,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年福建公务员考试《行测》（424联考）第62题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2011-424联考-63",
@@ -5456,7 +5792,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年福建公务员考试《行测》（424联考）第63题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2011-424联考-64",
@@ -5492,7 +5830,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年福建公务员考试《行测》（424联考）第64题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2011-424联考-65",
@@ -5528,7 +5868,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年福建公务员考试《行测》（424联考）第65题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2011-424联考-66",
@@ -5564,7 +5906,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年福建公务员考试《行测》（424联考）第66题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2011-917联考-66",
@@ -5584,7 +5928,9 @@
     "difficulty": "中等",
     "source": "2011年福建公务员考试《行测》（917联考）第66题",
     "isImageQuestion": true,
-    "province": "福建"
+    "province": "福建",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2011-424联考-67",
@@ -5620,7 +5966,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年福建公务员考试《行测》（424联考）第67题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2011-917联考-67",
@@ -5639,7 +5987,9 @@
     "difficulty": "中等",
     "source": "2011年福建公务员考试《行测》（917联考）第67题",
     "isImageQuestion": true,
-    "province": "福建"
+    "province": "福建",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2011-424联考-68",
@@ -5675,7 +6025,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年福建公务员考试《行测》（424联考）第68题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2011-917联考-68",
@@ -5694,7 +6046,9 @@
     "difficulty": "中等",
     "source": "2011年福建公务员考试《行测》（917联考）第68题",
     "isImageQuestion": true,
-    "province": "福建"
+    "province": "福建",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2011-424联考-69",
@@ -5730,7 +6084,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年福建公务员考试《行测》（424联考）第69题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2011-917联考-69",
@@ -5750,7 +6106,9 @@
     "difficulty": "中等",
     "source": "2011年福建公务员考试《行测》（917联考）第69题",
     "isImageQuestion": true,
-    "province": "福建"
+    "province": "福建",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2011-424联考-70",
@@ -5786,7 +6144,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年福建公务员考试《行测》（424联考）第70题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2011-917联考-70",
@@ -5804,7 +6164,9 @@
     "difficulty": "中等",
     "source": "2011年福建公务员考试《行测》（917联考）第70题",
     "isImageQuestion": true,
-    "province": "福建"
+    "province": "福建",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2011-424联考-71",
@@ -5839,7 +6201,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年福建公务员考试《行测》（424联考）第71题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2011-917联考-71",
@@ -5857,7 +6221,9 @@
     "difficulty": "中等",
     "source": "2011年福建公务员考试《行测》（917联考）第71题",
     "isImageQuestion": true,
-    "province": "福建"
+    "province": "福建",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2011-424联考-72",
@@ -5893,7 +6259,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年福建公务员考试《行测》（424联考）第72题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2011-917联考-72",
@@ -5913,7 +6281,9 @@
     "difficulty": "中等",
     "source": "2011年福建公务员考试《行测》（917联考）第72题",
     "isImageQuestion": true,
-    "province": "福建"
+    "province": "福建",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2011-424联考-73",
@@ -5949,7 +6319,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年福建公务员考试《行测》（424联考）第73题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2011-917联考-73",
@@ -5965,7 +6337,9 @@
     "difficulty": "中等",
     "source": "2011年福建公务员考试《行测》（917联考）第73题",
     "isImageQuestion": true,
-    "province": "福建"
+    "province": "福建",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2011-424联考-74",
@@ -5999,7 +6373,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年福建公务员考试《行测》（424联考）第74题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2011-917联考-74",
@@ -6017,7 +6393,9 @@
     "difficulty": "中等",
     "source": "2011年福建公务员考试《行测》（917联考）第74题",
     "isImageQuestion": true,
-    "province": "福建"
+    "province": "福建",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2011-424联考-75",
@@ -6052,7 +6430,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年福建公务员考试《行测》（424联考）第75题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2011-917联考-75",
@@ -6070,7 +6450,9 @@
     "difficulty": "中等",
     "source": "2011年福建公务员考试《行测》（917联考）第75题",
     "isImageQuestion": true,
-    "province": "福建"
+    "province": "福建",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2011-424联考-76",
@@ -6105,7 +6487,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年福建公务员考试《行测》（424联考）第76题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2011-917联考-76",
@@ -6141,7 +6525,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年福建公务员考试《行测》（917联考）第76题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2011-424联考-77",
@@ -6176,7 +6562,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年福建公务员考试《行测》（424联考）第77题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2011-917联考-77",
@@ -6212,7 +6600,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年福建公务员考试《行测》（917联考）第77题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2011-424联考-78",
@@ -6248,7 +6638,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年福建公务员考试《行测》（424联考）第78题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2011-917联考-78",
@@ -6284,7 +6676,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年福建公务员考试《行测》（917联考）第78题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2011-424联考-79",
@@ -6318,7 +6712,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年福建公务员考试《行测》（424联考）第79题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2011-917联考-79",
@@ -6354,7 +6750,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年福建公务员考试《行测》（917联考）第79题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2011-424联考-80",
@@ -6389,7 +6787,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年福建公务员考试《行测》（424联考）第80题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2011-917联考-80",
@@ -6424,6 +6824,8 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年福建公务员考试《行测》（917联考）第80题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   }
 ]

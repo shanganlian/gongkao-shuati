@@ -29,7 +29,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2004年广东公务员考试《行测》（上半年）第56题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2004-上半年-57",
@@ -61,7 +63,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2004年广东公务员考试《行测》（上半年）第57题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2004-上半年-58",
@@ -93,7 +97,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2004年广东公务员考试《行测》（上半年）第58题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2004-上半年-59",
@@ -125,7 +131,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2004年广东公务员考试《行测》（上半年）第59题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "地理国情",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2004-上半年-60",
@@ -157,7 +165,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2004年广东公务员考试《行测》（上半年）第60题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "地理国情",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2004-上半年-61",
@@ -189,7 +199,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2004年广东公务员考试《行测》（上半年）第61题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2004-上半年-62",
@@ -221,7 +233,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2004年广东公务员考试《行测》（上半年）第62题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2004-上半年-63",
@@ -253,7 +267,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2004年广东公务员考试《行测》（上半年）第63题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2004-上半年-64",
@@ -285,7 +301,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2004年广东公务员考试《行测》（上半年）第64题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2004-上半年-65",
@@ -317,7 +335,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2004年广东公务员考试《行测》（上半年）第65题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2004-上半年-66",
@@ -333,7 +353,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2004年广东公务员考试《行测》（上半年）第66题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2004-上半年-67",
@@ -349,7 +371,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2004年广东公务员考试《行测》（上半年）第67题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2004-上半年-68",
@@ -365,7 +389,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2004年广东公务员考试《行测》（上半年）第68题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2004-上半年-69",
@@ -381,7 +407,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2004年广东公务员考试《行测》（上半年）第69题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2004-上半年-70",
@@ -397,7 +425,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2004年广东公务员考试《行测》（上半年）第70题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2004-上半年-71",
@@ -413,7 +443,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2004年广东公务员考试《行测》（上半年）第71题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2004-上半年-72",
@@ -429,7 +461,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2004年广东公务员考试《行测》（上半年）第72题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2004-上半年-73",
@@ -445,7 +479,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2004年广东公务员考试《行测》（上半年）第73题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2004-上半年-74",
@@ -461,7 +497,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2004年广东公务员考试《行测》（上半年）第74题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2004-上半年-75",
@@ -477,7 +515,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2004年广东公务员考试《行测》（上半年）第75题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2004-上半年-76",
@@ -509,7 +549,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2004年广东公务员考试《行测》（上半年）第76题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2004-上半年-77",
@@ -541,7 +583,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2004年广东公务员考试《行测》（上半年）第77题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "生活常识",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2004-上半年-78",
@@ -573,7 +617,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2004年广东公务员考试《行测》（上半年）第78题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2004-上半年-79",
@@ -605,7 +651,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2004年广东公务员考试《行测》（上半年）第79题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "经济管理",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2004-上半年-80",
@@ -639,7 +687,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2004年广东公务员考试《行测》（上半年）第80题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2004-上半年-81",
@@ -671,7 +721,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2004年广东公务员考试《行测》（上半年）第81题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "人文历史",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2004-上半年-82",
@@ -703,7 +755,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2004年广东公务员考试《行测》（上半年）第82题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2004-上半年-83",
@@ -738,7 +792,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2004年广东公务员考试《行测》（上半年）第83题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2004-上半年-84",
@@ -770,7 +826,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2004年广东公务员考试《行测》（上半年）第84题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "生活常识",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2004-上半年-85",
@@ -806,7 +864,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2004年广东公务员考试《行测》（上半年）第85题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "生活常识",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2004-下半年-56",
@@ -840,7 +900,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2004年广东公务员考试《行测》（下半年）第56题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "生活常识",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2004-下半年-57",
@@ -872,7 +934,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2004年广东公务员考试《行测》（下半年）第57题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2004-下半年-58",
@@ -907,7 +971,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2004年广东公务员考试《行测》（下半年）第58题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "地理国情",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2004-下半年-59",
@@ -942,7 +1008,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2004年广东公务员考试《行测》（下半年）第59题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "地理国情",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2004-下半年-60",
@@ -974,7 +1042,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2004年广东公务员考试《行测》（下半年）第60题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "生活常识",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2004-下半年-61",
@@ -1008,7 +1078,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2004年广东公务员考试《行测》（下半年）第61题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2004-下半年-62",
@@ -1040,7 +1112,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2004年广东公务员考试《行测》（下半年）第62题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "生活常识",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2004-下半年-63",
@@ -1074,7 +1148,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2004年广东公务员考试《行测》（下半年）第63题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2004-下半年-64",
@@ -1106,7 +1182,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2004年广东公务员考试《行测》（下半年）第64题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "地理国情",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2004-下半年-65",
@@ -1138,7 +1216,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2004年广东公务员考试《行测》（下半年）第65题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2004-下半年-66",
@@ -1154,7 +1234,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2004年广东公务员考试《行测》（下半年）第66题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2004-下半年-67",
@@ -1170,7 +1252,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2004年广东公务员考试《行测》（下半年）第67题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2004-下半年-68",
@@ -1186,7 +1270,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2004年广东公务员考试《行测》（下半年）第68题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2004-下半年-69",
@@ -1202,7 +1288,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2004年广东公务员考试《行测》（下半年）第69题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2004-下半年-70",
@@ -1218,7 +1306,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2004年广东公务员考试《行测》（下半年）第70题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2004-下半年-71",
@@ -1234,7 +1324,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2004年广东公务员考试《行测》（下半年）第71题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2004-下半年-72",
@@ -1250,7 +1342,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2004年广东公务员考试《行测》（下半年）第72题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2004-下半年-73",
@@ -1266,7 +1360,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2004年广东公务员考试《行测》（下半年）第73题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2004-下半年-74",
@@ -1282,7 +1378,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2004年广东公务员考试《行测》（下半年）第74题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2004-下半年-75",
@@ -1298,7 +1396,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2004年广东公务员考试《行测》（下半年）第75题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2004-下半年-76",
@@ -1330,7 +1430,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2004年广东公务员考试《行测》（下半年）第76题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2004-下半年-77",
@@ -1362,7 +1464,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2004年广东公务员考试《行测》（下半年）第77题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "经济管理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2004-下半年-78",
@@ -1396,7 +1500,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2004年广东公务员考试《行测》（下半年）第78题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "人文历史",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2004-下半年-79",
@@ -1428,7 +1534,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2004年广东公务员考试《行测》（下半年）第79题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "人文历史",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2004-下半年-80",
@@ -1460,7 +1568,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2004年广东公务员考试《行测》（下半年）第80题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2004-下半年-81",
@@ -1492,7 +1602,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2004年广东公务员考试《行测》（下半年）第81题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "法律",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2004-下半年-82",
@@ -1524,7 +1636,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2004年广东公务员考试《行测》（下半年）第82题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2004-下半年-83",
@@ -1556,7 +1670,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2004年广东公务员考试《行测》（下半年）第83题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "经济管理",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2004-下半年-84",
@@ -1588,7 +1704,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2004年广东公务员考试《行测》（下半年）第84题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2004-下半年-85",
@@ -1624,7 +1742,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2004年广东公务员考试《行测》（下半年）第85题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "生活常识",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-上半年-56",
@@ -1656,7 +1776,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2005年广东公务员考试《行测》（上半年）第56题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "经济管理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2005-上半年-57",
@@ -1691,7 +1813,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2005年广东公务员考试《行测》（上半年）第57题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "地理国情",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2005-上半年-58",
@@ -1723,7 +1847,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2005年广东公务员考试《行测》（上半年）第58题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2005-上半年-59",
@@ -1758,7 +1884,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2005年广东公务员考试《行测》（上半年）第59题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "地理国情",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2005-上半年-60",
@@ -1794,7 +1922,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2005年广东公务员考试《行测》（上半年）第60题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2005-上半年-61",
@@ -1828,7 +1958,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2005年广东公务员考试《行测》（上半年）第61题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2005-上半年-62",
@@ -1862,7 +1994,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2005年广东公务员考试《行测》（上半年）第62题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "地理国情",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2005-上半年-63",
@@ -1894,7 +2028,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2005年广东公务员考试《行测》（上半年）第63题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2005-上半年-64",
@@ -1929,7 +2065,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2005年广东公务员考试《行测》（上半年）第64题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2005-上半年-65",
@@ -1961,7 +2099,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2005年广东公务员考试《行测》（上半年）第65题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "地理国情",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-上半年-66",
@@ -1980,7 +2120,9 @@
     "difficulty": "基础",
     "source": "2005年广东公务员考试《行测》（上半年）第66题",
     "isImageQuestion": true,
-    "province": "广东"
+    "province": "广东",
+    "subModule": "生活常识",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-上半年-67",
@@ -2000,7 +2142,9 @@
     "difficulty": "基础",
     "source": "2005年广东公务员考试《行测》（上半年）第67题",
     "isImageQuestion": true,
-    "province": "广东"
+    "province": "广东",
+    "subModule": "生活常识",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-上半年-68",
@@ -2016,7 +2160,9 @@
     "difficulty": "基础",
     "source": "2005年广东公务员考试《行测》（上半年）第68题",
     "isImageQuestion": true,
-    "province": "广东"
+    "province": "广东",
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-上半年-69",
@@ -2035,7 +2181,9 @@
     "difficulty": "基础",
     "source": "2005年广东公务员考试《行测》（上半年）第69题",
     "isImageQuestion": true,
-    "province": "广东"
+    "province": "广东",
+    "subModule": "生活常识",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-上半年-70",
@@ -2051,7 +2199,9 @@
     "difficulty": "基础",
     "source": "2005年广东公务员考试《行测》（上半年）第70题",
     "isImageQuestion": true,
-    "province": "广东"
+    "province": "广东",
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-上半年-71",
@@ -2070,7 +2220,9 @@
     "difficulty": "基础",
     "source": "2005年广东公务员考试《行测》（上半年）第71题",
     "isImageQuestion": true,
-    "province": "广东"
+    "province": "广东",
+    "subModule": "科技",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-上半年-72",
@@ -2086,7 +2238,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2005年广东公务员考试《行测》（上半年）第72题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-上半年-73",
@@ -2102,7 +2256,9 @@
     "difficulty": "基础",
     "source": "2005年广东公务员考试《行测》（上半年）第73题",
     "isImageQuestion": true,
-    "province": "广东"
+    "province": "广东",
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-上半年-74",
@@ -2118,7 +2274,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2005年广东公务员考试《行测》（上半年）第74题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-上半年-75",
@@ -2152,7 +2310,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2005年广东公务员考试《行测》（上半年）第75题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "生活常识",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-上半年-76",
@@ -2187,7 +2347,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2005年广东公务员考试《行测》（上半年）第76题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "科技",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-上半年-77",
@@ -2219,7 +2381,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2005年广东公务员考试《行测》（上半年）第77题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "生活常识",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-上半年-78",
@@ -2254,7 +2418,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2005年广东公务员考试《行测》（上半年）第78题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-上半年-79",
@@ -2286,7 +2452,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2005年广东公务员考试《行测》（上半年）第79题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "生活常识",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-上半年-80",
@@ -2320,7 +2488,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2005年广东公务员考试《行测》（上半年）第80题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "经济管理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2005-上半年-81",
@@ -2354,7 +2524,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2005年广东公务员考试《行测》（上半年）第81题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-上半年-82",
@@ -2390,7 +2562,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2005年广东公务员考试《行测》（上半年）第82题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "法律",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-上半年-83",
@@ -2425,7 +2599,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2005年广东公务员考试《行测》（上半年）第83题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-上半年-84",
@@ -2460,7 +2636,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2005年广东公务员考试《行测》（上半年）第84题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-上半年-85",
@@ -2494,7 +2672,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2005年广东公务员考试《行测》（上半年）第85题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "人文历史",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-下半年-56",
@@ -2528,7 +2708,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2005年广东公务员考试《行测》（下半年）第56题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2005-下半年-57",
@@ -2564,7 +2746,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2005年广东公务员考试《行测》（下半年）第57题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2005-下半年-58",
@@ -2598,7 +2782,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2005年广东公务员考试《行测》（下半年）第58题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2005-下半年-59",
@@ -2632,7 +2818,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2005年广东公务员考试《行测》（下半年）第59题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2005-下半年-60",
@@ -2667,7 +2855,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2005年广东公务员考试《行测》（下半年）第60题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2005-下半年-61",
@@ -2701,7 +2891,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2005年广东公务员考试《行测》（下半年）第61题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2005-下半年-62",
@@ -2737,7 +2929,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2005年广东公务员考试《行测》（下半年）第62题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "地理国情",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2005-下半年-63",
@@ -2772,7 +2966,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2005年广东公务员考试《行测》（下半年）第63题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "地理国情",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-下半年-64",
@@ -2808,7 +3004,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2005年广东公务员考试《行测》（下半年）第64题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2005-下半年-65",
@@ -2844,7 +3042,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2005年广东公务员考试《行测》（下半年）第65题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "地理国情",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2005-下半年-66",
@@ -2860,7 +3060,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2005年广东公务员考试《行测》（下半年）第66题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-下半年-67",
@@ -2876,7 +3078,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2005年广东公务员考试《行测》（下半年）第67题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-下半年-68",
@@ -2892,7 +3096,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2005年广东公务员考试《行测》（下半年）第68题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-下半年-69",
@@ -2908,7 +3114,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2005年广东公务员考试《行测》（下半年）第69题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-下半年-70",
@@ -2924,7 +3132,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2005年广东公务员考试《行测》（下半年）第70题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-下半年-71",
@@ -2940,7 +3150,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2005年广东公务员考试《行测》（下半年）第71题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-下半年-72",
@@ -2956,7 +3168,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2005年广东公务员考试《行测》（下半年）第72题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-下半年-73",
@@ -2972,7 +3186,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2005年广东公务员考试《行测》（下半年）第73题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-下半年-74",
@@ -2988,7 +3204,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2005年广东公务员考试《行测》（下半年）第74题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-下半年-75",
@@ -3004,7 +3222,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2005年广东公务员考试《行测》（下半年）第75题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-下半年-76",
@@ -3038,7 +3258,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2005年广东公务员考试《行测》（下半年）第76题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-下半年-77",
@@ -3072,7 +3294,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2005年广东公务员考试《行测》（下半年）第77题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "生活常识",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-下半年-78",
@@ -3106,7 +3330,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2005年广东公务员考试《行测》（下半年）第78题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "生活常识",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-下半年-79",
@@ -3140,7 +3366,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2005年广东公务员考试《行测》（下半年）第79题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-下半年-80",
@@ -3174,7 +3402,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2005年广东公务员考试《行测》（下半年）第80题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "经济管理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2005-下半年-81",
@@ -3209,7 +3439,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2005年广东公务员考试《行测》（下半年）第81题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "经济管理",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-下半年-82",
@@ -3243,7 +3475,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2005年广东公务员考试《行测》（下半年）第82题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-下半年-83",
@@ -3278,7 +3512,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2005年广东公务员考试《行测》（下半年）第83题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-下半年-84",
@@ -3312,7 +3548,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2005年广东公务员考试《行测》（下半年）第84题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2005-下半年-85",
@@ -3346,7 +3584,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2005年广东公务员考试《行测》（下半年）第85题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "经济管理",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2006-未标注-56",
@@ -3380,7 +3620,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2006年广东公务员考试《行测》第56题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2006-未标注-57",
@@ -3416,7 +3658,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2006年广东公务员考试《行测》第57题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2006-未标注-58",
@@ -3451,7 +3695,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2006年广东公务员考试《行测》第58题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2006-未标注-59",
@@ -3483,7 +3729,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2006年广东公务员考试《行测》第59题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2006-未标注-60",
@@ -3515,7 +3763,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2006年广东公务员考试《行测》第60题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2006-未标注-61",
@@ -3549,7 +3799,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2006年广东公务员考试《行测》第61题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2006-未标注-62",
@@ -3583,7 +3835,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2006年广东公务员考试《行测》第62题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "生活常识",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2006-未标注-63",
@@ -3618,7 +3872,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2006年广东公务员考试《行测》第63题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "生活常识",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2006-未标注-64",
@@ -3654,7 +3910,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2006年广东公务员考试《行测》第64题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "地理国情",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2006-未标注-65",
@@ -3688,7 +3946,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2006年广东公务员考试《行测》第65题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "生活常识",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2006-未标注-66",
@@ -3704,7 +3964,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2006年广东公务员考试《行测》第66题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2006-未标注-67",
@@ -3720,7 +3982,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2006年广东公务员考试《行测》第67题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2006-未标注-68",
@@ -3736,7 +4000,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2006年广东公务员考试《行测》第68题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2006-未标注-69",
@@ -3752,7 +4018,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2006年广东公务员考试《行测》第69题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2006-未标注-70",
@@ -3768,7 +4036,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2006年广东公务员考试《行测》第70题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2006-未标注-71",
@@ -3784,7 +4054,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2006年广东公务员考试《行测》第71题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2006-未标注-72",
@@ -3800,7 +4072,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2006年广东公务员考试《行测》第72题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2006-未标注-73",
@@ -3816,7 +4090,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2006年广东公务员考试《行测》第73题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2006-未标注-74",
@@ -3832,7 +4108,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2006年广东公务员考试《行测》第74题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2006-未标注-75",
@@ -3848,7 +4126,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2006年广东公务员考试《行测》第75题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2006-未标注-76",
@@ -3882,7 +4162,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2006年广东公务员考试《行测》第76题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2006-未标注-77",
@@ -3914,7 +4196,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2006年广东公务员考试《行测》第77题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "生活常识",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2006-未标注-78",
@@ -3946,7 +4230,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2006年广东公务员考试《行测》第78题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "经济管理",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2006-未标注-79",
@@ -3980,7 +4266,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2006年广东公务员考试《行测》第79题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "生活常识",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2006-未标注-80",
@@ -4014,7 +4302,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2006年广东公务员考试《行测》第80题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2006-未标注-81",
@@ -4049,7 +4339,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2006年广东公务员考试《行测》第81题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "经济管理",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2006-未标注-82",
@@ -4083,7 +4375,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2006年广东公务员考试《行测》第82题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2006-未标注-83",
@@ -4115,7 +4409,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2006年广东公务员考试《行测》第83题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "生活常识",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2006-未标注-84",
@@ -4149,7 +4445,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2006年广东公务员考试《行测》第84题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2006-未标注-85",
@@ -4183,7 +4481,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2006年广东公务员考试《行测》第85题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "生活常识",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2007-未标注-56",
@@ -4215,7 +4515,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2007年广东公务员考试《行测》第56题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2007-未标注-57",
@@ -4249,7 +4551,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2007年广东公务员考试《行测》第57题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2007-未标注-58",
@@ -4283,7 +4587,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2007年广东公务员考试《行测》第58题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2007-未标注-59",
@@ -4318,7 +4624,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2007年广东公务员考试《行测》第59题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "地理国情",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2007-未标注-60",
@@ -4350,7 +4658,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2007年广东公务员考试《行测》第60题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2007-未标注-61",
@@ -4382,7 +4692,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2007年广东公务员考试《行测》第61题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2007-未标注-62",
@@ -4418,7 +4730,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2007年广东公务员考试《行测》第62题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "生活常识",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2007-未标注-63",
@@ -4453,7 +4767,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2007年广东公务员考试《行测》第63题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2007-未标注-64",
@@ -4487,7 +4803,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2007年广东公务员考试《行测》第64题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2007-未标注-65",
@@ -4521,7 +4839,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2007年广东公务员考试《行测》第65题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2007-未标注-66",
@@ -4539,7 +4859,9 @@
     "difficulty": "基础",
     "source": "2007年广东公务员考试《行测》第66题",
     "isImageQuestion": true,
-    "province": "广东"
+    "province": "广东",
+    "subModule": "生活常识",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2007-未标注-67",
@@ -4555,7 +4877,9 @@
     "difficulty": "基础",
     "source": "2007年广东公务员考试《行测》第67题",
     "isImageQuestion": true,
-    "province": "广东"
+    "province": "广东",
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2007-未标注-68",
@@ -4573,7 +4897,9 @@
     "difficulty": "基础",
     "source": "2007年广东公务员考试《行测》第68题",
     "isImageQuestion": true,
-    "province": "广东"
+    "province": "广东",
+    "subModule": "生活常识",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2007-未标注-69",
@@ -4593,7 +4919,9 @@
     "difficulty": "基础",
     "source": "2007年广东公务员考试《行测》第69题",
     "isImageQuestion": true,
-    "province": "广东"
+    "province": "广东",
+    "subModule": "生活常识",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2007-未标注-70",
@@ -4609,7 +4937,9 @@
     "difficulty": "基础",
     "source": "2007年广东公务员考试《行测》第70题",
     "isImageQuestion": true,
-    "province": "广东"
+    "province": "广东",
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2007-未标注-71",
@@ -4625,7 +4955,9 @@
     "difficulty": "基础",
     "source": "2007年广东公务员考试《行测》第71题",
     "isImageQuestion": true,
-    "province": "广东"
+    "province": "广东",
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2007-未标注-72",
@@ -4644,7 +4976,9 @@
     "difficulty": "基础",
     "source": "2007年广东公务员考试《行测》第72题",
     "isImageQuestion": true,
-    "province": "广东"
+    "province": "广东",
+    "subModule": "生活常识",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2007-未标注-73",
@@ -4660,7 +4994,9 @@
     "difficulty": "基础",
     "source": "2007年广东公务员考试《行测》第73题",
     "isImageQuestion": true,
-    "province": "广东"
+    "province": "广东",
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2007-未标注-74",
@@ -4679,7 +5015,9 @@
     "difficulty": "基础",
     "source": "2007年广东公务员考试《行测》第74题",
     "isImageQuestion": true,
-    "province": "广东"
+    "province": "广东",
+    "subModule": "生活常识",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2007-未标注-75",
@@ -4708,7 +5046,9 @@
     "difficulty": "基础",
     "source": "2007年广东公务员考试《行测》第75题",
     "isImageQuestion": true,
-    "province": "广东"
+    "province": "广东",
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2007-未标注-76",
@@ -4743,7 +5083,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2007年广东公务员考试《行测》第76题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2007-未标注-77",
@@ -4779,7 +5121,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2007年广东公务员考试《行测》第77题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "经济管理",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2007-未标注-78",
@@ -4815,7 +5159,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2007年广东公务员考试《行测》第78题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "经济管理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2007-未标注-79",
@@ -4849,7 +5195,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2007年广东公务员考试《行测》第79题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "经济管理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2007-未标注-80",
@@ -4884,7 +5232,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2007年广东公务员考试《行测》第80题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "生活常识",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2007-未标注-81",
@@ -4918,7 +5268,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2007年广东公务员考试《行测》第81题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "经济管理",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2007-未标注-82",
@@ -4953,7 +5305,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2007年广东公务员考试《行测》第82题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2007-未标注-83",
@@ -4987,7 +5341,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2007年广东公务员考试《行测》第83题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "法律",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2007-未标注-84",
@@ -5022,7 +5378,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2007年广东公务员考试《行测》第84题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "经济管理",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2007-未标注-85",
@@ -5054,7 +5412,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2007年广东公务员考试《行测》第85题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "经济管理",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2014-县乡-1",
@@ -5089,7 +5449,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2014年广东公务员考试《行测》（县乡）第1题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2014-县乡-2",
@@ -5123,7 +5485,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2014年广东公务员考试《行测》（县乡）第2题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2014-县乡-3",
@@ -5158,7 +5522,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2014年广东公务员考试《行测》（县乡）第3题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2014-县乡-4",
@@ -5194,7 +5560,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2014年广东公务员考试《行测》（县乡）第4题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2014-县乡-5",
@@ -5228,7 +5596,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2014年广东公务员考试《行测》（县乡）第5题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2014-县乡-6",
@@ -5262,7 +5632,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2014年广东公务员考试《行测》（县乡）第6题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "地理国情",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2014-县乡-7",
@@ -5297,7 +5669,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2014年广东公务员考试《行测》（县乡）第7题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "生活常识",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2014-县乡-8",
@@ -5332,7 +5706,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2014年广东公务员考试《行测》（县乡）第8题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2014-县乡-9",
@@ -5367,7 +5743,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2014年广东公务员考试《行测》（县乡）第9题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2014-县乡-10",
@@ -5403,7 +5781,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2014年广东公务员考试《行测》（县乡）第10题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "地理国情",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2014-乡镇-1",
@@ -5438,7 +5818,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2014年广东公务员考试《行测》（乡镇）第1题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2014-乡镇-2",
@@ -5473,7 +5855,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2014年广东公务员考试《行测》（乡镇）第2题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2014-乡镇-3",
@@ -5508,7 +5892,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2014年广东公务员考试《行测》（乡镇）第3题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2014-乡镇-4",
@@ -5543,7 +5929,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2014年广东公务员考试《行测》（乡镇）第4题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2014-乡镇-5",
@@ -5578,7 +5966,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2014年广东公务员考试《行测》（乡镇）第5题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2014-乡镇-6",
@@ -5613,7 +6003,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2014年广东公务员考试《行测》（乡镇）第6题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2014-乡镇-7",
@@ -5649,7 +6041,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2014年广东公务员考试《行测》（乡镇）第7题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2014-乡镇-8",
@@ -5684,7 +6078,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2014年广东公务员考试《行测》（乡镇）第8题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2014-乡镇-9",
@@ -5718,7 +6114,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2014年广东公务员考试《行测》（乡镇）第9题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2014-乡镇-10",
@@ -5753,6 +6151,8 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2014年广东公务员考试《行测》（乡镇）第10题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   }
 ]

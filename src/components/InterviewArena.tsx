@@ -451,11 +451,11 @@ export const InterviewArena: React.FC<InterviewArenaProps> = ({
     <div className="space-y-6">
       
       {/* TOP BANNER: CORE PHILOSOPHY & ANNOUNCEMENT */}
-      <div className="bg-slate-900 rounded-2xl p-6 sm:p-7 border border-slate-800 shadow-xl text-white">
+      <div className="bg-slate-900 dark:bg-slate-700 rounded-2xl p-6 sm:p-7 border border-slate-800 shadow-xl text-white">
         <div className="flex flex-col lg:flex-row items-start lg:items-center justify-between gap-6">
           <div className="space-y-2 max-w-3xl">
-            <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-indigo-500/20 text-indigo-300 text-xs font-bold border border-indigo-500/30">
-              <Scale className="w-3.5 h-3.5 text-indigo-400" />
+            <div className="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-emerald-500/20 text-emerald-200 text-xs font-bold border border-emerald-500/30">
+              <Scale className="w-3.5 h-3.5 text-emerald-200" />
               <span>国家公务员及省考严肃全真面试考场 · 拒绝套话 · 执政思维早筑基</span>
             </div>
             
@@ -464,7 +464,7 @@ export const InterviewArena: React.FC<InterviewArenaProps> = ({
             </h2>
 
             <p className="text-xs sm:text-sm text-slate-300 leading-relaxed">
-              考官真正考查的是你是否具备<strong className="text-amber-400 font-bold">“体察民情、解决复杂问题、从容担当”</strong>的机关实务感。这种思维短期无法速成，<strong className="text-emerald-400 font-bold">必须尽早开始模拟开口</strong>，彻底消弭考场怯场心理，把机关实务感内化为本能肌肉记忆！
+              考官真正考查的是你是否具备<strong className="text-emerald-300 font-bold">“体察民情、解决复杂问题、从容担当”</strong>的机关实务感。这种思维短期无法速成，<strong className="text-emerald-400 font-bold">必须尽早开始模拟开口</strong>，彻底消弭考场怯场心理，把机关实务感内化为本能肌肉记忆！
             </p>
           </div>
 
@@ -474,7 +474,7 @@ export const InterviewArena: React.FC<InterviewArenaProps> = ({
               <button
                 onClick={() => { setActiveFormat('structured'); setPhase('lobby'); }}
                 className={`px-3.5 py-2 text-xs font-bold rounded-lg transition-all cursor-pointer ${
-                  activeFormat === 'structured' ? 'bg-white text-slate-900 shadow-sm' : 'text-slate-300 hover:text-white'
+                  activeFormat === 'structured' ? 'bg-white dark:bg-slate-900 text-slate-900 dark:text-slate-100 shadow-sm' : 'text-slate-300 hover:text-white'
                 }`}
               >
                 结构化面试 (7人考官)
@@ -482,7 +482,7 @@ export const InterviewArena: React.FC<InterviewArenaProps> = ({
               <button
                 onClick={() => { setActiveFormat('leaderless_group'); setPhase('lobby'); }}
                 className={`px-3.5 py-2 text-xs font-bold rounded-lg transition-all cursor-pointer ${
-                  activeFormat === 'leaderless_group' ? 'bg-white text-slate-900 shadow-sm' : 'text-slate-300 hover:text-white'
+                  activeFormat === 'leaderless_group' ? 'bg-white dark:bg-slate-900 text-slate-900 dark:text-slate-100 shadow-sm' : 'text-slate-300 hover:text-white'
                 }`}
               >
                 无领导小组讨论 (LGD)
@@ -506,7 +506,7 @@ export const InterviewArena: React.FC<InterviewArenaProps> = ({
           </div>
 
           <div className="p-3 bg-slate-800/80 rounded-xl border border-slate-700/80 flex items-start gap-2.5">
-            <div className="w-7 h-7 rounded-lg bg-indigo-500/20 text-indigo-400 flex items-center justify-center shrink-0 font-bold">
+            <div className="w-7 h-7 rounded-lg bg-emerald-500/20 text-emerald-200 flex items-center justify-center shrink-0 font-bold">
               事
             </div>
             <div>
@@ -518,7 +518,7 @@ export const InterviewArena: React.FC<InterviewArenaProps> = ({
           </div>
 
           <div className="p-3 bg-slate-800/80 rounded-xl border border-slate-700/80 flex items-start gap-2.5">
-            <div className="w-7 h-7 rounded-lg bg-amber-500/20 text-amber-400 flex items-center justify-center shrink-0 font-bold">
+            <div className="w-7 h-7 rounded-lg bg-emerald-500/20 text-emerald-300 flex items-center justify-center shrink-0 font-bold">
               当
             </div>
             <div>
@@ -533,13 +533,13 @@ export const InterviewArena: React.FC<InterviewArenaProps> = ({
 
       {/* SUB-NAVIGATION PILLS INSIDE LOBBY */}
       {phase === 'lobby' && (
-        <div className="flex items-center gap-2 overflow-x-auto pb-1 border-b border-slate-200">
+        <div className="flex items-center gap-2 overflow-x-auto pb-1 border-b border-slate-200 dark:border-slate-700">
           <button
             onClick={() => setLobbySubTab('rooms')}
             className={`px-4 py-2 text-xs font-bold rounded-xl transition-all cursor-pointer whitespace-nowrap flex items-center gap-1.5 ${
               lobbySubTab === 'rooms'
-                ? 'bg-slate-900 text-white shadow-xs'
-                : 'bg-white text-slate-600 border border-slate-200 hover:bg-slate-100'
+                ? 'bg-slate-900 dark:bg-slate-700 text-white shadow-xs'
+                : 'bg-white dark:bg-slate-900 text-slate-600 dark:text-slate-300 border border-slate-200 dark:border-slate-700 hover:bg-slate-100 dark:hover:bg-slate-800'
             }`}
           >
             <Mic className="w-3.5 h-3.5" />
@@ -550,8 +550,8 @@ export const InterviewArena: React.FC<InterviewArenaProps> = ({
             onClick={() => setLobbySubTab('comparison')}
             className={`px-4 py-2 text-xs font-bold rounded-xl transition-all cursor-pointer whitespace-nowrap flex items-center gap-1.5 ${
               lobbySubTab === 'comparison'
-                ? 'bg-slate-900 text-white shadow-xs'
-                : 'bg-white text-slate-600 border border-slate-200 hover:bg-slate-100'
+                ? 'bg-slate-900 dark:bg-slate-700 text-white shadow-xs'
+                : 'bg-white dark:bg-slate-900 text-slate-600 dark:text-slate-300 border border-slate-200 dark:border-slate-700 hover:bg-slate-100 dark:hover:bg-slate-800'
             }`}
           >
             <Scale className="w-3.5 h-3.5" />
@@ -562,11 +562,11 @@ export const InterviewArena: React.FC<InterviewArenaProps> = ({
             onClick={() => setLobbySubTab('mindset_core')}
             className={`px-4 py-2 text-xs font-bold rounded-xl transition-all cursor-pointer whitespace-nowrap flex items-center gap-1.5 ${
               lobbySubTab === 'mindset_core'
-                ? 'bg-slate-900 text-white shadow-xs'
-                : 'bg-white text-slate-600 border border-slate-200 hover:bg-slate-100'
+                ? 'bg-slate-900 dark:bg-slate-700 text-white shadow-xs'
+                : 'bg-white dark:bg-slate-900 text-slate-600 dark:text-slate-300 border border-slate-200 dark:border-slate-700 hover:bg-slate-100 dark:hover:bg-slate-800'
             }`}
           >
-            <Flame className="w-3.5 h-3.5 text-amber-500" />
+            <Flame className="w-3.5 h-3.5 text-emerald-600 dark:text-emerald-400" />
             <span>为什么必须早点开始开口模拟？(肌肉记忆法则)</span>
           </button>
         </div>
@@ -575,61 +575,61 @@ export const InterviewArena: React.FC<InterviewArenaProps> = ({
       {/* TAB 1: COMPARISON BETWEEN TEMPLATES & GOVERNANCE MINDSET */}
       {phase === 'lobby' && lobbySubTab === 'comparison' && (
         <div className="space-y-4">
-          <div className="bg-white rounded-2xl p-5 border border-slate-200 shadow-xs">
-            <h3 className="text-base font-bold text-slate-900 flex items-center gap-2">
-              <Scale className="w-4 h-4 text-indigo-600" />
+          <div className="bg-white dark:bg-slate-900 rounded-2xl p-5 border border-slate-200 dark:border-slate-700 shadow-xs">
+            <h3 className="text-base font-bold text-slate-900 dark:text-slate-100 flex items-center gap-2">
+              <Scale className="w-4 h-4 text-emerald-600 dark:text-emerald-400" />
               考场高频命题：机构僵化套话 vs 成年人体制内执政思维 对比示范
             </h3>
-            <p className="text-xs text-slate-500 mt-1">
+            <p className="text-xs text-slate-500 dark:text-slate-400 mt-1">
               很多考生误以为面试就是把“万能模板”背熟，一开口就是假大空。考官一听便知是应试机器，直接给60分。看看真实机关老练思维如何降维打击：
             </p>
           </div>
 
           <div className="space-y-4">
             {COMPARISON_CASES.map((item, idx) => (
-              <div key={idx} className="bg-white rounded-2xl p-5 border border-slate-200 shadow-xs space-y-3.5">
-                <div className="flex items-center gap-2 pb-2 border-b border-slate-100">
-                  <span className="w-6 h-6 rounded-md bg-slate-900 text-white text-xs font-bold flex items-center justify-center">
+              <div key={idx} className="bg-white dark:bg-slate-900 rounded-2xl p-5 border border-slate-200 dark:border-slate-700 shadow-xs space-y-3.5">
+                <div className="flex items-center gap-2 pb-2 border-b border-slate-100 dark:border-slate-800">
+                  <span className="w-6 h-6 rounded-md bg-slate-900 dark:bg-slate-700 text-white text-xs font-bold flex items-center justify-center">
                     {idx + 1}
                   </span>
-                  <h4 className="text-xs sm:text-sm font-bold text-slate-900">
+                  <h4 className="text-xs sm:text-sm font-bold text-slate-900 dark:text-slate-100">
                     【实战场景】：{item.scenario}
                   </h4>
                 </div>
 
                 <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
                   {/* Flawed Template Side */}
-                  <div className="p-4 bg-rose-50/60 rounded-xl border border-rose-200/80 space-y-2">
+                  <div className="p-4 bg-rose-50/60 dark:bg-rose-900/40 rounded-xl border border-rose-200/80 dark:border-rose-800/80 space-y-2">
                     <div className="flex items-center justify-between text-xs">
-                      <span className="font-bold text-rose-900 flex items-center gap-1">
+                      <span className="font-bold text-rose-900 dark:text-rose-200 flex items-center gap-1">
                         ❌ 机械死记套话 (考官极其反感)
                       </span>
-                      <span className="text-[10px] bg-rose-200 text-rose-800 px-2 py-0.5 rounded font-semibold">
+                      <span className="text-[10px] bg-rose-200 dark:bg-rose-800 text-rose-800 dark:text-rose-300 px-2 py-0.5 rounded font-semibold">
                         典型低分 62分
                       </span>
                     </div>
-                    <p className="text-xs text-rose-800 leading-relaxed font-mono">
+                    <p className="text-xs text-rose-800 dark:text-rose-300 leading-relaxed font-mono">
                       {item.templateAnswer}
                     </p>
-                    <div className="text-[11px] text-rose-700 pt-1 border-t border-rose-200/60">
+                    <div className="text-[11px] text-rose-700 dark:text-rose-300 pt-1 border-t border-rose-200/60 dark:border-rose-800/60">
                       <strong>考官扣分死穴：</strong> {item.templateFlaw}
                     </div>
                   </div>
 
                   {/* Mature Governance Mindset Side */}
-                  <div className="p-4 bg-emerald-50/60 rounded-xl border border-emerald-300 space-y-2">
+                  <div className="p-4 bg-emerald-50/60 dark:bg-emerald-900/40 rounded-xl border border-emerald-300 dark:border-emerald-700 space-y-2">
                     <div className="flex items-center justify-between text-xs">
-                      <span className="font-bold text-emerald-950 flex items-center gap-1">
+                      <span className="font-bold text-emerald-950 dark:text-emerald-200 flex items-center gap-1">
                         ✅ 成年人执政思维 (体察民情/闭环/担当)
                       </span>
-                      <span className="text-[10px] bg-emerald-200 text-emerald-900 px-2 py-0.5 rounded font-bold">
+                      <span className="text-[10px] bg-emerald-200 dark:bg-emerald-800 text-emerald-900 dark:text-emerald-200 px-2 py-0.5 rounded font-bold">
                         全场高分 88分
                       </span>
                     </div>
-                    <p className="text-xs text-emerald-900 leading-relaxed font-sans font-medium">
+                    <p className="text-xs text-emerald-900 dark:text-emerald-200 leading-relaxed font-sans font-medium">
                       {item.governanceAnswer}
                     </p>
-                    <div className="text-[11px] text-emerald-800 pt-1 border-t border-emerald-200">
+                    <div className="text-[11px] text-emerald-800 dark:text-emerald-300 pt-1 border-t border-emerald-200 dark:border-emerald-800">
                       <strong>提分核心密码：</strong> {item.governanceMerit}
                     </div>
                   </div>
@@ -641,7 +641,7 @@ export const InterviewArena: React.FC<InterviewArenaProps> = ({
           <div className="text-center pt-2">
             <button
               onClick={() => setLobbySubTab('rooms')}
-              className="px-6 py-2.5 bg-slate-900 hover:bg-slate-800 text-white text-xs font-bold rounded-xl shadow-xs cursor-pointer inline-flex items-center gap-2"
+              className="px-6 py-2.5 bg-slate-900 dark:bg-slate-700 hover:bg-slate-800 dark:hover:bg-slate-600 text-white text-xs font-bold rounded-xl shadow-xs cursor-pointer inline-flex items-center gap-2"
             >
               <span>我已掌握执政思维，立即前往考场开口实战</span>
               <ArrowRight className="w-4 h-4" />
@@ -652,43 +652,43 @@ export const InterviewArena: React.FC<InterviewArenaProps> = ({
 
       {/* TAB 2: WHY START EARLY & MUSCLE MEMORY PHILOSOPHY */}
       {phase === 'lobby' && lobbySubTab === 'mindset_core' && (
-        <div className="bg-white rounded-2xl p-6 sm:p-8 border border-slate-200 shadow-xs space-y-5">
+        <div className="bg-white dark:bg-slate-900 rounded-2xl p-6 sm:p-8 border border-slate-200 dark:border-slate-700 shadow-xs space-y-5">
           <div className="max-w-3xl space-y-2">
-            <h3 className="text-lg font-black text-slate-900">
+            <h3 className="text-lg font-black text-slate-900 dark:text-slate-100">
               为什么从准备初试第一天起，就必须每天模拟开口练习？
             </h3>
-            <p className="text-xs sm:text-sm text-slate-600 leading-relaxed">
+            <p className="text-xs sm:text-sm text-slate-600 dark:text-slate-300 leading-relaxed">
               根据历年国考省考数据，超过 70% 的笔试高分考生在面试环节失利。主要原因不在于知识储备不够，而在于<strong>“心理怯场”</strong>与<strong>“机关实务感缺失”</strong>。
             </p>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-4 pt-2">
-            <div className="p-4 bg-slate-50 rounded-xl border border-slate-200 space-y-2">
-              <span className="text-xs font-bold text-slate-900 flex items-center gap-1.5">
-                <CheckCircle2 className="w-4 h-4 text-emerald-600" />
+            <div className="p-4 bg-slate-50 dark:bg-slate-800 rounded-xl border border-slate-200 dark:border-slate-700 space-y-2">
+              <span className="text-xs font-bold text-slate-900 dark:text-slate-100 flex items-center gap-1.5">
+                <CheckCircle2 className="w-4 h-4 text-emerald-600 dark:text-emerald-400" />
                 1. 彻底消弭考场怯场心理
               </span>
-              <p className="text-xs text-slate-600 leading-relaxed">
+              <p className="text-xs text-slate-600 dark:text-slate-300 leading-relaxed">
                 初学者面对7位表情严肃的体制内主考官，心跳加速、大脑一片空白是普遍生理反应。尽早开始对着严肃考官镜头模拟开口，每日脱敏，考场上就能如入无人之境。
               </p>
             </div>
 
-            <div className="p-4 bg-slate-50 rounded-xl border border-slate-200 space-y-2">
-              <span className="text-xs font-bold text-slate-900 flex items-center gap-1.5">
-                <CheckCircle2 className="w-4 h-4 text-emerald-600" />
+            <div className="p-4 bg-slate-50 dark:bg-slate-800 rounded-xl border border-slate-200 dark:border-slate-700 space-y-2">
+              <span className="text-xs font-bold text-slate-900 dark:text-slate-100 flex items-center gap-1.5">
+                <CheckCircle2 className="w-4 h-4 text-emerald-600 dark:text-emerald-400" />
                 2. 把机关实务感化为肌肉记忆
               </span>
-              <p className="text-xs text-slate-600 leading-relaxed">
+              <p className="text-xs text-slate-600 dark:text-slate-300 leading-relaxed">
                 成年人思维方式短期内无法突击改变。只有每天开口练一题，把“先体察群众冷暖、再拿出闭环实招、最后从容担责”的语态练成脱口而出的生理反射。
               </p>
             </div>
 
-            <div className="p-4 bg-slate-50 rounded-xl border border-slate-200 space-y-2">
-              <span className="text-xs font-bold text-slate-900 flex items-center gap-1.5">
-                <CheckCircle2 className="w-4 h-4 text-emerald-600" />
+            <div className="p-4 bg-slate-50 dark:bg-slate-800 rounded-xl border border-slate-200 dark:border-slate-700 space-y-2">
+              <span className="text-xs font-bold text-slate-900 dark:text-slate-100 flex items-center gap-1.5">
+                <CheckCircle2 className="w-4 h-4 text-emerald-600 dark:text-emerald-400" />
                 3. 初试申论与面试同频共振
               </span>
-              <p className="text-xs text-slate-600 leading-relaxed">
+              <p className="text-xs text-slate-600 dark:text-slate-300 leading-relaxed">
                 申论大作文的论证逻辑就是面试综合分析的底稿。开口说顺了，申论下笔自然行云流水；申论思考深了，面试开口自然高屋建瓴。
               </p>
             </div>
@@ -710,14 +710,14 @@ export const InterviewArena: React.FC<InterviewArenaProps> = ({
       {phase === 'lobby' && lobbySubTab === 'rooms' && (
         <div className="space-y-6">
           {/* Mode Selector (Solo AI vs Peer PK) */}
-          <div className="bg-white rounded-2xl p-5 border border-slate-200 shadow-xs flex flex-col sm:flex-row sm:items-center justify-between gap-4">
+          <div className="bg-white dark:bg-slate-900 rounded-2xl p-5 border border-slate-200 dark:border-slate-700 shadow-xs flex flex-col sm:flex-row sm:items-center justify-between gap-4">
             <div className="flex items-center gap-3">
-              <span className="text-xs font-bold text-slate-900">演练对战模式：</span>
-              <div className="flex items-center gap-1 bg-slate-100 p-1 rounded-xl text-xs font-medium border border-slate-200">
+              <span className="text-xs font-bold text-slate-900 dark:text-slate-100">演练对战模式：</span>
+              <div className="flex items-center gap-1 bg-slate-100 dark:bg-slate-800 p-1 rounded-xl text-xs font-medium border border-slate-200 dark:border-slate-700">
                 <button
                   onClick={() => setActiveMode('solo_ai')}
                   className={`flex items-center gap-1.5 px-3 py-1.5 rounded-lg transition-colors cursor-pointer ${
-                    activeMode === 'solo_ai' ? 'bg-slate-900 text-white shadow-xs font-bold' : 'text-slate-600 hover:text-slate-900'
+                    activeMode === 'solo_ai' ? 'bg-slate-900 dark:bg-slate-700 text-white shadow-xs font-bold' : 'text-slate-600 dark:text-slate-300 hover:text-slate-900 dark:hover:text-slate-100'
                   }`}
                 >
                   <User className="w-3.5 h-3.5" />
@@ -726,7 +726,7 @@ export const InterviewArena: React.FC<InterviewArenaProps> = ({
                 <button
                   onClick={() => setActiveMode('peer_pk')}
                   className={`flex items-center gap-1.5 px-3 py-1.5 rounded-lg transition-colors cursor-pointer ${
-                    activeMode === 'peer_pk' ? 'bg-slate-900 text-white shadow-xs font-bold' : 'text-slate-600 hover:text-slate-900'
+                    activeMode === 'peer_pk' ? 'bg-slate-900 dark:bg-slate-700 text-white shadow-xs font-bold' : 'text-slate-600 dark:text-slate-300 hover:text-slate-900 dark:hover:text-slate-100'
                   }`}
                 >
                   <Users className="w-3.5 h-3.5" />
@@ -735,26 +735,26 @@ export const InterviewArena: React.FC<InterviewArenaProps> = ({
               </div>
             </div>
 
-            <div className="text-xs text-slate-500">
+            <div className="text-xs text-slate-500 dark:text-slate-400">
               {activeMode === 'solo_ai' ? (
                 <span>🛡️ 正厅级主考官全景严肃考场，支持反复自录复盘与反模板诊断</span>
               ) : (
-                <span>🤝 真实考友同行互励，<strong className="text-emerald-700">绝不展示他人高分，拒绝内卷焦虑</strong></span>
+                <span>🤝 真实考友同行互励，<strong className="text-emerald-700 dark:text-emerald-300">绝不展示他人高分，拒绝内卷焦虑</strong></span>
               )}
             </div>
           </div>
 
           {/* Leaderless Group Discussion Role Selector */}
           {activeFormat === 'leaderless_group' && (
-            <div className="bg-white rounded-2xl p-6 border border-slate-200 shadow-xs space-y-4">
+            <div className="bg-white dark:bg-slate-900 rounded-2xl p-6 border border-slate-200 dark:border-slate-700 shadow-xs space-y-4">
               <div className="flex items-center justify-between">
                 <div>
-                  <h3 className="text-sm font-bold text-slate-900">无领导小组讨论 · 战术定位卡</h3>
+                  <h3 className="text-sm font-bold text-slate-900 dark:text-slate-100">无领导小组讨论 · 战术定位卡</h3>
                   <p className="text-xs text-slate-400 mt-0.5">
                     在无领导讨论中，清晰的团队角色定位是脱颖而出的核心
                   </p>
                 </div>
-                <span className="text-xs text-emerald-700 font-semibold">四大人格战术</span>
+                <span className="text-xs text-emerald-700 dark:text-emerald-300 font-semibold">四大人格战术</span>
               </div>
 
               <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-3">
@@ -766,15 +766,15 @@ export const InterviewArena: React.FC<InterviewArenaProps> = ({
                       onClick={() => setSelectedLgdRole(role)}
                       className={`p-3.5 rounded-xl border text-left transition-all cursor-pointer ${
                         isSelected
-                          ? 'bg-emerald-50/70 border-emerald-500 ring-2 ring-emerald-500/20 shadow-xs'
-                          : 'bg-white border-slate-200 hover:border-slate-300'
+                          ? 'bg-emerald-50/70 dark:bg-emerald-900/40 border-emerald-500 ring-2 ring-emerald-500/20 shadow-xs'
+                          : 'bg-white dark:bg-slate-900 border-slate-200 dark:border-slate-700 hover:border-slate-300 dark:hover:border-slate-600'
                       }`}
                     >
-                      <div className="text-xs font-bold text-slate-900">{role.title}</div>
-                      <p className="text-[11px] text-slate-500 line-clamp-2 leading-relaxed mt-1">
+                      <div className="text-xs font-bold text-slate-900 dark:text-slate-100">{role.title}</div>
+                      <p className="text-[11px] text-slate-500 dark:text-slate-400 line-clamp-2 leading-relaxed mt-1">
                         {role.description}
                       </p>
-                      <div className="mt-2 pt-2 border-t border-slate-100 text-[10px] text-emerald-800 font-mono">
+                      <div className="mt-2 pt-2 border-t border-slate-100 dark:border-slate-800 text-[10px] text-emerald-800 dark:text-emerald-300 font-mono">
                         {role.keyResponsibility}
                       </div>
                     </button>
@@ -785,10 +785,10 @@ export const InterviewArena: React.FC<InterviewArenaProps> = ({
           )}
 
           {/* Candidate Persona Cards */}
-          <div className="bg-white rounded-2xl p-6 border border-slate-200 shadow-xs space-y-4">
+          <div className="bg-white dark:bg-slate-900 rounded-2xl p-6 border border-slate-200 dark:border-slate-700 shadow-xs space-y-4">
             <div className="flex items-center justify-between">
               <div>
-                <h3 className="text-sm font-bold text-slate-900">选择你的对练实务风格人设卡</h3>
+                <h3 className="text-sm font-bold text-slate-900 dark:text-slate-100">选择你的对练实务风格人设卡</h3>
                 <p className="text-xs text-slate-400 mt-0.5">人设卡决定AI阅卷官重点审视的思维长板与破局视角</p>
               </div>
               <span className="text-xs text-slate-400">4大公职实干风格</span>
@@ -803,20 +803,20 @@ export const InterviewArena: React.FC<InterviewArenaProps> = ({
                     onClick={() => setMyCandidateCard(card)}
                     className={`p-3.5 rounded-xl border text-left transition-all cursor-pointer ${
                       isSelected
-                        ? 'bg-emerald-50/60 border-emerald-500 ring-2 ring-emerald-500/20 shadow-xs'
-                        : 'bg-white border-slate-200 hover:border-slate-300'
+                        ? 'bg-emerald-50/60 dark:bg-emerald-900/40 border-emerald-500 ring-2 ring-emerald-500/20 shadow-xs'
+                        : 'bg-white dark:bg-slate-900 border-slate-200 dark:border-slate-700 hover:border-slate-300 dark:hover:border-slate-600'
                     }`}
                   >
                     <div className="flex items-center gap-2.5 mb-2">
-                      <div className="w-8 h-8 rounded-lg overflow-hidden bg-slate-100">
+                      <div className="w-8 h-8 rounded-lg overflow-hidden bg-slate-100 dark:bg-slate-800">
                         <img src={card.avatarUrl} alt={card.name} className="w-full h-full object-cover" referrerPolicy="no-referrer" />
                       </div>
                       <div>
-                        <div className="text-xs font-bold text-slate-900">{card.name}</div>
-                        <div className="text-[11px] text-emerald-700 font-semibold">{card.title}</div>
+                        <div className="text-xs font-bold text-slate-900 dark:text-slate-100">{card.name}</div>
+                        <div className="text-[11px] text-emerald-700 dark:text-emerald-300 font-semibold">{card.title}</div>
                       </div>
                     </div>
-                    <p className="text-[11px] text-slate-500 line-clamp-2 leading-relaxed">
+                    <p className="text-[11px] text-slate-500 dark:text-slate-400 line-clamp-2 leading-relaxed">
                       {card.signatureStyle}
                     </p>
                   </button>
@@ -826,38 +826,38 @@ export const InterviewArena: React.FC<InterviewArenaProps> = ({
           </div>
 
           {/* Examiner Panel Preview (Authentic 7-Examiner Composition) */}
-          <div className="bg-white rounded-2xl p-6 border border-slate-200 shadow-xs space-y-4">
+          <div className="bg-white dark:bg-slate-900 rounded-2xl p-6 border border-slate-200 dark:border-slate-700 shadow-xs space-y-4">
             <div className="flex items-center justify-between">
               <div>
-                <h3 className="text-sm font-bold text-slate-900 flex items-center gap-1.5">
-                  <ShieldCheck className="w-4 h-4 text-indigo-600" />
+                <h3 className="text-sm font-bold text-slate-900 dark:text-slate-100 flex items-center gap-1.5">
+                  <ShieldCheck className="w-4 h-4 text-emerald-600 dark:text-emerald-400" />
                   官方标准化考场 · 严肃考官评委席构成
                 </h3>
                 <p className="text-xs text-slate-400 mt-0.5">
                   还原国家公职面试标准配置：正厅级主考官领衔，专职纪检监督与计时记分
                 </p>
               </div>
-              <span className="text-[11px] px-2 py-0.5 rounded bg-slate-100 text-slate-700 font-mono">
+              <span className="text-[11px] px-2 py-0.5 rounded bg-slate-100 dark:bg-slate-800 text-slate-700 dark:text-slate-200 font-mono">
                 标准考官长桌阵容
               </span>
             </div>
 
             <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-5 gap-3">
               {MOCK_EXAMINER_CARDS.map((ex) => (
-                <div key={ex.id} className="p-3.5 rounded-xl bg-slate-50 border border-slate-200 text-left space-y-2">
+                <div key={ex.id} className="p-3.5 rounded-xl bg-slate-50 dark:bg-slate-800 border border-slate-200 dark:border-slate-700 text-left space-y-2">
                   <div className="flex items-center gap-2">
-                    <div className="w-9 h-9 rounded-full overflow-hidden border border-slate-300 shrink-0">
+                    <div className="w-9 h-9 rounded-full overflow-hidden border border-slate-300 dark:border-slate-600 shrink-0">
                       <img src={ex.avatarUrl} alt={ex.name} className="w-full h-full object-cover" referrerPolicy="no-referrer" />
                     </div>
                     <div>
-                      <div className="text-xs font-black text-slate-900">{ex.name}</div>
-                      <div className="text-[10px] text-indigo-700 font-bold">{ex.role}</div>
+                      <div className="text-xs font-black text-slate-900 dark:text-slate-100">{ex.name}</div>
+                      <div className="text-[10px] text-emerald-700 dark:text-emerald-300 font-bold">{ex.role}</div>
                     </div>
                   </div>
-                  <p className="text-[11px] text-slate-600 line-clamp-2 leading-snug">
+                  <p className="text-[11px] text-slate-600 dark:text-slate-300 line-clamp-2 leading-snug">
                     {ex.styleDescription}
                   </p>
-                  <div className="text-[10px] text-slate-500 border-t border-slate-200/80 pt-1 font-mono">
+                  <div className="text-[10px] text-slate-500 dark:text-slate-400 border-t border-slate-200/80 dark:border-slate-700/80 pt-1 font-mono">
                     审视重点：{ex.focus}
                   </div>
                 </div>
@@ -869,14 +869,14 @@ export const InterviewArena: React.FC<InterviewArenaProps> = ({
           <div className="space-y-4">
             <div className="flex items-center justify-between">
               <div>
-                <h3 className="text-sm font-bold text-slate-900">
+                <h3 className="text-sm font-bold text-slate-900 dark:text-slate-100">
                   {activeFormat === 'structured' ? '结构化面试全真考场题本' : '无领导小组讨论全真实战题本'}
                 </h3>
                 <p className="text-xs text-slate-400 mt-0.5">
-                  精选国考、省考及事业编历年高频真题，直击基层治理与应急处突
+                  精选国考、省考历年高频真题，直击基层治理与应急处突
                 </p>
               </div>
-              <span className="text-xs text-slate-500 font-mono">
+              <span className="text-xs text-slate-500 dark:text-slate-400 font-mono">
                 共 {roomsForFormat.length} 个考场开放中
               </span>
             </div>
@@ -885,11 +885,11 @@ export const InterviewArena: React.FC<InterviewArenaProps> = ({
               {roomsForFormat.map((room) => (
                 <div 
                   key={room.id}
-                  className="bg-white rounded-2xl p-5 border border-slate-200 shadow-xs hover:border-slate-400 transition-all flex flex-col justify-between space-y-4"
+                  className="bg-white dark:bg-slate-900 rounded-2xl p-5 border border-slate-200 dark:border-slate-700 shadow-xs hover:border-slate-400 dark:hover:border-slate-500 transition-all flex flex-col justify-between space-y-4"
                 >
                   <div className="space-y-2">
                     <div className="flex items-center justify-between">
-                      <span className="px-2 py-0.5 rounded text-[11px] font-bold bg-indigo-50 text-indigo-800 border border-indigo-200">
+                      <span className="px-2 py-0.5 rounded text-[11px] font-bold bg-emerald-50 dark:bg-emerald-900/40 text-emerald-800 dark:text-emerald-300 border border-emerald-200 dark:border-emerald-800">
                         {room.examType}
                       </span>
                       <span className="text-xs text-slate-400 font-mono">
@@ -897,16 +897,16 @@ export const InterviewArena: React.FC<InterviewArenaProps> = ({
                       </span>
                     </div>
 
-                    <h4 className="text-sm font-bold text-slate-900 leading-snug">
+                    <h4 className="text-sm font-bold text-slate-900 dark:text-slate-100 leading-snug">
                       {room.title}
                     </h4>
 
-                    <p className="text-xs text-slate-600 line-clamp-3 leading-relaxed">
+                    <p className="text-xs text-slate-600 dark:text-slate-300 line-clamp-3 leading-relaxed">
                       {room.promptQuestion.title}
                     </p>
                   </div>
 
-                  <div className="pt-3 border-t border-slate-100 flex items-center justify-between">
+                  <div className="pt-3 border-t border-slate-100 dark:border-slate-800 flex items-center justify-between">
                     <div className="flex items-center gap-1.5 text-xs text-slate-400 font-mono">
                       <Clock className="w-3.5 h-3.5" />
                       <span>{Math.round(room.promptQuestion.timeLimitSeconds / 60)} 分钟实战</span>
@@ -914,7 +914,7 @@ export const InterviewArena: React.FC<InterviewArenaProps> = ({
 
                     <button
                       onClick={() => handleStartSession(room)}
-                      className="px-4 py-2 bg-slate-900 hover:bg-slate-800 text-white text-xs font-bold rounded-xl shadow-xs transition-colors cursor-pointer"
+                      className="px-4 py-2 bg-slate-900 dark:bg-slate-700 hover:bg-slate-800 dark:hover:bg-slate-600 text-white text-xs font-bold rounded-xl shadow-xs transition-colors cursor-pointer"
                     >
                       {activeMode === 'solo_ai' ? '进入严肃考场实战' : '匹配考友同行对练'}
                     </button>
@@ -928,25 +928,25 @@ export const InterviewArena: React.FC<InterviewArenaProps> = ({
 
       {/* PHASE 2: MATCHMAKING ANIMATION (FOR PEER PK) */}
       {phase === 'matching' && (
-        <div className="bg-white rounded-2xl p-12 border border-slate-200 shadow-xs text-center space-y-6 max-w-lg mx-auto">
+        <div className="bg-white dark:bg-slate-900 rounded-2xl p-12 border border-slate-200 dark:border-slate-700 shadow-xs text-center space-y-6 max-w-lg mx-auto">
           <div className="relative w-32 h-32 mx-auto flex items-center justify-center">
-            <div className="absolute inset-0 rounded-full border border-indigo-400/40 animate-ping" />
-            <div className="absolute inset-2 rounded-full border border-indigo-500/60 animate-pulse" />
-            <div className="w-20 h-20 rounded-full bg-slate-900 text-white flex items-center justify-center font-bold text-2xl shadow-lg font-mono">
+            <div className="absolute inset-0 rounded-full border border-emerald-400/40 dark:border-emerald-600/40 animate-ping" />
+            <div className="absolute inset-2 rounded-full border border-emerald-500/60 animate-pulse" />
+            <div className="w-20 h-20 rounded-full bg-slate-900 dark:bg-slate-700 text-white flex items-center justify-center font-bold text-2xl shadow-lg font-mono">
               {matchingSeconds}
             </div>
           </div>
 
           <div>
-            <h3 className="text-lg font-bold text-slate-900">
+            <h3 className="text-lg font-bold text-slate-900 dark:text-slate-100">
               正在全网匹配实力相近的备考同行者...
             </h3>
-            <p className="text-xs text-slate-500 mt-1">
+            <p className="text-xs text-slate-500 dark:text-slate-400 mt-1">
               遵循“按部就班就是伟大”原则，系统将完全屏蔽对方历史分数，营造零焦虑备考环境。
             </p>
           </div>
 
-          <div className="p-3 bg-slate-50 rounded-xl text-xs text-slate-600 border border-slate-200">
+          <div className="p-3 bg-slate-50 dark:bg-slate-800 rounded-xl text-xs text-slate-600 dark:text-slate-300 border border-slate-200 dark:border-slate-700">
             演练考题：{selectedRoom.title}
           </div>
         </div>
@@ -957,15 +957,15 @@ export const InterviewArena: React.FC<InterviewArenaProps> = ({
         <div className="space-y-4">
           
           {/* Chamber Header & Perspective Toggles */}
-          <div className="bg-white rounded-2xl p-4 border border-slate-200 shadow-xs flex flex-wrap items-center justify-between gap-3">
+          <div className="bg-white dark:bg-slate-900 rounded-2xl p-4 border border-slate-200 dark:border-slate-700 shadow-xs flex flex-wrap items-center justify-between gap-3">
             <div className="flex items-center gap-3">
-              <span className="text-xs font-bold text-slate-900">考场视点：</span>
+              <span className="text-xs font-bold text-slate-900 dark:text-slate-100">考场视点：</span>
               
-              <div className="flex items-center gap-1 p-1 bg-slate-100 rounded-lg text-xs font-medium border border-slate-200">
+              <div className="flex items-center gap-1 p-1 bg-slate-100 dark:bg-slate-800 rounded-lg text-xs font-medium border border-slate-200 dark:border-slate-700">
                 <button
                   onClick={() => setChamberPerspective('chief_closeup')}
                   className={`px-3 py-1.5 rounded-md transition-colors cursor-pointer flex items-center gap-1.5 ${
-                    chamberPerspective === 'chief_closeup' ? 'bg-slate-900 text-white shadow-xs font-bold' : 'text-slate-600 hover:text-slate-900'
+                    chamberPerspective === 'chief_closeup' ? 'bg-slate-900 dark:bg-slate-700 text-white shadow-xs font-bold' : 'text-slate-600 dark:text-slate-300 hover:text-slate-900 dark:hover:text-slate-100'
                   }`}
                   title="直视主考官目光，训练对视脱敏"
                 >
@@ -976,7 +976,7 @@ export const InterviewArena: React.FC<InterviewArenaProps> = ({
                 <button
                   onClick={() => setChamberPerspective('bench_panorama')}
                   className={`px-3 py-1.5 rounded-md transition-colors cursor-pointer flex items-center gap-1.5 ${
-                    chamberPerspective === 'bench_panorama' ? 'bg-slate-900 text-white shadow-xs font-bold' : 'text-slate-600 hover:text-slate-900'
+                    chamberPerspective === 'bench_panorama' ? 'bg-slate-900 dark:bg-slate-700 text-white shadow-xs font-bold' : 'text-slate-600 dark:text-slate-300 hover:text-slate-900 dark:hover:text-slate-100'
                   }`}
                   title="全景考官长桌视角"
                 >
@@ -1001,25 +1001,25 @@ export const InterviewArena: React.FC<InterviewArenaProps> = ({
                 }}
                 className={`px-3 py-1.5 rounded-lg border text-xs font-bold flex items-center gap-1.5 cursor-pointer transition-all ${
                   isExaminerSpeaking
-                    ? 'bg-amber-500 text-slate-950 border-amber-400 animate-pulse shadow-xs'
-                    : 'bg-white border-slate-300 text-slate-700 hover:bg-slate-50'
+                    ? 'bg-amber-500 text-slate-950 dark:text-slate-100 border-amber-400 dark:border-amber-600 animate-pulse shadow-xs'
+                    : 'bg-white dark:bg-slate-900 border-slate-300 dark:border-slate-600 text-slate-700 dark:text-slate-200 hover:bg-slate-50 dark:hover:bg-slate-800'
                 }`}
                 title="重新播放或暂停主考官威严原声口令"
               >
-                <Volume2 className={`w-3.5 h-3.5 ${isExaminerSpeaking ? 'text-slate-950' : 'text-indigo-600'}`} />
+                <Volume2 className={`w-3.5 h-3.5 ${isExaminerSpeaking ? 'text-slate-950 dark:text-slate-100' : 'text-emerald-600 dark:text-emerald-400'}`} />
                 <span>{isExaminerSpeaking ? '正在播报主考官口令 (点击停止)' : '重播主考官口令'}</span>
               </button>
             </div>
 
             {/* Official Digital Timers Display */}
             <div className="flex items-center gap-3">
-              <span className="text-xs font-bold text-slate-600">
+              <span className="text-xs font-bold text-slate-600 dark:text-slate-300">
                 {sessionStep === 'prep' ? '审题思考倒计时' : '考场正式作答倒计时'}：
               </span>
               <div className={`px-4 py-1.5 rounded-xl font-mono font-black text-base tabular-nums border ${
                 sessionStep === 'prep' 
-                  ? 'bg-amber-50 text-amber-900 border-amber-300' 
-                  : (answerTimeLeft <= 60 ? 'bg-rose-600 text-white border-rose-700 animate-pulse' : 'bg-slate-900 text-white border-slate-900')
+                  ? 'bg-amber-50 dark:bg-amber-900/40 text-amber-900 dark:text-amber-200 border-amber-300 dark:border-amber-700' 
+                  : (answerTimeLeft <= 60 ? 'bg-rose-600 text-white border-rose-700 animate-pulse' : 'bg-slate-900 dark:bg-slate-700 text-white border-slate-900')
               }`}>
                 {sessionStep === 'prep'
                   ? `00:${String(prepTimeLeft).padStart(2, '0')}`
@@ -1068,7 +1068,7 @@ export const InterviewArena: React.FC<InterviewArenaProps> = ({
                 </div>
 
                 {/* Scene View: Chief Examiner Closeup OR Full Bench Panorama */}
-                <div className="relative h-64 sm:h-80 w-full overflow-hidden bg-slate-900">
+                <div className="relative h-64 sm:h-80 w-full overflow-hidden bg-slate-900 dark:bg-slate-700">
                   {chamberPerspective === 'chief_closeup' ? (
                     <img
                       src="/src/assets/images/chief_examiner_closeup_serious_1791641370871.jpg"
@@ -1091,17 +1091,17 @@ export const InterviewArena: React.FC<InterviewArenaProps> = ({
                   {/* Live Chamber Behavior Status Indicator */}
                   <div className={`absolute top-3 left-3 backdrop-blur-md px-3 py-1.5 rounded-lg border text-[11px] flex items-center gap-2 transition-all ${
                     isExaminerSpeaking 
-                      ? 'bg-amber-950/90 border-amber-400 text-amber-200 shadow-md ring-1 ring-amber-400/50' 
+                      ? 'bg-amber-950/90 border-amber-400 dark:border-amber-600 text-amber-200 shadow-md ring-1 ring-amber-400/50 dark:ring-amber-600/50' 
                       : 'bg-black/75 border-white/10 text-slate-200'
                   }`}>
                     {isExaminerSpeaking ? (
                       <div className="flex items-center gap-1 h-3">
-                        <span className="w-1 h-2 bg-amber-400 animate-pulse rounded-full" />
-                        <span className="w-1 h-3.5 bg-amber-300 animate-bounce rounded-full" />
-                        <span className="w-1 h-2 bg-amber-400 animate-pulse rounded-full" />
+                        <span className="w-1 h-2 bg-amber-400 dark:bg-amber-700 animate-pulse rounded-full" />
+                        <span className="w-1 h-3.5 bg-amber-300 dark:bg-amber-700 animate-bounce rounded-full" />
+                        <span className="w-1 h-2 bg-amber-400 dark:bg-amber-700 animate-pulse rounded-full" />
                       </div>
                     ) : (
-                      <span className="w-2 h-2 rounded-full bg-emerald-400 animate-pulse" />
+                      <span className="w-2 h-2 rounded-full bg-emerald-400 dark:bg-emerald-700 animate-pulse" />
                     )}
                     <span className="font-medium">
                       {isExaminerSpeaking 
@@ -1114,8 +1114,8 @@ export const InterviewArena: React.FC<InterviewArenaProps> = ({
 
                   {/* Examiner Nameplate Floating at bottom of stage */}
                   <div className="absolute bottom-3 left-4 right-4 flex items-center justify-between text-[11px]">
-                    <div className="px-3 py-1 rounded bg-slate-900/90 backdrop-blur-md border border-slate-700 text-amber-300 font-bold flex items-center gap-1.5 shadow-sm">
-                      <ShieldCheck className="w-3.5 h-3.5 text-amber-400" />
+                    <div className="px-3 py-1 rounded bg-slate-900/90 backdrop-blur-md border border-slate-700 text-emerald-200 font-bold flex items-center gap-1.5 shadow-sm">
+                      <ShieldCheck className="w-3.5 h-3.5 text-emerald-300" />
                       <span>主考官：张巡视员 (正厅级命题组组长)</span>
                     </div>
 
@@ -1127,7 +1127,7 @@ export const InterviewArena: React.FC<InterviewArenaProps> = ({
 
                 {/* Candidate Desk Question Book & Task */}
                 <div className="p-4 bg-slate-950 border-t border-slate-800 space-y-2">
-                  <div className="flex items-center justify-between text-xs text-amber-400">
+                  <div className="flex items-center justify-between text-xs text-emerald-300">
                     <span className="font-bold flex items-center gap-1.5">
                       <FileText className="w-4 h-4" />
                       【考生席题本】：{selectedRoom.promptQuestion.title}
@@ -1142,18 +1142,18 @@ export const InterviewArena: React.FC<InterviewArenaProps> = ({
                   </p>
 
                   {activeFormat === 'leaderless_group' && (
-                    <div className="p-2.5 bg-indigo-950/60 rounded-lg text-[11px] text-indigo-200 border border-indigo-900">
-                      <strong className="text-indigo-400">无领导定位口诀：</strong> {selectedLgdRole.speakingTactic}
+                    <div className="p-2.5 bg-brand-ink/60 rounded-lg text-[11px] text-emerald-200 border border-white/10">
+                      <strong className="text-emerald-200">无领导定位口诀：</strong> {selectedLgdRole.speakingTactic}
                     </div>
                   )}
                 </div>
               </div>
 
               {/* Scratchpad & Spoken Input Sandbox */}
-              <div className="bg-white rounded-2xl p-5 border border-slate-200 shadow-xs space-y-3">
+              <div className="bg-white dark:bg-slate-900 rounded-2xl p-5 border border-slate-200 dark:border-slate-700 shadow-xs space-y-3">
                 <div className="flex items-center justify-between text-xs">
-                  <span className="font-bold text-slate-900 flex items-center gap-1.5">
-                    <FileText className="w-4 h-4 text-emerald-600" />
+                  <span className="font-bold text-slate-900 dark:text-slate-100 flex items-center gap-1.5">
+                    <FileText className="w-4 h-4 text-emerald-600 dark:text-emerald-400" />
                     草稿纸提纲构思与作答录入
                   </span>
 
@@ -1163,7 +1163,7 @@ export const InterviewArena: React.FC<InterviewArenaProps> = ({
                     className={`flex items-center gap-1.5 px-3 py-1.5 rounded-lg text-xs font-bold transition-all cursor-pointer ${
                       isVoiceListening 
                         ? 'bg-rose-600 text-white animate-pulse shadow-xs' 
-                        : 'bg-emerald-50 text-emerald-800 hover:bg-emerald-100 border border-emerald-300'
+                        : 'bg-emerald-50 dark:bg-emerald-900/40 text-emerald-800 dark:text-emerald-300 hover:bg-emerald-100 dark:hover:bg-emerald-900/40 border border-emerald-300 dark:border-emerald-700'
                     }`}
                   >
                     {isVoiceListening ? <MicOff className="w-3.5 h-3.5" /> : <Mic className="w-3.5 h-3.5" />}
@@ -1180,17 +1180,17 @@ export const InterviewArena: React.FC<InterviewArenaProps> = ({
                       : '【考场正式作答】：面对考官开口发言。系统实时将语音录入转写为文字……作答完毕请说“回答完毕”。'
                   }
                   rows={5}
-                  className="w-full p-3.5 bg-slate-50 border border-slate-300 rounded-xl text-xs sm:text-sm text-slate-900 placeholder:text-slate-400 focus:bg-white focus:outline-none focus:ring-2 focus:ring-slate-900"
+                  className="w-full p-3.5 bg-slate-50 dark:bg-slate-800 border border-slate-300 dark:border-slate-600 rounded-xl text-xs sm:text-sm text-slate-900 dark:text-slate-100 placeholder:text-slate-400 focus:bg-white dark:focus:bg-slate-700 focus:outline-none focus:ring-2 focus:ring-slate-900 dark:focus:ring-slate-100"
                 />
 
                 <div className="flex items-center justify-between pt-1">
-                  <span className="text-[11px] text-slate-500 font-mono">
+                  <span className="text-[11px] text-slate-500 dark:text-slate-400 font-mono">
                     已录入 {userSpokenAnswer.length} 字
                   </span>
 
                   <button
                     onClick={handleFinishAnswer}
-                    className="px-6 py-2.5 bg-slate-900 hover:bg-slate-800 text-white font-bold text-xs rounded-xl shadow-xs transition-colors cursor-pointer"
+                    className="px-6 py-2.5 bg-slate-900 dark:bg-slate-700 hover:bg-slate-800 dark:hover:bg-slate-600 text-white font-bold text-xs rounded-xl shadow-xs transition-colors cursor-pointer"
                   >
                     回答完毕 · 提交考官阅卷复盘
                   </button>
@@ -1202,16 +1202,16 @@ export const InterviewArena: React.FC<InterviewArenaProps> = ({
             <div className="lg:col-span-5 space-y-4">
               
               {/* Video Camera Mirror Sandbox */}
-              <div className="bg-white rounded-2xl p-5 border border-slate-200 shadow-xs space-y-3">
+              <div className="bg-white dark:bg-slate-900 rounded-2xl p-5 border border-slate-200 dark:border-slate-700 shadow-xs space-y-3">
                 <div className="flex items-center justify-between text-xs">
-                  <span className="font-bold text-slate-900 flex items-center gap-1.5">
-                    <Camera className="w-4 h-4 text-indigo-600" />
+                  <span className="font-bold text-slate-900 dark:text-slate-100 flex items-center gap-1.5">
+                    <Camera className="w-4 h-4 text-emerald-600 dark:text-emerald-400" />
                     考场仪态镜与视频录制自检
                   </span>
 
                   <div className="flex items-center gap-1">
                     {isCameraActive && (
-                      <span className="inline-flex items-center gap-1 px-2 py-0.5 rounded text-[10px] font-bold bg-emerald-100 text-emerald-800">
+                      <span className="inline-flex items-center gap-1 px-2 py-0.5 rounded text-[10px] font-bold bg-emerald-100 dark:bg-emerald-900/40 text-emerald-800 dark:text-emerald-300">
                         <span className="w-1.5 h-1.5 rounded-full bg-emerald-600 animate-pulse" />
                         摄像头正常
                       </span>
@@ -1220,7 +1220,7 @@ export const InterviewArena: React.FC<InterviewArenaProps> = ({
                 </div>
 
                 {/* Mirror container */}
-                <div className="relative aspect-4/3 rounded-xl overflow-hidden bg-slate-950 flex items-center justify-center border border-slate-300">
+                <div className="relative aspect-4/3 rounded-xl overflow-hidden bg-slate-950 flex items-center justify-center border border-slate-300 dark:border-slate-600">
                   <video
                     ref={videoLiveRef}
                     autoPlay
@@ -1236,13 +1236,13 @@ export const InterviewArena: React.FC<InterviewArenaProps> = ({
                       </div>
                       <div className="space-y-1">
                         <p className="text-xs text-slate-300 font-bold">考场仪态视频镜未启动</p>
-                        <p className="text-[11px] text-slate-500 max-w-xs">
+                        <p className="text-[11px] text-slate-500 dark:text-slate-400 max-w-xs">
                           开启摄像头可同步录制作答视频，考后回放自查眼神交流与微表情
                         </p>
                       </div>
                       <button
                         onClick={startCamera}
-                        className="px-3.5 py-1.5 bg-slate-800 hover:bg-slate-700 text-white text-xs font-semibold rounded-lg cursor-pointer transition-colors"
+                        className="px-3.5 py-1.5 bg-slate-800 hover:bg-slate-700 dark:hover:bg-slate-600 text-white text-xs font-semibold rounded-lg cursor-pointer transition-colors"
                       >
                         开启摄像头
                       </button>
@@ -1251,52 +1251,52 @@ export const InterviewArena: React.FC<InterviewArenaProps> = ({
 
                   {isRecordingVideo && (
                     <div className="absolute top-2 left-2 px-2.5 py-0.5 rounded bg-rose-600/90 text-white text-[10px] font-bold flex items-center gap-1 shadow-sm">
-                      <span className="w-1.5 h-1.5 rounded-full bg-white animate-ping" />
+                      <span className="w-1.5 h-1.5 rounded-full bg-white dark:bg-slate-900 animate-ping" />
                       <span>正在录制自检视频...</span>
                     </div>
                   )}
                 </div>
 
                 {cameraError && (
-                  <div className="p-2.5 bg-amber-50 rounded-lg border border-amber-200 text-[11px] text-amber-800 flex items-center gap-2">
+                  <div className="p-2.5 bg-amber-50 dark:bg-amber-900/40 rounded-lg border border-amber-200 dark:border-amber-800 text-[11px] text-amber-800 dark:text-amber-300 flex items-center gap-2">
                     <AlertCircle className="w-4 h-4 shrink-0" />
                     <span>{cameraError}</span>
                   </div>
                 )}
 
-                <div className="text-[11px] text-slate-500 leading-relaxed bg-slate-50 p-2.5 rounded-lg border border-slate-200">
+                <div className="text-[11px] text-slate-500 dark:text-slate-400 leading-relaxed bg-slate-50 dark:bg-slate-800 p-2.5 rounded-lg border border-slate-200 dark:border-slate-700">
                   💡 <strong>仪态脱敏要领：</strong>挺胸抬头、目光直视主考官眼神、手自然平放于桌面、语调沉稳坚定，消除游离与背诵感。
                 </div>
               </div>
 
               {/* 3 Core Scoring Dimensions (Civil Service Adult Mindset) */}
-              <div className="bg-white rounded-2xl p-5 border border-slate-200 shadow-xs space-y-3">
-                <span className="text-xs font-bold text-slate-900 block">
+              <div className="bg-white dark:bg-slate-900 rounded-2xl p-5 border border-slate-200 dark:border-slate-700 shadow-xs space-y-3">
+                <span className="text-xs font-bold text-slate-900 dark:text-slate-100 block">
                   考官席核心打分标尺（成年人执政思维）：
                 </span>
                 
                 <div className="space-y-2 text-xs">
-                  <div className="p-2.5 bg-emerald-50/60 rounded-xl border border-emerald-200 flex items-start gap-2">
-                    <CheckCircle2 className="w-4 h-4 text-emerald-600 shrink-0 mt-0.5" />
+                  <div className="p-2.5 bg-emerald-50/60 dark:bg-emerald-900/40 rounded-xl border border-emerald-200 dark:border-emerald-800 flex items-start gap-2">
+                    <CheckCircle2 className="w-4 h-4 text-emerald-600 dark:text-emerald-400 shrink-0 mt-0.5" />
                     <div>
-                      <strong className="text-emerald-950 font-bold block">1. 体察民情深度 (拒空话)</strong>
-                      <span className="text-emerald-800 text-[11px]">能够站在老百姓的办事难处思考，有共情与换位温度。</span>
+                      <strong className="text-emerald-950 dark:text-emerald-200 font-bold block">1. 体察民情深度 (拒空话)</strong>
+                      <span className="text-emerald-800 dark:text-emerald-300 text-[11px]">能够站在老百姓的办事难处思考，有共情与换位温度。</span>
                     </div>
                   </div>
 
-                  <div className="p-2.5 bg-indigo-50/60 rounded-xl border border-indigo-200 flex items-start gap-2">
-                    <CheckCircle2 className="w-4 h-4 text-indigo-600 shrink-0 mt-0.5" />
+                  <div className="p-2.5 bg-emerald-50/60 dark:bg-emerald-900/40 rounded-xl border border-emerald-200 dark:border-emerald-800 flex items-start gap-2">
+                    <CheckCircle2 className="w-4 h-4 text-emerald-600 dark:text-emerald-400 shrink-0 mt-0.5" />
                     <div>
-                      <strong className="text-indigo-950 font-bold block">2. 解决复杂问题能力 (抓闭环)</strong>
-                      <span className="text-indigo-800 text-[11px]">在有限经费与编制下分类施策，拿出体制内管用硬招。</span>
+                      <strong className="text-emerald-950 dark:text-emerald-200 font-bold block">2. 解决复杂问题能力 (抓闭环)</strong>
+                      <span className="text-emerald-800 dark:text-emerald-300 text-[11px]">在有限经费与编制下分类施策，拿出体制内管用硬招。</span>
                     </div>
                   </div>
 
-                  <div className="p-2.5 bg-amber-50/60 rounded-xl border border-amber-200 flex items-start gap-2">
-                    <CheckCircle2 className="w-4 h-4 text-amber-600 shrink-0 mt-0.5" />
+                  <div className="p-2.5 bg-emerald-50/60 dark:bg-emerald-900/40 rounded-xl border border-emerald-200 dark:border-emerald-800 flex items-start gap-2">
+                    <CheckCircle2 className="w-4 h-4 text-emerald-600 dark:text-emerald-400 shrink-0 mt-0.5" />
                     <div>
-                      <strong className="text-amber-950 font-bold block">3. 从容担当气魄 (定力)</strong>
-                      <span className="text-amber-800 text-[11px]">不推诿、不踢皮球，临危不乱，首问负责。</span>
+                      <strong className="text-emerald-950 dark:text-emerald-200 font-bold block">3. 从容担当气魄 (定力)</strong>
+                      <span className="text-emerald-800 dark:text-emerald-300 text-[11px]">不推诿、不踢皮球，临危不乱，首问负责。</span>
                     </div>
                   </div>
                 </div>
@@ -1308,37 +1308,37 @@ export const InterviewArena: React.FC<InterviewArenaProps> = ({
 
       {/* PHASE 4: SCORE REVEAL ANIMATION (Anti-Anxiety: No opponent score shown!) */}
       {phase === 'revealing' && (
-        <div className="bg-white rounded-2xl p-8 border border-slate-200 shadow-xs text-center space-y-6 max-w-xl mx-auto">
+        <div className="bg-white dark:bg-slate-900 rounded-2xl p-8 border border-slate-200 dark:border-slate-700 shadow-xs text-center space-y-6 max-w-xl mx-auto">
           <div>
-            <div className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-indigo-50 text-indigo-800 text-xs font-bold mb-2">
-              <Sparkles className="w-3.5 h-3.5 text-indigo-600" />
+            <div className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-emerald-50 dark:bg-emerald-900/40 text-emerald-800 dark:text-emerald-300 text-xs font-bold mb-2">
+              <Sparkles className="w-3.5 h-3.5 text-emerald-600 dark:text-emerald-400" />
               <span>考官评卷与同伴互评生成中</span>
             </div>
-            <h3 className="text-xl font-bold text-slate-900">
+            <h3 className="text-xl font-bold text-slate-900 dark:text-slate-100">
               按部就班就是伟大 · 双方共勉揭晓
             </h3>
-            <p className="text-xs text-slate-500 mt-1">
-              为了消除焦虑与内卷，系统<strong className="text-slate-800">绝不展示对方的分数</strong>。只呈现对彼此的闪光点认可与你的专属执政雷达诊断。
+            <p className="text-xs text-slate-500 dark:text-slate-400 mt-1">
+              为了消除焦虑与内卷，系统<strong className="text-slate-800 dark:text-slate-200">绝不展示对方的分数</strong>。只呈现对彼此的闪光点认可与你的专属执政雷达诊断。
             </p>
           </div>
 
           <div className="grid grid-cols-2 gap-4 text-left">
-            <div className={`p-4 rounded-xl border transition-all duration-500 ${revealStep >= 1 ? 'border-emerald-500 bg-emerald-50/40 translate-y-0 opacity-100' : 'translate-y-4 opacity-50'}`}>
-              <div className="text-xs font-bold text-slate-900 mb-1">你的执政思维评定</div>
-              <div className="text-lg font-black text-emerald-700">
+            <div className={`p-4 rounded-xl border transition-all duration-500 ${revealStep >= 1 ? 'border-emerald-500 bg-emerald-50/40 dark:bg-emerald-900/40 translate-y-0 opacity-100' : 'translate-y-4 opacity-50'}`}>
+              <div className="text-xs font-bold text-slate-900 dark:text-slate-100 mb-1">你的执政思维评定</div>
+              <div className="text-lg font-black text-emerald-700 dark:text-emerald-300">
                 {isEvaluating ? '考官审阅中...' : reviewResult?.overallGrade || '良好'}
               </div>
-              <div className="text-[11px] text-slate-500 mt-2">
-                坚持打卡 <strong className="text-slate-800">{streakDays}</strong> 天
+              <div className="text-[11px] text-slate-500 dark:text-slate-400 mt-2">
+                坚持打卡 <strong className="text-slate-800 dark:text-slate-200">{streakDays}</strong> 天
               </div>
             </div>
 
-            <div className={`p-4 rounded-xl border transition-all duration-500 ${revealStep >= 2 ? 'border-amber-400 bg-amber-50/40 translate-y-0 opacity-100' : 'translate-y-4 opacity-50'}`}>
-              <div className="text-xs font-bold text-slate-900 mb-1">同伴共勉信</div>
-              <div className="text-sm font-bold text-amber-900">
+            <div className={`p-4 rounded-xl border transition-all duration-500 ${revealStep >= 2 ? 'border-brand-gold/50 bg-brand-gold/5 translate-y-0 opacity-100' : 'translate-y-4 opacity-50'}`}>
+              <div className="text-xs font-bold text-slate-900 dark:text-slate-100 mb-1">同伴共勉信</div>
+              <div className="text-sm font-bold text-[#7A5B12] dark:text-amber-300">
                 ★ 获得“按部就班”同行勋章
               </div>
-              <div className="text-[11px] text-slate-500 mt-2">
+              <div className="text-[11px] text-slate-500 dark:text-slate-400 mt-2">
                 “思维开阔，举措落地很实，共同上岸！”
               </div>
             </div>
@@ -1348,7 +1348,7 @@ export const InterviewArena: React.FC<InterviewArenaProps> = ({
             <button
               onClick={() => setPhase('report')}
               disabled={isEvaluating}
-              className="px-6 py-2.5 bg-slate-900 hover:bg-slate-800 text-white font-bold text-xs sm:text-sm rounded-xl shadow-xs transition-colors cursor-pointer"
+              className="px-6 py-2.5 bg-slate-900 dark:bg-slate-700 hover:bg-slate-800 dark:hover:bg-slate-600 text-white font-bold text-xs sm:text-sm rounded-xl shadow-xs transition-colors cursor-pointer"
             >
               {isEvaluating ? '资深主考官正在撰写深度报告...' : '查阅完整复盘、视频回放与反套话诊断'}
             </button>
@@ -1358,22 +1358,22 @@ export const InterviewArena: React.FC<InterviewArenaProps> = ({
 
       {/* PHASE 5: COMPREHENSIVE AI REVIEW REPORT */}
       {phase === 'report' && reviewResult && (
-        <div className="bg-white rounded-2xl p-6 sm:p-8 border border-slate-200 shadow-xs space-y-6 max-w-4xl mx-auto">
+        <div className="bg-white dark:bg-slate-900 rounded-2xl p-6 sm:p-8 border border-slate-200 dark:border-slate-700 shadow-xs space-y-6 max-w-4xl mx-auto">
           
           {/* Header */}
-          <div className="flex flex-col sm:flex-row items-start sm:items-center justify-between gap-4 border-b border-slate-100 pb-5">
+          <div className="flex flex-col sm:flex-row items-start sm:items-center justify-between gap-4 border-b border-slate-100 dark:border-slate-800 pb-5">
             <div>
-              <span className="text-xs font-bold text-indigo-700 uppercase tracking-wide">
+              <span className="text-xs font-bold text-emerald-700 dark:text-emerald-300 uppercase tracking-wide">
                 {activeFormat === 'leaderless_group' ? '无领导小组讨论 · 团队复盘报告' : '结构化面试 · 资深主考官官方复盘报告'}
               </span>
-              <h3 className="text-xl font-bold text-slate-900 mt-0.5">
+              <h3 className="text-xl font-bold text-slate-900 dark:text-slate-100 mt-0.5">
                 {selectedRoom.promptQuestion.title}
               </h3>
             </div>
 
             <div className="flex items-center gap-2">
-              <span className="text-xs text-slate-500">综合等级：</span>
-              <span className="px-3.5 py-1 rounded-lg bg-emerald-100 text-emerald-900 font-black text-sm">
+              <span className="text-xs text-slate-500 dark:text-slate-400">综合等级：</span>
+              <span className="px-3.5 py-1 rounded-lg bg-emerald-100 dark:bg-emerald-900/40 text-emerald-900 dark:text-emerald-200 font-black text-sm">
                 {reviewResult.overallGrade}
               </span>
             </div>
@@ -1381,7 +1381,7 @@ export const InterviewArena: React.FC<InterviewArenaProps> = ({
 
           {/* Video Playback Sandbox */}
           {recordedVideoUrl && (
-            <div className="p-4 bg-slate-900 rounded-2xl text-white space-y-3">
+            <div className="p-4 bg-slate-900 dark:bg-slate-700 rounded-2xl text-white space-y-3">
               <div className="flex items-center justify-between text-xs">
                 <span className="font-bold flex items-center gap-1.5 text-emerald-400">
                   <Video className="w-4 h-4" />
@@ -1404,27 +1404,27 @@ export const InterviewArena: React.FC<InterviewArenaProps> = ({
 
           {/* 4 Adult Governance Mindset Scores */}
           <div className="grid grid-cols-2 sm:grid-cols-4 gap-3">
-            <div className="p-3.5 bg-slate-50 rounded-xl border border-slate-200 text-center">
-              <span className="text-[11px] text-slate-500 block">体察民情与政治站位</span>
-              <span className="text-xl font-black text-slate-900 font-mono tabular-nums">
+            <div className="p-3.5 bg-slate-50 dark:bg-slate-800 rounded-xl border border-slate-200 dark:border-slate-700 text-center">
+              <span className="text-[11px] text-slate-500 dark:text-slate-400 block">体察民情与政治站位</span>
+              <span className="text-xl font-black text-slate-900 dark:text-slate-100 font-mono tabular-nums">
                 {reviewResult.policyAlignmentScore}
               </span>
             </div>
-            <div className="p-3.5 bg-slate-50 rounded-xl border border-slate-200 text-center">
-              <span className="text-[11px] text-slate-500 block">复杂矛盾解构条理</span>
-              <span className="text-xl font-black text-slate-900 font-mono tabular-nums">
+            <div className="p-3.5 bg-slate-50 dark:bg-slate-800 rounded-xl border border-slate-200 dark:border-slate-700 text-center">
+              <span className="text-[11px] text-slate-500 dark:text-slate-400 block">复杂矛盾解构条理</span>
+              <span className="text-xl font-black text-slate-900 dark:text-slate-100 font-mono tabular-nums">
                 {reviewResult.logicStructureScore}
               </span>
             </div>
-            <div className="p-3.5 bg-slate-50 rounded-xl border border-slate-200 text-center">
-              <span className="text-[11px] text-slate-500 block">沉着表达与实务感</span>
-              <span className="text-xl font-black text-slate-900 font-mono tabular-nums">
+            <div className="p-3.5 bg-slate-50 dark:bg-slate-800 rounded-xl border border-slate-200 dark:border-slate-700 text-center">
+              <span className="text-[11px] text-slate-500 dark:text-slate-400 block">沉着表达与实务感</span>
+              <span className="text-xl font-black text-slate-900 dark:text-slate-100 font-mono tabular-nums">
                 {reviewResult.expressionFluencyScore}
               </span>
             </div>
-            <div className="p-3.5 bg-slate-50 rounded-xl border border-slate-200 text-center">
-              <span className="text-[11px] text-slate-500 block">举措可行性与从容担当</span>
-              <span className="text-xl font-black text-slate-900 font-mono tabular-nums">
+            <div className="p-3.5 bg-slate-50 dark:bg-slate-800 rounded-xl border border-slate-200 dark:border-slate-700 text-center">
+              <span className="text-[11px] text-slate-500 dark:text-slate-400 block">举措可行性与从容担当</span>
+              <span className="text-xl font-black text-slate-900 dark:text-slate-100 font-mono tabular-nums">
                 {reviewResult.practicalActionScore}
               </span>
             </div>
@@ -1432,22 +1432,22 @@ export const InterviewArena: React.FC<InterviewArenaProps> = ({
 
           {/* Peer Review Box (Encouragement Only) */}
           {activeMode === 'peer_pk' && peerFeedback && (
-            <div className="p-4 bg-amber-50/60 border border-amber-200 rounded-2xl space-y-3">
+            <div className="p-4 bg-emerald-50/60 dark:bg-emerald-900/40 border border-emerald-200 dark:border-emerald-800 rounded-2xl space-y-3">
               <div className="flex items-center justify-between text-xs">
-                <span className="font-bold text-amber-950 flex items-center gap-1.5">
-                  <Users className="w-4 h-4 text-amber-700" />
+                <span className="font-bold text-emerald-950 dark:text-emerald-200 flex items-center gap-1.5">
+                  <Users className="w-4 h-4 text-emerald-700 dark:text-emerald-300" />
                   考友同行互评反馈 ({peerFeedback.evaluatorName})
                 </span>
-                <span className="px-2 py-0.5 rounded bg-amber-200 text-amber-900 font-medium text-[11px]">
+                <span className="px-2 py-0.5 rounded bg-emerald-200 dark:bg-emerald-800 text-emerald-900 dark:text-emerald-200 font-medium text-[11px]">
                   互评站位：{peerFeedback.standpointScoreLabel} · {peerFeedback.practicalFeasibility}
                 </span>
               </div>
 
-              <p className="text-xs text-amber-900 leading-relaxed font-serif italic">
+              <p className="text-xs text-emerald-900 dark:text-emerald-200 leading-relaxed font-serif italic">
                 {peerFeedback.encouragementNote}
               </p>
 
-              <div className="text-[11px] text-amber-800">
+              <div className="text-[11px] text-emerald-800 dark:text-emerald-300">
                 <strong>同伴眼中的你的高光：</strong> {peerFeedback.highlightPraise}
               </div>
             </div>
@@ -1486,12 +1486,12 @@ export const InterviewArena: React.FC<InterviewArenaProps> = ({
               </ul>
             </div>
 
-            <div className="p-4 bg-amber-50/50 rounded-xl border border-amber-200 space-y-2">
-              <h5 className="text-xs font-bold text-amber-950 flex items-center gap-1.5">
-                <TrendingUp className="w-4 h-4 text-amber-600" />
+            <div className="p-4 bg-emerald-50/50 rounded-xl border border-emerald-200 space-y-2">
+              <h5 className="text-xs font-bold text-emerald-950 flex items-center gap-1.5">
+                <TrendingUp className="w-4 h-4 text-emerald-600" />
                 机关实操提分建议：
               </h5>
-              <ul className="space-y-1.5 text-xs text-amber-900">
+              <ul className="space-y-1.5 text-xs text-emerald-900">
                 {reviewResult.improvementSuggestions.map((tip, i) => (
                   <li key={i} className="leading-relaxed">• {tip}</li>
                 ))}
@@ -1519,7 +1519,7 @@ export const InterviewArena: React.FC<InterviewArenaProps> = ({
           <div className="flex justify-end pt-2">
             <button
               onClick={() => setPhase('lobby')}
-              className="px-6 py-2.5 bg-slate-900 hover:bg-slate-800 text-white font-bold text-xs sm:text-sm rounded-xl cursor-pointer"
+              className="px-6 py-2.5 bg-slate-900 dark:bg-slate-700 hover:bg-slate-800 dark:hover:bg-slate-600 text-white font-bold text-xs sm:text-sm rounded-xl cursor-pointer"
             >
               返回面试大厅继续演练
             </button>

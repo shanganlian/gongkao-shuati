@@ -29,7 +29,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年江苏公务员考试《行测》（C类）第64题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2025-C类-65",
@@ -61,7 +63,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年江苏公务员考试《行测》（C类）第65题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2025-C类-66",
@@ -96,7 +100,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年江苏公务员考试《行测》（C类）第66题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2025-C类-67",
@@ -128,7 +134,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年江苏公务员考试《行测》（C类）第67题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2025-C类-68",
@@ -160,7 +168,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年江苏公务员考试《行测》（C类）第68题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2025-C类-69",
@@ -195,7 +205,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年江苏公务员考试《行测》（C类）第69题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2025-C类-70",
@@ -231,6 +243,8 @@
     "difficulty": "拔高",
     "source": "2025年江苏公务员考试《行测》（C类）第70题",
     "isImageQuestion": true,
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   }
 ]

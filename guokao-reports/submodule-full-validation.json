@@ -1,0 +1,87 @@
+{
+  "shards": 562,
+  "total": 95278,
+  "classified": 95275,
+  "missingCount": 3,
+  "invalidCount": 0,
+  "lowCount": 8884,
+  "counts": {
+    "changshi": {
+      "total": 16584,
+      "classified": 16584,
+      "low": 1488,
+      "subs": {
+        "科技": 2982,
+        "人文历史": 3273,
+        "地理国情": 1303,
+        "生活常识": 774,
+        "政治时政": 4517,
+        "经济管理": 986,
+        "法律": 2749
+      }
+    },
+    "panduan": {
+      "total": 26745,
+      "classified": 26745,
+      "low": 1914,
+      "subs": {
+        "逻辑判断": 9353,
+        "类比推理": 5633,
+        "定义判断": 6361,
+        "图形推理": 5398
+      }
+    },
+    "shuliang": {
+      "total": 12079,
+      "classified": 12079,
+      "low": 2352,
+      "subs": {
+        "计算杂题": 6800,
+        "经济利润": 1137,
+        "行程工程": 1406,
+        "几何": 1390,
+        "排列概率": 1346
+      }
+    },
+    "yanyu": {
+      "total": 25820,
+      "classified": 25817,
+      "low": 1543,
+      "subs": {
+        "片段阅读": 12703,
+        "语句表达": 3039,
+        "逻辑填空": 9971,
+        "篇章阅读": 104
+      }
+    },
+    "ziliao": {
+      "total": 14050,
+      "classified": 14050,
+      "low": 1587,
+      "subs": {
+        "图形材料": 1001,
+        "综合材料": 5391,
+        "表格材料": 2007,
+        "文字材料": 5651
+      }
+    }
+  },
+  "missing": [
+    {
+      "shard": "provincial-天津-yanyu-2.json",
+      "id": "prov-tianjin-2022-未标注-42",
+      "reason": "missing"
+    },
+    {
+      "shard": "provincial-安徽-yanyu-2.json",
+      "id": "prov-anhui-2025-未标注-28",
+      "reason": "missing"
+    },
+    {
+      "shard": "provincial-海南-yanyu-1.json",
+      "id": "prov-hainan-2014-412联考-63",
+      "reason": "missing"
+    }
+  ],
+  "invalid": []
+}

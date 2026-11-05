@@ -29,7 +29,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年吉林公务员考试《行测》第26题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2015-未标注-27",
@@ -63,7 +65,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年吉林公务员考试《行测》第27题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "人文历史",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-jilin-2015-未标注-28",
@@ -95,7 +99,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年吉林公务员考试《行测》第28题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2015-未标注-29",
@@ -127,7 +133,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年吉林公务员考试《行测》第29题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "人文历史",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-jilin-2015-未标注-30",
@@ -162,7 +170,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年吉林公务员考试《行测》第30题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "生活常识",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-jilin-2015-未标注-31",
@@ -198,7 +208,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年吉林公务员考试《行测》第31题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2015-未标注-32",
@@ -233,7 +245,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年吉林公务员考试《行测》第32题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2015-未标注-33",
@@ -267,7 +281,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年吉林公务员考试《行测》第33题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2015-未标注-34",
@@ -302,7 +318,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年吉林公务员考试《行测》第34题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "人文历史",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-jilin-2015-未标注-35",
@@ -336,7 +354,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年吉林公务员考试《行测》第35题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "人文历史",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-jilin-2015-未标注-36",
@@ -370,7 +390,10 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年吉林公务员考试《行测》第36题",
-    "province": "吉林"
+    "province": "吉林",
+    "isAbnormal": true,
+    "subModule": "人文历史",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-jilin-2015-未标注-37",
@@ -404,7 +427,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年吉林公务员考试《行测》第37题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2015-未标注-38",
@@ -439,7 +464,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年吉林公务员考试《行测》第38题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2015-未标注-39",
@@ -475,7 +502,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年吉林公务员考试《行测》第39题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "人文历史",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-jilin-2015-未标注-40",
@@ -510,7 +539,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年吉林公务员考试《行测》第40题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2015-未标注-41",
@@ -546,7 +577,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年吉林公务员考试《行测》第41题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2015-未标注-42",
@@ -581,7 +614,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年吉林公务员考试《行测》第42题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2015-未标注-43",
@@ -615,7 +650,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年吉林公务员考试《行测》第43题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2015-未标注-44",
@@ -647,7 +684,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年吉林公务员考试《行测》第44题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "生活常识",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-jilin-2015-未标注-45",
@@ -681,7 +720,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年吉林公务员考试《行测》第45题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2015-未标注-46",
@@ -713,7 +754,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年吉林公务员考试《行测》第46题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2015-未标注-47",
@@ -749,7 +792,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年吉林公务员考试《行测》第47题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "人文历史",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-jilin-2015-未标注-48",
@@ -783,7 +828,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年吉林公务员考试《行测》第48题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "经济管理",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-jilin-2015-未标注-49",
@@ -818,7 +865,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年吉林公务员考试《行测》第49题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "经济管理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2015-未标注-50",
@@ -852,7 +901,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年吉林公务员考试《行测》第50题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2015-未标注-51",
@@ -887,7 +938,10 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年吉林公务员考试《行测》第51题",
-    "province": "吉林"
+    "province": "吉林",
+    "isAbnormal": true,
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2015-未标注-52",
@@ -922,7 +976,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年吉林公务员考试《行测》第52题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "人文历史",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-jilin-2015-未标注-53",
@@ -956,7 +1012,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年吉林公务员考试《行测》第53题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "人文历史",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-jilin-2015-未标注-54",
@@ -991,7 +1049,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年吉林公务员考试《行测》第54题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "人文历史",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-jilin-2015-未标注-55",
@@ -1026,7 +1086,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年吉林公务员考试《行测》第55题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "人文历史",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-jilin-2015-未标注-1-2",
@@ -1058,7 +1120,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年吉林公务员考试《行测》第1题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2015-未标注-2-2",
@@ -1093,7 +1157,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年吉林公务员考试《行测》第2题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2015-未标注-3-2",
@@ -1128,7 +1194,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年吉林公务员考试《行测》第3题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2015-未标注-4-2",
@@ -1163,7 +1231,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年吉林公务员考试《行测》第4题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2015-未标注-5-2",
@@ -1198,7 +1268,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年吉林公务员考试《行测》第5题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2015-未标注-6-2",
@@ -1233,7 +1305,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年吉林公务员考试《行测》第6题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2015-未标注-7-2",
@@ -1268,7 +1342,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年吉林公务员考试《行测》第7题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2015-未标注-8-2",
@@ -1302,7 +1378,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年吉林公务员考试《行测》第8题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "经济管理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2015-未标注-9-2",
@@ -1337,7 +1415,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年吉林公务员考试《行测》第9题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "地理国情",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2015-未标注-10-2",
@@ -1371,7 +1451,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年吉林公务员考试《行测》第10题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2015-未标注-11-2",
@@ -1405,7 +1487,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年吉林公务员考试《行测》第11题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2015-未标注-12-2",
@@ -1437,7 +1521,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年吉林公务员考试《行测》第12题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2015-未标注-13-2",
@@ -1471,7 +1557,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年吉林公务员考试《行测》第13题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2015-未标注-14-2",
@@ -1506,7 +1594,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年吉林公务员考试《行测》第14题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "生活常识",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2015-未标注-15-2",
@@ -1540,7 +1630,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年吉林公务员考试《行测》第15题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "生活常识",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2015-未标注-16-2",
@@ -1575,7 +1667,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年吉林公务员考试《行测》第16题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2015-未标注-17-2",
@@ -1593,7 +1687,9 @@
     "difficulty": "基础",
     "source": "2015年吉林公务员考试《行测》第17题",
     "isImageQuestion": true,
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "生活常识",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2015-未标注-18-2",
@@ -1627,7 +1723,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年吉林公务员考试《行测》第18题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2015-未标注-19-2",
@@ -1662,7 +1760,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年吉林公务员考试《行测》第19题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2015-未标注-20-2",
@@ -1696,7 +1796,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年吉林公务员考试《行测》第20题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2015-未标注-21-2",
@@ -1731,7 +1833,10 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年吉林公务员考试《行测》第21题",
-    "province": "吉林"
+    "province": "吉林",
+    "isAbnormal": true,
+    "subModule": "人文历史",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-jilin-2015-未标注-22-2",
@@ -1767,7 +1872,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年吉林公务员考试《行测》第22题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "人文历史",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-jilin-2015-未标注-23-2",
@@ -1802,7 +1909,10 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年吉林公务员考试《行测》第23题",
-    "province": "吉林"
+    "province": "吉林",
+    "isAbnormal": true,
+    "subModule": "人文历史",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-jilin-2015-未标注-24-2",
@@ -1837,7 +1947,10 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年吉林公务员考试《行测》第24题",
-    "province": "吉林"
+    "province": "吉林",
+    "isAbnormal": true,
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2015-未标注-25-2",
@@ -1872,7 +1985,10 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年吉林公务员考试《行测》第25题",
-    "province": "吉林"
+    "province": "吉林",
+    "isAbnormal": true,
+    "subModule": "人文历史",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-jilin-2015-未标注-26-2",
@@ -1904,7 +2020,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年吉林公务员考试《行测》第26题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2015-未标注-27-2",
@@ -1939,7 +2057,10 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年吉林公务员考试《行测》第27题",
-    "province": "吉林"
+    "province": "吉林",
+    "isAbnormal": true,
+    "subModule": "人文历史",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-jilin-2015-未标注-28-2",
@@ -1974,7 +2095,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年吉林公务员考试《行测》第28题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "生活常识",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2015-未标注-29-2",
@@ -2010,7 +2133,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年吉林公务员考试《行测》第29题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-jilin-2015-未标注-30-2",
@@ -2042,7 +2167,10 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年吉林公务员考试《行测》第30题",
-    "province": "吉林"
+    "province": "吉林",
+    "isAbnormal": true,
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2015-未标注-31-2",
@@ -2076,7 +2204,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年吉林公务员考试《行测》第31题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2015-未标注-32-2",
@@ -2110,7 +2240,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年吉林公务员考试《行测》第32题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2015-未标注-33-2",
@@ -2146,7 +2278,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年吉林公务员考试《行测》第33题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2015-未标注-34-2",
@@ -2181,7 +2315,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年吉林公务员考试《行测》第34题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "人文历史",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-jilin-2015-未标注-35-2",
@@ -2216,7 +2352,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年吉林公务员考试《行测》第35题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2015-未标注-36-2",
@@ -2250,7 +2388,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年吉林公务员考试《行测》第36题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "科技",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-jilin-2015-未标注-37-2",
@@ -2285,7 +2425,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年吉林公务员考试《行测》第37题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "经济管理",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-jilin-2015-未标注-38-2",
@@ -2319,7 +2461,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年吉林公务员考试《行测》第38题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "经济管理",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-jilin-2015-未标注-39-2",
@@ -2354,7 +2498,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年吉林公务员考试《行测》第39题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "人文历史",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-jilin-2015-未标注-40-2",
@@ -2388,7 +2534,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年吉林公务员考试《行测》第40题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2015-未标注-41-2",
@@ -2424,7 +2572,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年吉林公务员考试《行测》第41题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "人文历史",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-jilin-2015-未标注-42-2",
@@ -2460,7 +2610,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年吉林公务员考试《行测》第42题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2015-未标注-43-2",
@@ -2495,7 +2647,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年吉林公务员考试《行测》第43题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "人文历史",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-jilin-2015-未标注-44-2",
@@ -2530,7 +2684,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年吉林公务员考试《行测》第44题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2015-未标注-45-2",
@@ -2565,7 +2721,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年吉林公务员考试《行测》第45题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2015-未标注-46-2",
@@ -2599,7 +2757,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年吉林公务员考试《行测》第46题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2015-未标注-47-2",
@@ -2635,7 +2795,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年吉林公务员考试《行测》第47题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2015-未标注-48-2",
@@ -2670,7 +2832,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年吉林公务员考试《行测》第48题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2015-未标注-49-2",
@@ -2705,7 +2869,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年吉林公务员考试《行测》第49题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "人文历史",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-jilin-2015-未标注-50-2",
@@ -2740,7 +2906,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年吉林公务员考试《行测》第50题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "人文历史",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-jilin-2015-未标注-1-3",
@@ -2775,7 +2943,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年吉林公务员考试《行测》第1题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2015-未标注-2-3",
@@ -2810,7 +2980,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年吉林公务员考试《行测》第2题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2015-未标注-3-3",
@@ -2844,7 +3016,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年吉林公务员考试《行测》第3题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "经济管理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2015-未标注-4-3",
@@ -2860,7 +3034,10 @@
     "difficulty": "基础",
     "source": "2015年吉林公务员考试《行测》第4题",
     "isImageQuestion": true,
-    "province": "吉林"
+    "province": "吉林",
+    "isAbnormal": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2015-未标注-5-3",
@@ -2894,7 +3071,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年吉林公务员考试《行测》第5题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2015-未标注-6-3",
@@ -2930,7 +3109,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年吉林公务员考试《行测》第6题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "地理国情",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2015-未标注-7-3",
@@ -2965,7 +3146,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年吉林公务员考试《行测》第7题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2015-未标注-8-3",
@@ -3001,7 +3184,9 @@
     "difficulty": "基础",
     "source": "2015年吉林公务员考试《行测》第8题",
     "isImageQuestion": true,
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2015-未标注-9-3",
@@ -3035,7 +3220,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年吉林公务员考试《行测》第9题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2015-未标注-10-3",
@@ -3067,7 +3254,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年吉林公务员考试《行测》第10题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2015-未标注-11-3",
@@ -3099,7 +3288,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年吉林公务员考试《行测》第11题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2015-未标注-12-3",
@@ -3134,7 +3325,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年吉林公务员考试《行测》第12题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "地理国情",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-jilin-2015-未标注-13-3",
@@ -3169,7 +3362,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年吉林公务员考试《行测》第13题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2015-未标注-14-3",
@@ -3201,7 +3396,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年吉林公务员考试《行测》第14题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "地理国情",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2015-未标注-15-3",
@@ -3235,7 +3432,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年吉林公务员考试《行测》第15题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2015-未标注-16-3",
@@ -3270,7 +3469,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年吉林公务员考试《行测》第16题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2015-未标注-17-3",
@@ -3305,7 +3506,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年吉林公务员考试《行测》第17题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "地理国情",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2015-未标注-18-3",
@@ -3340,7 +3543,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年吉林公务员考试《行测》第18题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "生活常识",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2015-未标注-19-3",
@@ -3374,7 +3579,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年吉林公务员考试《行测》第19题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2015-未标注-20-3",
@@ -3410,7 +3617,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年吉林公务员考试《行测》第20题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2015-未标注-21-3",
@@ -3444,7 +3653,10 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年吉林公务员考试《行测》第21题",
-    "province": "吉林"
+    "province": "吉林",
+    "isAbnormal": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2015-未标注-22-3",
@@ -3478,7 +3690,10 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年吉林公务员考试《行测》第22题",
-    "province": "吉林"
+    "province": "吉林",
+    "isAbnormal": true,
+    "subModule": "人文历史",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-jilin-2015-未标注-23-3",
@@ -3510,7 +3725,10 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年吉林公务员考试《行测》第23题",
-    "province": "吉林"
+    "province": "吉林",
+    "isAbnormal": true,
+    "subModule": "人文历史",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-jilin-2015-未标注-24-3",
@@ -3542,7 +3760,10 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年吉林公务员考试《行测》第24题",
-    "province": "吉林"
+    "province": "吉林",
+    "isAbnormal": true,
+    "subModule": "人文历史",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-jilin-2015-未标注-25-3",
@@ -3577,7 +3798,10 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年吉林公务员考试《行测》第25题",
-    "province": "吉林"
+    "province": "吉林",
+    "isAbnormal": true,
+    "subModule": "人文历史",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-jilin-2015-未标注-26-3",
@@ -3611,7 +3835,10 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年吉林公务员考试《行测》第26题",
-    "province": "吉林"
+    "province": "吉林",
+    "isAbnormal": true,
+    "subModule": "人文历史",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-jilin-2015-未标注-27-3",
@@ -3645,7 +3872,10 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年吉林公务员考试《行测》第27题",
-    "province": "吉林"
+    "province": "吉林",
+    "isAbnormal": true,
+    "subModule": "人文历史",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-jilin-2015-未标注-28-3",
@@ -3680,7 +3910,10 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年吉林公务员考试《行测》第28题",
-    "province": "吉林"
+    "province": "吉林",
+    "isAbnormal": true,
+    "subModule": "人文历史",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-jilin-2015-未标注-29-3",
@@ -3714,7 +3947,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年吉林公务员考试《行测》第29题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "人文历史",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-jilin-2015-未标注-30-3",
@@ -3748,7 +3983,10 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年吉林公务员考试《行测》第30题",
-    "province": "吉林"
+    "province": "吉林",
+    "isAbnormal": true,
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2015-未标注-31-3",
@@ -3783,7 +4021,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年吉林公务员考试《行测》第31题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "人文历史",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-jilin-2015-未标注-32-3",
@@ -3818,7 +4058,10 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年吉林公务员考试《行测》第32题",
-    "province": "吉林"
+    "province": "吉林",
+    "isAbnormal": true,
+    "subModule": "人文历史",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-jilin-2015-未标注-33-3",
@@ -3852,7 +4095,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年吉林公务员考试《行测》第33题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "经济管理",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-jilin-2015-未标注-34-3",
@@ -3884,7 +4129,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年吉林公务员考试《行测》第34题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2015-未标注-35-3",
@@ -3916,7 +4163,10 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年吉林公务员考试《行测》第35题",
-    "province": "吉林"
+    "province": "吉林",
+    "isAbnormal": true,
+    "subModule": "经济管理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2015-未标注-36-3",
@@ -3951,7 +4201,10 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年吉林公务员考试《行测》第36题",
-    "province": "吉林"
+    "province": "吉林",
+    "isAbnormal": true,
+    "subModule": "人文历史",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-jilin-2015-未标注-37-3",
@@ -3986,7 +4239,10 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年吉林公务员考试《行测》第37题",
-    "province": "吉林"
+    "province": "吉林",
+    "isAbnormal": true,
+    "subModule": "人文历史",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-jilin-2015-未标注-38-3",
@@ -4018,7 +4274,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年吉林公务员考试《行测》第38题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "人文历史",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-jilin-2015-未标注-39-3",
@@ -4053,7 +4311,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年吉林公务员考试《行测》第39题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2015-未标注-40-3",
@@ -4087,7 +4347,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年吉林公务员考试《行测》第40题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2015-未标注-41-3",
@@ -4119,7 +4381,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年吉林公务员考试《行测》第41题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "人文历史",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-jilin-2015-未标注-42-3",
@@ -4153,7 +4417,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年吉林公务员考试《行测》第42题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2015-未标注-43-3",
@@ -4187,7 +4453,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年吉林公务员考试《行测》第43题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "人文历史",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-jilin-2015-未标注-44-3",
@@ -4221,7 +4489,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年吉林公务员考试《行测》第44题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "人文历史",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-jilin-2015-未标注-45-3",
@@ -4253,7 +4523,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年吉林公务员考试《行测》第45题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2015-未标注-46-3",
@@ -4287,7 +4559,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年吉林公务员考试《行测》第46题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "人文历史",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-jilin-2015-未标注-47-3",
@@ -4319,7 +4593,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年吉林公务员考试《行测》第47题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "科技",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-jilin-2015-未标注-48-3",
@@ -4353,7 +4629,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年吉林公务员考试《行测》第48题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "人文历史",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-jilin-2015-未标注-49-3",
@@ -4388,7 +4666,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年吉林公务员考试《行测》第49题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2015-未标注-50-3",
@@ -4423,7 +4703,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年吉林公务员考试《行测》第50题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "人文历史",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-jilin-2015-未标注-51-3",
@@ -4457,7 +4739,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年吉林公务员考试《行测》第51题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "人文历史",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-jilin-2015-未标注-52-3",
@@ -4491,7 +4775,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年吉林公务员考试《行测》第52题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "生活常识",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-jilin-2015-未标注-53-3",
@@ -4525,7 +4811,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年吉林公务员考试《行测》第53题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "人文历史",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-jilin-2015-未标注-54-3",
@@ -4559,7 +4847,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年吉林公务员考试《行测》第54题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "人文历史",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-jilin-2015-未标注-55-3",
@@ -4594,7 +4884,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年吉林公务员考试《行测》第55题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2015-未标注-1-4",
@@ -4629,7 +4921,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年吉林公务员考试《行测》第1题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2015-未标注-2-4",
@@ -4663,7 +4957,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年吉林公务员考试《行测》第2题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2015-未标注-3-4",
@@ -4697,7 +4993,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年吉林公务员考试《行测》第3题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2015-未标注-4-4",
@@ -4732,7 +5030,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年吉林公务员考试《行测》第4题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2015-未标注-5-4",
@@ -4766,7 +5066,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年吉林公务员考试《行测》第5题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2015-未标注-6-4",
@@ -4800,7 +5102,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年吉林公务员考试《行测》第6题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2015-未标注-7-4",
@@ -4836,7 +5140,9 @@
     "difficulty": "基础",
     "source": "2015年吉林公务员考试《行测》第7题",
     "isImageQuestion": true,
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2015-未标注-8-4",
@@ -4872,7 +5178,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年吉林公务员考试《行测》第8题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2015-未标注-9-4",
@@ -4907,7 +5215,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年吉林公务员考试《行测》第9题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2015-未标注-10-4",
@@ -4941,7 +5251,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年吉林公务员考试《行测》第10题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "地理国情",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2015-未标注-11-4",
@@ -4976,7 +5288,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年吉林公务员考试《行测》第11题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2015-未标注-12-4",
@@ -5011,7 +5325,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年吉林公务员考试《行测》第12题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2015-未标注-13-4",
@@ -5046,7 +5362,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年吉林公务员考试《行测》第13题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "生活常识",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2015-未标注-14-4",
@@ -5082,7 +5400,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年吉林公务员考试《行测》第14题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2015-未标注-15-4",
@@ -5098,7 +5418,10 @@
     "difficulty": "基础",
     "source": "2015年吉林公务员考试《行测》第15题",
     "isImageQuestion": true,
-    "province": "吉林"
+    "province": "吉林",
+    "isAbnormal": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2015-未标注-16-4",
@@ -5132,7 +5455,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年吉林公务员考试《行测》第16题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2015-未标注-17-4",
@@ -5167,7 +5492,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年吉林公务员考试《行测》第17题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "地理国情",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2015-未标注-18-4",
@@ -5201,7 +5528,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年吉林公务员考试《行测》第18题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2015-未标注-19-4",
@@ -5235,7 +5564,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年吉林公务员考试《行测》第19题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2015-未标注-20-4",
@@ -5269,7 +5600,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年吉林公务员考试《行测》第20题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2015-未标注-21-4",
@@ -5304,7 +5637,10 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年吉林公务员考试《行测》第21题",
-    "province": "吉林"
+    "province": "吉林",
+    "isAbnormal": true,
+    "subModule": "人文历史",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-jilin-2015-未标注-22-4",
@@ -5339,7 +5675,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年吉林公务员考试《行测》第22题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "人文历史",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-jilin-2015-未标注-23-4",
@@ -5373,7 +5711,10 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年吉林公务员考试《行测》第23题",
-    "province": "吉林"
+    "province": "吉林",
+    "isAbnormal": true,
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2015-未标注-24-4",
@@ -5407,7 +5748,10 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年吉林公务员考试《行测》第24题",
-    "province": "吉林"
+    "province": "吉林",
+    "isAbnormal": true,
+    "subModule": "人文历史",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-jilin-2015-未标注-25-4",
@@ -5441,7 +5785,10 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年吉林公务员考试《行测》第25题",
-    "province": "吉林"
+    "province": "吉林",
+    "isAbnormal": true,
+    "subModule": "人文历史",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-jilin-2015-未标注-26-4",
@@ -5476,7 +5823,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年吉林公务员考试《行测》第26题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2015-未标注-27-4",
@@ -5512,7 +5861,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年吉林公务员考试《行测》第27题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "人文历史",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-jilin-2015-未标注-28-4",
@@ -5547,7 +5898,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年吉林公务员考试《行测》第28题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "人文历史",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-jilin-2015-未标注-29-4",
@@ -5582,7 +5935,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年吉林公务员考试《行测》第29题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "人文历史",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-jilin-2015-未标注-30-4",
@@ -5617,7 +5972,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年吉林公务员考试《行测》第30题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "人文历史",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-jilin-2015-未标注-31-4",
@@ -5653,7 +6010,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年吉林公务员考试《行测》第31题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2015-未标注-32-4",
@@ -5687,7 +6046,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年吉林公务员考试《行测》第32题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "人文历史",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-jilin-2015-未标注-33-4",
@@ -5719,7 +6080,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年吉林公务员考试《行测》第33题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "生活常识",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-jilin-2015-未标注-34-4",
@@ -5753,7 +6116,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年吉林公务员考试《行测》第34题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2015-未标注-35-4",
@@ -5787,7 +6152,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年吉林公务员考试《行测》第35题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "人文历史",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-jilin-2015-未标注-36-4",
@@ -5823,7 +6190,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年吉林公务员考试《行测》第36题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "人文历史",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-jilin-2015-未标注-37-4",
@@ -5858,7 +6227,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年吉林公务员考试《行测》第37题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2015-未标注-38-4",
@@ -5892,7 +6263,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年吉林公务员考试《行测》第38题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "经济管理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2015-未标注-39-4",
@@ -5927,7 +6300,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年吉林公务员考试《行测》第39题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2015-未标注-40-4",
@@ -5962,7 +6337,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年吉林公务员考试《行测》第40题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "人文历史",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-jilin-2015-未标注-41-4",
@@ -5996,7 +6373,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年吉林公务员考试《行测》第41题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "人文历史",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-jilin-2015-未标注-42-4",
@@ -6028,7 +6407,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年吉林公务员考试《行测》第42题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2015-未标注-43-4",
@@ -6063,7 +6444,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年吉林公务员考试《行测》第43题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2015-未标注-44-4",
@@ -6098,7 +6481,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年吉林公务员考试《行测》第44题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2015-未标注-45-4",
@@ -6133,7 +6518,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年吉林公务员考试《行测》第45题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2015-未标注-46-4",
@@ -6167,7 +6554,10 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年吉林公务员考试《行测》第46题",
-    "province": "吉林"
+    "province": "吉林",
+    "isAbnormal": true,
+    "subModule": "人文历史",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-jilin-2015-未标注-47-4",
@@ -6202,7 +6592,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年吉林公务员考试《行测》第47题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "经济管理",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-jilin-2015-未标注-48-4",
@@ -6237,7 +6629,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年吉林公务员考试《行测》第48题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "经济管理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2015-未标注-49-4",
@@ -6271,7 +6665,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年吉林公务员考试《行测》第49题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "经济管理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2015-未标注-50-4",
@@ -6306,7 +6702,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年吉林公务员考试《行测》第50题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "人文历史",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-jilin-2016-未标注-1",
@@ -6341,7 +6739,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2016年吉林公务员考试《行测》第1题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2016-未标注-2",
@@ -6376,7 +6776,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2016年吉林公务员考试《行测》第2题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2016-未标注-3",
@@ -6411,7 +6813,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2016年吉林公务员考试《行测》第3题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2016-未标注-4",
@@ -6445,7 +6849,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2016年吉林公务员考试《行测》第4题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2016-未标注-5",
@@ -6480,7 +6886,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2016年吉林公务员考试《行测》第5题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2016-未标注-6",
@@ -6515,7 +6923,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2016年吉林公务员考试《行测》第6题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "经济管理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2016-未标注-7",
@@ -6550,7 +6960,9 @@
     "difficulty": "基础",
     "source": "2016年吉林公务员考试《行测》第7题",
     "isImageQuestion": true,
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2016-未标注-8",
@@ -6586,7 +6998,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2016年吉林公务员考试《行测》第8题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2016-未标注-9",
@@ -6622,7 +7036,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2016年吉林公务员考试《行测》第9题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2016-未标注-10",
@@ -6657,7 +7073,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2016年吉林公务员考试《行测》第10题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2016-未标注-11",
@@ -6692,7 +7110,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2016年吉林公务员考试《行测》第11题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2016-未标注-12",
@@ -6726,7 +7146,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2016年吉林公务员考试《行测》第12题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2016-未标注-13",
@@ -6761,7 +7183,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2016年吉林公务员考试《行测》第13题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "地理国情",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2016-未标注-14",
@@ -6796,7 +7220,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2016年吉林公务员考试《行测》第14题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2016-未标注-15",
@@ -6831,6 +7257,8 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2016年吉林公务员考试《行测》第15题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   }
 ]

@@ -1,3 +1,5 @@
+// public_institution（事业编 / 事考）：数据钩子保留，题库暂无事业编数据，前端入口已隐藏。
+// 见 src/data/mockData.ts 的 PUBLIC_INSTITUTION_ENABLED，待数据源接入后置 true 即恢复。
 export type ExamCategory = 'national' | 'provincial' | 'public_institution';
 
 export type ExamModule = 
@@ -24,10 +26,16 @@ export interface Question {
   difficulty: '基础' | '中等' | '拔高';
   source: string; // 如：2025国考行政执法卷
   province?: string; // 省份，如"浙江"、"联考"，国考留空
+  /** 题目材料图（图表题原图），如 /data/questions/images/xxx.jpg */
+  imageUrl?: string;
   /** 图片题：选项为图片，文本化时丢失，前端显示占位提示 */
   isImageQuestion?: boolean;
   /** 异常题标记（多题合并等脏数据），前端显示「本题数据整理中」占位 */
   isAbnormal?: boolean;
+  /** 二级分类（子模块），仅行测五大模块使用，值来自 shared/sub-modules.json */
+  subModule?: string;
+  /** 子模块分类置信度；low 表示模型拿不准，待人工复核 */
+  subModule_confidence?: 'high' | 'low';
 }
 
 export interface Paper {
@@ -220,6 +228,86 @@ export interface DailyStudyPlan {
   }[];
   weeklyMilestones: string[];
   mindsetQuote: string;
+}
+
+/* ==========================================================================
+ * 定制计划 v1：4 周计划（每周主题 + 每日任务清单），任务可回链题库模块
+ * 说明：旧 DailyStudyPlan（一次性时间块清单）保留，供 DailyPlanGenerator v0 回滚使用。
+ * ========================================================================== */
+
+export type StudyPlanTargetExam = 'national' | 'provincial';
+
+/** deepseek=AI 生成；template=规则模板（无 Key / 超时 / 结构不合法时兜底） */
+export type StudyPlanProvider = 'deepseek' | 'template';
+
+export interface StudyPlanTask {
+  /** 计划内唯一键，如 d12t2；用于完成记录与去重 */
+  id: string;
+  title: string;
+  /** 可回链题库的模块；申论任务给 shenlun（跳每日两题），复盘类任务留空 */
+  module?: ExamModule;
+  /** 计划题量；申论为「1 道」 */
+  count?: number;
+  minutes: number;
+  tip?: string;
+}
+
+export interface StudyPlanDay {
+  /** 计划内绝对天数，从 1 开始连续编号 */
+  day: number;
+  /** 周几（按计划起始日推算） */
+  weekdayLabel: string;
+  tasks: StudyPlanTask[];
+}
+
+export interface StudyPlanWeek {
+  week: number;
+  theme: string;
+  focus: string;
+  days: StudyPlanDay[];
+}
+
+export interface StudyPlan {
+  planTitle: string;
+  /** 目标考试文案，如「国考 · 行政执法类」 */
+  goalLabel: string;
+  summary: string;
+  coachNote: string;
+  /** 计划总天数：默认 28；笔试日不足 28 天时按剩余天数压缩（最少 7 天） */
+  totalDays: number;
+  totalTasks: number;
+  weeks: StudyPlanWeek[];
+}
+
+export interface StudyPlanRequest {
+  targetExam: StudyPlanTargetExam;
+  /** 笔试日期 YYYY-MM-DD；未确定传 null */
+  examDate: string | null;
+  dailyMinutes: 30 | 60 | 120;
+  /** 自评薄弱模块（白名单：五大行测模块 + 申论思维） */
+  weakModules: string[];
+  /** 计划起始日（默认今天，Asia/Shanghai） */
+  startDate: string;
+}
+
+export interface StudyPlanGenerateResponse {
+  plan: StudyPlan;
+  provider: StudyPlanProvider;
+  /** 仅用于日志/提示：missing-api-key / deepseek-failed 等 */
+  note?: string;
+}
+
+/** 落库 / 落本地的完整计划记录 */
+export interface StudyPlanRecord {
+  id: string;
+  targetExam: StudyPlanTargetExam;
+  examDate: string | null;
+  dailyMinutes: number;
+  weakModules: string[];
+  startDate: string;
+  provider: StudyPlanProvider;
+  plan: StudyPlan;
+  createdAt: string;
 }
 
 export interface CommunityPost {

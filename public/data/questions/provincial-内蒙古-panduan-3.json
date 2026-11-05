@@ -33,7 +33,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年内蒙古公务员考试《行测》第101题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2025-未标注-102",
@@ -68,7 +70,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年内蒙古公务员考试《行测》第102题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-neimenggu-2025-未标注-103",
@@ -84,7 +88,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2025年内蒙古公务员考试《行测》第103题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-neimenggu-2025-未标注-104",
@@ -100,7 +106,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2025年内蒙古公务员考试《行测》第104题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-neimenggu-2025-未标注-105",
@@ -136,7 +144,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年内蒙古公务员考试《行测》第105题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2025-未标注-106",
@@ -172,7 +182,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年内蒙古公务员考试《行测》第106题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2025-未标注-107",
@@ -208,7 +220,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年内蒙古公务员考试《行测》第107题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2025-未标注-108",
@@ -244,7 +258,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年内蒙古公务员考试《行测》第108题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2025-未标注-109",
@@ -280,7 +296,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年内蒙古公务员考试《行测》第109题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-neimenggu-2025-未标注-110",
@@ -316,6 +334,8 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年内蒙古公务员考试《行测》第110题",
-    "province": "内蒙古"
+    "province": "内蒙古",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   }
 ]

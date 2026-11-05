@@ -32,7 +32,9 @@
     ],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2007年国家公务员考试《行测》未标注第125题"
+    "source": "2007年国家公务员考试《行测》未标注第125题",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2007-未标注-126",
@@ -68,7 +70,9 @@
     ],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2007年国家公务员考试《行测》未标注第126题"
+    "source": "2007年国家公务员考试《行测》未标注第126题",
+    "subModule": "综合材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "gk-2007-未标注-127",
@@ -103,7 +107,9 @@
     ],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2007年国家公务员考试《行测》未标注第127题"
+    "source": "2007年国家公务员考试《行测》未标注第127题",
+    "subModule": "综合材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "gk-2007-未标注-128",
@@ -138,7 +144,10 @@
     ],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2007年国家公务员考试《行测》未标注第128题"
+    "source": "2007年国家公务员考试《行测》未标注第128题",
+    "isAbnormal": true,
+    "subModule": "综合材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "gk-2007-未标注-129",
@@ -172,7 +181,10 @@
     ],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2007年国家公务员考试《行测》未标注第129题"
+    "source": "2007年国家公务员考试《行测》未标注第129题",
+    "isAbnormal": true,
+    "subModule": "综合材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "gk-2007-未标注-130",
@@ -206,7 +218,10 @@
     ],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2007年国家公务员考试《行测》未标注第130题"
+    "source": "2007年国家公务员考试《行测》未标注第130题",
+    "isAbnormal": true,
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2007-未标注-131",
@@ -242,7 +257,9 @@
     ],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2007年国家公务员考试《行测》未标注第131题"
+    "source": "2007年国家公务员考试《行测》未标注第131题",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2007-未标注-132",
@@ -277,7 +294,9 @@
     ],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2007年国家公务员考试《行测》未标注第132题"
+    "source": "2007年国家公务员考试《行测》未标注第132题",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2007-未标注-133",
@@ -311,7 +330,9 @@
     ],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2007年国家公务员考试《行测》未标注第133题"
+    "source": "2007年国家公务员考试《行测》未标注第133题",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2007-未标注-134",
@@ -345,7 +366,9 @@
     ],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2007年国家公务员考试《行测》未标注第134题"
+    "source": "2007年国家公务员考试《行测》未标注第134题",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2007-未标注-135",
@@ -380,7 +403,9 @@
     ],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2007年国家公务员考试《行测》未标注第135题"
+    "source": "2007年国家公务员考试《行测》未标注第135题",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2007-未标注-136",
@@ -415,7 +440,9 @@
     ],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2007年国家公务员考试《行测》未标注第136题"
+    "source": "2007年国家公务员考试《行测》未标注第136题",
+    "subModule": "综合材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "gk-2007-未标注-137",
@@ -449,7 +476,9 @@
     ],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2007年国家公务员考试《行测》未标注第137题"
+    "source": "2007年国家公务员考试《行测》未标注第137题",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2007-未标注-138",
@@ -484,7 +513,9 @@
     ],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2007年国家公务员考试《行测》未标注第138题"
+    "source": "2007年国家公务员考试《行测》未标注第138题",
+    "subModule": "综合材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "gk-2007-未标注-139",
@@ -516,7 +547,9 @@
     "keyPoints": [],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2007年国家公务员考试《行测》未标注第139题"
+    "source": "2007年国家公务员考试《行测》未标注第139题",
+    "subModule": "综合材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "gk-2007-未标注-140",
@@ -548,7 +581,9 @@
     "keyPoints": [],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2007年国家公务员考试《行测》未标注第140题"
+    "source": "2007年国家公务员考试《行测》未标注第140题",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2008-未标注-121",
@@ -583,7 +618,9 @@
     ],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2008年国家公务员考试《行测》未标注第121题"
+    "source": "2008年国家公务员考试《行测》未标注第121题",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2008-未标注-122",
@@ -617,7 +654,9 @@
     ],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2008年国家公务员考试《行测》未标注第122题"
+    "source": "2008年国家公务员考试《行测》未标注第122题",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2008-未标注-123",
@@ -652,7 +691,9 @@
     ],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2008年国家公务员考试《行测》未标注第123题"
+    "source": "2008年国家公务员考试《行测》未标注第123题",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2008-未标注-124",
@@ -686,7 +727,9 @@
     ],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2008年国家公务员考试《行测》未标注第124题"
+    "source": "2008年国家公务员考试《行测》未标注第124题",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2008-未标注-125",
@@ -720,7 +763,9 @@
     ],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2008年国家公务员考试《行测》未标注第125题"
+    "source": "2008年国家公务员考试《行测》未标注第125题",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2008-未标注-126",
@@ -754,7 +799,9 @@
     ],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2008年国家公务员考试《行测》未标注第126题"
+    "source": "2008年国家公务员考试《行测》未标注第126题",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2008-未标注-127",
@@ -788,7 +835,10 @@
     ],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2008年国家公务员考试《行测》未标注第127题"
+    "source": "2008年国家公务员考试《行测》未标注第127题",
+    "isAbnormal": true,
+    "subModule": "图形材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2008-未标注-128",
@@ -823,7 +873,10 @@
     ],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2008年国家公务员考试《行测》未标注第128题"
+    "source": "2008年国家公务员考试《行测》未标注第128题",
+    "isAbnormal": true,
+    "subModule": "综合材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "gk-2008-未标注-129",
@@ -857,7 +910,9 @@
     ],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2008年国家公务员考试《行测》未标注第129题"
+    "source": "2008年国家公务员考试《行测》未标注第129题",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2008-未标注-130",
@@ -892,7 +947,10 @@
     ],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2008年国家公务员考试《行测》未标注第130题"
+    "source": "2008年国家公务员考试《行测》未标注第130题",
+    "isAbnormal": true,
+    "subModule": "图形材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2008-未标注-131",
@@ -928,7 +986,9 @@
     ],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2008年国家公务员考试《行测》未标注第131题"
+    "source": "2008年国家公务员考试《行测》未标注第131题",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2008-未标注-132",
@@ -963,7 +1023,9 @@
     ],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2008年国家公务员考试《行测》未标注第132题"
+    "source": "2008年国家公务员考试《行测》未标注第132题",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2008-未标注-133",
@@ -997,7 +1059,9 @@
     ],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2008年国家公务员考试《行测》未标注第133题"
+    "source": "2008年国家公务员考试《行测》未标注第133题",
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2008-未标注-134",
@@ -1029,7 +1093,9 @@
     "keyPoints": [],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2008年国家公务员考试《行测》未标注第134题"
+    "source": "2008年国家公务员考试《行测》未标注第134题",
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2008-未标注-135",
@@ -1061,7 +1127,9 @@
     "keyPoints": [],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2008年国家公务员考试《行测》未标注第135题"
+    "source": "2008年国家公务员考试《行测》未标注第135题",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2008-未标注-136",
@@ -1097,7 +1165,9 @@
     ],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2008年国家公务员考试《行测》未标注第136题"
+    "source": "2008年国家公务员考试《行测》未标注第136题",
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2008-未标注-137",
@@ -1130,7 +1200,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2008年国家公务员考试《行测》未标注第137题",
-    "isImageQuestion": true
+    "isImageQuestion": true,
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2008-未标注-138",
@@ -1162,7 +1234,9 @@
     "keyPoints": [],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2008年国家公务员考试《行测》未标注第138题"
+    "source": "2008年国家公务员考试《行测》未标注第138题",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2008-未标注-139",
@@ -1197,7 +1271,9 @@
     ],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2008年国家公务员考试《行测》未标注第139题"
+    "source": "2008年国家公务员考试《行测》未标注第139题",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2008-未标注-140",
@@ -1231,7 +1307,9 @@
     ],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2008年国家公务员考试《行测》未标注第140题"
+    "source": "2008年国家公务员考试《行测》未标注第140题",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2009-未标注-121",
@@ -1265,7 +1343,9 @@
     ],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2009年国家公务员考试《行测》未标注第121题"
+    "source": "2009年国家公务员考试《行测》未标注第121题",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2009-未标注-122",
@@ -1299,7 +1379,9 @@
     ],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2009年国家公务员考试《行测》未标注第122题"
+    "source": "2009年国家公务员考试《行测》未标注第122题",
+    "subModule": "图形材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2009-未标注-123",
@@ -1333,7 +1415,9 @@
     ],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2009年国家公务员考试《行测》未标注第123题"
+    "source": "2009年国家公务员考试《行测》未标注第123题",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2009-未标注-124",
@@ -1367,7 +1451,9 @@
     ],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2009年国家公务员考试《行测》未标注第124题"
+    "source": "2009年国家公务员考试《行测》未标注第124题",
+    "subModule": "图形材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2009-未标注-125",
@@ -1399,7 +1485,9 @@
     "keyPoints": [],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2009年国家公务员考试《行测》未标注第125题"
+    "source": "2009年国家公务员考试《行测》未标注第125题",
+    "subModule": "图形材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2009-未标注-126",
@@ -1433,7 +1521,9 @@
     ],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2009年国家公务员考试《行测》未标注第126题"
+    "source": "2009年国家公务员考试《行测》未标注第126题",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2009-未标注-127",
@@ -1467,7 +1557,9 @@
     ],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2009年国家公务员考试《行测》未标注第127题"
+    "source": "2009年国家公务员考试《行测》未标注第127题",
+    "subModule": "综合材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "gk-2009-未标注-128",
@@ -1501,7 +1593,9 @@
     ],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2009年国家公务员考试《行测》未标注第128题"
+    "source": "2009年国家公务员考试《行测》未标注第128题",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2009-未标注-129",
@@ -1536,7 +1630,9 @@
     ],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2009年国家公务员考试《行测》未标注第129题"
+    "source": "2009年国家公务员考试《行测》未标注第129题",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2009-未标注-130",
@@ -1570,7 +1666,9 @@
     ],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2009年国家公务员考试《行测》未标注第130题"
+    "source": "2009年国家公务员考试《行测》未标注第130题",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2009-未标注-131",
@@ -1604,7 +1702,9 @@
     ],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2009年国家公务员考试《行测》未标注第131题"
+    "source": "2009年国家公务员考试《行测》未标注第131题",
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2009-未标注-132",
@@ -1639,7 +1739,9 @@
     ],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2009年国家公务员考试《行测》未标注第132题"
+    "source": "2009年国家公务员考试《行测》未标注第132题",
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2009-未标注-133",
@@ -1675,7 +1777,9 @@
     ],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2009年国家公务员考试《行测》未标注第133题"
+    "source": "2009年国家公务员考试《行测》未标注第133题",
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2009-未标注-134",
@@ -1709,7 +1813,9 @@
     ],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2009年国家公务员考试《行测》未标注第134题"
+    "source": "2009年国家公务员考试《行测》未标注第134题",
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2009-未标注-135",
@@ -1741,7 +1847,9 @@
     "keyPoints": [],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2009年国家公务员考试《行测》未标注第135题"
+    "source": "2009年国家公务员考试《行测》未标注第135题",
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2009-未标注-136",
@@ -1776,7 +1884,9 @@
     ],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2009年国家公务员考试《行测》未标注第136题"
+    "source": "2009年国家公务员考试《行测》未标注第136题",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2009-未标注-137",
@@ -1811,7 +1921,9 @@
     ],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2009年国家公务员考试《行测》未标注第137题"
+    "source": "2009年国家公务员考试《行测》未标注第137题",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2009-未标注-138",
@@ -1827,7 +1939,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年国家公务员考试《行测》未标注第138题",
-    "isImageQuestion": true
+    "isImageQuestion": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2009-未标注-139",
@@ -1861,7 +1975,9 @@
     ],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2009年国家公务员考试《行测》未标注第139题"
+    "source": "2009年国家公务员考试《行测》未标注第139题",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2009-未标注-140",
@@ -1893,7 +2009,9 @@
     "keyPoints": [],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2009年国家公务员考试《行测》未标注第140题"
+    "source": "2009年国家公务员考试《行测》未标注第140题",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2010-未标注-91",
@@ -1928,7 +2046,9 @@
     ],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2010年国家公务员考试《行测》未标注第91题"
+    "source": "2010年国家公务员考试《行测》未标注第91题",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2010-未标注-92",
@@ -1963,7 +2083,9 @@
     ],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2010年国家公务员考试《行测》未标注第92题"
+    "source": "2010年国家公务员考试《行测》未标注第92题",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2010-未标注-93",
@@ -1997,7 +2119,9 @@
     ],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2010年国家公务员考试《行测》未标注第93题"
+    "source": "2010年国家公务员考试《行测》未标注第93题",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2010-未标注-94",
@@ -2031,7 +2155,9 @@
     ],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2010年国家公务员考试《行测》未标注第94题"
+    "source": "2010年国家公务员考试《行测》未标注第94题",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2010-未标注-95",
@@ -2066,7 +2192,9 @@
     ],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2010年国家公务员考试《行测》未标注第95题"
+    "source": "2010年国家公务员考试《行测》未标注第95题",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2010-未标注-96",
@@ -2100,7 +2228,9 @@
     ],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2010年国家公务员考试《行测》未标注第96题"
+    "source": "2010年国家公务员考试《行测》未标注第96题",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2010-未标注-97",
@@ -2135,7 +2265,9 @@
     ],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2010年国家公务员考试《行测》未标注第97题"
+    "source": "2010年国家公务员考试《行测》未标注第97题",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2010-未标注-98",
@@ -2170,7 +2302,9 @@
     ],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2010年国家公务员考试《行测》未标注第98题"
+    "source": "2010年国家公务员考试《行测》未标注第98题",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2010-未标注-99",
@@ -2204,7 +2338,9 @@
     ],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2010年国家公务员考试《行测》未标注第99题"
+    "source": "2010年国家公务员考试《行测》未标注第99题",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2010-未标注-100",
@@ -2238,7 +2374,9 @@
     ],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2010年国家公务员考试《行测》未标注第100题"
+    "source": "2010年国家公务员考试《行测》未标注第100题",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2010-未标注-101",
@@ -2273,7 +2411,9 @@
     ],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2010年国家公务员考试《行测》未标注第101题"
+    "source": "2010年国家公务员考试《行测》未标注第101题",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2010-未标注-102",
@@ -2308,7 +2448,9 @@
     ],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2010年国家公务员考试《行测》未标注第102题"
+    "source": "2010年国家公务员考试《行测》未标注第102题",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2010-未标注-103",
@@ -2342,7 +2484,9 @@
     ],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2010年国家公务员考试《行测》未标注第103题"
+    "source": "2010年国家公务员考试《行测》未标注第103题",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2010-未标注-104",
@@ -2378,7 +2522,9 @@
     ],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2010年国家公务员考试《行测》未标注第104题"
+    "source": "2010年国家公务员考试《行测》未标注第104题",
+    "subModule": "综合材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "gk-2010-未标注-105",
@@ -2410,7 +2556,9 @@
     "keyPoints": [],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2010年国家公务员考试《行测》未标注第105题"
+    "source": "2010年国家公务员考试《行测》未标注第105题",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2010-未标注-106",
@@ -2445,7 +2593,9 @@
     ],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2010年国家公务员考试《行测》未标注第106题"
+    "source": "2010年国家公务员考试《行测》未标注第106题",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2010-未标注-107",
@@ -2480,7 +2630,9 @@
     ],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2010年国家公务员考试《行测》未标注第107题"
+    "source": "2010年国家公务员考试《行测》未标注第107题",
+    "subModule": "综合材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "gk-2010-未标注-108",
@@ -2514,7 +2666,9 @@
     ],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2010年国家公务员考试《行测》未标注第108题"
+    "source": "2010年国家公务员考试《行测》未标注第108题",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2010-未标注-109",
@@ -2549,7 +2703,9 @@
     ],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2010年国家公务员考试《行测》未标注第109题"
+    "source": "2010年国家公务员考试《行测》未标注第109题",
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "gk-2010-未标注-110",
@@ -2583,7 +2739,9 @@
     ],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2010年国家公务员考试《行测》未标注第110题"
+    "source": "2010年国家公务员考试《行测》未标注第110题",
+    "subModule": "综合材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "gk-2010-未标注-111",
@@ -2618,7 +2776,9 @@
     ],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2010年国家公务员考试《行测》未标注第111题"
+    "source": "2010年国家公务员考试《行测》未标注第111题",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2010-未标注-112",
@@ -2650,7 +2810,9 @@
     "keyPoints": [],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2010年国家公务员考试《行测》未标注第112题"
+    "source": "2010年国家公务员考试《行测》未标注第112题",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2010-未标注-113",
@@ -2686,7 +2848,9 @@
     ],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2010年国家公务员考试《行测》未标注第113题"
+    "source": "2010年国家公务员考试《行测》未标注第113题",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2010-未标注-114",
@@ -2721,7 +2885,9 @@
     ],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2010年国家公务员考试《行测》未标注第114题"
+    "source": "2010年国家公务员考试《行测》未标注第114题",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2010-未标注-115",
@@ -2755,7 +2921,9 @@
     ],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2010年国家公务员考试《行测》未标注第115题"
+    "source": "2010年国家公务员考试《行测》未标注第115题",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2011-未标注-121",
@@ -2791,7 +2959,9 @@
     ],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2011年国家公务员考试《行测》未标注第121题"
+    "source": "2011年国家公务员考试《行测》未标注第121题",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2011-未标注-122",
@@ -2825,7 +2995,9 @@
     ],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2011年国家公务员考试《行测》未标注第122题"
+    "source": "2011年国家公务员考试《行测》未标注第122题",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2011-未标注-123",
@@ -2859,7 +3031,9 @@
     ],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2011年国家公务员考试《行测》未标注第123题"
+    "source": "2011年国家公务员考试《行测》未标注第123题",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2011-未标注-124",
@@ -2894,7 +3068,9 @@
     ],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2011年国家公务员考试《行测》未标注第124题"
+    "source": "2011年国家公务员考试《行测》未标注第124题",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2011-未标注-125",
@@ -2926,7 +3102,9 @@
     "keyPoints": [],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2011年国家公务员考试《行测》未标注第125题"
+    "source": "2011年国家公务员考试《行测》未标注第125题",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2011-未标注-126",
@@ -2960,7 +3138,9 @@
     ],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2011年国家公务员考试《行测》未标注第126题"
+    "source": "2011年国家公务员考试《行测》未标注第126题",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2011-未标注-127",
@@ -2996,7 +3176,9 @@
     ],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2011年国家公务员考试《行测》未标注第127题"
+    "source": "2011年国家公务员考试《行测》未标注第127题",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2011-未标注-128",
@@ -3030,7 +3212,9 @@
     ],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2011年国家公务员考试《行测》未标注第128题"
+    "source": "2011年国家公务员考试《行测》未标注第128题",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2011-未标注-129",
@@ -3065,7 +3249,9 @@
     ],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2011年国家公务员考试《行测》未标注第129题"
+    "source": "2011年国家公务员考试《行测》未标注第129题",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2011-未标注-130",
@@ -3099,7 +3285,9 @@
     ],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2011年国家公务员考试《行测》未标注第130题"
+    "source": "2011年国家公务员考试《行测》未标注第130题",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2011-未标注-131",
@@ -3133,7 +3321,9 @@
     ],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2011年国家公务员考试《行测》未标注第131题"
+    "source": "2011年国家公务员考试《行测》未标注第131题",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2011-未标注-132",
@@ -3169,7 +3359,9 @@
     ],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2011年国家公务员考试《行测》未标注第132题"
+    "source": "2011年国家公务员考试《行测》未标注第132题",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2011-未标注-133",
@@ -3203,7 +3395,9 @@
     ],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2011年国家公务员考试《行测》未标注第133题"
+    "source": "2011年国家公务员考试《行测》未标注第133题",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2011-未标注-134",
@@ -3239,7 +3433,9 @@
     ],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2011年国家公务员考试《行测》未标注第134题"
+    "source": "2011年国家公务员考试《行测》未标注第134题",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2011-未标注-135",
@@ -3274,7 +3470,9 @@
     ],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2011年国家公务员考试《行测》未标注第135题"
+    "source": "2011年国家公务员考试《行测》未标注第135题",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2012-未标注-116",
@@ -3309,7 +3507,9 @@
     ],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2012年国家公务员考试《行测》未标注第116题"
+    "source": "2012年国家公务员考试《行测》未标注第116题",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2012-未标注-117",
@@ -3344,7 +3544,9 @@
     ],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2012年国家公务员考试《行测》未标注第117题"
+    "source": "2012年国家公务员考试《行测》未标注第117题",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2012-未标注-118",
@@ -3379,7 +3581,9 @@
     ],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2012年国家公务员考试《行测》未标注第118题"
+    "source": "2012年国家公务员考试《行测》未标注第118题",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2012-未标注-119",
@@ -3414,7 +3618,9 @@
     ],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2012年国家公务员考试《行测》未标注第119题"
+    "source": "2012年国家公务员考试《行测》未标注第119题",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2012-未标注-120",
@@ -3448,7 +3654,9 @@
     ],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2012年国家公务员考试《行测》未标注第120题"
+    "source": "2012年国家公务员考试《行测》未标注第120题",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2012-未标注-121",
@@ -3482,7 +3690,9 @@
     ],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2012年国家公务员考试《行测》未标注第121题"
+    "source": "2012年国家公务员考试《行测》未标注第121题",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2012-未标注-122",
@@ -3517,7 +3727,9 @@
     ],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2012年国家公务员考试《行测》未标注第122题"
+    "source": "2012年国家公务员考试《行测》未标注第122题",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2012-未标注-123",
@@ -3553,7 +3765,9 @@
     ],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2012年国家公务员考试《行测》未标注第123题"
+    "source": "2012年国家公务员考试《行测》未标注第123题",
+    "subModule": "综合材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "gk-2012-未标注-124",
@@ -3587,7 +3801,9 @@
     ],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2012年国家公务员考试《行测》未标注第124题"
+    "source": "2012年国家公务员考试《行测》未标注第124题",
+    "subModule": "综合材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "gk-2012-未标注-125",
@@ -3619,7 +3835,9 @@
     "keyPoints": [],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2012年国家公务员考试《行测》未标注第125题"
+    "source": "2012年国家公务员考试《行测》未标注第125题",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2012-未标注-126",
@@ -3653,7 +3871,9 @@
     ],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2012年国家公务员考试《行测》未标注第126题"
+    "source": "2012年国家公务员考试《行测》未标注第126题",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2012-未标注-127",
@@ -3687,7 +3907,9 @@
     ],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2012年国家公务员考试《行测》未标注第127题"
+    "source": "2012年国家公务员考试《行测》未标注第127题",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2012-未标注-128",
@@ -3722,7 +3944,9 @@
     ],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2012年国家公务员考试《行测》未标注第128题"
+    "source": "2012年国家公务员考试《行测》未标注第128题",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2012-未标注-129",
@@ -3756,7 +3980,9 @@
     ],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2012年国家公务员考试《行测》未标注第129题"
+    "source": "2012年国家公务员考试《行测》未标注第129题",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2012-未标注-130",
@@ -3790,7 +4016,9 @@
     ],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2012年国家公务员考试《行测》未标注第130题"
+    "source": "2012年国家公务员考试《行测》未标注第130题",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2012-未标注-131",
@@ -3824,7 +4052,9 @@
     ],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2012年国家公务员考试《行测》未标注第131题"
+    "source": "2012年国家公务员考试《行测》未标注第131题",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2012-未标注-132",
@@ -3858,7 +4088,9 @@
     ],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2012年国家公务员考试《行测》未标注第132题"
+    "source": "2012年国家公务员考试《行测》未标注第132题",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2012-未标注-133",
@@ -3894,7 +4126,9 @@
     ],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2012年国家公务员考试《行测》未标注第133题"
+    "source": "2012年国家公务员考试《行测》未标注第133题",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2012-未标注-134",
@@ -3929,7 +4163,9 @@
     ],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2012年国家公务员考试《行测》未标注第134题"
+    "source": "2012年国家公务员考试《行测》未标注第134题",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2012-未标注-135",
@@ -3964,7 +4200,9 @@
     ],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2012年国家公务员考试《行测》未标注第135题"
+    "source": "2012年国家公务员考试《行测》未标注第135题",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2013-未标注-116",
@@ -3998,7 +4236,9 @@
     ],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2013年国家公务员考试《行测》未标注第116题"
+    "source": "2013年国家公务员考试《行测》未标注第116题",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2013-未标注-117",
@@ -4032,7 +4272,9 @@
     ],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2013年国家公务员考试《行测》未标注第117题"
+    "source": "2013年国家公务员考试《行测》未标注第117题",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2013-未标注-118",
@@ -4067,7 +4309,9 @@
     ],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2013年国家公务员考试《行测》未标注第118题"
+    "source": "2013年国家公务员考试《行测》未标注第118题",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2013-未标注-119",
@@ -4102,7 +4346,9 @@
     ],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2013年国家公务员考试《行测》未标注第119题"
+    "source": "2013年国家公务员考试《行测》未标注第119题",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2013-未标注-120",
@@ -4138,7 +4384,9 @@
     ],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2013年国家公务员考试《行测》未标注第120题"
+    "source": "2013年国家公务员考试《行测》未标注第120题",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2013-未标注-121",
@@ -4172,7 +4420,9 @@
     ],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2013年国家公务员考试《行测》未标注第121题"
+    "source": "2013年国家公务员考试《行测》未标注第121题",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2013-未标注-122",
@@ -4208,7 +4458,9 @@
     ],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2013年国家公务员考试《行测》未标注第122题"
+    "source": "2013年国家公务员考试《行测》未标注第122题",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2013-未标注-123",
@@ -4242,7 +4494,9 @@
     ],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2013年国家公务员考试《行测》未标注第123题"
+    "source": "2013年国家公务员考试《行测》未标注第123题",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2013-未标注-124",
@@ -4276,7 +4530,9 @@
     ],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2013年国家公务员考试《行测》未标注第124题"
+    "source": "2013年国家公务员考试《行测》未标注第124题",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2013-未标注-125",
@@ -4310,7 +4566,9 @@
     ],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2013年国家公务员考试《行测》未标注第125题"
+    "source": "2013年国家公务员考试《行测》未标注第125题",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2013-未标注-126",
@@ -4345,7 +4603,9 @@
     ],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2013年国家公务员考试《行测》未标注第126题"
+    "source": "2013年国家公务员考试《行测》未标注第126题",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2013-未标注-127",
@@ -4380,7 +4640,9 @@
     ],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2013年国家公务员考试《行测》未标注第127题"
+    "source": "2013年国家公务员考试《行测》未标注第127题",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2013-未标注-128",
@@ -4416,7 +4678,9 @@
     ],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2013年国家公务员考试《行测》未标注第128题"
+    "source": "2013年国家公务员考试《行测》未标注第128题",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2013-未标注-129",
@@ -4452,7 +4716,9 @@
     ],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2013年国家公务员考试《行测》未标注第129题"
+    "source": "2013年国家公务员考试《行测》未标注第129题",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2013-未标注-130",
@@ -4487,7 +4753,9 @@
     ],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2013年国家公务员考试《行测》未标注第130题"
+    "source": "2013年国家公务员考试《行测》未标注第130题",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2013-未标注-131",
@@ -4521,7 +4789,9 @@
     ],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2013年国家公务员考试《行测》未标注第131题"
+    "source": "2013年国家公务员考试《行测》未标注第131题",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2013-未标注-132",
@@ -4555,7 +4825,9 @@
     ],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2013年国家公务员考试《行测》未标注第132题"
+    "source": "2013年国家公务员考试《行测》未标注第132题",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2013-未标注-133",
@@ -4573,7 +4845,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年国家公务员考试《行测》未标注第133题",
-    "isImageQuestion": true
+    "isImageQuestion": true,
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2013-未标注-134",
@@ -4608,7 +4882,9 @@
     ],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2013年国家公务员考试《行测》未标注第134题"
+    "source": "2013年国家公务员考试《行测》未标注第134题",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2013-未标注-135",
@@ -4640,7 +4916,9 @@
     "keyPoints": [],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2013年国家公务员考试《行测》未标注第135题"
+    "source": "2013年国家公务员考试《行测》未标注第135题",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2014-未标注-116",
@@ -4675,7 +4953,9 @@
     ],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2014年国家公务员考试《行测》未标注第116题"
+    "source": "2014年国家公务员考试《行测》未标注第116题",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2014-未标注-117",
@@ -4709,7 +4989,9 @@
     ],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2014年国家公务员考试《行测》未标注第117题"
+    "source": "2014年国家公务员考试《行测》未标注第117题",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2014-未标注-118",
@@ -4744,7 +5026,9 @@
     ],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2014年国家公务员考试《行测》未标注第118题"
+    "source": "2014年国家公务员考试《行测》未标注第118题",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2014-未标注-119",
@@ -4780,7 +5064,9 @@
     ],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2014年国家公务员考试《行测》未标注第119题"
+    "source": "2014年国家公务员考试《行测》未标注第119题",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2014-未标注-120",
@@ -4812,7 +5098,9 @@
     "keyPoints": [],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2014年国家公务员考试《行测》未标注第120题"
+    "source": "2014年国家公务员考试《行测》未标注第120题",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2014-未标注-121",
@@ -4846,7 +5134,9 @@
     ],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2014年国家公务员考试《行测》未标注第121题"
+    "source": "2014年国家公务员考试《行测》未标注第121题",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2014-未标注-122",
@@ -4882,7 +5172,9 @@
     ],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2014年国家公务员考试《行测》未标注第122题"
+    "source": "2014年国家公务员考试《行测》未标注第122题",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2014-未标注-123",
@@ -4917,7 +5209,9 @@
     ],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2014年国家公务员考试《行测》未标注第123题"
+    "source": "2014年国家公务员考试《行测》未标注第123题",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2014-未标注-124",
@@ -4951,7 +5245,9 @@
     ],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2014年国家公务员考试《行测》未标注第124题"
+    "source": "2014年国家公务员考试《行测》未标注第124题",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2014-未标注-125",
@@ -4985,7 +5281,9 @@
     ],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2014年国家公务员考试《行测》未标注第125题"
+    "source": "2014年国家公务员考试《行测》未标注第125题",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2014-未标注-126",
@@ -5019,7 +5317,9 @@
     ],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2014年国家公务员考试《行测》未标注第126题"
+    "source": "2014年国家公务员考试《行测》未标注第126题",
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2014-未标注-127",
@@ -5054,7 +5354,9 @@
     ],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2014年国家公务员考试《行测》未标注第127题"
+    "source": "2014年国家公务员考试《行测》未标注第127题",
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2014-未标注-128",
@@ -5089,7 +5391,9 @@
     ],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2014年国家公务员考试《行测》未标注第128题"
+    "source": "2014年国家公务员考试《行测》未标注第128题",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2014-未标注-129",
@@ -5125,7 +5429,9 @@
     ],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2014年国家公务员考试《行测》未标注第129题"
+    "source": "2014年国家公务员考试《行测》未标注第129题",
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2014-未标注-130",
@@ -5159,7 +5465,9 @@
     ],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2014年国家公务员考试《行测》未标注第130题"
+    "source": "2014年国家公务员考试《行测》未标注第130题",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2014-未标注-131",
@@ -5194,7 +5502,10 @@
     ],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2014年国家公务员考试《行测》未标注第131题"
+    "source": "2014年国家公务员考试《行测》未标注第131题",
+    "isAbnormal": true,
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2014-未标注-132",
@@ -5230,7 +5541,10 @@
     ],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2014年国家公务员考试《行测》未标注第132题"
+    "source": "2014年国家公务员考试《行测》未标注第132题",
+    "isAbnormal": true,
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2014-未标注-133",
@@ -5265,7 +5579,10 @@
     ],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2014年国家公务员考试《行测》未标注第133题"
+    "source": "2014年国家公务员考试《行测》未标注第133题",
+    "isAbnormal": true,
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2014-未标注-134",
@@ -5283,7 +5600,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年国家公务员考试《行测》未标注第134题",
-    "isImageQuestion": true
+    "isImageQuestion": true,
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2014-未标注-135",
@@ -5317,7 +5636,10 @@
     ],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2014年国家公务员考试《行测》未标注第135题"
+    "source": "2014年国家公务员考试《行测》未标注第135题",
+    "isAbnormal": true,
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2015-副省级-116",
@@ -5352,7 +5674,10 @@
     ],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2015年国家公务员考试《行测》副省级第116题"
+    "source": "2015年国家公务员考试《行测》副省级第116题",
+    "isAbnormal": true,
+    "subModule": "图形材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2015-副省级-117",
@@ -5386,7 +5711,10 @@
     ],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2015年国家公务员考试《行测》副省级第117题"
+    "source": "2015年国家公务员考试《行测》副省级第117题",
+    "isAbnormal": true,
+    "subModule": "综合材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "gk-2015-副省级-118",
@@ -5420,7 +5748,10 @@
     ],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2015年国家公务员考试《行测》副省级第118题"
+    "source": "2015年国家公务员考试《行测》副省级第118题",
+    "isAbnormal": true,
+    "subModule": "图形材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2015-副省级-119",
@@ -5452,7 +5783,9 @@
     "keyPoints": [],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2015年国家公务员考试《行测》副省级第119题"
+    "source": "2015年国家公务员考试《行测》副省级第119题",
+    "subModule": "综合材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "gk-2015-副省级-120",
@@ -5486,7 +5819,10 @@
     ],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2015年国家公务员考试《行测》副省级第120题"
+    "source": "2015年国家公务员考试《行测》副省级第120题",
+    "isAbnormal": true,
+    "subModule": "图形材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2015-副省级-121",
@@ -5521,7 +5857,9 @@
     ],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2015年国家公务员考试《行测》副省级第121题"
+    "source": "2015年国家公务员考试《行测》副省级第121题",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2015-副省级-122",
@@ -5555,7 +5893,9 @@
     ],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2015年国家公务员考试《行测》副省级第122题"
+    "source": "2015年国家公务员考试《行测》副省级第122题",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2015-副省级-123",
@@ -5591,7 +5931,9 @@
     ],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2015年国家公务员考试《行测》副省级第123题"
+    "source": "2015年国家公务员考试《行测》副省级第123题",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2015-副省级-124",
@@ -5627,7 +5969,9 @@
     ],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2015年国家公务员考试《行测》副省级第124题"
+    "source": "2015年国家公务员考试《行测》副省级第124题",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2015-副省级-125",
@@ -5659,7 +6003,9 @@
     "keyPoints": [],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2015年国家公务员考试《行测》副省级第125题"
+    "source": "2015年国家公务员考试《行测》副省级第125题",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2015-副省级-126",
@@ -5694,7 +6040,9 @@
     ],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2015年国家公务员考试《行测》副省级第126题"
+    "source": "2015年国家公务员考试《行测》副省级第126题",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2015-副省级-127",
@@ -5729,7 +6077,9 @@
     ],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2015年国家公务员考试《行测》副省级第127题"
+    "source": "2015年国家公务员考试《行测》副省级第127题",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2015-副省级-128",
@@ -5765,7 +6115,9 @@
     ],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2015年国家公务员考试《行测》副省级第128题"
+    "source": "2015年国家公务员考试《行测》副省级第128题",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2015-副省级-129",
@@ -5800,7 +6152,9 @@
     ],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2015年国家公务员考试《行测》副省级第129题"
+    "source": "2015年国家公务员考试《行测》副省级第129题",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2015-副省级-130",
@@ -5834,7 +6188,9 @@
     ],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2015年国家公务员考试《行测》副省级第130题"
+    "source": "2015年国家公务员考试《行测》副省级第130题",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2015-副省级-131",
@@ -5870,7 +6226,9 @@
     ],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2015年国家公务员考试《行测》副省级第131题"
+    "source": "2015年国家公务员考试《行测》副省级第131题",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2015-副省级-132",
@@ -5905,7 +6263,9 @@
     ],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2015年国家公务员考试《行测》副省级第132题"
+    "source": "2015年国家公务员考试《行测》副省级第132题",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2015-副省级-133",
@@ -5941,7 +6301,9 @@
     ],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2015年国家公务员考试《行测》副省级第133题"
+    "source": "2015年国家公务员考试《行测》副省级第133题",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2015-副省级-134",
@@ -5975,7 +6337,9 @@
     ],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2015年国家公务员考试《行测》副省级第134题"
+    "source": "2015年国家公务员考试《行测》副省级第134题",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2015-副省级-135",
@@ -6009,7 +6373,9 @@
     ],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2015年国家公务员考试《行测》副省级第135题"
+    "source": "2015年国家公务员考试《行测》副省级第135题",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2015-地市级-111",
@@ -6044,7 +6410,10 @@
     ],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2015年国家公务员考试《行测》地市级第111题"
+    "source": "2015年国家公务员考试《行测》地市级第111题",
+    "isAbnormal": true,
+    "subModule": "图形材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2015-地市级-112",
@@ -6078,7 +6447,10 @@
     ],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2015年国家公务员考试《行测》地市级第112题"
+    "source": "2015年国家公务员考试《行测》地市级第112题",
+    "isAbnormal": true,
+    "subModule": "综合材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "gk-2015-地市级-113",
@@ -6112,7 +6484,10 @@
     ],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2015年国家公务员考试《行测》地市级第113题"
+    "source": "2015年国家公务员考试《行测》地市级第113题",
+    "isAbnormal": true,
+    "subModule": "图形材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2015-地市级-114",
@@ -6144,7 +6519,9 @@
     "keyPoints": [],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2015年国家公务员考试《行测》地市级第114题"
+    "source": "2015年国家公务员考试《行测》地市级第114题",
+    "subModule": "综合材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "gk-2015-地市级-115",
@@ -6179,7 +6556,10 @@
     ],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2015年国家公务员考试《行测》地市级第115题"
+    "source": "2015年国家公务员考试《行测》地市级第115题",
+    "isAbnormal": true,
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2015-地市级-116",
@@ -6214,7 +6594,9 @@
     ],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2015年国家公务员考试《行测》地市级第116题"
+    "source": "2015年国家公务员考试《行测》地市级第116题",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2015-地市级-117",
@@ -6249,7 +6631,9 @@
     ],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2015年国家公务员考试《行测》地市级第117题"
+    "source": "2015年国家公务员考试《行测》地市级第117题",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2015-地市级-118",
@@ -6285,7 +6669,9 @@
     ],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2015年国家公务员考试《行测》地市级第118题"
+    "source": "2015年国家公务员考试《行测》地市级第118题",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2015-地市级-119",
@@ -6321,7 +6707,9 @@
     ],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2015年国家公务员考试《行测》地市级第119题"
+    "source": "2015年国家公务员考试《行测》地市级第119题",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2015-地市级-120",
@@ -6355,7 +6743,9 @@
     ],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2015年国家公务员考试《行测》地市级第120题"
+    "source": "2015年国家公务员考试《行测》地市级第120题",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2015-地市级-121",
@@ -6390,7 +6780,9 @@
     ],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2015年国家公务员考试《行测》地市级第121题"
+    "source": "2015年国家公务员考试《行测》地市级第121题",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2015-地市级-122",
@@ -6425,7 +6817,9 @@
     ],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2015年国家公务员考试《行测》地市级第122题"
+    "source": "2015年国家公务员考试《行测》地市级第122题",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2015-地市级-123",
@@ -6461,7 +6855,9 @@
     ],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2015年国家公务员考试《行测》地市级第123题"
+    "source": "2015年国家公务员考试《行测》地市级第123题",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2015-地市级-124",
@@ -6496,7 +6892,9 @@
     ],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2015年国家公务员考试《行测》地市级第124题"
+    "source": "2015年国家公务员考试《行测》地市级第124题",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2015-地市级-125",
@@ -6530,7 +6928,9 @@
     ],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2015年国家公务员考试《行测》地市级第125题"
+    "source": "2015年国家公务员考试《行测》地市级第125题",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2015-地市级-126",
@@ -6566,7 +6966,9 @@
     ],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2015年国家公务员考试《行测》地市级第126题"
+    "source": "2015年国家公务员考试《行测》地市级第126题",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2015-地市级-127",
@@ -6600,7 +7002,9 @@
     ],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2015年国家公务员考试《行测》地市级第127题"
+    "source": "2015年国家公务员考试《行测》地市级第127题",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2015-地市级-128",
@@ -6636,7 +7040,9 @@
     ],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2015年国家公务员考试《行测》地市级第128题"
+    "source": "2015年国家公务员考试《行测》地市级第128题",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2015-地市级-129",
@@ -6670,7 +7076,9 @@
     ],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2015年国家公务员考试《行测》地市级第129题"
+    "source": "2015年国家公务员考试《行测》地市级第129题",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2015-地市级-130",
@@ -6704,7 +7112,9 @@
     ],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2015年国家公务员考试《行测》地市级第130题"
+    "source": "2015年国家公务员考试《行测》地市级第130题",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2016-副省级-116",
@@ -6739,7 +7149,9 @@
     ],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2016年国家公务员考试《行测》副省级第116题"
+    "source": "2016年国家公务员考试《行测》副省级第116题",
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2016-副省级-117",
@@ -6771,7 +7183,9 @@
     "keyPoints": [],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2016年国家公务员考试《行测》副省级第117题"
+    "source": "2016年国家公务员考试《行测》副省级第117题",
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2016-副省级-118",
@@ -6805,7 +7219,9 @@
     ],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2016年国家公务员考试《行测》副省级第118题"
+    "source": "2016年国家公务员考试《行测》副省级第118题",
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2016-副省级-119",
@@ -6839,6 +7255,8 @@
     ],
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2016年国家公务员考试《行测》副省级第119题"
+    "source": "2016年国家公务员考试《行测》副省级第119题",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   }
 ]

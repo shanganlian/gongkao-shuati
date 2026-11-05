@@ -31,7 +31,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年广东公务员考试《行测》第82题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2017-未标注-83",
@@ -63,7 +65,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年广东公务员考试《行测》第83题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2017-未标注-84",
@@ -95,7 +99,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年广东公务员考试《行测》第84题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2017-未标注-85",
@@ -129,7 +135,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年广东公务员考试《行测》第85题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2018-乡镇-31",
@@ -148,7 +156,9 @@
     "difficulty": "中等",
     "source": "2018年广东公务员考试《行测》（乡镇）第31题",
     "isImageQuestion": true,
-    "province": "广东"
+    "province": "广东",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2018-乡镇-32",
@@ -167,7 +177,9 @@
     "difficulty": "中等",
     "source": "2018年广东公务员考试《行测》（乡镇）第32题",
     "isImageQuestion": true,
-    "province": "广东"
+    "province": "广东",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2018-乡镇-33",
@@ -185,7 +197,9 @@
     "difficulty": "中等",
     "source": "2018年广东公务员考试《行测》（乡镇）第33题",
     "isImageQuestion": true,
-    "province": "广东"
+    "province": "广东",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2018-乡镇-34",
@@ -204,7 +218,9 @@
     "difficulty": "中等",
     "source": "2018年广东公务员考试《行测》（乡镇）第34题",
     "isImageQuestion": true,
-    "province": "广东"
+    "province": "广东",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2018-乡镇-35",
@@ -222,7 +238,9 @@
     "difficulty": "中等",
     "source": "2018年广东公务员考试《行测》（乡镇）第35题",
     "isImageQuestion": true,
-    "province": "广东"
+    "province": "广东",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2018-乡镇-36",
@@ -240,7 +258,9 @@
     "difficulty": "中等",
     "source": "2018年广东公务员考试《行测》（乡镇）第36题",
     "isImageQuestion": true,
-    "province": "广东"
+    "province": "广东",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2018-乡镇-37",
@@ -259,7 +279,9 @@
     "difficulty": "中等",
     "source": "2018年广东公务员考试《行测》（乡镇）第37题",
     "isImageQuestion": true,
-    "province": "广东"
+    "province": "广东",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2018-乡镇-38",
@@ -275,7 +297,9 @@
     "difficulty": "中等",
     "source": "2018年广东公务员考试《行测》（乡镇）第38题",
     "isImageQuestion": true,
-    "province": "广东"
+    "province": "广东",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2018-乡镇-39",
@@ -294,7 +318,9 @@
     "difficulty": "中等",
     "source": "2018年广东公务员考试《行测》（乡镇）第39题",
     "isImageQuestion": true,
-    "province": "广东"
+    "province": "广东",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2018-乡镇-40",
@@ -313,7 +339,9 @@
     "difficulty": "中等",
     "source": "2018年广东公务员考试《行测》（乡镇）第40题",
     "isImageQuestion": true,
-    "province": "广东"
+    "province": "广东",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2018-乡镇-41",
@@ -349,7 +377,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年广东公务员考试《行测》（乡镇）第41题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2018-乡镇-42",
@@ -385,7 +415,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年广东公务员考试《行测》（乡镇）第42题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2018-乡镇-43",
@@ -421,7 +453,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年广东公务员考试《行测》（乡镇）第43题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2018-乡镇-44",
@@ -457,7 +491,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年广东公务员考试《行测》（乡镇）第44题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2018-乡镇-45",
@@ -493,7 +529,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年广东公务员考试《行测》（乡镇）第45题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2018-乡镇-46",
@@ -529,7 +567,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年广东公务员考试《行测》（乡镇）第46题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2018-乡镇-47",
@@ -565,7 +605,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年广东公务员考试《行测》（乡镇）第47题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2018-乡镇-48",
@@ -601,7 +643,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年广东公务员考试《行测》（乡镇）第48题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2018-乡镇-49",
@@ -637,7 +681,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年广东公务员考试《行测》（乡镇）第49题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2018-乡镇-50",
@@ -672,7 +718,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年广东公务员考试《行测》（乡镇）第50题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2018-乡镇-51",
@@ -707,7 +755,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年广东公务员考试《行测》（乡镇）第51题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2018-乡镇-52",
@@ -742,7 +792,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年广东公务员考试《行测》（乡镇）第52题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2018-乡镇-53",
@@ -777,7 +829,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年广东公务员考试《行测》（乡镇）第53题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2018-乡镇-54",
@@ -813,7 +867,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年广东公务员考试《行测》（乡镇）第54题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2018-乡镇-55",
@@ -848,7 +904,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年广东公务员考试《行测》（乡镇）第55题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2018-乡镇-56",
@@ -884,7 +942,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年广东公务员考试《行测》（乡镇）第56题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2018-乡镇-57",
@@ -918,7 +978,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年广东公务员考试《行测》（乡镇）第57题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2018-乡镇-58",
@@ -954,7 +1016,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年广东公务员考试《行测》（乡镇）第58题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2018-乡镇-59",
@@ -990,7 +1054,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年广东公务员考试《行测》（乡镇）第59题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2018-乡镇-60",
@@ -1026,7 +1092,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年广东公务员考试《行测》（乡镇）第60题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2018-乡镇-61",
@@ -1061,7 +1129,9 @@
     "difficulty": "中等",
     "source": "2018年广东公务员考试《行测》（乡镇）第61题",
     "isImageQuestion": true,
-    "province": "广东"
+    "province": "广东",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2018-乡镇-62",
@@ -1095,7 +1165,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年广东公务员考试《行测》（乡镇）第62题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2018-乡镇-63",
@@ -1131,7 +1203,9 @@
     "difficulty": "中等",
     "source": "2018年广东公务员考试《行测》（乡镇）第63题",
     "isImageQuestion": true,
-    "province": "广东"
+    "province": "广东",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2018-乡镇-64",
@@ -1164,7 +1238,9 @@
     "difficulty": "中等",
     "source": "2018年广东公务员考试《行测》（乡镇）第64题",
     "isImageQuestion": true,
-    "province": "广东"
+    "province": "广东",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2018-乡镇-65",
@@ -1201,7 +1277,9 @@
     "difficulty": "中等",
     "source": "2018年广东公务员考试《行测》（乡镇）第65题",
     "isImageQuestion": true,
-    "province": "广东"
+    "province": "广东",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2018-乡镇-66",
@@ -1237,7 +1315,9 @@
     "difficulty": "中等",
     "source": "2018年广东公务员考试《行测》（乡镇）第66题",
     "isImageQuestion": true,
-    "province": "广东"
+    "province": "广东",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2018-乡镇-67",
@@ -1274,7 +1354,9 @@
     "difficulty": "中等",
     "source": "2018年广东公务员考试《行测》（乡镇）第67题",
     "isImageQuestion": true,
-    "province": "广东"
+    "province": "广东",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2018-乡镇-68",
@@ -1309,7 +1391,9 @@
     "difficulty": "中等",
     "source": "2018年广东公务员考试《行测》（乡镇）第68题",
     "isImageQuestion": true,
-    "province": "广东"
+    "province": "广东",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2018-乡镇-69",
@@ -1344,7 +1428,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年广东公务员考试《行测》（乡镇）第69题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2018-乡镇-70",
@@ -1378,7 +1464,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年广东公务员考试《行测》（乡镇）第70题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2018-乡镇-71",
@@ -1413,7 +1501,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年广东公务员考试《行测》（乡镇）第71题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2018-乡镇-72",
@@ -1448,7 +1538,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年广东公务员考试《行测》（乡镇）第72题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2018-乡镇-73",
@@ -1483,7 +1575,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年广东公务员考试《行测》（乡镇）第73题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2018-乡镇-74",
@@ -1518,7 +1612,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年广东公务员考试《行测》（乡镇）第74题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2018-乡镇-75",
@@ -1553,7 +1649,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年广东公务员考试《行测》（乡镇）第75题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2018-乡镇-76",
@@ -1588,7 +1686,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年广东公务员考试《行测》（乡镇）第76题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2018-乡镇-77",
@@ -1623,7 +1723,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年广东公务员考试《行测》（乡镇）第77题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2018-乡镇-78",
@@ -1658,7 +1760,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年广东公务员考试《行测》（乡镇）第78题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "定义判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2018-乡镇-79",
@@ -1694,7 +1798,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年广东公务员考试《行测》（乡镇）第79题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2018-乡镇-80",
@@ -1728,7 +1834,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年广东公务员考试《行测》（乡镇）第80题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2018-乡镇-81",
@@ -1763,7 +1871,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年广东公务员考试《行测》（乡镇）第81题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2018-乡镇-82",
@@ -1799,7 +1909,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年广东公务员考试《行测》（乡镇）第82题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2018-乡镇-83",
@@ -1833,7 +1945,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年广东公务员考试《行测》（乡镇）第83题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2018-乡镇-84",
@@ -1868,7 +1982,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年广东公务员考试《行测》（乡镇）第84题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2018-乡镇-85",
@@ -1903,7 +2019,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年广东公务员考试《行测》（乡镇）第85题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2019-思维能力-71",
@@ -1938,7 +2056,9 @@
     "difficulty": "中等",
     "source": "2019年广东公务员考试《行测》（思维能力）第71题",
     "isImageQuestion": true,
-    "province": "广东"
+    "province": "广东",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2019-思维能力-72",
@@ -1971,7 +2091,9 @@
     "difficulty": "中等",
     "source": "2019年广东公务员考试《行测》（思维能力）第72题",
     "isImageQuestion": true,
-    "province": "广东"
+    "province": "广东",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2019-思维能力-73",
@@ -1990,7 +2112,9 @@
     "difficulty": "中等",
     "source": "2019年广东公务员考试《行测》（思维能力）第73题",
     "isImageQuestion": true,
-    "province": "广东"
+    "province": "广东",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2019-思维能力-74",
@@ -2010,7 +2134,9 @@
     "difficulty": "中等",
     "source": "2019年广东公务员考试《行测》（思维能力）第74题",
     "isImageQuestion": true,
-    "province": "广东"
+    "province": "广东",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2019-思维能力-75",
@@ -2030,7 +2156,9 @@
     "difficulty": "中等",
     "source": "2019年广东公务员考试《行测》（思维能力）第75题",
     "isImageQuestion": true,
-    "province": "广东"
+    "province": "广东",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2019-思维能力-76",
@@ -2049,7 +2177,9 @@
     "difficulty": "中等",
     "source": "2019年广东公务员考试《行测》（思维能力）第76题",
     "isImageQuestion": true,
-    "province": "广东"
+    "province": "广东",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2019-思维能力-77",
@@ -2068,7 +2198,9 @@
     "difficulty": "中等",
     "source": "2019年广东公务员考试《行测》（思维能力）第77题",
     "isImageQuestion": true,
-    "province": "广东"
+    "province": "广东",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2019-思维能力-78",
@@ -2087,7 +2219,9 @@
     "difficulty": "中等",
     "source": "2019年广东公务员考试《行测》（思维能力）第78题",
     "isImageQuestion": true,
-    "province": "广东"
+    "province": "广东",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2019-思维能力-79",
@@ -2124,7 +2258,9 @@
     "difficulty": "中等",
     "source": "2019年广东公务员考试《行测》（思维能力）第79题",
     "isImageQuestion": true,
-    "province": "广东"
+    "province": "广东",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2019-思维能力-80",
@@ -2144,7 +2280,9 @@
     "difficulty": "中等",
     "source": "2019年广东公务员考试《行测》（思维能力）第80题",
     "isImageQuestion": true,
-    "province": "广东"
+    "province": "广东",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2019-县乡-31",
@@ -2163,7 +2301,9 @@
     "difficulty": "中等",
     "source": "2019年广东公务员考试《行测》（县乡）第31题",
     "isImageQuestion": true,
-    "province": "广东"
+    "province": "广东",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2019-县乡-32",
@@ -2183,7 +2323,9 @@
     "difficulty": "中等",
     "source": "2019年广东公务员考试《行测》（县乡）第32题",
     "isImageQuestion": true,
-    "province": "广东"
+    "province": "广东",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2019-县乡-33",
@@ -2202,7 +2344,9 @@
     "difficulty": "中等",
     "source": "2019年广东公务员考试《行测》（县乡）第33题",
     "isImageQuestion": true,
-    "province": "广东"
+    "province": "广东",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2019-县乡-34",
@@ -2239,7 +2383,9 @@
     "difficulty": "中等",
     "source": "2019年广东公务员考试《行测》（县乡）第34题",
     "isImageQuestion": true,
-    "province": "广东"
+    "province": "广东",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2019-县乡-35",
@@ -2275,7 +2421,9 @@
     "difficulty": "中等",
     "source": "2019年广东公务员考试《行测》（县乡）第35题",
     "isImageQuestion": true,
-    "province": "广东"
+    "province": "广东",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2019-县乡-36",
@@ -2295,7 +2443,9 @@
     "difficulty": "中等",
     "source": "2019年广东公务员考试《行测》（县乡）第36题",
     "isImageQuestion": true,
-    "province": "广东"
+    "province": "广东",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2019-县乡-37",
@@ -2315,7 +2465,9 @@
     "difficulty": "中等",
     "source": "2019年广东公务员考试《行测》（县乡）第37题",
     "isImageQuestion": true,
-    "province": "广东"
+    "province": "广东",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2019-县乡-38",
@@ -2335,7 +2487,9 @@
     "difficulty": "中等",
     "source": "2019年广东公务员考试《行测》（县乡）第38题",
     "isImageQuestion": true,
-    "province": "广东"
+    "province": "广东",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2019-县乡-39",
@@ -2355,7 +2509,9 @@
     "difficulty": "中等",
     "source": "2019年广东公务员考试《行测》（县乡）第39题",
     "isImageQuestion": true,
-    "province": "广东"
+    "province": "广东",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2019-县乡-40",
@@ -2375,7 +2531,9 @@
     "difficulty": "中等",
     "source": "2019年广东公务员考试《行测》（县乡）第40题",
     "isImageQuestion": true,
-    "province": "广东"
+    "province": "广东",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2019-县乡-41",
@@ -2411,7 +2569,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年广东公务员考试《行测》（县乡）第41题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2019-县乡-42",
@@ -2447,7 +2607,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年广东公务员考试《行测》（县乡）第42题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2019-县乡-43",
@@ -2482,7 +2644,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年广东公务员考试《行测》（县乡）第43题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2019-县乡-44",
@@ -2518,7 +2682,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年广东公务员考试《行测》（县乡）第44题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2019-县乡-45",
@@ -2554,7 +2720,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年广东公务员考试《行测》（县乡）第45题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2019-县乡-46",
@@ -2588,7 +2756,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年广东公务员考试《行测》（县乡）第46题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2019-县乡-47",
@@ -2624,7 +2794,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年广东公务员考试《行测》（县乡）第47题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2019-县乡-48",
@@ -2660,7 +2832,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年广东公务员考试《行测》（县乡）第48题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2019-县乡-49",
@@ -2695,7 +2869,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年广东公务员考试《行测》（县乡）第49题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2019-县乡-50",
@@ -2731,7 +2907,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年广东公务员考试《行测》（县乡）第50题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2019-县乡-51",
@@ -2766,7 +2944,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年广东公务员考试《行测》（县乡）第51题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2019-县乡-52",
@@ -2801,7 +2981,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年广东公务员考试《行测》（县乡）第52题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2019-县乡-53",
@@ -2837,7 +3019,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年广东公务员考试《行测》（县乡）第53题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2019-县乡-54",
@@ -2873,7 +3057,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年广东公务员考试《行测》（县乡）第54题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2019-县乡-55",
@@ -2905,7 +3091,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年广东公务员考试《行测》（县乡）第55题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2019-县乡-56",
@@ -2940,7 +3128,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年广东公务员考试《行测》（县乡）第56题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2019-县乡-57",
@@ -2975,7 +3165,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年广东公务员考试《行测》（县乡）第57题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2019-县乡-58",
@@ -3011,7 +3203,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年广东公务员考试《行测》（县乡）第58题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2019-县乡-59",
@@ -3046,7 +3240,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年广东公务员考试《行测》（县乡）第59题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2019-县乡-60",
@@ -3081,7 +3277,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年广东公务员考试《行测》（县乡）第60题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2019-县乡-61",
@@ -3117,7 +3315,9 @@
     "difficulty": "中等",
     "source": "2019年广东公务员考试《行测》（县乡）第61题",
     "isImageQuestion": true,
-    "province": "广东"
+    "province": "广东",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2019-县乡-62",
@@ -3150,7 +3350,9 @@
     "difficulty": "中等",
     "source": "2019年广东公务员考试《行测》（县乡）第62题",
     "isImageQuestion": true,
-    "province": "广东"
+    "province": "广东",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2019-县乡-63",
@@ -3186,7 +3388,9 @@
     "difficulty": "中等",
     "source": "2019年广东公务员考试《行测》（县乡）第63题",
     "isImageQuestion": true,
-    "province": "广东"
+    "province": "广东",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2019-县乡-64",
@@ -3221,7 +3425,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年广东公务员考试《行测》（县乡）第64题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2019-县乡-65",
@@ -3255,7 +3461,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年广东公务员考试《行测》（县乡）第65题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2019-县乡-66",
@@ -3291,7 +3499,9 @@
     "difficulty": "中等",
     "source": "2019年广东公务员考试《行测》（县乡）第66题",
     "isImageQuestion": true,
-    "province": "广东"
+    "province": "广东",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2019-县乡-67",
@@ -3328,7 +3538,9 @@
     "difficulty": "中等",
     "source": "2019年广东公务员考试《行测》（县乡）第67题",
     "isImageQuestion": true,
-    "province": "广东"
+    "province": "广东",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2019-县乡-68",
@@ -3363,7 +3575,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年广东公务员考试《行测》（县乡）第68题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2019-县乡-69",
@@ -3398,7 +3612,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年广东公务员考试《行测》（县乡）第69题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2019-县乡-70",
@@ -3432,7 +3648,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年广东公务员考试《行测》（县乡）第70题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2019-乡镇-26",
@@ -3452,7 +3670,9 @@
     "difficulty": "中等",
     "source": "2019年广东公务员考试《行测》（乡镇）第26题",
     "isImageQuestion": true,
-    "province": "广东"
+    "province": "广东",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2019-乡镇-27",
@@ -3471,7 +3691,9 @@
     "difficulty": "中等",
     "source": "2019年广东公务员考试《行测》（乡镇）第27题",
     "isImageQuestion": true,
-    "province": "广东"
+    "province": "广东",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2019-乡镇-28",
@@ -3491,7 +3713,9 @@
     "difficulty": "中等",
     "source": "2019年广东公务员考试《行测》（乡镇）第28题",
     "isImageQuestion": true,
-    "province": "广东"
+    "province": "广东",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2019-乡镇-29",
@@ -3511,7 +3735,9 @@
     "difficulty": "中等",
     "source": "2019年广东公务员考试《行测》（乡镇）第29题",
     "isImageQuestion": true,
-    "province": "广东"
+    "province": "广东",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2019-乡镇-30",
@@ -3548,7 +3774,9 @@
     "difficulty": "中等",
     "source": "2019年广东公务员考试《行测》（乡镇）第30题",
     "isImageQuestion": true,
-    "province": "广东"
+    "province": "广东",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2019-乡镇-31",
@@ -3568,7 +3796,9 @@
     "difficulty": "中等",
     "source": "2019年广东公务员考试《行测》（乡镇）第31题",
     "isImageQuestion": true,
-    "province": "广东"
+    "province": "广东",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2019-乡镇-32",
@@ -3588,7 +3818,9 @@
     "difficulty": "中等",
     "source": "2019年广东公务员考试《行测》（乡镇）第32题",
     "isImageQuestion": true,
-    "province": "广东"
+    "province": "广东",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2019-乡镇-33",
@@ -3608,7 +3840,9 @@
     "difficulty": "中等",
     "source": "2019年广东公务员考试《行测》（乡镇）第33题",
     "isImageQuestion": true,
-    "province": "广东"
+    "province": "广东",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2019-乡镇-34",
@@ -3628,7 +3862,9 @@
     "difficulty": "中等",
     "source": "2019年广东公务员考试《行测》（乡镇）第34题",
     "isImageQuestion": true,
-    "province": "广东"
+    "province": "广东",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2019-乡镇-35",
@@ -3647,7 +3883,9 @@
     "difficulty": "中等",
     "source": "2019年广东公务员考试《行测》（乡镇）第35题",
     "isImageQuestion": true,
-    "province": "广东"
+    "province": "广东",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2019-乡镇-36",
@@ -3682,7 +3920,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年广东公务员考试《行测》（乡镇）第36题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2019-乡镇-37",
@@ -3717,7 +3957,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年广东公务员考试《行测》（乡镇）第37题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2019-乡镇-38",
@@ -3753,7 +3995,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年广东公务员考试《行测》（乡镇）第38题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2019-乡镇-39",
@@ -3789,7 +4033,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年广东公务员考试《行测》（乡镇）第39题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2019-乡镇-40",
@@ -3825,7 +4071,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年广东公务员考试《行测》（乡镇）第40题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2019-乡镇-41",
@@ -3859,7 +4107,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年广东公务员考试《行测》（乡镇）第41题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2019-乡镇-42",
@@ -3894,7 +4144,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年广东公务员考试《行测》（乡镇）第42题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2019-乡镇-43",
@@ -3930,7 +4182,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年广东公务员考试《行测》（乡镇）第43题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2019-乡镇-44",
@@ -3965,7 +4219,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年广东公务员考试《行测》（乡镇）第44题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2019-乡镇-45",
@@ -4001,7 +4257,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年广东公务员考试《行测》（乡镇）第45题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2019-乡镇-46",
@@ -4033,7 +4291,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年广东公务员考试《行测》（乡镇）第46题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2019-乡镇-47",
@@ -4067,7 +4327,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年广东公务员考试《行测》（乡镇）第47题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2019-乡镇-48",
@@ -4102,7 +4364,9 @@
     "difficulty": "中等",
     "source": "2019年广东公务员考试《行测》（乡镇）第48题",
     "isImageQuestion": true,
-    "province": "广东"
+    "province": "广东",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2019-乡镇-49",
@@ -4136,7 +4400,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年广东公务员考试《行测》（乡镇）第49题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2019-乡镇-50",
@@ -4173,7 +4439,9 @@
     "difficulty": "中等",
     "source": "2019年广东公务员考试《行测》（乡镇）第50题",
     "isImageQuestion": true,
-    "province": "广东"
+    "province": "广东",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2019-乡镇-51",
@@ -4208,7 +4476,9 @@
     "difficulty": "中等",
     "source": "2019年广东公务员考试《行测》（乡镇）第51题",
     "isImageQuestion": true,
-    "province": "广东"
+    "province": "广东",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2019-乡镇-52",
@@ -4242,7 +4512,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年广东公务员考试《行测》（乡镇）第52题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2019-乡镇-53",
@@ -4277,7 +4549,9 @@
     "difficulty": "中等",
     "source": "2019年广东公务员考试《行测》（乡镇）第53题",
     "isImageQuestion": true,
-    "province": "广东"
+    "province": "广东",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2019-乡镇-54",
@@ -4312,7 +4586,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年广东公务员考试《行测》（乡镇）第54题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2019-乡镇-55",
@@ -4349,7 +4625,9 @@
     "difficulty": "中等",
     "source": "2019年广东公务员考试《行测》（乡镇）第55题",
     "isImageQuestion": true,
-    "province": "广东"
+    "province": "广东",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2019-乡镇-56",
@@ -4384,7 +4662,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年广东公务员考试《行测》（乡镇）第56题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2019-乡镇-57",
@@ -4419,7 +4699,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年广东公务员考试《行测》（乡镇）第57题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2019-乡镇-58",
@@ -4453,7 +4735,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年广东公务员考试《行测》（乡镇）第58题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2019-乡镇-59",
@@ -4489,7 +4773,9 @@
     "difficulty": "中等",
     "source": "2019年广东公务员考试《行测》（乡镇）第59题",
     "isImageQuestion": true,
-    "province": "广东"
+    "province": "广东",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2019-乡镇-60",
@@ -4524,7 +4810,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年广东公务员考试《行测》（乡镇）第60题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2020-思维能力-71",
@@ -4560,7 +4848,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年广东公务员考试《行测》（思维能力）第71题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2020-思维能力-72",
@@ -4595,7 +4885,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年广东公务员考试《行测》（思维能力）第72题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2020-思维能力-73",
@@ -4628,7 +4920,9 @@
     "difficulty": "中等",
     "source": "2020年广东公务员考试《行测》（思维能力）第73题",
     "isImageQuestion": true,
-    "province": "广东"
+    "province": "广东",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2020-思维能力-74",
@@ -4664,7 +4958,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年广东公务员考试《行测》（思维能力）第74题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2020-思维能力-75",
@@ -4699,7 +4995,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年广东公务员考试《行测》（思维能力）第75题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2020-思维能力-76",
@@ -4734,7 +5032,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年广东公务员考试《行测》（思维能力）第76题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2020-思维能力-77",
@@ -4769,7 +5069,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年广东公务员考试《行测》（思维能力）第77题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2020-思维能力-78",
@@ -4805,7 +5107,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年广东公务员考试《行测》（思维能力）第78题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2020-思维能力-79",
@@ -4837,7 +5141,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年广东公务员考试《行测》（思维能力）第79题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "图形推理",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2020-思维能力-80",
@@ -4871,7 +5177,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年广东公务员考试《行测》（思维能力）第80题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2020-思维能力-81",
@@ -4906,7 +5214,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年广东公务员考试《行测》（思维能力）第81题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "图形推理",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2020-思维能力-82",
@@ -4941,7 +5251,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年广东公务员考试《行测》（思维能力）第82题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2020-思维能力-83",
@@ -4959,7 +5271,10 @@
     "difficulty": "中等",
     "source": "2020年广东公务员考试《行测》（思维能力）第83题",
     "isImageQuestion": true,
-    "province": "广东"
+    "province": "广东",
+    "isAbnormal": true,
+    "subModule": "图形推理",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2020-思维能力-84",
@@ -4993,7 +5308,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年广东公务员考试《行测》（思维能力）第84题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "图形推理",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2020-思维能力-85",
@@ -5028,7 +5345,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年广东公务员考试《行测》（思维能力）第85题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "图形推理",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2020-思维能力-86",
@@ -5064,7 +5383,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年广东公务员考试《行测》（思维能力）第86题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "图形推理",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2020-思维能力-87",
@@ -5099,7 +5420,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年广东公务员考试《行测》（思维能力）第87题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "图形推理",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2020-思维能力-88",
@@ -5134,7 +5457,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年广东公务员考试《行测》（思维能力）第88题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "图形推理",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2020-思维能力-89",
@@ -5169,7 +5494,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年广东公务员考试《行测》（思维能力）第89题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "图形推理",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2020-思维能力-90",
@@ -5203,7 +5530,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年广东公务员考试《行测》（思维能力）第90题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "图形推理",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangdong-2020-思维能力-91",
@@ -5239,7 +5568,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年广东公务员考试《行测》（思维能力）第91题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2020-思维能力-92",
@@ -5275,7 +5606,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年广东公务员考试《行测》（思维能力）第92题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2020-思维能力-93",
@@ -5311,7 +5644,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年广东公务员考试《行测》（思维能力）第93题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2020-思维能力-94",
@@ -5345,7 +5680,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年广东公务员考试《行测》（思维能力）第94题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2020-思维能力-95",
@@ -5379,7 +5716,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年广东公务员考试《行测》（思维能力）第95题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2020-思维能力-96",
@@ -5415,7 +5754,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年广东公务员考试《行测》（思维能力）第96题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2020-思维能力-97",
@@ -5451,7 +5792,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年广东公务员考试《行测》（思维能力）第97题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2020-思维能力-98",
@@ -5487,7 +5830,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年广东公务员考试《行测》（思维能力）第98题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2020-思维能力-99",
@@ -5523,7 +5868,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年广东公务员考试《行测》（思维能力）第99题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2020-思维能力-100",
@@ -5558,7 +5905,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年广东公务员考试《行测》（思维能力）第100题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2020-县乡-41",
@@ -5578,7 +5927,9 @@
     "difficulty": "中等",
     "source": "2020年广东公务员考试《行测》（县乡）第41题",
     "isImageQuestion": true,
-    "province": "广东"
+    "province": "广东",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2020-县乡-42",
@@ -5598,7 +5949,9 @@
     "difficulty": "中等",
     "source": "2020年广东公务员考试《行测》（县乡）第42题",
     "isImageQuestion": true,
-    "province": "广东"
+    "province": "广东",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2020-县乡-43",
@@ -5618,7 +5971,9 @@
     "difficulty": "中等",
     "source": "2020年广东公务员考试《行测》（县乡）第43题",
     "isImageQuestion": true,
-    "province": "广东"
+    "province": "广东",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2020-县乡-44",
@@ -5655,7 +6010,9 @@
     "difficulty": "中等",
     "source": "2020年广东公务员考试《行测》（县乡）第44题",
     "isImageQuestion": true,
-    "province": "广东"
+    "province": "广东",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2020-县乡-45",
@@ -5675,7 +6032,9 @@
     "difficulty": "中等",
     "source": "2020年广东公务员考试《行测》（县乡）第45题",
     "isImageQuestion": true,
-    "province": "广东"
+    "province": "广东",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2020-县乡-46",
@@ -5695,7 +6054,9 @@
     "difficulty": "中等",
     "source": "2020年广东公务员考试《行测》（县乡）第46题",
     "isImageQuestion": true,
-    "province": "广东"
+    "province": "广东",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2020-县乡-47",
@@ -5715,7 +6076,9 @@
     "difficulty": "中等",
     "source": "2020年广东公务员考试《行测》（县乡）第47题",
     "isImageQuestion": true,
-    "province": "广东"
+    "province": "广东",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2020-县乡-48",
@@ -5735,7 +6098,9 @@
     "difficulty": "中等",
     "source": "2020年广东公务员考试《行测》（县乡）第48题",
     "isImageQuestion": true,
-    "province": "广东"
+    "province": "广东",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2020-县乡-49",
@@ -5755,7 +6120,9 @@
     "difficulty": "中等",
     "source": "2020年广东公务员考试《行测》（县乡）第49题",
     "isImageQuestion": true,
-    "province": "广东"
+    "province": "广东",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2020-县乡-50",
@@ -5775,7 +6142,9 @@
     "difficulty": "中等",
     "source": "2020年广东公务员考试《行测》（县乡）第50题",
     "isImageQuestion": true,
-    "province": "广东"
+    "province": "广东",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2020-县乡-51",
@@ -5811,7 +6180,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年广东公务员考试《行测》（县乡）第51题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2020-县乡-52",
@@ -5847,7 +6218,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年广东公务员考试《行测》（县乡）第52题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2020-县乡-53",
@@ -5882,7 +6255,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年广东公务员考试《行测》（县乡）第53题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2020-县乡-54",
@@ -5917,7 +6292,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年广东公务员考试《行测》（县乡）第54题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2020-县乡-55",
@@ -5952,7 +6329,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年广东公务员考试《行测》（县乡）第55题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2020-县乡-56",
@@ -5988,7 +6367,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年广东公务员考试《行测》（县乡）第56题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2020-县乡-57",
@@ -6024,7 +6405,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年广东公务员考试《行测》（县乡）第57题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2020-县乡-58",
@@ -6060,7 +6443,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年广东公务员考试《行测》（县乡）第58题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2020-县乡-59",
@@ -6096,7 +6481,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年广东公务员考试《行测》（县乡）第59题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2020-县乡-60",
@@ -6132,7 +6519,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年广东公务员考试《行测》（县乡）第60题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2020-县乡-61",
@@ -6168,7 +6557,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年广东公务员考试《行测》（县乡）第61题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2020-县乡-62",
@@ -6204,7 +6595,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年广东公务员考试《行测》（县乡）第62题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2020-县乡-63",
@@ -6240,7 +6633,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年广东公务员考试《行测》（县乡）第63题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2020-县乡-64",
@@ -6276,7 +6671,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年广东公务员考试《行测》（县乡）第64题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2020-县乡-65",
@@ -6312,7 +6709,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年广东公务员考试《行测》（县乡）第65题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangdong-2020-县乡-66",
@@ -6348,6 +6747,8 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年广东公务员考试《行测》（县乡）第66题",
-    "province": "广东"
+    "province": "广东",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   }
 ]

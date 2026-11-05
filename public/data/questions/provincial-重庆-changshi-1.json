@@ -14,7 +14,10 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2014年重庆公务员考试《行测》（下半年）第6题",
-    "province": "重庆"
+    "province": "重庆",
+    "isAbnormal": true,
+    "subModule": "地理国情",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-chongqing-2014-下半年-7",
@@ -30,7 +33,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2014年重庆公务员考试《行测》（下半年）第7题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-chongqing-2014-下半年-8",
@@ -46,7 +51,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2014年重庆公务员考试《行测》（下半年）第8题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-chongqing-2014-下半年-9",
@@ -62,7 +69,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2014年重庆公务员考试《行测》（下半年）第9题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-chongqing-2014-下半年-10",
@@ -78,7 +87,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2014年重庆公务员考试《行测》（下半年）第10题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-chongqing-2014-下半年-11",
@@ -94,7 +105,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2014年重庆公务员考试《行测》（下半年）第11题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-chongqing-2014-下半年-12",
@@ -110,7 +123,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2014年重庆公务员考试《行测》（下半年）第12题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-chongqing-2014-下半年-13",
@@ -126,7 +141,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2014年重庆公务员考试《行测》（下半年）第13题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-chongqing-2014-下半年-14",
@@ -142,7 +159,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2014年重庆公务员考试《行测》（下半年）第14题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-chongqing-2014-下半年-15",
@@ -158,7 +177,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2014年重庆公务员考试《行测》（下半年）第15题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-chongqing-2014-下半年-16",
@@ -174,7 +195,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2014年重庆公务员考试《行测》（下半年）第16题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-chongqing-2014-下半年-17",
@@ -190,7 +213,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2014年重庆公务员考试《行测》（下半年）第17题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-chongqing-2014-下半年-18",
@@ -206,7 +231,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2014年重庆公务员考试《行测》（下半年）第18题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-chongqing-2014-下半年-19",
@@ -222,7 +249,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2014年重庆公务员考试《行测》（下半年）第19题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-chongqing-2014-下半年-20",
@@ -238,7 +267,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2014年重庆公务员考试《行测》（下半年）第20题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-chongqing-2014-下半年-21",
@@ -254,7 +285,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2014年重庆公务员考试《行测》（下半年）第21题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-chongqing-2014-下半年-22",
@@ -270,7 +303,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2014年重庆公务员考试《行测》（下半年）第22题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-chongqing-2014-下半年-23",
@@ -286,7 +321,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2014年重庆公务员考试《行测》（下半年）第23题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-chongqing-2014-下半年-24",
@@ -302,7 +339,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2014年重庆公务员考试《行测》（下半年）第24题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-chongqing-2014-下半年-25",
@@ -318,7 +357,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2014年重庆公务员考试《行测》（下半年）第25题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-chongqing-2014-下半年-26",
@@ -334,7 +375,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2014年重庆公务员考试《行测》（下半年）第26题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-chongqing-2014-下半年-27",
@@ -350,7 +393,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2014年重庆公务员考试《行测》（下半年）第27题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-chongqing-2014-下半年-28",
@@ -366,7 +411,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2014年重庆公务员考试《行测》（下半年）第28题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-chongqing-2014-下半年-29",
@@ -382,7 +429,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2014年重庆公务员考试《行测》（下半年）第29题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-chongqing-2014-下半年-30",
@@ -398,7 +447,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2014年重庆公务员考试《行测》（下半年）第30题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-chongqing-2014-下半年-31",
@@ -414,7 +465,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2014年重庆公务员考试《行测》（下半年）第31题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-chongqing-2014-下半年-32",
@@ -430,7 +483,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2014年重庆公务员考试《行测》（下半年）第32题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-chongqing-2014-下半年-33",
@@ -446,7 +501,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2014年重庆公务员考试《行测》（下半年）第33题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-chongqing-2014-下半年-34",
@@ -462,7 +519,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2014年重庆公务员考试《行测》（下半年）第34题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-chongqing-2014-下半年-35",
@@ -478,7 +537,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2014年重庆公务员考试《行测》（下半年）第35题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-chongqing-2014-下半年-36",
@@ -494,7 +555,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2014年重庆公务员考试《行测》（下半年）第36题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-chongqing-2014-下半年-37",
@@ -510,7 +573,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2014年重庆公务员考试《行测》（下半年）第37题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-chongqing-2014-下半年-38",
@@ -526,7 +591,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2014年重庆公务员考试《行测》（下半年）第38题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-chongqing-2014-下半年-39",
@@ -542,7 +609,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2014年重庆公务员考试《行测》（下半年）第39题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-chongqing-2014-下半年-40",
@@ -558,7 +627,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2014年重庆公务员考试《行测》（下半年）第40题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-chongqing-2014-下半年-41",
@@ -574,7 +645,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2014年重庆公务员考试《行测》（下半年）第41题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-chongqing-2014-下半年-42",
@@ -590,7 +663,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2014年重庆公务员考试《行测》（下半年）第42题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-chongqing-2014-下半年-43",
@@ -606,7 +681,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2014年重庆公务员考试《行测》（下半年）第43题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-chongqing-2014-下半年-44",
@@ -622,7 +699,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2014年重庆公务员考试《行测》（下半年）第44题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-chongqing-2014-下半年-45",
@@ -638,7 +717,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2014年重庆公务员考试《行测》（下半年）第45题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-chongqing-2014-下半年-46",
@@ -654,7 +735,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2014年重庆公务员考试《行测》（下半年）第46题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-chongqing-2014-下半年-47",
@@ -670,7 +753,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2014年重庆公务员考试《行测》（下半年）第47题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-chongqing-2014-下半年-48",
@@ -686,7 +771,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2014年重庆公务员考试《行测》（下半年）第48题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-chongqing-2014-下半年-49",
@@ -702,7 +789,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2014年重庆公务员考试《行测》（下半年）第49题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-chongqing-2014-下半年-50",
@@ -718,7 +807,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2014年重庆公务员考试《行测》（下半年）第50题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-chongqing-2014-下半年-51",
@@ -734,7 +825,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2014年重庆公务员考试《行测》（下半年）第51题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-chongqing-2014-下半年-52",
@@ -750,7 +843,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2014年重庆公务员考试《行测》（下半年）第52题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-chongqing-2014-下半年-53",
@@ -766,7 +861,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2014年重庆公务员考试《行测》（下半年）第53题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-chongqing-2014-下半年-54",
@@ -782,7 +879,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2014年重庆公务员考试《行测》（下半年）第54题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-chongqing-2014-下半年-55",
@@ -798,7 +897,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2014年重庆公务员考试《行测》（下半年）第55题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-chongqing-2014-下半年-56",
@@ -814,7 +915,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2014年重庆公务员考试《行测》（下半年）第56题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-chongqing-2014-下半年-57",
@@ -830,7 +933,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2014年重庆公务员考试《行测》（下半年）第57题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-chongqing-2014-下半年-58",
@@ -846,7 +951,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2014年重庆公务员考试《行测》（下半年）第58题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-chongqing-2014-下半年-59",
@@ -862,7 +969,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2014年重庆公务员考试《行测》（下半年）第59题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-chongqing-2014-下半年-60",
@@ -878,7 +987,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2014年重庆公务员考试《行测》（下半年）第60题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-chongqing-2014-下半年-61",
@@ -894,7 +1005,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2014年重庆公务员考试《行测》（下半年）第61题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-chongqing-2014-下半年-62",
@@ -910,7 +1023,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2014年重庆公务员考试《行测》（下半年）第62题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-chongqing-2014-下半年-63",
@@ -926,7 +1041,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2014年重庆公务员考试《行测》（下半年）第63题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-chongqing-2014-下半年-64",
@@ -942,7 +1059,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2014年重庆公务员考试《行测》（下半年）第64题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-chongqing-2014-下半年-65",
@@ -958,7 +1077,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2014年重庆公务员考试《行测》（下半年）第65题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-chongqing-2014-下半年-66",
@@ -974,7 +1095,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2014年重庆公务员考试《行测》（下半年）第66题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-chongqing-2014-下半年-67",
@@ -990,7 +1113,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2014年重庆公务员考试《行测》（下半年）第67题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-chongqing-2014-下半年-68",
@@ -1006,7 +1131,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2014年重庆公务员考试《行测》（下半年）第68题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-chongqing-2014-下半年-69",
@@ -1022,7 +1149,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2014年重庆公务员考试《行测》（下半年）第69题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-chongqing-2014-下半年-70",
@@ -1038,7 +1167,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2014年重庆公务员考试《行测》（下半年）第70题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-chongqing-2014-下半年-71",
@@ -1054,7 +1185,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2014年重庆公务员考试《行测》（下半年）第71题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-chongqing-2014-下半年-72",
@@ -1070,7 +1203,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2014年重庆公务员考试《行测》（下半年）第72题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-chongqing-2014-下半年-73",
@@ -1086,7 +1221,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2014年重庆公务员考试《行测》（下半年）第73题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-chongqing-2014-下半年-74",
@@ -1102,7 +1239,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2014年重庆公务员考试《行测》（下半年）第74题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-chongqing-2014-下半年-75",
@@ -1118,7 +1257,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2014年重庆公务员考试《行测》（下半年）第75题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-chongqing-2014-下半年-76",
@@ -1134,7 +1275,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2014年重庆公务员考试《行测》（下半年）第76题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-chongqing-2014-下半年-77",
@@ -1150,7 +1293,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2014年重庆公务员考试《行测》（下半年）第77题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-chongqing-2014-下半年-78",
@@ -1184,7 +1329,10 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2014年重庆公务员考试《行测》（下半年）第78题",
-    "province": "重庆"
+    "province": "重庆",
+    "isAbnormal": true,
+    "subModule": "地理国情",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2015-下半年-41",
@@ -1216,7 +1364,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年重庆公务员考试《行测》（下半年）第41题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2015-下半年-42",
@@ -1251,7 +1401,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年重庆公务员考试《行测》（下半年）第42题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "地理国情",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2015-下半年-43",
@@ -1285,7 +1437,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年重庆公务员考试《行测》（下半年）第43题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2015-下半年-44",
@@ -1319,7 +1473,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年重庆公务员考试《行测》（下半年）第44题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2015-下半年-45",
@@ -1354,7 +1510,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年重庆公务员考试《行测》（下半年）第45题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2015-下半年-46",
@@ -1389,7 +1547,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年重庆公务员考试《行测》（下半年）第46题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "生活常识",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-chongqing-2015-下半年-47",
@@ -1423,7 +1583,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年重庆公务员考试《行测》（下半年）第47题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "生活常识",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-chongqing-2015-下半年-48",
@@ -1457,7 +1619,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年重庆公务员考试《行测》（下半年）第48题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2015-下半年-49",
@@ -1492,7 +1656,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年重庆公务员考试《行测》（下半年）第49题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2015-下半年-50",
@@ -1527,7 +1693,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年重庆公务员考试《行测》（下半年）第50题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "生活常识",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2015-下半年-51",
@@ -1561,7 +1729,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年重庆公务员考试《行测》（下半年）第51题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "地理国情",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2015-下半年-52",
@@ -1596,7 +1766,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年重庆公务员考试《行测》（下半年）第52题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2015-下半年-53",
@@ -1631,7 +1803,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年重庆公务员考试《行测》（下半年）第53题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2015-下半年-54",
@@ -1665,7 +1839,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年重庆公务员考试《行测》（下半年）第54题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2015-下半年-55",
@@ -1700,7 +1876,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年重庆公务员考试《行测》（下半年）第55题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "生活常识",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2015-下半年-56",
@@ -1735,7 +1913,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年重庆公务员考试《行测》（下半年）第56题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "经济管理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2015-下半年-57",
@@ -1769,7 +1949,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年重庆公务员考试《行测》（下半年）第57题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "科技",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-chongqing-2015-下半年-58",
@@ -1803,7 +1985,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年重庆公务员考试《行测》（下半年）第58题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "生活常识",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-chongqing-2015-下半年-59",
@@ -1838,7 +2022,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年重庆公务员考试《行测》（下半年）第59题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "科技",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-chongqing-2015-下半年-60",
@@ -1873,7 +2059,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年重庆公务员考试《行测》（下半年）第60题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "科技",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-chongqing-2015-下半年-61",
@@ -1908,7 +2096,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年重庆公务员考试《行测》（下半年）第61题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "经济管理",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-chongqing-2015-下半年-62",
@@ -1943,7 +2133,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年重庆公务员考试《行测》（下半年）第62题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "科技",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-chongqing-2015-下半年-63",
@@ -1978,7 +2170,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年重庆公务员考试《行测》（下半年）第63题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "经济管理",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-chongqing-2015-下半年-64",
@@ -2014,7 +2208,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年重庆公务员考试《行测》（下半年）第64题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "科技",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-chongqing-2015-下半年-65",
@@ -2050,7 +2246,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2015年重庆公务员考试《行测》（下半年）第65题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2016-423联考-1",
@@ -2084,7 +2282,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2016年重庆公务员考试《行测》（423联考）第1题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2016-423联考-2",
@@ -2120,7 +2320,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2016年重庆公务员考试《行测》（423联考）第2题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2016-423联考-3",
@@ -2155,7 +2357,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2016年重庆公务员考试《行测》（423联考）第3题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2016-423联考-4",
@@ -2189,7 +2393,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2016年重庆公务员考试《行测》（423联考）第4题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2016-423联考-5",
@@ -2225,7 +2431,9 @@
     "difficulty": "基础",
     "source": "2016年重庆公务员考试《行测》（423联考）第5题",
     "isImageQuestion": true,
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "地理国情",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2016-423联考-6",
@@ -2260,7 +2468,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2016年重庆公务员考试《行测》（423联考）第6题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2016-423联考-7",
@@ -2294,7 +2504,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2016年重庆公务员考试《行测》（423联考）第7题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2016-423联考-8",
@@ -2329,7 +2541,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2016年重庆公务员考试《行测》（423联考）第8题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2016-423联考-9",
@@ -2364,7 +2578,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2016年重庆公务员考试《行测》（423联考）第9题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "生活常识",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2016-423联考-10",
@@ -2398,7 +2614,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2016年重庆公务员考试《行测》（423联考）第10题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "地理国情",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2016-423联考-11",
@@ -2432,7 +2650,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2016年重庆公务员考试《行测》（423联考）第11题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "经济管理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2016-423联考-12",
@@ -2464,7 +2684,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2016年重庆公务员考试《行测》（423联考）第12题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2016-423联考-13",
@@ -2499,7 +2721,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2016年重庆公务员考试《行测》（423联考）第13题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "经济管理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2016-423联考-14",
@@ -2533,7 +2757,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2016年重庆公务员考试《行测》（423联考）第14题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2016-423联考-15",
@@ -2568,7 +2794,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2016年重庆公务员考试《行测》（423联考）第15题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2016-423联考-16",
@@ -2603,7 +2831,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2016年重庆公务员考试《行测》（423联考）第16题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2016-423联考-17",
@@ -2637,7 +2867,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2016年重庆公务员考试《行测》（423联考）第17题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2016-423联考-18",
@@ -2673,7 +2905,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2016年重庆公务员考试《行测》（423联考）第18题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2016-423联考-19",
@@ -2707,7 +2941,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2016年重庆公务员考试《行测》（423联考）第19题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "生活常识",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-chongqing-2016-423联考-20",
@@ -2743,7 +2979,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2016年重庆公务员考试《行测》（423联考）第20题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2016-下半年-1",
@@ -2779,7 +3017,9 @@
     "difficulty": "基础",
     "source": "2016年重庆公务员考试《行测》（下半年）第1题",
     "isImageQuestion": true,
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2016-下半年-2",
@@ -2813,7 +3053,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2016年重庆公务员考试《行测》（下半年）第2题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2016-下半年-3",
@@ -2848,7 +3090,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2016年重庆公务员考试《行测》（下半年）第3题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2016-下半年-4",
@@ -2883,7 +3127,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2016年重庆公务员考试《行测》（下半年）第4题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2016-下半年-5",
@@ -2917,7 +3163,10 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2016年重庆公务员考试《行测》（下半年）第5题",
-    "province": "重庆"
+    "province": "重庆",
+    "isAbnormal": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2016-下半年-6",
@@ -2951,7 +3200,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2016年重庆公务员考试《行测》（下半年）第6题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2016-下半年-7",
@@ -2986,7 +3237,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2016年重庆公务员考试《行测》（下半年）第7题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2016-下半年-8",
@@ -3018,7 +3271,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2016年重庆公务员考试《行测》（下半年）第8题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2016-下半年-9",
@@ -3051,7 +3306,9 @@
     "difficulty": "基础",
     "source": "2016年重庆公务员考试《行测》（下半年）第9题",
     "isImageQuestion": true,
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2016-下半年-10",
@@ -3083,7 +3340,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2016年重庆公务员考试《行测》（下半年）第10题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2016-下半年-11",
@@ -3115,7 +3374,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2016年重庆公务员考试《行测》（下半年）第11题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2016-下半年-12",
@@ -3149,7 +3410,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2016年重庆公务员考试《行测》（下半年）第12题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2016-下半年-13",
@@ -3184,7 +3447,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2016年重庆公务员考试《行测》（下半年）第13题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "生活常识",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2016-下半年-14",
@@ -3220,7 +3485,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2016年重庆公务员考试《行测》（下半年）第14题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2016-下半年-15",
@@ -3254,7 +3521,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2016年重庆公务员考试《行测》（下半年）第15题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2016-下半年-16",
@@ -3289,7 +3558,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2016年重庆公务员考试《行测》（下半年）第16题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2016-下半年-17",
@@ -3323,7 +3594,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2016年重庆公务员考试《行测》（下半年）第17题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2016-下半年-18",
@@ -3357,7 +3630,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2016年重庆公务员考试《行测》（下半年）第18题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2016-下半年-19",
@@ -3392,7 +3667,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2016年重庆公务员考试《行测》（下半年）第19题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "生活常识",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2016-下半年-20",
@@ -3426,7 +3703,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2016年重庆公务员考试《行测》（下半年）第20题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2016-选调-1",
@@ -3461,7 +3740,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2016年重庆公务员考试《行测》（选调）第1题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "地理国情",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2016-选调-2",
@@ -3496,7 +3777,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2016年重庆公务员考试《行测》（选调）第2题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2016-选调-3",
@@ -3531,7 +3814,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2016年重庆公务员考试《行测》（选调）第3题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "经济管理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2016-选调-4",
@@ -3566,7 +3851,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2016年重庆公务员考试《行测》（选调）第4题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2016-选调-5",
@@ -3601,7 +3888,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2016年重庆公务员考试《行测》（选调）第5题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2016-选调-6",
@@ -3635,7 +3924,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2016年重庆公务员考试《行测》（选调）第6题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2016-选调-7",
@@ -3669,7 +3960,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2016年重庆公务员考试《行测》（选调）第7题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2016-选调-8",
@@ -3704,7 +3997,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2016年重庆公务员考试《行测》（选调）第8题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2016-选调-9",
@@ -3740,7 +4035,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2016年重庆公务员考试《行测》（选调）第9题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "地理国情",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2016-选调-10",
@@ -3775,7 +4072,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2016年重庆公务员考试《行测》（选调）第10题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2016-选调-11",
@@ -3810,7 +4109,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2016年重庆公务员考试《行测》（选调）第11题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2016-选调-12",
@@ -3845,7 +4146,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2016年重庆公务员考试《行测》（选调）第12题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "地理国情",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2016-选调-13",
@@ -3880,7 +4183,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2016年重庆公务员考试《行测》（选调）第13题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2016-选调-14",
@@ -3915,7 +4220,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2016年重庆公务员考试《行测》（选调）第14题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2016-选调-15",
@@ -3949,7 +4256,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2016年重庆公务员考试《行测》（选调）第15题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2017-上半年-1",
@@ -3983,7 +4292,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2017年重庆公务员考试《行测》（上半年）第1题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2017-上半年-2",
@@ -4017,7 +4328,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2017年重庆公务员考试《行测》（上半年）第2题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-chongqing-2017-上半年-3",
@@ -4051,7 +4364,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2017年重庆公务员考试《行测》（上半年）第3题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2017-上半年-4",
@@ -4086,7 +4401,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2017年重庆公务员考试《行测》（上半年）第4题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2017-上半年-5",
@@ -4121,7 +4438,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2017年重庆公务员考试《行测》（上半年）第5题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2017-上半年-6",
@@ -4153,7 +4472,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2017年重庆公务员考试《行测》（上半年）第6题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2017-上半年-7",
@@ -4188,7 +4509,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2017年重庆公务员考试《行测》（上半年）第7题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2017-上半年-8",
@@ -4222,7 +4545,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2017年重庆公务员考试《行测》（上半年）第8题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2017-上半年-9",
@@ -4257,7 +4582,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2017年重庆公务员考试《行测》（上半年）第9题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2017-上半年-10",
@@ -4291,7 +4618,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2017年重庆公务员考试《行测》（上半年）第10题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2017-上半年-11",
@@ -4326,7 +4655,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2017年重庆公务员考试《行测》（上半年）第11题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2017-上半年-12",
@@ -4361,7 +4692,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2017年重庆公务员考试《行测》（上半年）第12题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2017-上半年-13",
@@ -4397,7 +4730,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2017年重庆公务员考试《行测》（上半年）第13题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "人文历史",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-chongqing-2017-上半年-14",
@@ -4431,7 +4766,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2017年重庆公务员考试《行测》（上半年）第14题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2017-上半年-15",
@@ -4465,7 +4802,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2017年重庆公务员考试《行测》（上半年）第15题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "生活常识",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2017-上半年-16",
@@ -4499,7 +4838,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2017年重庆公务员考试《行测》（上半年）第16题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "地理国情",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2017-上半年-17",
@@ -4533,7 +4874,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2017年重庆公务员考试《行测》（上半年）第17题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "生活常识",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2017-上半年-18",
@@ -4568,7 +4911,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2017年重庆公务员考试《行测》（上半年）第18题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2017-上半年-19",
@@ -4603,7 +4948,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2017年重庆公务员考试《行测》（上半年）第19题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2017-上半年-20",
@@ -4635,7 +4982,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2017年重庆公务员考试《行测》（上半年）第20题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2017-下半年-46",
@@ -4670,7 +5019,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2017年重庆公务员考试《行测》（下半年）第46题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2017-下半年-47",
@@ -4705,7 +5056,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2017年重庆公务员考试《行测》（下半年）第47题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2017-下半年-48",
@@ -4740,7 +5093,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2017年重庆公务员考试《行测》（下半年）第48题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "地理国情",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2017-下半年-49",
@@ -4775,7 +5130,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2017年重庆公务员考试《行测》（下半年）第49题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "地理国情",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2017-下半年-50",
@@ -4810,7 +5167,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2017年重庆公务员考试《行测》（下半年）第50题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "经济管理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2017-下半年-51",
@@ -4844,7 +5203,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2017年重庆公务员考试《行测》（下半年）第51题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2017-下半年-52",
@@ -4878,7 +5239,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2017年重庆公务员考试《行测》（下半年）第52题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2017-下半年-53",
@@ -4913,7 +5276,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2017年重庆公务员考试《行测》（下半年）第53题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2017-下半年-54",
@@ -4948,7 +5313,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2017年重庆公务员考试《行测》（下半年）第54题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2017-下半年-55",
@@ -4984,7 +5351,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2017年重庆公务员考试《行测》（下半年）第55题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2017-下半年-56",
@@ -5020,7 +5389,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2017年重庆公务员考试《行测》（下半年）第56题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2017-下半年-57",
@@ -5055,7 +5426,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2017年重庆公务员考试《行测》（下半年）第57题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2017-下半年-58",
@@ -5091,7 +5464,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2017年重庆公务员考试《行测》（下半年）第58题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2017-下半年-59",
@@ -5125,7 +5500,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2017年重庆公务员考试《行测》（下半年）第59题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2017-下半年-60",
@@ -5159,7 +5536,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2017年重庆公务员考试《行测》（下半年）第60题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "地理国情",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2017-下半年-61",
@@ -5191,7 +5570,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2017年重庆公务员考试《行测》（下半年）第61题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "地理国情",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2017-下半年-62",
@@ -5225,7 +5606,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2017年重庆公务员考试《行测》（下半年）第62题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2017-下半年-63",
@@ -5260,7 +5643,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2017年重庆公务员考试《行测》（下半年）第63题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2017-下半年-64",
@@ -5294,7 +5679,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2017年重庆公务员考试《行测》（下半年）第64题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2017-下半年-65",
@@ -5330,7 +5717,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2017年重庆公务员考试《行测》（下半年）第65题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "生活常识",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2017-选调-1",
@@ -5365,7 +5754,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2017年重庆公务员考试《行测》（选调）第1题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2017-选调-2",
@@ -5401,7 +5792,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2017年重庆公务员考试《行测》（选调）第2题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "经济管理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2017-选调-3",
@@ -5435,7 +5828,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2017年重庆公务员考试《行测》（选调）第3题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2017-选调-4",
@@ -5470,7 +5865,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2017年重庆公务员考试《行测》（选调）第4题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2017-选调-5",
@@ -5505,7 +5902,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2017年重庆公务员考试《行测》（选调）第5题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2017-选调-6",
@@ -5540,7 +5939,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2017年重庆公务员考试《行测》（选调）第6题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2017-选调-7",
@@ -5575,6 +5976,8 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2017年重庆公务员考试《行测》（选调）第7题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   }
 ]

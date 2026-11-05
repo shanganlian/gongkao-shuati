@@ -30,7 +30,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2022年青海公务员考试《行测》第117题",
-    "province": "青海"
+    "province": "青海",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2022-未标注-118",
@@ -63,7 +65,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2022年青海公务员考试《行测》第118题",
-    "province": "青海"
+    "province": "青海",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2022-未标注-119",
@@ -96,7 +100,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2022年青海公务员考试《行测》第119题",
-    "province": "青海"
+    "province": "青海",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2022-未标注-120",
@@ -133,7 +139,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2022年青海公务员考试《行测》第120题",
-    "province": "青海"
+    "province": "青海",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2023-未标注-106",
@@ -168,7 +176,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2023年青海公务员考试《行测》第106题",
-    "province": "青海"
+    "province": "青海",
+    "isAbnormal": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2023-未标注-107",
@@ -203,7 +214,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2023年青海公务员考试《行测》第107题",
-    "province": "青海"
+    "province": "青海",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2023-未标注-108",
@@ -237,7 +250,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2023年青海公务员考试《行测》第108题",
-    "province": "青海"
+    "province": "青海",
+    "isAbnormal": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2023-未标注-109",
@@ -272,7 +288,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2023年青海公务员考试《行测》第109题",
-    "province": "青海"
+    "province": "青海",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2023-未标注-110",
@@ -307,7 +325,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2023年青海公务员考试《行测》第110题",
-    "province": "青海"
+    "province": "青海",
+    "isAbnormal": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2023-未标注-111",
@@ -342,7 +363,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2023年青海公务员考试《行测》第111题",
-    "province": "青海"
+    "province": "青海",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2023-未标注-112",
@@ -377,7 +400,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2023年青海公务员考试《行测》第112题",
-    "province": "青海"
+    "province": "青海",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2023-未标注-113",
@@ -411,7 +436,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2023年青海公务员考试《行测》第113题",
-    "province": "青海"
+    "province": "青海",
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2023-未标注-114",
@@ -445,7 +472,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2023年青海公务员考试《行测》第114题",
-    "province": "青海"
+    "province": "青海",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2023-未标注-115",
@@ -479,7 +508,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2023年青海公务员考试《行测》第115题",
-    "province": "青海"
+    "province": "青海",
+    "isAbnormal": true,
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2023-未标注-116",
@@ -514,7 +546,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2023年青海公务员考试《行测》第116题",
-    "province": "青海"
+    "province": "青海",
+    "isAbnormal": true,
+    "subModule": "图形材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2023-未标注-117",
@@ -532,7 +567,10 @@
     "difficulty": "中等",
     "source": "2023年青海公务员考试《行测》第117题",
     "isImageQuestion": true,
-    "province": "青海"
+    "province": "青海",
+    "isAbnormal": true,
+    "subModule": "图形材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2023-未标注-118",
@@ -567,7 +605,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2023年青海公务员考试《行测》第118题",
-    "province": "青海"
+    "province": "青海",
+    "isAbnormal": true,
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2023-未标注-119",
@@ -601,7 +642,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2023年青海公务员考试《行测》第119题",
-    "province": "青海"
+    "province": "青海",
+    "isAbnormal": true,
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2023-未标注-120",
@@ -637,7 +681,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2023年青海公务员考试《行测》第120题",
-    "province": "青海"
+    "province": "青海",
+    "isAbnormal": true,
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2024-未标注-106",
@@ -672,7 +719,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年青海公务员考试《行测》第106题",
-    "province": "青海"
+    "province": "青海",
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2024-未标注-107",
@@ -705,7 +754,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年青海公务员考试《行测》第107题",
-    "province": "青海"
+    "province": "青海",
+    "isAbnormal": true,
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2024-未标注-108",
@@ -740,7 +792,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年青海公务员考试《行测》第108题",
-    "province": "青海"
+    "province": "青海",
+    "isAbnormal": true,
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2024-未标注-109",
@@ -773,7 +828,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年青海公务员考试《行测》第109题",
-    "province": "青海"
+    "province": "青海",
+    "isAbnormal": true,
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2024-未标注-110",
@@ -809,7 +867,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年青海公务员考试《行测》第110题",
-    "province": "青海"
+    "province": "青海",
+    "isAbnormal": true,
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2024-未标注-111",
@@ -844,7 +905,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年青海公务员考试《行测》第111题",
-    "province": "青海"
+    "province": "青海",
+    "isAbnormal": true,
+    "subModule": "图形材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2024-未标注-112",
@@ -879,7 +943,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年青海公务员考试《行测》第112题",
-    "province": "青海"
+    "province": "青海",
+    "isAbnormal": true,
+    "subModule": "图形材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2024-未标注-113",
@@ -914,7 +981,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年青海公务员考试《行测》第113题",
-    "province": "青海"
+    "province": "青海",
+    "isAbnormal": true,
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2024-未标注-114",
@@ -947,7 +1017,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年青海公务员考试《行测》第114题",
-    "province": "青海"
+    "province": "青海",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2024-未标注-115",
@@ -983,7 +1055,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年青海公务员考试《行测》第115题",
-    "province": "青海"
+    "province": "青海",
+    "isAbnormal": true,
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2024-未标注-116",
@@ -1018,7 +1093,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年青海公务员考试《行测》第116题",
-    "province": "青海"
+    "province": "青海",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2024-未标注-117",
@@ -1051,7 +1128,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年青海公务员考试《行测》第117题",
-    "province": "青海"
+    "province": "青海",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2024-未标注-118",
@@ -1086,7 +1165,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年青海公务员考试《行测》第118题",
-    "province": "青海"
+    "province": "青海",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2024-未标注-119",
@@ -1121,7 +1202,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年青海公务员考试《行测》第119题",
-    "province": "青海"
+    "province": "青海",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2024-未标注-120",
@@ -1157,7 +1240,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年青海公务员考试《行测》第120题",
-    "province": "青海"
+    "province": "青海",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2025-未标注-106",
@@ -1193,7 +1278,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年青海公务员考试《行测》第106题",
-    "province": "青海"
+    "province": "青海",
+    "isAbnormal": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2025-未标注-107",
@@ -1228,7 +1316,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年青海公务员考试《行测》第107题",
-    "province": "青海"
+    "province": "青海",
+    "isAbnormal": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2025-未标注-108",
@@ -1264,7 +1355,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年青海公务员考试《行测》第108题",
-    "province": "青海"
+    "province": "青海",
+    "isAbnormal": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2025-未标注-109",
@@ -1299,7 +1393,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年青海公务员考试《行测》第109题",
-    "province": "青海"
+    "province": "青海",
+    "isAbnormal": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2025-未标注-110",
@@ -1334,7 +1431,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年青海公务员考试《行测》第110题",
-    "province": "青海"
+    "province": "青海",
+    "isAbnormal": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2025-未标注-111",
@@ -1370,7 +1470,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年青海公务员考试《行测》第111题",
-    "province": "青海"
+    "province": "青海",
+    "isAbnormal": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2025-未标注-112",
@@ -1405,7 +1508,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年青海公务员考试《行测》第112题",
-    "province": "青海"
+    "province": "青海",
+    "isAbnormal": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2025-未标注-113",
@@ -1440,7 +1546,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年青海公务员考试《行测》第113题",
-    "province": "青海"
+    "province": "青海",
+    "isAbnormal": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2025-未标注-114",
@@ -1476,7 +1585,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年青海公务员考试《行测》第114题",
-    "province": "青海"
+    "province": "青海",
+    "isAbnormal": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2025-未标注-115",
@@ -1512,7 +1624,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年青海公务员考试《行测》第115题",
-    "province": "青海"
+    "province": "青海",
+    "isAbnormal": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2025-未标注-116",
@@ -1548,7 +1663,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年青海公务员考试《行测》第116题",
-    "province": "青海"
+    "province": "青海",
+    "isAbnormal": true,
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2025-未标注-117",
@@ -1583,7 +1701,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年青海公务员考试《行测》第117题",
-    "province": "青海"
+    "province": "青海",
+    "isAbnormal": true,
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2025-未标注-118",
@@ -1619,7 +1740,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年青海公务员考试《行测》第118题",
-    "province": "青海"
+    "province": "青海",
+    "isAbnormal": true,
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2025-未标注-119",
@@ -1655,7 +1779,9 @@
     "difficulty": "中等",
     "source": "2025年青海公务员考试《行测》第119题",
     "isImageQuestion": true,
-    "province": "青海"
+    "province": "青海",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2025-未标注-120",
@@ -1691,6 +1817,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年青海公务员考试《行测》第120题",
-    "province": "青海"
+    "province": "青海",
+    "isAbnormal": true,
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   }
 ]

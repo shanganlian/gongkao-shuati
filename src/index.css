@@ -1,5 +1,20 @@
 @import "tailwindcss";
 
+/**
+ * 暗色模式变体：ThemeToggle 把主题写在 <html data-theme="dark|light"> 上，
+ * 因此这里用属性选择器驱动 dark: 工具类（Tailwind v4 官方 @custom-variant 写法）。
+ * 浅色主题下 data-theme="light"，所有 dark: 类都不生效，视觉与改造前完全一致。
+ */
+@custom-variant dark (&:where([data-theme='dark'], [data-theme='dark'] *));
+
+@theme {
+  --color-brand-ink: #1B4332;
+  --color-brand-ink-soft: #245C43;
+  --color-brand-gold: #C9A227;
+  --color-brand-gold-soft: #E8C766;
+  --color-brand-line: #E5E7EB;
+}
+
 @layer base {
   body {
     background-color: #F3F4F6;
@@ -7,6 +22,42 @@
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
+  }
+
+  /* 深色底：盖住 body 滚动区、弹窗蒙层之外的空白，避免露白 */
+  [data-theme='dark'] {
+    color-scheme: dark;
+    background-color: #020617;
+  }
+
+  [data-theme='dark'] body {
+    background-color: #020617;
+    color: #E2E8F0;
+  }
+
+  /* 键盘可达性：全站统一焦点环，不依赖各组件是否写了 focus 类 */
+  :focus-visible {
+    outline: 2px solid #059669;
+    outline-offset: 2px;
+  }
+
+  [data-theme='dark'] :focus-visible {
+    outline-color: #34D399;
+  }
+
+  ::selection {
+    background-color: rgba(16, 185, 129, 0.25);
+  }
+
+  [data-theme='dark'] ::selection {
+    background-color: rgba(52, 211, 153, 0.35);
+  }
+
+  /* 深色下表单控件（select/checkbox/date）跟随系统深色渲染 */
+  [data-theme='dark'] input,
+  [data-theme='dark'] textarea,
+  [data-theme='dark'] select {
+    color-scheme: dark;
   }
 }
 
@@ -25,6 +76,18 @@
 ::-webkit-scrollbar-thumb:hover {
   background: rgba(100, 116, 139, 0.6);
 }
+
+/* 深色下滚动条：滑轨透明、滑块提亮，避免在深底上看不见 */
+[data-theme='dark'] {
+  scrollbar-color: rgba(148, 163, 184, 0.45) transparent;
+}
+[data-theme='dark'] ::-webkit-scrollbar-thumb {
+  background: rgba(148, 163, 184, 0.45);
+}
+[data-theme='dark'] ::-webkit-scrollbar-thumb:hover {
+  background: rgba(203, 213, 225, 0.65);
+}
+
 
 @keyframes pulseGlow {
   0%, 100% {

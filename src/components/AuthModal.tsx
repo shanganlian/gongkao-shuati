@@ -124,33 +124,34 @@ export const AuthModal: React.FC<AuthModalProps> = ({ open, onClose, reason = 'd
   };
 
   return (
-    <div className="fixed inset-0 z-50 flex items-center justify-center bg-black/50 p-4" onClick={onClose}>
-      <div className="bg-white rounded-2xl p-6 w-full max-w-sm shadow-2xl max-h-[90vh] overflow-y-auto" onClick={e => e.stopPropagation()}>
+    <div className="fixed inset-0 z-50 flex items-center justify-center bg-black/50 dark:bg-black/70 p-4" onClick={onClose}>
+      <div className="bg-white dark:bg-slate-900 rounded-2xl p-6 w-full max-w-sm shadow-2xl max-h-[90vh] overflow-y-auto" onClick={e => e.stopPropagation()}>
         <div className="flex items-center justify-between mb-3">
           <div>
-            <p className="text-[10px] font-bold tracking-wide text-emerald-600">必得题库</p>
-            <h3 className="text-lg font-bold text-slate-900">登录 / 注册</h3>
+            <p className="text-[10px] font-bold tracking-wide text-emerald-600 dark:text-emerald-400">必得题库</p>
+            <p className="text-[9px] text-slate-400 leading-tight mt-0.5">I go, I get · 踏上征程，势在必得</p>
+            <h3 className="text-lg font-bold text-slate-900 dark:text-slate-100">登录 / 注册</h3>
           </div>
-          <button onClick={onClose} className="text-slate-400 hover:text-slate-700 cursor-pointer" aria-label="关闭">
+          <button onClick={onClose} className="text-slate-400 hover:text-slate-700 dark:hover:text-slate-200 cursor-pointer" aria-label="关闭">
             <X className="w-5 h-5" />
           </button>
         </div>
 
-        <p className="text-xs text-slate-500 mb-3 leading-relaxed">
-          登录后每日 <strong className="text-emerald-700">50 题</strong>免费额度，错题与答题历史云端同步；游客每日 10 题。
+        <p className="text-xs text-slate-500 dark:text-slate-400 mb-3 leading-relaxed">
+          登录后每日 <strong className="text-emerald-700 dark:text-emerald-300">50 题</strong>免费额度，错题与答题历史云端同步；游客每日 10 题。
         </p>
 
         {REASON_TIPS[reason] && (
-          <div className="mb-3 p-2.5 rounded-lg bg-amber-50 border border-amber-200 text-[11px] leading-relaxed text-amber-900">
+          <div className="mb-3 p-2.5 rounded-lg bg-emerald-50 dark:bg-emerald-900/40 border border-emerald-200 dark:border-emerald-800 text-[11px] leading-relaxed text-emerald-900 dark:text-emerald-200">
             {REASON_TIPS[reason]}
           </div>
         )}
 
-        <div className="grid grid-cols-2 gap-1 p-1 bg-slate-100 rounded-xl mb-4">
+        <div className="grid grid-cols-2 gap-1 p-1 bg-slate-100 dark:bg-slate-800 rounded-xl mb-4">
           <button
             onClick={() => switchMode('otp')}
             className={`py-1.5 rounded-lg text-xs font-semibold transition-colors cursor-pointer ${
-              mode === 'otp' ? 'bg-white text-slate-900 shadow-xs' : 'text-slate-500'
+              mode === 'otp' ? 'bg-white dark:bg-slate-900 text-slate-900 dark:text-slate-100 shadow-xs' : 'text-slate-500 dark:text-slate-400'
             }`}
           >
             邮箱验证码
@@ -158,7 +159,7 @@ export const AuthModal: React.FC<AuthModalProps> = ({ open, onClose, reason = 'd
           <button
             onClick={() => switchMode('password')}
             className={`py-1.5 rounded-lg text-xs font-semibold transition-colors cursor-pointer ${
-              mode !== 'otp' ? 'bg-white text-slate-900 shadow-xs' : 'text-slate-500'
+              mode !== 'otp' ? 'bg-white dark:bg-slate-900 text-slate-900 dark:text-slate-100 shadow-xs' : 'text-slate-500 dark:text-slate-400'
             }`}
           >
             密码登录
@@ -168,7 +169,7 @@ export const AuthModal: React.FC<AuthModalProps> = ({ open, onClose, reason = 'd
         {mode === 'otp' ? (
           <div className="space-y-3">
             <div>
-              <label className="block text-xs font-medium text-slate-600 mb-1">邮箱</label>
+              <label className="block text-xs font-medium text-slate-600 dark:text-slate-300 mb-1">邮箱</label>
               <div className="relative">
                 <Mail className="w-4 h-4 text-slate-400 absolute left-3 top-2.5" />
                 <input
@@ -176,14 +177,14 @@ export const AuthModal: React.FC<AuthModalProps> = ({ open, onClose, reason = 'd
                   value={email}
                   onChange={e => setEmail(e.target.value)}
                   placeholder="you@example.com"
-                  className="w-full pl-9 pr-3 py-2 border border-slate-300 rounded-lg text-sm focus:outline-none focus:ring-2 focus:ring-emerald-500/30"
+                  className="w-full pl-9 pr-3 py-2 border border-slate-300 dark:border-slate-600 rounded-lg text-sm focus:outline-none focus:ring-2 focus:ring-emerald-500/30"
                 />
               </div>
             </div>
 
             {otpSent && (
               <div>
-                <label className="block text-xs font-medium text-slate-600 mb-1">6 位验证码</label>
+                <label className="block text-xs font-medium text-slate-600 dark:text-slate-300 mb-1">6 位验证码</label>
                 <div className="relative">
                   <KeyRound className="w-4 h-4 text-slate-400 absolute left-3 top-2.5" />
                   <input
@@ -192,14 +193,14 @@ export const AuthModal: React.FC<AuthModalProps> = ({ open, onClose, reason = 'd
                     value={token}
                     onChange={e => setToken(e.target.value.replace(/\D/g, ''))}
                     placeholder="123456"
-                    className="w-full pl-9 pr-3 py-2 border border-slate-300 rounded-lg text-sm tracking-widest font-mono focus:outline-none focus:ring-2 focus:ring-emerald-500/30"
+                    className="w-full pl-9 pr-3 py-2 border border-slate-300 dark:border-slate-600 rounded-lg text-sm tracking-widest font-mono focus:outline-none focus:ring-2 focus:ring-emerald-500/30"
                   />
                 </div>
               </div>
             )}
 
-            {notice && <p className="text-[11px] text-emerald-700 leading-relaxed">{notice}</p>}
-            {error && <p className="text-[11px] text-rose-600 leading-relaxed">{error}</p>}
+            {notice && <p className="text-[11px] text-emerald-700 dark:text-emerald-300 leading-relaxed">{notice}</p>}
+            {error && <p className="text-[11px] text-rose-600 dark:text-rose-400 leading-relaxed">{error}</p>}
 
             {!otpSent ? (
               <button
@@ -223,7 +224,7 @@ export const AuthModal: React.FC<AuthModalProps> = ({ open, onClose, reason = 'd
                 <button
                   onClick={handleSendOtp}
                   disabled={sending || cooldown > 0}
-                  className="w-full text-xs text-slate-500 hover:text-slate-800 disabled:text-slate-300 cursor-pointer"
+                  className="w-full text-xs text-slate-500 dark:text-slate-400 hover:text-slate-800 dark:hover:text-slate-200 disabled:text-slate-300 cursor-pointer"
                 >
                   {cooldown > 0 ? `重新发送（${cooldown}s）` : '没收到？重新发送'}
                 </button>
@@ -234,30 +235,30 @@ export const AuthModal: React.FC<AuthModalProps> = ({ open, onClose, reason = 'd
           <>
             <form onSubmit={handlePasswordSubmit} className="space-y-3">
               <div>
-                <label className="block text-xs font-medium text-slate-600 mb-1">邮箱</label>
+                <label className="block text-xs font-medium text-slate-600 dark:text-slate-300 mb-1">邮箱</label>
                 <input
                   type="email"
                   value={email}
                   onChange={e => setEmail(e.target.value)}
                   required
-                  className="w-full px-3 py-2 border border-slate-300 rounded-lg text-sm focus:outline-none focus:ring-2 focus:ring-emerald-500/30"
+                  className="w-full px-3 py-2 border border-slate-300 dark:border-slate-600 rounded-lg text-sm focus:outline-none focus:ring-2 focus:ring-emerald-500/30"
                   placeholder="you@example.com"
                 />
               </div>
               <div>
-                <label className="block text-xs font-medium text-slate-600 mb-1">密码（至少 6 位）</label>
+                <label className="block text-xs font-medium text-slate-600 dark:text-slate-300 mb-1">密码（至少 6 位）</label>
                 <input
                   type="password"
                   value={password}
                   onChange={e => setPassword(e.target.value)}
                   required
                   minLength={6}
-                  className="w-full px-3 py-2 border border-slate-300 rounded-lg text-sm focus:outline-none focus:ring-2 focus:ring-emerald-500/30"
+                  className="w-full px-3 py-2 border border-slate-300 dark:border-slate-600 rounded-lg text-sm focus:outline-none focus:ring-2 focus:ring-emerald-500/30"
                   placeholder="••••••"
                 />
               </div>
-              {notice && <p className="text-[11px] text-emerald-700 leading-relaxed">{notice}</p>}
-              {error && <p className="text-[11px] text-rose-600 leading-relaxed">{error}</p>}
+              {notice && <p className="text-[11px] text-emerald-700 dark:text-emerald-300 leading-relaxed">{notice}</p>}
+              {error && <p className="text-[11px] text-rose-600 dark:text-rose-400 leading-relaxed">{error}</p>}
               <button
                 type="submit"
                 disabled={loading}
@@ -267,16 +268,16 @@ export const AuthModal: React.FC<AuthModalProps> = ({ open, onClose, reason = 'd
               </button>
             </form>
 
-            <div className="mt-3 text-center text-xs text-slate-500">
+            <div className="mt-3 text-center text-xs text-slate-500 dark:text-slate-400">
               {mode === 'register' ? (
                 <span>
                   已有账号？
-                  <button onClick={() => switchMode('password')} className="text-emerald-600 font-medium cursor-pointer">去登录</button>
+                  <button onClick={() => switchMode('password')} className="text-emerald-600 dark:text-emerald-400 font-medium cursor-pointer">去登录</button>
                 </span>
               ) : (
                 <span>
                   没有密码？
-                  <button onClick={() => switchMode('register')} className="text-emerald-600 font-medium cursor-pointer">用邮箱注册</button>
+                  <button onClick={() => switchMode('register')} className="text-emerald-600 dark:text-emerald-400 font-medium cursor-pointer">用邮箱注册</button>
                 </span>
               )}
             </div>

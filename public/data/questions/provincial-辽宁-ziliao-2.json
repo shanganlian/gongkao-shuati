@@ -32,7 +32,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年辽宁公务员考试《行测》第116题",
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2025-未标注-117",
@@ -67,7 +69,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年辽宁公务员考试《行测》第117题",
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2025-未标注-118",
@@ -103,7 +107,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年辽宁公务员考试《行测》第118题",
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2025-未标注-119",
@@ -138,7 +144,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年辽宁公务员考试《行测》第119题",
-    "province": "辽宁"
+    "province": "辽宁",
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-liaoning-2025-未标注-120",
@@ -158,6 +166,9 @@
     "difficulty": "中等",
     "source": "2025年辽宁公务员考试《行测》第120题",
     "isImageQuestion": true,
-    "province": "辽宁"
+    "province": "辽宁",
+    "isAbnormal": true,
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   }
 ]

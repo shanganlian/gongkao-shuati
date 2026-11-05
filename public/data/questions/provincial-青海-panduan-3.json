@@ -33,7 +33,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年青海公务员考试《行测》第95题",
-    "province": "青海"
+    "province": "青海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2025-未标注-96",
@@ -69,7 +71,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年青海公务员考试《行测》第96题",
-    "province": "青海"
+    "province": "青海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2025-未标注-97",
@@ -105,7 +109,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年青海公务员考试《行测》第97题",
-    "province": "青海"
+    "province": "青海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2025-未标注-98",
@@ -140,7 +146,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年青海公务员考试《行测》第98题",
-    "province": "青海"
+    "province": "青海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2025-未标注-99",
@@ -176,7 +184,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年青海公务员考试《行测》第99题",
-    "province": "青海"
+    "province": "青海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2025-未标注-100",
@@ -212,7 +222,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年青海公务员考试《行测》第100题",
-    "province": "青海"
+    "province": "青海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-qinghai-2025-未标注-101",
@@ -247,7 +259,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年青海公务员考试《行测》第101题",
-    "province": "青海"
+    "province": "青海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-qinghai-2025-未标注-102",
@@ -283,7 +297,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年青海公务员考试《行测》第102题",
-    "province": "青海"
+    "province": "青海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-qinghai-2025-未标注-103",
@@ -319,7 +335,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年青海公务员考试《行测》第103题",
-    "province": "青海"
+    "province": "青海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-qinghai-2025-未标注-104",
@@ -351,7 +369,9 @@
     "difficulty": "中等",
     "source": "2025年青海公务员考试《行测》第104题",
     "isImageQuestion": true,
-    "province": "青海"
+    "province": "青海",
+    "subModule": "图形推理",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-qinghai-2025-未标注-105",
@@ -386,6 +406,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年青海公务员考试《行测》第105题",
-    "province": "青海"
+    "province": "青海",
+    "isAbnormal": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   }
 ]

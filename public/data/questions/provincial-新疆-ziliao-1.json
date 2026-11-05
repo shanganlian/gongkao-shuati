@@ -32,7 +32,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年新疆公务员考试《行测》第101题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2018-未标注-102",
@@ -68,7 +70,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年新疆公务员考试《行测》第102题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2018-未标注-103",
@@ -87,7 +91,10 @@
     "difficulty": "中等",
     "source": "2018年新疆公务员考试《行测》第103题",
     "isImageQuestion": true,
-    "province": "新疆"
+    "province": "新疆",
+    "isAbnormal": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2018-未标注-104",
@@ -123,7 +130,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年新疆公务员考试《行测》第104题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2018-未标注-105",
@@ -159,7 +168,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年新疆公务员考试《行测》第105题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2018-未标注-106",
@@ -176,7 +187,10 @@
     "difficulty": "中等",
     "source": "2018年新疆公务员考试《行测》第106题",
     "isImageQuestion": true,
-    "province": "新疆"
+    "province": "新疆",
+    "isAbnormal": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2018-未标注-107",
@@ -212,7 +226,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年新疆公务员考试《行测》第107题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2018-未标注-108",
@@ -248,7 +264,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年新疆公务员考试《行测》第108题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2018-未标注-109",
@@ -283,7 +301,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年新疆公务员考试《行测》第109题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2018-未标注-110",
@@ -318,7 +338,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年新疆公务员考试《行测》第110题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2019-420联考-106",
@@ -353,7 +375,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年新疆公务员考试《行测》（420联考）第106题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2019-420联考-107",
@@ -388,7 +412,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年新疆公务员考试《行测》（420联考）第107题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2019-420联考-108",
@@ -424,7 +450,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年新疆公务员考试《行测》（420联考）第108题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2019-420联考-109",
@@ -459,7 +487,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年新疆公务员考试《行测》（420联考）第109题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2019-420联考-110",
@@ -494,7 +524,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年新疆公务员考试《行测》（420联考）第110题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2019-420联考-111",
@@ -529,7 +561,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年新疆公务员考试《行测》（420联考）第111题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2019-420联考-112",
@@ -565,7 +599,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年新疆公务员考试《行测》（420联考）第112题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2019-420联考-113",
@@ -601,7 +637,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年新疆公务员考试《行测》（420联考）第113题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2019-420联考-114",
@@ -637,7 +675,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年新疆公务员考试《行测》（420联考）第114题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2019-420联考-115",
@@ -673,7 +713,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年新疆公务员考试《行测》（420联考）第115题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2019-420联考-116",
@@ -708,7 +750,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年新疆公务员考试《行测》（420联考）第116题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2019-420联考-117",
@@ -743,7 +787,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年新疆公务员考试《行测》（420联考）第117题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2019-420联考-118",
@@ -779,7 +825,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年新疆公务员考试《行测》（420联考）第118题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2019-420联考-119",
@@ -814,7 +862,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年新疆公务员考试《行测》（420联考）第119题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2019-420联考-120",
@@ -849,7 +899,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年新疆公务员考试《行测》（420联考）第120题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2019-未标注-96",
@@ -884,7 +936,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年新疆公务员考试《行测》第96题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2019-未标注-97",
@@ -919,7 +973,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年新疆公务员考试《行测》第97题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2019-未标注-98",
@@ -956,7 +1012,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年新疆公务员考试《行测》第98题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2019-未标注-99",
@@ -977,7 +1035,10 @@
     "difficulty": "中等",
     "source": "2019年新疆公务员考试《行测》第99题",
     "isImageQuestion": true,
-    "province": "新疆"
+    "province": "新疆",
+    "isAbnormal": true,
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2019-未标注-100",
@@ -1014,7 +1075,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年新疆公务员考试《行测》第100题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2019-未标注-101",
@@ -1050,7 +1113,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年新疆公务员考试《行测》第101题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2019-未标注-102",
@@ -1085,7 +1150,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年新疆公务员考试《行测》第102题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2019-未标注-103",
@@ -1120,7 +1187,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年新疆公务员考试《行测》第103题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2019-未标注-104",
@@ -1155,7 +1224,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年新疆公务员考试《行测》第104题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2019-未标注-105",
@@ -1191,7 +1262,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年新疆公务员考试《行测》第105题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2019-未标注-106",
@@ -1227,7 +1300,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年新疆公务员考试《行测》第106题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2019-未标注-107",
@@ -1263,7 +1338,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年新疆公务员考试《行测》第107题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2019-未标注-108",
@@ -1283,7 +1360,9 @@
     "difficulty": "中等",
     "source": "2019年新疆公务员考试《行测》第108题",
     "isImageQuestion": true,
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2019-未标注-109",
@@ -1319,7 +1398,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年新疆公务员考试《行测》第109题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2019-未标注-110",
@@ -1354,7 +1435,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年新疆公务员考试《行测》第110题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2019-未标注-111",
@@ -1391,7 +1474,9 @@
     "difficulty": "中等",
     "source": "2019年新疆公务员考试《行测》第111题",
     "isImageQuestion": true,
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2019-未标注-112",
@@ -1429,7 +1514,9 @@
     "difficulty": "中等",
     "source": "2019年新疆公务员考试《行测》第112题",
     "isImageQuestion": true,
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2019-未标注-113",
@@ -1466,7 +1553,9 @@
     "difficulty": "中等",
     "source": "2019年新疆公务员考试《行测》第113题",
     "isImageQuestion": true,
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2019-未标注-114",
@@ -1485,7 +1574,9 @@
     "difficulty": "中等",
     "source": "2019年新疆公务员考试《行测》第114题",
     "isImageQuestion": true,
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2019-未标注-115",
@@ -1522,7 +1613,9 @@
     "difficulty": "中等",
     "source": "2019年新疆公务员考试《行测》第115题",
     "isImageQuestion": true,
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2020-未标注-106",
@@ -1558,7 +1651,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年新疆公务员考试《行测》第106题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2020-未标注-107",
@@ -1594,7 +1689,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年新疆公务员考试《行测》第107题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2020-未标注-108",
@@ -1630,7 +1727,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年新疆公务员考试《行测》第108题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2020-未标注-109",
@@ -1667,7 +1766,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年新疆公务员考试《行测》第109题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2020-未标注-110",
@@ -1703,7 +1804,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年新疆公务员考试《行测》第110题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2020-未标注-111",
@@ -1739,7 +1842,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年新疆公务员考试《行测》第111题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2020-未标注-112",
@@ -1774,7 +1879,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年新疆公务员考试《行测》第112题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2020-未标注-113",
@@ -1809,7 +1916,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年新疆公务员考试《行测》第113题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2020-未标注-114",
@@ -1846,7 +1955,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年新疆公务员考试《行测》第114题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "图形材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2020-未标注-115",
@@ -1881,7 +1992,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年新疆公务员考试《行测》第115题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2020-未标注-116",
@@ -1916,7 +2029,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年新疆公务员考试《行测》第116题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2020-未标注-117",
@@ -1951,7 +2066,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年新疆公务员考试《行测》第117题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2020-未标注-118",
@@ -1987,7 +2104,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年新疆公务员考试《行测》第118题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2020-未标注-119",
@@ -2022,7 +2141,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年新疆公务员考试《行测》第119题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2020-未标注-120",
@@ -2058,7 +2179,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年新疆公务员考试《行测》第120题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2021-未标注-96",
@@ -2095,7 +2218,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年新疆公务员考试《行测》第96题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2021-未标注-97",
@@ -2131,7 +2256,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年新疆公务员考试《行测》第97题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2021-未标注-98",
@@ -2167,7 +2294,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年新疆公务员考试《行测》第98题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2021-未标注-99",
@@ -2188,7 +2317,10 @@
     "difficulty": "中等",
     "source": "2021年新疆公务员考试《行测》第99题",
     "isImageQuestion": true,
-    "province": "新疆"
+    "province": "新疆",
+    "isAbnormal": true,
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2021-未标注-100",
@@ -2225,7 +2357,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年新疆公务员考试《行测》第100题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2021-未标注-101",
@@ -2261,7 +2395,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年新疆公务员考试《行测》第101题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2021-未标注-102",
@@ -2297,7 +2433,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年新疆公务员考试《行测》第102题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2021-未标注-103",
@@ -2332,7 +2470,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年新疆公务员考试《行测》第103题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2021-未标注-104",
@@ -2369,7 +2509,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年新疆公务员考试《行测》第104题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2021-未标注-105",
@@ -2406,7 +2548,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年新疆公务员考试《行测》第105题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2021-未标注-106",
@@ -2442,7 +2586,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年新疆公务员考试《行测》第106题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2021-未标注-107",
@@ -2477,7 +2623,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年新疆公务员考试《行测》第107题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2021-未标注-108",
@@ -2513,7 +2661,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年新疆公务员考试《行测》第108题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2021-未标注-109",
@@ -2548,7 +2698,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年新疆公务员考试《行测》第109题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2021-未标注-110",
@@ -2584,7 +2736,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年新疆公务员考试《行测》第110题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2021-未标注-111",
@@ -2620,7 +2774,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年新疆公务员考试《行测》第111题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "图形材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2021-未标注-112",
@@ -2657,7 +2813,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年新疆公务员考试《行测》第112题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "图形材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2021-未标注-113",
@@ -2693,7 +2851,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年新疆公务员考试《行测》第113题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2021-未标注-114",
@@ -2730,7 +2890,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年新疆公务员考试《行测》第114题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "图形材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2021-未标注-115",
@@ -2767,7 +2929,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年新疆公务员考试《行测》第115题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2021-未标注-96-2",
@@ -2803,7 +2967,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年新疆公务员考试《行测》第96题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2021-未标注-97-2",
@@ -2839,7 +3005,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年新疆公务员考试《行测》第97题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2021-未标注-98-2",
@@ -2875,7 +3043,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年新疆公务员考试《行测》第98题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2021-未标注-99-2",
@@ -2911,7 +3081,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年新疆公务员考试《行测》第99题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2021-未标注-100-2",
@@ -2948,7 +3120,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年新疆公务员考试《行测》第100题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2021-未标注-101-2",
@@ -2983,7 +3157,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年新疆公务员考试《行测》第101题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2021-未标注-102-2",
@@ -3019,7 +3195,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年新疆公务员考试《行测》第102题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2021-未标注-103-2",
@@ -3055,7 +3233,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年新疆公务员考试《行测》第103题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2021-未标注-104-2",
@@ -3090,7 +3270,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年新疆公务员考试《行测》第104题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2021-未标注-105-2",
@@ -3126,7 +3308,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年新疆公务员考试《行测》第105题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2021-未标注-106-2",
@@ -3161,7 +3345,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年新疆公务员考试《行测》第106题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2021-未标注-107-2",
@@ -3198,7 +3384,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年新疆公务员考试《行测》第107题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2021-未标注-108-2",
@@ -3234,7 +3422,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年新疆公务员考试《行测》第108题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2021-未标注-109-2",
@@ -3270,7 +3460,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年新疆公务员考试《行测》第109题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2021-未标注-110-2",
@@ -3306,7 +3498,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年新疆公务员考试《行测》第110题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2021-未标注-111-2",
@@ -3341,7 +3535,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年新疆公务员考试《行测》第111题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2021-未标注-112-2",
@@ -3377,7 +3573,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年新疆公务员考试《行测》第112题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2021-未标注-113-2",
@@ -3414,7 +3612,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年新疆公务员考试《行测》第113题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2021-未标注-114-2",
@@ -3449,7 +3649,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年新疆公务员考试《行测》第114题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2021-未标注-115-2",
@@ -3486,7 +3688,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年新疆公务员考试《行测》第115题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2022-未标注-106",
@@ -3522,7 +3726,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2022年新疆公务员考试《行测》第106题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2022-未标注-107",
@@ -3557,7 +3763,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2022年新疆公务员考试《行测》第107题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2022-未标注-108",
@@ -3592,7 +3800,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2022年新疆公务员考试《行测》第108题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2022-未标注-109",
@@ -3628,7 +3838,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2022年新疆公务员考试《行测》第109题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2022-未标注-110",
@@ -3663,7 +3875,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2022年新疆公务员考试《行测》第110题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2022-未标注-111",
@@ -3699,7 +3913,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2022年新疆公务员考试《行测》第111题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2022-未标注-112",
@@ -3734,7 +3950,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2022年新疆公务员考试《行测》第112题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2022-未标注-113",
@@ -3770,7 +3988,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2022年新疆公务员考试《行测》第113题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2022-未标注-114",
@@ -3801,7 +4021,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2022年新疆公务员考试《行测》第114题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2022-未标注-115",
@@ -3836,7 +4058,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2022年新疆公务员考试《行测》第115题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2023-未标注-84",
@@ -3872,7 +4096,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2023年新疆公务员考试《行测》第84题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2023-未标注-85",
@@ -3908,7 +4134,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2023年新疆公务员考试《行测》第85题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2023-未标注-86",
@@ -3944,7 +4172,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2023年新疆公务员考试《行测》第86题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2023-未标注-87",
@@ -3980,7 +4210,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2023年新疆公务员考试《行测》第87题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2023-未标注-88",
@@ -4016,7 +4248,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2023年新疆公务员考试《行测》第88题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2023-未标注-89",
@@ -4052,7 +4286,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2023年新疆公务员考试《行测》第89题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2023-未标注-90",
@@ -4088,7 +4324,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2023年新疆公务员考试《行测》第90题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2023-未标注-91",
@@ -4125,7 +4363,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2023年新疆公务员考试《行测》第91题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2023-未标注-92",
@@ -4161,7 +4401,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2023年新疆公务员考试《行测》第92题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2023-未标注-93",
@@ -4198,7 +4440,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2023年新疆公务员考试《行测》第93题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2023-未标注-94",
@@ -4235,7 +4479,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2023年新疆公务员考试《行测》第94题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2023-未标注-95",
@@ -4271,7 +4517,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2023年新疆公务员考试《行测》第95题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2023-未标注-96",
@@ -4308,7 +4556,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2023年新疆公务员考试《行测》第96题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2023-未标注-97",
@@ -4329,7 +4579,9 @@
     "difficulty": "中等",
     "source": "2023年新疆公务员考试《行测》第97题",
     "isImageQuestion": true,
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2023-未标注-98",
@@ -4366,7 +4618,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2023年新疆公务员考试《行测》第98题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2023-未标注-99",
@@ -4403,7 +4657,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2023年新疆公务员考试《行测》第99题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2023-未标注-100",
@@ -4440,7 +4696,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2023年新疆公务员考试《行测》第100题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2023-未标注-101",
@@ -4476,7 +4734,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2023年新疆公务员考试《行测》第101题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2023-未标注-102",
@@ -4512,7 +4772,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2023年新疆公务员考试《行测》第102题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2023-未标注-103",
@@ -4548,7 +4810,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2023年新疆公务员考试《行测》第103题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2023-未标注-104",
@@ -4584,7 +4848,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2023年新疆公务员考试《行测》第104题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2023-未标注-105",
@@ -4620,7 +4886,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2023年新疆公务员考试《行测》第105题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2023-未标注-106",
@@ -4656,7 +4924,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2023年新疆公务员考试《行测》第106题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2023-未标注-101-2",
@@ -4692,7 +4962,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2023年新疆公务员考试《行测》第101题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2023-未标注-102-2",
@@ -4728,7 +5000,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2023年新疆公务员考试《行测》第102题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2023-未标注-103-2",
@@ -4764,7 +5038,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2023年新疆公务员考试《行测》第103题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2023-未标注-104-2",
@@ -4800,7 +5076,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2023年新疆公务员考试《行测》第104题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2023-未标注-105-2",
@@ -4836,7 +5114,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2023年新疆公务员考试《行测》第105题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2023-未标注-106-2",
@@ -4872,7 +5152,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2023年新疆公务员考试《行测》第106题",
-    "province": "新疆"
+    "province": "新疆",
+    "isAbnormal": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-xinjiang-2023-未标注-107-2",
@@ -4907,7 +5190,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2023年新疆公务员考试《行测》第107题",
-    "province": "新疆"
+    "province": "新疆",
+    "isAbnormal": true,
+    "subModule": "综合材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-xinjiang-2023-未标注-108-2",
@@ -4942,7 +5228,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2023年新疆公务员考试《行测》第108题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2023-未标注-109-2",
@@ -4977,7 +5265,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2023年新疆公务员考试《行测》第109题",
-    "province": "新疆"
+    "province": "新疆",
+    "isAbnormal": true,
+    "subModule": "综合材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-xinjiang-2023-未标注-110-2",
@@ -5012,7 +5303,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2023年新疆公务员考试《行测》第110题",
-    "province": "新疆"
+    "province": "新疆",
+    "isAbnormal": true,
+    "subModule": "综合材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-xinjiang-2023-未标注-111-2",
@@ -5047,7 +5341,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2023年新疆公务员考试《行测》第111题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2023-未标注-112-2",
@@ -5082,7 +5378,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2023年新疆公务员考试《行测》第112题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2023-未标注-113-2",
@@ -5117,7 +5415,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2023年新疆公务员考试《行测》第113题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2023-未标注-114-2",
@@ -5152,7 +5452,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2023年新疆公务员考试《行测》第114题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2023-未标注-115-2",
@@ -5189,7 +5491,9 @@
     "difficulty": "中等",
     "source": "2023年新疆公务员考试《行测》第115题",
     "isImageQuestion": true,
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2024-未标注-101",
@@ -5224,7 +5528,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年新疆公务员考试《行测》第101题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2024-未标注-102",
@@ -5259,7 +5565,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年新疆公务员考试《行测》第102题",
-    "province": "新疆"
+    "province": "新疆",
+    "isAbnormal": true,
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2024-未标注-103",
@@ -5294,7 +5603,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年新疆公务员考试《行测》第103题",
-    "province": "新疆"
+    "province": "新疆",
+    "isAbnormal": true,
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2024-未标注-104",
@@ -5330,7 +5642,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年新疆公务员考试《行测》第104题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2024-未标注-105",
@@ -5366,7 +5680,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年新疆公务员考试《行测》第105题",
-    "province": "新疆"
+    "province": "新疆",
+    "isAbnormal": true,
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2024-未标注-106",
@@ -5402,7 +5719,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年新疆公务员考试《行测》第106题",
-    "province": "新疆"
+    "province": "新疆",
+    "isAbnormal": true,
+    "subModule": "图形材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2024-未标注-107",
@@ -5435,7 +5755,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年新疆公务员考试《行测》第107题",
-    "province": "新疆"
+    "province": "新疆",
+    "isAbnormal": true,
+    "subModule": "图形材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2024-未标注-108",
@@ -5470,7 +5793,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年新疆公务员考试《行测》第108题",
-    "province": "新疆"
+    "province": "新疆",
+    "isAbnormal": true,
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2024-未标注-109",
@@ -5503,7 +5829,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年新疆公务员考试《行测》第109题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2024-未标注-110",
@@ -5539,7 +5867,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年新疆公务员考试《行测》第110题",
-    "province": "新疆"
+    "province": "新疆",
+    "isAbnormal": true,
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2024-未标注-111",
@@ -5575,7 +5906,9 @@
     "difficulty": "中等",
     "source": "2024年新疆公务员考试《行测》第111题",
     "isImageQuestion": true,
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2024-未标注-112",
@@ -5608,7 +5941,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年新疆公务员考试《行测》第112题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2024-未标注-113",
@@ -5625,7 +5960,10 @@
     "difficulty": "中等",
     "source": "2024年新疆公务员考试《行测》第113题",
     "isImageQuestion": true,
-    "province": "新疆"
+    "province": "新疆",
+    "isAbnormal": true,
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2024-未标注-114",
@@ -5660,7 +5998,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年新疆公务员考试《行测》第114题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2024-未标注-115",
@@ -5696,7 +6036,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年新疆公务员考试《行测》第115题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2024-未标注-96-2",
@@ -5729,7 +6071,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年新疆公务员考试《行测》第96题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2024-未标注-97-2",
@@ -5762,7 +6106,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年新疆公务员考试《行测》第97题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2024-未标注-98-2",
@@ -5795,7 +6141,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年新疆公务员考试《行测》第98题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2024-未标注-99-2",
@@ -5828,7 +6176,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年新疆公务员考试《行测》第99题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2024-未标注-100-2",
@@ -5861,7 +6211,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年新疆公务员考试《行测》第100题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2024-未标注-101-2",
@@ -5896,7 +6248,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年新疆公务员考试《行测》第101题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2024-未标注-102-2",
@@ -5929,7 +6283,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年新疆公务员考试《行测》第102题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2024-未标注-103-2",
@@ -5964,7 +6320,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年新疆公务员考试《行测》第103题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2024-未标注-104-2",
@@ -5999,7 +6357,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年新疆公务员考试《行测》第104题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2024-未标注-105-2",
@@ -6035,7 +6395,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年新疆公务员考试《行测》第105题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2024-未标注-106-2",
@@ -6068,7 +6430,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年新疆公务员考试《行测》第106题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2024-未标注-107-2",
@@ -6101,7 +6465,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年新疆公务员考试《行测》第107题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2024-未标注-108-2",
@@ -6136,7 +6502,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年新疆公务员考试《行测》第108题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2024-未标注-109-2",
@@ -6169,7 +6537,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年新疆公务员考试《行测》第109题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2024-未标注-110-2",
@@ -6188,7 +6558,10 @@
     "difficulty": "中等",
     "source": "2024年新疆公务员考试《行测》第110题",
     "isImageQuestion": true,
-    "province": "新疆"
+    "province": "新疆",
+    "isAbnormal": true,
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2024-未标注-111-2",
@@ -6223,7 +6596,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年新疆公务员考试《行测》第111题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2024-未标注-112-2",
@@ -6258,7 +6633,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年新疆公务员考试《行测》第112题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2024-未标注-113-2",
@@ -6293,7 +6670,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年新疆公务员考试《行测》第113题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2024-未标注-114-2",
@@ -6328,7 +6707,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年新疆公务员考试《行测》第114题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2024-未标注-115-2",
@@ -6365,7 +6746,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年新疆公务员考试《行测》第115题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2025-未标注-96",
@@ -6400,7 +6783,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年新疆公务员考试《行测》第96题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2025-未标注-97",
@@ -6435,7 +6820,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年新疆公务员考试《行测》第97题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2025-未标注-98",
@@ -6471,7 +6858,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年新疆公务员考试《行测》第98题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2025-未标注-99",
@@ -6506,7 +6895,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年新疆公务员考试《行测》第99题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2025-未标注-100",
@@ -6541,7 +6932,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年新疆公务员考试《行测》第100题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2025-未标注-101",
@@ -6576,7 +6969,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年新疆公务员考试《行测》第101题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2025-未标注-102",
@@ -6611,7 +7006,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年新疆公务员考试《行测》第102题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2025-未标注-103",
@@ -6646,7 +7043,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年新疆公务员考试《行测》第103题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2025-未标注-104",
@@ -6682,7 +7081,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年新疆公务员考试《行测》第104题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2025-未标注-105",
@@ -6717,7 +7118,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年新疆公务员考试《行测》第105题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2025-未标注-106",
@@ -6753,7 +7156,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年新疆公务员考试《行测》第106题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2025-未标注-107",
@@ -6789,7 +7194,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年新疆公务员考试《行测》第107题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2025-未标注-108",
@@ -6825,7 +7232,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年新疆公务员考试《行测》第108题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2025-未标注-109",
@@ -6860,7 +7269,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年新疆公务员考试《行测》第109题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2025-未标注-110",
@@ -6895,7 +7306,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年新疆公务员考试《行测》第110题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2025-未标注-111",
@@ -6931,7 +7344,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年新疆公务员考试《行测》第111题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2025-未标注-112",
@@ -6966,6 +7381,8 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年新疆公务员考试《行测》第112题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   }
 ]

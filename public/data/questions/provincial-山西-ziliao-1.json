@@ -32,7 +32,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年山西公务员考试《行测》第104题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2014-未标注-105",
@@ -68,7 +70,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年山西公务员考试《行测》第105题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2014-未标注-106",
@@ -103,7 +107,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年山西公务员考试《行测》第106题",
-    "province": "山西"
+    "province": "山西",
+    "isAbnormal": true,
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2014-未标注-107",
@@ -139,7 +146,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年山西公务员考试《行测》第107题",
-    "province": "山西"
+    "province": "山西",
+    "isAbnormal": true,
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2014-未标注-108",
@@ -176,7 +186,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年山西公务员考试《行测》第108题",
-    "province": "山西"
+    "province": "山西",
+    "isAbnormal": true,
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2014-未标注-109",
@@ -211,7 +224,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年山西公务员考试《行测》第109题",
-    "province": "山西"
+    "province": "山西",
+    "isAbnormal": true,
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2014-未标注-110",
@@ -247,7 +263,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年山西公务员考试《行测》第110题",
-    "province": "山西"
+    "province": "山西",
+    "isAbnormal": true,
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2014-未标注-111",
@@ -282,7 +301,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年山西公务员考试《行测》第111题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2014-未标注-112",
@@ -317,7 +338,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年山西公务员考试《行测》第112题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2014-未标注-113",
@@ -352,7 +375,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年山西公务员考试《行测》第113题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2014-未标注-114",
@@ -389,7 +414,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年山西公务员考试《行测》第114题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2014-未标注-115",
@@ -426,7 +453,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年山西公务员考试《行测》第115题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2014-未标注-116",
@@ -462,7 +491,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年山西公务员考试《行测》第116题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2014-未标注-117",
@@ -498,7 +529,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年山西公务员考试《行测》第117题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2014-未标注-118",
@@ -533,7 +566,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年山西公务员考试《行测》第118题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2014-未标注-119",
@@ -569,7 +604,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年山西公务员考试《行测》第119题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2014-未标注-120",
@@ -606,7 +643,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年山西公务员考试《行测》第120题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2015-未标注-101",
@@ -641,7 +680,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年山西公务员考试《行测》第101题",
-    "province": "山西"
+    "province": "山西",
+    "isAbnormal": true,
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2015-未标注-102",
@@ -677,7 +719,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年山西公务员考试《行测》第102题",
-    "province": "山西"
+    "province": "山西",
+    "isAbnormal": true,
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2015-未标注-103",
@@ -712,7 +757,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年山西公务员考试《行测》第103题",
-    "province": "山西"
+    "province": "山西",
+    "isAbnormal": true,
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2015-未标注-104",
@@ -749,7 +797,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年山西公务员考试《行测》第104题",
-    "province": "山西"
+    "province": "山西",
+    "isAbnormal": true,
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2015-未标注-105",
@@ -784,7 +835,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年山西公务员考试《行测》第105题",
-    "province": "山西"
+    "province": "山西",
+    "isAbnormal": true,
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2015-未标注-106",
@@ -821,7 +875,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年山西公务员考试《行测》第106题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2015-未标注-107",
@@ -858,7 +914,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年山西公务员考试《行测》第107题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2015-未标注-108",
@@ -895,7 +953,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年山西公务员考试《行测》第108题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2015-未标注-109",
@@ -916,7 +976,10 @@
     "difficulty": "中等",
     "source": "2015年山西公务员考试《行测》第109题",
     "isImageQuestion": true,
-    "province": "山西"
+    "province": "山西",
+    "isAbnormal": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2015-未标注-110",
@@ -949,7 +1012,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年山西公务员考试《行测》第110题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2015-未标注-111",
@@ -985,7 +1050,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年山西公务员考试《行测》第111题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2015-未标注-112",
@@ -1021,7 +1088,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年山西公务员考试《行测》第112题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2015-未标注-113",
@@ -1058,7 +1127,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年山西公务员考试《行测》第113题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2015-未标注-114",
@@ -1094,7 +1165,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年山西公务员考试《行测》第114题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2015-未标注-115",
@@ -1131,7 +1204,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年山西公务员考试《行测》第115题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2015-未标注-116",
@@ -1167,7 +1242,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年山西公务员考试《行测》第116题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2015-未标注-117",
@@ -1203,7 +1280,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年山西公务员考试《行测》第117题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2015-未标注-118",
@@ -1238,7 +1317,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年山西公务员考试《行测》第118题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2015-未标注-119",
@@ -1275,7 +1356,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年山西公务员考试《行测》第119题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2015-未标注-120",
@@ -1312,7 +1395,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年山西公务员考试《行测》第120题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2016-423联考-101",
@@ -1347,7 +1432,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年山西公务员考试《行测》（423联考）第101题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2016-423联考-102",
@@ -1379,7 +1466,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年山西公务员考试《行测》（423联考）第102题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2016-423联考-103",
@@ -1415,7 +1504,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年山西公务员考试《行测》（423联考）第103题",
-    "province": "山西"
+    "province": "山西",
+    "isAbnormal": true,
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2016-423联考-104",
@@ -1449,7 +1541,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年山西公务员考试《行测》（423联考）第104题",
-    "province": "山西"
+    "province": "山西",
+    "isAbnormal": true,
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2016-423联考-105",
@@ -1484,7 +1579,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年山西公务员考试《行测》（423联考）第105题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2016-423联考-106",
@@ -1519,7 +1616,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年山西公务员考试《行测》（423联考）第106题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2016-423联考-107",
@@ -1554,7 +1653,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年山西公务员考试《行测》（423联考）第107题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2016-423联考-108",
@@ -1590,7 +1691,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年山西公务员考试《行测》（423联考）第108题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2016-423联考-109",
@@ -1626,7 +1729,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年山西公务员考试《行测》（423联考）第109题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2016-423联考-110",
@@ -1662,7 +1767,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年山西公务员考试《行测》（423联考）第110题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2016-423联考-111",
@@ -1699,7 +1806,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年山西公务员考试《行测》（423联考）第111题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2016-423联考-112",
@@ -1735,7 +1844,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年山西公务员考试《行测》（423联考）第112题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2016-423联考-113",
@@ -1770,7 +1881,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年山西公务员考试《行测》（423联考）第113题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2016-423联考-114",
@@ -1806,7 +1919,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年山西公务员考试《行测》（423联考）第114题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2016-423联考-115",
@@ -1842,7 +1957,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年山西公务员考试《行测》（423联考）第115题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2016-423联考-116",
@@ -1877,7 +1994,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年山西公务员考试《行测》（423联考）第116题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2016-423联考-117",
@@ -1913,7 +2032,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年山西公务员考试《行测》（423联考）第117题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2016-423联考-118",
@@ -1948,7 +2069,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年山西公务员考试《行测》（423联考）第118题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2016-423联考-119",
@@ -1983,7 +2106,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年山西公务员考试《行测》（423联考）第119题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "综合材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanxi-2016-423联考-120",
@@ -2018,7 +2143,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年山西公务员考试《行测》（423联考）第120题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2017-422联考-106",
@@ -2054,7 +2181,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年山西公务员考试《行测》（422联考）第106题",
-    "province": "山西"
+    "province": "山西",
+    "isAbnormal": true,
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2017-422联考-107",
@@ -2090,7 +2220,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年山西公务员考试《行测》（422联考）第107题",
-    "province": "山西"
+    "province": "山西",
+    "isAbnormal": true,
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2017-422联考-108",
@@ -2127,7 +2260,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年山西公务员考试《行测》（422联考）第108题",
-    "province": "山西"
+    "province": "山西",
+    "isAbnormal": true,
+    "subModule": "综合材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanxi-2017-422联考-109",
@@ -2162,7 +2298,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年山西公务员考试《行测》（422联考）第109题",
-    "province": "山西"
+    "province": "山西",
+    "isAbnormal": true,
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2017-422联考-110",
@@ -2199,7 +2338,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年山西公务员考试《行测》（422联考）第110题",
-    "province": "山西"
+    "province": "山西",
+    "isAbnormal": true,
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2017-422联考-111",
@@ -2234,7 +2376,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年山西公务员考试《行测》（422联考）第111题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2017-422联考-112",
@@ -2267,7 +2411,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年山西公务员考试《行测》（422联考）第112题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2017-422联考-113",
@@ -2302,7 +2448,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年山西公务员考试《行测》（422联考）第113题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2017-422联考-114",
@@ -2335,7 +2483,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年山西公务员考试《行测》（422联考）第114题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2017-422联考-115",
@@ -2370,7 +2520,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年山西公务员考试《行测》（422联考）第115题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2017-422联考-116",
@@ -2406,7 +2558,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年山西公务员考试《行测》（422联考）第116题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2017-422联考-117",
@@ -2439,7 +2593,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年山西公务员考试《行测》（422联考）第117题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2017-422联考-118",
@@ -2458,7 +2614,10 @@
     "difficulty": "中等",
     "source": "2017年山西公务员考试《行测》（422联考）第118题",
     "isImageQuestion": true,
-    "province": "山西"
+    "province": "山西",
+    "isAbnormal": true,
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2017-422联考-119",
@@ -2491,7 +2650,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年山西公务员考试《行测》（422联考）第119题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2017-422联考-120",
@@ -2527,7 +2688,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年山西公务员考试《行测》（422联考）第120题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2018-421联考-106",
@@ -2560,7 +2723,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年山西公务员考试《行测》（421联考）第106题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2018-421联考-107",
@@ -2595,7 +2760,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年山西公务员考试《行测》（421联考）第107题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2018-421联考-108",
@@ -2630,7 +2797,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年山西公务员考试《行测》（421联考）第108题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2018-421联考-109",
@@ -2663,7 +2832,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年山西公务员考试《行测》（421联考）第109题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2018-421联考-110",
@@ -2696,7 +2867,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年山西公务员考试《行测》（421联考）第110题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2018-421联考-111",
@@ -2731,7 +2904,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年山西公务员考试《行测》（421联考）第111题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2018-421联考-112",
@@ -2767,7 +2942,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年山西公务员考试《行测》（421联考）第112题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2018-421联考-113",
@@ -2802,7 +2979,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年山西公务员考试《行测》（421联考）第113题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2018-421联考-114",
@@ -2838,7 +3017,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年山西公务员考试《行测》（421联考）第114题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2018-421联考-115",
@@ -2871,7 +3052,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年山西公务员考试《行测》（421联考）第115题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2018-421联考-116",
@@ -2906,7 +3089,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年山西公务员考试《行测》（421联考）第116题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2018-421联考-117",
@@ -2941,7 +3126,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年山西公务员考试《行测》（421联考）第117题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2018-421联考-118",
@@ -2978,7 +3165,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年山西公务员考试《行测》（421联考）第118题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2018-421联考-119",
@@ -3013,7 +3202,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年山西公务员考试《行测》（421联考）第119题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2018-421联考-120",
@@ -3048,7 +3239,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年山西公务员考试《行测》（421联考）第120题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2019-420联考-106",
@@ -3084,7 +3277,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年山西公务员考试《行测》（420联考）第106题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2019-420联考-107",
@@ -3119,7 +3314,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年山西公务员考试《行测》（420联考）第107题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2019-420联考-108",
@@ -3154,7 +3351,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年山西公务员考试《行测》（420联考）第108题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2019-420联考-109",
@@ -3190,7 +3389,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年山西公务员考试《行测》（420联考）第109题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2019-420联考-110",
@@ -3225,7 +3426,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年山西公务员考试《行测》（420联考）第110题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2019-420联考-111",
@@ -3260,7 +3463,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年山西公务员考试《行测》（420联考）第111题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2019-420联考-112",
@@ -3296,7 +3501,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年山西公务员考试《行测》（420联考）第112题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2019-420联考-113",
@@ -3331,7 +3538,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年山西公务员考试《行测》（420联考）第113题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2019-420联考-114",
@@ -3366,7 +3575,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年山西公务员考试《行测》（420联考）第114题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2019-420联考-115",
@@ -3399,7 +3610,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年山西公务员考试《行测》（420联考）第115题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2019-420联考-116",
@@ -3432,7 +3645,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年山西公务员考试《行测》（420联考）第116题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2019-420联考-117",
@@ -3468,7 +3683,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年山西公务员考试《行测》（420联考）第117题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2019-420联考-118",
@@ -3504,7 +3721,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年山西公务员考试《行测》（420联考）第118题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2019-420联考-119",
@@ -3539,7 +3758,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年山西公务员考试《行测》（420联考）第119题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2019-420联考-120",
@@ -3574,7 +3795,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年山西公务员考试《行测》（420联考）第120题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2020-未标注-86",
@@ -3611,7 +3834,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年山西公务员考试《行测》第86题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2020-未标注-87",
@@ -3646,7 +3871,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年山西公务员考试《行测》第87题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2020-未标注-88",
@@ -3681,7 +3908,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年山西公务员考试《行测》第88题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2020-未标注-89",
@@ -3716,7 +3945,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年山西公务员考试《行测》第89题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2020-未标注-90",
@@ -3753,7 +3984,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年山西公务员考试《行测》第90题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "图形材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2020-未标注-91",
@@ -3788,7 +4021,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年山西公务员考试《行测》第91题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2020-未标注-92",
@@ -3823,7 +4058,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年山西公务员考试《行测》第92题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2020-未标注-93",
@@ -3858,7 +4095,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年山西公务员考试《行测》第93题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2020-未标注-94",
@@ -3893,7 +4132,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年山西公务员考试《行测》第94题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2020-未标注-95",
@@ -3929,7 +4170,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年山西公务员考试《行测》第95题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2020-未标注-96",
@@ -3967,7 +4210,9 @@
     "difficulty": "中等",
     "source": "2020年山西公务员考试《行测》第96题",
     "isImageQuestion": true,
-    "province": "山西"
+    "province": "山西",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2020-未标注-97",
@@ -4004,7 +4249,9 @@
     "difficulty": "中等",
     "source": "2020年山西公务员考试《行测》第97题",
     "isImageQuestion": true,
-    "province": "山西"
+    "province": "山西",
+    "subModule": "图形材料",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanxi-2020-未标注-98",
@@ -4041,7 +4288,9 @@
     "difficulty": "中等",
     "source": "2020年山西公务员考试《行测》第98题",
     "isImageQuestion": true,
-    "province": "山西"
+    "province": "山西",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2020-未标注-99",
@@ -4078,7 +4327,9 @@
     "difficulty": "中等",
     "source": "2020年山西公务员考试《行测》第99题",
     "isImageQuestion": true,
-    "province": "山西"
+    "province": "山西",
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2020-未标注-100",
@@ -4115,7 +4366,9 @@
     "difficulty": "中等",
     "source": "2020年山西公务员考试《行测》第100题",
     "isImageQuestion": true,
-    "province": "山西"
+    "province": "山西",
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2021-未标注-111",
@@ -4152,7 +4405,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年山西公务员考试《行测》第111题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2021-未标注-112",
@@ -4188,7 +4443,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年山西公务员考试《行测》第112题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2021-未标注-113",
@@ -4224,7 +4481,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年山西公务员考试《行测》第113题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2021-未标注-114",
@@ -4261,7 +4520,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年山西公务员考试《行测》第114题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2021-未标注-115",
@@ -4297,7 +4558,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年山西公务员考试《行测》第115题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2021-未标注-116",
@@ -4333,7 +4596,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年山西公务员考试《行测》第116题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2021-未标注-117",
@@ -4369,7 +4634,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年山西公务员考试《行测》第117题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2021-未标注-118",
@@ -4405,7 +4672,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年山西公务员考试《行测》第118题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2021-未标注-119",
@@ -4441,7 +4710,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年山西公务员考试《行测》第119题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2021-未标注-120",
@@ -4477,7 +4748,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年山西公务员考试《行测》第120题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2021-未标注-121",
@@ -4512,7 +4785,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年山西公务员考试《行测》第121题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2021-未标注-122",
@@ -4547,7 +4822,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年山西公务员考试《行测》第122题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2021-未标注-123",
@@ -4583,7 +4860,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年山西公务员考试《行测》第123题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2021-未标注-124",
@@ -4603,7 +4882,10 @@
     "difficulty": "中等",
     "source": "2021年山西公务员考试《行测》第124题",
     "isImageQuestion": true,
-    "province": "山西"
+    "province": "山西",
+    "isAbnormal": true,
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2021-未标注-125",
@@ -4639,7 +4921,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年山西公务员考试《行测》第125题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2022-未标注-111",
@@ -4675,7 +4959,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2022年山西公务员考试《行测》第111题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2022-未标注-112",
@@ -4710,7 +4996,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2022年山西公务员考试《行测》第112题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2022-未标注-113",
@@ -4746,7 +5034,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2022年山西公务员考试《行测》第113题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2022-未标注-114",
@@ -4766,7 +5056,9 @@
     "difficulty": "中等",
     "source": "2022年山西公务员考试《行测》第114题",
     "isImageQuestion": true,
-    "province": "山西"
+    "province": "山西",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2022-未标注-115",
@@ -4802,7 +5094,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2022年山西公务员考试《行测》第115题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2022-未标注-116",
@@ -4838,7 +5132,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2022年山西公务员考试《行测》第116题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2022-未标注-117",
@@ -4874,7 +5170,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2022年山西公务员考试《行测》第117题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2022-未标注-118",
@@ -4910,7 +5208,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2022年山西公务员考试《行测》第118题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2022-未标注-119",
@@ -4946,7 +5246,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2022年山西公务员考试《行测》第119题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2022-未标注-120",
@@ -4981,7 +5283,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2022年山西公务员考试《行测》第120题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2022-未标注-121",
@@ -5016,7 +5320,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2022年山西公务员考试《行测》第121题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2022-未标注-122",
@@ -5051,7 +5357,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2022年山西公务员考试《行测》第122题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2022-未标注-123",
@@ -5087,7 +5395,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2022年山西公务员考试《行测》第123题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2022-未标注-124",
@@ -5123,7 +5433,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2022年山西公务员考试《行测》第124题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2022-未标注-125",
@@ -5158,7 +5470,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2022年山西公务员考试《行测》第125题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2023-未标注-106",
@@ -5193,7 +5507,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2023年山西公务员考试《行测》第106题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2023-未标注-107",
@@ -5228,7 +5544,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2023年山西公务员考试《行测》第107题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2023-未标注-108",
@@ -5263,7 +5581,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2023年山西公务员考试《行测》第108题",
-    "province": "山西"
+    "province": "山西",
+    "isAbnormal": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2023-未标注-109",
@@ -5298,7 +5619,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2023年山西公务员考试《行测》第109题",
-    "province": "山西"
+    "province": "山西",
+    "isAbnormal": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2023-未标注-110",
@@ -5332,7 +5656,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2023年山西公务员考试《行测》第110题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2023-未标注-111",
@@ -5366,7 +5692,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2023年山西公务员考试《行测》第111题",
-    "province": "山西"
+    "province": "山西",
+    "isAbnormal": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2023-未标注-112",
@@ -5398,7 +5727,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2023年山西公务员考试《行测》第112题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2023-未标注-113",
@@ -5432,7 +5763,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2023年山西公务员考试《行测》第113题",
-    "province": "山西"
+    "province": "山西",
+    "isAbnormal": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2023-未标注-114",
@@ -5464,7 +5798,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2023年山西公务员考试《行测》第114题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2023-未标注-115",
@@ -5499,7 +5835,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2023年山西公务员考试《行测》第115题",
-    "province": "山西"
+    "province": "山西",
+    "isAbnormal": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2023-未标注-116",
@@ -5533,7 +5872,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2023年山西公务员考试《行测》第116题",
-    "province": "山西"
+    "province": "山西",
+    "isAbnormal": true,
+    "subModule": "图形材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2023-未标注-117",
@@ -5552,7 +5894,10 @@
     "difficulty": "中等",
     "source": "2023年山西公务员考试《行测》第117题",
     "isImageQuestion": true,
-    "province": "山西"
+    "province": "山西",
+    "isAbnormal": true,
+    "subModule": "图形材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2023-未标注-118",
@@ -5586,7 +5931,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2023年山西公务员考试《行测》第118题",
-    "province": "山西"
+    "province": "山西",
+    "isAbnormal": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2023-未标注-119",
@@ -5620,7 +5968,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2023年山西公务员考试《行测》第119题",
-    "province": "山西"
+    "province": "山西",
+    "isAbnormal": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2023-未标注-120",
@@ -5654,7 +6005,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2023年山西公务员考试《行测》第120题",
-    "province": "山西"
+    "province": "山西",
+    "isAbnormal": true,
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2023-未标注-121",
@@ -5688,7 +6042,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2023年山西公务员考试《行测》第121题",
-    "province": "山西"
+    "province": "山西",
+    "isAbnormal": true,
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2023-未标注-122",
@@ -5723,7 +6080,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2023年山西公务员考试《行测》第122题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2023-未标注-123",
@@ -5758,7 +6117,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2023年山西公务员考试《行测》第123题",
-    "province": "山西"
+    "province": "山西",
+    "isAbnormal": true,
+    "subModule": "表格材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2023-未标注-124",
@@ -5793,7 +6155,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2023年山西公务员考试《行测》第124题",
-    "province": "山西"
+    "province": "山西",
+    "isAbnormal": true,
+    "subModule": "图形材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2023-未标注-125",
@@ -5827,7 +6192,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2023年山西公务员考试《行测》第125题",
-    "province": "山西"
+    "province": "山西",
+    "isAbnormal": true,
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2024-未标注-111",
@@ -5863,7 +6231,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年山西公务员考试《行测》第111题",
-    "province": "山西"
+    "province": "山西",
+    "isAbnormal": true,
+    "subModule": "图形材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2024-未标注-112",
@@ -5898,7 +6269,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年山西公务员考试《行测》第112题",
-    "province": "山西"
+    "province": "山西",
+    "isAbnormal": true,
+    "subModule": "图形材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2024-未标注-113",
@@ -5933,7 +6307,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年山西公务员考试《行测》第113题",
-    "province": "山西"
+    "province": "山西",
+    "isAbnormal": true,
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2024-未标注-114",
@@ -5966,7 +6343,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年山西公务员考试《行测》第114题",
-    "province": "山西"
+    "province": "山西",
+    "isAbnormal": true,
+    "subModule": "图形材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2024-未标注-115",
@@ -6001,7 +6381,10 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年山西公务员考试《行测》第115题",
-    "province": "山西"
+    "province": "山西",
+    "isAbnormal": true,
+    "subModule": "图形材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2024-未标注-116",
@@ -6037,7 +6420,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年山西公务员考试《行测》第116题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2024-未标注-117",
@@ -6073,7 +6458,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年山西公务员考试《行测》第117题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2024-未标注-118",
@@ -6090,7 +6477,10 @@
     "difficulty": "中等",
     "source": "2024年山西公务员考试《行测》第118题",
     "isImageQuestion": true,
-    "province": "山西"
+    "province": "山西",
+    "isAbnormal": true,
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2024-未标注-119",
@@ -6125,7 +6515,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年山西公务员考试《行测》第119题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2024-未标注-120",
@@ -6161,7 +6553,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年山西公务员考试《行测》第120题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2024-未标注-121",
@@ -6196,7 +6590,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年山西公务员考试《行测》第121题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2024-未标注-122",
@@ -6229,7 +6625,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年山西公务员考试《行测》第122题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2024-未标注-123",
@@ -6264,7 +6662,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年山西公务员考试《行测》第123题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2024-未标注-124",
@@ -6299,7 +6699,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年山西公务员考试《行测》第124题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2024-未标注-125",
@@ -6335,7 +6737,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年山西公务员考试《行测》第125题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2025-未标注-111",
@@ -6371,7 +6775,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年山西公务员考试《行测》第111题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2025-未标注-112",
@@ -6407,7 +6813,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年山西公务员考试《行测》第112题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2025-未标注-113",
@@ -6442,7 +6850,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年山西公务员考试《行测》第113题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2025-未标注-114",
@@ -6462,7 +6872,10 @@
     "difficulty": "中等",
     "source": "2025年山西公务员考试《行测》第114题",
     "isImageQuestion": true,
-    "province": "山西"
+    "province": "山西",
+    "isAbnormal": true,
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2025-未标注-115",
@@ -6497,7 +6910,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年山西公务员考试《行测》第115题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2025-未标注-116",
@@ -6533,7 +6948,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年山西公务员考试《行测》第116题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2025-未标注-117",
@@ -6568,7 +6985,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年山西公务员考试《行测》第117题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2025-未标注-118",
@@ -6589,7 +7008,10 @@
     "difficulty": "中等",
     "source": "2025年山西公务员考试《行测》第118题",
     "isImageQuestion": true,
-    "province": "山西"
+    "province": "山西",
+    "isAbnormal": true,
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2025-未标注-119",
@@ -6624,7 +7046,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年山西公务员考试《行测》第119题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2025-未标注-120",
@@ -6659,7 +7083,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年山西公务员考试《行测》第120题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "文字材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2025-未标注-121",
@@ -6694,7 +7120,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年山西公务员考试《行测》第121题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2025-未标注-122",
@@ -6729,7 +7157,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年山西公务员考试《行测》第122题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2025-未标注-123",
@@ -6764,7 +7194,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年山西公务员考试《行测》第123题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2025-未标注-124",
@@ -6799,7 +7231,9 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年山西公务员考试《行测》第124题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2025-未标注-125",
@@ -6834,6 +7268,8 @@
     "thinkingTip": "【资料】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2025年山西公务员考试《行测》第125题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "综合材料",
+    "subModule_confidence": "high"
   }
 ]

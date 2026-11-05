@@ -32,7 +32,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2020年浙江公务员考试《行测》（B卷）第81题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "地理国情",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2020-B卷-82",
@@ -67,7 +69,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2020年浙江公务员考试《行测》（B卷）第82题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "经济管理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2020-B卷-83",
@@ -102,7 +106,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2020年浙江公务员考试《行测》（B卷）第83题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "地理国情",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2020-B卷-84",
@@ -137,7 +143,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2020年浙江公务员考试《行测》（B卷）第84题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2020-B卷-85",
@@ -173,7 +181,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2020年浙江公务员考试《行测》（B卷）第85题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2021-A类-1",
@@ -209,7 +219,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2021年浙江公务员考试《行测》（A类）第1题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2021-A类-2",
@@ -244,7 +256,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2021年浙江公务员考试《行测》（A类）第2题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2021-A类-3",
@@ -279,7 +293,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2021年浙江公务员考试《行测》（A类）第3题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2021-A类-4",
@@ -314,7 +330,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2021年浙江公务员考试《行测》（A类）第4题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2021-A类-5",
@@ -349,7 +367,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2021年浙江公务员考试《行测》（A类）第5题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2021-A类-6",
@@ -384,7 +404,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2021年浙江公务员考试《行测》（A类）第6题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2021-A类-7",
@@ -419,7 +441,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2021年浙江公务员考试《行测》（A类）第7题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2021-A类-8",
@@ -454,7 +478,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2021年浙江公务员考试《行测》（A类）第8题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2021-A类-9",
@@ -489,7 +515,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2021年浙江公务员考试《行测》（A类）第9题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2021-A类-10",
@@ -524,7 +552,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2021年浙江公务员考试《行测》（A类）第10题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2021-A类-11",
@@ -559,7 +589,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2021年浙江公务员考试《行测》（A类）第11题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "经济管理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2021-A类-12",
@@ -594,7 +626,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2021年浙江公务员考试《行测》（A类）第12题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2021-A类-13",
@@ -629,7 +663,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2021年浙江公务员考试《行测》（A类）第13题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2021-A类-14",
@@ -665,7 +701,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2021年浙江公务员考试《行测》（A类）第14题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2021-A类-15",
@@ -701,7 +739,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2021年浙江公务员考试《行测》（A类）第15题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2021-A类-16",
@@ -737,7 +777,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2021年浙江公务员考试《行测》（A类）第16题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2021-A类-17",
@@ -773,7 +815,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2021年浙江公务员考试《行测》（A类）第17题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2021-A类-18",
@@ -808,7 +852,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2021年浙江公务员考试《行测》（A类）第18题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "地理国情",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2021-A类-19",
@@ -844,7 +890,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2021年浙江公务员考试《行测》（A类）第19题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2021-A类-20",
@@ -879,7 +927,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2021年浙江公务员考试《行测》（A类）第20题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2021-B类-1",
@@ -914,7 +964,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2021年浙江公务员考试《行测》（B类）第1题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2021-B类-2",
@@ -949,7 +1001,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2021年浙江公务员考试《行测》（B类）第2题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2021-B类-3",
@@ -983,7 +1037,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2021年浙江公务员考试《行测》（B类）第3题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2021-B类-4",
@@ -1019,7 +1075,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2021年浙江公务员考试《行测》（B类）第4题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2021-B类-5",
@@ -1054,7 +1112,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2021年浙江公务员考试《行测》（B类）第5题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2021-B类-6",
@@ -1089,7 +1149,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2021年浙江公务员考试《行测》（B类）第6题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2021-B类-7",
@@ -1123,7 +1185,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2021年浙江公务员考试《行测》（B类）第7题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2021-B类-8",
@@ -1158,7 +1222,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2021年浙江公务员考试《行测》（B类）第8题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "法律",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-zhejiang-2021-B类-9",
@@ -1193,7 +1259,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2021年浙江公务员考试《行测》（B类）第9题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2021-B类-10",
@@ -1227,7 +1295,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2021年浙江公务员考试《行测》（B类）第10题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2021-B类-11",
@@ -1261,7 +1331,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2021年浙江公务员考试《行测》（B类）第11题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "经济管理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2021-B类-12",
@@ -1297,7 +1369,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2021年浙江公务员考试《行测》（B类）第12题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2021-B类-13",
@@ -1331,7 +1405,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2021年浙江公务员考试《行测》（B类）第13题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2021-B类-14",
@@ -1367,7 +1443,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2021年浙江公务员考试《行测》（B类）第14题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2021-B类-15",
@@ -1402,7 +1480,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2021年浙江公务员考试《行测》（B类）第15题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2021-B类-16",
@@ -1437,7 +1517,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2021年浙江公务员考试《行测》（B类）第16题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2021-B类-17",
@@ -1471,7 +1553,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2021年浙江公务员考试《行测》（B类）第17题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2021-B类-18",
@@ -1507,7 +1591,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2021年浙江公务员考试《行测》（B类）第18题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "地理国情",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2021-B类-19",
@@ -1541,7 +1627,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2021年浙江公务员考试《行测》（B类）第19题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "生活常识",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2021-B类-20",
@@ -1576,7 +1664,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2021年浙江公务员考试《行测》（B类）第20题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2021-C类-1",
@@ -1612,7 +1702,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2021年浙江公务员考试《行测》（C类）第1题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2021-C类-2",
@@ -1647,7 +1739,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2021年浙江公务员考试《行测》（C类）第2题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2021-C类-3",
@@ -1682,7 +1776,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2021年浙江公务员考试《行测》（C类）第3题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2021-C类-4",
@@ -1717,7 +1813,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2021年浙江公务员考试《行测》（C类）第4题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2021-C类-5",
@@ -1752,7 +1850,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2021年浙江公务员考试《行测》（C类）第5题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2021-C类-6",
@@ -1787,7 +1887,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2021年浙江公务员考试《行测》（C类）第6题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2021-C类-7",
@@ -1822,7 +1924,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2021年浙江公务员考试《行测》（C类）第7题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2021-C类-8",
@@ -1857,7 +1961,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2021年浙江公务员考试《行测》（C类）第8题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2021-C类-9",
@@ -1892,7 +1998,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2021年浙江公务员考试《行测》（C类）第9题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2021-C类-10",
@@ -1927,7 +2035,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2021年浙江公务员考试《行测》（C类）第10题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2021-C类-11",
@@ -1962,7 +2072,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2021年浙江公务员考试《行测》（C类）第11题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "经济管理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2021-C类-12",
@@ -1997,7 +2109,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2021年浙江公务员考试《行测》（C类）第12题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2021-C类-13",
@@ -2032,7 +2146,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2021年浙江公务员考试《行测》（C类）第13题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2021-C类-14",
@@ -2068,7 +2184,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2021年浙江公务员考试《行测》（C类）第14题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2021-C类-15",
@@ -2104,7 +2222,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2021年浙江公务员考试《行测》（C类）第15题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2021-C类-16",
@@ -2140,7 +2260,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2021年浙江公务员考试《行测》（C类）第16题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2021-C类-17",
@@ -2176,7 +2298,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2021年浙江公务员考试《行测》（C类）第17题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2021-C类-18",
@@ -2211,7 +2335,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2021年浙江公务员考试《行测》（C类）第18题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "地理国情",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2021-C类-19",
@@ -2247,7 +2373,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2021年浙江公务员考试《行测》（C类）第19题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2021-C类-20",
@@ -2282,7 +2410,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2021年浙江公务员考试《行测》（C类）第20题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2022-A类-1",
@@ -2317,7 +2447,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2022年浙江公务员考试《行测》（A类）第1题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2022-A类-2",
@@ -2351,7 +2483,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2022年浙江公务员考试《行测》（A类）第2题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2022-A类-3",
@@ -2387,7 +2521,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2022年浙江公务员考试《行测》（A类）第3题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2022-A类-4",
@@ -2421,7 +2557,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2022年浙江公务员考试《行测》（A类）第4题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2022-A类-5",
@@ -2456,7 +2594,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2022年浙江公务员考试《行测》（A类）第5题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2022-A类-6",
@@ -2491,7 +2631,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2022年浙江公务员考试《行测》（A类）第6题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2022-A类-7",
@@ -2526,7 +2668,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2022年浙江公务员考试《行测》（A类）第7题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "经济管理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2022-A类-8",
@@ -2560,7 +2704,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2022年浙江公务员考试《行测》（A类）第8题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2022-A类-9",
@@ -2594,7 +2740,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2022年浙江公务员考试《行测》（A类）第9题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2022-A类-10",
@@ -2628,7 +2776,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2022年浙江公务员考试《行测》（A类）第10题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2022-A类-11",
@@ -2663,7 +2813,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2022年浙江公务员考试《行测》（A类）第11题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "经济管理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2022-A类-12",
@@ -2697,7 +2849,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2022年浙江公务员考试《行测》（A类）第12题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2022-A类-13",
@@ -2731,7 +2885,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2022年浙江公务员考试《行测》（A类）第13题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2022-A类-14",
@@ -2766,7 +2922,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2022年浙江公务员考试《行测》（A类）第14题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2022-A类-15",
@@ -2800,7 +2958,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2022年浙江公务员考试《行测》（A类）第15题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2022-A类-16",
@@ -2835,7 +2995,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2022年浙江公务员考试《行测》（A类）第16题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2022-A类-17",
@@ -2870,7 +3032,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2022年浙江公务员考试《行测》（A类）第17题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2022-A类-18",
@@ -2905,7 +3069,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2022年浙江公务员考试《行测》（A类）第18题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2022-A类-19",
@@ -2940,7 +3106,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2022年浙江公务员考试《行测》（A类）第19题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "生活常识",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2022-A类-20",
@@ -2976,7 +3144,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2022年浙江公务员考试《行测》（A类）第20题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2022-C类-21",
@@ -3010,7 +3180,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2022年浙江公务员考试《行测》（C类）第21题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2022-C类-22",
@@ -3044,7 +3216,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2022年浙江公务员考试《行测》（C类）第22题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2022-C类-23",
@@ -3079,7 +3253,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2022年浙江公务员考试《行测》（C类）第23题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2022-C类-24",
@@ -3114,7 +3290,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2022年浙江公务员考试《行测》（C类）第24题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "经济管理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2022-C类-25",
@@ -3148,7 +3326,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2022年浙江公务员考试《行测》（C类）第25题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2022-C类-26",
@@ -3183,7 +3363,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2022年浙江公务员考试《行测》（C类）第26题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2022-C类-27",
@@ -3217,7 +3399,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2022年浙江公务员考试《行测》（C类）第27题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2022-C类-28",
@@ -3251,7 +3435,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2022年浙江公务员考试《行测》（C类）第28题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2022-C类-29",
@@ -3286,7 +3472,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2022年浙江公务员考试《行测》（C类）第29题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2022-C类-30",
@@ -3321,7 +3509,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2022年浙江公务员考试《行测》（C类）第30题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2022-C类-31",
@@ -3357,7 +3547,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2022年浙江公务员考试《行测》（C类）第31题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2022-C类-32",
@@ -3392,7 +3584,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2022年浙江公务员考试《行测》（C类）第32题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "经济管理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2022-C类-33",
@@ -3426,7 +3620,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2022年浙江公务员考试《行测》（C类）第33题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2022-C类-34",
@@ -3461,7 +3657,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2022年浙江公务员考试《行测》（C类）第34题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2022-C类-35",
@@ -3495,7 +3693,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2022年浙江公务员考试《行测》（C类）第35题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2023-A类-1",
@@ -3529,7 +3729,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2023年浙江公务员考试《行测》（A类）第1题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2023-A类-2",
@@ -3563,7 +3765,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2023年浙江公务员考试《行测》（A类）第2题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2023-A类-3",
@@ -3597,7 +3801,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2023年浙江公务员考试《行测》（A类）第3题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2023-A类-4",
@@ -3631,7 +3837,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2023年浙江公务员考试《行测》（A类）第4题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2023-A类-5",
@@ -3665,7 +3873,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2023年浙江公务员考试《行测》（A类）第5题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2023-A类-6",
@@ -3700,7 +3910,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2023年浙江公务员考试《行测》（A类）第6题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2023-A类-7",
@@ -3716,7 +3928,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2023年浙江公务员考试《行测》（A类）第7题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-zhejiang-2023-A类-8",
@@ -3732,7 +3946,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2023年浙江公务员考试《行测》（A类）第8题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-zhejiang-2023-A类-9",
@@ -3748,7 +3964,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2023年浙江公务员考试《行测》（A类）第9题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-zhejiang-2023-A类-10",
@@ -3764,7 +3982,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2023年浙江公务员考试《行测》（A类）第10题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-zhejiang-2023-A类-11",
@@ -3798,7 +4018,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2023年浙江公务员考试《行测》（A类）第11题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2023-A类-12",
@@ -3834,7 +4056,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2023年浙江公务员考试《行测》（A类）第12题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2023-A类-13",
@@ -3868,7 +4092,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2023年浙江公务员考试《行测》（A类）第13题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2023-A类-14",
@@ -3903,7 +4129,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2023年浙江公务员考试《行测》（A类）第14题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2023-A类-15",
@@ -3938,7 +4166,9 @@
     "difficulty": "基础",
     "source": "2023年浙江公务员考试《行测》（A类）第15题",
     "isImageQuestion": true,
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2023-A类-16",
@@ -3972,7 +4202,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2023年浙江公务员考试《行测》（A类）第16题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2023-A类-17",
@@ -4007,7 +4239,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2023年浙江公务员考试《行测》（A类）第17题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2023-A类-18",
@@ -4042,7 +4276,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2023年浙江公务员考试《行测》（A类）第18题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2023-A类-19",
@@ -4076,7 +4312,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2023年浙江公务员考试《行测》（A类）第19题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2023-A类-20",
@@ -4110,7 +4348,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2023年浙江公务员考试《行测》（A类）第20题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "生活常识",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2023-B类-101",
@@ -4144,7 +4384,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2023年浙江公务员考试《行测》（B类）第101题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2023-B类-102",
@@ -4178,7 +4420,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2023年浙江公务员考试《行测》（B类）第102题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2023-B类-103",
@@ -4212,7 +4456,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2023年浙江公务员考试《行测》（B类）第103题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2023-B类-104",
@@ -4246,7 +4492,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2023年浙江公务员考试《行测》（B类）第104题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2023-B类-105",
@@ -4280,7 +4528,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2023年浙江公务员考试《行测》（B类）第105题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2023-B类-106",
@@ -4315,7 +4565,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2023年浙江公务员考试《行测》（B类）第106题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2023-B类-107",
@@ -4331,7 +4583,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2023年浙江公务员考试《行测》（B类）第107题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-zhejiang-2023-B类-108",
@@ -4347,7 +4601,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2023年浙江公务员考试《行测》（B类）第108题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-zhejiang-2023-B类-109",
@@ -4363,7 +4619,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2023年浙江公务员考试《行测》（B类）第109题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-zhejiang-2023-B类-110",
@@ -4379,7 +4637,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2023年浙江公务员考试《行测》（B类）第110题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-zhejiang-2023-B类-111",
@@ -4413,7 +4673,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2023年浙江公务员考试《行测》（B类）第111题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2023-B类-112",
@@ -4449,7 +4711,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2023年浙江公务员考试《行测》（B类）第112题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2023-B类-113",
@@ -4483,7 +4747,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2023年浙江公务员考试《行测》（B类）第113题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2023-B类-114",
@@ -4518,7 +4784,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2023年浙江公务员考试《行测》（B类）第114题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2023-B类-115",
@@ -4553,7 +4821,9 @@
     "difficulty": "基础",
     "source": "2023年浙江公务员考试《行测》（B类）第115题",
     "isImageQuestion": true,
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2023-B类-116",
@@ -4587,7 +4857,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2023年浙江公务员考试《行测》（B类）第116题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2023-B类-117",
@@ -4622,7 +4894,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2023年浙江公务员考试《行测》（B类）第117题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2023-B类-118",
@@ -4657,7 +4931,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2023年浙江公务员考试《行测》（B类）第118题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2023-B类-119",
@@ -4691,7 +4967,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2023年浙江公务员考试《行测》（B类）第119题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2023-B类-120",
@@ -4725,7 +5003,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2023年浙江公务员考试《行测》（B类）第120题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2023-C类-16",
@@ -4759,7 +5039,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2023年浙江公务员考试《行测》（C类）第16题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2023-C类-17",
@@ -4793,7 +5075,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2023年浙江公务员考试《行测》（C类）第17题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2023-C类-18",
@@ -4827,7 +5111,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2023年浙江公务员考试《行测》（C类）第18题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2023-C类-19",
@@ -4861,7 +5147,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2023年浙江公务员考试《行测》（C类）第19题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2023-C类-20",
@@ -4895,7 +5183,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2023年浙江公务员考试《行测》（C类）第20题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2023-C类-21",
@@ -4930,7 +5220,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2023年浙江公务员考试《行测》（C类）第21题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2023-C类-22",
@@ -4946,7 +5238,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2023年浙江公务员考试《行测》（C类）第22题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-zhejiang-2023-C类-23",
@@ -4962,7 +5256,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2023年浙江公务员考试《行测》（C类）第23题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-zhejiang-2023-C类-24",
@@ -4978,7 +5274,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2023年浙江公务员考试《行测》（C类）第24题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-zhejiang-2023-C类-25",
@@ -4994,7 +5292,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2023年浙江公务员考试《行测》（C类）第25题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-zhejiang-2023-C类-26",
@@ -5028,7 +5328,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2023年浙江公务员考试《行测》（C类）第26题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2023-C类-27",
@@ -5064,7 +5366,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2023年浙江公务员考试《行测》（C类）第27题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2023-C类-28",
@@ -5098,7 +5402,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2023年浙江公务员考试《行测》（C类）第28题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2023-C类-29",
@@ -5133,7 +5439,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2023年浙江公务员考试《行测》（C类）第29题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2023-C类-30",
@@ -5168,7 +5476,9 @@
     "difficulty": "基础",
     "source": "2023年浙江公务员考试《行测》（C类）第30题",
     "isImageQuestion": true,
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2023-C类-31",
@@ -5202,7 +5512,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2023年浙江公务员考试《行测》（C类）第31题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2023-C类-32",
@@ -5237,7 +5549,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2023年浙江公务员考试《行测》（C类）第32题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2023-C类-33",
@@ -5272,7 +5586,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2023年浙江公务员考试《行测》（C类）第33题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2023-C类-34",
@@ -5306,7 +5622,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2023年浙江公务员考试《行测》（C类）第34题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2023-C类-35",
@@ -5340,7 +5658,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2023年浙江公务员考试《行测》（C类）第35题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2024-A类-1",
@@ -5375,7 +5695,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2024年浙江公务员考试《行测》（A类）第1题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2024-A类-2",
@@ -5410,7 +5732,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2024年浙江公务员考试《行测》（A类）第2题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2024-A类-3",
@@ -5444,7 +5768,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2024年浙江公务员考试《行测》（A类）第3题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2024-A类-4",
@@ -5479,7 +5805,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2024年浙江公务员考试《行测》（A类）第4题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2024-A类-5",
@@ -5513,7 +5841,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2024年浙江公务员考试《行测》（A类）第5题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2024-A类-6",
@@ -5548,7 +5878,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2024年浙江公务员考试《行测》（A类）第6题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "经济管理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2024-A类-7",
@@ -5584,7 +5916,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2024年浙江公务员考试《行测》（A类）第7题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "经济管理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2024-A类-8",
@@ -5618,7 +5952,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2024年浙江公务员考试《行测》（A类）第8题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2024-A类-9",
@@ -5652,7 +5988,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2024年浙江公务员考试《行测》（A类）第9题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2024-A类-10",
@@ -5687,7 +6025,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2024年浙江公务员考试《行测》（A类）第10题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2024-A类-11",
@@ -5722,7 +6062,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2024年浙江公务员考试《行测》（A类）第11题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2024-A类-12",
@@ -5757,7 +6099,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2024年浙江公务员考试《行测》（A类）第12题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "地理国情",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2024-A类-13",
@@ -5791,7 +6135,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2024年浙江公务员考试《行测》（A类）第13题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2024-A类-14",
@@ -5827,7 +6173,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2024年浙江公务员考试《行测》（A类）第14题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2024-A类-15",
@@ -5861,7 +6209,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2024年浙江公务员考试《行测》（A类）第15题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2024-A类-16",
@@ -5896,7 +6246,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2024年浙江公务员考试《行测》（A类）第16题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2024-A类-17",
@@ -5930,7 +6282,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2024年浙江公务员考试《行测》（A类）第17题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2024-A类-18",
@@ -5964,7 +6318,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2024年浙江公务员考试《行测》（A类）第18题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2024-A类-19",
@@ -5998,7 +6354,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2024年浙江公务员考试《行测》（A类）第19题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2024-A类-20",
@@ -6032,7 +6390,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2024年浙江公务员考试《行测》（A类）第20题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2024-B类-1",
@@ -6067,7 +6427,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2024年浙江公务员考试《行测》（B类）第1题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2024-B类-2",
@@ -6102,7 +6464,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2024年浙江公务员考试《行测》（B类）第2题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2024-B类-3",
@@ -6136,7 +6500,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2024年浙江公务员考试《行测》（B类）第3题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2024-B类-4",
@@ -6171,7 +6537,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2024年浙江公务员考试《行测》（B类）第4题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2024-B类-5",
@@ -6205,7 +6573,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2024年浙江公务员考试《行测》（B类）第5题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2024-B类-6",
@@ -6240,7 +6610,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2024年浙江公务员考试《行测》（B类）第6题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "经济管理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2024-B类-7",
@@ -6276,7 +6648,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2024年浙江公务员考试《行测》（B类）第7题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "经济管理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2024-B类-8",
@@ -6310,7 +6684,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2024年浙江公务员考试《行测》（B类）第8题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2024-B类-9",
@@ -6344,7 +6720,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2024年浙江公务员考试《行测》（B类）第9题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2024-B类-10",
@@ -6379,7 +6757,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2024年浙江公务员考试《行测》（B类）第10题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2024-B类-11",
@@ -6414,7 +6794,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2024年浙江公务员考试《行测》（B类）第11题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2024-B类-12",
@@ -6449,7 +6831,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2024年浙江公务员考试《行测》（B类）第12题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "地理国情",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2024-B类-13",
@@ -6483,7 +6867,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2024年浙江公务员考试《行测》（B类）第13题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2024-B类-14",
@@ -6519,7 +6905,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2024年浙江公务员考试《行测》（B类）第14题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2024-B类-15",
@@ -6553,7 +6941,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2024年浙江公务员考试《行测》（B类）第15题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2024-B类-16",
@@ -6588,7 +6978,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2024年浙江公务员考试《行测》（B类）第16题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2024-B类-17",
@@ -6622,7 +7014,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2024年浙江公务员考试《行测》（B类）第17题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2024-B类-18",
@@ -6656,7 +7050,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2024年浙江公务员考试《行测》（B类）第18题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2024-B类-19",
@@ -6691,7 +7087,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2024年浙江公务员考试《行测》（B类）第19题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2024-B类-20",
@@ -6725,6 +7123,8 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2024年浙江公务员考试《行测》（B类）第20题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   }
 ]

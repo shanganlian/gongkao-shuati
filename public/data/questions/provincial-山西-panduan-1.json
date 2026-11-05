@@ -31,7 +31,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年山西公务员考试《行测》（421联考）第91题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2012-421联考-92",
@@ -65,7 +67,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年山西公务员考试《行测》（421联考）第92题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2012-421联考-93",
@@ -101,7 +105,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年山西公务员考试《行测》（421联考）第93题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2012-421联考-94",
@@ -136,7 +142,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年山西公务员考试《行测》（421联考）第94题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2012-421联考-95",
@@ -171,7 +179,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年山西公务员考试《行测》（421联考）第95题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2012-421联考-96",
@@ -206,7 +216,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年山西公务员考试《行测》（421联考）第96题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2012-421联考-97",
@@ -242,7 +254,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年山西公务员考试《行测》（421联考）第97题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2012-421联考-98",
@@ -278,7 +292,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年山西公务员考试《行测》（421联考）第98题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2012-421联考-99",
@@ -313,7 +329,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年山西公务员考试《行测》（421联考）第99题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2012-421联考-100",
@@ -349,7 +367,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年山西公务员考试《行测》（421联考）第100题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2013-413联考-91",
@@ -369,7 +389,9 @@
     "difficulty": "中等",
     "source": "2013年山西公务员考试《行测》（413联考）第91题",
     "isImageQuestion": true,
-    "province": "山西"
+    "province": "山西",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2013-413联考-92",
@@ -388,7 +410,9 @@
     "difficulty": "中等",
     "source": "2013年山西公务员考试《行测》（413联考）第92题",
     "isImageQuestion": true,
-    "province": "山西"
+    "province": "山西",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2013-413联考-93",
@@ -406,7 +430,9 @@
     "difficulty": "中等",
     "source": "2013年山西公务员考试《行测》（413联考）第93题",
     "isImageQuestion": true,
-    "province": "山西"
+    "province": "山西",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2013-413联考-94",
@@ -425,7 +451,9 @@
     "difficulty": "中等",
     "source": "2013年山西公务员考试《行测》（413联考）第94题",
     "isImageQuestion": true,
-    "province": "山西"
+    "province": "山西",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2013-413联考-95",
@@ -444,7 +472,9 @@
     "difficulty": "中等",
     "source": "2013年山西公务员考试《行测》（413联考）第95题",
     "isImageQuestion": true,
-    "province": "山西"
+    "province": "山西",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2013-413联考-96",
@@ -464,7 +494,9 @@
     "difficulty": "中等",
     "source": "2013年山西公务员考试《行测》（413联考）第96题",
     "isImageQuestion": true,
-    "province": "山西"
+    "province": "山西",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2013-413联考-97",
@@ -483,7 +515,9 @@
     "difficulty": "中等",
     "source": "2013年山西公务员考试《行测》（413联考）第97题",
     "isImageQuestion": true,
-    "province": "山西"
+    "province": "山西",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2013-413联考-98",
@@ -502,7 +536,9 @@
     "difficulty": "中等",
     "source": "2013年山西公务员考试《行测》（413联考）第98题",
     "isImageQuestion": true,
-    "province": "山西"
+    "province": "山西",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2013-413联考-99",
@@ -537,7 +573,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年山西公务员考试《行测》（413联考）第99题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2013-413联考-100",
@@ -572,7 +610,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年山西公务员考试《行测》（413联考）第100题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2013-413联考-101",
@@ -608,7 +648,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年山西公务员考试《行测》（413联考）第101题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2013-413联考-102",
@@ -644,7 +686,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年山西公务员考试《行测》（413联考）第102题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2013-413联考-103",
@@ -678,7 +722,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年山西公务员考试《行测》（413联考）第103题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2013-413联考-104",
@@ -712,7 +758,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年山西公务员考试《行测》（413联考）第104题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2013-413联考-105",
@@ -746,7 +794,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年山西公务员考试《行测》（413联考）第105题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2013-413联考-106",
@@ -781,7 +831,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年山西公务员考试《行测》（413联考）第106题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2013-413联考-107",
@@ -816,7 +868,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年山西公务员考试《行测》（413联考）第107题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2013-413联考-108",
@@ -850,7 +904,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年山西公务员考试《行测》（413联考）第108题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2013-413联考-109",
@@ -884,7 +940,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年山西公务员考试《行测》（413联考）第109题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2013-413联考-110",
@@ -919,7 +977,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年山西公务员考试《行测》（413联考）第110题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2013-413联考-111",
@@ -953,7 +1013,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年山西公务员考试《行测》（413联考）第111题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2013-413联考-112",
@@ -989,7 +1051,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年山西公务员考试《行测》（413联考）第112题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2013-413联考-113",
@@ -1025,7 +1089,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年山西公务员考试《行测》（413联考）第113题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2013-413联考-114",
@@ -1061,7 +1127,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年山西公务员考试《行测》（413联考）第114题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2013-413联考-115",
@@ -1097,7 +1165,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年山西公务员考试《行测》（413联考）第115题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2013-413联考-116",
@@ -1132,7 +1202,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年山西公务员考试《行测》（413联考）第116题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2013-413联考-117",
@@ -1166,7 +1238,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年山西公务员考试《行测》（413联考）第117题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2013-413联考-118",
@@ -1202,7 +1276,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年山西公务员考试《行测》（413联考）第118题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2013-413联考-119",
@@ -1237,7 +1313,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年山西公务员考试《行测》（413联考）第119题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2013-413联考-120",
@@ -1273,7 +1351,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年山西公务员考试《行测》（413联考）第120题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2013-413联考-121",
@@ -1308,7 +1388,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年山西公务员考试《行测》（413联考）第121题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2013-413联考-122",
@@ -1343,7 +1425,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年山西公务员考试《行测》（413联考）第122题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2013-413联考-123",
@@ -1379,7 +1463,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年山西公务员考试《行测》（413联考）第123题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2013-413联考-124",
@@ -1415,7 +1501,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年山西公务员考试《行测》（413联考）第124题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2013-413联考-125",
@@ -1450,7 +1538,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年山西公务员考试《行测》（413联考）第125题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2013-413联考-126",
@@ -1486,7 +1576,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年山西公务员考试《行测》（413联考）第126题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2013-413联考-127",
@@ -1522,7 +1614,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年山西公务员考试《行测》（413联考）第127题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2013-413联考-128",
@@ -1558,7 +1652,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年山西公务员考试《行测》（413联考）第128题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2013-413联考-129",
@@ -1593,7 +1689,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年山西公务员考试《行测》（413联考）第129题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2013-413联考-130",
@@ -1629,7 +1727,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年山西公务员考试《行测》（413联考）第130题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2013-413联考-131",
@@ -1665,7 +1765,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年山西公务员考试《行测》（413联考）第131题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2013-413联考-132",
@@ -1701,7 +1803,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年山西公务员考试《行测》（413联考）第132题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2013-413联考-133",
@@ -1737,7 +1841,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年山西公务员考试《行测》（413联考）第133题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2013-413联考-134",
@@ -1772,7 +1878,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年山西公务员考试《行测》（413联考）第134题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2014-未标注-66",
@@ -1791,7 +1899,9 @@
     "difficulty": "中等",
     "source": "2014年山西公务员考试《行测》第66题",
     "isImageQuestion": true,
-    "province": "山西"
+    "province": "山西",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2014-未标注-67",
@@ -1810,7 +1920,9 @@
     "difficulty": "中等",
     "source": "2014年山西公务员考试《行测》第67题",
     "isImageQuestion": true,
-    "province": "山西"
+    "province": "山西",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2014-未标注-68",
@@ -1830,7 +1942,9 @@
     "difficulty": "中等",
     "source": "2014年山西公务员考试《行测》第68题",
     "isImageQuestion": true,
-    "province": "山西"
+    "province": "山西",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2014-未标注-69",
@@ -1850,7 +1964,9 @@
     "difficulty": "中等",
     "source": "2014年山西公务员考试《行测》第69题",
     "isImageQuestion": true,
-    "province": "山西"
+    "province": "山西",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2014-未标注-70",
@@ -1869,7 +1985,9 @@
     "difficulty": "中等",
     "source": "2014年山西公务员考试《行测》第70题",
     "isImageQuestion": true,
-    "province": "山西"
+    "province": "山西",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2014-未标注-71",
@@ -1905,7 +2023,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年山西公务员考试《行测》第71题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2014-未标注-72",
@@ -1939,7 +2059,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年山西公务员考试《行测》第72题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2014-未标注-73",
@@ -1975,7 +2097,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年山西公务员考试《行测》第73题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2014-未标注-74",
@@ -2011,7 +2135,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年山西公务员考试《行测》第74题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2014-未标注-75",
@@ -2047,7 +2173,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年山西公务员考试《行测》第75题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2014-未标注-76",
@@ -2083,7 +2211,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年山西公务员考试《行测》第76题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2014-未标注-77",
@@ -2119,7 +2249,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年山西公务员考试《行测》第77题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2014-未标注-78",
@@ -2154,7 +2286,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年山西公务员考试《行测》第78题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2014-未标注-79",
@@ -2190,7 +2324,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年山西公务员考试《行测》第79题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2014-未标注-80",
@@ -2226,7 +2362,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年山西公务员考试《行测》第80题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2014-未标注-81",
@@ -2262,7 +2400,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年山西公务员考试《行测》第81题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2014-未标注-82",
@@ -2298,7 +2438,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年山西公务员考试《行测》第82题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2014-未标注-83",
@@ -2334,7 +2476,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年山西公务员考试《行测》第83题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2014-未标注-84",
@@ -2370,7 +2514,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年山西公务员考试《行测》第84题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2014-未标注-85",
@@ -2405,7 +2551,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年山西公务员考试《行测》第85题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2014-未标注-86",
@@ -2441,7 +2589,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年山西公务员考试《行测》第86题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2014-未标注-87",
@@ -2477,7 +2627,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年山西公务员考试《行测》第87题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2014-未标注-88",
@@ -2513,7 +2665,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年山西公务员考试《行测》第88题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2014-未标注-89",
@@ -2549,7 +2703,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年山西公务员考试《行测》第89题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2014-未标注-90",
@@ -2585,7 +2741,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年山西公务员考试《行测》第90题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2014-未标注-91",
@@ -2621,7 +2779,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年山西公务员考试《行测》第91题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2014-未标注-92",
@@ -2657,7 +2817,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年山西公务员考试《行测》第92题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2014-未标注-93",
@@ -2693,7 +2855,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年山西公务员考试《行测》第93题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2014-未标注-94",
@@ -2729,7 +2893,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年山西公务员考试《行测》第94题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2014-未标注-95",
@@ -2765,7 +2931,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年山西公务员考试《行测》第95题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2014-未标注-96",
@@ -2801,7 +2969,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年山西公务员考试《行测》第96题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2014-未标注-97",
@@ -2837,7 +3007,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年山西公务员考试《行测》第97题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2014-未标注-98",
@@ -2873,7 +3045,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年山西公务员考试《行测》第98题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2014-未标注-99",
@@ -2909,7 +3083,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年山西公务员考试《行测》第99题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2014-未标注-100",
@@ -2944,7 +3120,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年山西公务员考试《行测》第100题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2015-未标注-66",
@@ -2963,7 +3141,9 @@
     "difficulty": "中等",
     "source": "2015年山西公务员考试《行测》第66题",
     "isImageQuestion": true,
-    "province": "山西"
+    "province": "山西",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2015-未标注-67",
@@ -2982,7 +3162,9 @@
     "difficulty": "中等",
     "source": "2015年山西公务员考试《行测》第67题",
     "isImageQuestion": true,
-    "province": "山西"
+    "province": "山西",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2015-未标注-68",
@@ -3001,7 +3183,9 @@
     "difficulty": "中等",
     "source": "2015年山西公务员考试《行测》第68题",
     "isImageQuestion": true,
-    "province": "山西"
+    "province": "山西",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2015-未标注-69",
@@ -3021,7 +3205,9 @@
     "difficulty": "中等",
     "source": "2015年山西公务员考试《行测》第69题",
     "isImageQuestion": true,
-    "province": "山西"
+    "province": "山西",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2015-未标注-70",
@@ -3039,7 +3225,9 @@
     "difficulty": "中等",
     "source": "2015年山西公务员考试《行测》第70题",
     "isImageQuestion": true,
-    "province": "山西"
+    "province": "山西",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2015-未标注-71",
@@ -3058,7 +3246,9 @@
     "difficulty": "中等",
     "source": "2015年山西公务员考试《行测》第71题",
     "isImageQuestion": true,
-    "province": "山西"
+    "province": "山西",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2015-未标注-72",
@@ -3077,7 +3267,9 @@
     "difficulty": "中等",
     "source": "2015年山西公务员考试《行测》第72题",
     "isImageQuestion": true,
-    "province": "山西"
+    "province": "山西",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2015-未标注-73",
@@ -3096,7 +3288,9 @@
     "difficulty": "中等",
     "source": "2015年山西公务员考试《行测》第73题",
     "isImageQuestion": true,
-    "province": "山西"
+    "province": "山西",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2015-未标注-74",
@@ -3115,7 +3309,9 @@
     "difficulty": "中等",
     "source": "2015年山西公务员考试《行测》第74题",
     "isImageQuestion": true,
-    "province": "山西"
+    "province": "山西",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2015-未标注-75",
@@ -3135,7 +3331,9 @@
     "difficulty": "中等",
     "source": "2015年山西公务员考试《行测》第75题",
     "isImageQuestion": true,
-    "province": "山西"
+    "province": "山西",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2015-未标注-76",
@@ -3170,7 +3368,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年山西公务员考试《行测》第76题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2015-未标注-77",
@@ -3205,7 +3405,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年山西公务员考试《行测》第77题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2015-未标注-78",
@@ -3239,7 +3441,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年山西公务员考试《行测》第78题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2015-未标注-79",
@@ -3273,7 +3477,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年山西公务员考试《行测》第79题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2015-未标注-80",
@@ -3307,7 +3513,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年山西公务员考试《行测》第80题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2015-未标注-81",
@@ -3341,7 +3549,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年山西公务员考试《行测》第81题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2015-未标注-82",
@@ -3376,7 +3586,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年山西公务员考试《行测》第82题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2015-未标注-83",
@@ -3410,7 +3622,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年山西公务员考试《行测》第83题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2015-未标注-84",
@@ -3444,7 +3658,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年山西公务员考试《行测》第84题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2015-未标注-85",
@@ -3478,7 +3694,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年山西公务员考试《行测》第85题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2015-未标注-86",
@@ -3514,7 +3732,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年山西公务员考试《行测》第86题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2015-未标注-87",
@@ -3550,7 +3770,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年山西公务员考试《行测》第87题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2015-未标注-88",
@@ -3585,7 +3807,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年山西公务员考试《行测》第88题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2015-未标注-89",
@@ -3620,7 +3844,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年山西公务员考试《行测》第89题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2015-未标注-90",
@@ -3654,7 +3880,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年山西公务员考试《行测》第90题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2015-未标注-91",
@@ -3688,7 +3916,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年山西公务员考试《行测》第91题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2015-未标注-92",
@@ -3722,7 +3952,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年山西公务员考试《行测》第92题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2015-未标注-93",
@@ -3756,7 +3988,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年山西公务员考试《行测》第93题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2015-未标注-94",
@@ -3792,7 +4026,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年山西公务员考试《行测》第94题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2015-未标注-95",
@@ -3827,7 +4063,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年山西公务员考试《行测》第95题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2015-未标注-96",
@@ -3862,7 +4100,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年山西公务员考试《行测》第96题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2015-未标注-97",
@@ -3897,7 +4137,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年山西公务员考试《行测》第97题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2015-未标注-98",
@@ -3931,7 +4173,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年山西公务员考试《行测》第98题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2015-未标注-99",
@@ -3967,7 +4211,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年山西公务员考试《行测》第99题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2015-未标注-100",
@@ -4002,7 +4248,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年山西公务员考试《行测》第100题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2016-423联考-66",
@@ -4020,7 +4268,9 @@
     "difficulty": "中等",
     "source": "2016年山西公务员考试《行测》（423联考）第66题",
     "isImageQuestion": true,
-    "province": "山西"
+    "province": "山西",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2016-423联考-67",
@@ -4036,7 +4286,9 @@
     "difficulty": "中等",
     "source": "2016年山西公务员考试《行测》（423联考）第67题",
     "isImageQuestion": true,
-    "province": "山西"
+    "province": "山西",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2016-423联考-68",
@@ -4073,7 +4325,9 @@
     "difficulty": "中等",
     "source": "2016年山西公务员考试《行测》（423联考）第68题",
     "isImageQuestion": true,
-    "province": "山西"
+    "province": "山西",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2016-423联考-69",
@@ -4108,7 +4362,9 @@
     "difficulty": "中等",
     "source": "2016年山西公务员考试《行测》（423联考）第69题",
     "isImageQuestion": true,
-    "province": "山西"
+    "province": "山西",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2016-423联考-70",
@@ -4124,7 +4380,9 @@
     "difficulty": "中等",
     "source": "2016年山西公务员考试《行测》（423联考）第70题",
     "isImageQuestion": true,
-    "province": "山西"
+    "province": "山西",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2016-423联考-71",
@@ -4159,7 +4417,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年山西公务员考试《行测》（423联考）第71题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2016-423联考-72",
@@ -4194,7 +4454,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年山西公务员考试《行测》（423联考）第72题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2016-423联考-73",
@@ -4230,7 +4492,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年山西公务员考试《行测》（423联考）第73题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2016-423联考-74",
@@ -4264,7 +4528,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年山西公务员考试《行测》（423联考）第74题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2016-423联考-75",
@@ -4300,7 +4566,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年山西公务员考试《行测》（423联考）第75题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2016-423联考-76",
@@ -4335,7 +4603,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年山西公务员考试《行测》（423联考）第76题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2016-423联考-77",
@@ -4370,7 +4640,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年山西公务员考试《行测》（423联考）第77题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2016-423联考-78",
@@ -4404,7 +4676,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年山西公务员考试《行测》（423联考）第78题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2016-423联考-79",
@@ -4440,7 +4714,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年山西公务员考试《行测》（423联考）第79题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2016-423联考-80",
@@ -4475,7 +4751,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年山西公务员考试《行测》（423联考）第80题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2016-423联考-81",
@@ -4510,7 +4788,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年山西公务员考试《行测》（423联考）第81题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2016-423联考-82",
@@ -4545,7 +4825,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年山西公务员考试《行测》（423联考）第82题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2016-423联考-83",
@@ -4581,7 +4863,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年山西公务员考试《行测》（423联考）第83题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2016-423联考-84",
@@ -4617,7 +4901,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年山西公务员考试《行测》（423联考）第84题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2016-423联考-85",
@@ -4652,7 +4938,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年山西公务员考试《行测》（423联考）第85题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2016-423联考-86",
@@ -4687,7 +4975,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年山西公务员考试《行测》（423联考）第86题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2016-423联考-87",
@@ -4723,7 +5013,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年山西公务员考试《行测》（423联考）第87题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2016-423联考-88",
@@ -4759,7 +5051,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年山西公务员考试《行测》（423联考）第88题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2016-423联考-89",
@@ -4795,7 +5089,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年山西公务员考试《行测》（423联考）第89题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2016-423联考-90",
@@ -4830,7 +5126,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年山西公务员考试《行测》（423联考）第90题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2016-423联考-91",
@@ -4866,7 +5164,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年山西公务员考试《行测》（423联考）第91题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2016-423联考-92",
@@ -4902,7 +5202,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年山西公务员考试《行测》（423联考）第92题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2016-423联考-93",
@@ -4938,7 +5240,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年山西公务员考试《行测》（423联考）第93题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2016-423联考-94",
@@ -4974,7 +5278,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年山西公务员考试《行测》（423联考）第94题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2016-423联考-95",
@@ -5009,7 +5315,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年山西公务员考试《行测》（423联考）第95题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2016-423联考-96",
@@ -5045,7 +5353,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年山西公务员考试《行测》（423联考）第96题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2016-423联考-97",
@@ -5080,7 +5390,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年山西公务员考试《行测》（423联考）第97题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2016-423联考-98",
@@ -5115,7 +5427,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年山西公务员考试《行测》（423联考）第98题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2016-423联考-99",
@@ -5151,7 +5465,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年山西公务员考试《行测》（423联考）第99题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2016-423联考-100",
@@ -5186,7 +5502,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年山西公务员考试《行测》（423联考）第100题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2017-422联考-71",
@@ -5205,7 +5523,9 @@
     "difficulty": "中等",
     "source": "2017年山西公务员考试《行测》（422联考）第71题",
     "isImageQuestion": true,
-    "province": "山西"
+    "province": "山西",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2017-422联考-72",
@@ -5225,7 +5545,9 @@
     "difficulty": "中等",
     "source": "2017年山西公务员考试《行测》（422联考）第72题",
     "isImageQuestion": true,
-    "province": "山西"
+    "province": "山西",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2017-422联考-73",
@@ -5243,7 +5565,9 @@
     "difficulty": "中等",
     "source": "2017年山西公务员考试《行测》（422联考）第73题",
     "isImageQuestion": true,
-    "province": "山西"
+    "province": "山西",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2017-422联考-74",
@@ -5278,7 +5602,9 @@
     "difficulty": "中等",
     "source": "2017年山西公务员考试《行测》（422联考）第74题",
     "isImageQuestion": true,
-    "province": "山西"
+    "province": "山西",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2017-422联考-75",
@@ -5296,7 +5622,9 @@
     "difficulty": "中等",
     "source": "2017年山西公务员考试《行测》（422联考）第75题",
     "isImageQuestion": true,
-    "province": "山西"
+    "province": "山西",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2017-422联考-76",
@@ -5331,7 +5659,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年山西公务员考试《行测》（422联考）第76题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2017-422联考-77",
@@ -5366,7 +5696,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年山西公务员考试《行测》（422联考）第77题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2017-422联考-78",
@@ -5401,7 +5733,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年山西公务员考试《行测》（422联考）第78题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2017-422联考-79",
@@ -5437,7 +5771,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年山西公务员考试《行测》（422联考）第79题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2017-422联考-80",
@@ -5472,7 +5808,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年山西公务员考试《行测》（422联考）第80题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2017-422联考-81",
@@ -5507,7 +5845,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年山西公务员考试《行测》（422联考）第81题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2017-422联考-82",
@@ -5542,7 +5882,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年山西公务员考试《行测》（422联考）第82题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2017-422联考-83",
@@ -5577,7 +5919,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年山西公务员考试《行测》（422联考）第83题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2017-422联考-84",
@@ -5612,7 +5956,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年山西公务员考试《行测》（422联考）第84题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2017-422联考-85",
@@ -5647,7 +5993,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年山西公务员考试《行测》（422联考）第85题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2017-422联考-86",
@@ -5683,7 +6031,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年山西公务员考试《行测》（422联考）第86题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2017-422联考-87",
@@ -5719,7 +6069,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年山西公务员考试《行测》（422联考）第87题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2017-422联考-88",
@@ -5755,7 +6107,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年山西公务员考试《行测》（422联考）第88题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2017-422联考-89",
@@ -5791,7 +6145,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年山西公务员考试《行测》（422联考）第89题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2017-422联考-90",
@@ -5827,7 +6183,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年山西公务员考试《行测》（422联考）第90题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2017-422联考-91",
@@ -5861,7 +6219,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年山西公务员考试《行测》（422联考）第91题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2017-422联考-92",
@@ -5895,7 +6255,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年山西公务员考试《行测》（422联考）第92题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2017-422联考-93",
@@ -5931,7 +6293,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年山西公务员考试《行测》（422联考）第93题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2017-422联考-94",
@@ -5967,7 +6331,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年山西公务员考试《行测》（422联考）第94题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2017-422联考-95",
@@ -6002,7 +6368,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年山西公务员考试《行测》（422联考）第95题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2017-422联考-96",
@@ -6037,7 +6405,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年山西公务员考试《行测》（422联考）第96题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2017-422联考-97",
@@ -6072,7 +6442,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年山西公务员考试《行测》（422联考）第97题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2017-422联考-98",
@@ -6108,7 +6480,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年山西公务员考试《行测》（422联考）第98题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2017-422联考-99",
@@ -6143,7 +6517,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年山西公务员考试《行测》（422联考）第99题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2017-422联考-100",
@@ -6179,7 +6555,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年山西公务员考试《行测》（422联考）第100题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2017-422联考-101",
@@ -6214,7 +6592,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年山西公务员考试《行测》（422联考）第101题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2017-422联考-102",
@@ -6249,7 +6629,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年山西公务员考试《行测》（422联考）第102题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2017-422联考-103",
@@ -6285,7 +6667,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年山西公务员考试《行测》（422联考）第103题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2017-422联考-104",
@@ -6320,7 +6704,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年山西公务员考试《行测》（422联考）第104题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2017-422联考-105",
@@ -6355,7 +6741,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2017年山西公务员考试《行测》（422联考）第105题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2018-421联考-51",
@@ -6392,7 +6780,9 @@
     "difficulty": "中等",
     "source": "2018年山西公务员考试《行测》（421联考）第51题",
     "isImageQuestion": true,
-    "province": "山西"
+    "province": "山西",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2018-421联考-52",
@@ -6428,7 +6818,9 @@
     "difficulty": "中等",
     "source": "2018年山西公务员考试《行测》（421联考）第52题",
     "isImageQuestion": true,
-    "province": "山西"
+    "province": "山西",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2018-421联考-53",
@@ -6446,7 +6838,9 @@
     "difficulty": "中等",
     "source": "2018年山西公务员考试《行测》（421联考）第53题",
     "isImageQuestion": true,
-    "province": "山西"
+    "province": "山西",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2018-421联考-54",
@@ -6465,7 +6859,9 @@
     "difficulty": "中等",
     "source": "2018年山西公务员考试《行测》（421联考）第54题",
     "isImageQuestion": true,
-    "province": "山西"
+    "province": "山西",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2018-421联考-55",
@@ -6484,7 +6880,9 @@
     "difficulty": "中等",
     "source": "2018年山西公务员考试《行测》（421联考）第55题",
     "isImageQuestion": true,
-    "province": "山西"
+    "province": "山西",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanxi-2018-421联考-56",
@@ -6519,6 +6917,8 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年山西公务员考试《行测》（421联考）第56题",
-    "province": "山西"
+    "province": "山西",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   }
 ]

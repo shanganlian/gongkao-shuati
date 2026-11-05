@@ -32,3 +32,11 @@ public/data/questions-v2.bak-ocr/
 # 临时截图（未整理的素材）
 新建文件夹 (2)/
 
+# 二级分类断点缓存 / 写回备份（可重建，不入库）
+guokao-reports/.cache/
+guokao-reports/submodule-backups/
+
+# 含 Supabase service_role 的本地建号脚本：已从版本库移除，禁止再入库。
+# 注意：历史提交 2cbef2d 里仍有该密钥，必须到 Supabase 控制台轮换（Legacy JWT signing keys / API keys）。
+create-user.cjs
+

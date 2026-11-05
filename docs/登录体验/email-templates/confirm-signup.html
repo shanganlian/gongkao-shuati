@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="zh-CN">
+  <body style="margin:0;padding:0;background:#f1f5f9;">
+    <table role="presentation" width="100%" cellpadding="0" cellspacing="0" style="background:#f1f5f9;padding:24px 12px;">
+      <tr>
+        <td align="center">
+          <table role="presentation" width="100%" cellpadding="0" cellspacing="0" style="max-width:520px;background:#ffffff;border-radius:14px;overflow:hidden;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif;">
+            <tr>
+              <td style="background:#059669;padding:18px 24px;color:#ffffff;font-size:17px;font-weight:700;letter-spacing:.5px;">必得题库</td>
+            </tr>
+            <tr>
+              <td style="padding:28px 24px 8px;color:#0f172a;font-size:15px;line-height:1.7;">
+                欢迎加入必得题库，还差一步就注册完成。
+              </td>
+            </tr>
+            <tr>
+              <td style="padding:8px 24px 0;color:#334155;font-size:14px;line-height:1.7;">
+                请点击下面的按钮确认邮箱（或在登录页直接使用本验证码登录）：
+              </td>
+            </tr>
+            <tr>
+              <td align="center" style="padding:18px 24px;">
+                <div style="display:inline-block;padding:14px 22px;background:#ecfdf5;border:1px dashed #6ee7b7;border-radius:10px;color:#047857;font-size:30px;font-weight:700;letter-spacing:8px;font-family:Menlo,Consolas,monospace;">{{ .Token }}</div>
+              </td>
+            </tr>
+            <tr>
+              <td align="center" style="padding:4px 24px 8px;">
+                <a href="{{ .ConfirmationURL }}" style="display:inline-block;padding:12px 26px;background:#059669;color:#ffffff;font-size:15px;font-weight:600;text-decoration:none;border-radius:10px;">确认邮箱</a>
+              </td>
+            </tr>
+            <tr>
+              <td style="padding:14px 24px 0;color:#475569;font-size:14px;line-height:1.7;">
+                注册后你每天可免费刷 <strong>50 题</strong>，错题本、答题历史、面试练习记录都会云端同步，换设备不丢失。
+              </td>
+            </tr>
+            <tr>
+              <td style="padding:6px 24px 0;color:#94a3b8;font-size:12px;line-height:1.7;">
+                链接 10 分钟内有效。若打不开，请复制：<br />
+                <a href="{{ .ConfirmationURL }}" style="color:#059669;word-break:break-all;">{{ .ConfirmationURL }}</a>
+              </td>
+            </tr>
+            <tr>
+              <td style="padding:20px 24px 28px;color:#94a3b8;font-size:12px;line-height:1.7;border-top:1px solid #e2e8f0;">
+                如果这不是你本人的操作，忽略本邮件即可。<br />
+                本邮件由系统自动发送，请勿直接回复。
+              </td>
+            </tr>
+          </table>
+          <div style="max-width:520px;padding:14px 8px 0;color:#94a3b8;font-size:11px;line-height:1.6;font-family:-apple-system,BlinkMacSystemFont,'PingFang SC','Microsoft YaHei',sans-serif;">
+            必得题库 · 公务员与事业单位备考题库<br />
+            <a href="{{ .SiteURL }}" style="color:#94a3b8;">{{ .SiteURL }}</a>
+          </div>
+        </td>
+      </tr>
+    </table>
+  </body>
+</html>

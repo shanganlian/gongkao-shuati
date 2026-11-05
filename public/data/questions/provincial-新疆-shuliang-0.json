@@ -17,7 +17,10 @@
     "difficulty": "拔高",
     "source": "2009年新疆公务员考试《行测》（913联考）第86题",
     "isImageQuestion": true,
-    "province": "新疆"
+    "province": "新疆",
+    "isAbnormal": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2009-913联考-87",
@@ -52,7 +55,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2009年新疆公务员考试《行测》（913联考）第87题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2009-913联考-88",
@@ -89,7 +94,9 @@
     "difficulty": "拔高",
     "source": "2009年新疆公务员考试《行测》（913联考）第88题",
     "isImageQuestion": true,
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-xinjiang-2009-913联考-89",
@@ -123,7 +130,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2009年新疆公务员考试《行测》（913联考）第89题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2009-913联考-90",
@@ -158,7 +167,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2009年新疆公务员考试《行测》（913联考）第90题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2009-913联考-91",
@@ -195,7 +206,9 @@
     "difficulty": "拔高",
     "source": "2009年新疆公务员考试《行测》（913联考）第91题",
     "isImageQuestion": true,
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-xinjiang-2009-913联考-92",
@@ -230,7 +243,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2009年新疆公务员考试《行测》（913联考）第92题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2009-913联考-93",
@@ -266,7 +281,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2009年新疆公务员考试《行测》（913联考）第93题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2009-913联考-94",
@@ -301,7 +318,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2009年新疆公务员考试《行测》（913联考）第94题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2009-913联考-95",
@@ -320,7 +339,10 @@
     "difficulty": "拔高",
     "source": "2009年新疆公务员考试《行测》（913联考）第95题",
     "isImageQuestion": true,
-    "province": "新疆"
+    "province": "新疆",
+    "isAbnormal": true,
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2009-913联考-96",
@@ -352,7 +374,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2009年新疆公务员考试《行测》（913联考）第96题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2009-913联考-97",
@@ -387,7 +411,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2009年新疆公务员考试《行测》（913联考）第97题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2009-913联考-98",
@@ -423,7 +449,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2009年新疆公务员考试《行测》（913联考）第98题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2009-913联考-99",
@@ -458,7 +486,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2009年新疆公务员考试《行测》（913联考）第99题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2009-913联考-100",
@@ -493,7 +523,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2009年新疆公务员考试《行测》（913联考）第100题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2011-917联考-56",
@@ -527,7 +559,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2011年新疆公务员考试《行测》（917联考）第56题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2011-917联考-57",
@@ -559,7 +593,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2011年新疆公务员考试《行测》（917联考）第57题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2011-917联考-58",
@@ -594,7 +630,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2011年新疆公务员考试《行测》（917联考）第58题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2011-917联考-59",
@@ -629,7 +667,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2011年新疆公务员考试《行测》（917联考）第59题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2011-917联考-60",
@@ -664,7 +704,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2011年新疆公务员考试《行测》（917联考）第60题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2011-917联考-61",
@@ -700,7 +742,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2011年新疆公务员考试《行测》（917联考）第61题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2011-917联考-62",
@@ -736,7 +780,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2011年新疆公务员考试《行测》（917联考）第62题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2011-917联考-63",
@@ -770,7 +816,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2011年新疆公务员考试《行测》（917联考）第63题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2011-917联考-64",
@@ -804,7 +852,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2011年新疆公务员考试《行测》（917联考）第64题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2011-917联考-65",
@@ -839,7 +889,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2011年新疆公务员考试《行测》（917联考）第65题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2012-421联考-51",
@@ -873,7 +925,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2012年新疆公务员考试《行测》（421联考）第51题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2012-421联考-52",
@@ -908,7 +962,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2012年新疆公务员考试《行测》（421联考）第52题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2012-421联考-53",
@@ -942,7 +998,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2012年新疆公务员考试《行测》（421联考）第53题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2012-421联考-54",
@@ -977,7 +1035,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2012年新疆公务员考试《行测》（421联考）第54题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2012-421联考-55",
@@ -997,7 +1057,10 @@
     "difficulty": "拔高",
     "source": "2012年新疆公务员考试《行测》（421联考）第55题",
     "isImageQuestion": true,
-    "province": "新疆"
+    "province": "新疆",
+    "isAbnormal": true,
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2012-421联考-56",
@@ -1032,7 +1095,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2012年新疆公务员考试《行测》（421联考）第56题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2012-421联考-57",
@@ -1068,7 +1133,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2012年新疆公务员考试《行测》（421联考）第57题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2012-421联考-58",
@@ -1102,7 +1169,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2012年新疆公务员考试《行测》（421联考）第58题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2012-421联考-59",
@@ -1136,7 +1205,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2012年新疆公务员考试《行测》（421联考）第59题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2012-421联考-60",
@@ -1156,7 +1227,10 @@
     "difficulty": "拔高",
     "source": "2012年新疆公务员考试《行测》（421联考）第60题",
     "isImageQuestion": true,
-    "province": "新疆"
+    "province": "新疆",
+    "isAbnormal": true,
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2012-421联考-61",
@@ -1190,7 +1264,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2012年新疆公务员考试《行测》（421联考）第61题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2012-421联考-62",
@@ -1225,7 +1301,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2012年新疆公务员考试《行测》（421联考）第62题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2012-421联考-63",
@@ -1260,7 +1338,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2012年新疆公务员考试《行测》（421联考）第63题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2012-421联考-64",
@@ -1295,7 +1375,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2012年新疆公务员考试《行测》（421联考）第64题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2012-421联考-65",
@@ -1331,7 +1413,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2012年新疆公务员考试《行测》（421联考）第65题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2012-915联考-61",
@@ -1365,7 +1449,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2012年新疆公务员考试《行测》（915联考）第61题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2012-915联考-62",
@@ -1399,7 +1485,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2012年新疆公务员考试《行测》（915联考）第62题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2012-915联考-63",
@@ -1435,7 +1523,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2012年新疆公务员考试《行测》（915联考）第63题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2012-915联考-64",
@@ -1467,7 +1557,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2012年新疆公务员考试《行测》（915联考）第64题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2012-915联考-65",
@@ -1502,7 +1594,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2012年新疆公务员考试《行测》（915联考）第65题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2012-915联考-66",
@@ -1536,7 +1630,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2012年新疆公务员考试《行测》（915联考）第66题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2012-915联考-67",
@@ -1571,7 +1667,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2012年新疆公务员考试《行测》（915联考）第67题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2012-915联考-68",
@@ -1605,7 +1703,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2012年新疆公务员考试《行测》（915联考）第68题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2012-915联考-69",
@@ -1639,7 +1739,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2012年新疆公务员考试《行测》（915联考）第69题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2012-915联考-70",
@@ -1674,7 +1776,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2012年新疆公务员考试《行测》（915联考）第70题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2013-未标注-55",
@@ -1706,7 +1810,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2013年新疆公务员考试《行测》第55题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2013-未标注-56",
@@ -1738,7 +1844,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2013年新疆公务员考试《行测》第56题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2013-未标注-57",
@@ -1770,7 +1878,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2013年新疆公务员考试《行测》第57题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2013-未标注-58",
@@ -1802,7 +1912,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2013年新疆公务员考试《行测》第58题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2013-未标注-59",
@@ -1831,7 +1943,9 @@
     "difficulty": "拔高",
     "source": "2013年新疆公务员考试《行测》第59题",
     "isImageQuestion": true,
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-xinjiang-2013-未标注-60",
@@ -1863,7 +1977,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2013年新疆公务员考试《行测》第60题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2013-未标注-61",
@@ -1895,7 +2011,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2013年新疆公务员考试《行测》第61题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2013-未标注-62",
@@ -1927,7 +2045,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2013年新疆公务员考试《行测》第62题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2013-未标注-63",
@@ -1959,7 +2079,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2013年新疆公务员考试《行测》第63题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2013-未标注-64",
@@ -1991,7 +2113,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2013年新疆公务员考试《行测》第64题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2013-未标注-65",
@@ -2023,7 +2147,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2013年新疆公务员考试《行测》第65题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2013-未标注-66",
@@ -2055,7 +2181,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2013年新疆公务员考试《行测》第66题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2013-未标注-67",
@@ -2087,7 +2215,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2013年新疆公务员考试《行测》第67题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2013-未标注-68",
@@ -2119,7 +2249,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2013年新疆公务员考试《行测》第68题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "经济利润",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-xinjiang-2013-未标注-69",
@@ -2151,7 +2283,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2013年新疆公务员考试《行测》第69题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2013-未标注-70",
@@ -2183,7 +2317,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2013年新疆公务员考试《行测》第70题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2013-未标注-71",
@@ -2215,7 +2351,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2013年新疆公务员考试《行测》第71题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2013-未标注-72",
@@ -2248,7 +2386,9 @@
     "difficulty": "拔高",
     "source": "2013年新疆公务员考试《行测》第72题",
     "isImageQuestion": true,
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-xinjiang-2013-未标注-73",
@@ -2280,7 +2420,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2013年新疆公务员考试《行测》第73题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2013-未标注-74",
@@ -2312,7 +2454,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2013年新疆公务员考试《行测》第74题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2014-未标注-51",
@@ -2348,7 +2492,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2014年新疆公务员考试《行测》第51题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2014-未标注-52",
@@ -2384,7 +2530,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2014年新疆公务员考试《行测》第52题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2014-未标注-53",
@@ -2419,7 +2567,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2014年新疆公务员考试《行测》第53题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2014-未标注-54",
@@ -2454,7 +2604,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2014年新疆公务员考试《行测》第54题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2014-未标注-55",
@@ -2490,7 +2642,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2014年新疆公务员考试《行测》第55题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2014-未标注-56",
@@ -2527,7 +2681,9 @@
     "difficulty": "拔高",
     "source": "2014年新疆公务员考试《行测》第56题",
     "isImageQuestion": true,
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2014-未标注-57",
@@ -2561,7 +2717,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2014年新疆公务员考试《行测》第57题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2014-未标注-58",
@@ -2593,7 +2751,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2014年新疆公务员考试《行测》第58题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2014-未标注-59",
@@ -2628,7 +2788,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2014年新疆公务员考试《行测》第59题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2014-未标注-60",
@@ -2664,7 +2826,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2014年新疆公务员考试《行测》第60题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2014-未标注-61",
@@ -2699,7 +2863,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2014年新疆公务员考试《行测》第61题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2014-未标注-62",
@@ -2731,7 +2897,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2014年新疆公务员考试《行测》第62题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2014-未标注-63",
@@ -2763,7 +2931,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2014年新疆公务员考试《行测》第63题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2014-未标注-64",
@@ -2797,7 +2967,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2014年新疆公务员考试《行测》第64题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2014-未标注-65",
@@ -2834,7 +3006,9 @@
     "difficulty": "拔高",
     "source": "2014年新疆公务员考试《行测》第65题",
     "isImageQuestion": true,
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2015-未标注-61",
@@ -2866,7 +3040,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2015年新疆公务员考试《行测》第61题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2015-未标注-62",
@@ -2903,7 +3079,9 @@
     "difficulty": "拔高",
     "source": "2015年新疆公务员考试《行测》第62题",
     "isImageQuestion": true,
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2015-未标注-63",
@@ -2939,7 +3117,9 @@
     "difficulty": "拔高",
     "source": "2015年新疆公务员考试《行测》第63题",
     "isImageQuestion": true,
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "几何",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-xinjiang-2015-未标注-64",
@@ -2975,7 +3155,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2015年新疆公务员考试《行测》第64题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2015-未标注-65",
@@ -3007,7 +3189,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2015年新疆公务员考试《行测》第65题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2015-未标注-66",
@@ -3042,7 +3226,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2015年新疆公务员考试《行测》第66题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2015-未标注-67",
@@ -3076,7 +3262,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2015年新疆公务员考试《行测》第67题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2015-未标注-68",
@@ -3111,7 +3299,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2015年新疆公务员考试《行测》第68题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2015-未标注-69",
@@ -3145,7 +3335,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2015年新疆公务员考试《行测》第69题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2015-未标注-70",
@@ -3181,7 +3373,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2015年新疆公务员考试《行测》第70题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2015-未标注-39-2",
@@ -3213,7 +3407,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2015年新疆公务员考试《行测》第39题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2015-未标注-40-2",
@@ -3248,7 +3444,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2015年新疆公务员考试《行测》第40题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2015-未标注-41-2",
@@ -3283,7 +3481,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2015年新疆公务员考试《行测》第41题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2015-未标注-42-2",
@@ -3318,7 +3518,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2015年新疆公务员考试《行测》第42题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2015-未标注-43-2",
@@ -3353,7 +3555,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2015年新疆公务员考试《行测》第43题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2015-未标注-44-2",
@@ -3388,7 +3592,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2015年新疆公务员考试《行测》第44题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2015-未标注-45-2",
@@ -3423,7 +3629,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2015年新疆公务员考试《行测》第45题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2015-未标注-46-2",
@@ -3458,7 +3666,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2015年新疆公务员考试《行测》第46题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2015-未标注-47-2",
@@ -3476,7 +3686,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2015年新疆公务员考试《行测》第47题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "几何",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-xinjiang-2015-未标注-48-2",
@@ -3510,7 +3722,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2015年新疆公务员考试《行测》第48题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2015-未标注-49-2",
@@ -3545,7 +3759,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2015年新疆公务员考试《行测》第49题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2015-未标注-50-2",
@@ -3580,7 +3796,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2015年新疆公务员考试《行测》第50题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2015-未标注-51-2",
@@ -3615,7 +3833,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2015年新疆公务员考试《行测》第51题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2015-未标注-52-2",
@@ -3650,7 +3870,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2015年新疆公务员考试《行测》第52题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2015-未标注-53-2",
@@ -3686,7 +3908,9 @@
     "difficulty": "拔高",
     "source": "2015年新疆公务员考试《行测》第53题",
     "isImageQuestion": true,
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2016-423联考-56",
@@ -3714,7 +3938,9 @@
     "difficulty": "拔高",
     "source": "2016年新疆公务员考试《行测》（423联考）第56题",
     "isImageQuestion": true,
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2016-423联考-57",
@@ -3749,7 +3975,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2016年新疆公务员考试《行测》（423联考）第57题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2016-423联考-58",
@@ -3783,7 +4011,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2016年新疆公务员考试《行测》（423联考）第58题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2016-423联考-59",
@@ -3818,7 +4048,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2016年新疆公务员考试《行测》（423联考）第59题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2016-423联考-60",
@@ -3854,7 +4086,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2016年新疆公务员考试《行测》（423联考）第60题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2016-423联考-61",
@@ -3888,7 +4122,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2016年新疆公务员考试《行测》（423联考）第61题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2016-423联考-62",
@@ -3922,7 +4158,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2016年新疆公务员考试《行测》（423联考）第62题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2016-423联考-63",
@@ -3956,7 +4194,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2016年新疆公务员考试《行测》（423联考）第63题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2016-423联考-64",
@@ -3990,7 +4230,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2016年新疆公务员考试《行测》（423联考）第64题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2016-423联考-65",
@@ -4024,7 +4266,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2016年新疆公务员考试《行测》（423联考）第65题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2016-423联考-66",
@@ -4059,7 +4303,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2016年新疆公务员考试《行测》（423联考）第66题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2016-423联考-67",
@@ -4091,7 +4337,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2016年新疆公务员考试《行测》（423联考）第67题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2016-423联考-68",
@@ -4127,7 +4375,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2016年新疆公务员考试《行测》（423联考）第68题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2016-423联考-69",
@@ -4161,7 +4411,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2016年新疆公务员考试《行测》（423联考）第69题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2016-423联考-70",
@@ -4196,7 +4448,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2016年新疆公务员考试《行测》（423联考）第70题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2017-未标注-61",
@@ -4232,7 +4486,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2017年新疆公务员考试《行测》第61题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-xinjiang-2017-未标注-62",
@@ -4266,7 +4522,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2017年新疆公务员考试《行测》第62题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2017-未标注-63",
@@ -4300,7 +4558,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2017年新疆公务员考试《行测》第63题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2017-未标注-64",
@@ -4334,7 +4594,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2017年新疆公务员考试《行测》第64题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2017-未标注-65",
@@ -4369,7 +4631,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2017年新疆公务员考试《行测》第65题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2017-未标注-66",
@@ -4404,7 +4668,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2017年新疆公务员考试《行测》第66题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2017-未标注-67",
@@ -4438,7 +4704,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2017年新疆公务员考试《行测》第67题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2017-未标注-68",
@@ -4457,7 +4725,10 @@
     "difficulty": "拔高",
     "source": "2017年新疆公务员考试《行测》第68题",
     "isImageQuestion": true,
-    "province": "新疆"
+    "province": "新疆",
+    "isAbnormal": true,
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2017-未标注-69",
@@ -4492,7 +4763,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2017年新疆公务员考试《行测》第69题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2017-未标注-70",
@@ -4527,7 +4800,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2017年新疆公务员考试《行测》第70题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2017-未标注-56-2",
@@ -4562,7 +4837,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2017年新疆公务员考试《行测》第56题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2017-未标注-57-2",
@@ -4597,7 +4874,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2017年新疆公务员考试《行测》第57题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2017-未标注-58-2",
@@ -4633,7 +4912,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2017年新疆公务员考试《行测》第58题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2017-未标注-59-2",
@@ -4668,7 +4949,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2017年新疆公务员考试《行测》第59题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2017-未标注-60-2",
@@ -4703,7 +4986,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2017年新疆公务员考试《行测》第60题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2017-未标注-61-2",
@@ -4735,7 +5020,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2017年新疆公务员考试《行测》第61题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2017-未标注-62-2",
@@ -4770,7 +5057,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2017年新疆公务员考试《行测》第62题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2017-未标注-63-2",
@@ -4805,7 +5094,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2017年新疆公务员考试《行测》第63题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2017-未标注-64-2",
@@ -4842,7 +5133,9 @@
     "difficulty": "拔高",
     "source": "2017年新疆公务员考试《行测》第64题",
     "isImageQuestion": true,
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2017-未标注-65-2",
@@ -4862,7 +5155,10 @@
     "difficulty": "拔高",
     "source": "2017年新疆公务员考试《行测》第65题",
     "isImageQuestion": true,
-    "province": "新疆"
+    "province": "新疆",
+    "isAbnormal": true,
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2017-未标注-66-2",
@@ -4898,7 +5194,9 @@
     "difficulty": "拔高",
     "source": "2017年新疆公务员考试《行测》第66题",
     "isImageQuestion": true,
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2017-未标注-67-2",
@@ -4932,7 +5230,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2017年新疆公务员考试《行测》第67题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2017-未标注-68-2",
@@ -4968,7 +5268,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2017年新疆公务员考试《行测》第68题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2017-未标注-69-2",
@@ -5004,7 +5306,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2017年新疆公务员考试《行测》第69题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2017-未标注-70-2",
@@ -5040,7 +5344,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2017年新疆公务员考试《行测》第70题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2018-421联考-51",
@@ -5074,7 +5380,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2018年新疆公务员考试《行测》（421联考）第51题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2018-421联考-52",
@@ -5108,7 +5416,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2018年新疆公务员考试《行测》（421联考）第52题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2018-421联考-53",
@@ -5143,7 +5453,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2018年新疆公务员考试《行测》（421联考）第53题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2018-421联考-54",
@@ -5178,7 +5490,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2018年新疆公务员考试《行测》（421联考）第54题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2018-421联考-55",
@@ -5213,7 +5527,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2018年新疆公务员考试《行测》（421联考）第55题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2018-421联考-56",
@@ -5247,7 +5563,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2018年新疆公务员考试《行测》（421联考）第56题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2018-421联考-57",
@@ -5283,7 +5601,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2018年新疆公务员考试《行测》（421联考）第57题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2018-421联考-58",
@@ -5317,7 +5637,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2018年新疆公务员考试《行测》（421联考）第58题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2018-421联考-59",
@@ -5351,7 +5673,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2018年新疆公务员考试《行测》（421联考）第59题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2018-421联考-60",
@@ -5385,7 +5709,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2018年新疆公务员考试《行测》（421联考）第60题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2018-421联考-61",
@@ -5420,7 +5746,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2018年新疆公务员考试《行测》（421联考）第61题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2018-421联考-62",
@@ -5456,7 +5784,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2018年新疆公务员考试《行测》（421联考）第62题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2018-421联考-63",
@@ -5490,7 +5820,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2018年新疆公务员考试《行测》（421联考）第63题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2018-421联考-64",
@@ -5524,7 +5856,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2018年新疆公务员考试《行测》（421联考）第64题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2018-421联考-65",
@@ -5559,7 +5893,9 @@
     "difficulty": "拔高",
     "source": "2018年新疆公务员考试《行测》（421联考）第65题",
     "isImageQuestion": true,
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2018-421联考-66",
@@ -5593,7 +5929,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2018年新疆公务员考试《行测》（421联考）第66题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2018-421联考-67",
@@ -5629,7 +5967,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2018年新疆公务员考试《行测》（421联考）第67题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2018-421联考-68",
@@ -5665,7 +6005,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2018年新疆公务员考试《行测》（421联考）第68题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2018-421联考-69",
@@ -5702,7 +6044,9 @@
     "difficulty": "拔高",
     "source": "2018年新疆公务员考试《行测》（421联考）第69题",
     "isImageQuestion": true,
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2018-421联考-70",
@@ -5738,7 +6082,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2018年新疆公务员考试《行测》（421联考）第70题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2018-未标注-51",
@@ -5773,7 +6119,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2018年新疆公务员考试《行测》第51题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2018-未标注-52",
@@ -5808,7 +6156,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2018年新疆公务员考试《行测》第52题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2018-未标注-53",
@@ -5844,7 +6194,9 @@
     "difficulty": "拔高",
     "source": "2018年新疆公务员考试《行测》第53题",
     "isImageQuestion": true,
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2018-未标注-54",
@@ -5864,7 +6216,10 @@
     "difficulty": "拔高",
     "source": "2018年新疆公务员考试《行测》第54题",
     "isImageQuestion": true,
-    "province": "新疆"
+    "province": "新疆",
+    "isAbnormal": true,
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2018-未标注-55",
@@ -5899,7 +6254,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2018年新疆公务员考试《行测》第55题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2018-未标注-56",
@@ -5935,7 +6292,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2018年新疆公务员考试《行测》第56题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2018-未标注-57",
@@ -5970,7 +6329,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2018年新疆公务员考试《行测》第57题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2018-未标注-58",
@@ -6005,7 +6366,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2018年新疆公务员考试《行测》第58题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2018-未标注-59",
@@ -6040,7 +6403,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2018年新疆公务员考试《行测》第59题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2018-未标注-60",
@@ -6075,7 +6440,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2018年新疆公务员考试《行测》第60题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2019-420联考-51",
@@ -6110,7 +6477,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年新疆公务员考试《行测》（420联考）第51题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2019-420联考-52",
@@ -6146,7 +6515,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年新疆公务员考试《行测》（420联考）第52题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2019-420联考-53",
@@ -6181,7 +6552,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年新疆公务员考试《行测》（420联考）第53题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2019-420联考-54",
@@ -6216,7 +6589,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年新疆公务员考试《行测》（420联考）第54题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2019-420联考-55",
@@ -6251,7 +6626,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年新疆公务员考试《行测》（420联考）第55题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2019-420联考-56",
@@ -6286,7 +6663,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年新疆公务员考试《行测》（420联考）第56题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2019-420联考-57",
@@ -6321,7 +6700,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年新疆公务员考试《行测》（420联考）第57题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2019-420联考-58",
@@ -6357,7 +6738,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年新疆公务员考试《行测》（420联考）第58题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2019-420联考-59",
@@ -6393,7 +6776,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年新疆公务员考试《行测》（420联考）第59题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2019-420联考-60",
@@ -6412,7 +6797,10 @@
     "difficulty": "拔高",
     "source": "2019年新疆公务员考试《行测》（420联考）第60题",
     "isImageQuestion": true,
-    "province": "新疆"
+    "province": "新疆",
+    "isAbnormal": true,
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2019-420联考-61",
@@ -6447,7 +6835,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年新疆公务员考试《行测》（420联考）第61题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2019-420联考-62",
@@ -6482,7 +6872,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年新疆公务员考试《行测》（420联考）第62题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2019-420联考-63",
@@ -6518,7 +6910,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年新疆公务员考试《行测》（420联考）第63题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2019-420联考-64",
@@ -6553,7 +6947,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年新疆公务员考试《行测》（420联考）第64题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2019-420联考-65",
@@ -6588,7 +6984,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年新疆公务员考试《行测》（420联考）第65题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2019-420联考-66",
@@ -6608,7 +7006,10 @@
     "difficulty": "拔高",
     "source": "2019年新疆公务员考试《行测》（420联考）第66题",
     "isImageQuestion": true,
-    "province": "新疆"
+    "province": "新疆",
+    "isAbnormal": true,
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2019-420联考-67",
@@ -6643,7 +7044,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年新疆公务员考试《行测》（420联考）第67题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "经济利润",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-xinjiang-2019-420联考-68",
@@ -6677,7 +7080,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年新疆公务员考试《行测》（420联考）第68题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2019-420联考-69",
@@ -6711,7 +7116,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年新疆公务员考试《行测》（420联考）第69题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-xinjiang-2019-420联考-70",
@@ -6747,6 +7154,8 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年新疆公务员考试《行测》（420联考）第70题",
-    "province": "新疆"
+    "province": "新疆",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   }
 ]

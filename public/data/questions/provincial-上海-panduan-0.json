@@ -33,7 +33,10 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2006年上海公务员考试《行测》第98题",
-    "province": "上海"
+    "province": "上海",
+    "isAbnormal": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2006-未标注-99",
@@ -49,7 +52,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2006年上海公务员考试《行测》第99题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2006-未标注-100",
@@ -65,7 +70,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2006年上海公务员考试《行测》第100题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2006-未标注-101",
@@ -81,7 +88,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2006年上海公务员考试《行测》第101题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2006-未标注-102",
@@ -97,7 +106,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2006年上海公务员考试《行测》第102题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2006-未标注-103",
@@ -113,7 +124,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2006年上海公务员考试《行测》第103题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2006-未标注-104",
@@ -129,7 +142,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2006年上海公务员考试《行测》第104题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2006-未标注-105",
@@ -145,7 +160,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2006年上海公务员考试《行测》第105题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2006-未标注-106",
@@ -161,7 +178,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2006年上海公务员考试《行测》第106题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2006-未标注-107",
@@ -177,7 +196,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2006年上海公务员考试《行测》第107题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2006-未标注-108",
@@ -193,7 +214,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2006年上海公务员考试《行测》第108题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2006-未标注-109",
@@ -209,7 +232,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2006年上海公务员考试《行测》第109题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2006-未标注-110",
@@ -225,7 +250,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2006年上海公务员考试《行测》第110题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2006-未标注-111",
@@ -241,7 +268,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2006年上海公务员考试《行测》第111题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2006-未标注-112",
@@ -257,7 +286,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2006年上海公务员考试《行测》第112题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2006-未标注-113",
@@ -273,7 +304,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2006年上海公务员考试《行测》第113题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2006-未标注-114",
@@ -289,7 +322,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2006年上海公务员考试《行测》第114题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2006-未标注-115",
@@ -305,7 +340,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2006年上海公务员考试《行测》第115题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2006-未标注-116",
@@ -321,7 +358,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2006年上海公务员考试《行测》第116题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2006-未标注-117",
@@ -337,7 +376,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2006年上海公务员考试《行测》第117题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2006-未标注-118",
@@ -353,7 +394,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2006年上海公务员考试《行测》第118题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2006-未标注-119",
@@ -369,7 +412,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2006年上海公务员考试《行测》第119题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2006-未标注-120",
@@ -385,7 +430,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2006年上海公务员考试《行测》第120题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2006-未标注-121",
@@ -401,7 +448,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2006年上海公务员考试《行测》第121题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2006-未标注-122",
@@ -417,7 +466,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2006年上海公务员考试《行测》第122题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2006-未标注-123",
@@ -433,7 +484,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2006年上海公务员考试《行测》第123题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2006-未标注-124",
@@ -449,7 +502,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2006年上海公务员考试《行测》第124题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2006-未标注-125",
@@ -465,7 +520,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2006年上海公务员考试《行测》第125题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2006-未标注-126",
@@ -481,7 +538,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2006年上海公务员考试《行测》第126题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2006-未标注-127",
@@ -497,7 +556,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2006年上海公务员考试《行测》第127题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2006-未标注-128",
@@ -513,7 +574,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2006年上海公务员考试《行测》第128题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2006-未标注-129",
@@ -529,7 +592,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2006年上海公务员考试《行测》第129题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2006-未标注-130",
@@ -545,7 +610,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2006年上海公务员考试《行测》第130题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2006-未标注-131",
@@ -561,7 +628,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2006年上海公务员考试《行测》第131题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2006-未标注-132",
@@ -577,7 +646,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2006年上海公务员考试《行测》第132题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2006-未标注-133",
@@ -593,7 +664,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2006年上海公务员考试《行测》第133题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2006-未标注-134",
@@ -609,7 +682,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2006年上海公务员考试《行测》第134题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2006-未标注-135",
@@ -625,7 +700,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2006年上海公务员考试《行测》第135题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2006-未标注-136",
@@ -641,7 +718,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2006年上海公务员考试《行测》第136题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2006-未标注-137",
@@ -657,7 +736,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2006年上海公务员考试《行测》第137题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2008-未标注-96",
@@ -694,7 +775,9 @@
     "difficulty": "中等",
     "source": "2008年上海公务员考试《行测》第96题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2008-未标注-97",
@@ -714,7 +797,9 @@
     "difficulty": "中等",
     "source": "2008年上海公务员考试《行测》第97题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2008-未标注-98",
@@ -734,7 +819,9 @@
     "difficulty": "中等",
     "source": "2008年上海公务员考试《行测》第98题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2008-未标注-99",
@@ -754,7 +841,9 @@
     "difficulty": "中等",
     "source": "2008年上海公务员考试《行测》第99题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2008-未标注-100",
@@ -774,7 +863,9 @@
     "difficulty": "中等",
     "source": "2008年上海公务员考试《行测》第100题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "图形推理",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2008-未标注-101",
@@ -810,7 +901,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2008年上海公务员考试《行测》第101题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2008-未标注-102",
@@ -846,7 +939,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2008年上海公务员考试《行测》第102题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2008-未标注-103",
@@ -882,7 +977,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2008年上海公务员考试《行测》第103题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2008-未标注-104",
@@ -918,7 +1015,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2008年上海公务员考试《行测》第104题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2008-未标注-105",
@@ -954,7 +1053,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2008年上海公务员考试《行测》第105题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2008-未标注-106",
@@ -973,7 +1074,9 @@
     "difficulty": "中等",
     "source": "2008年上海公务员考试《行测》第106题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2008-未标注-107",
@@ -992,7 +1095,9 @@
     "difficulty": "中等",
     "source": "2008年上海公务员考试《行测》第107题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2008-未标注-108",
@@ -1011,7 +1116,9 @@
     "difficulty": "中等",
     "source": "2008年上海公务员考试《行测》第108题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2008-未标注-109",
@@ -1031,7 +1138,9 @@
     "difficulty": "中等",
     "source": "2008年上海公务员考试《行测》第109题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2008-未标注-110",
@@ -1051,7 +1160,9 @@
     "difficulty": "中等",
     "source": "2008年上海公务员考试《行测》第110题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2008-未标注-111",
@@ -1071,7 +1182,9 @@
     "difficulty": "中等",
     "source": "2008年上海公务员考试《行测》第111题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2008-未标注-112",
@@ -1091,7 +1204,9 @@
     "difficulty": "中等",
     "source": "2008年上海公务员考试《行测》第112题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2008-未标注-113",
@@ -1111,7 +1226,9 @@
     "difficulty": "中等",
     "source": "2008年上海公务员考试《行测》第113题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2008-未标注-114",
@@ -1131,7 +1248,9 @@
     "difficulty": "中等",
     "source": "2008年上海公务员考试《行测》第114题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2008-未标注-115",
@@ -1151,7 +1270,9 @@
     "difficulty": "中等",
     "source": "2008年上海公务员考试《行测》第115题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2008-未标注-116",
@@ -1187,7 +1308,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2008年上海公务员考试《行测》第116题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2008-未标注-117",
@@ -1223,7 +1346,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2008年上海公务员考试《行测》第117题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2008-未标注-118",
@@ -1259,7 +1384,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2008年上海公务员考试《行测》第118题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2008-未标注-119",
@@ -1295,7 +1422,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2008年上海公务员考试《行测》第119题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2008-未标注-120",
@@ -1331,7 +1460,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2008年上海公务员考试《行测》第120题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2008-未标注-121",
@@ -1367,7 +1498,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2008年上海公务员考试《行测》第121题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2008-未标注-122",
@@ -1403,7 +1536,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2008年上海公务员考试《行测》第122题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2008-未标注-123",
@@ -1439,7 +1574,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2008年上海公务员考试《行测》第123题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2008-未标注-124",
@@ -1475,7 +1612,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2008年上海公务员考试《行测》第124题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2008-未标注-125",
@@ -1511,7 +1650,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2008年上海公务员考试《行测》第125题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2009-未标注-96",
@@ -1547,7 +1688,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年上海公务员考试《行测》第96题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2009-未标注-97",
@@ -1583,7 +1726,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年上海公务员考试《行测》第97题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2009-未标注-98",
@@ -1603,7 +1748,9 @@
     "difficulty": "中等",
     "source": "2009年上海公务员考试《行测》第98题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "图形推理",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2009-未标注-99",
@@ -1640,7 +1787,9 @@
     "difficulty": "中等",
     "source": "2009年上海公务员考试《行测》第99题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2009-未标注-100",
@@ -1677,7 +1826,10 @@
     "difficulty": "中等",
     "source": "2009年上海公务员考试《行测》第100题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "isAbnormal": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2009-未标注-101",
@@ -1713,7 +1865,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年上海公务员考试《行测》第101题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2009-未标注-102",
@@ -1749,7 +1903,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年上海公务员考试《行测》第102题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2009-未标注-103",
@@ -1785,7 +1941,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年上海公务员考试《行测》第103题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2009-未标注-104",
@@ -1821,7 +1979,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年上海公务员考试《行测》第104题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2009-未标注-105",
@@ -1857,7 +2017,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年上海公务员考试《行测》第105题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2009-未标注-106",
@@ -1877,7 +2039,9 @@
     "difficulty": "中等",
     "source": "2009年上海公务员考试《行测》第106题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2009-未标注-107",
@@ -1896,7 +2060,9 @@
     "difficulty": "中等",
     "source": "2009年上海公务员考试《行测》第107题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2009-未标注-108",
@@ -1916,7 +2082,9 @@
     "difficulty": "中等",
     "source": "2009年上海公务员考试《行测》第108题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2009-未标注-109",
@@ -1936,7 +2104,9 @@
     "difficulty": "中等",
     "source": "2009年上海公务员考试《行测》第109题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2009-未标注-110",
@@ -1973,7 +2143,9 @@
     "difficulty": "中等",
     "source": "2009年上海公务员考试《行测》第110题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2009-未标注-111",
@@ -1993,7 +2165,9 @@
     "difficulty": "中等",
     "source": "2009年上海公务员考试《行测》第111题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2009-未标注-112",
@@ -2013,7 +2187,9 @@
     "difficulty": "中等",
     "source": "2009年上海公务员考试《行测》第112题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2009-未标注-113",
@@ -2033,7 +2209,9 @@
     "difficulty": "中等",
     "source": "2009年上海公务员考试《行测》第113题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2009-未标注-114",
@@ -2070,7 +2248,9 @@
     "difficulty": "中等",
     "source": "2009年上海公务员考试《行测》第114题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2009-未标注-115",
@@ -2090,7 +2270,9 @@
     "difficulty": "中等",
     "source": "2009年上海公务员考试《行测》第115题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2009-未标注-116",
@@ -2126,7 +2308,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年上海公务员考试《行测》第116题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2009-未标注-117",
@@ -2162,7 +2346,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年上海公务员考试《行测》第117题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2009-未标注-118",
@@ -2198,7 +2384,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年上海公务员考试《行测》第118题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2009-未标注-119",
@@ -2234,7 +2422,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年上海公务员考试《行测》第119题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2009-未标注-120",
@@ -2270,7 +2460,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年上海公务员考试《行测》第120题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2009-未标注-121",
@@ -2307,7 +2499,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年上海公务员考试《行测》第121题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2009-未标注-122",
@@ -2344,7 +2538,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年上海公务员考试《行测》第122题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2009-未标注-123",
@@ -2381,7 +2577,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年上海公务员考试《行测》第123题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2009-未标注-124",
@@ -2418,7 +2616,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年上海公务员考试《行测》第124题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2009-未标注-125",
@@ -2455,7 +2655,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年上海公务员考试《行测》第125题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2010-未标注-96",
@@ -2491,7 +2693,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年上海公务员考试《行测》第96题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2010-未标注-97",
@@ -2528,7 +2732,9 @@
     "difficulty": "中等",
     "source": "2010年上海公务员考试《行测》第97题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2010-未标注-98",
@@ -2564,7 +2770,9 @@
     "difficulty": "中等",
     "source": "2010年上海公务员考试《行测》第98题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2010-未标注-99",
@@ -2601,7 +2809,9 @@
     "difficulty": "中等",
     "source": "2010年上海公务员考试《行测》第99题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2010-未标注-100",
@@ -2636,7 +2846,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年上海公务员考试《行测》第100题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2010-未标注-101",
@@ -2672,7 +2884,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年上海公务员考试《行测》第101题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2010-未标注-102",
@@ -2708,7 +2922,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年上海公务员考试《行测》第102题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2010-未标注-103",
@@ -2744,7 +2960,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年上海公务员考试《行测》第103题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2010-未标注-104",
@@ -2780,7 +2998,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年上海公务员考试《行测》第104题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2010-未标注-105",
@@ -2816,7 +3036,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年上海公务员考试《行测》第105题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2010-未标注-106",
@@ -2853,7 +3075,9 @@
     "difficulty": "中等",
     "source": "2010年上海公务员考试《行测》第106题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2010-未标注-107",
@@ -2890,7 +3114,9 @@
     "difficulty": "中等",
     "source": "2010年上海公务员考试《行测》第107题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2010-未标注-108",
@@ -2910,7 +3136,9 @@
     "difficulty": "中等",
     "source": "2010年上海公务员考试《行测》第108题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2010-未标注-109",
@@ -2947,7 +3175,9 @@
     "difficulty": "中等",
     "source": "2010年上海公务员考试《行测》第109题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2010-未标注-110",
@@ -2967,7 +3197,9 @@
     "difficulty": "中等",
     "source": "2010年上海公务员考试《行测》第110题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2010-未标注-111",
@@ -2987,7 +3219,9 @@
     "difficulty": "中等",
     "source": "2010年上海公务员考试《行测》第111题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2010-未标注-112",
@@ -3007,7 +3241,9 @@
     "difficulty": "中等",
     "source": "2010年上海公务员考试《行测》第112题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2010-未标注-113",
@@ -3027,7 +3263,9 @@
     "difficulty": "中等",
     "source": "2010年上海公务员考试《行测》第113题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2010-未标注-114",
@@ -3047,7 +3285,9 @@
     "difficulty": "中等",
     "source": "2010年上海公务员考试《行测》第114题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2010-未标注-115",
@@ -3066,7 +3306,9 @@
     "difficulty": "中等",
     "source": "2010年上海公务员考试《行测》第115题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2010-未标注-116",
@@ -3086,7 +3328,9 @@
     "difficulty": "中等",
     "source": "2010年上海公务员考试《行测》第116题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "图形推理",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2010-未标注-117",
@@ -3122,7 +3366,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年上海公务员考试《行测》第117题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2010-未标注-118",
@@ -3158,7 +3404,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年上海公务员考试《行测》第118题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2010-未标注-119",
@@ -3194,7 +3442,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年上海公务员考试《行测》第119题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2010-未标注-120",
@@ -3230,7 +3480,10 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年上海公务员考试《行测》第120题",
-    "province": "上海"
+    "province": "上海",
+    "isAbnormal": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2010-未标注-121",
@@ -3266,7 +3519,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年上海公务员考试《行测》第121题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2010-未标注-122",
@@ -3302,7 +3557,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年上海公务员考试《行测》第122题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2010-未标注-123",
@@ -3338,7 +3595,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年上海公务员考试《行测》第123题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2010-未标注-124",
@@ -3375,7 +3634,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年上海公务员考试《行测》第124题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2010-未标注-125",
@@ -3412,7 +3673,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年上海公务员考试《行测》第125题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2011-A卷-96",
@@ -3448,7 +3711,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年上海公务员考试《行测》（A卷）第96题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2011-A卷-97",
@@ -3485,7 +3750,9 @@
     "difficulty": "中等",
     "source": "2011年上海公务员考试《行测》（A卷）第97题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2011-A卷-98",
@@ -3522,7 +3789,9 @@
     "difficulty": "中等",
     "source": "2011年上海公务员考试《行测》（A卷）第98题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2011-A卷-99",
@@ -3542,7 +3811,9 @@
     "difficulty": "中等",
     "source": "2011年上海公务员考试《行测》（A卷）第99题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2011-A卷-100",
@@ -3562,7 +3833,9 @@
     "difficulty": "中等",
     "source": "2011年上海公务员考试《行测》（A卷）第100题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "图形推理",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2011-A卷-101",
@@ -3598,7 +3871,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年上海公务员考试《行测》（A卷）第101题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2011-A卷-102",
@@ -3634,7 +3909,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年上海公务员考试《行测》（A卷）第102题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2011-A卷-103",
@@ -3670,7 +3947,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年上海公务员考试《行测》（A卷）第103题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2011-A卷-104",
@@ -3706,7 +3985,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年上海公务员考试《行测》（A卷）第104题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2011-A卷-105",
@@ -3742,7 +4023,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年上海公务员考试《行测》（A卷）第105题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2011-A卷-106",
@@ -3762,7 +4045,9 @@
     "difficulty": "中等",
     "source": "2011年上海公务员考试《行测》（A卷）第106题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2011-A卷-107",
@@ -3782,7 +4067,9 @@
     "difficulty": "中等",
     "source": "2011年上海公务员考试《行测》（A卷）第107题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2011-A卷-108",
@@ -3802,7 +4089,9 @@
     "difficulty": "中等",
     "source": "2011年上海公务员考试《行测》（A卷）第108题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2011-A卷-109",
@@ -3822,7 +4111,9 @@
     "difficulty": "中等",
     "source": "2011年上海公务员考试《行测》（A卷）第109题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2011-A卷-110",
@@ -3842,7 +4133,9 @@
     "difficulty": "中等",
     "source": "2011年上海公务员考试《行测》（A卷）第110题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2011-A卷-111",
@@ -3862,7 +4155,9 @@
     "difficulty": "中等",
     "source": "2011年上海公务员考试《行测》（A卷）第111题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2011-A卷-112",
@@ -3882,7 +4177,9 @@
     "difficulty": "中等",
     "source": "2011年上海公务员考试《行测》（A卷）第112题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2011-A卷-113",
@@ -3902,7 +4199,9 @@
     "difficulty": "中等",
     "source": "2011年上海公务员考试《行测》（A卷）第113题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2011-A卷-114",
@@ -3922,7 +4221,9 @@
     "difficulty": "中等",
     "source": "2011年上海公务员考试《行测》（A卷）第114题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2011-A卷-115",
@@ -3942,7 +4243,9 @@
     "difficulty": "中等",
     "source": "2011年上海公务员考试《行测》（A卷）第115题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2011-A卷-116",
@@ -3978,7 +4281,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年上海公务员考试《行测》（A卷）第116题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2011-A卷-117",
@@ -4014,7 +4319,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年上海公务员考试《行测》（A卷）第117题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2011-A卷-118",
@@ -4050,7 +4357,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年上海公务员考试《行测》（A卷）第118题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2011-A卷-119",
@@ -4086,7 +4395,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年上海公务员考试《行测》（A卷）第119题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2011-A卷-120",
@@ -4122,7 +4433,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年上海公务员考试《行测》（A卷）第120题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2011-A卷-121",
@@ -4158,7 +4471,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年上海公务员考试《行测》（A卷）第121题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2011-A卷-122",
@@ -4194,7 +4509,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年上海公务员考试《行测》（A卷）第122题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2011-A卷-123",
@@ -4230,7 +4547,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年上海公务员考试《行测》（A卷）第123题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2011-A卷-124",
@@ -4266,7 +4585,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年上海公务员考试《行测》（A卷）第124题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2011-A卷-125",
@@ -4302,7 +4623,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年上海公务员考试《行测》（A卷）第125题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2011-B卷-96",
@@ -4338,7 +4661,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年上海公务员考试《行测》（B卷）第96题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2011-B卷-97",
@@ -4375,7 +4700,9 @@
     "difficulty": "中等",
     "source": "2011年上海公务员考试《行测》（B卷）第97题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2011-B卷-98",
@@ -4412,7 +4739,9 @@
     "difficulty": "中等",
     "source": "2011年上海公务员考试《行测》（B卷）第98题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2011-B卷-99",
@@ -4448,7 +4777,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年上海公务员考试《行测》（B卷）第99题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2011-B卷-100",
@@ -4468,7 +4799,9 @@
     "difficulty": "中等",
     "source": "2011年上海公务员考试《行测》（B卷）第100题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2011-B卷-101",
@@ -4504,7 +4837,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年上海公务员考试《行测》（B卷）第101题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2011-B卷-102",
@@ -4540,7 +4875,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年上海公务员考试《行测》（B卷）第102题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2011-B卷-103",
@@ -4576,7 +4913,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年上海公务员考试《行测》（B卷）第103题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2011-B卷-104",
@@ -4612,7 +4951,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年上海公务员考试《行测》（B卷）第104题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2011-B卷-105",
@@ -4648,7 +4989,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年上海公务员考试《行测》（B卷）第105题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2011-B卷-106",
@@ -4668,7 +5011,9 @@
     "difficulty": "中等",
     "source": "2011年上海公务员考试《行测》（B卷）第106题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2011-B卷-107",
@@ -4687,7 +5032,9 @@
     "difficulty": "中等",
     "source": "2011年上海公务员考试《行测》（B卷）第107题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2011-B卷-108",
@@ -4724,7 +5071,9 @@
     "difficulty": "中等",
     "source": "2011年上海公务员考试《行测》（B卷）第108题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2011-B卷-109",
@@ -4744,7 +5093,9 @@
     "difficulty": "中等",
     "source": "2011年上海公务员考试《行测》（B卷）第109题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2011-B卷-110",
@@ -4764,7 +5115,9 @@
     "difficulty": "中等",
     "source": "2011年上海公务员考试《行测》（B卷）第110题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2011-B卷-111",
@@ -4784,7 +5137,9 @@
     "difficulty": "中等",
     "source": "2011年上海公务员考试《行测》（B卷）第111题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2011-B卷-112",
@@ -4804,7 +5159,9 @@
     "difficulty": "中等",
     "source": "2011年上海公务员考试《行测》（B卷）第112题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2011-B卷-113",
@@ -4824,7 +5181,9 @@
     "difficulty": "中等",
     "source": "2011年上海公务员考试《行测》（B卷）第113题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2011-B卷-114",
@@ -4844,7 +5203,9 @@
     "difficulty": "中等",
     "source": "2011年上海公务员考试《行测》（B卷）第114题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2011-B卷-115",
@@ -4864,7 +5225,9 @@
     "difficulty": "中等",
     "source": "2011年上海公务员考试《行测》（B卷）第115题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2011-B卷-116",
@@ -4899,7 +5262,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年上海公务员考试《行测》（B卷）第116题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2011-B卷-117",
@@ -4935,7 +5300,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年上海公务员考试《行测》（B卷）第117题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2011-B卷-118",
@@ -4971,7 +5338,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年上海公务员考试《行测》（B卷）第118题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2011-B卷-119",
@@ -5007,7 +5376,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年上海公务员考试《行测》（B卷）第119题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2011-B卷-120",
@@ -5043,7 +5414,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年上海公务员考试《行测》（B卷）第120题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2011-B卷-121",
@@ -5079,7 +5452,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年上海公务员考试《行测》（B卷）第121题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2011-B卷-122",
@@ -5115,7 +5490,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年上海公务员考试《行测》（B卷）第122题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2011-B卷-123",
@@ -5151,7 +5528,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年上海公务员考试《行测》（B卷）第123题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2011-B卷-124",
@@ -5187,7 +5566,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年上海公务员考试《行测》（B卷）第124题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2011-B卷-125",
@@ -5223,7 +5604,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年上海公务员考试《行测》（B卷）第125题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2012-A卷-96",
@@ -5260,7 +5643,9 @@
     "difficulty": "中等",
     "source": "2012年上海公务员考试《行测》（A卷）第96题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2012-A卷-97",
@@ -5297,7 +5682,9 @@
     "difficulty": "中等",
     "source": "2012年上海公务员考试《行测》（A卷）第97题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2012-A卷-98",
@@ -5330,7 +5717,9 @@
     "difficulty": "中等",
     "source": "2012年上海公务员考试《行测》（A卷）第98题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2012-A卷-99",
@@ -5350,7 +5739,9 @@
     "difficulty": "中等",
     "source": "2012年上海公务员考试《行测》（A卷）第99题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "图形推理",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2012-A卷-100",
@@ -5387,7 +5778,9 @@
     "difficulty": "中等",
     "source": "2012年上海公务员考试《行测》（A卷）第100题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2012-A卷-101",
@@ -5423,7 +5816,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年上海公务员考试《行测》（A卷）第101题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2012-A卷-102",
@@ -5459,7 +5854,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年上海公务员考试《行测》（A卷）第102题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2012-A卷-103",
@@ -5495,7 +5892,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年上海公务员考试《行测》（A卷）第103题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2012-A卷-104",
@@ -5531,7 +5930,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年上海公务员考试《行测》（A卷）第104题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2012-A卷-105",
@@ -5567,6 +5968,8 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年上海公务员考试《行测》（A卷）第105题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   }
 ]

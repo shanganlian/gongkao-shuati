@@ -32,7 +32,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年上海公务员考试《行测》（A卷）第36题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2015-A卷-37",
@@ -66,7 +68,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年上海公务员考试《行测》（A卷）第37题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2015-A卷-38",
@@ -101,7 +105,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年上海公务员考试《行测》（A卷）第38题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2015-A卷-39",
@@ -137,7 +143,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年上海公务员考试《行测》（A卷）第39题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2015-A卷-40",
@@ -173,7 +181,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年上海公务员考试《行测》（A卷）第40题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2015-A卷-41",
@@ -207,7 +217,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年上海公务员考试《行测》（A卷）第41题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2015-A卷-42",
@@ -226,7 +238,9 @@
     "difficulty": "中等",
     "source": "2015年上海公务员考试《行测》（A卷）第42题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2015-A卷-43",
@@ -245,7 +259,9 @@
     "difficulty": "中等",
     "source": "2015年上海公务员考试《行测》（A卷）第43题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2015-A卷-44",
@@ -263,7 +279,9 @@
     "difficulty": "中等",
     "source": "2015年上海公务员考试《行测》（A卷）第44题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2015-A卷-45",
@@ -282,7 +300,9 @@
     "difficulty": "中等",
     "source": "2015年上海公务员考试《行测》（A卷）第45题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2015-A卷-46",
@@ -301,7 +321,9 @@
     "difficulty": "中等",
     "source": "2015年上海公务员考试《行测》（A卷）第46题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2015-A卷-47",
@@ -319,7 +341,9 @@
     "difficulty": "中等",
     "source": "2015年上海公务员考试《行测》（A卷）第47题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2015-A卷-48",
@@ -338,7 +362,9 @@
     "difficulty": "中等",
     "source": "2015年上海公务员考试《行测》（A卷）第48题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2015-A卷-49",
@@ -375,7 +401,9 @@
     "difficulty": "中等",
     "source": "2015年上海公务员考试《行测》（A卷）第49题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2015-A卷-50",
@@ -395,7 +423,9 @@
     "difficulty": "中等",
     "source": "2015年上海公务员考试《行测》（A卷）第50题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2015-A卷-51",
@@ -414,7 +444,9 @@
     "difficulty": "中等",
     "source": "2015年上海公务员考试《行测》（A卷）第51题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2015-A卷-52",
@@ -434,7 +466,9 @@
     "difficulty": "中等",
     "source": "2015年上海公务员考试《行测》（A卷）第52题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2015-A卷-53",
@@ -452,7 +486,9 @@
     "difficulty": "中等",
     "source": "2015年上海公务员考试《行测》（A卷）第53题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2015-A卷-54",
@@ -487,7 +523,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年上海公务员考试《行测》（A卷）第54题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2015-A卷-55",
@@ -522,7 +560,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年上海公务员考试《行测》（A卷）第55题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2015-A卷-56",
@@ -558,7 +598,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年上海公务员考试《行测》（A卷）第56题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2015-A卷-57",
@@ -594,7 +636,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年上海公务员考试《行测》（A卷）第57题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2015-A卷-58",
@@ -630,7 +674,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年上海公务员考试《行测》（A卷）第58题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2015-A卷-59",
@@ -666,7 +712,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年上海公务员考试《行测》（A卷）第59题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2015-A卷-60",
@@ -701,7 +749,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年上海公务员考试《行测》（A卷）第60题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2015-A卷-61",
@@ -736,7 +786,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年上海公务员考试《行测》（A卷）第61题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2015-A卷-62",
@@ -770,7 +822,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年上海公务员考试《行测》（A卷）第62题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2015-A卷-63",
@@ -805,7 +859,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年上海公务员考试《行测》（A卷）第63题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2015-A卷-64",
@@ -840,7 +896,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年上海公务员考试《行测》（A卷）第64题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2015-A卷-65",
@@ -876,7 +934,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年上海公务员考试《行测》（A卷）第65题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2015-A卷-66",
@@ -912,7 +972,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年上海公务员考试《行测》（A卷）第66题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2015-A卷-67",
@@ -946,7 +1008,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年上海公务员考试《行测》（A卷）第67题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2015-A卷-68",
@@ -982,7 +1046,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年上海公务员考试《行测》（A卷）第68题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2015-A卷-69",
@@ -1019,7 +1085,9 @@
     "difficulty": "中等",
     "source": "2015年上海公务员考试《行测》（A卷）第69题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2015-A卷-70",
@@ -1054,7 +1122,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年上海公务员考试《行测》（A卷）第70题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "图形推理",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2015-A卷-71",
@@ -1089,7 +1159,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年上海公务员考试《行测》（A卷）第71题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2015-A卷-72",
@@ -1125,7 +1197,9 @@
     "difficulty": "中等",
     "source": "2015年上海公务员考试《行测》（A卷）第72题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "图形推理",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2015-A卷-73",
@@ -1161,7 +1235,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年上海公务员考试《行测》（A卷）第73题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2015-A卷-74",
@@ -1197,7 +1273,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年上海公务员考试《行测》（A卷）第74题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2015-A卷-75",
@@ -1233,7 +1311,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年上海公务员考试《行测》（A卷）第75题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2015-A卷-76",
@@ -1268,7 +1348,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年上海公务员考试《行测》（A卷）第76题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2015-A卷-77",
@@ -1303,7 +1385,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年上海公务员考试《行测》（A卷）第77题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2015-A卷-78",
@@ -1338,7 +1422,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年上海公务员考试《行测》（A卷）第78题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2015-A卷-79",
@@ -1373,7 +1459,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年上海公务员考试《行测》（A卷）第79题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2015-A卷-80",
@@ -1408,7 +1496,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年上海公务员考试《行测》（A卷）第80题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2015-A卷-81",
@@ -1444,7 +1534,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年上海公务员考试《行测》（A卷）第81题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2015-A卷-82",
@@ -1480,7 +1572,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年上海公务员考试《行测》（A卷）第82题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2015-A卷-83",
@@ -1517,7 +1611,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年上海公务员考试《行测》（A卷）第83题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2015-A卷-84",
@@ -1553,7 +1649,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年上海公务员考试《行测》（A卷）第84题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2015-A卷-85",
@@ -1586,7 +1684,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年上海公务员考试《行测》（A卷）第85题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2015-A卷-86",
@@ -1622,7 +1722,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年上海公务员考试《行测》（A卷）第86题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2015-A卷-87",
@@ -1657,7 +1759,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年上海公务员考试《行测》（A卷）第87题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2015-A卷-88",
@@ -1693,7 +1797,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年上海公务员考试《行测》（A卷）第88题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2015-A卷-89",
@@ -1726,7 +1832,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年上海公务员考试《行测》（A卷）第89题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2015-A卷-90",
@@ -1761,7 +1869,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年上海公务员考试《行测》（A卷）第90题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2015-A卷-91",
@@ -1796,7 +1906,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年上海公务员考试《行测》（A卷）第91题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2015-A卷-92",
@@ -1831,7 +1943,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年上海公务员考试《行测》（A卷）第92题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2015-A卷-93",
@@ -1866,7 +1980,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年上海公务员考试《行测》（A卷）第93题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2015-A卷-94",
@@ -1901,7 +2017,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年上海公务员考试《行测》（A卷）第94题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2015-A卷-95",
@@ -1937,7 +2055,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年上海公务员考试《行测》（A卷）第95题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2015-A卷-96",
@@ -1972,7 +2092,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年上海公务员考试《行测》（A卷）第96题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2015-A卷-97",
@@ -2005,7 +2127,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年上海公务员考试《行测》（A卷）第97题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "定义判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2015-A卷-98",
@@ -2040,7 +2164,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年上海公务员考试《行测》（A卷）第98题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2015-A卷-99",
@@ -2076,7 +2202,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年上海公务员考试《行测》（A卷）第99题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2015-A卷-100",
@@ -2111,7 +2239,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年上海公务员考试《行测》（A卷）第100题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2015-A卷-101",
@@ -2146,7 +2276,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年上海公务员考试《行测》（A卷）第101题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2015-A卷-102",
@@ -2181,7 +2313,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年上海公务员考试《行测》（A卷）第102题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2015-A卷-103",
@@ -2216,7 +2350,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年上海公务员考试《行测》（A卷）第103题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "定义判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2015-A卷-104",
@@ -2251,7 +2387,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年上海公务员考试《行测》（A卷）第104题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2015-A卷-105",
@@ -2287,7 +2425,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年上海公务员考试《行测》（A卷）第105题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "定义判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2015-A卷-106",
@@ -2323,7 +2463,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年上海公务员考试《行测》（A卷）第106题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "定义判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2015-A卷-107",
@@ -2359,7 +2501,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年上海公务员考试《行测》（A卷）第107题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2015-A卷-108",
@@ -2395,7 +2539,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年上海公务员考试《行测》（A卷）第108题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2015-A卷-109",
@@ -2431,7 +2577,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年上海公务员考试《行测》（A卷）第109题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2015-A卷-110",
@@ -2466,7 +2614,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年上海公务员考试《行测》（A卷）第110题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2015-A卷-111",
@@ -2502,7 +2652,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年上海公务员考试《行测》（A卷）第111题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2015-A卷-112",
@@ -2538,7 +2690,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年上海公务员考试《行测》（A卷）第112题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2015-A卷-113",
@@ -2573,7 +2727,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年上海公务员考试《行测》（A卷）第113题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2015-A卷-114",
@@ -2608,7 +2764,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年上海公务员考试《行测》（A卷）第114题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2015-A卷-115",
@@ -2644,7 +2802,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年上海公务员考试《行测》（A卷）第115题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2015-A卷-116",
@@ -2680,7 +2840,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年上海公务员考试《行测》（A卷）第116题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2015-A卷-117",
@@ -2715,7 +2877,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年上海公务员考试《行测》（A卷）第117题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "定义判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2015-A卷-118",
@@ -2752,7 +2916,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年上海公务员考试《行测》（A卷）第118题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "定义判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2015-A卷-119",
@@ -2788,7 +2954,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年上海公务员考试《行测》（A卷）第119题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "定义判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2015-A卷-120",
@@ -2821,7 +2989,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年上海公务员考试《行测》（A卷）第120题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "类比推理",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2015-A卷-121",
@@ -2856,7 +3026,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年上海公务员考试《行测》（A卷）第121题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2015-A卷-122",
@@ -2891,7 +3063,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年上海公务员考试《行测》（A卷）第122题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2015-A卷-123",
@@ -2926,7 +3100,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年上海公务员考试《行测》（A卷）第123题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2015-A卷-124",
@@ -2961,7 +3137,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年上海公务员考试《行测》（A卷）第124题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2015-A卷-125",
@@ -2996,7 +3174,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年上海公务员考试《行测》（A卷）第125题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2015-A卷-126",
@@ -3031,7 +3211,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年上海公务员考试《行测》（A卷）第126题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2015-A卷-127",
@@ -3064,7 +3246,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年上海公务员考试《行测》（A卷）第127题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2015-A卷-128",
@@ -3100,7 +3284,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年上海公务员考试《行测》（A卷）第128题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2015-A卷-129",
@@ -3135,7 +3321,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年上海公务员考试《行测》（A卷）第129题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2015-A卷-130",
@@ -3171,7 +3359,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年上海公务员考试《行测》（A卷）第130题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2015-A卷-131",
@@ -3207,7 +3397,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年上海公务员考试《行测》（A卷）第131题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2015-A卷-132",
@@ -3243,7 +3435,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年上海公务员考试《行测》（A卷）第132题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2015-A卷-133",
@@ -3279,7 +3473,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年上海公务员考试《行测》（A卷）第133题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2015-A卷-134",
@@ -3315,7 +3511,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年上海公务员考试《行测》（A卷）第134题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2015-A卷-135",
@@ -3350,7 +3548,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年上海公务员考试《行测》（A卷）第135题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2015-A卷-136",
@@ -3385,7 +3585,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年上海公务员考试《行测》（A卷）第136题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2015-A卷-137",
@@ -3420,7 +3622,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年上海公务员考试《行测》（A卷）第137题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2015-A卷-138",
@@ -3456,7 +3660,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年上海公务员考试《行测》（A卷）第138题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2015-A卷-139",
@@ -3491,7 +3697,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年上海公务员考试《行测》（A卷）第139题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "定义判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2015-A卷-140",
@@ -3527,7 +3735,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年上海公务员考试《行测》（A卷）第140题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2015-B卷-86",
@@ -3563,7 +3773,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年上海公务员考试《行测》（B卷）第86题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2015-B卷-87",
@@ -3583,7 +3795,9 @@
     "difficulty": "中等",
     "source": "2015年上海公务员考试《行测》（B卷）第87题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "图形推理",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2015-B卷-88",
@@ -3603,7 +3817,9 @@
     "difficulty": "中等",
     "source": "2015年上海公务员考试《行测》（B卷）第88题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "图形推理",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2015-B卷-89",
@@ -3639,7 +3855,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年上海公务员考试《行测》（B卷）第89题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2015-B卷-90",
@@ -3659,7 +3877,9 @@
     "difficulty": "中等",
     "source": "2015年上海公务员考试《行测》（B卷）第90题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2015-B卷-91",
@@ -3696,7 +3916,9 @@
     "difficulty": "中等",
     "source": "2015年上海公务员考试《行测》（B卷）第91题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2015-B卷-92",
@@ -3733,7 +3955,9 @@
     "difficulty": "中等",
     "source": "2015年上海公务员考试《行测》（B卷）第92题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2015-B卷-93",
@@ -3769,7 +3993,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年上海公务员考试《行测》（B卷）第93题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2015-B卷-94",
@@ -3806,7 +4032,9 @@
     "difficulty": "中等",
     "source": "2015年上海公务员考试《行测》（B卷）第94题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2015-B卷-95",
@@ -3843,7 +4071,9 @@
     "difficulty": "中等",
     "source": "2015年上海公务员考试《行测》（B卷）第95题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "图形推理",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2015-B卷-96",
@@ -3879,7 +4109,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年上海公务员考试《行测》（B卷）第96题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2015-B卷-97",
@@ -3914,7 +4146,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年上海公务员考试《行测》（B卷）第97题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2015-B卷-98",
@@ -3950,7 +4184,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年上海公务员考试《行测》（B卷）第98题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2015-B卷-99",
@@ -3986,7 +4222,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年上海公务员考试《行测》（B卷）第99题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2015-B卷-100",
@@ -4021,7 +4259,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年上海公务员考试《行测》（B卷）第100题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2015-B卷-101",
@@ -4057,7 +4297,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年上海公务员考试《行测》（B卷）第101题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2015-B卷-102",
@@ -4094,7 +4336,9 @@
     "difficulty": "中等",
     "source": "2015年上海公务员考试《行测》（B卷）第102题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2015-B卷-103",
@@ -4114,7 +4358,9 @@
     "difficulty": "中等",
     "source": "2015年上海公务员考试《行测》（B卷）第103题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2015-B卷-104",
@@ -4134,7 +4380,9 @@
     "difficulty": "中等",
     "source": "2015年上海公务员考试《行测》（B卷）第104题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2015-B卷-105",
@@ -4154,7 +4402,9 @@
     "difficulty": "中等",
     "source": "2015年上海公务员考试《行测》（B卷）第105题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2015-B卷-106",
@@ -4174,7 +4424,9 @@
     "difficulty": "中等",
     "source": "2015年上海公务员考试《行测》（B卷）第106题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2015-B卷-107",
@@ -4194,7 +4446,9 @@
     "difficulty": "中等",
     "source": "2015年上海公务员考试《行测》（B卷）第107题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2015-B卷-108",
@@ -4214,7 +4468,9 @@
     "difficulty": "中等",
     "source": "2015年上海公务员考试《行测》（B卷）第108题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2015-B卷-109",
@@ -4233,7 +4489,9 @@
     "difficulty": "中等",
     "source": "2015年上海公务员考试《行测》（B卷）第109题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2015-B卷-110",
@@ -4253,7 +4511,9 @@
     "difficulty": "中等",
     "source": "2015年上海公务员考试《行测》（B卷）第110题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2015-B卷-111",
@@ -4273,7 +4533,9 @@
     "difficulty": "中等",
     "source": "2015年上海公务员考试《行测》（B卷）第111题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2015-B卷-112",
@@ -4293,7 +4555,9 @@
     "difficulty": "中等",
     "source": "2015年上海公务员考试《行测》（B卷）第112题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2015-B卷-113",
@@ -4313,7 +4577,9 @@
     "difficulty": "中等",
     "source": "2015年上海公务员考试《行测》（B卷）第113题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2015-B卷-114",
@@ -4349,7 +4615,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年上海公务员考试《行测》（B卷）第114题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2015-B卷-115",
@@ -4385,7 +4653,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年上海公务员考试《行测》（B卷）第115题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2015-B卷-116",
@@ -4421,7 +4691,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年上海公务员考试《行测》（B卷）第116题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2015-B卷-117",
@@ -4457,7 +4729,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年上海公务员考试《行测》（B卷）第117题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2015-B卷-118",
@@ -4493,7 +4767,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年上海公务员考试《行测》（B卷）第118题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2015-B卷-119",
@@ -4528,7 +4804,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年上海公务员考试《行测》（B卷）第119题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2015-B卷-120",
@@ -4564,7 +4842,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年上海公务员考试《行测》（B卷）第120题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2015-B卷-121",
@@ -4600,7 +4880,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年上海公务员考试《行测》（B卷）第121题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2015-B卷-122",
@@ -4636,7 +4918,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年上海公务员考试《行测》（B卷）第122题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2015-B卷-123",
@@ -4672,7 +4956,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年上海公务员考试《行测》（B卷）第123题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2015-B卷-124",
@@ -4708,7 +4994,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年上海公务员考试《行测》（B卷）第124题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2015-B卷-125",
@@ -4744,7 +5032,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年上海公务员考试《行测》（B卷）第125题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2016-A卷-64",
@@ -4780,7 +5070,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年上海公务员考试《行测》（A卷）第64题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2016-A卷-65",
@@ -4812,7 +5104,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年上海公务员考试《行测》（A卷）第65题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2016-A卷-66",
@@ -4845,7 +5139,9 @@
     "difficulty": "中等",
     "source": "2016年上海公务员考试《行测》（A卷）第66题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2016-A卷-67",
@@ -4877,7 +5173,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年上海公务员考试《行测》（A卷）第67题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2016-A卷-68",
@@ -4914,7 +5212,9 @@
     "difficulty": "中等",
     "source": "2016年上海公务员考试《行测》（A卷）第68题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "图形推理",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2016-A卷-69",
@@ -4948,7 +5248,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年上海公务员考试《行测》（A卷）第69题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2016-A卷-70",
@@ -4982,7 +5284,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年上海公务员考试《行测》（A卷）第70题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2016-A卷-71",
@@ -5017,7 +5321,9 @@
     "difficulty": "中等",
     "source": "2016年上海公务员考试《行测》（A卷）第71题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2016-A卷-72",
@@ -5053,7 +5359,9 @@
     "difficulty": "中等",
     "source": "2016年上海公务员考试《行测》（A卷）第72题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2016-A卷-73",
@@ -5089,7 +5397,9 @@
     "difficulty": "中等",
     "source": "2016年上海公务员考试《行测》（A卷）第73题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2016-A卷-74",
@@ -5107,7 +5417,9 @@
     "difficulty": "中等",
     "source": "2016年上海公务员考试《行测》（A卷）第74题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2016-A卷-75",
@@ -5126,7 +5438,9 @@
     "difficulty": "中等",
     "source": "2016年上海公务员考试《行测》（A卷）第75题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2016-A卷-76",
@@ -5145,7 +5459,9 @@
     "difficulty": "中等",
     "source": "2016年上海公务员考试《行测》（A卷）第76题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2016-A卷-77",
@@ -5164,7 +5480,9 @@
     "difficulty": "中等",
     "source": "2016年上海公务员考试《行测》（A卷）第77题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2016-A卷-78",
@@ -5182,7 +5500,9 @@
     "difficulty": "中等",
     "source": "2016年上海公务员考试《行测》（A卷）第78题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2016-A卷-79",
@@ -5200,7 +5520,9 @@
     "difficulty": "中等",
     "source": "2016年上海公务员考试《行测》（A卷）第79题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2016-A卷-80",
@@ -5219,7 +5541,9 @@
     "difficulty": "中等",
     "source": "2016年上海公务员考试《行测》（A卷）第80题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2016-A卷-81",
@@ -5237,7 +5561,9 @@
     "difficulty": "中等",
     "source": "2016年上海公务员考试《行测》（A卷）第81题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2016-A卷-82",
@@ -5256,7 +5582,9 @@
     "difficulty": "中等",
     "source": "2016年上海公务员考试《行测》（A卷）第82题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2016-A卷-83",
@@ -5288,7 +5616,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年上海公务员考试《行测》（A卷）第83题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2016-A卷-84",
@@ -5323,7 +5653,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年上海公务员考试《行测》（A卷）第84题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2016-A卷-85",
@@ -5359,7 +5691,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年上海公务员考试《行测》（A卷）第85题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2016-A卷-86",
@@ -5395,7 +5729,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年上海公务员考试《行测》（A卷）第86题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2016-A卷-87",
@@ -5429,7 +5765,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年上海公务员考试《行测》（A卷）第87题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2016-A卷-88",
@@ -5464,7 +5802,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年上海公务员考试《行测》（A卷）第88题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2016-A卷-89",
@@ -5500,7 +5840,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年上海公务员考试《行测》（A卷）第89题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2016-A卷-90",
@@ -5534,7 +5876,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年上海公务员考试《行测》（A卷）第90题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2016-A卷-91",
@@ -5566,7 +5910,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年上海公务员考试《行测》（A卷）第91题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2016-A卷-92",
@@ -5601,7 +5947,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年上海公务员考试《行测》（A卷）第92题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2016-A卷-93",
@@ -5635,7 +5983,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年上海公务员考试《行测》（A卷）第93题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2016-A卷-94",
@@ -5670,7 +6020,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年上海公务员考试《行测》（A卷）第94题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2016-A卷-95",
@@ -5705,7 +6057,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年上海公务员考试《行测》（A卷）第95题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2016-B卷-86",
@@ -5741,7 +6095,9 @@
     "difficulty": "中等",
     "source": "2016年上海公务员考试《行测》（B卷）第86题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2016-B卷-87",
@@ -5773,7 +6129,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年上海公务员考试《行测》（B卷）第87题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2016-B卷-88",
@@ -5808,7 +6166,9 @@
     "difficulty": "中等",
     "source": "2016年上海公务员考试《行测》（B卷）第88题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "图形推理",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2016-B卷-89",
@@ -5844,7 +6204,9 @@
     "difficulty": "中等",
     "source": "2016年上海公务员考试《行测》（B卷）第89题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2016-B卷-90",
@@ -5877,7 +6239,9 @@
     "difficulty": "中等",
     "source": "2016年上海公务员考试《行测》（B卷）第90题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2016-B卷-91",
@@ -5911,7 +6275,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年上海公务员考试《行测》（B卷）第91题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2016-B卷-92",
@@ -5943,7 +6309,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年上海公务员考试《行测》（B卷）第92题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2016-B卷-93",
@@ -5978,7 +6346,9 @@
     "difficulty": "中等",
     "source": "2016年上海公务员考试《行测》（B卷）第93题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2016-B卷-94",
@@ -6013,7 +6383,9 @@
     "difficulty": "中等",
     "source": "2016年上海公务员考试《行测》（B卷）第94题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2016-B卷-95",
@@ -6047,7 +6419,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年上海公务员考试《行测》（B卷）第95题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2016-B卷-96",
@@ -6082,7 +6456,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年上海公务员考试《行测》（B卷）第96题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2016-B卷-97",
@@ -6117,7 +6493,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年上海公务员考试《行测》（B卷）第97题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2016-B卷-98",
@@ -6153,7 +6531,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年上海公务员考试《行测》（B卷）第98题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2016-B卷-99",
@@ -6189,7 +6569,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年上海公务员考试《行测》（B卷）第99题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2016-B卷-100",
@@ -6225,7 +6607,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年上海公务员考试《行测》（B卷）第100题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2016-B卷-101",
@@ -6261,7 +6645,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年上海公务员考试《行测》（B卷）第101题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2016-B卷-102",
@@ -6281,7 +6667,9 @@
     "difficulty": "中等",
     "source": "2016年上海公务员考试《行测》（B卷）第102题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2016-B卷-103",
@@ -6300,7 +6688,9 @@
     "difficulty": "中等",
     "source": "2016年上海公务员考试《行测》（B卷）第103题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2016-B卷-104",
@@ -6319,7 +6709,9 @@
     "difficulty": "中等",
     "source": "2016年上海公务员考试《行测》（B卷）第104题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2016-B卷-105",
@@ -6338,7 +6730,9 @@
     "difficulty": "中等",
     "source": "2016年上海公务员考试《行测》（B卷）第105题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2016-B卷-106",
@@ -6357,7 +6751,9 @@
     "difficulty": "中等",
     "source": "2016年上海公务员考试《行测》（B卷）第106题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2016-B卷-107",
@@ -6376,7 +6772,9 @@
     "difficulty": "中等",
     "source": "2016年上海公务员考试《行测》（B卷）第107题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2016-B卷-108",
@@ -6396,6 +6794,8 @@
     "difficulty": "中等",
     "source": "2016年上海公务员考试《行测》（B卷）第108题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   }
 ]

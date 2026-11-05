@@ -31,7 +31,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2007年广西公务员考试《行测》第50题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2007-未标注-51",
@@ -65,7 +67,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2007年广西公务员考试《行测》第51题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2007-未标注-52",
@@ -100,7 +104,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2007年广西公务员考试《行测》第52题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2007-未标注-53",
@@ -134,7 +140,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2007年广西公务员考试《行测》第53题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2007-未标注-54",
@@ -150,7 +158,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2007年广西公务员考试《行测》第54题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangxi-2007-未标注-55",
@@ -185,7 +195,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2007年广西公务员考试《行测》第55题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2007-未标注-56",
@@ -220,7 +232,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2007年广西公务员考试《行测》第56题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2007-未标注-57",
@@ -254,7 +268,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2007年广西公务员考试《行测》第57题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2007-未标注-58",
@@ -288,7 +304,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2007年广西公务员考试《行测》第58题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2007-未标注-59",
@@ -324,7 +342,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2007年广西公务员考试《行测》第59题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2007-未标注-60",
@@ -356,7 +376,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2007年广西公务员考试《行测》第60题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2007-未标注-61",
@@ -390,7 +412,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2007年广西公务员考试《行测》第61题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2007-未标注-62",
@@ -424,7 +448,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2007年广西公务员考试《行测》第62题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2007-未标注-63",
@@ -458,7 +484,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2007年广西公务员考试《行测》第63题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2007-未标注-64",
@@ -493,7 +521,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2007年广西公务员考试《行测》第64题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2007-未标注-65",
@@ -527,7 +557,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2007年广西公务员考试《行测》第65题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2007-未标注-66",
@@ -561,7 +593,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2007年广西公务员考试《行测》第66题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2007-未标注-67",
@@ -595,7 +629,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2007年广西公务员考试《行测》第67题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2007-未标注-68",
@@ -631,7 +667,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2007年广西公务员考试《行测》第68题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2007-未标注-69",
@@ -667,7 +705,9 @@
     "difficulty": "拔高",
     "source": "2007年广西公务员考试《行测》第69题",
     "isImageQuestion": true,
-    "province": "广西"
+    "province": "广西",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2008-未标注-1",
@@ -702,7 +742,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2008年广西公务员考试《行测》第1题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2008-未标注-2",
@@ -736,7 +778,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2008年广西公务员考试《行测》第2题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2008-未标注-3",
@@ -772,7 +816,9 @@
     "difficulty": "拔高",
     "source": "2008年广西公务员考试《行测》第3题",
     "isImageQuestion": true,
-    "province": "广西"
+    "province": "广西",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2008-未标注-4",
@@ -809,7 +855,9 @@
     "difficulty": "拔高",
     "source": "2008年广西公务员考试《行测》第4题",
     "isImageQuestion": true,
-    "province": "广西"
+    "province": "广西",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangxi-2008-未标注-5",
@@ -843,7 +891,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2008年广西公务员考试《行测》第5题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2008-未标注-6",
@@ -879,7 +929,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2008年广西公务员考试《行测》第6题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2008-未标注-7",
@@ -913,7 +965,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2008年广西公务员考试《行测》第7题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2008-未标注-8",
@@ -949,7 +1003,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2008年广西公务员考试《行测》第8题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2008-未标注-9",
@@ -984,7 +1040,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2008年广西公务员考试《行测》第9题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2008-未标注-10",
@@ -1018,7 +1076,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2008年广西公务员考试《行测》第10题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2008-未标注-11",
@@ -1052,7 +1112,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2008年广西公务员考试《行测》第11题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2008-未标注-12",
@@ -1086,7 +1148,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2008年广西公务员考试《行测》第12题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2008-未标注-13",
@@ -1121,7 +1185,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2008年广西公务员考试《行测》第13题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2008-未标注-14",
@@ -1156,7 +1222,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2008年广西公务员考试《行测》第14题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2008-未标注-15",
@@ -1192,7 +1260,9 @@
     "difficulty": "拔高",
     "source": "2008年广西公务员考试《行测》第15题",
     "isImageQuestion": true,
-    "province": "广西"
+    "province": "广西",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2009-未标注-1",
@@ -1227,7 +1297,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2009年广西公务员考试《行测》第1题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2009-未标注-2",
@@ -1262,7 +1334,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2009年广西公务员考试《行测》第2题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2009-未标注-3",
@@ -1297,7 +1371,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2009年广西公务员考试《行测》第3题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2009-未标注-4",
@@ -1332,7 +1408,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2009年广西公务员考试《行测》第4题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2009-未标注-5",
@@ -1367,7 +1445,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2009年广西公务员考试《行测》第5题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2009-未标注-6",
@@ -1402,7 +1482,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2009年广西公务员考试《行测》第6题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2009-未标注-7",
@@ -1434,7 +1516,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2009年广西公务员考试《行测》第7题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2009-未标注-8",
@@ -1470,7 +1554,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2009年广西公务员考试《行测》第8题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2009-未标注-9",
@@ -1504,7 +1590,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2009年广西公务员考试《行测》第9题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2009-未标注-10",
@@ -1540,7 +1628,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2009年广西公务员考试《行测》第10题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2009-未标注-11",
@@ -1575,7 +1665,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2009年广西公务员考试《行测》第11题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2009-未标注-12",
@@ -1610,7 +1702,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2009年广西公务员考试《行测》第12题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2009-未标注-13",
@@ -1645,7 +1739,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2009年广西公务员考试《行测》第13题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2009-未标注-14",
@@ -1679,7 +1775,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2009年广西公务员考试《行测》第14题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2009-未标注-15",
@@ -1696,7 +1794,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2009年广西公务员考试《行测》第15题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2010-425联考-1",
@@ -1733,7 +1833,9 @@
     "difficulty": "拔高",
     "source": "2010年广西公务员考试《行测》（425联考）第1题",
     "isImageQuestion": true,
-    "province": "广西"
+    "province": "广西",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2010-425联考-2",
@@ -1765,7 +1867,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2010年广西公务员考试《行测》（425联考）第2题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2010-425联考-3",
@@ -1801,7 +1905,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2010年广西公务员考试《行测》（425联考）第3题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2010-425联考-4",
@@ -1837,7 +1943,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2010年广西公务员考试《行测》（425联考）第4题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2010-425联考-5",
@@ -1872,7 +1980,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2010年广西公务员考试《行测》（425联考）第5题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2010-425联考-6",
@@ -1906,7 +2016,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2010年广西公务员考试《行测》（425联考）第6题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2010-425联考-7",
@@ -1938,7 +2050,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2010年广西公务员考试《行测》（425联考）第7题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2010-425联考-8",
@@ -1972,7 +2086,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2010年广西公务员考试《行测》（425联考）第8题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2010-425联考-9",
@@ -2006,7 +2122,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2010年广西公务员考试《行测》（425联考）第9题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2010-425联考-10",
@@ -2041,7 +2159,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2010年广西公务员考试《行测》（425联考）第10题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2010-425联考-11",
@@ -2075,7 +2195,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2010年广西公务员考试《行测》（425联考）第11题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2010-425联考-12",
@@ -2111,7 +2233,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2010年广西公务员考试《行测》（425联考）第12题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2010-425联考-13",
@@ -2143,7 +2267,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2010年广西公务员考试《行测》（425联考）第13题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2010-425联考-14",
@@ -2160,7 +2286,10 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2010年广西公务员考试《行测》（425联考）第14题",
-    "province": "广西"
+    "province": "广西",
+    "isAbnormal": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2010-425联考-15",
@@ -2176,7 +2305,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2010年广西公务员考试《行测》（425联考）第15题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangxi-2010-425联考-16",
@@ -2192,7 +2323,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2010年广西公务员考试《行测》（425联考）第16题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangxi-2010-425联考-17",
@@ -2208,7 +2341,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2010年广西公务员考试《行测》（425联考）第17题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangxi-2010-425联考-18",
@@ -2224,7 +2359,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2010年广西公务员考试《行测》（425联考）第18题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangxi-2010-425联考-19",
@@ -2240,7 +2377,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2010年广西公务员考试《行测》（425联考）第19题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangxi-2010-425联考-20",
@@ -2256,7 +2395,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2010年广西公务员考试《行测》（425联考）第20题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangxi-2010-425联考-21",
@@ -2272,7 +2413,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2010年广西公务员考试《行测》（425联考）第21题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangxi-2010-425联考-22",
@@ -2288,7 +2431,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2010年广西公务员考试《行测》（425联考）第22题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangxi-2010-425联考-23",
@@ -2304,7 +2449,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2010年广西公务员考试《行测》（425联考）第23题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangxi-2010-425联考-24",
@@ -2320,7 +2467,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2010年广西公务员考试《行测》（425联考）第24题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangxi-2010-425联考-25",
@@ -2336,7 +2485,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2010年广西公务员考试《行测》（425联考）第25题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangxi-2010-425联考-26",
@@ -2352,7 +2503,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2010年广西公务员考试《行测》（425联考）第26题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangxi-2010-425联考-27",
@@ -2368,7 +2521,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2010年广西公务员考试《行测》（425联考）第27题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangxi-2010-425联考-28",
@@ -2384,7 +2539,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2010年广西公务员考试《行测》（425联考）第28题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangxi-2010-425联考-29",
@@ -2400,7 +2557,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2010年广西公务员考试《行测》（425联考）第29题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangxi-2010-425联考-30",
@@ -2416,7 +2575,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2010年广西公务员考试《行测》（425联考）第30题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangxi-2010-425联考-31",
@@ -2432,7 +2593,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2010年广西公务员考试《行测》（425联考）第31题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangxi-2010-425联考-32",
@@ -2448,7 +2611,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2010年广西公务员考试《行测》（425联考）第32题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangxi-2010-425联考-33",
@@ -2464,7 +2629,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2010年广西公务员考试《行测》（425联考）第33题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangxi-2010-425联考-34",
@@ -2500,7 +2667,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2010年广西公务员考试《行测》（425联考）第34题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangxi-2011-424联考-41",
@@ -2536,7 +2705,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2011年广西公务员考试《行测》（424联考）第41题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2011-424联考-42",
@@ -2570,7 +2741,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2011年广西公务员考试《行测》（424联考）第42题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2011-424联考-43",
@@ -2602,7 +2775,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2011年广西公务员考试《行测》（424联考）第43题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2011-424联考-44",
@@ -2636,7 +2811,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2011年广西公务员考试《行测》（424联考）第44题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2011-424联考-45",
@@ -2671,7 +2848,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2011年广西公务员考试《行测》（424联考）第45题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2011-424联考-46",
@@ -2706,7 +2885,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2011年广西公务员考试《行测》（424联考）第46题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2011-424联考-47",
@@ -2742,7 +2923,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2011年广西公务员考试《行测》（424联考）第47题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2011-424联考-48",
@@ -2777,7 +2960,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2011年广西公务员考试《行测》（424联考）第48题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2011-424联考-49",
@@ -2811,7 +2996,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2011年广西公务员考试《行测》（424联考）第49题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2011-424联考-50",
@@ -2847,7 +3034,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2011年广西公务员考试《行测》（424联考）第50题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2013-413联考-76",
@@ -2879,7 +3068,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2013年广西公务员考试《行测》（413联考）第76题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2013-413联考-77",
@@ -2913,7 +3104,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2013年广西公务员考试《行测》（413联考）第77题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2013-413联考-78",
@@ -2947,7 +3140,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2013年广西公务员考试《行测》（413联考）第78题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2013-413联考-79",
@@ -2983,7 +3178,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2013年广西公务员考试《行测》（413联考）第79题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangxi-2013-413联考-80",
@@ -3017,7 +3214,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2013年广西公务员考试《行测》（413联考）第80题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2013-413联考-81",
@@ -3052,7 +3251,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2013年广西公务员考试《行测》（413联考）第81题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2013-413联考-82",
@@ -3086,7 +3287,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2013年广西公务员考试《行测》（413联考）第82题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2013-413联考-83",
@@ -3120,7 +3323,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2013年广西公务员考试《行测》（413联考）第83题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2013-413联考-84",
@@ -3155,7 +3360,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2013年广西公务员考试《行测》（413联考）第84题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2013-413联考-85",
@@ -3190,7 +3397,9 @@
     "difficulty": "拔高",
     "source": "2013年广西公务员考试《行测》（413联考）第85题",
     "isImageQuestion": true,
-    "province": "广西"
+    "province": "广西",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2013-413联考-86",
@@ -3224,7 +3433,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2013年广西公务员考试《行测》（413联考）第86题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2013-413联考-87",
@@ -3258,7 +3469,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2013年广西公务员考试《行测》（413联考）第87题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2013-413联考-88",
@@ -3294,7 +3507,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2013年广西公务员考试《行测》（413联考）第88题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangxi-2013-413联考-89",
@@ -3326,7 +3541,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2013年广西公务员考试《行测》（413联考）第89题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2013-413联考-90",
@@ -3360,7 +3577,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2013年广西公务员考试《行测》（413联考）第90题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2014-联考-56",
@@ -3395,7 +3614,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2014年广西公务员考试《行测》（联考）第56题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2014-联考-57",
@@ -3429,7 +3650,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2014年广西公务员考试《行测》（联考）第57题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "排列概率",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangxi-2014-联考-58",
@@ -3463,7 +3686,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2014年广西公务员考试《行测》（联考）第58题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2014-联考-59",
@@ -3497,7 +3722,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2014年广西公务员考试《行测》（联考）第59题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2014-联考-60",
@@ -3533,7 +3760,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2014年广西公务员考试《行测》（联考）第60题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2014-联考-61",
@@ -3568,7 +3797,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2014年广西公务员考试《行测》（联考）第61题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2014-联考-62",
@@ -3602,7 +3833,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2014年广西公务员考试《行测》（联考）第62题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2014-联考-63",
@@ -3636,7 +3869,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2014年广西公务员考试《行测》（联考）第63题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2014-联考-64",
@@ -3671,7 +3906,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2014年广西公务员考试《行测》（联考）第64题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2014-联考-65",
@@ -3705,7 +3942,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2014年广西公务员考试《行测》（联考）第65题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2015-425联考-66",
@@ -3739,7 +3978,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2015年广西公务员考试《行测》（425联考）第66题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2015-425联考-67",
@@ -3773,7 +4014,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2015年广西公务员考试《行测》（425联考）第67题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2015-425联考-68",
@@ -3806,7 +4049,9 @@
     "difficulty": "拔高",
     "source": "2015年广西公务员考试《行测》（425联考）第68题",
     "isImageQuestion": true,
-    "province": "广西"
+    "province": "广西",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2015-425联考-69",
@@ -3840,7 +4085,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2015年广西公务员考试《行测》（425联考）第69题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2015-425联考-70",
@@ -3874,7 +4121,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2015年广西公务员考试《行测》（425联考）第70题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2015-425联考-71",
@@ -3909,7 +4158,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2015年广西公务员考试《行测》（425联考）第71题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2015-425联考-72",
@@ -3941,7 +4192,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2015年广西公务员考试《行测》（425联考）第72题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2015-425联考-73",
@@ -3977,7 +4230,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2015年广西公务员考试《行测》（425联考）第73题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2015-425联考-74",
@@ -4013,7 +4268,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2015年广西公务员考试《行测》（425联考）第74题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2015-425联考-75",
@@ -4048,7 +4305,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2015年广西公务员考试《行测》（425联考）第75题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2016-未标注-66",
@@ -4084,7 +4343,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2016年广西公务员考试《行测》第66题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2016-未标注-67",
@@ -4120,7 +4381,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2016年广西公务员考试《行测》第67题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2016-未标注-68",
@@ -4156,7 +4419,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2016年广西公务员考试《行测》第68题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2016-未标注-69",
@@ -4191,7 +4456,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2016年广西公务员考试《行测》第69题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2016-未标注-70",
@@ -4226,7 +4493,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2016年广西公务员考试《行测》第70题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2016-未标注-71",
@@ -4260,7 +4529,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2016年广西公务员考试《行测》第71题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2016-未标注-72",
@@ -4295,7 +4566,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2016年广西公务员考试《行测》第72题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2016-未标注-73",
@@ -4330,7 +4603,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2016年广西公务员考试《行测》第73题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2016-未标注-74",
@@ -4365,7 +4640,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2016年广西公务员考试《行测》第74题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2016-未标注-75",
@@ -4399,7 +4676,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2016年广西公务员考试《行测》第75题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2018-未标注-46",
@@ -4431,7 +4710,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2018年广西公务员考试《行测》第46题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2018-未标注-47",
@@ -4465,7 +4746,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2018年广西公务员考试《行测》第47题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2018-未标注-48",
@@ -4499,7 +4782,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2018年广西公务员考试《行测》第48题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2018-未标注-49",
@@ -4534,7 +4819,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2018年广西公务员考试《行测》第49题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2018-未标注-50",
@@ -4569,7 +4856,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2018年广西公务员考试《行测》第50题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2018-未标注-51",
@@ -4606,7 +4895,9 @@
     "difficulty": "拔高",
     "source": "2018年广西公务员考试《行测》第51题",
     "isImageQuestion": true,
-    "province": "广西"
+    "province": "广西",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2018-未标注-52",
@@ -4642,7 +4933,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2018年广西公务员考试《行测》第52题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2018-未标注-53",
@@ -4677,7 +4970,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2018年广西公务员考试《行测》第53题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangxi-2018-未标注-54",
@@ -4712,7 +5007,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2018年广西公务员考试《行测》第54题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2018-未标注-55",
@@ -4748,7 +5045,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2018年广西公务员考试《行测》第55题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2018-未标注-56",
@@ -4784,7 +5083,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2018年广西公务员考试《行测》第56题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2018-未标注-57",
@@ -4819,7 +5120,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2018年广西公务员考试《行测》第57题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangxi-2018-未标注-58",
@@ -4855,7 +5158,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2018年广西公务员考试《行测》第58题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2018-未标注-59",
@@ -4891,7 +5196,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2018年广西公务员考试《行测》第59题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2018-未标注-60",
@@ -4925,7 +5232,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2018年广西公务员考试《行测》第60题",
-    "province": "广西"
+    "province": "广西",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2018-未标注-61",
@@ -4944,7 +5253,9 @@
     "difficulty": "拔高",
     "source": "2018年广西公务员考试《行测》第61题",
     "isImageQuestion": true,
-    "province": "广西"
+    "province": "广西",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-guangxi-2018-未标注-62",
@@ -4963,7 +5274,9 @@
     "difficulty": "拔高",
     "source": "2018年广西公务员考试《行测》第62题",
     "isImageQuestion": true,
-    "province": "广西"
+    "province": "广西",
+    "subModule": "几何",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangxi-2018-未标注-63",
@@ -4979,7 +5292,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2018年广西公务员考试《行测》第63题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangxi-2018-未标注-64",
@@ -4995,7 +5310,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2018年广西公务员考试《行测》第64题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangxi-2018-未标注-65",
@@ -5011,7 +5328,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2018年广西公务员考试《行测》第65题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangxi-2018-未标注-66",
@@ -5027,7 +5346,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2018年广西公务员考试《行测》第66题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangxi-2018-未标注-67",
@@ -5043,7 +5364,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2018年广西公务员考试《行测》第67题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangxi-2018-未标注-68",
@@ -5059,7 +5382,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2018年广西公务员考试《行测》第68题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangxi-2018-未标注-69",
@@ -5075,7 +5400,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2018年广西公务员考试《行测》第69题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangxi-2018-未标注-70",
@@ -5091,7 +5418,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2018年广西公务员考试《行测》第70题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangxi-2018-未标注-71",
@@ -5107,7 +5436,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2018年广西公务员考试《行测》第71题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangxi-2018-未标注-72",
@@ -5123,7 +5454,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2018年广西公务员考试《行测》第72题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangxi-2018-未标注-73",
@@ -5139,7 +5472,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2018年广西公务员考试《行测》第73题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangxi-2018-未标注-74",
@@ -5155,7 +5490,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2018年广西公务员考试《行测》第74题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangxi-2018-未标注-75",
@@ -5171,7 +5508,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2018年广西公务员考试《行测》第75题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangxi-2018-未标注-76",
@@ -5187,7 +5526,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2018年广西公务员考试《行测》第76题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangxi-2018-未标注-77",
@@ -5203,7 +5544,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2018年广西公务员考试《行测》第77题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangxi-2018-未标注-78",
@@ -5219,7 +5562,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2018年广西公务员考试《行测》第78题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangxi-2018-未标注-79",
@@ -5235,7 +5580,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2018年广西公务员考试《行测》第79题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangxi-2018-未标注-80",
@@ -5251,7 +5598,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2018年广西公务员考试《行测》第80题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangxi-2018-未标注-81",
@@ -5267,7 +5616,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2018年广西公务员考试《行测》第81题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangxi-2018-未标注-82",
@@ -5283,7 +5634,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2018年广西公务员考试《行测》第82题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangxi-2018-未标注-83",
@@ -5299,7 +5652,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2018年广西公务员考试《行测》第83题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangxi-2018-未标注-84",
@@ -5315,7 +5670,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2018年广西公务员考试《行测》第84题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangxi-2018-未标注-85",
@@ -5331,7 +5688,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2018年广西公务员考试《行测》第85题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangxi-2018-未标注-86",
@@ -5347,7 +5706,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2018年广西公务员考试《行测》第86题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangxi-2018-未标注-87",
@@ -5363,7 +5724,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2018年广西公务员考试《行测》第87题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangxi-2018-未标注-88",
@@ -5379,7 +5742,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2018年广西公务员考试《行测》第88题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangxi-2018-未标注-89",
@@ -5395,7 +5760,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2018年广西公务员考试《行测》第89题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangxi-2018-未标注-90",
@@ -5411,7 +5778,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2018年广西公务员考试《行测》第90题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangxi-2018-未标注-91",
@@ -5427,7 +5796,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2018年广西公务员考试《行测》第91题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangxi-2018-未标注-92",
@@ -5443,7 +5814,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2018年广西公务员考试《行测》第92题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangxi-2018-未标注-93",
@@ -5459,7 +5832,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2018年广西公务员考试《行测》第93题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangxi-2018-未标注-94",
@@ -5475,7 +5850,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2018年广西公务员考试《行测》第94题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangxi-2018-未标注-95",
@@ -5491,7 +5868,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2018年广西公务员考试《行测》第95题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangxi-2018-未标注-96",
@@ -5507,7 +5886,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2018年广西公务员考试《行测》第96题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangxi-2018-未标注-97",
@@ -5523,7 +5904,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2018年广西公务员考试《行测》第97题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangxi-2018-未标注-98",
@@ -5539,7 +5922,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2018年广西公务员考试《行测》第98题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangxi-2018-未标注-99",
@@ -5555,7 +5940,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2018年广西公务员考试《行测》第99题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangxi-2018-未标注-100",
@@ -5571,7 +5958,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2018年广西公务员考试《行测》第100题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangxi-2018-未标注-101",
@@ -5587,7 +5976,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2018年广西公务员考试《行测》第101题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangxi-2018-未标注-102",
@@ -5603,7 +5994,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2018年广西公务员考试《行测》第102题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangxi-2018-未标注-103",
@@ -5619,7 +6012,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2018年广西公务员考试《行测》第103题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangxi-2018-未标注-104",
@@ -5635,7 +6030,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2018年广西公务员考试《行测》第104题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangxi-2018-未标注-105",
@@ -5651,7 +6048,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2018年广西公务员考试《行测》第105题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-guangxi-2018-未标注-106",
@@ -5667,6 +6066,8 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2018年广西公务员考试《行测》第106题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   }
 ]

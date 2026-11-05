@@ -32,7 +32,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年吉林公务员考试《行测》第67题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2009-未标注-68",
@@ -67,7 +69,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年吉林公务员考试《行测》第68题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2009-未标注-69",
@@ -101,7 +105,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年吉林公务员考试《行测》第69题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2009-未标注-70",
@@ -137,7 +143,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年吉林公务员考试《行测》第70题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2009-未标注-71",
@@ -169,7 +177,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年吉林公务员考试《行测》第71题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2009-未标注-72",
@@ -204,7 +214,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年吉林公务员考试《行测》第72题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2009-未标注-73",
@@ -238,7 +250,10 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年吉林公务员考试《行测》第73题",
-    "province": "吉林"
+    "province": "吉林",
+    "isAbnormal": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2009-未标注-74",
@@ -274,7 +289,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年吉林公务员考试《行测》第74题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2009-未标注-75",
@@ -306,7 +323,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年吉林公务员考试《行测》第75题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2009-未标注-76",
@@ -342,7 +361,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年吉林公务员考试《行测》第76题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2009-未标注-77",
@@ -377,7 +398,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年吉林公务员考试《行测》第77题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2009-未标注-78",
@@ -412,7 +435,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年吉林公务员考试《行测》第78题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2009-未标注-79",
@@ -448,7 +473,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年吉林公务员考试《行测》第79题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2009-未标注-80",
@@ -483,7 +510,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年吉林公务员考试《行测》第80题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2009-未标注-81",
@@ -503,7 +532,9 @@
     "difficulty": "中等",
     "source": "2009年吉林公务员考试《行测》第81题",
     "isImageQuestion": true,
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2009-未标注-82",
@@ -523,7 +554,9 @@
     "difficulty": "中等",
     "source": "2009年吉林公务员考试《行测》第82题",
     "isImageQuestion": true,
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2009-未标注-83",
@@ -541,7 +574,9 @@
     "difficulty": "中等",
     "source": "2009年吉林公务员考试《行测》第83题",
     "isImageQuestion": true,
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2009-未标注-84",
@@ -560,7 +595,9 @@
     "difficulty": "中等",
     "source": "2009年吉林公务员考试《行测》第84题",
     "isImageQuestion": true,
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2009-未标注-85",
@@ -578,7 +615,9 @@
     "difficulty": "中等",
     "source": "2009年吉林公务员考试《行测》第85题",
     "isImageQuestion": true,
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2009-未标注-51-2",
@@ -614,7 +653,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年吉林公务员考试《行测》第51题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2009-未标注-52-2",
@@ -650,7 +691,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年吉林公务员考试《行测》第52题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2009-未标注-53-2",
@@ -686,7 +729,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年吉林公务员考试《行测》第53题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2009-未标注-54-2",
@@ -722,7 +767,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年吉林公务员考试《行测》第54题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2009-未标注-55-2",
@@ -758,7 +805,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年吉林公务员考试《行测》第55题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2009-未标注-56-2",
@@ -793,7 +842,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年吉林公务员考试《行测》第56题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2009-未标注-57-2",
@@ -828,7 +879,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年吉林公务员考试《行测》第57题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2009-未标注-58-2",
@@ -863,7 +916,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年吉林公务员考试《行测》第58题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2009-未标注-59-2",
@@ -898,7 +953,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年吉林公务员考试《行测》第59题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2009-未标注-60-2",
@@ -933,7 +990,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年吉林公务员考试《行测》第60题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2009-未标注-61-2",
@@ -968,7 +1027,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年吉林公务员考试《行测》第61题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2009-未标注-62-2",
@@ -1003,7 +1064,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年吉林公务员考试《行测》第62题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2009-未标注-63-2",
@@ -1038,7 +1101,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年吉林公务员考试《行测》第63题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2009-未标注-64-2",
@@ -1073,7 +1138,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年吉林公务员考试《行测》第64题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2009-未标注-65-2",
@@ -1108,7 +1175,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年吉林公务员考试《行测》第65题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2009-未标注-66-2",
@@ -1144,7 +1213,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年吉林公务员考试《行测》第66题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2009-未标注-67-2",
@@ -1180,7 +1251,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年吉林公务员考试《行测》第67题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2009-未标注-68-2",
@@ -1216,7 +1289,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年吉林公务员考试《行测》第68题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2009-未标注-69-2",
@@ -1252,7 +1327,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年吉林公务员考试《行测》第69题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2009-未标注-70-2",
@@ -1288,7 +1365,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年吉林公务员考试《行测》第70题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2009-未标注-71-2",
@@ -1324,7 +1403,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年吉林公务员考试《行测》第71题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2009-未标注-72-2",
@@ -1356,7 +1437,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年吉林公务员考试《行测》第72题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2009-未标注-73-2",
@@ -1392,7 +1475,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年吉林公务员考试《行测》第73题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2009-未标注-74-2",
@@ -1428,7 +1513,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年吉林公务员考试《行测》第74题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2009-未标注-75-2",
@@ -1464,7 +1551,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年吉林公务员考试《行测》第75题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2009-未标注-76-2",
@@ -1499,7 +1588,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年吉林公务员考试《行测》第76题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2009-未标注-77-2",
@@ -1534,7 +1625,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年吉林公务员考试《行测》第77题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2009-未标注-78-2",
@@ -1570,7 +1663,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年吉林公务员考试《行测》第78题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2009-未标注-79-2",
@@ -1606,7 +1701,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年吉林公务员考试《行测》第79题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2009-未标注-80-2",
@@ -1642,7 +1739,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年吉林公务员考试《行测》第80题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2009-未标注-81-2",
@@ -1662,7 +1761,9 @@
     "difficulty": "中等",
     "source": "2009年吉林公务员考试《行测》第81题",
     "isImageQuestion": true,
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2009-未标注-82-2",
@@ -1682,7 +1783,9 @@
     "difficulty": "中等",
     "source": "2009年吉林公务员考试《行测》第82题",
     "isImageQuestion": true,
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2009-未标注-83-2",
@@ -1702,7 +1805,9 @@
     "difficulty": "中等",
     "source": "2009年吉林公务员考试《行测》第83题",
     "isImageQuestion": true,
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2009-未标注-84-2",
@@ -1722,7 +1827,9 @@
     "difficulty": "中等",
     "source": "2009年吉林公务员考试《行测》第84题",
     "isImageQuestion": true,
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2009-未标注-85-2",
@@ -1741,7 +1848,9 @@
     "difficulty": "中等",
     "source": "2009年吉林公务员考试《行测》第85题",
     "isImageQuestion": true,
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2010-未标注-36-2",
@@ -1775,7 +1884,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年吉林公务员考试《行测》第36题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2010-未标注-37-2",
@@ -1809,7 +1920,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年吉林公务员考试《行测》第37题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2010-未标注-38-2",
@@ -1843,7 +1956,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年吉林公务员考试《行测》第38题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2010-未标注-39-2",
@@ -1877,7 +1992,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年吉林公务员考试《行测》第39题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2010-未标注-40-2",
@@ -1909,7 +2026,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年吉林公务员考试《行测》第40题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2010-未标注-41-2",
@@ -1943,7 +2062,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年吉林公务员考试《行测》第41题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2010-未标注-42-2",
@@ -1978,7 +2099,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年吉林公务员考试《行测》第42题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2010-未标注-43-2",
@@ -2012,7 +2135,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年吉林公务员考试《行测》第43题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2010-未标注-44-2",
@@ -2044,7 +2169,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年吉林公务员考试《行测》第44题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2010-未标注-45-2",
@@ -2076,7 +2203,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年吉林公务员考试《行测》第45题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2010-未标注-46-2",
@@ -2108,7 +2237,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年吉林公务员考试《行测》第46题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2010-未标注-47-2",
@@ -2140,7 +2271,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年吉林公务员考试《行测》第47题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2010-未标注-48-2",
@@ -2174,7 +2307,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年吉林公务员考试《行测》第48题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2010-未标注-49-2",
@@ -2208,7 +2343,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年吉林公务员考试《行测》第49题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2010-未标注-50-2",
@@ -2240,7 +2377,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年吉林公务员考试《行测》第50题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2010-未标注-51-2",
@@ -2274,7 +2413,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年吉林公务员考试《行测》第51题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2010-未标注-52-2",
@@ -2308,7 +2449,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年吉林公务员考试《行测》第52题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2010-未标注-53-2",
@@ -2342,7 +2485,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年吉林公务员考试《行测》第53题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2010-未标注-54-2",
@@ -2376,7 +2521,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年吉林公务员考试《行测》第54题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2010-未标注-55-2",
@@ -2412,7 +2559,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年吉林公务员考试《行测》第55题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2010-未标注-56-2",
@@ -2428,7 +2577,9 @@
     "difficulty": "中等",
     "source": "2010年吉林公务员考试《行测》第56题",
     "isImageQuestion": true,
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2010-未标注-57-2",
@@ -2446,7 +2597,9 @@
     "difficulty": "中等",
     "source": "2010年吉林公务员考试《行测》第57题",
     "isImageQuestion": true,
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2010-未标注-58-2",
@@ -2464,7 +2617,9 @@
     "difficulty": "中等",
     "source": "2010年吉林公务员考试《行测》第58题",
     "isImageQuestion": true,
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2010-未标注-59-2",
@@ -2480,7 +2635,9 @@
     "difficulty": "中等",
     "source": "2010年吉林公务员考试《行测》第59题",
     "isImageQuestion": true,
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2010-未标注-60-2",
@@ -2498,7 +2655,9 @@
     "difficulty": "中等",
     "source": "2010年吉林公务员考试《行测》第60题",
     "isImageQuestion": true,
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "图形推理",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-jilin-2010-未标注-61-2",
@@ -2533,7 +2692,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年吉林公务员考试《行测》第61题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2010-未标注-62-2",
@@ -2568,7 +2729,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年吉林公务员考试《行测》第62题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2010-未标注-63-2",
@@ -2603,7 +2766,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年吉林公务员考试《行测》第63题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2010-未标注-64-2",
@@ -2638,7 +2803,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年吉林公务员考试《行测》第64题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2010-未标注-65-2",
@@ -2673,7 +2840,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年吉林公务员考试《行测》第65题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2010-未标注-66-2",
@@ -2705,7 +2874,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年吉林公务员考试《行测》第66题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-jilin-2010-未标注-67-2",
@@ -2739,7 +2910,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年吉林公务员考试《行测》第67题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2010-未标注-68-2",
@@ -2771,7 +2944,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年吉林公务员考试《行测》第68题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "定义判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-jilin-2010-未标注-69-2",
@@ -2803,7 +2978,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年吉林公务员考试《行测》第69题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2010-未标注-70-2",
@@ -2835,7 +3012,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年吉林公务员考试《行测》第70题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-jilin-2010-未标注-71-2",
@@ -2869,7 +3048,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年吉林公务员考试《行测》第71题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-jilin-2010-未标注-72-2",
@@ -2903,7 +3084,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年吉林公务员考试《行测》第72题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-jilin-2010-未标注-73-2",
@@ -2938,7 +3121,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年吉林公务员考试《行测》第73题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-jilin-2010-未标注-74-2",
@@ -2972,7 +3157,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年吉林公务员考试《行测》第74题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-jilin-2010-未标注-75-2",
@@ -3008,7 +3195,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年吉林公务员考试《行测》第75题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "定义判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-jilin-2010-未标注-76-2",
@@ -3044,7 +3233,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年吉林公务员考试《行测》第76题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-jilin-2010-未标注-77-2",
@@ -3079,7 +3270,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年吉林公务员考试《行测》第77题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-jilin-2010-未标注-78-2",
@@ -3113,7 +3306,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年吉林公务员考试《行测》第78题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-jilin-2010-未标注-79-2",
@@ -3147,7 +3342,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年吉林公务员考试《行测》第79题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-jilin-2010-未标注-80-2",
@@ -3181,7 +3378,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年吉林公务员考试《行测》第80题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-jilin-2010-未标注-81-2",
@@ -3215,7 +3414,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年吉林公务员考试《行测》第81题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2010-未标注-82-2",
@@ -3250,7 +3451,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年吉林公务员考试《行测》第82题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-jilin-2010-未标注-83-2",
@@ -3282,7 +3485,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年吉林公务员考试《行测》第83题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "定义判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-jilin-2010-未标注-84-2",
@@ -3317,7 +3522,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年吉林公务员考试《行测》第84题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-jilin-2010-未标注-85-2",
@@ -3352,7 +3559,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年吉林公务员考试《行测》第85题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-jilin-2011-未标注-41",
@@ -3388,7 +3597,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年吉林公务员考试《行测》第41题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2011-未标注-42",
@@ -3423,7 +3634,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年吉林公务员考试《行测》第42题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2011-未标注-43",
@@ -3458,7 +3671,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年吉林公务员考试《行测》第43题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2011-未标注-44",
@@ -3494,7 +3709,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年吉林公务员考试《行测》第44题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2011-未标注-45",
@@ -3529,7 +3746,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年吉林公务员考试《行测》第45题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2011-未标注-46",
@@ -3565,7 +3784,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年吉林公务员考试《行测》第46题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2011-未标注-47",
@@ -3601,7 +3822,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年吉林公务员考试《行测》第47题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2011-未标注-48",
@@ -3637,7 +3860,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年吉林公务员考试《行测》第48题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2011-未标注-49",
@@ -3672,7 +3897,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年吉林公务员考试《行测》第49题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2011-未标注-50",
@@ -3707,7 +3934,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年吉林公务员考试《行测》第50题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2011-未标注-51",
@@ -3743,7 +3972,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年吉林公务员考试《行测》第51题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2011-未标注-52",
@@ -3778,7 +4009,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年吉林公务员考试《行测》第52题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2011-未标注-53",
@@ -3813,7 +4046,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年吉林公务员考试《行测》第53题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2011-未标注-54",
@@ -3849,7 +4084,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年吉林公务员考试《行测》第54题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2011-未标注-55",
@@ -3884,7 +4121,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年吉林公务员考试《行测》第55题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2011-未标注-56",
@@ -3920,7 +4159,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年吉林公务员考试《行测》第56题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2011-未标注-57",
@@ -3955,7 +4196,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年吉林公务员考试《行测》第57题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2011-未标注-58",
@@ -3991,7 +4234,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年吉林公务员考试《行测》第58题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2011-未标注-59",
@@ -4026,7 +4271,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年吉林公务员考试《行测》第59题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2011-未标注-60",
@@ -4061,7 +4308,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年吉林公务员考试《行测》第60题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2011-未标注-61",
@@ -4097,7 +4346,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年吉林公务员考试《行测》第61题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2011-未标注-62",
@@ -4133,7 +4384,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年吉林公务员考试《行测》第62题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2011-未标注-63",
@@ -4169,7 +4422,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年吉林公务员考试《行测》第63题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2011-未标注-64",
@@ -4205,7 +4460,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年吉林公务员考试《行测》第64题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2011-未标注-65",
@@ -4241,7 +4498,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年吉林公务员考试《行测》第65题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2011-未标注-66",
@@ -4277,7 +4536,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年吉林公务员考试《行测》第66题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2011-未标注-67",
@@ -4312,7 +4573,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年吉林公务员考试《行测》第67题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-jilin-2011-未标注-68",
@@ -4348,7 +4611,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年吉林公务员考试《行测》第68题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-jilin-2011-未标注-69",
@@ -4383,7 +4648,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年吉林公务员考试《行测》第69题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-jilin-2011-未标注-70",
@@ -4417,7 +4684,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年吉林公务员考试《行测》第70题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2011-未标注-71",
@@ -4451,7 +4720,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年吉林公务员考试《行测》第71题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-jilin-2011-未标注-72",
@@ -4485,7 +4756,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年吉林公务员考试《行测》第72题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2011-未标注-73",
@@ -4519,7 +4792,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年吉林公务员考试《行测》第73题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-jilin-2011-未标注-74",
@@ -4554,7 +4829,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年吉林公务员考试《行测》第74题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-jilin-2011-未标注-75",
@@ -4589,7 +4866,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年吉林公务员考试《行测》第75题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-jilin-2011-未标注-76",
@@ -4623,7 +4902,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年吉林公务员考试《行测》第76题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-jilin-2011-未标注-77",
@@ -4659,7 +4940,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年吉林公务员考试《行测》第77题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2011-未标注-78",
@@ -4694,7 +4977,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年吉林公务员考试《行测》第78题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2011-未标注-79",
@@ -4730,7 +5015,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年吉林公务员考试《行测》第79题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2011-未标注-80",
@@ -4764,7 +5051,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年吉林公务员考试《行测》第80题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-jilin-2011-未标注-81",
@@ -4800,7 +5089,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年吉林公务员考试《行测》第81题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-jilin-2011-未标注-82",
@@ -4834,7 +5125,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年吉林公务员考试《行测》第82题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2011-未标注-83",
@@ -4868,7 +5161,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年吉林公务员考试《行测》第83题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-jilin-2011-未标注-84",
@@ -4903,7 +5198,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年吉林公务员考试《行测》第84题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2011-未标注-85",
@@ -4935,7 +5232,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年吉林公务员考试《行测》第85题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2011-未标注-86",
@@ -4955,7 +5254,9 @@
     "difficulty": "中等",
     "source": "2011年吉林公务员考试《行测》第86题",
     "isImageQuestion": true,
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2011-未标注-87",
@@ -4975,7 +5276,9 @@
     "difficulty": "中等",
     "source": "2011年吉林公务员考试《行测》第87题",
     "isImageQuestion": true,
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2011-未标注-88",
@@ -4993,7 +5296,9 @@
     "difficulty": "中等",
     "source": "2011年吉林公务员考试《行测》第88题",
     "isImageQuestion": true,
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2011-未标注-89",
@@ -5013,7 +5318,9 @@
     "difficulty": "中等",
     "source": "2011年吉林公务员考试《行测》第89题",
     "isImageQuestion": true,
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2011-未标注-90",
@@ -5032,7 +5339,9 @@
     "difficulty": "中等",
     "source": "2011年吉林公务员考试《行测》第90题",
     "isImageQuestion": true,
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2011-未标注-47-2",
@@ -5064,7 +5373,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年吉林公务员考试《行测》第47题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2011-未标注-48-2",
@@ -5099,7 +5410,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年吉林公务员考试《行测》第48题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2011-未标注-49-2",
@@ -5133,7 +5446,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年吉林公务员考试《行测》第49题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2011-未标注-50-2",
@@ -5167,7 +5482,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年吉林公务员考试《行测》第50题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2011-未标注-51-2",
@@ -5201,7 +5518,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年吉林公务员考试《行测》第51题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2011-未标注-52-2",
@@ -5237,7 +5556,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年吉林公务员考试《行测》第52题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2011-未标注-53-2",
@@ -5272,7 +5593,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年吉林公务员考试《行测》第53题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2011-未标注-54-2",
@@ -5306,7 +5629,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年吉林公务员考试《行测》第54题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2011-未标注-55-2",
@@ -5341,7 +5666,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年吉林公务员考试《行测》第55题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2011-未标注-56-2",
@@ -5375,7 +5702,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年吉林公务员考试《行测》第56题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2011-未标注-57-2",
@@ -5407,7 +5736,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年吉林公务员考试《行测》第57题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2011-未标注-58-2",
@@ -5441,7 +5772,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年吉林公务员考试《行测》第58题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2011-未标注-59-2",
@@ -5475,7 +5808,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年吉林公务员考试《行测》第59题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2011-未标注-60-2",
@@ -5507,7 +5842,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年吉林公务员考试《行测》第60题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2011-未标注-61-2",
@@ -5542,7 +5879,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年吉林公务员考试《行测》第61题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2011-未标注-62-2",
@@ -5576,7 +5915,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年吉林公务员考试《行测》第62题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2011-未标注-63-2",
@@ -5608,7 +5949,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年吉林公务员考试《行测》第63题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2011-未标注-64-2",
@@ -5642,7 +5985,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年吉林公务员考试《行测》第64题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2011-未标注-65-2",
@@ -5677,7 +6022,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年吉林公务员考试《行测》第65题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2011-未标注-66-2",
@@ -5712,7 +6059,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年吉林公务员考试《行测》第66题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-jilin-2011-未标注-67-2",
@@ -5746,7 +6095,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年吉林公务员考试《行测》第67题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-jilin-2011-未标注-68-2",
@@ -5780,7 +6131,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年吉林公务员考试《行测》第68题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-jilin-2011-未标注-69-2",
@@ -5814,7 +6167,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年吉林公务员考试《行测》第69题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2011-未标注-70-2",
@@ -5849,7 +6204,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年吉林公务员考试《行测》第70题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-jilin-2011-未标注-71-2",
@@ -5883,7 +6240,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年吉林公务员考试《行测》第71题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-jilin-2011-未标注-72-2",
@@ -5917,7 +6276,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年吉林公务员考试《行测》第72题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-jilin-2011-未标注-73-2",
@@ -5952,7 +6313,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年吉林公务员考试《行测》第73题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2011-未标注-74-2",
@@ -5987,7 +6350,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年吉林公务员考试《行测》第74题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-jilin-2011-未标注-75-2",
@@ -6021,7 +6386,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年吉林公务员考试《行测》第75题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2011-未标注-76-2",
@@ -6053,7 +6420,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年吉林公务员考试《行测》第76题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2011-未标注-77-2",
@@ -6085,7 +6454,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年吉林公务员考试《行测》第77题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2011-未标注-78-2",
@@ -6119,7 +6490,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年吉林公务员考试《行测》第78题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-jilin-2011-未标注-79-2",
@@ -6153,7 +6526,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年吉林公务员考试《行测》第79题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-jilin-2011-未标注-80-2",
@@ -6187,7 +6562,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年吉林公务员考试《行测》第80题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-jilin-2011-未标注-81-2",
@@ -6221,7 +6598,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年吉林公务员考试《行测》第81题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2011-未标注-82-2",
@@ -6255,7 +6634,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年吉林公务员考试《行测》第82题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-jilin-2011-未标注-83-2",
@@ -6287,7 +6668,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年吉林公务员考试《行测》第83题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-jilin-2011-未标注-84-2",
@@ -6321,7 +6704,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年吉林公务员考试《行测》第84题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "定义判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-jilin-2011-未标注-85-2",
@@ -6355,7 +6740,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年吉林公务员考试《行测》第85题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-jilin-2012-未标注-27",
@@ -6390,7 +6777,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年吉林公务员考试《行测》第27题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2012-未标注-28",
@@ -6410,7 +6799,9 @@
     "difficulty": "中等",
     "source": "2012年吉林公务员考试《行测》第28题",
     "isImageQuestion": true,
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2012-未标注-29",
@@ -6430,7 +6821,9 @@
     "difficulty": "中等",
     "source": "2012年吉林公务员考试《行测》第29题",
     "isImageQuestion": true,
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2012-未标注-30",
@@ -6450,7 +6843,9 @@
     "difficulty": "中等",
     "source": "2012年吉林公务员考试《行测》第30题",
     "isImageQuestion": true,
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2012-未标注-31",
@@ -6486,7 +6881,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年吉林公务员考试《行测》第31题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2012-未标注-32",
@@ -6521,7 +6918,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年吉林公务员考试《行测》第32题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2012-未标注-33",
@@ -6556,6 +6955,8 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年吉林公务员考试《行测》第33题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   }
 ]

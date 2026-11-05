@@ -32,7 +32,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2012年国家公务员考试《行测》未标注第104题"
+    "source": "2012年国家公务员考试《行测》未标注第104题",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2012-未标注-105",
@@ -66,7 +68,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2012年国家公务员考试《行测》未标注第105题"
+    "source": "2012年国家公务员考试《行测》未标注第105题",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2012-未标注-106",
@@ -100,7 +104,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2012年国家公务员考试《行测》未标注第106题"
+    "source": "2012年国家公务员考试《行测》未标注第106题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2012-未标注-107",
@@ -135,7 +141,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2012年国家公务员考试《行测》未标注第107题"
+    "source": "2012年国家公务员考试《行测》未标注第107题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2012-未标注-108",
@@ -170,7 +178,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2012年国家公务员考试《行测》未标注第108题"
+    "source": "2012年国家公务员考试《行测》未标注第108题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2012-未标注-109",
@@ -205,7 +215,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2012年国家公务员考试《行测》未标注第109题"
+    "source": "2012年国家公务员考试《行测》未标注第109题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2012-未标注-110",
@@ -239,7 +251,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2012年国家公务员考试《行测》未标注第110题"
+    "source": "2012年国家公务员考试《行测》未标注第110题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2012-未标注-111",
@@ -274,7 +288,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2012年国家公务员考试《行测》未标注第111题"
+    "source": "2012年国家公务员考试《行测》未标注第111题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2012-未标注-112",
@@ -309,7 +325,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2012年国家公务员考试《行测》未标注第112题"
+    "source": "2012年国家公务员考试《行测》未标注第112题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2012-未标注-113",
@@ -343,7 +361,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2012年国家公务员考试《行测》未标注第113题"
+    "source": "2012年国家公务员考试《行测》未标注第113题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2012-未标注-114",
@@ -377,7 +397,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2012年国家公务员考试《行测》未标注第114题"
+    "source": "2012年国家公务员考试《行测》未标注第114题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2012-未标注-115",
@@ -411,7 +433,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2012年国家公务员考试《行测》未标注第115题"
+    "source": "2012年国家公务员考试《行测》未标注第115题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2013-未标注-76",
@@ -430,7 +454,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年国家公务员考试《行测》未标注第76题",
-    "isImageQuestion": true
+    "isImageQuestion": true,
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2013-未标注-77",
@@ -448,7 +474,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年国家公务员考试《行测》未标注第77题",
-    "isImageQuestion": true
+    "isImageQuestion": true,
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2013-未标注-78",
@@ -467,7 +495,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年国家公务员考试《行测》未标注第78题",
-    "isImageQuestion": true
+    "isImageQuestion": true,
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2013-未标注-79",
@@ -485,7 +515,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年国家公务员考试《行测》未标注第79题",
-    "isImageQuestion": true
+    "isImageQuestion": true,
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2013-未标注-80",
@@ -503,7 +535,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年国家公务员考试《行测》未标注第80题",
-    "isImageQuestion": true
+    "isImageQuestion": true,
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2013-未标注-81",
@@ -539,7 +573,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年国家公务员考试《行测》未标注第81题",
-    "isImageQuestion": true
+    "isImageQuestion": true,
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2013-未标注-82",
@@ -575,7 +611,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年国家公务员考试《行测》未标注第82题",
-    "isImageQuestion": true
+    "isImageQuestion": true,
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2013-未标注-83",
@@ -611,7 +649,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年国家公务员考试《行测》未标注第83题",
-    "isImageQuestion": true
+    "isImageQuestion": true,
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2013-未标注-84",
@@ -646,7 +686,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年国家公务员考试《行测》未标注第84题",
-    "isImageQuestion": true
+    "isImageQuestion": true,
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2013-未标注-85",
@@ -682,7 +724,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2013年国家公务员考试《行测》未标注第85题",
-    "isImageQuestion": true
+    "isImageQuestion": true,
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2013-未标注-86",
@@ -716,7 +760,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2013年国家公务员考试《行测》未标注第86题"
+    "source": "2013年国家公务员考试《行测》未标注第86题",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2013-未标注-87",
@@ -750,7 +796,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2013年国家公务员考试《行测》未标注第87题"
+    "source": "2013年国家公务员考试《行测》未标注第87题",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2013-未标注-88",
@@ -784,7 +832,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2013年国家公务员考试《行测》未标注第88题"
+    "source": "2013年国家公务员考试《行测》未标注第88题",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2013-未标注-89",
@@ -818,7 +868,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2013年国家公务员考试《行测》未标注第89题"
+    "source": "2013年国家公务员考试《行测》未标注第89题",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2013-未标注-90",
@@ -851,7 +903,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2013年国家公务员考试《行测》未标注第90题"
+    "source": "2013年国家公务员考试《行测》未标注第90题",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2013-未标注-91",
@@ -886,7 +940,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2013年国家公务员考试《行测》未标注第91题"
+    "source": "2013年国家公务员考试《行测》未标注第91题",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2013-未标注-92",
@@ -921,7 +977,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2013年国家公务员考试《行测》未标注第92题"
+    "source": "2013年国家公务员考试《行测》未标注第92题",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2013-未标注-93",
@@ -955,7 +1013,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2013年国家公务员考试《行测》未标注第93题"
+    "source": "2013年国家公务员考试《行测》未标注第93题",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2013-未标注-94",
@@ -989,7 +1049,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2013年国家公务员考试《行测》未标注第94题"
+    "source": "2013年国家公务员考试《行测》未标注第94题",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2013-未标注-95",
@@ -1023,7 +1085,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2013年国家公务员考试《行测》未标注第95题"
+    "source": "2013年国家公务员考试《行测》未标注第95题",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2013-未标注-96",
@@ -1058,7 +1122,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2013年国家公务员考试《行测》未标注第96题"
+    "source": "2013年国家公务员考试《行测》未标注第96题",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2013-未标注-97",
@@ -1093,7 +1159,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2013年国家公务员考试《行测》未标注第97题"
+    "source": "2013年国家公务员考试《行测》未标注第97题",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2013-未标注-98",
@@ -1127,7 +1195,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2013年国家公务员考试《行测》未标注第98题"
+    "source": "2013年国家公务员考试《行测》未标注第98题",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2013-未标注-99",
@@ -1161,7 +1231,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2013年国家公务员考试《行测》未标注第99题"
+    "source": "2013年国家公务员考试《行测》未标注第99题",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2013-未标注-100",
@@ -1195,7 +1267,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2013年国家公务员考试《行测》未标注第100题"
+    "source": "2013年国家公务员考试《行测》未标注第100题",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2013-未标注-101",
@@ -1230,7 +1304,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2013年国家公务员考试《行测》未标注第101题"
+    "source": "2013年国家公务员考试《行测》未标注第101题",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2013-未标注-102",
@@ -1265,7 +1341,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2013年国家公务员考试《行测》未标注第102题"
+    "source": "2013年国家公务员考试《行测》未标注第102题",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2013-未标注-103",
@@ -1300,7 +1378,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2013年国家公务员考试《行测》未标注第103题"
+    "source": "2013年国家公务员考试《行测》未标注第103题",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2013-未标注-104",
@@ -1335,7 +1415,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2013年国家公务员考试《行测》未标注第104题"
+    "source": "2013年国家公务员考试《行测》未标注第104题",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2013-未标注-105",
@@ -1369,7 +1451,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2013年国家公务员考试《行测》未标注第105题"
+    "source": "2013年国家公务员考试《行测》未标注第105题",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2013-未标注-106",
@@ -1404,7 +1488,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2013年国家公务员考试《行测》未标注第106题"
+    "source": "2013年国家公务员考试《行测》未标注第106题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2013-未标注-107",
@@ -1437,7 +1523,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2013年国家公务员考试《行测》未标注第107题"
+    "source": "2013年国家公务员考试《行测》未标注第107题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2013-未标注-108",
@@ -1471,7 +1559,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2013年国家公务员考试《行测》未标注第108题"
+    "source": "2013年国家公务员考试《行测》未标注第108题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2013-未标注-109",
@@ -1505,7 +1595,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2013年国家公务员考试《行测》未标注第109题"
+    "source": "2013年国家公务员考试《行测》未标注第109题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2013-未标注-110",
@@ -1540,7 +1632,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2013年国家公务员考试《行测》未标注第110题"
+    "source": "2013年国家公务员考试《行测》未标注第110题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2013-未标注-111",
@@ -1574,7 +1668,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2013年国家公务员考试《行测》未标注第111题"
+    "source": "2013年国家公务员考试《行测》未标注第111题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2013-未标注-112",
@@ -1608,7 +1704,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2013年国家公务员考试《行测》未标注第112题"
+    "source": "2013年国家公务员考试《行测》未标注第112题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2013-未标注-113",
@@ -1643,7 +1741,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2013年国家公务员考试《行测》未标注第113题"
+    "source": "2013年国家公务员考试《行测》未标注第113题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2013-未标注-114",
@@ -1678,7 +1778,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2013年国家公务员考试《行测》未标注第114题"
+    "source": "2013年国家公务员考试《行测》未标注第114题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2013-未标注-115",
@@ -1713,7 +1815,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2013年国家公务员考试《行测》未标注第115题"
+    "source": "2013年国家公务员考试《行测》未标注第115题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2014-未标注-76",
@@ -1732,7 +1836,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年国家公务员考试《行测》未标注第76题",
-    "isImageQuestion": true
+    "isImageQuestion": true,
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2014-未标注-77",
@@ -1750,7 +1856,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年国家公务员考试《行测》未标注第77题",
-    "isImageQuestion": true
+    "isImageQuestion": true,
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2014-未标注-78",
@@ -1768,7 +1876,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年国家公务员考试《行测》未标注第78题",
-    "isImageQuestion": true
+    "isImageQuestion": true,
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2014-未标注-79",
@@ -1786,7 +1896,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年国家公务员考试《行测》未标注第79题",
-    "isImageQuestion": true
+    "isImageQuestion": true,
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2014-未标注-80",
@@ -1804,7 +1916,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年国家公务员考试《行测》未标注第80题",
-    "isImageQuestion": true
+    "isImageQuestion": true,
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2014-未标注-81",
@@ -1839,7 +1953,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年国家公务员考试《行测》未标注第81题",
-    "isImageQuestion": true
+    "isImageQuestion": true,
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2014-未标注-82",
@@ -1874,7 +1990,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年国家公务员考试《行测》未标注第82题",
-    "isImageQuestion": true
+    "isImageQuestion": true,
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2014-未标注-83",
@@ -1909,7 +2027,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年国家公务员考试《行测》未标注第83题",
-    "isImageQuestion": true
+    "isImageQuestion": true,
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2014-未标注-84",
@@ -1945,7 +2065,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年国家公务员考试《行测》未标注第84题",
-    "isImageQuestion": true
+    "isImageQuestion": true,
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2014-未标注-85",
@@ -1979,7 +2101,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年国家公务员考试《行测》未标注第85题",
-    "isImageQuestion": true
+    "isImageQuestion": true,
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2014-未标注-86",
@@ -2013,7 +2137,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2014年国家公务员考试《行测》未标注第86题"
+    "source": "2014年国家公务员考试《行测》未标注第86题",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2014-未标注-87",
@@ -2047,7 +2173,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2014年国家公务员考试《行测》未标注第87题"
+    "source": "2014年国家公务员考试《行测》未标注第87题",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2014-未标注-88",
@@ -2081,7 +2209,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2014年国家公务员考试《行测》未标注第88题"
+    "source": "2014年国家公务员考试《行测》未标注第88题",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2014-未标注-89",
@@ -2116,7 +2246,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2014年国家公务员考试《行测》未标注第89题"
+    "source": "2014年国家公务员考试《行测》未标注第89题",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2014-未标注-90",
@@ -2149,7 +2281,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2014年国家公务员考试《行测》未标注第90题"
+    "source": "2014年国家公务员考试《行测》未标注第90题",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2014-未标注-91",
@@ -2182,7 +2316,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2014年国家公务员考试《行测》未标注第91题"
+    "source": "2014年国家公务员考试《行测》未标注第91题",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2014-未标注-92",
@@ -2216,7 +2352,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2014年国家公务员考试《行测》未标注第92题"
+    "source": "2014年国家公务员考试《行测》未标注第92题",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2014-未标注-93",
@@ -2251,7 +2389,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2014年国家公务员考试《行测》未标注第93题"
+    "source": "2014年国家公务员考试《行测》未标注第93题",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2014-未标注-94",
@@ -2284,7 +2424,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2014年国家公务员考试《行测》未标注第94题"
+    "source": "2014年国家公务员考试《行测》未标注第94题",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2014-未标注-95",
@@ -2317,7 +2459,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2014年国家公务员考试《行测》未标注第95题"
+    "source": "2014年国家公务员考试《行测》未标注第95题",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2014-未标注-96",
@@ -2352,7 +2496,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2014年国家公务员考试《行测》未标注第96题"
+    "source": "2014年国家公务员考试《行测》未标注第96题",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2014-未标注-97",
@@ -2387,7 +2533,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2014年国家公务员考试《行测》未标注第97题"
+    "source": "2014年国家公务员考试《行测》未标注第97题",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2014-未标注-98",
@@ -2421,7 +2569,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2014年国家公务员考试《行测》未标注第98题"
+    "source": "2014年国家公务员考试《行测》未标注第98题",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2014-未标注-99",
@@ -2456,7 +2606,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2014年国家公务员考试《行测》未标注第99题"
+    "source": "2014年国家公务员考试《行测》未标注第99题",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2014-未标注-100",
@@ -2490,7 +2642,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2014年国家公务员考试《行测》未标注第100题"
+    "source": "2014年国家公务员考试《行测》未标注第100题",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2014-未标注-101",
@@ -2524,7 +2678,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2014年国家公务员考试《行测》未标注第101题"
+    "source": "2014年国家公务员考试《行测》未标注第101题",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2014-未标注-102",
@@ -2557,7 +2713,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2014年国家公务员考试《行测》未标注第102题"
+    "source": "2014年国家公务员考试《行测》未标注第102题",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2014-未标注-103",
@@ -2591,7 +2749,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2014年国家公务员考试《行测》未标注第103题"
+    "source": "2014年国家公务员考试《行测》未标注第103题",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2014-未标注-104",
@@ -2624,7 +2784,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2014年国家公务员考试《行测》未标注第104题"
+    "source": "2014年国家公务员考试《行测》未标注第104题",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2014-未标注-105",
@@ -2659,7 +2821,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2014年国家公务员考试《行测》未标注第105题"
+    "source": "2014年国家公务员考试《行测》未标注第105题",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2014-未标注-106",
@@ -2694,7 +2858,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2014年国家公务员考试《行测》未标注第106题"
+    "source": "2014年国家公务员考试《行测》未标注第106题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2014-未标注-107",
@@ -2729,7 +2895,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2014年国家公务员考试《行测》未标注第107题"
+    "source": "2014年国家公务员考试《行测》未标注第107题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2014-未标注-108",
@@ -2764,7 +2932,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2014年国家公务员考试《行测》未标注第108题"
+    "source": "2014年国家公务员考试《行测》未标注第108题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2014-未标注-109",
@@ -2799,7 +2969,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2014年国家公务员考试《行测》未标注第109题"
+    "source": "2014年国家公务员考试《行测》未标注第109题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2014-未标注-110",
@@ -2834,7 +3006,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2014年国家公务员考试《行测》未标注第110题"
+    "source": "2014年国家公务员考试《行测》未标注第110题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2014-未标注-111",
@@ -2868,7 +3042,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2014年国家公务员考试《行测》未标注第111题"
+    "source": "2014年国家公务员考试《行测》未标注第111题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2014-未标注-112",
@@ -2902,7 +3078,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2014年国家公务员考试《行测》未标注第112题"
+    "source": "2014年国家公务员考试《行测》未标注第112题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2014-未标注-113",
@@ -2936,7 +3114,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2014年国家公务员考试《行测》未标注第113题"
+    "source": "2014年国家公务员考试《行测》未标注第113题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2014-未标注-114",
@@ -2970,7 +3150,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2014年国家公务员考试《行测》未标注第114题"
+    "source": "2014年国家公务员考试《行测》未标注第114题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2014-未标注-115",
@@ -3004,7 +3186,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2014年国家公务员考试《行测》未标注第115题",
-    "isImageQuestion": true
+    "isImageQuestion": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2015-副省级-76",
@@ -3023,7 +3207,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年国家公务员考试《行测》副省级第76题",
-    "isImageQuestion": true
+    "isImageQuestion": true,
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2015-副省级-77",
@@ -3042,7 +3228,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年国家公务员考试《行测》副省级第77题",
-    "isImageQuestion": true
+    "isImageQuestion": true,
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2015-副省级-78",
@@ -3060,7 +3248,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年国家公务员考试《行测》副省级第78题",
-    "isImageQuestion": true
+    "isImageQuestion": true,
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2015-副省级-79",
@@ -3078,7 +3268,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年国家公务员考试《行测》副省级第79题",
-    "isImageQuestion": true
+    "isImageQuestion": true,
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2015-副省级-80",
@@ -3096,7 +3288,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年国家公务员考试《行测》副省级第80题",
-    "isImageQuestion": true
+    "isImageQuestion": true,
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2015-副省级-81",
@@ -3132,7 +3326,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年国家公务员考试《行测》副省级第81题",
-    "isImageQuestion": true
+    "isImageQuestion": true,
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2015-副省级-82",
@@ -3167,7 +3363,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年国家公务员考试《行测》副省级第82题",
-    "isImageQuestion": true
+    "isImageQuestion": true,
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2015-副省级-83",
@@ -3203,7 +3401,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年国家公务员考试《行测》副省级第83题",
-    "isImageQuestion": true
+    "isImageQuestion": true,
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2015-副省级-84",
@@ -3238,7 +3438,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年国家公务员考试《行测》副省级第84题",
-    "isImageQuestion": true
+    "isImageQuestion": true,
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2015-副省级-85",
@@ -3274,7 +3476,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年国家公务员考试《行测》副省级第85题",
-    "isImageQuestion": true
+    "isImageQuestion": true,
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2015-副省级-86",
@@ -3309,7 +3513,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2015年国家公务员考试《行测》副省级第86题"
+    "source": "2015年国家公务员考试《行测》副省级第86题",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2015-副省级-87",
@@ -3342,7 +3548,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2015年国家公务员考试《行测》副省级第87题"
+    "source": "2015年国家公务员考试《行测》副省级第87题",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2015-副省级-88",
@@ -3376,7 +3584,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2015年国家公务员考试《行测》副省级第88题"
+    "source": "2015年国家公务员考试《行测》副省级第88题",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2015-副省级-89",
@@ -3411,7 +3621,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2015年国家公务员考试《行测》副省级第89题"
+    "source": "2015年国家公务员考试《行测》副省级第89题",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2015-副省级-90",
@@ -3445,7 +3657,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2015年国家公务员考试《行测》副省级第90题"
+    "source": "2015年国家公务员考试《行测》副省级第90题",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2015-副省级-91",
@@ -3480,7 +3694,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2015年国家公务员考试《行测》副省级第91题"
+    "source": "2015年国家公务员考试《行测》副省级第91题",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2015-副省级-92",
@@ -3499,7 +3715,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年国家公务员考试《行测》副省级第92题",
-    "isImageQuestion": true
+    "isImageQuestion": true,
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2015-副省级-93",
@@ -3534,7 +3752,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2015年国家公务员考试《行测》副省级第93题"
+    "source": "2015年国家公务员考试《行测》副省级第93题",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2015-副省级-94",
@@ -3569,7 +3789,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2015年国家公务员考试《行测》副省级第94题"
+    "source": "2015年国家公务员考试《行测》副省级第94题",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2015-副省级-95",
@@ -3603,7 +3825,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2015年国家公务员考试《行测》副省级第95题"
+    "source": "2015年国家公务员考试《行测》副省级第95题",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2015-副省级-96",
@@ -3638,7 +3862,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2015年国家公务员考试《行测》副省级第96题"
+    "source": "2015年国家公务员考试《行测》副省级第96题",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2015-副省级-97",
@@ -3673,7 +3899,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2015年国家公务员考试《行测》副省级第97题"
+    "source": "2015年国家公务员考试《行测》副省级第97题",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2015-副省级-98",
@@ -3708,7 +3936,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2015年国家公务员考试《行测》副省级第98题"
+    "source": "2015年国家公务员考试《行测》副省级第98题",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2015-副省级-99",
@@ -3743,7 +3973,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2015年国家公务员考试《行测》副省级第99题"
+    "source": "2015年国家公务员考试《行测》副省级第99题",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2015-副省级-100",
@@ -3778,7 +4010,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2015年国家公务员考试《行测》副省级第100题"
+    "source": "2015年国家公务员考试《行测》副省级第100题",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2015-副省级-101",
@@ -3813,7 +4047,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2015年国家公务员考试《行测》副省级第101题"
+    "source": "2015年国家公务员考试《行测》副省级第101题",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2015-副省级-102",
@@ -3848,7 +4084,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2015年国家公务员考试《行测》副省级第102题"
+    "source": "2015年国家公务员考试《行测》副省级第102题",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2015-副省级-103",
@@ -3883,7 +4121,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2015年国家公务员考试《行测》副省级第103题"
+    "source": "2015年国家公务员考试《行测》副省级第103题",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2015-副省级-104",
@@ -3918,7 +4158,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2015年国家公务员考试《行测》副省级第104题"
+    "source": "2015年国家公务员考试《行测》副省级第104题",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2015-副省级-105",
@@ -3953,7 +4195,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2015年国家公务员考试《行测》副省级第105题"
+    "source": "2015年国家公务员考试《行测》副省级第105题",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2015-副省级-106",
@@ -3987,7 +4231,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2015年国家公务员考试《行测》副省级第106题"
+    "source": "2015年国家公务员考试《行测》副省级第106题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2015-副省级-107",
@@ -4021,7 +4267,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2015年国家公务员考试《行测》副省级第107题"
+    "source": "2015年国家公务员考试《行测》副省级第107题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2015-副省级-108",
@@ -4055,7 +4303,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2015年国家公务员考试《行测》副省级第108题"
+    "source": "2015年国家公务员考试《行测》副省级第108题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2015-副省级-109",
@@ -4089,7 +4339,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2015年国家公务员考试《行测》副省级第109题"
+    "source": "2015年国家公务员考试《行测》副省级第109题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2015-副省级-110",
@@ -4123,7 +4375,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2015年国家公务员考试《行测》副省级第110题"
+    "source": "2015年国家公务员考试《行测》副省级第110题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2015-副省级-111",
@@ -4157,7 +4411,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2015年国家公务员考试《行测》副省级第111题"
+    "source": "2015年国家公务员考试《行测》副省级第111题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2015-副省级-112",
@@ -4191,7 +4447,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2015年国家公务员考试《行测》副省级第112题"
+    "source": "2015年国家公务员考试《行测》副省级第112题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2015-副省级-113",
@@ -4225,7 +4483,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2015年国家公务员考试《行测》副省级第113题"
+    "source": "2015年国家公务员考试《行测》副省级第113题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2015-副省级-114",
@@ -4258,7 +4518,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2015年国家公务员考试《行测》副省级第114题"
+    "source": "2015年国家公务员考试《行测》副省级第114题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2015-副省级-115",
@@ -4292,7 +4554,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2015年国家公务员考试《行测》副省级第115题"
+    "source": "2015年国家公务员考试《行测》副省级第115题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2015-地市级-71",
@@ -4311,7 +4575,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年国家公务员考试《行测》地市级第71题",
-    "isImageQuestion": true
+    "isImageQuestion": true,
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2015-地市级-72",
@@ -4330,7 +4596,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年国家公务员考试《行测》地市级第72题",
-    "isImageQuestion": true
+    "isImageQuestion": true,
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2015-地市级-73",
@@ -4348,7 +4616,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年国家公务员考试《行测》地市级第73题",
-    "isImageQuestion": true
+    "isImageQuestion": true,
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2015-地市级-74",
@@ -4366,7 +4636,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年国家公务员考试《行测》地市级第74题",
-    "isImageQuestion": true
+    "isImageQuestion": true,
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2015-地市级-75",
@@ -4384,7 +4656,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年国家公务员考试《行测》地市级第75题",
-    "isImageQuestion": true
+    "isImageQuestion": true,
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2015-地市级-76",
@@ -4420,7 +4694,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年国家公务员考试《行测》地市级第76题",
-    "isImageQuestion": true
+    "isImageQuestion": true,
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2015-地市级-77",
@@ -4455,7 +4731,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年国家公务员考试《行测》地市级第77题",
-    "isImageQuestion": true
+    "isImageQuestion": true,
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2015-地市级-78",
@@ -4491,7 +4769,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年国家公务员考试《行测》地市级第78题",
-    "isImageQuestion": true
+    "isImageQuestion": true,
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2015-地市级-79",
@@ -4527,7 +4807,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年国家公务员考试《行测》地市级第79题",
-    "isImageQuestion": true
+    "isImageQuestion": true,
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2015-地市级-80",
@@ -4563,7 +4845,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年国家公务员考试《行测》地市级第80题",
-    "isImageQuestion": true
+    "isImageQuestion": true,
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2015-地市级-81",
@@ -4598,7 +4882,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2015年国家公务员考试《行测》地市级第81题"
+    "source": "2015年国家公务员考试《行测》地市级第81题",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2015-地市级-82",
@@ -4631,7 +4917,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2015年国家公务员考试《行测》地市级第82题"
+    "source": "2015年国家公务员考试《行测》地市级第82题",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2015-地市级-83",
@@ -4665,7 +4953,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2015年国家公务员考试《行测》地市级第83题"
+    "source": "2015年国家公务员考试《行测》地市级第83题",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2015-地市级-84",
@@ -4700,7 +4990,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2015年国家公务员考试《行测》地市级第84题"
+    "source": "2015年国家公务员考试《行测》地市级第84题",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2015-地市级-85",
@@ -4734,7 +5026,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2015年国家公务员考试《行测》地市级第85题"
+    "source": "2015年国家公务员考试《行测》地市级第85题",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2015-地市级-86",
@@ -4769,7 +5063,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2015年国家公务员考试《行测》地市级第86题"
+    "source": "2015年国家公务员考试《行测》地市级第86题",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2015-地市级-87",
@@ -4788,7 +5084,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2015年国家公务员考试《行测》地市级第87题",
-    "isImageQuestion": true
+    "isImageQuestion": true,
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2015-地市级-88",
@@ -4823,7 +5121,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2015年国家公务员考试《行测》地市级第88题"
+    "source": "2015年国家公务员考试《行测》地市级第88题",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2015-地市级-89",
@@ -4858,7 +5158,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2015年国家公务员考试《行测》地市级第89题"
+    "source": "2015年国家公务员考试《行测》地市级第89题",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2015-地市级-90",
@@ -4892,7 +5194,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2015年国家公务员考试《行测》地市级第90题"
+    "source": "2015年国家公务员考试《行测》地市级第90题",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2015-地市级-91",
@@ -4927,7 +5231,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2015年国家公务员考试《行测》地市级第91题"
+    "source": "2015年国家公务员考试《行测》地市级第91题",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2015-地市级-92",
@@ -4962,7 +5268,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2015年国家公务员考试《行测》地市级第92题"
+    "source": "2015年国家公务员考试《行测》地市级第92题",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2015-地市级-93",
@@ -4997,7 +5305,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2015年国家公务员考试《行测》地市级第93题"
+    "source": "2015年国家公务员考试《行测》地市级第93题",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2015-地市级-94",
@@ -5032,7 +5342,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2015年国家公务员考试《行测》地市级第94题"
+    "source": "2015年国家公务员考试《行测》地市级第94题",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2015-地市级-95",
@@ -5067,7 +5379,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2015年国家公务员考试《行测》地市级第95题"
+    "source": "2015年国家公务员考试《行测》地市级第95题",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2015-地市级-96",
@@ -5102,7 +5416,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2015年国家公务员考试《行测》地市级第96题"
+    "source": "2015年国家公务员考试《行测》地市级第96题",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2015-地市级-97",
@@ -5137,7 +5453,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2015年国家公务员考试《行测》地市级第97题"
+    "source": "2015年国家公务员考试《行测》地市级第97题",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2015-地市级-98",
@@ -5172,7 +5490,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2015年国家公务员考试《行测》地市级第98题"
+    "source": "2015年国家公务员考试《行测》地市级第98题",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2015-地市级-99",
@@ -5207,7 +5527,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2015年国家公务员考试《行测》地市级第99题"
+    "source": "2015年国家公务员考试《行测》地市级第99题",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2015-地市级-100",
@@ -5242,7 +5564,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2015年国家公务员考试《行测》地市级第100题"
+    "source": "2015年国家公务员考试《行测》地市级第100题",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2015-地市级-101",
@@ -5276,7 +5600,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2015年国家公务员考试《行测》地市级第101题"
+    "source": "2015年国家公务员考试《行测》地市级第101题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2015-地市级-102",
@@ -5310,7 +5636,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2015年国家公务员考试《行测》地市级第102题"
+    "source": "2015年国家公务员考试《行测》地市级第102题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2015-地市级-103",
@@ -5344,7 +5672,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2015年国家公务员考试《行测》地市级第103题"
+    "source": "2015年国家公务员考试《行测》地市级第103题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2015-地市级-104",
@@ -5378,7 +5708,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2015年国家公务员考试《行测》地市级第104题"
+    "source": "2015年国家公务员考试《行测》地市级第104题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2015-地市级-105",
@@ -5412,7 +5744,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2015年国家公务员考试《行测》地市级第105题"
+    "source": "2015年国家公务员考试《行测》地市级第105题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2015-地市级-106",
@@ -5446,7 +5780,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2015年国家公务员考试《行测》地市级第106题"
+    "source": "2015年国家公务员考试《行测》地市级第106题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2015-地市级-107",
@@ -5480,7 +5816,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2015年国家公务员考试《行测》地市级第107题"
+    "source": "2015年国家公务员考试《行测》地市级第107题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2015-地市级-108",
@@ -5513,7 +5851,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2015年国家公务员考试《行测》地市级第108题"
+    "source": "2015年国家公务员考试《行测》地市级第108题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2015-地市级-109",
@@ -5547,7 +5887,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2015年国家公务员考试《行测》地市级第109题"
+    "source": "2015年国家公务员考试《行测》地市级第109题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2015-地市级-110",
@@ -5581,7 +5923,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2015年国家公务员考试《行测》地市级第110题"
+    "source": "2015年国家公务员考试《行测》地市级第110题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2016-副省级-76",
@@ -5600,7 +5944,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年国家公务员考试《行测》副省级第76题",
-    "isImageQuestion": true
+    "isImageQuestion": true,
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2016-副省级-77",
@@ -5617,7 +5963,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年国家公务员考试《行测》副省级第77题",
-    "isImageQuestion": true
+    "isImageQuestion": true,
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2016-副省级-78",
@@ -5635,7 +5983,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年国家公务员考试《行测》副省级第78题",
-    "isImageQuestion": true
+    "isImageQuestion": true,
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2016-副省级-79",
@@ -5652,7 +6002,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年国家公务员考试《行测》副省级第79题",
-    "isImageQuestion": true
+    "isImageQuestion": true,
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2016-副省级-80",
@@ -5686,7 +6038,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年国家公务员考试《行测》副省级第80题",
-    "isImageQuestion": true
+    "isImageQuestion": true,
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2016-副省级-81",
@@ -5721,7 +6075,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年国家公务员考试《行测》副省级第81题",
-    "isImageQuestion": true
+    "isImageQuestion": true,
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2016-副省级-82",
@@ -5756,7 +6112,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年国家公务员考试《行测》副省级第82题",
-    "isImageQuestion": true
+    "isImageQuestion": true,
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2016-副省级-83",
@@ -5791,7 +6149,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年国家公务员考试《行测》副省级第83题",
-    "isImageQuestion": true
+    "isImageQuestion": true,
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2016-副省级-84",
@@ -5825,7 +6185,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年国家公务员考试《行测》副省级第84题",
-    "isImageQuestion": true
+    "isImageQuestion": true,
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2016-副省级-85",
@@ -5861,7 +6223,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2016年国家公务员考试《行测》副省级第85题",
-    "isImageQuestion": true
+    "isImageQuestion": true,
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2016-副省级-86",
@@ -5895,7 +6259,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2016年国家公务员考试《行测》副省级第86题"
+    "source": "2016年国家公务员考试《行测》副省级第86题",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2016-副省级-87",
@@ -5930,7 +6296,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2016年国家公务员考试《行测》副省级第87题"
+    "source": "2016年国家公务员考试《行测》副省级第87题",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2016-副省级-88",
@@ -5964,7 +6332,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2016年国家公务员考试《行测》副省级第88题"
+    "source": "2016年国家公务员考试《行测》副省级第88题",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2016-副省级-89",
@@ -5999,7 +6369,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2016年国家公务员考试《行测》副省级第89题"
+    "source": "2016年国家公务员考试《行测》副省级第89题",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2016-副省级-90",
@@ -6034,7 +6406,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2016年国家公务员考试《行测》副省级第90题"
+    "source": "2016年国家公务员考试《行测》副省级第90题",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2016-副省级-91",
@@ -6067,7 +6441,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2016年国家公务员考试《行测》副省级第91题"
+    "source": "2016年国家公务员考试《行测》副省级第91题",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2016-副省级-92",
@@ -6100,7 +6476,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2016年国家公务员考试《行测》副省级第92题"
+    "source": "2016年国家公务员考试《行测》副省级第92题",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2016-副省级-93",
@@ -6135,7 +6513,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2016年国家公务员考试《行测》副省级第93题"
+    "source": "2016年国家公务员考试《行测》副省级第93题",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2016-副省级-94",
@@ -6169,7 +6549,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2016年国家公务员考试《行测》副省级第94题"
+    "source": "2016年国家公务员考试《行测》副省级第94题",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2016-副省级-95",
@@ -6204,7 +6586,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2016年国家公务员考试《行测》副省级第95题"
+    "source": "2016年国家公务员考试《行测》副省级第95题",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2016-副省级-96",
@@ -6239,7 +6623,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2016年国家公务员考试《行测》副省级第96题"
+    "source": "2016年国家公务员考试《行测》副省级第96题",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2016-副省级-97",
@@ -6274,7 +6660,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2016年国家公务员考试《行测》副省级第97题"
+    "source": "2016年国家公务员考试《行测》副省级第97题",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2016-副省级-98",
@@ -6309,7 +6697,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2016年国家公务员考试《行测》副省级第98题"
+    "source": "2016年国家公务员考试《行测》副省级第98题",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2016-副省级-99",
@@ -6343,7 +6733,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2016年国家公务员考试《行测》副省级第99题"
+    "source": "2016年国家公务员考试《行测》副省级第99题",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2016-副省级-100",
@@ -6378,7 +6770,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2016年国家公务员考试《行测》副省级第100题"
+    "source": "2016年国家公务员考试《行测》副省级第100题",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2016-副省级-101",
@@ -6413,7 +6807,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2016年国家公务员考试《行测》副省级第101题"
+    "source": "2016年国家公务员考试《行测》副省级第101题",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2016-副省级-102",
@@ -6447,7 +6843,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2016年国家公务员考试《行测》副省级第102题"
+    "source": "2016年国家公务员考试《行测》副省级第102题",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2016-副省级-103",
@@ -6482,6 +6880,8 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2016年国家公务员考试《行测》副省级第103题"
+    "source": "2016年国家公务员考试《行测》副省级第103题",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   }
 ]

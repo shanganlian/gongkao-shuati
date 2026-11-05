@@ -1,0 +1,295 @@
+{
+  "generatedAt": "2026-11-02T01:35:57.724Z",
+  "apply": true,
+  "scannedQuestions": 95486,
+  "scannedFiles": 1196,
+  "hits": 5,
+  "byCode": {
+    "E09-A": 3,
+    "E09-B": 5
+  },
+  "marked": 10,
+  "alreadyMarked": 0,
+  "changedFiles": [
+    "public/data/questions/national-none-ziliao-0.json",
+    "public/data/questions-v2/national-none-ziliao-0.json"
+  ],
+  "samples": [
+    {
+      "id": "gk-2000-未标注-81",
+      "module": "ziliao",
+      "isAbnormal": false,
+      "source": "2000年国家公务员考试《行测》未标注第81题",
+      "title": "资料·戊城中学生最喜欢的节目是（ ）。",
+      "stem": "戊城中学生最喜欢的节目是（ ）。",
+      "material": "所给出的图、表或一段文字均有 5 个问题要你回答。你应根据资料提供的信息进行分析、比较、计算和判断 处理。\n一、请\n。\n下面的三角形表示甲、乙、丙、丁、戊五个城市的中学生对 X、Y、Z 三个电视节目的喜欢情况调查结果。如 甲城喜欢 X 节目的占 30%，喜欢 Y 节目的占 70%，无人喜欢 Z 节目；而丙城 20％喜欢 X 节目，50％喜欢 Y 节目，\n30%喜欢 Z 节目。",
+      "options": [
+        "A.X",
+        "B.Y",
+        "C.Z",
+        "D.不能判断"
+      ],
+      "issues": [
+        {
+          "code": "E09-A",
+          "detail": "选项为字母占位（X/Y/Z），依赖图表但未保留图片"
+        },
+        {
+          "code": "E09-B",
+          "detail": "多城市对比依赖图表（戊/甲/丙），材料无完整数据/图片"
+        }
+      ],
+      "locations": [
+        "public/data/questions/national-none-ziliao-0.json",
+        "public/data/questions-v2/national-none-ziliao-0.json"
+      ]
+    },
+    {
+      "id": "gk-2000-未标注-82",
+      "module": "ziliao",
+      "isAbnormal": false,
+      "source": "2000年国家公务员考试《行测》未标注第82题",
+      "title": "资料·甲城中学生与丁城中学生共同特点是（ ）。",
+      "stem": "甲城中学生与丁城中学生共同特点是（ ）。",
+      "material": "所给出的图、表或一段文字均有 5 个问题要你回答。你应根据资料提供的信息进行分析、比较、计算和判断 处理。\n一、请\n。\n下面的三角形表示甲、乙、丙、丁、戊五个城市的中学生对 X、Y、Z 三个电视节目的喜欢情况调查结果。如 甲城喜欢 X 节目的占 30%，喜欢 Y 节目的占 70%，无人喜欢 Z 节目；而丙城 20％喜欢 X 节目，50％喜欢 Y 节目，\n30%喜欢 Z 节目。",
+      "options": [
+        "A.不喜欢 X 节目",
+        "B.不喜欢 Y 节目",
+        "C.不喜欢 Z 节目",
+        "D.没有共同点"
+      ],
+      "issues": [
+        {
+          "code": "E09-A",
+          "detail": "选项为字母占位（X/Y/Z），依赖图表但未保留图片"
+        },
+        {
+          "code": "E09-B",
+          "detail": "多城市对比依赖图表（甲/丁/丙），材料无完整数据/图片"
+        }
+      ],
+      "locations": [
+        "public/data/questions/national-none-ziliao-0.json",
+        "public/data/questions-v2/national-none-ziliao-0.json"
+      ]
+    },
+    {
+      "id": "gk-2000-未标注-83",
+      "module": "ziliao",
+      "isAbnormal": false,
+      "source": "2000年国家公务员考试《行测》未标注第83题",
+      "title": "资料·Y 节目最受欢迎的城市是（ ）。",
+      "stem": "Y 节目最受欢迎的城市是（ ）。",
+      "material": "所给出的图、表或一段文字均有 5 个问题要你回答。你应根据资料提供的信息进行分析、比较、计算和判断 处理。\n一、请\n。\n下面的三角形表示甲、乙、丙、丁、戊五个城市的中学生对 X、Y、Z 三个电视节目的喜欢情况调查结果。如 甲城喜欢 X 节目的占 30%，喜欢 Y 节目的占 70%，无人喜欢 Z 节目；而丙城 20％喜欢 X 节目，50％喜欢 Y 节目，\n30%喜欢 Z 节目。",
+      "options": [
+        "A.丁城",
+        "B.甲城",
+        "C.戊城",
+        "D.丙城"
+      ],
+      "issues": [
+        {
+          "code": "E09-B",
+          "detail": "多城市对比依赖图表（丁/甲/戊/丙），材料无完整数据/图片"
+        }
+      ],
+      "locations": [
+        "public/data/questions/national-none-ziliao-0.json",
+        "public/data/questions-v2/national-none-ziliao-0.json"
+      ]
+    },
+    {
+      "id": "gk-2000-未标注-84",
+      "module": "ziliao",
+      "isAbnormal": false,
+      "source": "2000年国家公务员考试《行测》未标注第84题",
+      "title": "资料·Z 节目在丙城受欢迎的程度要达到 X 节目在戊城的水平，…",
+      "stem": "Z 节目在丙城受欢迎的程度要达到 X 节目在戊城的水平，需增加的百分比例是（ ）。",
+      "material": "所给出的图、表或一段文字均有 5 个问题要你回答。你应根据资料提供的信息进行分析、比较、计算和判断 处理。\n一、请\n。\n下面的三角形表示甲、乙、丙、丁、戊五个城市的中学生对 X、Y、Z 三个电视节目的喜欢情况调查结果。如 甲城喜欢 X 节目的占 30%，喜欢 Y 节目的占 70%，无人喜欢 Z 节目；而丙城 20％喜欢 X 节目，50％喜欢 Y 节目，\n30%喜欢 Z 节目。",
+      "options": [
+        "A.50%",
+        "B.-20％",
+        "C.40％",
+        "D.-30%"
+      ],
+      "issues": [
+        {
+          "code": "E09-B",
+          "detail": "多城市对比依赖图表（丙/戊/甲），材料无完整数据/图片"
+        }
+      ],
+      "locations": [
+        "public/data/questions/national-none-ziliao-0.json",
+        "public/data/questions-v2/national-none-ziliao-0.json"
+      ]
+    },
+    {
+      "id": "gk-2000-未标注-85",
+      "module": "ziliao",
+      "isAbnormal": false,
+      "source": "2000年国家公务员考试《行测》未标注第85题",
+      "title": "资料·就 X、Y、Z 三个节目比较而言，最受该五个城市中学生欢…",
+      "stem": "就 X、Y、Z 三个节目比较而言，最受该五个城市中学生欢迎的节目是（ ）。",
+      "material": "所给出的图、表或一段文字均有 5 个问题要你回答。你应根据资料提供的信息进行分析、比较、计算和判断 处理。\n一、请\n。\n下面的三角形表示甲、乙、丙、丁、戊五个城市的中学生对 X、Y、Z 三个电视节目的喜欢情况调查结果。如 甲城喜欢 X 节目的占 30%，喜欢 Y 节目的占 70%，无人喜欢 Z 节目；而丙城 20％喜欢 X 节目，50％喜欢 Y 节目，\n30%喜欢 Z 节目。",
+      "options": [
+        "A.X",
+        "B.Y",
+        "C.Z",
+        "D.无法判断"
+      ],
+      "issues": [
+        {
+          "code": "E09-A",
+          "detail": "选项为字母占位（X/Y/Z），依赖图表但未保留图片"
+        },
+        {
+          "code": "E09-B",
+          "detail": "多城市对比依赖图表（甲/丙），材料无完整数据/图片"
+        }
+      ],
+      "locations": [
+        "public/data/questions/national-none-ziliao-0.json",
+        "public/data/questions-v2/national-none-ziliao-0.json"
+      ]
+    }
+  ],
+  "all": [
+    {
+      "id": "gk-2000-未标注-81",
+      "module": "ziliao",
+      "isAbnormal": false,
+      "source": "2000年国家公务员考试《行测》未标注第81题",
+      "title": "资料·戊城中学生最喜欢的节目是（ ）。",
+      "stem": "戊城中学生最喜欢的节目是（ ）。",
+      "material": "所给出的图、表或一段文字均有 5 个问题要你回答。你应根据资料提供的信息进行分析、比较、计算和判断 处理。\n一、请\n。\n下面的三角形表示甲、乙、丙、丁、戊五个城市的中学生对 X、Y、Z 三个电视节目的喜欢情况调查结果。如 甲城喜欢 X 节目的占 30%，喜欢 Y 节目的占 70%，无人喜欢 Z 节目；而丙城 20％喜欢 X 节目，50％喜欢 Y 节目，\n30%喜欢 Z 节目。",
+      "options": [
+        "A.X",
+        "B.Y",
+        "C.Z",
+        "D.不能判断"
+      ],
+      "issues": [
+        {
+          "code": "E09-A",
+          "detail": "选项为字母占位（X/Y/Z），依赖图表但未保留图片"
+        },
+        {
+          "code": "E09-B",
+          "detail": "多城市对比依赖图表（戊/甲/丙），材料无完整数据/图片"
+        }
+      ],
+      "locations": [
+        "public/data/questions/national-none-ziliao-0.json",
+        "public/data/questions-v2/national-none-ziliao-0.json"
+      ]
+    },
+    {
+      "id": "gk-2000-未标注-82",
+      "module": "ziliao",
+      "isAbnormal": false,
+      "source": "2000年国家公务员考试《行测》未标注第82题",
+      "title": "资料·甲城中学生与丁城中学生共同特点是（ ）。",
+      "stem": "甲城中学生与丁城中学生共同特点是（ ）。",
+      "material": "所给出的图、表或一段文字均有 5 个问题要你回答。你应根据资料提供的信息进行分析、比较、计算和判断 处理。\n一、请\n。\n下面的三角形表示甲、乙、丙、丁、戊五个城市的中学生对 X、Y、Z 三个电视节目的喜欢情况调查结果。如 甲城喜欢 X 节目的占 30%，喜欢 Y 节目的占 70%，无人喜欢 Z 节目；而丙城 20％喜欢 X 节目，50％喜欢 Y 节目，\n30%喜欢 Z 节目。",
+      "options": [
+        "A.不喜欢 X 节目",
+        "B.不喜欢 Y 节目",
+        "C.不喜欢 Z 节目",
+        "D.没有共同点"
+      ],
+      "issues": [
+        {
+          "code": "E09-A",
+          "detail": "选项为字母占位（X/Y/Z），依赖图表但未保留图片"
+        },
+        {
+          "code": "E09-B",
+          "detail": "多城市对比依赖图表（甲/丁/丙），材料无完整数据/图片"
+        }
+      ],
+      "locations": [
+        "public/data/questions/national-none-ziliao-0.json",
+        "public/data/questions-v2/national-none-ziliao-0.json"
+      ]
+    },
+    {
+      "id": "gk-2000-未标注-83",
+      "module": "ziliao",
+      "isAbnormal": false,
+      "source": "2000年国家公务员考试《行测》未标注第83题",
+      "title": "资料·Y 节目最受欢迎的城市是（ ）。",
+      "stem": "Y 节目最受欢迎的城市是（ ）。",
+      "material": "所给出的图、表或一段文字均有 5 个问题要你回答。你应根据资料提供的信息进行分析、比较、计算和判断 处理。\n一、请\n。\n下面的三角形表示甲、乙、丙、丁、戊五个城市的中学生对 X、Y、Z 三个电视节目的喜欢情况调查结果。如 甲城喜欢 X 节目的占 30%，喜欢 Y 节目的占 70%，无人喜欢 Z 节目；而丙城 20％喜欢 X 节目，50％喜欢 Y 节目，\n30%喜欢 Z 节目。",
+      "options": [
+        "A.丁城",
+        "B.甲城",
+        "C.戊城",
+        "D.丙城"
+      ],
+      "issues": [
+        {
+          "code": "E09-B",
+          "detail": "多城市对比依赖图表（丁/甲/戊/丙），材料无完整数据/图片"
+        }
+      ],
+      "locations": [
+        "public/data/questions/national-none-ziliao-0.json",
+        "public/data/questions-v2/national-none-ziliao-0.json"
+      ]
+    },
+    {
+      "id": "gk-2000-未标注-84",
+      "module": "ziliao",
+      "isAbnormal": false,
+      "source": "2000年国家公务员考试《行测》未标注第84题",
+      "title": "资料·Z 节目在丙城受欢迎的程度要达到 X 节目在戊城的水平，…",
+      "stem": "Z 节目在丙城受欢迎的程度要达到 X 节目在戊城的水平，需增加的百分比例是（ ）。",
+      "material": "所给出的图、表或一段文字均有 5 个问题要你回答。你应根据资料提供的信息进行分析、比较、计算和判断 处理。\n一、请\n。\n下面的三角形表示甲、乙、丙、丁、戊五个城市的中学生对 X、Y、Z 三个电视节目的喜欢情况调查结果。如 甲城喜欢 X 节目的占 30%，喜欢 Y 节目的占 70%，无人喜欢 Z 节目；而丙城 20％喜欢 X 节目，50％喜欢 Y 节目，\n30%喜欢 Z 节目。",
+      "options": [
+        "A.50%",
+        "B.-20％",
+        "C.40％",
+        "D.-30%"
+      ],
+      "issues": [
+        {
+          "code": "E09-B",
+          "detail": "多城市对比依赖图表（丙/戊/甲），材料无完整数据/图片"
+        }
+      ],
+      "locations": [
+        "public/data/questions/national-none-ziliao-0.json",
+        "public/data/questions-v2/national-none-ziliao-0.json"
+      ]
+    },
+    {
+      "id": "gk-2000-未标注-85",
+      "module": "ziliao",
+      "isAbnormal": false,
+      "source": "2000年国家公务员考试《行测》未标注第85题",
+      "title": "资料·就 X、Y、Z 三个节目比较而言，最受该五个城市中学生欢…",
+      "stem": "就 X、Y、Z 三个节目比较而言，最受该五个城市中学生欢迎的节目是（ ）。",
+      "material": "所给出的图、表或一段文字均有 5 个问题要你回答。你应根据资料提供的信息进行分析、比较、计算和判断 处理。\n一、请\n。\n下面的三角形表示甲、乙、丙、丁、戊五个城市的中学生对 X、Y、Z 三个电视节目的喜欢情况调查结果。如 甲城喜欢 X 节目的占 30%，喜欢 Y 节目的占 70%，无人喜欢 Z 节目；而丙城 20％喜欢 X 节目，50％喜欢 Y 节目，\n30%喜欢 Z 节目。",
+      "options": [
+        "A.X",
+        "B.Y",
+        "C.Z",
+        "D.无法判断"
+      ],
+      "issues": [
+        {
+          "code": "E09-A",
+          "detail": "选项为字母占位（X/Y/Z），依赖图表但未保留图片"
+        },
+        {
+          "code": "E09-B",
+          "detail": "多城市对比依赖图表（甲/丙），材料无完整数据/图片"
+        }
+      ],
+      "locations": [
+        "public/data/questions/national-none-ziliao-0.json",
+        "public/data/questions-v2/national-none-ziliao-0.json"
+      ]
+    }
+  ]
+}

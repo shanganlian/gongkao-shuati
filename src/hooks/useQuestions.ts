@@ -1,11 +1,13 @@
 import { useState, useEffect, useMemo } from 'react';
 import { Question, ExamCategory } from '../types';
 import { filterValidQuestions } from '../lib/questionValidation';
+import { getScopeModuleStats } from '../data/subModuleCounts';
 
 export function useQuestions(
   selectedCategory: ExamCategory | 'all',
   activeProvince: string,
   activeModule: string,
+  activeSubModule: string,
   practiceMode: string,
   mistakeList: string[],
   currentKnowledgeFilter: { module: string; cardIds: string[]; keywords: string[] } | null
@@ -86,6 +88,46 @@ export function useQuestions(
     }
   }, [indexData, idMap, selectedCategory, activeProvince, activeModule, currentKnowledgeFilter, practiceMode, mistakeList, loadedChunks]);
 
+  // 当前“目标考试 + 省份”范围的模块/子类题量：优先用构建期快照，快照缺失时用已加载题库现算。
+  // 快照只统计 subModule_confidence != 'low' 的子类，low 置信题仍计入模块总数与「全部」。
+  const subModuleStats = useMemo(() => {
+    const snapshot = getScopeModuleStats(selectedCategory, activeProvince);
+    if (snapshot.hasSubCounts) return snapshot;
+
+    const totalByModule: Record<string, number> = {};
+    const subsByModule: Record<string, Record<string, number>> = {};
+    let total = 0;
+    for (const q of filterValidQuestions(questionsPool)) {
+      const catMatch = selectedCategory === 'all' || q.category === selectedCategory;
+      let provMatch = true;
+      if (selectedCategory !== 'national' && activeProvince !== 'all') {
+        provMatch = q.province === activeProvince || q.province === '联考';
+      }
+      if (!catMatch || !provMatch) continue;
+      if (!q.module) continue;
+      total += 1;
+      totalByModule[q.module] = (totalByModule[q.module] || 0) + 1;
+      if (q.subModule && q.subModule_confidence !== 'low') {
+        const bucket = (subsByModule[q.module] ||= {});
+        bucket[q.subModule] = (bucket[q.subModule] || 0) + 1;
+      }
+    }
+    return {
+      ...snapshot,
+      total,
+      totalByModule,
+      subsByModule,
+      hasSubCounts: Object.keys(subsByModule).length > 0,
+    };
+  }, [questionsPool, selectedCategory, activeProvince]);
+
+  // 当前“目标考试 + 省份 + 模块”范围内可筛的二级分类；用于隐藏空分类、兜底重置选中态
+  const availableSubModules = useMemo(() => {
+    if (currentKnowledgeFilter) return [];
+    const subs = subModuleStats.subsByModule[activeModule] || {};
+    return Object.keys(subs).filter(sub => subs[sub] > 0);
+  }, [subModuleStats, activeModule, currentKnowledgeFilter]);
+
   const filteredQuestions = useMemo(() => {
     const isKnowledgeFilterActive = !!currentKnowledgeFilter;
     // 统一数据校验：题干为空 / 选项为空（含选项文本为空）的题目直接跳过
@@ -107,14 +149,19 @@ export function useQuestions(
         provMatch = q.province === activeProvince || q.province === '联考';
       }
       const modMatch = activeModule === 'all' || q.module === activeModule;
-      
-      return catMatch && provMatch && modMatch;
+      // low 为待人工复核的暂定分类，不进入二级分类筛选，避免把不确定题暴露到错误子类
+      const subModMatch = activeSubModule === 'all'
+        || (q.subModule === activeSubModule && q.subModule_confidence !== 'low');
+
+      return catMatch && provMatch && modMatch && subModMatch;
     });
-  }, [questionsPool, currentKnowledgeFilter, selectedCategory, activeProvince, activeModule]);
+  }, [questionsPool, currentKnowledgeFilter, selectedCategory, activeProvince, activeModule, activeSubModule]);
 
   return {
     questionsPool,
     filteredQuestions,
+    availableSubModules,
+    subModuleStats,
     isLoading,
     indexData
   };

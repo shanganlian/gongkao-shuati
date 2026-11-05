@@ -17,7 +17,9 @@
     "difficulty": "拔高",
     "source": "2025年浙江公务员考试《行测》（B类）第67题",
     "isImageQuestion": true,
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2025-B类-68",
@@ -53,7 +55,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年浙江公务员考试《行测》（B类）第68题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2025-B类-69",
@@ -90,7 +94,9 @@
     "difficulty": "拔高",
     "source": "2025年浙江公务员考试《行测》（B类）第69题",
     "isImageQuestion": true,
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2025-B类-70",
@@ -109,7 +115,10 @@
     "difficulty": "拔高",
     "source": "2025年浙江公务员考试《行测》（B类）第70题",
     "isImageQuestion": true,
-    "province": "浙江"
+    "province": "浙江",
+    "isAbnormal": true,
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2025-C类-56",
@@ -141,7 +150,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年浙江公务员考试《行测》（C类）第56题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-zhejiang-2025-C类-57",
@@ -173,7 +184,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年浙江公务员考试《行测》（C类）第57题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2025-C类-58",
@@ -198,7 +211,9 @@
     "difficulty": "拔高",
     "source": "2025年浙江公务员考试《行测》（C类）第58题",
     "isImageQuestion": true,
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2025-C类-59",
@@ -230,7 +245,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年浙江公务员考试《行测》（C类）第59题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2025-C类-60",
@@ -262,7 +279,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年浙江公务员考试《行测》（C类）第60题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-zhejiang-2025-C类-61",
@@ -294,7 +313,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年浙江公务员考试《行测》（C类）第61题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2025-C类-62",
@@ -310,7 +331,9 @@
     "difficulty": "拔高",
     "source": "2025年浙江公务员考试《行测》（C类）第62题",
     "isImageQuestion": true,
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2025-C类-63",
@@ -326,7 +349,9 @@
     "difficulty": "拔高",
     "source": "2025年浙江公务员考试《行测》（C类）第63题",
     "isImageQuestion": true,
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2025-C类-64",
@@ -358,7 +383,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2025年浙江公务员考试《行测》（C类）第64题",
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2025-C类-65",
@@ -391,7 +418,9 @@
     "difficulty": "拔高",
     "source": "2025年浙江公务员考试《行测》（C类）第65题",
     "isImageQuestion": true,
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-zhejiang-2025-C类-66",
@@ -407,7 +436,9 @@
     "difficulty": "拔高",
     "source": "2025年浙江公务员考试《行测》（C类）第66题",
     "isImageQuestion": true,
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-zhejiang-2025-C类-67",
@@ -423,7 +454,9 @@
     "difficulty": "拔高",
     "source": "2025年浙江公务员考试《行测》（C类）第67题",
     "isImageQuestion": true,
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-zhejiang-2025-C类-68",
@@ -439,7 +472,9 @@
     "difficulty": "拔高",
     "source": "2025年浙江公务员考试《行测》（C类）第68题",
     "isImageQuestion": true,
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-zhejiang-2025-C类-69",
@@ -455,7 +490,9 @@
     "difficulty": "拔高",
     "source": "2025年浙江公务员考试《行测》（C类）第69题",
     "isImageQuestion": true,
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-zhejiang-2025-C类-70",
@@ -471,6 +508,8 @@
     "difficulty": "拔高",
     "source": "2025年浙江公务员考试《行测》（C类）第70题",
     "isImageQuestion": true,
-    "province": "浙江"
+    "province": "浙江",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   }
 ]

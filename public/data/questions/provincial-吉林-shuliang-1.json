@@ -31,7 +31,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2014年吉林公务员考试《行测》第53题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2014-未标注-54-3",
@@ -67,7 +69,9 @@
     "difficulty": "拔高",
     "source": "2014年吉林公务员考试《行测》第54题",
     "isImageQuestion": true,
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "几何",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-jilin-2014-未标注-55-3",
@@ -102,7 +106,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2014年吉林公务员考试《行测》第55题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2014-未标注-56-3",
@@ -137,7 +143,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2014年吉林公务员考试《行测》第56题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2014-未标注-57-3",
@@ -173,7 +181,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2014年吉林公务员考试《行测》第57题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2014-未标注-58-3",
@@ -209,7 +219,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2014年吉林公务员考试《行测》第58题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2014-未标注-59-3",
@@ -243,7 +255,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2014年吉林公务员考试《行测》第59题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2014-未标注-60-3",
@@ -277,7 +291,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2014年吉林公务员考试《行测》第60题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2015-未标注-86",
@@ -295,7 +311,10 @@
     "difficulty": "拔高",
     "source": "2015年吉林公务员考试《行测》第86题",
     "isImageQuestion": true,
-    "province": "吉林"
+    "province": "吉林",
+    "isAbnormal": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2015-未标注-87",
@@ -330,7 +349,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2015年吉林公务员考试《行测》第87题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2015-未标注-88",
@@ -366,7 +387,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2015年吉林公务员考试《行测》第88题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2015-未标注-89",
@@ -401,7 +424,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2015年吉林公务员考试《行测》第89题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2015-未标注-90",
@@ -436,7 +461,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2015年吉林公务员考试《行测》第90题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2015-未标注-91",
@@ -472,7 +499,9 @@
     "difficulty": "拔高",
     "source": "2015年吉林公务员考试《行测》第91题",
     "isImageQuestion": true,
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2015-未标注-92",
@@ -507,7 +536,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2015年吉林公务员考试《行测》第92题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2015-未标注-93",
@@ -544,7 +575,9 @@
     "difficulty": "拔高",
     "source": "2015年吉林公务员考试《行测》第93题",
     "isImageQuestion": true,
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2015-未标注-94",
@@ -578,7 +611,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2015年吉林公务员考试《行测》第94题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2015-未标注-95",
@@ -613,7 +648,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2015年吉林公务员考试《行测》第95题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2015-未标注-81-2",
@@ -648,7 +685,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2015年吉林公务员考试《行测》第81题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2015-未标注-82-2",
@@ -683,7 +722,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2015年吉林公务员考试《行测》第82题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2015-未标注-83-2",
@@ -718,7 +759,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2015年吉林公务员考试《行测》第83题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2015-未标注-84-2",
@@ -753,7 +796,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2015年吉林公务员考试《行测》第84题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2015-未标注-85-2",
@@ -788,7 +833,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2015年吉林公务员考试《行测》第85题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2015-未标注-86-2",
@@ -824,7 +871,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2015年吉林公务员考试《行测》第86题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2015-未标注-87-2",
@@ -859,7 +908,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2015年吉林公务员考试《行测》第87题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2015-未标注-88-2",
@@ -895,7 +946,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2015年吉林公务员考试《行测》第88题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2015-未标注-89-2",
@@ -914,7 +967,10 @@
     "difficulty": "拔高",
     "source": "2015年吉林公务员考试《行测》第89题",
     "isImageQuestion": true,
-    "province": "吉林"
+    "province": "吉林",
+    "isAbnormal": true,
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2015-未标注-90-2",
@@ -949,7 +1005,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2015年吉林公务员考试《行测》第90题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2015-未标注-56-3",
@@ -984,7 +1042,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2015年吉林公务员考试《行测》第56题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2015-未标注-57-3",
@@ -1018,7 +1078,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2015年吉林公务员考试《行测》第57题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2015-未标注-58-3",
@@ -1052,7 +1114,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2015年吉林公务员考试《行测》第58题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2015-未标注-59-3",
@@ -1089,7 +1153,9 @@
     "difficulty": "拔高",
     "source": "2015年吉林公务员考试《行测》第59题",
     "isImageQuestion": true,
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-jilin-2015-未标注-60-3",
@@ -1124,7 +1190,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2015年吉林公务员考试《行测》第60题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2015-未标注-61-3",
@@ -1159,7 +1227,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2015年吉林公务员考试《行测》第61题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2015-未标注-62-3",
@@ -1193,7 +1263,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2015年吉林公务员考试《行测》第62题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2015-未标注-63-3",
@@ -1213,7 +1285,10 @@
     "difficulty": "拔高",
     "source": "2015年吉林公务员考试《行测》第63题",
     "isImageQuestion": true,
-    "province": "吉林"
+    "province": "吉林",
+    "isAbnormal": true,
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2015-未标注-64-3",
@@ -1232,7 +1307,10 @@
     "difficulty": "拔高",
     "source": "2015年吉林公务员考试《行测》第64题",
     "isImageQuestion": true,
-    "province": "吉林"
+    "province": "吉林",
+    "isAbnormal": true,
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2015-未标注-65-3",
@@ -1266,7 +1344,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2015年吉林公务员考试《行测》第65题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2015-未标注-51-4",
@@ -1301,7 +1381,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2015年吉林公务员考试《行测》第51题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2015-未标注-52-4",
@@ -1336,7 +1418,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2015年吉林公务员考试《行测》第52题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2015-未标注-53-4",
@@ -1372,7 +1456,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2015年吉林公务员考试《行测》第53题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2015-未标注-54-4",
@@ -1407,7 +1493,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2015年吉林公务员考试《行测》第54题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2015-未标注-55-4",
@@ -1427,7 +1515,10 @@
     "difficulty": "拔高",
     "source": "2015年吉林公务员考试《行测》第55题",
     "isImageQuestion": true,
-    "province": "吉林"
+    "province": "吉林",
+    "isAbnormal": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2015-未标注-56-4",
@@ -1462,7 +1553,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2015年吉林公务员考试《行测》第56题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2015-未标注-57-4",
@@ -1494,7 +1587,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2015年吉林公务员考试《行测》第57题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2015-未标注-58-4",
@@ -1531,7 +1626,9 @@
     "difficulty": "拔高",
     "source": "2015年吉林公务员考试《行测》第58题",
     "isImageQuestion": true,
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2015-未标注-59-4",
@@ -1568,7 +1665,9 @@
     "difficulty": "拔高",
     "source": "2015年吉林公务员考试《行测》第59题",
     "isImageQuestion": true,
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2015-未标注-60-4",
@@ -1602,7 +1701,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2015年吉林公务员考试《行测》第60题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2016-未标注-56",
@@ -1638,7 +1739,9 @@
     "difficulty": "拔高",
     "source": "2016年吉林公务员考试《行测》第56题",
     "isImageQuestion": true,
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2016-未标注-57",
@@ -1674,7 +1777,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2016年吉林公务员考试《行测》第57题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2016-未标注-58",
@@ -1709,7 +1814,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2016年吉林公务员考试《行测》第58题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2016-未标注-59",
@@ -1745,7 +1852,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2016年吉林公务员考试《行测》第59题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2016-未标注-60",
@@ -1781,7 +1890,9 @@
     "difficulty": "拔高",
     "source": "2016年吉林公务员考试《行测》第60题",
     "isImageQuestion": true,
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2016-未标注-61",
@@ -1816,7 +1927,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2016年吉林公务员考试《行测》第61题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2016-未标注-62",
@@ -1850,7 +1963,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2016年吉林公务员考试《行测》第62题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2016-未标注-63",
@@ -1885,7 +2000,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2016年吉林公务员考试《行测》第63题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2016-未标注-64",
@@ -1905,7 +2022,10 @@
     "difficulty": "拔高",
     "source": "2016年吉林公务员考试《行测》第64题",
     "isImageQuestion": true,
-    "province": "吉林"
+    "province": "吉林",
+    "isAbnormal": true,
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2016-未标注-65",
@@ -1940,7 +2060,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2016年吉林公务员考试《行测》第65题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2016-未标注-51-2",
@@ -1960,7 +2082,10 @@
     "difficulty": "拔高",
     "source": "2016年吉林公务员考试《行测》第51题",
     "isImageQuestion": true,
-    "province": "吉林"
+    "province": "吉林",
+    "isAbnormal": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2016-未标注-52-2",
@@ -1995,7 +2120,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2016年吉林公务员考试《行测》第52题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2016-未标注-53-2",
@@ -2031,7 +2158,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2016年吉林公务员考试《行测》第53题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2016-未标注-54-2",
@@ -2051,7 +2180,10 @@
     "difficulty": "拔高",
     "source": "2016年吉林公务员考试《行测》第54题",
     "isImageQuestion": true,
-    "province": "吉林"
+    "province": "吉林",
+    "isAbnormal": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2016-未标注-55-2",
@@ -2084,7 +2216,9 @@
     "difficulty": "拔高",
     "source": "2016年吉林公务员考试《行测》第55题",
     "isImageQuestion": true,
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-jilin-2016-未标注-56-2",
@@ -2120,7 +2254,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2016年吉林公务员考试《行测》第56题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2016-未标注-57-2",
@@ -2155,7 +2291,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2016年吉林公务员考试《行测》第57题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2016-未标注-58-2",
@@ -2189,7 +2327,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2016年吉林公务员考试《行测》第58题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2016-未标注-59-2",
@@ -2224,7 +2364,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2016年吉林公务员考试《行测》第59题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2016-未标注-60-2",
@@ -2259,7 +2401,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2016年吉林公务员考试《行测》第60题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2017-未标注-56",
@@ -2294,7 +2438,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2017年吉林公务员考试《行测》第56题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2017-未标注-57",
@@ -2329,7 +2475,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2017年吉林公务员考试《行测》第57题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2017-未标注-58",
@@ -2361,7 +2509,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2017年吉林公务员考试《行测》第58题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2017-未标注-59",
@@ -2396,7 +2546,9 @@
     "difficulty": "拔高",
     "source": "2017年吉林公务员考试《行测》第59题",
     "isImageQuestion": true,
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2017-未标注-60",
@@ -2431,7 +2583,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2017年吉林公务员考试《行测》第60题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2017-未标注-61",
@@ -2465,7 +2619,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2017年吉林公务员考试《行测》第61题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2017-未标注-62",
@@ -2501,7 +2657,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2017年吉林公务员考试《行测》第62题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2017-未标注-63",
@@ -2537,7 +2695,9 @@
     "difficulty": "拔高",
     "source": "2017年吉林公务员考试《行测》第63题",
     "isImageQuestion": true,
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2017-未标注-64",
@@ -2573,7 +2733,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2017年吉林公务员考试《行测》第64题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2017-未标注-65",
@@ -2609,7 +2771,9 @@
     "difficulty": "拔高",
     "source": "2017年吉林公务员考试《行测》第65题",
     "isImageQuestion": true,
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2017-未标注-51-2",
@@ -2644,7 +2808,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2017年吉林公务员考试《行测》第51题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2017-未标注-52-2",
@@ -2679,7 +2845,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2017年吉林公务员考试《行测》第52题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2017-未标注-53-2",
@@ -2711,7 +2879,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2017年吉林公务员考试《行测》第53题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2017-未标注-54-2",
@@ -2746,7 +2916,9 @@
     "difficulty": "拔高",
     "source": "2017年吉林公务员考试《行测》第54题",
     "isImageQuestion": true,
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2017-未标注-55-2",
@@ -2781,7 +2953,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2017年吉林公务员考试《行测》第55题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2017-未标注-56-2",
@@ -2817,7 +2991,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2017年吉林公务员考试《行测》第56题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2017-未标注-57-2",
@@ -2853,7 +3029,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2017年吉林公务员考试《行测》第57题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2017-未标注-58-2",
@@ -2890,7 +3068,9 @@
     "difficulty": "拔高",
     "source": "2017年吉林公务员考试《行测》第58题",
     "isImageQuestion": true,
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2017-未标注-59-2",
@@ -2925,7 +3105,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2017年吉林公务员考试《行测》第59题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2017-未标注-60-2",
@@ -2961,7 +3143,9 @@
     "difficulty": "拔高",
     "source": "2017年吉林公务员考试《行测》第60题",
     "isImageQuestion": true,
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2019-420联考-81-2",
@@ -2995,7 +3179,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年吉林公务员考试《行测》（420联考）第81题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2019-420联考-82-2",
@@ -3029,7 +3215,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年吉林公务员考试《行测》（420联考）第82题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2019-420联考-83-2",
@@ -3064,7 +3252,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年吉林公务员考试《行测》（420联考）第83题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2019-420联考-84-2",
@@ -3098,7 +3288,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年吉林公务员考试《行测》（420联考）第84题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2019-420联考-85-2",
@@ -3132,7 +3324,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年吉林公务员考试《行测》（420联考）第85题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2019-420联考-86-2",
@@ -3168,7 +3362,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年吉林公务员考试《行测》（420联考）第86题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2019-420联考-87-2",
@@ -3200,7 +3396,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年吉林公务员考试《行测》（420联考）第87题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2019-420联考-88-2",
@@ -3236,7 +3434,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年吉林公务员考试《行测》（420联考）第88题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2019-420联考-89-2",
@@ -3256,7 +3456,10 @@
     "difficulty": "拔高",
     "source": "2019年吉林公务员考试《行测》（420联考）第89题",
     "isImageQuestion": true,
-    "province": "吉林"
+    "province": "吉林",
+    "isAbnormal": true,
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2019-420联考-90-2",
@@ -3291,7 +3494,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年吉林公务员考试《行测》（420联考）第90题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2020-未标注-51",
@@ -3323,7 +3528,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2020年吉林公务员考试《行测》第51题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2020-未标注-52",
@@ -3355,7 +3562,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2020年吉林公务员考试《行测》第52题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2020-未标注-53",
@@ -3388,7 +3597,9 @@
     "difficulty": "拔高",
     "source": "2020年吉林公务员考试《行测》第53题",
     "isImageQuestion": true,
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2020-未标注-54",
@@ -3420,7 +3631,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2020年吉林公务员考试《行测》第54题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2020-未标注-55",
@@ -3436,7 +3649,10 @@
     "difficulty": "拔高",
     "source": "2020年吉林公务员考试《行测》第55题",
     "isImageQuestion": true,
-    "province": "吉林"
+    "province": "吉林",
+    "isAbnormal": true,
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2020-未标注-56",
@@ -3469,7 +3685,9 @@
     "difficulty": "拔高",
     "source": "2020年吉林公务员考试《行测》第56题",
     "isImageQuestion": true,
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-jilin-2020-未标注-57",
@@ -3502,7 +3720,9 @@
     "difficulty": "拔高",
     "source": "2020年吉林公务员考试《行测》第57题",
     "isImageQuestion": true,
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "经济利润",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-jilin-2020-未标注-58",
@@ -3534,7 +3754,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2020年吉林公务员考试《行测》第58题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2020-未标注-59",
@@ -3567,7 +3789,9 @@
     "difficulty": "拔高",
     "source": "2020年吉林公务员考试《行测》第59题",
     "isImageQuestion": true,
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2020-未标注-60",
@@ -3600,7 +3824,9 @@
     "difficulty": "拔高",
     "source": "2020年吉林公务员考试《行测》第60题",
     "isImageQuestion": true,
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2021-未标注-51",
@@ -3635,7 +3861,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2021年吉林公务员考试《行测》第51题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2021-未标注-52",
@@ -3670,7 +3898,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2021年吉林公务员考试《行测》第52题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2021-未标注-53",
@@ -3705,7 +3935,9 @@
     "difficulty": "拔高",
     "source": "2021年吉林公务员考试《行测》第53题",
     "isImageQuestion": true,
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2021-未标注-54",
@@ -3740,7 +3972,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2021年吉林公务员考试《行测》第54题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2021-未标注-55",
@@ -3776,7 +4010,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2021年吉林公务员考试《行测》第55题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2021-未标注-56",
@@ -3796,7 +4032,9 @@
     "difficulty": "拔高",
     "source": "2021年吉林公务员考试《行测》第56题",
     "isImageQuestion": true,
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2021-未标注-57",
@@ -3832,7 +4070,9 @@
     "difficulty": "拔高",
     "source": "2021年吉林公务员考试《行测》第57题",
     "isImageQuestion": true,
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2021-未标注-58",
@@ -3868,7 +4108,9 @@
     "difficulty": "拔高",
     "source": "2021年吉林公务员考试《行测》第58题",
     "isImageQuestion": true,
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2021-未标注-59",
@@ -3905,7 +4147,9 @@
     "difficulty": "拔高",
     "source": "2021年吉林公务员考试《行测》第59题",
     "isImageQuestion": true,
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2021-未标注-60",
@@ -3940,7 +4184,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2021年吉林公务员考试《行测》第60题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2022-未标注-51",
@@ -3975,7 +4221,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2022年吉林公务员考试《行测》第51题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-jilin-2022-未标注-52",
@@ -4011,7 +4259,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2022年吉林公务员考试《行测》第52题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2022-未标注-53",
@@ -4047,7 +4297,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2022年吉林公务员考试《行测》第53题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2022-未标注-54",
@@ -4082,7 +4334,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2022年吉林公务员考试《行测》第54题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2022-未标注-55",
@@ -4118,7 +4372,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2022年吉林公务员考试《行测》第55题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2022-未标注-56",
@@ -4145,7 +4401,9 @@
     "difficulty": "拔高",
     "source": "2022年吉林公务员考试《行测》第56题",
     "isImageQuestion": true,
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2022-未标注-57",
@@ -4181,7 +4439,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2022年吉林公务员考试《行测》第57题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2022-未标注-58",
@@ -4217,7 +4477,9 @@
     "difficulty": "拔高",
     "source": "2022年吉林公务员考试《行测》第58题",
     "isImageQuestion": true,
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2022-未标注-59",
@@ -4254,7 +4516,9 @@
     "difficulty": "拔高",
     "source": "2022年吉林公务员考试《行测》第59题",
     "isImageQuestion": true,
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2022-未标注-60",
@@ -4290,7 +4554,9 @@
     "difficulty": "拔高",
     "source": "2022年吉林公务员考试《行测》第60题",
     "isImageQuestion": true,
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2023-未标注-51",
@@ -4322,7 +4588,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2023年吉林公务员考试《行测》第51题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2023-未标注-52",
@@ -4356,7 +4624,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2023年吉林公务员考试《行测》第52题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2023-未标注-53",
@@ -4391,7 +4661,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2023年吉林公务员考试《行测》第53题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2023-未标注-54",
@@ -4427,7 +4699,9 @@
     "difficulty": "拔高",
     "source": "2023年吉林公务员考试《行测》第54题",
     "isImageQuestion": true,
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2023-未标注-55",
@@ -4462,7 +4736,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2023年吉林公务员考试《行测》第55题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2023-未标注-56",
@@ -4497,7 +4773,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2023年吉林公务员考试《行测》第56题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2023-未标注-57",
@@ -4532,7 +4810,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2023年吉林公务员考试《行测》第57题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2023-未标注-58",
@@ -4566,7 +4846,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2023年吉林公务员考试《行测》第58题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2023-未标注-59",
@@ -4586,7 +4868,10 @@
     "difficulty": "拔高",
     "source": "2023年吉林公务员考试《行测》第59题",
     "isImageQuestion": true,
-    "province": "吉林"
+    "province": "吉林",
+    "isAbnormal": true,
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2023-未标注-60",
@@ -4621,7 +4906,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2023年吉林公务员考试《行测》第60题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2024-未标注-51",
@@ -4640,7 +4927,10 @@
     "difficulty": "拔高",
     "source": "2024年吉林公务员考试《行测》第51题",
     "isImageQuestion": true,
-    "province": "吉林"
+    "province": "吉林",
+    "isAbnormal": true,
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2024-未标注-52",
@@ -4676,7 +4966,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2024年吉林公务员考试《行测》第52题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2024-未标注-53",
@@ -4710,7 +5002,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2024年吉林公务员考试《行测》第53题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2024-未标注-54",
@@ -4745,7 +5039,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2024年吉林公务员考试《行测》第54题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2024-未标注-55",
@@ -4779,7 +5075,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2024年吉林公务员考试《行测》第55题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2024-未标注-56",
@@ -4813,7 +5111,10 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2024年吉林公务员考试《行测》第56题",
-    "province": "吉林"
+    "province": "吉林",
+    "isAbnormal": true,
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2024-未标注-57",
@@ -4848,7 +5149,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2024年吉林公务员考试《行测》第57题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2024-未标注-58",
@@ -4883,7 +5186,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2024年吉林公务员考试《行测》第58题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2024-未标注-59",
@@ -4919,7 +5224,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2024年吉林公务员考试《行测》第59题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jilin-2024-未标注-60",
@@ -4953,6 +5260,8 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2024年吉林公务员考试《行测》第60题",
-    "province": "吉林"
+    "province": "吉林",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   }
 ]

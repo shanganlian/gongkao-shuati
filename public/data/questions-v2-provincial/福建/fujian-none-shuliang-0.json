@@ -33,7 +33,9 @@
     "difficulty": "拔高",
     "source": "2009年福建公务员考试《行测》（联考）第86题",
     "isImageQuestion": true,
-    "province": "福建"
+    "province": "福建",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2009-联考-87",
@@ -67,7 +69,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2009年福建公务员考试《行测》（联考）第87题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2009-联考-88",
@@ -103,7 +107,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2009年福建公务员考试《行测》（联考）第88题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2009-联考-89",
@@ -135,7 +141,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2009年福建公务员考试《行测》（联考）第89题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2009-联考-90",
@@ -166,7 +174,9 @@
     "difficulty": "拔高",
     "source": "2009年福建公务员考试《行测》（联考）第90题",
     "isImageQuestion": true,
-    "province": "福建"
+    "province": "福建",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2009-联考-91",
@@ -183,7 +193,10 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2009年福建公务员考试《行测》（联考）第91题",
-    "province": "福建"
+    "province": "福建",
+    "isAbnormal": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-fujian-2009-联考-92",
@@ -218,7 +231,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2009年福建公务员考试《行测》（联考）第92题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2009-联考-93",
@@ -253,7 +268,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2009年福建公务员考试《行测》（联考）第93题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2009-联考-94",
@@ -287,7 +304,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2009年福建公务员考试《行测》（联考）第94题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2009-联考-95",
@@ -303,7 +322,10 @@
     "difficulty": "拔高",
     "source": "2009年福建公务员考试《行测》（联考）第95题",
     "isImageQuestion": true,
-    "province": "福建"
+    "province": "福建",
+    "isAbnormal": true,
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2009-联考-96",
@@ -339,7 +361,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2009年福建公务员考试《行测》（联考）第96题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2009-联考-97",
@@ -374,7 +398,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2009年福建公务员考试《行测》（联考）第97题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2009-联考-98",
@@ -410,7 +436,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2009年福建公务员考试《行测》（联考）第98题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2009-联考-99",
@@ -442,7 +470,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2009年福建公务员考试《行测》（联考）第99题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2009-联考-100",
@@ -477,7 +507,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2009年福建公务员考试《行测》（联考）第100题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2009-春季-106",
@@ -512,7 +544,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2009年福建公务员考试《行测》（春季）第106题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2009-春季-107",
@@ -547,7 +581,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2009年福建公务员考试《行测》（春季）第107题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2009-春季-108",
@@ -582,7 +618,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2009年福建公务员考试《行测》（春季）第108题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2009-春季-109",
@@ -616,7 +654,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2009年福建公务员考试《行测》（春季）第109题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2009-春季-110",
@@ -652,7 +692,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2009年福建公务员考试《行测》（春季）第110题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2009-春季-111",
@@ -688,7 +730,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2009年福建公务员考试《行测》（春季）第111题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2009-春季-112",
@@ -724,7 +768,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2009年福建公务员考试《行测》（春季）第112题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2009-春季-113",
@@ -760,7 +806,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2009年福建公务员考试《行测》（春季）第113题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-fujian-2009-春季-114",
@@ -796,7 +844,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2009年福建公务员考试《行测》（春季）第114题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2009-春季-115",
@@ -828,7 +878,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2009年福建公务员考试《行测》（春季）第115题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2010-联考-31",
@@ -864,7 +916,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2010年福建公务员考试《行测》（联考）第31题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2010-联考-32",
@@ -880,7 +934,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2010年福建公务员考试《行测》（联考）第32题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-fujian-2010-联考-33",
@@ -916,7 +972,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2010年福建公务员考试《行测》（联考）第33题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2010-联考-34",
@@ -951,7 +1009,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2010年福建公务员考试《行测》（联考）第34题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2010-联考-35",
@@ -987,7 +1047,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2010年福建公务员考试《行测》（联考）第35题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2010-联考-36",
@@ -1023,7 +1085,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2010年福建公务员考试《行测》（联考）第36题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2010-联考-37",
@@ -1059,7 +1123,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2010年福建公务员考试《行测》（联考）第37题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2010-联考-38",
@@ -1094,7 +1160,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2010年福建公务员考试《行测》（联考）第38题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2010-联考-39",
@@ -1129,7 +1197,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2010年福建公务员考试《行测》（联考）第39题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2010-联考-40",
@@ -1164,7 +1234,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2010年福建公务员考试《行测》（联考）第40题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2010-联考-41",
@@ -1198,7 +1270,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2010年福建公务员考试《行测》（联考）第41题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2010-联考-42",
@@ -1232,7 +1306,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2010年福建公务员考试《行测》（联考）第42题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2010-联考-43",
@@ -1266,7 +1342,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2010年福建公务员考试《行测》（联考）第43题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2010-联考-44",
@@ -1302,7 +1380,9 @@
     "difficulty": "拔高",
     "source": "2010年福建公务员考试《行测》（联考）第44题",
     "isImageQuestion": true,
-    "province": "福建"
+    "province": "福建",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2010-联考-45",
@@ -1334,7 +1414,9 @@
     "difficulty": "拔高",
     "source": "2010年福建公务员考试《行测》（联考）第45题",
     "isImageQuestion": true,
-    "province": "福建"
+    "province": "福建",
+    "subModule": "几何",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-fujian-2011-424联考-41",
@@ -1370,7 +1452,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2011年福建公务员考试《行测》（424联考）第41题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2011-424联考-42",
@@ -1404,7 +1488,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2011年福建公务员考试《行测》（424联考）第42题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2011-424联考-43",
@@ -1436,7 +1522,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2011年福建公务员考试《行测》（424联考）第43题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2011-424联考-44",
@@ -1468,7 +1556,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2011年福建公务员考试《行测》（424联考）第44题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2011-424联考-45",
@@ -1503,7 +1593,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2011年福建公务员考试《行测》（424联考）第45题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2011-424联考-46",
@@ -1538,7 +1630,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2011年福建公务员考试《行测》（424联考）第46题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2011-424联考-47",
@@ -1574,7 +1668,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2011年福建公务员考试《行测》（424联考）第47题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2011-424联考-48",
@@ -1609,7 +1705,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2011年福建公务员考试《行测》（424联考）第48题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2011-424联考-49",
@@ -1641,7 +1739,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2011年福建公务员考试《行测》（424联考）第49题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2011-424联考-50",
@@ -1677,7 +1777,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2011年福建公务员考试《行测》（424联考）第50题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2011-917联考-56",
@@ -1712,7 +1814,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2011年福建公务员考试《行测》（917联考）第56题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2011-917联考-57",
@@ -1746,7 +1850,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2011年福建公务员考试《行测》（917联考）第57题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2011-917联考-58",
@@ -1780,7 +1886,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2011年福建公务员考试《行测》（917联考）第58题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2011-917联考-59",
@@ -1815,7 +1923,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2011年福建公务员考试《行测》（917联考）第59题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2011-917联考-60",
@@ -1851,7 +1961,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2011年福建公务员考试《行测》（917联考）第60题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2011-917联考-61",
@@ -1887,7 +1999,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2011年福建公务员考试《行测》（917联考）第61题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2011-917联考-62",
@@ -1922,7 +2036,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2011年福建公务员考试《行测》（917联考）第62题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2011-917联考-63",
@@ -1956,7 +2072,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2011年福建公务员考试《行测》（917联考）第63题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2011-917联考-64",
@@ -1990,7 +2108,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2011年福建公务员考试《行测》（917联考）第64题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2011-917联考-65",
@@ -2025,7 +2145,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2011年福建公务员考试《行测》（917联考）第65题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2012-915联考-61",
@@ -2057,7 +2179,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2012年福建公务员考试《行测》（915联考）第61题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2012-915联考-62",
@@ -2091,7 +2215,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2012年福建公务员考试《行测》（915联考）第62题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2012-915联考-63",
@@ -2126,7 +2252,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2012年福建公务员考试《行测》（915联考）第63题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2012-915联考-64",
@@ -2158,7 +2286,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2012年福建公务员考试《行测》（915联考）第64题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2012-915联考-65",
@@ -2190,7 +2320,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2012年福建公务员考试《行测》（915联考）第65题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2012-915联考-66",
@@ -2224,7 +2356,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2012年福建公务员考试《行测》（915联考）第66题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2012-915联考-67",
@@ -2258,7 +2392,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2012年福建公务员考试《行测》（915联考）第67题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2012-915联考-68",
@@ -2292,7 +2428,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2012年福建公务员考试《行测》（915联考）第68题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2012-915联考-69",
@@ -2327,7 +2465,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2012年福建公务员考试《行测》（915联考）第69题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2012-915联考-70",
@@ -2361,7 +2501,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2012年福建公务员考试《行测》（915联考）第70题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2013-联考-76",
@@ -2393,7 +2535,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2013年福建公务员考试《行测》（联考）第76题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2013-联考-77",
@@ -2427,7 +2571,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2013年福建公务员考试《行测》（联考）第77题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2013-联考-78",
@@ -2461,7 +2607,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2013年福建公务员考试《行测》（联考）第78题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2013-联考-79",
@@ -2497,7 +2645,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2013年福建公务员考试《行测》（联考）第79题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2013-联考-80",
@@ -2531,7 +2681,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2013年福建公务员考试《行测》（联考）第80题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2013-联考-81",
@@ -2565,7 +2717,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2013年福建公务员考试《行测》（联考）第81题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2013-联考-82",
@@ -2597,7 +2751,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2013年福建公务员考试《行测》（联考）第82题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2013-联考-83",
@@ -2631,7 +2787,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2013年福建公务员考试《行测》（联考）第83题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2013-联考-84",
@@ -2665,7 +2823,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2013年福建公务员考试《行测》（联考）第84题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2013-联考-85",
@@ -2702,7 +2862,9 @@
     "difficulty": "拔高",
     "source": "2013年福建公务员考试《行测》（联考）第85题",
     "isImageQuestion": true,
-    "province": "福建"
+    "province": "福建",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2013-联考-86",
@@ -2734,7 +2896,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2013年福建公务员考试《行测》（联考）第86题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2013-联考-87",
@@ -2766,7 +2930,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2013年福建公务员考试《行测》（联考）第87题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2013-联考-88",
@@ -2801,7 +2967,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2013年福建公务员考试《行测》（联考）第88题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2013-联考-89",
@@ -2833,7 +3001,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2013年福建公务员考试《行测》（联考）第89题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2013-联考-90",
@@ -2867,7 +3037,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2013年福建公务员考试《行测》（联考）第90题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2014-联考-61",
@@ -2901,7 +3073,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2014年福建公务员考试《行测》（联考）第61题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2014-联考-62",
@@ -2936,7 +3110,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2014年福建公务员考试《行测》（联考）第62题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2014-联考-63",
@@ -2971,7 +3147,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2014年福建公务员考试《行测》（联考）第63题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2014-联考-64",
@@ -3006,7 +3184,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2014年福建公务员考试《行测》（联考）第64题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2014-联考-65",
@@ -3040,7 +3220,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2014年福建公务员考试《行测》（联考）第65题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2014-联考-66",
@@ -3074,7 +3256,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2014年福建公务员考试《行测》（联考）第66题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2014-联考-67",
@@ -3106,7 +3290,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2014年福建公务员考试《行测》（联考）第67题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2014-联考-68",
@@ -3138,7 +3324,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2014年福建公务员考试《行测》（联考）第68题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2014-联考-69",
@@ -3170,7 +3358,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2014年福建公务员考试《行测》（联考）第69题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2014-联考-70",
@@ -3205,7 +3395,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2014年福建公务员考试《行测》（联考）第70题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2015-联考-61",
@@ -3238,7 +3430,9 @@
     "difficulty": "拔高",
     "source": "2015年福建公务员考试《行测》（联考）第61题",
     "isImageQuestion": true,
-    "province": "福建"
+    "province": "福建",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2015-联考-62",
@@ -3270,7 +3464,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2015年福建公务员考试《行测》（联考）第62题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2015-联考-63",
@@ -3304,7 +3500,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2015年福建公务员考试《行测》（联考）第63题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2015-联考-64",
@@ -3338,7 +3536,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2015年福建公务员考试《行测》（联考）第64题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2015-联考-65",
@@ -3370,7 +3570,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2015年福建公务员考试《行测》（联考）第65题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2015-联考-66",
@@ -3404,7 +3606,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2015年福建公务员考试《行测》（联考）第66题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2015-联考-67",
@@ -3436,7 +3640,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2015年福建公务员考试《行测》（联考）第67题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2015-联考-68",
@@ -3468,7 +3674,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2015年福建公务员考试《行测》（联考）第68题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2015-联考-69",
@@ -3504,7 +3712,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2015年福建公务员考试《行测》（联考）第69题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2015-联考-70",
@@ -3539,7 +3749,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2015年福建公务员考试《行测》（联考）第70题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2016-未标注-61",
@@ -3575,7 +3787,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2016年福建公务员考试《行测》第61题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2016-未标注-62",
@@ -3611,7 +3825,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2016年福建公务员考试《行测》第62题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2016-未标注-63",
@@ -3647,7 +3863,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2016年福建公务员考试《行测》第63题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2016-未标注-64",
@@ -3682,7 +3900,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2016年福建公务员考试《行测》第64题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2016-未标注-65",
@@ -3717,7 +3937,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2016年福建公务员考试《行测》第65题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2016-未标注-66",
@@ -3753,7 +3975,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2016年福建公务员考试《行测》第66题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2016-未标注-67",
@@ -3788,7 +4012,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2016年福建公务员考试《行测》第67题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2016-未标注-68",
@@ -3823,7 +4049,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2016年福建公务员考试《行测》第68题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2016-未标注-69",
@@ -3858,7 +4086,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2016年福建公务员考试《行测》第69题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2016-未标注-70",
@@ -3887,7 +4117,9 @@
     "difficulty": "拔高",
     "source": "2016年福建公务员考试《行测》第70题",
     "isImageQuestion": true,
-    "province": "福建"
+    "province": "福建",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2017-联考-61",
@@ -3921,7 +4153,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2017年福建公务员考试《行测》（联考）第61题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2017-联考-62",
@@ -3957,7 +4191,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2017年福建公务员考试《行测》（联考）第62题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2017-联考-63",
@@ -3993,7 +4229,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2017年福建公务员考试《行测》（联考）第63题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2017-联考-64",
@@ -4028,7 +4266,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2017年福建公务员考试《行测》（联考）第64题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2017-联考-65",
@@ -4062,7 +4302,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2017年福建公务员考试《行测》（联考）第65题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2017-联考-66",
@@ -4099,7 +4341,9 @@
     "difficulty": "拔高",
     "source": "2017年福建公务员考试《行测》（联考）第66题",
     "isImageQuestion": true,
-    "province": "福建"
+    "province": "福建",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2017-联考-67",
@@ -4132,7 +4376,9 @@
     "difficulty": "拔高",
     "source": "2017年福建公务员考试《行测》（联考）第67题",
     "isImageQuestion": true,
-    "province": "福建"
+    "province": "福建",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2017-联考-68",
@@ -4166,7 +4412,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2017年福建公务员考试《行测》（联考）第68题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2017-联考-69",
@@ -4200,7 +4448,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2017年福建公务员考试《行测》（联考）第69题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2017-联考-70",
@@ -4233,7 +4483,9 @@
     "difficulty": "拔高",
     "source": "2017年福建公务员考试《行测》（联考）第70题",
     "isImageQuestion": true,
-    "province": "福建"
+    "province": "福建",
+    "subModule": "几何",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-fujian-2018-联考-61",
@@ -4268,7 +4520,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2018年福建公务员考试《行测》（联考）第61题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2018-联考-62",
@@ -4303,7 +4557,9 @@
     "difficulty": "拔高",
     "source": "2018年福建公务员考试《行测》（联考）第62题",
     "isImageQuestion": true,
-    "province": "福建"
+    "province": "福建",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2018-联考-63",
@@ -4338,7 +4594,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2018年福建公务员考试《行测》（联考）第63题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2018-联考-64",
@@ -4373,7 +4631,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2018年福建公务员考试《行测》（联考）第64题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2018-联考-65",
@@ -4409,7 +4669,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2018年福建公务员考试《行测》（联考）第65题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2018-联考-66",
@@ -4445,7 +4707,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2018年福建公务员考试《行测》（联考）第66题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2018-联考-67",
@@ -4479,7 +4743,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2018年福建公务员考试《行测》（联考）第67题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2018-联考-68",
@@ -4514,7 +4780,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2018年福建公务员考试《行测》（联考）第68题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2018-联考-69",
@@ -4550,7 +4818,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2018年福建公务员考试《行测》（联考）第69题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2018-联考-70",
@@ -4586,7 +4856,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2018年福建公务员考试《行测》（联考）第70题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2019-联考-61",
@@ -4621,7 +4893,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年福建公务员考试《行测》（联考）第61题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2019-联考-62",
@@ -4655,7 +4929,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年福建公务员考试《行测》（联考）第62题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2019-联考-63",
@@ -4689,7 +4965,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年福建公务员考试《行测》（联考）第63题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2019-联考-64",
@@ -4723,7 +5001,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年福建公务员考试《行测》（联考）第64题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2019-联考-65",
@@ -4759,7 +5039,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年福建公务员考试《行测》（联考）第65题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2019-联考-66",
@@ -4795,7 +5077,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年福建公务员考试《行测》（联考）第66题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2019-联考-67",
@@ -4827,7 +5111,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年福建公务员考试《行测》（联考）第67题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2019-联考-68",
@@ -4862,7 +5148,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年福建公务员考试《行测》（联考）第68题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2019-联考-69",
@@ -4897,7 +5185,9 @@
     "difficulty": "拔高",
     "source": "2019年福建公务员考试《行测》（联考）第69题",
     "isImageQuestion": true,
-    "province": "福建"
+    "province": "福建",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2019-联考-70",
@@ -4933,7 +5223,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2019年福建公务员考试《行测》（联考）第70题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2020-未标注-61",
@@ -4968,7 +5260,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2020年福建公务员考试《行测》第61题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2020-未标注-62",
@@ -5003,7 +5297,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2020年福建公务员考试《行测》第62题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2020-未标注-63",
@@ -5037,7 +5333,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2020年福建公务员考试《行测》第63题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2020-未标注-64",
@@ -5071,7 +5369,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2020年福建公务员考试《行测》第64题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2020-未标注-65",
@@ -5106,7 +5406,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2020年福建公务员考试《行测》第65题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2020-未标注-66",
@@ -5141,7 +5443,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2020年福建公务员考试《行测》第66题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2020-未标注-67",
@@ -5175,7 +5479,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2020年福建公务员考试《行测》第67题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2020-未标注-68",
@@ -5211,7 +5517,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2020年福建公务员考试《行测》第68题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2020-未标注-69",
@@ -5245,7 +5553,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2020年福建公务员考试《行测》第69题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2020-未标注-70",
@@ -5282,7 +5592,9 @@
     "difficulty": "拔高",
     "source": "2020年福建公务员考试《行测》第70题",
     "isImageQuestion": true,
-    "province": "福建"
+    "province": "福建",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2021-未标注-61",
@@ -5316,7 +5628,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2021年福建公务员考试《行测》第61题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2021-未标注-62",
@@ -5350,7 +5664,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2021年福建公务员考试《行测》第62题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2021-未标注-63",
@@ -5385,7 +5701,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2021年福建公务员考试《行测》第63题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2021-未标注-64",
@@ -5420,7 +5738,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2021年福建公务员考试《行测》第64题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2021-未标注-65",
@@ -5454,7 +5774,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2021年福建公务员考试《行测》第65题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2021-未标注-66",
@@ -5488,7 +5810,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2021年福建公务员考试《行测》第66题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2021-未标注-67",
@@ -5524,7 +5848,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2021年福建公务员考试《行测》第67题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2021-未标注-68",
@@ -5560,7 +5886,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2021年福建公务员考试《行测》第68题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2021-未标注-69",
@@ -5596,7 +5924,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2021年福建公务员考试《行测》第69题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2021-未标注-70",
@@ -5631,7 +5961,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2021年福建公务员考试《行测》第70题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2022-未标注-61",
@@ -5666,7 +5998,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2022年福建公务员考试《行测》第61题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2022-未标注-62",
@@ -5700,7 +6034,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2022年福建公务员考试《行测》第62题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2022-未标注-63",
@@ -5735,7 +6071,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2022年福建公务员考试《行测》第63题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2022-未标注-64",
@@ -5770,7 +6108,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2022年福建公务员考试《行测》第64题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2022-未标注-65",
@@ -5804,7 +6144,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2022年福建公务员考试《行测》第65题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2022-未标注-66",
@@ -5838,7 +6180,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2022年福建公务员考试《行测》第66题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2022-未标注-67",
@@ -5870,7 +6214,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2022年福建公务员考试《行测》第67题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2022-未标注-68",
@@ -5902,7 +6248,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2022年福建公务员考试《行测》第68题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2022-未标注-69",
@@ -5934,7 +6282,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2022年福建公务员考试《行测》第69题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2022-未标注-70",
@@ -5969,7 +6319,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2022年福建公务员考试《行测》第70题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2022-未标注-71",
@@ -5987,7 +6339,9 @@
     "difficulty": "拔高",
     "source": "2022年福建公务员考试《行测》第71题",
     "isImageQuestion": true,
-    "province": "福建"
+    "province": "福建",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-fujian-2022-未标注-72",
@@ -6023,7 +6377,9 @@
     "difficulty": "拔高",
     "source": "2022年福建公务员考试《行测》第72题",
     "isImageQuestion": true,
-    "province": "福建"
+    "province": "福建",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2022-未标注-73",
@@ -6041,7 +6397,9 @@
     "difficulty": "拔高",
     "source": "2022年福建公务员考试《行测》第73题",
     "isImageQuestion": true,
-    "province": "福建"
+    "province": "福建",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2022-未标注-74",
@@ -6059,7 +6417,9 @@
     "difficulty": "拔高",
     "source": "2022年福建公务员考试《行测》第74题",
     "isImageQuestion": true,
-    "province": "福建"
+    "province": "福建",
+    "subModule": "几何",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-fujian-2022-未标注-75",
@@ -6077,7 +6437,9 @@
     "difficulty": "拔高",
     "source": "2022年福建公务员考试《行测》第75题",
     "isImageQuestion": true,
-    "province": "福建"
+    "province": "福建",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-fujian-2022-未标注-76",
@@ -6111,7 +6473,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2022年福建公务员考试《行测》第76题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-fujian-2022-未标注-77",
@@ -6146,7 +6510,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2022年福建公务员考试《行测》第77题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-fujian-2022-未标注-78",
@@ -6180,7 +6546,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2022年福建公务员考试《行测》第78题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-fujian-2022-未标注-79",
@@ -6215,7 +6583,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2022年福建公务员考试《行测》第79题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-fujian-2022-未标注-80",
@@ -6249,7 +6619,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2022年福建公务员考试《行测》第80题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-fujian-2022-未标注-81",
@@ -6283,7 +6655,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2022年福建公务员考试《行测》第81题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-fujian-2022-未标注-82",
@@ -6318,7 +6692,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2022年福建公务员考试《行测》第82题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-fujian-2022-未标注-83",
@@ -6353,7 +6729,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2022年福建公务员考试《行测》第83题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-fujian-2022-未标注-84",
@@ -6387,7 +6765,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2022年福建公务员考试《行测》第84题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-fujian-2022-未标注-85",
@@ -6421,7 +6801,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2022年福建公务员考试《行测》第85题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-fujian-2022-未标注-86",
@@ -6456,7 +6838,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2022年福建公务员考试《行测》第86题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-fujian-2022-未标注-87",
@@ -6490,7 +6874,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2022年福建公务员考试《行测》第87题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-fujian-2022-未标注-88",
@@ -6525,7 +6911,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2022年福建公务员考试《行测》第88题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-fujian-2022-未标注-89",
@@ -6559,7 +6947,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2022年福建公务员考试《行测》第89题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-fujian-2022-未标注-90",
@@ -6594,7 +6984,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2022年福建公务员考试《行测》第90题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-fujian-2022-未标注-91",
@@ -6629,7 +7021,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2022年福建公务员考试《行测》第91题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-fujian-2022-未标注-92",
@@ -6663,7 +7057,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2022年福建公务员考试《行测》第92题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-fujian-2022-未标注-93",
@@ -6697,7 +7093,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2022年福建公务员考试《行测》第93题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-fujian-2022-未标注-94",
@@ -6731,7 +7129,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2022年福建公务员考试《行测》第94题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-fujian-2022-未标注-95",
@@ -6765,6 +7165,8 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2022年福建公务员考试《行测》第95题",
-    "province": "福建"
+    "province": "福建",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   }
 ]

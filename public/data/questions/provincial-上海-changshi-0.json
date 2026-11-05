@@ -33,7 +33,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2006年上海公务员考试《行测》第1题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "生活常识",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2006-未标注-2",
@@ -69,7 +71,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2006年上海公务员考试《行测》第2题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "生活常识",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2006-未标注-3",
@@ -105,7 +109,9 @@
     "difficulty": "基础",
     "source": "2006年上海公务员考试《行测》第3题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "生活常识",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2006-未标注-4",
@@ -139,7 +145,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2006年上海公务员考试《行测》第4题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "生活常识",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2006-未标注-5",
@@ -175,7 +183,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2006年上海公务员考试《行测》第5题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "生活常识",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2006-未标注-6",
@@ -190,7 +200,10 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2006年上海公务员考试《行测》第6题",
-    "province": "上海"
+    "province": "上海",
+    "isAbnormal": true,
+    "subModule": "经济管理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2006-未标注-7",
@@ -206,7 +219,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2006年上海公务员考试《行测》第7题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2006-未标注-8",
@@ -222,7 +237,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2006年上海公务员考试《行测》第8题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2006-未标注-9",
@@ -238,7 +255,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2006年上海公务员考试《行测》第9题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2006-未标注-10",
@@ -254,7 +273,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2006年上海公务员考试《行测》第10题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2006-未标注-11",
@@ -270,7 +291,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2006年上海公务员考试《行测》第11题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2006-未标注-12",
@@ -286,7 +309,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2006年上海公务员考试《行测》第12题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2006-未标注-13",
@@ -302,7 +327,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2006年上海公务员考试《行测》第13题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2006-未标注-14",
@@ -318,7 +345,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2006年上海公务员考试《行测》第14题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2006-未标注-15",
@@ -334,7 +363,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2006年上海公务员考试《行测》第15题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2006-未标注-16",
@@ -350,7 +381,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2006年上海公务员考试《行测》第16题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2006-未标注-17",
@@ -366,7 +399,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2006年上海公务员考试《行测》第17题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2006-未标注-18",
@@ -382,7 +417,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2006年上海公务员考试《行测》第18题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2006-未标注-19",
@@ -398,7 +435,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2006年上海公务员考试《行测》第19题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2006-未标注-20",
@@ -414,7 +453,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2006年上海公务员考试《行测》第20题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2006-未标注-21",
@@ -430,7 +471,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2006年上海公务员考试《行测》第21题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2006-未标注-22",
@@ -446,7 +489,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2006年上海公务员考试《行测》第22题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2006-未标注-23",
@@ -462,7 +507,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2006年上海公务员考试《行测》第23题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2006-未标注-24",
@@ -478,7 +525,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2006年上海公务员考试《行测》第24题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2006-未标注-25",
@@ -494,7 +543,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2006年上海公务员考试《行测》第25题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2006-未标注-26",
@@ -510,7 +561,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2006年上海公务员考试《行测》第26题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2006-未标注-27",
@@ -526,7 +579,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2006年上海公务员考试《行测》第27题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2006-未标注-28",
@@ -542,7 +597,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2006年上海公务员考试《行测》第28题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2006-未标注-29",
@@ -558,7 +615,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2006年上海公务员考试《行测》第29题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2006-未标注-30",
@@ -574,7 +633,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2006年上海公务员考试《行测》第30题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2006-未标注-31",
@@ -590,7 +651,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2006年上海公务员考试《行测》第31题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2006-未标注-32",
@@ -606,7 +669,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2006年上海公务员考试《行测》第32题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2006-未标注-33",
@@ -622,7 +687,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2006年上海公务员考试《行测》第33题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2006-未标注-34",
@@ -638,7 +705,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2006年上海公务员考试《行测》第34题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2006-未标注-35",
@@ -654,7 +723,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2006年上海公务员考试《行测》第35题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2006-未标注-36",
@@ -670,7 +741,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2006年上海公务员考试《行测》第36题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2006-未标注-37",
@@ -686,7 +759,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2006年上海公务员考试《行测》第37题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2006-未标注-38",
@@ -702,7 +777,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2006年上海公务员考试《行测》第38题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2006-未标注-39",
@@ -718,7 +795,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2006年上海公务员考试《行测》第39题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2006-未标注-40",
@@ -734,7 +813,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2006年上海公务员考试《行测》第40题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2006-未标注-41",
@@ -750,7 +831,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2006年上海公务员考试《行测》第41题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2006-未标注-42",
@@ -766,7 +849,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2006年上海公务员考试《行测》第42题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2006-未标注-43",
@@ -782,7 +867,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2006年上海公务员考试《行测》第43题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2006-未标注-44",
@@ -798,7 +885,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2006年上海公务员考试《行测》第44题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2006-未标注-45",
@@ -814,7 +903,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2006年上海公务员考试《行测》第45题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2006-未标注-46",
@@ -830,7 +921,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2006年上海公务员考试《行测》第46题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2006-未标注-47",
@@ -846,7 +939,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2006年上海公务员考试《行测》第47题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2006-未标注-48",
@@ -862,7 +957,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2006年上海公务员考试《行测》第48题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2006-未标注-49",
@@ -878,7 +975,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2006年上海公务员考试《行测》第49题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2006-未标注-50",
@@ -894,7 +993,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2006年上海公务员考试《行测》第50题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2006-未标注-51",
@@ -910,7 +1011,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2006年上海公务员考试《行测》第51题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2006-未标注-52",
@@ -926,7 +1029,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2006年上海公务员考试《行测》第52题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2006-未标注-53",
@@ -942,7 +1047,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2006年上海公务员考试《行测》第53题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2006-未标注-54",
@@ -958,7 +1065,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2006年上海公务员考试《行测》第54题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2006-未标注-55",
@@ -974,7 +1083,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2006年上海公务员考试《行测》第55题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2006-未标注-56",
@@ -990,7 +1101,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2006年上海公务员考试《行测》第56题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2006-未标注-57",
@@ -1006,7 +1119,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2006年上海公务员考试《行测》第57题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2006-未标注-58",
@@ -1022,7 +1137,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2006年上海公务员考试《行测》第58题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2006-未标注-59",
@@ -1038,7 +1155,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2006年上海公务员考试《行测》第59题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2006-未标注-60",
@@ -1054,7 +1173,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2006年上海公务员考试《行测》第60题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2006-未标注-61",
@@ -1070,7 +1191,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2006年上海公务员考试《行测》第61题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2006-未标注-62",
@@ -1086,7 +1209,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2006年上海公务员考试《行测》第62题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2006-未标注-63",
@@ -1102,7 +1227,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2006年上海公务员考试《行测》第63题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2006-未标注-64",
@@ -1118,7 +1245,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2006年上海公务员考试《行测》第64题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2006-未标注-65",
@@ -1134,7 +1263,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2006年上海公务员考试《行测》第65题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2006-未标注-66",
@@ -1150,7 +1281,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2006年上海公务员考试《行测》第66题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2006-未标注-67",
@@ -1166,7 +1299,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2006年上海公务员考试《行测》第67题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2006-未标注-68",
@@ -1182,7 +1317,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2006年上海公务员考试《行测》第68题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2006-未标注-69",
@@ -1198,7 +1335,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2006年上海公务员考试《行测》第69题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2006-未标注-70",
@@ -1214,7 +1353,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2006年上海公务员考试《行测》第70题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2006-未标注-71",
@@ -1230,7 +1371,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2006年上海公务员考试《行测》第71题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2006-未标注-72",
@@ -1246,7 +1389,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2006年上海公务员考试《行测》第72题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2006-未标注-73",
@@ -1262,7 +1407,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2006年上海公务员考试《行测》第73题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2006-未标注-74",
@@ -1278,7 +1425,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2006年上海公务员考试《行测》第74题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2006-未标注-75",
@@ -1294,7 +1443,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2006年上海公务员考试《行测》第75题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2006-未标注-76",
@@ -1310,7 +1461,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2006年上海公务员考试《行测》第76题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2006-未标注-77",
@@ -1326,7 +1479,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2006年上海公务员考试《行测》第77题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2006-未标注-78",
@@ -1342,7 +1497,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2006年上海公务员考试《行测》第78题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2006-未标注-79",
@@ -1358,7 +1515,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2006年上海公务员考试《行测》第79题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2006-未标注-80",
@@ -1374,7 +1533,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2006年上海公务员考试《行测》第80题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2006-未标注-81",
@@ -1390,7 +1551,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2006年上海公务员考试《行测》第81题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2006-未标注-82",
@@ -1406,7 +1569,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2006年上海公务员考试《行测》第82题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2006-未标注-83",
@@ -1422,7 +1587,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2006年上海公务员考试《行测》第83题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2006-未标注-84",
@@ -1438,7 +1605,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2006年上海公务员考试《行测》第84题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2006-未标注-85",
@@ -1454,7 +1623,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2006年上海公务员考试《行测》第85题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2006-未标注-86",
@@ -1470,7 +1641,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2006年上海公务员考试《行测》第86题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2006-未标注-87",
@@ -1486,7 +1659,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2006年上海公务员考试《行测》第87题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2006-未标注-88",
@@ -1502,7 +1677,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2006年上海公务员考试《行测》第88题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2006-未标注-89",
@@ -1518,7 +1695,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2006年上海公务员考试《行测》第89题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2006-未标注-90",
@@ -1534,7 +1713,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2006年上海公务员考试《行测》第90题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2006-未标注-91",
@@ -1550,7 +1731,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2006年上海公务员考试《行测》第91题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2006-未标注-92",
@@ -1566,7 +1749,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2006年上海公务员考试《行测》第92题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2006-未标注-93",
@@ -1582,7 +1767,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2006年上海公务员考试《行测》第93题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2006-未标注-94",
@@ -1598,7 +1785,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2006年上海公务员考试《行测》第94题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2006-未标注-95",
@@ -1614,7 +1803,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2006年上海公务员考试《行测》第95题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2006-未标注-96",
@@ -1630,7 +1821,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2006年上海公务员考试《行测》第96题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2006-未标注-97",
@@ -1646,7 +1839,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "基础",
     "source": "2006年上海公务员考试《行测》第97题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2007-未标注-1",
@@ -1678,7 +1873,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2007年上海公务员考试《行测》第1题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "生活常识",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2007-未标注-2",
@@ -1712,7 +1909,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2007年上海公务员考试《行测》第2题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "生活常识",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2007-未标注-3",
@@ -1727,7 +1926,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2007年上海公务员考试《行测》第3题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "生活常识",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2007-未标注-4",
@@ -1759,7 +1960,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2007年上海公务员考试《行测》第4题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "生活常识",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2007-未标注-5",
@@ -1791,7 +1994,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2007年上海公务员考试《行测》第5题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "生活常识",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2007-未标注-6",
@@ -1823,7 +2028,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2007年上海公务员考试《行测》第6题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "经济管理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2007-未标注-7",
@@ -1855,7 +2062,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2007年上海公务员考试《行测》第7题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "经济管理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2007-未标注-8",
@@ -1887,7 +2096,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2007年上海公务员考试《行测》第8题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "经济管理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2007-未标注-9",
@@ -1919,7 +2130,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2007年上海公务员考试《行测》第9题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "经济管理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2007-未标注-10",
@@ -1954,7 +2167,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2007年上海公务员考试《行测》第10题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "生活常识",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2007-未标注-11",
@@ -1987,7 +2202,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2007年上海公务员考试《行测》第11题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "经济管理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2007-未标注-12",
@@ -2022,7 +2239,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2007年上海公务员考试《行测》第12题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "经济管理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2007-未标注-13",
@@ -2057,7 +2276,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2007年上海公务员考试《行测》第13题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "经济管理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2007-未标注-14",
@@ -2092,7 +2313,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2007年上海公务员考试《行测》第14题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "经济管理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2007-未标注-15",
@@ -2127,7 +2350,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2007年上海公务员考试《行测》第15题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "经济管理",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2007-未标注-16",
@@ -2160,7 +2385,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2007年上海公务员考试《行测》第16题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "经济管理",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2007-未标注-17",
@@ -2193,7 +2420,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2007年上海公务员考试《行测》第17题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "经济管理",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2007-未标注-18",
@@ -2228,7 +2457,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2007年上海公务员考试《行测》第18题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "经济管理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2007-未标注-19",
@@ -2263,7 +2494,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2007年上海公务员考试《行测》第19题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "经济管理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2007-未标注-20",
@@ -2293,7 +2526,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2007年上海公务员考试《行测》第20题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "经济管理",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2008-未标注-1",
@@ -2327,7 +2562,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2008年上海公务员考试《行测》第1题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2008-未标注-2",
@@ -2362,7 +2599,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2008年上海公务员考试《行测》第2题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2008-未标注-3",
@@ -2397,7 +2636,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2008年上海公务员考试《行测》第3题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2008-未标注-4",
@@ -2431,7 +2672,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2008年上海公务员考试《行测》第4题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2008-未标注-5",
@@ -2465,7 +2708,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2008年上海公务员考试《行测》第5题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "经济管理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2008-未标注-6",
@@ -2500,7 +2745,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2008年上海公务员考试《行测》第6题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2008-未标注-7",
@@ -2534,7 +2781,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2008年上海公务员考试《行测》第7题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2008-未标注-8",
@@ -2568,7 +2817,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2008年上海公务员考试《行测》第8题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2008-未标注-9",
@@ -2602,7 +2853,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2008年上海公务员考试《行测》第9题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "经济管理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2008-未标注-10",
@@ -2636,7 +2889,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2008年上海公务员考试《行测》第10题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2008-未标注-11",
@@ -2671,7 +2926,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2008年上海公务员考试《行测》第11题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2008-未标注-12",
@@ -2706,7 +2963,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2008年上海公务员考试《行测》第12题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2008-未标注-13",
@@ -2741,7 +3000,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2008年上海公务员考试《行测》第13题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2008-未标注-14",
@@ -2776,7 +3037,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2008年上海公务员考试《行测》第14题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2008-未标注-15",
@@ -2811,7 +3074,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2008年上海公务员考试《行测》第15题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "经济管理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2008-未标注-16",
@@ -2847,7 +3112,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2008年上海公务员考试《行测》第16题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2008-未标注-17",
@@ -2882,7 +3149,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2008年上海公务员考试《行测》第17题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2008-未标注-18",
@@ -2917,7 +3186,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2008年上海公务员考试《行测》第18题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2008-未标注-19",
@@ -2952,7 +3223,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2008年上海公务员考试《行测》第19题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2008-未标注-20",
@@ -2986,7 +3259,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2008年上海公务员考试《行测》第20题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2008-未标注-21",
@@ -3022,7 +3297,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2008年上海公务员考试《行测》第21题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2008-未标注-22",
@@ -3057,7 +3334,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2008年上海公务员考试《行测》第22题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "地理国情",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2008-未标注-23",
@@ -3093,7 +3372,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2008年上海公务员考试《行测》第23题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2008-未标注-24",
@@ -3127,7 +3408,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2008年上海公务员考试《行测》第24题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2008-未标注-25",
@@ -3162,7 +3445,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2008年上海公务员考试《行测》第25题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2008-未标注-26",
@@ -3197,7 +3482,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2008年上海公务员考试《行测》第26题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2008-未标注-27",
@@ -3232,7 +3519,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2008年上海公务员考试《行测》第27题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "经济管理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2008-未标注-28",
@@ -3268,7 +3557,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2008年上海公务员考试《行测》第28题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2008-未标注-29",
@@ -3303,7 +3594,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2008年上海公务员考试《行测》第29题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2008-未标注-30",
@@ -3337,7 +3630,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2008年上海公务员考试《行测》第30题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2008-未标注-31",
@@ -3371,7 +3666,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2008年上海公务员考试《行测》第31题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "经济管理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2008-未标注-32",
@@ -3406,7 +3703,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2008年上海公务员考试《行测》第32题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2008-未标注-33",
@@ -3441,7 +3740,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2008年上海公务员考试《行测》第33题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2008-未标注-34",
@@ -3475,7 +3776,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2008年上海公务员考试《行测》第34题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2008-未标注-35",
@@ -3510,7 +3813,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2008年上海公务员考试《行测》第35题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2008-未标注-36",
@@ -3544,7 +3849,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2008年上海公务员考试《行测》第36题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2008-未标注-37",
@@ -3576,7 +3883,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2008年上海公务员考试《行测》第37题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "政治时政",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shanghai-2008-未标注-38",
@@ -3610,7 +3919,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2008年上海公务员考试《行测》第38题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2008-未标注-39",
@@ -3644,7 +3955,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2008年上海公务员考试《行测》第39题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2008-未标注-40",
@@ -3679,7 +3992,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2008年上海公务员考试《行测》第40题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2008-未标注-41",
@@ -3714,7 +4029,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2008年上海公务员考试《行测》第41题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2008-未标注-42",
@@ -3749,7 +4066,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2008年上海公务员考试《行测》第42题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2008-未标注-43",
@@ -3777,7 +4096,9 @@
     "difficulty": "基础",
     "source": "2008年上海公务员考试《行测》第43题",
     "isImageQuestion": true,
-    "province": "上海"
+    "province": "上海",
+    "subModule": "生活常识",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2008-未标注-44",
@@ -3812,7 +4133,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2008年上海公务员考试《行测》第44题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2008-未标注-45",
@@ -3847,7 +4170,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2008年上海公务员考试《行测》第45题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "地理国情",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2008-未标注-46",
@@ -3882,7 +4207,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2008年上海公务员考试《行测》第46题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2008-未标注-47",
@@ -3918,7 +4245,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2008年上海公务员考试《行测》第47题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "地理国情",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2008-未标注-48",
@@ -3953,7 +4282,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2008年上海公务员考试《行测》第48题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2008-未标注-49",
@@ -3988,7 +4319,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2008年上海公务员考试《行测》第49题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2008-未标注-50",
@@ -4024,7 +4357,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2008年上海公务员考试《行测》第50题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2008-未标注-51",
@@ -4060,7 +4395,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2008年上海公务员考试《行测》第51题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2008-未标注-52",
@@ -4095,7 +4432,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2008年上海公务员考试《行测》第52题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2008-未标注-53",
@@ -4131,7 +4470,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2008年上海公务员考试《行测》第53题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2008-未标注-54",
@@ -4167,7 +4508,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2008年上海公务员考试《行测》第54题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2008-未标注-55",
@@ -4202,7 +4545,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2008年上海公务员考试《行测》第55题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2008-未标注-56",
@@ -4237,7 +4582,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2008年上海公务员考试《行测》第56题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2008-未标注-57",
@@ -4273,7 +4620,10 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2008年上海公务员考试《行测》第57题",
-    "province": "上海"
+    "province": "上海",
+    "isAbnormal": true,
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2008-未标注-58",
@@ -4309,7 +4659,10 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2008年上海公务员考试《行测》第58题",
-    "province": "上海"
+    "province": "上海",
+    "isAbnormal": true,
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2008-未标注-59",
@@ -4345,7 +4698,10 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2008年上海公务员考试《行测》第59题",
-    "province": "上海"
+    "province": "上海",
+    "isAbnormal": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2008-未标注-60",
@@ -4382,7 +4738,10 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2008年上海公务员考试《行测》第60题",
-    "province": "上海"
+    "province": "上海",
+    "isAbnormal": true,
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2009-未标注-1",
@@ -4417,7 +4776,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2009年上海公务员考试《行测》第1题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2009-未标注-2",
@@ -4453,7 +4814,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2009年上海公务员考试《行测》第2题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2009-未标注-3",
@@ -4487,7 +4850,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2009年上海公务员考试《行测》第3题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2009-未标注-4",
@@ -4521,7 +4886,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2009年上海公务员考试《行测》第4题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2009-未标注-5",
@@ -4556,7 +4923,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2009年上海公务员考试《行测》第5题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2009-未标注-6",
@@ -4591,7 +4960,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2009年上海公务员考试《行测》第6题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2009-未标注-7",
@@ -4625,7 +4996,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2009年上海公务员考试《行测》第7题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2009-未标注-8",
@@ -4659,7 +5032,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2009年上海公务员考试《行测》第8题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2009-未标注-9",
@@ -4694,7 +5069,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2009年上海公务员考试《行测》第9题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "经济管理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2009-未标注-10",
@@ -4728,7 +5105,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2009年上海公务员考试《行测》第10题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2009-未标注-11",
@@ -4763,7 +5142,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2009年上海公务员考试《行测》第11题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "经济管理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2009-未标注-12",
@@ -4798,7 +5179,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2009年上海公务员考试《行测》第12题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2009-未标注-13",
@@ -4833,7 +5216,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2009年上海公务员考试《行测》第13题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2009-未标注-14",
@@ -4867,7 +5252,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2009年上海公务员考试《行测》第14题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2009-未标注-15",
@@ -4903,7 +5290,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2009年上海公务员考试《行测》第15题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2009-未标注-16",
@@ -4937,7 +5326,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2009年上海公务员考试《行测》第16题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "经济管理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2009-未标注-17",
@@ -4972,7 +5363,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2009年上海公务员考试《行测》第17题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2009-未标注-18",
@@ -5006,7 +5399,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2009年上海公务员考试《行测》第18题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2009-未标注-19",
@@ -5041,7 +5436,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2009年上海公务员考试《行测》第19题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2009-未标注-20",
@@ -5075,7 +5472,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2009年上海公务员考试《行测》第20题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "法律",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2009-未标注-21",
@@ -5110,7 +5509,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2009年上海公务员考试《行测》第21题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "政治时政",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2009-未标注-22",
@@ -5145,7 +5546,9 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2009年上海公务员考试《行测》第22题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "科技",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shanghai-2009-未标注-23",
@@ -5179,6 +5582,8 @@
     "thinkingTip": "【常识】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "基础",
     "source": "2009年上海公务员考试《行测》第23题",
-    "province": "上海"
+    "province": "上海",
+    "subModule": "人文历史",
+    "subModule_confidence": "high"
   }
 ]

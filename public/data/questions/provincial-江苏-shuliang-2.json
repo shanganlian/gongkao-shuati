@@ -32,7 +32,9 @@
     "difficulty": "拔高",
     "source": "2013年江苏公务员考试《行测》（C类）第21题",
     "isImageQuestion": true,
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-jiangsu-2013-C类-22",
@@ -67,7 +69,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2013年江苏公务员考试《行测》（C类）第22题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2013-C类-23",
@@ -101,7 +105,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2013年江苏公务员考试《行测》（C类）第23题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2013-C类-24",
@@ -135,7 +141,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2013年江苏公务员考试《行测》（C类）第24题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2013-C类-25",
@@ -170,7 +178,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2013年江苏公务员考试《行测》（C类）第25题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2013-C类-26",
@@ -204,7 +214,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2013年江苏公务员考试《行测》（C类）第26题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2013-C类-27",
@@ -238,7 +250,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2013年江苏公务员考试《行测》（C类）第27题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2013-C类-28",
@@ -272,7 +286,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2013年江苏公务员考试《行测》（C类）第28题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2013-C类-29",
@@ -306,7 +322,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2013年江苏公务员考试《行测》（C类）第29题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2013-C类-30",
@@ -342,7 +360,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2013年江苏公务员考试《行测》（C类）第30题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2013-C类-31",
@@ -358,7 +378,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "拔高",
     "source": "2013年江苏公务员考试《行测》（C类）第31题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-jiangsu-2013-C类-32",
@@ -393,7 +415,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2013年江苏公务员考试《行测》（C类）第32题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2013-C类-33",
@@ -428,7 +452,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2013年江苏公务员考试《行测》（C类）第33题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2013-C类-34",
@@ -464,7 +490,9 @@
     "difficulty": "拔高",
     "source": "2013年江苏公务员考试《行测》（C类）第34题",
     "isImageQuestion": true,
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-jiangsu-2013-C类-35",
@@ -499,7 +527,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2013年江苏公务员考试《行测》（C类）第35题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2014-A卷-26",
@@ -535,7 +565,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2014年江苏公务员考试《行测》（A卷）第26题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2014-A卷-27",
@@ -571,7 +603,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2014年江苏公务员考试《行测》（A卷）第27题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2014-A卷-28",
@@ -607,7 +641,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2014年江苏公务员考试《行测》（A卷）第28题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2014-A卷-29",
@@ -642,7 +678,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2014年江苏公务员考试《行测》（A卷）第29题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2014-A卷-30",
@@ -662,7 +700,10 @@
     "difficulty": "拔高",
     "source": "2014年江苏公务员考试《行测》（A卷）第30题",
     "isImageQuestion": true,
-    "province": "江苏"
+    "province": "江苏",
+    "isAbnormal": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2014-A卷-31",
@@ -699,7 +740,9 @@
     "difficulty": "拔高",
     "source": "2014年江苏公务员考试《行测》（A卷）第31题",
     "isImageQuestion": true,
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2014-A卷-32",
@@ -733,7 +776,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2014年江苏公务员考试《行测》（A卷）第32题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2014-A卷-33",
@@ -767,7 +812,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2014年江苏公务员考试《行测》（A卷）第33题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2014-A卷-34",
@@ -801,7 +848,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2014年江苏公务员考试《行测》（A卷）第34题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2014-A卷-35",
@@ -837,7 +886,9 @@
     "difficulty": "拔高",
     "source": "2014年江苏公务员考试《行测》（A卷）第35题",
     "isImageQuestion": true,
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2014-A卷-36",
@@ -872,7 +923,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2014年江苏公务员考试《行测》（A卷）第36题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2014-A卷-37",
@@ -908,7 +961,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2014年江苏公务员考试《行测》（A卷）第37题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2014-A卷-38",
@@ -945,7 +1000,9 @@
     "difficulty": "拔高",
     "source": "2014年江苏公务员考试《行测》（A卷）第38题",
     "isImageQuestion": true,
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2014-A卷-39",
@@ -980,7 +1037,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2014年江苏公务员考试《行测》（A卷）第39题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2014-A卷-40",
@@ -999,7 +1058,10 @@
     "difficulty": "拔高",
     "source": "2014年江苏公务员考试《行测》（A卷）第40题",
     "isImageQuestion": true,
-    "province": "江苏"
+    "province": "江苏",
+    "isAbnormal": true,
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2014-B卷-26",
@@ -1035,7 +1097,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2014年江苏公务员考试《行测》（B卷）第26题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2014-B卷-27",
@@ -1072,7 +1136,9 @@
     "difficulty": "拔高",
     "source": "2014年江苏公务员考试《行测》（B卷）第27题",
     "isImageQuestion": true,
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2014-B卷-28",
@@ -1108,7 +1174,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2014年江苏公务员考试《行测》（B卷）第28题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2014-B卷-29",
@@ -1144,7 +1212,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2014年江苏公务员考试《行测》（B卷）第29题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2014-B卷-30",
@@ -1171,7 +1241,9 @@
     "difficulty": "拔高",
     "source": "2014年江苏公务员考试《行测》（B卷）第30题",
     "isImageQuestion": true,
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2014-B卷-31",
@@ -1206,7 +1278,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2014年江苏公务员考试《行测》（B卷）第31题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2014-B卷-32",
@@ -1243,7 +1317,9 @@
     "difficulty": "拔高",
     "source": "2014年江苏公务员考试《行测》（B卷）第32题",
     "isImageQuestion": true,
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2014-B卷-33",
@@ -1278,7 +1354,9 @@
     "difficulty": "拔高",
     "source": "2014年江苏公务员考试《行测》（B卷）第33题",
     "isImageQuestion": true,
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2014-B卷-34",
@@ -1314,7 +1392,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2014年江苏公务员考试《行测》（B卷）第34题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2014-B卷-35",
@@ -1350,7 +1430,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2014年江苏公务员考试《行测》（B卷）第35题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2014-B卷-36",
@@ -1385,7 +1467,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2014年江苏公务员考试《行测》（B卷）第36题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2014-B卷-37",
@@ -1420,7 +1504,9 @@
     "difficulty": "拔高",
     "source": "2014年江苏公务员考试《行测》（B卷）第37题",
     "isImageQuestion": true,
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2014-B卷-38",
@@ -1455,7 +1541,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2014年江苏公务员考试《行测》（B卷）第38题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2014-B卷-39",
@@ -1489,7 +1577,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2014年江苏公务员考试《行测》（B卷）第39题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2014-B卷-40",
@@ -1523,7 +1613,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2014年江苏公务员考试《行测》（B卷）第40题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2014-C卷-21",
@@ -1559,7 +1651,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2014年江苏公务员考试《行测》（C卷）第21题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2014-C卷-22",
@@ -1596,7 +1690,9 @@
     "difficulty": "拔高",
     "source": "2014年江苏公务员考试《行测》（C卷）第22题",
     "isImageQuestion": true,
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2014-C卷-23",
@@ -1632,7 +1728,9 @@
     "difficulty": "拔高",
     "source": "2014年江苏公务员考试《行测》（C卷）第23题",
     "isImageQuestion": true,
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2014-C卷-24",
@@ -1668,7 +1766,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2014年江苏公务员考试《行测》（C卷）第24题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2014-C卷-25",
@@ -1687,7 +1787,10 @@
     "difficulty": "拔高",
     "source": "2014年江苏公务员考试《行测》（C卷）第25题",
     "isImageQuestion": true,
-    "province": "江苏"
+    "province": "江苏",
+    "isAbnormal": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2014-C卷-26",
@@ -1719,7 +1822,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2014年江苏公务员考试《行测》（C卷）第26题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2014-C卷-27",
@@ -1751,7 +1856,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2014年江苏公务员考试《行测》（C卷）第27题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-jiangsu-2014-C卷-28",
@@ -1786,7 +1893,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2014年江苏公务员考试《行测》（C卷）第28题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2014-C卷-29",
@@ -1823,7 +1932,9 @@
     "difficulty": "拔高",
     "source": "2014年江苏公务员考试《行测》（C卷）第29题",
     "isImageQuestion": true,
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2014-C卷-30",
@@ -1858,7 +1969,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2014年江苏公务员考试《行测》（C卷）第30题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2014-C卷-31",
@@ -1893,7 +2006,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2014年江苏公务员考试《行测》（C卷）第31题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2014-C卷-32",
@@ -1928,7 +2043,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2014年江苏公务员考试《行测》（C卷）第32题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2014-C卷-33",
@@ -1947,7 +2064,10 @@
     "difficulty": "拔高",
     "source": "2014年江苏公务员考试《行测》（C卷）第33题",
     "isImageQuestion": true,
-    "province": "江苏"
+    "province": "江苏",
+    "isAbnormal": true,
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2014-C卷-34",
@@ -1982,7 +2102,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2014年江苏公务员考试《行测》（C卷）第34题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2014-C卷-35",
@@ -2001,7 +2123,10 @@
     "difficulty": "拔高",
     "source": "2014年江苏公务员考试《行测》（C卷）第35题",
     "isImageQuestion": true,
-    "province": "江苏"
+    "province": "江苏",
+    "isAbnormal": true,
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2015-A卷-26",
@@ -2037,7 +2162,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2015年江苏公务员考试《行测》（A卷）第26题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2015-A卷-27",
@@ -2073,7 +2200,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2015年江苏公务员考试《行测》（A卷）第27题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2015-A卷-28",
@@ -2109,7 +2238,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2015年江苏公务员考试《行测》（A卷）第28题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2015-A卷-29",
@@ -2137,7 +2268,9 @@
     "difficulty": "拔高",
     "source": "2015年江苏公务员考试《行测》（A卷）第29题",
     "isImageQuestion": true,
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2015-A卷-30",
@@ -2170,7 +2303,9 @@
     "difficulty": "拔高",
     "source": "2015年江苏公务员考试《行测》（A卷）第30题",
     "isImageQuestion": true,
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-jiangsu-2015-A卷-31",
@@ -2207,7 +2342,9 @@
     "difficulty": "拔高",
     "source": "2015年江苏公务员考试《行测》（A卷）第31题",
     "isImageQuestion": true,
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2015-A卷-32",
@@ -2243,7 +2380,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2015年江苏公务员考试《行测》（A卷）第32题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2015-A卷-33",
@@ -2279,7 +2418,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2015年江苏公务员考试《行测》（A卷）第33题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2015-A卷-34",
@@ -2313,7 +2454,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2015年江苏公务员考试《行测》（A卷）第34题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2015-A卷-35",
@@ -2348,7 +2491,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2015年江苏公务员考试《行测》（A卷）第35题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2015-A卷-36",
@@ -2383,7 +2528,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2015年江苏公务员考试《行测》（A卷）第36题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2015-A卷-37",
@@ -2419,7 +2566,9 @@
     "difficulty": "拔高",
     "source": "2015年江苏公务员考试《行测》（A卷）第37题",
     "isImageQuestion": true,
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2015-A卷-38",
@@ -2454,7 +2603,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2015年江苏公务员考试《行测》（A卷）第38题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2015-A卷-39",
@@ -2473,7 +2624,10 @@
     "difficulty": "拔高",
     "source": "2015年江苏公务员考试《行测》（A卷）第39题",
     "isImageQuestion": true,
-    "province": "江苏"
+    "province": "江苏",
+    "isAbnormal": true,
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2015-A卷-40",
@@ -2509,7 +2663,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2015年江苏公务员考试《行测》（A卷）第40题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2015-B卷-26",
@@ -2545,7 +2701,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2015年江苏公务员考试《行测》（B卷）第26题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2015-B卷-27",
@@ -2582,7 +2740,9 @@
     "difficulty": "拔高",
     "source": "2015年江苏公务员考试《行测》（B卷）第27题",
     "isImageQuestion": true,
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2015-B卷-28",
@@ -2618,7 +2778,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2015年江苏公务员考试《行测》（B卷）第28题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2015-B卷-29",
@@ -2645,7 +2807,9 @@
     "difficulty": "拔高",
     "source": "2015年江苏公务员考试《行测》（B卷）第29题",
     "isImageQuestion": true,
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2015-B卷-30",
@@ -2681,7 +2845,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2015年江苏公务员考试《行测》（B卷）第30题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2015-B卷-31",
@@ -2717,7 +2883,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2015年江苏公务员考试《行测》（B卷）第31题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2015-B卷-32",
@@ -2751,7 +2919,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2015年江苏公务员考试《行测》（B卷）第32题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2015-B卷-33",
@@ -2783,7 +2953,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2015年江苏公务员考试《行测》（B卷）第33题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2015-B卷-34",
@@ -2818,7 +2990,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2015年江苏公务员考试《行测》（B卷）第34题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2015-B卷-35",
@@ -2838,7 +3012,10 @@
     "difficulty": "拔高",
     "source": "2015年江苏公务员考试《行测》（B卷）第35题",
     "isImageQuestion": true,
-    "province": "江苏"
+    "province": "江苏",
+    "isAbnormal": true,
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2015-B卷-36",
@@ -2874,7 +3051,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2015年江苏公务员考试《行测》（B卷）第36题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2015-B卷-37",
@@ -2909,7 +3088,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2015年江苏公务员考试《行测》（B卷）第37题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2015-B卷-38",
@@ -2945,7 +3126,9 @@
     "difficulty": "拔高",
     "source": "2015年江苏公务员考试《行测》（B卷）第38题",
     "isImageQuestion": true,
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2015-B卷-39",
@@ -2979,7 +3162,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2015年江苏公务员考试《行测》（B卷）第39题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2015-B卷-40",
@@ -3015,7 +3200,9 @@
     "difficulty": "拔高",
     "source": "2015年江苏公务员考试《行测》（B卷）第40题",
     "isImageQuestion": true,
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2016-A卷-56",
@@ -3051,7 +3238,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2016年江苏公务员考试《行测》（A卷）第56题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2016-A卷-57",
@@ -3088,7 +3277,9 @@
     "difficulty": "拔高",
     "source": "2016年江苏公务员考试《行测》（A卷）第57题",
     "isImageQuestion": true,
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2016-A卷-58",
@@ -3108,7 +3299,10 @@
     "difficulty": "拔高",
     "source": "2016年江苏公务员考试《行测》（A卷）第58题",
     "isImageQuestion": true,
-    "province": "江苏"
+    "province": "江苏",
+    "isAbnormal": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2016-A卷-59",
@@ -3144,7 +3338,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2016年江苏公务员考试《行测》（A卷）第59题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2016-A卷-60",
@@ -3180,7 +3376,9 @@
     "difficulty": "拔高",
     "source": "2016年江苏公务员考试《行测》（A卷）第60题",
     "isImageQuestion": true,
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2016-A卷-61",
@@ -3216,7 +3414,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2016年江苏公务员考试《行测》（A卷）第61题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2016-A卷-62",
@@ -3251,7 +3451,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2016年江苏公务员考试《行测》（A卷）第62题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2016-A卷-63",
@@ -3287,7 +3489,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2016年江苏公务员考试《行测》（A卷）第63题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2016-A卷-64",
@@ -3323,7 +3527,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2016年江苏公务员考试《行测》（A卷）第64题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2016-A卷-65",
@@ -3358,7 +3564,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2016年江苏公务员考试《行测》（A卷）第65题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2016-A卷-66",
@@ -3393,7 +3601,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2016年江苏公务员考试《行测》（A卷）第66题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2016-A卷-67",
@@ -3427,7 +3637,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2016年江苏公务员考试《行测》（A卷）第67题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2016-A卷-68",
@@ -3462,7 +3674,9 @@
     "difficulty": "拔高",
     "source": "2016年江苏公务员考试《行测》（A卷）第68题",
     "isImageQuestion": true,
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2016-A卷-69",
@@ -3496,7 +3710,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2016年江苏公务员考试《行测》（A卷）第69题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2016-A卷-70",
@@ -3531,7 +3747,9 @@
     "difficulty": "拔高",
     "source": "2016年江苏公务员考试《行测》（A卷）第70题",
     "isImageQuestion": true,
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2016-C卷-56",
@@ -3567,7 +3785,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2016年江苏公务员考试《行测》（C卷）第56题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2016-C卷-57",
@@ -3603,7 +3823,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2016年江苏公务员考试《行测》（C卷）第57题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2016-C卷-58",
@@ -3640,7 +3862,9 @@
     "difficulty": "拔高",
     "source": "2016年江苏公务员考试《行测》（C卷）第58题",
     "isImageQuestion": true,
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2016-C卷-59",
@@ -3676,7 +3900,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2016年江苏公务员考试《行测》（C卷）第59题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2016-C卷-60",
@@ -3713,7 +3939,9 @@
     "difficulty": "拔高",
     "source": "2016年江苏公务员考试《行测》（C卷）第60题",
     "isImageQuestion": true,
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2016-C卷-61",
@@ -3748,7 +3976,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2016年江苏公务员考试《行测》（C卷）第61题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2016-C卷-62",
@@ -3784,7 +4014,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2016年江苏公务员考试《行测》（C卷）第62题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2016-C卷-63",
@@ -3819,7 +4051,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2016年江苏公务员考试《行测》（C卷）第63题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2016-C卷-64",
@@ -3854,7 +4088,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2016年江苏公务员考试《行测》（C卷）第64题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2016-C卷-65",
@@ -3889,7 +4125,9 @@
     "difficulty": "拔高",
     "source": "2016年江苏公务员考试《行测》（C卷）第65题",
     "isImageQuestion": true,
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2017-A类-56",
@@ -3925,7 +4163,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2017年江苏公务员考试《行测》（A类）第56题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2017-A类-57",
@@ -3961,7 +4201,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2017年江苏公务员考试《行测》（A类）第57题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2017-A类-58",
@@ -3996,7 +4238,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2017年江苏公务员考试《行测》（A类）第58题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2017-A类-59",
@@ -4025,7 +4269,9 @@
     "difficulty": "拔高",
     "source": "2017年江苏公务员考试《行测》（A类）第59题",
     "isImageQuestion": true,
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2017-A类-60",
@@ -4054,7 +4300,9 @@
     "difficulty": "拔高",
     "source": "2017年江苏公务员考试《行测》（A类）第60题",
     "isImageQuestion": true,
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-jiangsu-2017-A类-61",
@@ -4089,7 +4337,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2017年江苏公务员考试《行测》（A类）第61题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2017-A类-62",
@@ -4124,7 +4374,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2017年江苏公务员考试《行测》（A类）第62题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2017-A类-63",
@@ -4160,7 +4412,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2017年江苏公务员考试《行测》（A类）第63题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2017-A类-64",
@@ -4196,7 +4450,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2017年江苏公务员考试《行测》（A类）第64题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2017-A类-65",
@@ -4231,7 +4487,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2017年江苏公务员考试《行测》（A类）第65题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2017-A类-66",
@@ -4266,7 +4524,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2017年江苏公务员考试《行测》（A类）第66题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2017-A类-67",
@@ -4301,7 +4561,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2017年江苏公务员考试《行测》（A类）第67题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2017-A类-68",
@@ -4336,7 +4598,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2017年江苏公务员考试《行测》（A类）第68题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2017-A类-69",
@@ -4372,7 +4636,9 @@
     "difficulty": "拔高",
     "source": "2017年江苏公务员考试《行测》（A类）第69题",
     "isImageQuestion": true,
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2017-A类-70",
@@ -4407,7 +4673,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2017年江苏公务员考试《行测》（A类）第70题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2017-B类-56",
@@ -4443,7 +4711,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2017年江苏公务员考试《行测》（B类）第56题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2017-B类-57",
@@ -4479,7 +4749,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2017年江苏公务员考试《行测》（B类）第57题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2017-B类-58",
@@ -4499,7 +4771,10 @@
     "difficulty": "拔高",
     "source": "2017年江苏公务员考试《行测》（B类）第58题",
     "isImageQuestion": true,
-    "province": "江苏"
+    "province": "江苏",
+    "isAbnormal": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2017-B类-59",
@@ -4519,7 +4794,10 @@
     "difficulty": "拔高",
     "source": "2017年江苏公务员考试《行测》（B类）第59题",
     "isImageQuestion": true,
-    "province": "江苏"
+    "province": "江苏",
+    "isAbnormal": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2017-B类-60",
@@ -4555,7 +4833,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2017年江苏公务员考试《行测》（B类）第60题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2017-B类-61",
@@ -4590,7 +4870,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2017年江苏公务员考试《行测》（B类）第61题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2017-B类-62",
@@ -4627,7 +4909,9 @@
     "difficulty": "拔高",
     "source": "2017年江苏公务员考试《行测》（B类）第62题",
     "isImageQuestion": true,
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2017-B类-63",
@@ -4661,7 +4945,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2017年江苏公务员考试《行测》（B类）第63题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2017-B类-64",
@@ -4696,7 +4982,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2017年江苏公务员考试《行测》（B类）第64题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2017-B类-65",
@@ -4730,7 +5018,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2017年江苏公务员考试《行测》（B类）第65题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2017-B类-66",
@@ -4749,7 +5039,10 @@
     "difficulty": "拔高",
     "source": "2017年江苏公务员考试《行测》（B类）第66题",
     "isImageQuestion": true,
-    "province": "江苏"
+    "province": "江苏",
+    "isAbnormal": true,
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2017-B类-67",
@@ -4784,7 +5077,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2017年江苏公务员考试《行测》（B类）第67题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2017-B类-68",
@@ -4819,7 +5114,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2017年江苏公务员考试《行测》（B类）第68题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2017-B类-69",
@@ -4854,7 +5151,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2017年江苏公务员考试《行测》（B类）第69题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2017-B类-70",
@@ -4874,7 +5173,9 @@
     "difficulty": "拔高",
     "source": "2017年江苏公务员考试《行测》（B类）第70题",
     "isImageQuestion": true,
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2017-C类-56",
@@ -4910,7 +5211,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2017年江苏公务员考试《行测》（C类）第56题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2017-C类-57",
@@ -4946,7 +5249,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2017年江苏公务员考试《行测》（C类）第57题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2017-C类-58",
@@ -4981,7 +5286,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2017年江苏公务员考试《行测》（C类）第58题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2017-C类-59",
@@ -5016,7 +5323,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2017年江苏公务员考试《行测》（C类）第59题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2017-C类-60",
@@ -5036,7 +5345,10 @@
     "difficulty": "拔高",
     "source": "2017年江苏公务员考试《行测》（C类）第60题",
     "isImageQuestion": true,
-    "province": "江苏"
+    "province": "江苏",
+    "isAbnormal": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2017-C类-61",
@@ -5071,7 +5383,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2017年江苏公务员考试《行测》（C类）第61题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2017-C类-62",
@@ -5107,7 +5421,10 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2017年江苏公务员考试《行测》（C类）第62题",
-    "province": "江苏"
+    "province": "江苏",
+    "isAbnormal": true,
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2017-C类-63",
@@ -5142,7 +5459,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2017年江苏公务员考试《行测》（C类）第63题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2017-C类-64",
@@ -5178,7 +5497,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2017年江苏公务员考试《行测》（C类）第64题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2017-C类-65",
@@ -5213,7 +5534,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2017年江苏公务员考试《行测》（C类）第65题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2017-C类-66",
@@ -5249,7 +5572,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2017年江苏公务员考试《行测》（C类）第66题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2017-C类-67",
@@ -5284,7 +5609,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2017年江苏公务员考试《行测》（C类）第67题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2017-C类-68",
@@ -5319,7 +5646,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2017年江苏公务员考试《行测》（C类）第68题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2017-C类-69",
@@ -5354,7 +5683,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2017年江苏公务员考试《行测》（C类）第69题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2017-C类-70",
@@ -5389,7 +5720,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2017年江苏公务员考试《行测》（C类）第70题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2018-A类-51",
@@ -5424,7 +5757,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2018年江苏公务员考试《行测》（A类）第51题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2018-A类-52",
@@ -5459,7 +5794,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2018年江苏公务员考试《行测》（A类）第52题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2018-A类-53",
@@ -5495,7 +5832,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2018年江苏公务员考试《行测》（A类）第53题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2018-A类-54",
@@ -5528,7 +5867,9 @@
     "difficulty": "拔高",
     "source": "2018年江苏公务员考试《行测》（A类）第54题",
     "isImageQuestion": true,
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2018-A类-55",
@@ -5547,7 +5888,10 @@
     "difficulty": "拔高",
     "source": "2018年江苏公务员考试《行测》（A类）第55题",
     "isImageQuestion": true,
-    "province": "江苏"
+    "province": "江苏",
+    "isAbnormal": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2018-A类-56",
@@ -5581,7 +5925,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2018年江苏公务员考试《行测》（A类）第56题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2018-A类-57",
@@ -5617,7 +5963,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2018年江苏公务员考试《行测》（A类）第57题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2018-A类-58",
@@ -5653,7 +6001,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2018年江苏公务员考试《行测》（A类）第58题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2018-A类-59",
@@ -5688,7 +6038,9 @@
     "difficulty": "拔高",
     "source": "2018年江苏公务员考试《行测》（A类）第59题",
     "isImageQuestion": true,
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-jiangsu-2018-A类-60",
@@ -5725,7 +6077,9 @@
     "difficulty": "拔高",
     "source": "2018年江苏公务员考试《行测》（A类）第60题",
     "isImageQuestion": true,
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2018-A类-61",
@@ -5759,7 +6113,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2018年江苏公务员考试《行测》（A类）第61题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2018-A类-62",
@@ -5795,7 +6151,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2018年江苏公务员考试《行测》（A类）第62题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2018-A类-63",
@@ -5814,7 +6172,10 @@
     "difficulty": "拔高",
     "source": "2018年江苏公务员考试《行测》（A类）第63题",
     "isImageQuestion": true,
-    "province": "江苏"
+    "province": "江苏",
+    "isAbnormal": true,
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2018-A类-64",
@@ -5850,7 +6211,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2018年江苏公务员考试《行测》（A类）第64题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2018-A类-65",
@@ -5883,7 +6246,9 @@
     "difficulty": "拔高",
     "source": "2018年江苏公务员考试《行测》（A类）第65题",
     "isImageQuestion": true,
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2018-B类-51",
@@ -5918,7 +6283,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2018年江苏公务员考试《行测》（B类）第51题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2018-B类-52",
@@ -5953,7 +6320,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2018年江苏公务员考试《行测》（B类）第52题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2018-B类-53",
@@ -5988,7 +6357,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2018年江苏公务员考试《行测》（B类）第53题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2018-B类-54",
@@ -6007,7 +6378,10 @@
     "difficulty": "拔高",
     "source": "2018年江苏公务员考试《行测》（B类）第54题",
     "isImageQuestion": true,
-    "province": "江苏"
+    "province": "江苏",
+    "isAbnormal": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2018-B类-55",
@@ -6036,7 +6410,9 @@
     "difficulty": "拔高",
     "source": "2018年江苏公务员考试《行测》（B类）第55题",
     "isImageQuestion": true,
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2018-B类-56",
@@ -6071,7 +6447,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2018年江苏公务员考试《行测》（B类）第56题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2018-B类-57",
@@ -6108,7 +6486,9 @@
     "difficulty": "拔高",
     "source": "2018年江苏公务员考试《行测》（B类）第57题",
     "isImageQuestion": true,
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2018-B类-58",
@@ -6143,7 +6523,9 @@
     "difficulty": "拔高",
     "source": "2018年江苏公务员考试《行测》（B类）第58题",
     "isImageQuestion": true,
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "计算杂题",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-jiangsu-2018-B类-59",
@@ -6177,7 +6559,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2018年江苏公务员考试《行测》（B类）第59题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2018-B类-60",
@@ -6213,7 +6597,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2018年江苏公务员考试《行测》（B类）第60题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2018-B类-61",
@@ -6249,7 +6635,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2018年江苏公务员考试《行测》（B类）第61题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2018-B类-62",
@@ -6285,7 +6673,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2018年江苏公务员考试《行测》（B类）第62题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2018-B类-63",
@@ -6321,7 +6711,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2018年江苏公务员考试《行测》（B类）第63题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2018-B类-64",
@@ -6340,7 +6732,10 @@
     "difficulty": "拔高",
     "source": "2018年江苏公务员考试《行测》（B类）第64题",
     "isImageQuestion": true,
-    "province": "江苏"
+    "province": "江苏",
+    "isAbnormal": true,
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2018-B类-65",
@@ -6375,7 +6770,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2018年江苏公务员考试《行测》（B类）第65题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "排列概率",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2018-C类-51",
@@ -6411,7 +6808,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2018年江苏公务员考试《行测》（C类）第51题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2018-C类-52",
@@ -6447,7 +6846,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2018年江苏公务员考试《行测》（C类）第52题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2018-C类-53",
@@ -6482,7 +6883,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2018年江苏公务员考试《行测》（C类）第53题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2018-C类-54",
@@ -6517,7 +6920,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2018年江苏公务员考试《行测》（C类）第54题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2018-C类-55",
@@ -6536,7 +6941,10 @@
     "difficulty": "拔高",
     "source": "2018年江苏公务员考试《行测》（C类）第55题",
     "isImageQuestion": true,
-    "province": "江苏"
+    "province": "江苏",
+    "isAbnormal": true,
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2018-C类-56",
@@ -6571,7 +6979,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2018年江苏公务员考试《行测》（C类）第56题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2018-C类-57",
@@ -6607,7 +7017,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2018年江苏公务员考试《行测》（C类）第57题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "经济利润",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2018-C类-58",
@@ -6643,7 +7055,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2018年江苏公务员考试《行测》（C类）第58题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "计算杂题",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2018-C类-59",
@@ -6678,7 +7092,9 @@
     "thinkingTip": "【数量】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "拔高",
     "source": "2018年江苏公务员考试《行测》（C类）第59题",
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "行程工程",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangsu-2018-C类-60",
@@ -6715,6 +7131,8 @@
     "difficulty": "拔高",
     "source": "2018年江苏公务员考试《行测》（C类）第60题",
     "isImageQuestion": true,
-    "province": "江苏"
+    "province": "江苏",
+    "subModule": "几何",
+    "subModule_confidence": "high"
   }
 ]

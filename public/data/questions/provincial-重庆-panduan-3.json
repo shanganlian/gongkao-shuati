@@ -32,7 +32,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年重庆公务员考试《行测》（下半年）第90题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2018-下半年-91",
@@ -67,7 +69,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年重庆公务员考试《行测》（下半年）第91题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2018-下半年-92",
@@ -101,7 +105,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年重庆公务员考试《行测》（下半年）第92题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2018-下半年-93",
@@ -136,7 +142,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年重庆公务员考试《行测》（下半年）第93题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2018-下半年-94",
@@ -168,7 +176,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年重庆公务员考试《行测》（下半年）第94题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2018-下半年-95",
@@ -204,7 +214,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年重庆公务员考试《行测》（下半年）第95题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2018-下半年-96",
@@ -240,7 +252,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年重庆公务员考试《行测》（下半年）第96题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2018-下半年-97",
@@ -275,7 +289,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年重庆公务员考试《行测》（下半年）第97题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2018-下半年-98",
@@ -311,7 +327,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年重庆公务员考试《行测》（下半年）第98题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2018-下半年-99",
@@ -346,7 +364,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年重庆公务员考试《行测》（下半年）第99题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2018-下半年-100",
@@ -382,7 +402,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2018年重庆公务员考试《行测》（下半年）第100题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2019-上半年-71",
@@ -418,7 +440,9 @@
     "difficulty": "中等",
     "source": "2019年重庆公务员考试《行测》（上半年）第71题",
     "isImageQuestion": true,
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2019-上半年-72",
@@ -455,7 +479,9 @@
     "difficulty": "中等",
     "source": "2019年重庆公务员考试《行测》（上半年）第72题",
     "isImageQuestion": true,
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2019-上半年-73",
@@ -474,7 +500,9 @@
     "difficulty": "中等",
     "source": "2019年重庆公务员考试《行测》（上半年）第73题",
     "isImageQuestion": true,
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2019-上半年-74",
@@ -494,7 +522,9 @@
     "difficulty": "中等",
     "source": "2019年重庆公务员考试《行测》（上半年）第74题",
     "isImageQuestion": true,
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2019-上半年-75",
@@ -513,7 +543,9 @@
     "difficulty": "中等",
     "source": "2019年重庆公务员考试《行测》（上半年）第75题",
     "isImageQuestion": true,
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2019-上半年-76",
@@ -548,7 +580,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年重庆公务员考试《行测》（上半年）第76题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2019-上半年-77",
@@ -583,7 +617,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年重庆公务员考试《行测》（上半年）第77题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2019-上半年-78",
@@ -617,7 +653,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年重庆公务员考试《行测》（上半年）第78题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2019-上半年-79",
@@ -652,7 +690,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年重庆公务员考试《行测》（上半年）第79题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2019-上半年-80",
@@ -687,7 +727,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年重庆公务员考试《行测》（上半年）第80题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2019-上半年-81",
@@ -723,7 +765,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年重庆公务员考试《行测》（上半年）第81题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2019-上半年-82",
@@ -757,7 +801,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年重庆公务员考试《行测》（上半年）第82题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2019-上半年-83",
@@ -791,7 +837,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年重庆公务员考试《行测》（上半年）第83题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2019-上半年-84",
@@ -825,7 +873,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年重庆公务员考试《行测》（上半年）第84题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2019-上半年-85",
@@ -862,7 +912,9 @@
     "difficulty": "中等",
     "source": "2019年重庆公务员考试《行测》（上半年）第85题",
     "isImageQuestion": true,
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2019-上半年-86",
@@ -897,7 +949,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年重庆公务员考试《行测》（上半年）第86题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2019-上半年-87",
@@ -933,7 +987,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年重庆公务员考试《行测》（上半年）第87题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2019-上半年-88",
@@ -969,7 +1025,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年重庆公务员考试《行测》（上半年）第88题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2019-上半年-89",
@@ -1005,7 +1063,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年重庆公务员考试《行测》（上半年）第89题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2019-上半年-90",
@@ -1040,7 +1100,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年重庆公务员考试《行测》（上半年）第90题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2019-上半年-91",
@@ -1075,7 +1137,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年重庆公务员考试《行测》（上半年）第91题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2019-上半年-92",
@@ -1110,7 +1174,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年重庆公务员考试《行测》（上半年）第92题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2019-上半年-93",
@@ -1146,7 +1212,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年重庆公务员考试《行测》（上半年）第93题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2019-上半年-94",
@@ -1178,7 +1246,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年重庆公务员考试《行测》（上半年）第94题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2019-上半年-95",
@@ -1213,7 +1283,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年重庆公务员考试《行测》（上半年）第95题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2019-上半年-96",
@@ -1249,7 +1321,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年重庆公务员考试《行测》（上半年）第96题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2019-上半年-97",
@@ -1284,7 +1358,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年重庆公务员考试《行测》（上半年）第97题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2019-上半年-98",
@@ -1320,7 +1396,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年重庆公务员考试《行测》（上半年）第98题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2019-上半年-99",
@@ -1356,7 +1434,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年重庆公务员考试《行测》（上半年）第99题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2019-上半年-100",
@@ -1391,7 +1471,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年重庆公务员考试《行测》（上半年）第100题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2019-未标注-66",
@@ -1410,7 +1492,9 @@
     "difficulty": "中等",
     "source": "2019年重庆公务员考试《行测》第66题",
     "isImageQuestion": true,
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2019-未标注-67",
@@ -1429,7 +1513,9 @@
     "difficulty": "中等",
     "source": "2019年重庆公务员考试《行测》第67题",
     "isImageQuestion": true,
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2019-未标注-68",
@@ -1447,7 +1533,9 @@
     "difficulty": "中等",
     "source": "2019年重庆公务员考试《行测》第68题",
     "isImageQuestion": true,
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2019-未标注-69",
@@ -1466,7 +1554,9 @@
     "difficulty": "中等",
     "source": "2019年重庆公务员考试《行测》第69题",
     "isImageQuestion": true,
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2019-未标注-70",
@@ -1484,7 +1574,9 @@
     "difficulty": "中等",
     "source": "2019年重庆公务员考试《行测》第70题",
     "isImageQuestion": true,
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2019-未标注-71",
@@ -1503,7 +1595,9 @@
     "difficulty": "中等",
     "source": "2019年重庆公务员考试《行测》第71题",
     "isImageQuestion": true,
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2019-未标注-72",
@@ -1540,7 +1634,9 @@
     "difficulty": "中等",
     "source": "2019年重庆公务员考试《行测》第72题",
     "isImageQuestion": true,
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2019-未标注-73",
@@ -1576,7 +1672,9 @@
     "difficulty": "中等",
     "source": "2019年重庆公务员考试《行测》第73题",
     "isImageQuestion": true,
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2019-未标注-74",
@@ -1611,7 +1709,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年重庆公务员考试《行测》第74题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2019-未标注-75",
@@ -1646,7 +1746,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年重庆公务员考试《行测》第75题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2019-未标注-76",
@@ -1681,7 +1783,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年重庆公务员考试《行测》第76题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2019-未标注-77",
@@ -1717,7 +1821,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年重庆公务员考试《行测》第77题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2019-未标注-78",
@@ -1752,7 +1858,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年重庆公务员考试《行测》第78题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2019-未标注-79",
@@ -1787,7 +1895,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年重庆公务员考试《行测》第79题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2019-未标注-80",
@@ -1822,7 +1932,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年重庆公务员考试《行测》第80题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2019-未标注-81",
@@ -1854,7 +1966,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年重庆公务员考试《行测》第81题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2019-未标注-82",
@@ -1889,7 +2003,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年重庆公务员考试《行测》第82题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2019-未标注-83",
@@ -1924,7 +2040,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年重庆公务员考试《行测》第83题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2019-未标注-84",
@@ -1960,7 +2078,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年重庆公务员考试《行测》第84题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2019-未标注-85",
@@ -1996,7 +2116,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年重庆公务员考试《行测》第85题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2019-未标注-86",
@@ -2032,7 +2154,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年重庆公务员考试《行测》第86题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2019-未标注-87",
@@ -2066,7 +2190,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年重庆公务员考试《行测》第87题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2019-未标注-88",
@@ -2100,7 +2226,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年重庆公务员考试《行测》第88题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2019-未标注-89",
@@ -2134,7 +2262,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年重庆公务员考试《行测》第89题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2019-未标注-90",
@@ -2169,7 +2299,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年重庆公务员考试《行测》第90题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2019-未标注-91",
@@ -2203,7 +2335,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年重庆公务员考试《行测》第91题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2019-未标注-92",
@@ -2239,7 +2373,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年重庆公务员考试《行测》第92题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2019-未标注-93",
@@ -2274,7 +2410,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年重庆公务员考试《行测》第93题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2019-未标注-94",
@@ -2309,7 +2447,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年重庆公务员考试《行测》第94题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2019-未标注-95",
@@ -2344,7 +2484,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年重庆公务员考试《行测》第95题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2019-未标注-96",
@@ -2379,7 +2521,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年重庆公务员考试《行测》第96题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2019-未标注-97",
@@ -2415,7 +2559,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年重庆公务员考试《行测》第97题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2019-未标注-98",
@@ -2451,7 +2597,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年重庆公务员考试《行测》第98题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2019-未标注-99",
@@ -2486,7 +2634,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年重庆公务员考试《行测》第99题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2019-未标注-100",
@@ -2522,7 +2672,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2019年重庆公务员考试《行测》第100题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2020-未标注-71",
@@ -2559,7 +2711,9 @@
     "difficulty": "中等",
     "source": "2020年重庆公务员考试《行测》第71题",
     "isImageQuestion": true,
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2020-未标注-72",
@@ -2595,7 +2749,9 @@
     "difficulty": "中等",
     "source": "2020年重庆公务员考试《行测》第72题",
     "isImageQuestion": true,
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2020-未标注-73",
@@ -2615,7 +2771,9 @@
     "difficulty": "中等",
     "source": "2020年重庆公务员考试《行测》第73题",
     "isImageQuestion": true,
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2020-未标注-74",
@@ -2635,7 +2793,9 @@
     "difficulty": "中等",
     "source": "2020年重庆公务员考试《行测》第74题",
     "isImageQuestion": true,
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2020-未标注-75",
@@ -2655,7 +2815,9 @@
     "difficulty": "中等",
     "source": "2020年重庆公务员考试《行测》第75题",
     "isImageQuestion": true,
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2020-未标注-76",
@@ -2690,7 +2852,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年重庆公务员考试《行测》第76题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2020-未标注-77",
@@ -2725,7 +2889,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年重庆公务员考试《行测》第77题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2020-未标注-78",
@@ -2761,7 +2927,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年重庆公务员考试《行测》第78题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2020-未标注-79",
@@ -2793,7 +2961,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年重庆公务员考试《行测》第79题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2020-未标注-80",
@@ -2828,7 +2998,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年重庆公务员考试《行测》第80题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2020-未标注-81",
@@ -2863,7 +3035,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年重庆公务员考试《行测》第81题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2020-未标注-82",
@@ -2898,7 +3072,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年重庆公务员考试《行测》第82题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2020-未标注-83",
@@ -2934,7 +3110,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年重庆公务员考试《行测》第83题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2020-未标注-84",
@@ -2969,7 +3147,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年重庆公务员考试《行测》第84题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2020-未标注-85",
@@ -3003,7 +3183,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年重庆公务员考试《行测》第85题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2020-未标注-86",
@@ -3039,7 +3221,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年重庆公务员考试《行测》第86题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2020-未标注-87",
@@ -3074,7 +3258,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年重庆公务员考试《行测》第87题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2020-未标注-88",
@@ -3110,7 +3296,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年重庆公务员考试《行测》第88题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2020-未标注-89",
@@ -3146,7 +3334,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年重庆公务员考试《行测》第89题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2020-未标注-90",
@@ -3182,7 +3372,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年重庆公务员考试《行测》第90题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2020-未标注-91",
@@ -3218,7 +3410,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年重庆公务员考试《行测》第91题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2020-未标注-92",
@@ -3254,7 +3448,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年重庆公务员考试《行测》第92题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2020-未标注-93",
@@ -3290,7 +3486,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年重庆公务员考试《行测》第93题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2020-未标注-94",
@@ -3326,7 +3524,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年重庆公务员考试《行测》第94题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2020-未标注-95",
@@ -3362,7 +3562,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年重庆公务员考试《行测》第95题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2020-未标注-96",
@@ -3398,7 +3600,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年重庆公务员考试《行测》第96题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2020-未标注-97",
@@ -3434,7 +3638,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年重庆公务员考试《行测》第97题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2020-未标注-98",
@@ -3470,7 +3676,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年重庆公务员考试《行测》第98题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2020-未标注-99",
@@ -3506,7 +3714,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年重庆公务员考试《行测》第99题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2020-未标注-100",
@@ -3542,7 +3752,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年重庆公务员考试《行测》第100题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2020-未标注-101",
@@ -3578,7 +3790,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年重庆公务员考试《行测》第101题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2020-未标注-102",
@@ -3614,7 +3828,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年重庆公务员考试《行测》第102题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2020-未标注-103",
@@ -3650,7 +3866,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年重庆公务员考试《行测》第103题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2020-未标注-104",
@@ -3686,7 +3904,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年重庆公务员考试《行测》第104题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2020-未标注-105",
@@ -3722,7 +3942,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2020年重庆公务员考试《行测》第105题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2021-未标注-71",
@@ -3738,7 +3960,9 @@
     "difficulty": "中等",
     "source": "2021年重庆公务员考试《行测》第71题",
     "isImageQuestion": true,
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2021-未标注-72",
@@ -3754,7 +3978,9 @@
     "difficulty": "中等",
     "source": "2021年重庆公务员考试《行测》第72题",
     "isImageQuestion": true,
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2021-未标注-73",
@@ -3770,7 +3996,9 @@
     "difficulty": "中等",
     "source": "2021年重庆公务员考试《行测》第73题",
     "isImageQuestion": true,
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2021-未标注-74",
@@ -3786,7 +4014,9 @@
     "difficulty": "中等",
     "source": "2021年重庆公务员考试《行测》第74题",
     "isImageQuestion": true,
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2021-未标注-75",
@@ -3802,7 +4032,9 @@
     "difficulty": "中等",
     "source": "2021年重庆公务员考试《行测》第75题",
     "isImageQuestion": true,
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2021-未标注-76",
@@ -3818,7 +4050,9 @@
     "difficulty": "中等",
     "source": "2021年重庆公务员考试《行测》第76题",
     "isImageQuestion": true,
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2021-未标注-77",
@@ -3834,7 +4068,9 @@
     "difficulty": "中等",
     "source": "2021年重庆公务员考试《行测》第77题",
     "isImageQuestion": true,
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2021-未标注-78",
@@ -3866,7 +4102,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年重庆公务员考试《行测》第78题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2021-未标注-79",
@@ -3898,7 +4136,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年重庆公务员考试《行测》第79题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2021-未标注-80",
@@ -3930,7 +4170,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年重庆公务员考试《行测》第80题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2021-未标注-81",
@@ -3962,7 +4204,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年重庆公务员考试《行测》第81题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2021-未标注-82",
@@ -3994,7 +4238,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年重庆公务员考试《行测》第82题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2021-未标注-83",
@@ -4026,7 +4272,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年重庆公务员考试《行测》第83题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2021-未标注-84",
@@ -4058,7 +4306,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年重庆公务员考试《行测》第84题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2021-未标注-85",
@@ -4090,7 +4340,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年重庆公务员考试《行测》第85题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2021-未标注-86",
@@ -4122,7 +4374,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年重庆公务员考试《行测》第86题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2021-未标注-87",
@@ -4154,7 +4408,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年重庆公务员考试《行测》第87题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2021-未标注-88",
@@ -4186,7 +4442,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年重庆公务员考试《行测》第88题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2021-未标注-89",
@@ -4218,7 +4476,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年重庆公务员考试《行测》第89题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2021-未标注-90",
@@ -4250,7 +4510,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年重庆公务员考试《行测》第90题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2021-未标注-91",
@@ -4282,7 +4544,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年重庆公务员考试《行测》第91题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2021-未标注-92",
@@ -4314,7 +4578,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年重庆公务员考试《行测》第92题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2021-未标注-93",
@@ -4346,7 +4612,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年重庆公务员考试《行测》第93题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2021-未标注-94",
@@ -4378,7 +4646,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年重庆公务员考试《行测》第94题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2021-未标注-95",
@@ -4410,7 +4680,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年重庆公务员考试《行测》第95题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2021-未标注-96",
@@ -4442,7 +4714,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年重庆公务员考试《行测》第96题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2021-未标注-97",
@@ -4474,7 +4748,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年重庆公务员考试《行测》第97题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2021-未标注-98",
@@ -4506,7 +4782,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年重庆公务员考试《行测》第98题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2021-未标注-99",
@@ -4538,7 +4816,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2021年重庆公务员考试《行测》第99题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2021-未标注-100",
@@ -4571,7 +4851,9 @@
     "difficulty": "中等",
     "source": "2021年重庆公务员考试《行测》第100题",
     "isImageQuestion": true,
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2023-未标注-71",
@@ -4608,7 +4890,9 @@
     "difficulty": "中等",
     "source": "2023年重庆公务员考试《行测》第71题",
     "isImageQuestion": true,
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2023-未标注-72",
@@ -4643,7 +4927,9 @@
     "difficulty": "中等",
     "source": "2023年重庆公务员考试《行测》第72题",
     "isImageQuestion": true,
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2023-未标注-73",
@@ -4663,7 +4949,9 @@
     "difficulty": "中等",
     "source": "2023年重庆公务员考试《行测》第73题",
     "isImageQuestion": true,
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2023-未标注-74",
@@ -4682,7 +4970,9 @@
     "difficulty": "中等",
     "source": "2023年重庆公务员考试《行测》第74题",
     "isImageQuestion": true,
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2023-未标注-75",
@@ -4700,7 +4990,9 @@
     "difficulty": "中等",
     "source": "2023年重庆公务员考试《行测》第75题",
     "isImageQuestion": true,
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2023-未标注-76",
@@ -4736,7 +5028,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2023年重庆公务员考试《行测》第76题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2023-未标注-77",
@@ -4771,7 +5065,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2023年重庆公务员考试《行测》第77题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2023-未标注-78",
@@ -4806,7 +5102,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2023年重庆公务员考试《行测》第78题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2023-未标注-79",
@@ -4841,7 +5139,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2023年重庆公务员考试《行测》第79题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2023-未标注-80",
@@ -4877,7 +5177,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2023年重庆公务员考试《行测》第80题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2023-未标注-81",
@@ -4912,7 +5214,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2023年重庆公务员考试《行测》第81题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2023-未标注-82",
@@ -4947,7 +5251,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2023年重庆公务员考试《行测》第82题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2023-未标注-83",
@@ -4983,7 +5289,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2023年重庆公务员考试《行测》第83题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2023-未标注-84",
@@ -5019,7 +5327,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2023年重庆公务员考试《行测》第84题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2023-未标注-85",
@@ -5054,7 +5364,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2023年重庆公务员考试《行测》第85题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2023-未标注-86",
@@ -5090,7 +5402,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2023年重庆公务员考试《行测》第86题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2023-未标注-87",
@@ -5126,7 +5440,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2023年重庆公务员考试《行测》第87题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2023-未标注-88",
@@ -5161,7 +5477,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2023年重庆公务员考试《行测》第88题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2023-未标注-89",
@@ -5196,7 +5514,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2023年重庆公务员考试《行测》第89题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2023-未标注-90",
@@ -5230,7 +5550,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2023年重庆公务员考试《行测》第90题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2023-未标注-91",
@@ -5265,7 +5587,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2023年重庆公务员考试《行测》第91题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2023-未标注-92",
@@ -5300,7 +5624,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2023年重庆公务员考试《行测》第92题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2023-未标注-93",
@@ -5335,7 +5661,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2023年重庆公务员考试《行测》第93题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2023-未标注-94",
@@ -5370,7 +5698,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2023年重庆公务员考试《行测》第94题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2023-未标注-95",
@@ -5405,7 +5735,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2023年重庆公务员考试《行测》第95题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2023-未标注-96",
@@ -5439,7 +5771,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2023年重庆公务员考试《行测》第96题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2023-未标注-97",
@@ -5474,7 +5808,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2023年重庆公务员考试《行测》第97题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2023-未标注-98",
@@ -5508,7 +5844,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2023年重庆公务员考试《行测》第98题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2023-未标注-99",
@@ -5544,7 +5882,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2023年重庆公务员考试《行测》第99题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2023-未标注-100",
@@ -5580,7 +5920,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2023年重庆公务员考试《行测》第100题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2024-未标注-71",
@@ -5617,7 +5959,9 @@
     "difficulty": "中等",
     "source": "2024年重庆公务员考试《行测》第71题",
     "isImageQuestion": true,
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2024-未标注-72",
@@ -5650,7 +5994,9 @@
     "difficulty": "中等",
     "source": "2024年重庆公务员考试《行测》第72题",
     "isImageQuestion": true,
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2024-未标注-73",
@@ -5686,7 +6032,9 @@
     "difficulty": "中等",
     "source": "2024年重庆公务员考试《行测》第73题",
     "isImageQuestion": true,
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2024-未标注-74",
@@ -5723,7 +6071,9 @@
     "difficulty": "中等",
     "source": "2024年重庆公务员考试《行测》第74题",
     "isImageQuestion": true,
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2024-未标注-75",
@@ -5758,7 +6108,9 @@
     "difficulty": "中等",
     "source": "2024年重庆公务员考试《行测》第75题",
     "isImageQuestion": true,
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2024-未标注-76",
@@ -5792,7 +6144,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年重庆公务员考试《行测》第76题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2024-未标注-77",
@@ -5828,7 +6182,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年重庆公务员考试《行测》第77题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2024-未标注-78",
@@ -5865,7 +6221,9 @@
     "difficulty": "中等",
     "source": "2024年重庆公务员考试《行测》第78题",
     "isImageQuestion": true,
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2024-未标注-79",
@@ -5900,7 +6258,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年重庆公务员考试《行测》第79题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2024-未标注-80",
@@ -5936,7 +6296,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年重庆公务员考试《行测》第80题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2024-未标注-81",
@@ -5972,7 +6334,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年重庆公务员考试《行测》第81题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2024-未标注-82",
@@ -6006,7 +6370,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年重庆公务员考试《行测》第82题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2024-未标注-83",
@@ -6043,7 +6409,9 @@
     "difficulty": "中等",
     "source": "2024年重庆公务员考试《行测》第83题",
     "isImageQuestion": true,
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2024-未标注-84",
@@ -6079,7 +6447,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年重庆公务员考试《行测》第84题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2024-未标注-85",
@@ -6113,7 +6483,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年重庆公务员考试《行测》第85题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2024-未标注-86",
@@ -6149,7 +6521,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年重庆公务员考试《行测》第86题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2024-未标注-87",
@@ -6185,7 +6559,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年重庆公务员考试《行测》第87题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2024-未标注-88",
@@ -6220,7 +6596,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年重庆公务员考试《行测》第88题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2024-未标注-89",
@@ -6256,7 +6634,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年重庆公务员考试《行测》第89题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2024-未标注-90",
@@ -6291,7 +6671,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年重庆公务员考试《行测》第90题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2024-未标注-91",
@@ -6326,7 +6708,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年重庆公务员考试《行测》第91题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2024-未标注-92",
@@ -6362,7 +6746,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年重庆公务员考试《行测》第92题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2024-未标注-93",
@@ -6398,7 +6784,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年重庆公务员考试《行测》第93题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2024-未标注-94",
@@ -6433,7 +6821,9 @@
     "difficulty": "中等",
     "source": "2024年重庆公务员考试《行测》第94题",
     "isImageQuestion": true,
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2024-未标注-95",
@@ -6467,7 +6857,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年重庆公务员考试《行测》第95题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2024-未标注-96",
@@ -6503,7 +6895,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年重庆公务员考试《行测》第96题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2024-未标注-97",
@@ -6539,7 +6933,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年重庆公务员考试《行测》第97题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2024-未标注-98",
@@ -6573,7 +6969,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年重庆公务员考试《行测》第98题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-chongqing-2024-未标注-99",
@@ -6608,6 +7006,8 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2024年重庆公务员考试《行测》第99题",
-    "province": "重庆"
+    "province": "重庆",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   }
 ]

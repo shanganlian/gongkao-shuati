@@ -15,10 +15,11 @@ import {
   Share2
 } from 'lucide-react';
 import { MOCK_DAILY_MINDSET } from '../data/mockData';
+import type { MindsetCompletionInput } from '../lib/activityStats';
 
 interface DailyMindsetProps {
   onPlayAudio: (track: { id: string; title: string; subtitle: string; textToRead: string }) => void;
-  onFinishDailyTask: () => void;
+  onFinishDailyTask: (input?: MindsetCompletionInput) => void;
 }
 
 export const DailyMindset: React.FC<DailyMindsetProps> = ({
@@ -66,16 +67,20 @@ export const DailyMindset: React.FC<DailyMindsetProps> = ({
   };
 
   const checkAllDone = (done1: boolean, done2: boolean) => {
-    if (done1 && done2) {
-      setHasCompletedBoth(true);
-      onFinishDailyTask();
-    }
+    if (hasCompletedBoth || !done1 || !done2) return;
+    setHasCompletedBoth(true);
+    const aptitude = data.aptitudeQuestion;
+    onFinishDailyTask({
+      q2QuestionId: aptitude.id,
+      q2Module: aptitude.module,
+      q2Correct: q2SelectedOption ? q2SelectedOption === aptitude.answer : null,
+    });
   };
 
   return (
     <div className="max-w-4xl mx-auto space-y-6">
       {/* Mindset Philosophy Banner */}
-      <div className="bg-gradient-to-r from-emerald-800 via-emerald-700 to-teal-800 rounded-2xl p-6 text-white shadow-sm relative overflow-hidden">
+      <div className="bg-gradient-to-r from-emerald-800 via-emerald-700 to-brand-ink rounded-2xl p-6 text-white shadow-sm relative overflow-hidden">
         <div className="relative z-10">
           <div className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-emerald-900/60 text-emerald-200 text-xs font-semibold mb-3 border border-emerald-500/30">
             <Sparkles className="w-3.5 h-3.5 text-emerald-300" />
@@ -93,9 +98,9 @@ export const DailyMindset: React.FC<DailyMindsetProps> = ({
           <div className="flex flex-wrap items-center gap-3 mt-4 pt-3 border-t border-emerald-600/60 text-xs">
             <button
               onClick={handlePlayVoice}
-              className="flex items-center gap-1.5 px-3.5 py-1.5 rounded-lg bg-white text-emerald-900 font-semibold hover:bg-emerald-50 transition-colors shadow-xs cursor-pointer"
+              className="flex items-center gap-1.5 px-3.5 py-1.5 rounded-lg bg-white dark:bg-slate-900 text-emerald-900 dark:text-emerald-200 font-semibold hover:bg-emerald-50 dark:hover:bg-emerald-900/40 transition-colors shadow-xs cursor-pointer"
             >
-              <Volume2 className="w-4 h-4 text-emerald-600" />
+              <Volume2 className="w-4 h-4 text-emerald-600 dark:text-emerald-400" />
               <span>听考官音频导读（4分钟）</span>
             </button>
             <span className="text-emerald-200/80">
@@ -106,14 +111,14 @@ export const DailyMindset: React.FC<DailyMindsetProps> = ({
       </div>
 
       {/* Segmented Tab: Question 1 vs Question 2 */}
-      <div className="flex items-center justify-between border-b border-slate-200 pb-3">
+      <div className="flex items-center justify-between border-b border-slate-200 dark:border-slate-700 pb-3">
         <div className="flex items-center gap-2">
           <button
             onClick={() => setActiveTab('q1')}
             className={`flex items-center gap-2 px-4 py-2 text-xs sm:text-sm font-semibold rounded-xl transition-all cursor-pointer ${
               activeTab === 'q1'
-                ? 'bg-slate-900 text-white shadow-xs'
-                : 'bg-white text-slate-600 hover:bg-slate-100 border border-slate-200'
+                ? 'bg-slate-900 dark:bg-slate-700 text-white shadow-xs'
+                : 'bg-white dark:bg-slate-900 text-slate-600 dark:text-slate-300 hover:bg-slate-100 dark:hover:bg-slate-800 border border-slate-200 dark:border-slate-700'
             }`}
           >
             <span>第一题 · 申论与面试宏观思辨</span>
@@ -124,8 +129,8 @@ export const DailyMindset: React.FC<DailyMindsetProps> = ({
             onClick={() => setActiveTab('q2')}
             className={`flex items-center gap-2 px-4 py-2 text-xs sm:text-sm font-semibold rounded-xl transition-all cursor-pointer ${
               activeTab === 'q2'
-                ? 'bg-slate-900 text-white shadow-xs'
-                : 'bg-white text-slate-600 hover:bg-slate-100 border border-slate-200'
+                ? 'bg-slate-900 dark:bg-slate-700 text-white shadow-xs'
+                : 'bg-white dark:bg-slate-900 text-slate-600 dark:text-slate-300 hover:bg-slate-100 dark:hover:bg-slate-800 border border-slate-200 dark:border-slate-700'
             }`}
           >
             <span>第二题 · 行测核心真题辨析</span>
@@ -133,34 +138,34 @@ export const DailyMindset: React.FC<DailyMindsetProps> = ({
           </button>
         </div>
 
-        <div className="text-xs text-slate-500 hidden sm:block">
-          完成度：<strong className="text-emerald-600">{(q1Submitted ? 1 : 0) + (q2Submitted ? 1 : 0)} / 2</strong>
+        <div className="text-xs text-slate-500 dark:text-slate-400 hidden sm:block">
+          完成度：<strong className="text-emerald-600 dark:text-emerald-400">{(q1Submitted ? 1 : 0) + (q2Submitted ? 1 : 0)} / 2</strong>
         </div>
       </div>
 
       {/* QUESTION 1 CONTENT */}
       {activeTab === 'q1' && (
         <div className="space-y-6">
-          <div className="bg-white rounded-2xl p-6 border border-slate-200/80 shadow-xs space-y-4">
+          <div className="bg-white dark:bg-slate-900 rounded-2xl p-6 border border-slate-200/80 dark:border-slate-700/80 shadow-xs space-y-4">
             <div>
-              <div className="text-xs font-semibold text-emerald-700 tracking-wide uppercase">
+              <div className="text-xs font-semibold text-emerald-700 dark:text-emerald-300 tracking-wide uppercase">
                 {data.thinkingQuestion.title}
               </div>
-              <h3 className="text-lg font-bold text-slate-900 mt-1">
+              <h3 className="text-lg font-bold text-slate-900 dark:text-slate-100 mt-1">
                 {data.thinkingQuestion.prompt}
               </h3>
             </div>
 
             {/* Background Material */}
-            <div className="p-4 bg-slate-50 rounded-xl border border-slate-200/60 text-xs sm:text-sm text-slate-700 leading-relaxed">
-              <span className="font-semibold text-slate-900 block mb-1">【考情背景】：</span>
+            <div className="p-4 bg-slate-50 dark:bg-slate-800 rounded-xl border border-slate-200/60 dark:border-slate-700/60 text-xs sm:text-sm text-slate-700 dark:text-slate-200 leading-relaxed">
+              <span className="font-semibold text-slate-900 dark:text-slate-100 block mb-1">【考情背景】：</span>
               {data.thinkingQuestion.background}
             </div>
 
             {/* User Input Sandbox: Record thoughts / outline */}
             <form onSubmit={handleSubmitQ1} className="space-y-3 pt-2">
               <div className="flex items-center justify-between">
-                <label className="text-xs font-semibold text-slate-800">
+                <label className="text-xs font-semibold text-slate-800 dark:text-slate-200">
                   写下你的破题思考或答题大纲（即使只有两三句话也是巨大的开始）：
                 </label>
                 <span className="text-[11px] text-slate-400">已输入 {q1UserNotes.length} 字</span>
@@ -171,14 +176,14 @@ export const DailyMindset: React.FC<DailyMindsetProps> = ({
                 onChange={(e) => setQ1UserNotes(e.target.value)}
                 placeholder="例如：第一步先点出基层形式主义的危害，强调政绩观错位；第二步剖析指尖减负与面对面服务的辩证关系；第三步提出数据共享、优化考核、网格服务的实招……"
                 rows={4}
-                className="w-full text-xs sm:text-sm p-3.5 bg-slate-50 border border-slate-200 rounded-xl focus:bg-white focus:outline-none focus:ring-2 focus:ring-emerald-500/30 focus:border-emerald-600 transition-all placeholder:text-slate-400"
+                className="w-full text-xs sm:text-sm p-3.5 bg-slate-50 dark:bg-slate-800 border border-slate-200 dark:border-slate-700 rounded-xl focus:bg-white dark:focus:bg-slate-700 focus:outline-none focus:ring-2 focus:ring-emerald-500/30 focus:border-emerald-600 transition-all placeholder:text-slate-400"
               />
 
               <div className="flex items-center justify-between">
                 <button
                   type="button"
                   onClick={() => setShowThinkingDetails(!showThinkingDetails)}
-                  className="text-xs text-emerald-700 hover:text-emerald-800 font-medium flex items-center gap-1 cursor-pointer"
+                  className="text-xs text-emerald-700 dark:text-emerald-300 hover:text-emerald-800 dark:hover:text-emerald-300 font-medium flex items-center gap-1 cursor-pointer"
                 >
                   <Lightbulb className="w-3.5 h-3.5" />
                   <span>{showThinkingDetails ? '收起官方破题框架' : '参考破题思路与金句'}</span>
@@ -190,7 +195,7 @@ export const DailyMindset: React.FC<DailyMindsetProps> = ({
                   className={`px-4 py-2 text-xs sm:text-sm font-semibold rounded-xl flex items-center gap-1.5 transition-all cursor-pointer ${
                     q1UserNotes.trim()
                       ? 'bg-emerald-600 hover:bg-emerald-700 text-white shadow-xs'
-                      : 'bg-slate-100 text-slate-400 cursor-not-allowed'
+                      : 'bg-slate-100 dark:bg-slate-800 text-slate-400 cursor-not-allowed'
                   }`}
                 >
                   <CheckCircle2 className="w-4 h-4" />
@@ -202,13 +207,13 @@ export const DailyMindset: React.FC<DailyMindsetProps> = ({
 
           {/* Detailed Thinking Breakdown & Golden Quotes */}
           {(showThinkingDetails || q1Submitted) && (
-            <div className="bg-white rounded-2xl p-6 border border-slate-200/80 shadow-xs space-y-5 animate-in fade-in duration-300">
-              <div className="flex items-center justify-between border-b border-slate-100 pb-3">
+            <div className="bg-white dark:bg-slate-900 rounded-2xl p-6 border border-slate-200/80 dark:border-slate-700/80 shadow-xs space-y-5 animate-in fade-in duration-300">
+              <div className="flex items-center justify-between border-b border-slate-100 dark:border-slate-800 pb-3">
                 <div className="flex items-center gap-2">
-                  <div className="w-6 h-6 rounded-md bg-emerald-100 text-emerald-800 flex items-center justify-center font-bold text-xs">
+                  <div className="w-6 h-6 rounded-md bg-emerald-100 dark:bg-emerald-900/40 text-emerald-800 dark:text-emerald-300 flex items-center justify-center font-bold text-xs">
                     析
                   </div>
-                  <h4 className="text-sm font-bold text-slate-900">
+                  <h4 className="text-sm font-bold text-slate-900 dark:text-slate-100">
                     考官官方解构：三步破题思维链
                   </h4>
                 </div>
@@ -218,14 +223,14 @@ export const DailyMindset: React.FC<DailyMindsetProps> = ({
               {/* 3 Step Thinking Chain */}
               <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
                 {data.thinkingQuestion.thinkingDimensions.map((dim, idx) => (
-                  <div key={idx} className="p-4 bg-slate-50/80 rounded-xl border border-slate-200/60 space-y-2">
-                    <span className="text-xs font-bold text-emerald-800 block">
+                  <div key={idx} className="p-4 bg-slate-50/80 dark:bg-slate-800/80 rounded-xl border border-slate-200/60 dark:border-slate-700/60 space-y-2">
+                    <span className="text-xs font-bold text-emerald-800 dark:text-emerald-300 block">
                       {dim.step}
                     </span>
-                    <p className="text-xs text-slate-700 font-medium">
+                    <p className="text-xs text-slate-700 dark:text-slate-200 font-medium">
                       {dim.standpoint}
                     </p>
-                    <p className="text-[11px] text-slate-500 leading-relaxed">
+                    <p className="text-[11px] text-slate-500 dark:text-slate-400 leading-relaxed">
                       {dim.framework}
                     </p>
                   </div>
@@ -233,8 +238,8 @@ export const DailyMindset: React.FC<DailyMindsetProps> = ({
               </div>
 
               {/* Policy Anchor */}
-              <div className="p-3 bg-amber-50/70 border border-amber-200/60 rounded-xl text-xs text-amber-900 flex items-start gap-2">
-                <ShieldAlert className="w-4 h-4 text-amber-700 shrink-0 mt-0.5" />
+              <div className="p-3 bg-emerald-50/70 dark:bg-emerald-900/40 border border-emerald-200/60 dark:border-emerald-800/60 rounded-xl text-xs text-emerald-900 dark:text-emerald-200 flex items-start gap-2">
+                <ShieldAlert className="w-4 h-4 text-emerald-700 dark:text-emerald-300 shrink-0 mt-0.5" />
                 <div>
                   <strong className="font-semibold">【政策高屋建瓴锚点】：</strong>
                   <span>{data.thinkingQuestion.policyAnchor}</span>
@@ -243,14 +248,14 @@ export const DailyMindset: React.FC<DailyMindsetProps> = ({
 
               {/* Gold Sentences */}
               <div>
-                <h5 className="text-xs font-bold text-slate-900 mb-2">
+                <h5 className="text-xs font-bold text-slate-900 dark:text-slate-100 mb-2">
                   【申论大作文与面试吸睛金句库】（可随手背诵）：
                 </h5>
                 <div className="space-y-2">
                   {data.thinkingQuestion.goldSentences.map((sent, idx) => (
                     <div
                       key={idx}
-                      className="p-3 bg-slate-50 rounded-xl border border-slate-200/50 text-xs text-slate-800 font-serif italic"
+                      className="p-3 bg-slate-50 dark:bg-slate-800 rounded-xl border border-slate-200/50 dark:border-slate-700/50 text-xs text-slate-800 dark:text-slate-200 font-serif italic"
                     >
                       {sent}
                     </div>
@@ -262,7 +267,7 @@ export const DailyMindset: React.FC<DailyMindsetProps> = ({
               <div className="pt-2 flex justify-end">
                 <button
                   onClick={() => setActiveTab('q2')}
-                  className="flex items-center gap-1.5 px-4 py-2 bg-slate-900 hover:bg-slate-800 text-white text-xs font-semibold rounded-xl transition-colors cursor-pointer"
+                  className="flex items-center gap-1.5 px-4 py-2 bg-slate-900 dark:bg-slate-700 hover:bg-slate-800 dark:hover:bg-slate-600 text-white text-xs font-semibold rounded-xl transition-colors cursor-pointer"
                 >
                   <span>继续练第二题（行测辨析）</span>
                   <ArrowRight className="w-4 h-4" />
@@ -276,9 +281,9 @@ export const DailyMindset: React.FC<DailyMindsetProps> = ({
       {/* QUESTION 2 CONTENT */}
       {activeTab === 'q2' && (
         <div className="space-y-6">
-          <div className="bg-white rounded-2xl p-6 border border-slate-200/80 shadow-xs space-y-4">
+          <div className="bg-white dark:bg-slate-900 rounded-2xl p-6 border border-slate-200/80 dark:border-slate-700/80 shadow-xs space-y-4">
             <div className="flex items-center justify-between">
-              <span className="text-xs font-semibold text-emerald-700">
+              <span className="text-xs font-semibold text-emerald-700 dark:text-emerald-300">
                 【行测实战】{data.aptitudeQuestion.title}
               </span>
               <span className="text-xs text-slate-400">
@@ -286,7 +291,7 @@ export const DailyMindset: React.FC<DailyMindsetProps> = ({
               </span>
             </div>
 
-            <h3 className="text-sm sm:text-base font-semibold text-slate-900 leading-relaxed">
+            <h3 className="text-sm sm:text-base font-semibold text-slate-900 dark:text-slate-100 leading-relaxed">
               {data.aptitudeQuestion.stem}
             </h3>
 
@@ -295,18 +300,18 @@ export const DailyMindset: React.FC<DailyMindsetProps> = ({
               {data.aptitudeQuestion.options?.map((opt) => {
                 const isSelected = q2SelectedOption === opt.key;
                 const isCorrect = data.aptitudeQuestion.answer === opt.key;
-                let optionClasses = 'border-slate-200 bg-white hover:bg-slate-50 text-slate-700';
+                let optionClasses = 'border-slate-200 dark:border-slate-700 bg-white dark:bg-slate-900 hover:bg-slate-50 dark:hover:bg-slate-800 text-slate-700 dark:text-slate-200';
 
                 if (q2Submitted) {
                   if (isCorrect) {
-                    optionClasses = 'border-emerald-500 bg-emerald-50/80 text-emerald-950 font-semibold';
+                    optionClasses = 'border-emerald-500 bg-emerald-50/80 dark:bg-emerald-900/40 text-emerald-950 dark:text-emerald-200 font-semibold';
                   } else if (isSelected && !isCorrect) {
-                    optionClasses = 'border-rose-300 bg-rose-50 text-rose-900';
+                    optionClasses = 'border-rose-300 dark:border-rose-700 bg-rose-50 dark:bg-rose-900/40 text-rose-900 dark:text-rose-200';
                   } else {
-                    optionClasses = 'border-slate-200 bg-white opacity-60 text-slate-500';
+                    optionClasses = 'border-slate-200 dark:border-slate-700 bg-white dark:bg-slate-900 opacity-60 text-slate-500 dark:text-slate-400';
                   }
                 } else if (isSelected) {
-                  optionClasses = 'border-emerald-600 bg-emerald-50/50 text-emerald-900 font-medium';
+                  optionClasses = 'border-emerald-600 bg-emerald-50/50 dark:bg-emerald-900/40 text-emerald-900 dark:text-emerald-200 font-medium';
                 }
 
                 return (
@@ -317,14 +322,14 @@ export const DailyMindset: React.FC<DailyMindsetProps> = ({
                     className={`w-full text-left p-3.5 rounded-xl border flex items-center justify-between text-xs sm:text-sm transition-all cursor-pointer ${optionClasses}`}
                   >
                     <div className="flex items-center gap-3">
-                      <span className="w-6 h-6 rounded-lg bg-slate-100 flex items-center justify-center font-bold font-mono text-xs text-slate-700 shrink-0">
+                      <span className="w-6 h-6 rounded-lg bg-slate-100 dark:bg-slate-800 flex items-center justify-center font-bold font-mono text-xs text-slate-700 dark:text-slate-200 shrink-0">
                         {opt.key}
                       </span>
                       <span>{opt.text}</span>
                     </div>
 
                     {q2Submitted && isCorrect && (
-                      <CheckCircle2 className="w-4 h-4 text-emerald-600 shrink-0" />
+                      <CheckCircle2 className="w-4 h-4 text-emerald-600 dark:text-emerald-400 shrink-0" />
                     )}
                   </button>
                 );
@@ -341,7 +346,7 @@ export const DailyMindset: React.FC<DailyMindsetProps> = ({
                   className={`px-5 py-2 text-xs sm:text-sm font-semibold rounded-xl transition-all cursor-pointer ${
                     q2SelectedOption
                       ? 'bg-emerald-600 hover:bg-emerald-700 text-white shadow-xs'
-                      : 'bg-slate-100 text-slate-400 cursor-not-allowed'
+                      : 'bg-slate-100 dark:bg-slate-800 text-slate-400 cursor-not-allowed'
                   }`}
                 >
                   确认提交答案
@@ -352,32 +357,32 @@ export const DailyMindset: React.FC<DailyMindsetProps> = ({
 
           {/* Q2 Analysis & Thinking Transfer */}
           {q2Submitted && (
-            <div className="bg-white rounded-2xl p-6 border border-slate-200/80 shadow-xs space-y-4 animate-in fade-in duration-300">
+            <div className="bg-white dark:bg-slate-900 rounded-2xl p-6 border border-slate-200/80 dark:border-slate-700/80 shadow-xs space-y-4 animate-in fade-in duration-300">
               <div className="flex items-center justify-between">
                 <div className="flex items-center gap-2">
                   <span className={`px-2.5 py-1 rounded text-xs font-bold ${
                     q2SelectedOption === data.aptitudeQuestion.answer
-                      ? 'bg-emerald-100 text-emerald-800'
-                      : 'bg-rose-100 text-rose-800'
+                      ? 'bg-emerald-100 dark:bg-emerald-900/40 text-emerald-800 dark:text-emerald-300'
+                      : 'bg-rose-100 dark:bg-rose-900/40 text-rose-800 dark:text-rose-300'
                   }`}>
                     {q2SelectedOption === data.aptitudeQuestion.answer ? '回答正确！' : '遗憾答错'}
                   </span>
-                  <span className="text-xs text-slate-600">
-                    正确答案是：<strong className="font-bold text-slate-900">{data.aptitudeQuestion.answer}</strong>
+                  <span className="text-xs text-slate-600 dark:text-slate-300">
+                    正确答案是：<strong className="font-bold text-slate-900 dark:text-slate-100">{data.aptitudeQuestion.answer}</strong>
                   </span>
                 </div>
                 <span className="text-xs text-slate-400">难易度：{data.aptitudeQuestion.difficulty}</span>
               </div>
 
-              <div className="p-4 bg-slate-50 rounded-xl text-xs sm:text-sm text-slate-700 leading-relaxed border border-slate-200/60">
-                <strong className="text-slate-900 block mb-1">【考点精析】：</strong>
+              <div className="p-4 bg-slate-50 dark:bg-slate-800 rounded-xl text-xs sm:text-sm text-slate-700 dark:text-slate-200 leading-relaxed border border-slate-200/60 dark:border-slate-700/60">
+                <strong className="text-slate-900 dark:text-slate-100 block mb-1">【考点精析】：</strong>
                 {data.aptitudeQuestion.explanation}
               </div>
 
               {/* Mindset Transfer */}
-              <div className="p-4 bg-emerald-50/80 rounded-xl border border-emerald-200/80 text-xs text-emerald-950 space-y-1">
-                <div className="flex items-center gap-1.5 font-bold text-emerald-900">
-                  <Layers className="w-4 h-4 text-emerald-600" />
+              <div className="p-4 bg-emerald-50/80 dark:bg-emerald-900/40 rounded-xl border border-emerald-200/80 dark:border-emerald-800/80 text-xs text-emerald-950 dark:text-emerald-200 space-y-1">
+                <div className="flex items-center gap-1.5 font-bold text-emerald-900 dark:text-emerald-200">
+                  <Layers className="w-4 h-4 text-emerald-600 dark:text-emerald-400" />
                   <span>公职思维迁移：这道题如何赋能申论与面试？</span>
                 </div>
                 <p className="leading-relaxed">
@@ -391,14 +396,14 @@ export const DailyMindset: React.FC<DailyMindsetProps> = ({
 
       {/* Completion celebratory card if both are completed */}
       {hasCompletedBoth && (
-        <div className="bg-emerald-50 border border-emerald-200 rounded-2xl p-6 text-center space-y-3 shadow-xs animate-in zoom-in-95 duration-300">
+        <div className="bg-emerald-50 dark:bg-emerald-900/40 border border-emerald-200 dark:border-emerald-800 rounded-2xl p-6 text-center space-y-3 shadow-xs animate-in zoom-in-95 duration-300">
           <div className="w-12 h-12 mx-auto rounded-full bg-emerald-600 text-white flex items-center justify-center shadow-sm">
             <Award className="w-6 h-6" />
           </div>
-          <h3 className="text-base font-bold text-emerald-950">
+          <h3 className="text-base font-bold text-emerald-950 dark:text-emerald-200">
             今日两题思维晨练已顺利达成！
           </h3>
-          <p className="text-xs sm:text-sm text-emerald-800 max-w-md mx-auto">
+          <p className="text-xs sm:text-sm text-emerald-800 dark:text-emerald-300 max-w-md mx-auto">
             按部就班就是伟大。你今天对公职思维又有了更深一步的感知。日积月累，质变自然发生。
           </p>
           <div className="pt-1">

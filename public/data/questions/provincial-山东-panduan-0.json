@@ -15,7 +15,9 @@
     "difficulty": "中等",
     "source": "2006年山东公务员考试《行测》第36题",
     "isImageQuestion": true,
-    "province": "山东"
+    "province": "山东",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2006-未标注-37",
@@ -33,7 +35,9 @@
     "difficulty": "中等",
     "source": "2006年山东公务员考试《行测》第37题",
     "isImageQuestion": true,
-    "province": "山东"
+    "province": "山东",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2006-未标注-38",
@@ -51,7 +55,9 @@
     "difficulty": "中等",
     "source": "2006年山东公务员考试《行测》第38题",
     "isImageQuestion": true,
-    "province": "山东"
+    "province": "山东",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2006-未标注-39",
@@ -69,7 +75,9 @@
     "difficulty": "中等",
     "source": "2006年山东公务员考试《行测》第39题",
     "isImageQuestion": true,
-    "province": "山东"
+    "province": "山东",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2006-未标注-40",
@@ -87,7 +95,9 @@
     "difficulty": "中等",
     "source": "2006年山东公务员考试《行测》第40题",
     "isImageQuestion": true,
-    "province": "山东"
+    "province": "山东",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2006-未标注-41",
@@ -106,7 +116,9 @@
     "difficulty": "中等",
     "source": "2006年山东公务员考试《行测》第41题",
     "isImageQuestion": true,
-    "province": "山东"
+    "province": "山东",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2006-未标注-42",
@@ -122,7 +134,9 @@
     "difficulty": "中等",
     "source": "2006年山东公务员考试《行测》第42题",
     "isImageQuestion": true,
-    "province": "山东"
+    "province": "山东",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2006-未标注-43",
@@ -138,7 +152,9 @@
     "difficulty": "中等",
     "source": "2006年山东公务员考试《行测》第43题",
     "isImageQuestion": true,
-    "province": "山东"
+    "province": "山东",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2006-未标注-44",
@@ -156,7 +172,9 @@
     "difficulty": "中等",
     "source": "2006年山东公务员考试《行测》第44题",
     "isImageQuestion": true,
-    "province": "山东"
+    "province": "山东",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2006-未标注-45",
@@ -174,7 +192,9 @@
     "difficulty": "中等",
     "source": "2006年山东公务员考试《行测》第45题",
     "isImageQuestion": true,
-    "province": "山东"
+    "province": "山东",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2006-未标注-46",
@@ -206,7 +226,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2006年山东公务员考试《行测》第46题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2006-未标注-47",
@@ -240,7 +262,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2006年山东公务员考试《行测》第47题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2006-未标注-48",
@@ -272,7 +296,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2006年山东公务员考试《行测》第48题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2006-未标注-49",
@@ -304,7 +330,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2006年山东公务员考试《行测》第49题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2006-未标注-50",
@@ -339,7 +367,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2006年山东公务员考试《行测》第50题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2006-未标注-51",
@@ -373,7 +403,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2006年山东公务员考试《行测》第51题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2006-未标注-52",
@@ -405,7 +437,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2006年山东公务员考试《行测》第52题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2006-未标注-53",
@@ -437,7 +471,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2006年山东公务员考试《行测》第53题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2006-未标注-54",
@@ -469,7 +505,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2006年山东公务员考试《行测》第54题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2006-未标注-55",
@@ -504,7 +542,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2006年山东公务员考试《行测》第55题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2006-未标注-56",
@@ -536,7 +576,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2006年山东公务员考试《行测》第56题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2006-未标注-57",
@@ -568,7 +610,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2006年山东公务员考试《行测》第57题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2006-未标注-58",
@@ -600,7 +644,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2006年山东公务员考试《行测》第58题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2006-未标注-59",
@@ -632,7 +678,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2006年山东公务员考试《行测》第59题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2006-未标注-60",
@@ -667,7 +715,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2006年山东公务员考试《行测》第60题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2006-未标注-61",
@@ -699,7 +749,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2006年山东公务员考试《行测》第61题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2006-未标注-62",
@@ -731,7 +783,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2006年山东公务员考试《行测》第62题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2006-未标注-63",
@@ -763,7 +817,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2006年山东公务员考试《行测》第63题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2006-未标注-64",
@@ -795,7 +851,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2006年山东公务员考试《行测》第64题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2006-未标注-65",
@@ -827,7 +885,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2006年山东公务员考试《行测》第65题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2007-未标注-73",
@@ -859,7 +919,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2007年山东公务员考试《行测》第73题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2007-未标注-74",
@@ -875,7 +937,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2007年山东公务员考试《行测》第74题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shandong-2007-未标注-75",
@@ -891,7 +955,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2007年山东公务员考试《行测》第75题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shandong-2007-未标注-76",
@@ -907,7 +973,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2007年山东公务员考试《行测》第76题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shandong-2007-未标注-77",
@@ -923,7 +991,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2007年山东公务员考试《行测》第77题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shandong-2007-未标注-78",
@@ -939,7 +1009,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2007年山东公务员考试《行测》第78题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shandong-2007-未标注-79",
@@ -955,7 +1027,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2007年山东公务员考试《行测》第79题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shandong-2007-未标注-80",
@@ -971,7 +1045,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2007年山东公务员考试《行测》第80题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shandong-2007-未标注-81",
@@ -987,7 +1063,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2007年山东公务员考试《行测》第81题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shandong-2007-未标注-82",
@@ -1003,7 +1081,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2007年山东公务员考试《行测》第82题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shandong-2007-未标注-83",
@@ -1019,7 +1099,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2007年山东公务员考试《行测》第83题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shandong-2007-未标注-84",
@@ -1035,7 +1117,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2007年山东公务员考试《行测》第84题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shandong-2007-未标注-85",
@@ -1051,7 +1135,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2007年山东公务员考试《行测》第85题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shandong-2007-未标注-86",
@@ -1067,7 +1153,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2007年山东公务员考试《行测》第86题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shandong-2007-未标注-87",
@@ -1083,7 +1171,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2007年山东公务员考试《行测》第87题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shandong-2007-未标注-88",
@@ -1099,7 +1189,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2007年山东公务员考试《行测》第88题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shandong-2007-未标注-89",
@@ -1115,7 +1207,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2007年山东公务员考试《行测》第89题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shandong-2007-未标注-90",
@@ -1131,7 +1225,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2007年山东公务员考试《行测》第90题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shandong-2007-未标注-91",
@@ -1147,7 +1243,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2007年山东公务员考试《行测》第91题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shandong-2007-未标注-92",
@@ -1163,7 +1261,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2007年山东公务员考试《行测》第92题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shandong-2007-未标注-93",
@@ -1179,7 +1279,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2007年山东公务员考试《行测》第93题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shandong-2007-未标注-94",
@@ -1195,7 +1297,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2007年山东公务员考试《行测》第94题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shandong-2007-未标注-95",
@@ -1211,7 +1315,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2007年山东公务员考试《行测》第95题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shandong-2007-未标注-96",
@@ -1227,7 +1333,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2007年山东公务员考试《行测》第96题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shandong-2007-未标注-97",
@@ -1243,7 +1351,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2007年山东公务员考试《行测》第97题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shandong-2007-未标注-98",
@@ -1259,7 +1369,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2007年山东公务员考试《行测》第98题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shandong-2007-未标注-99",
@@ -1275,7 +1387,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2007年山东公务员考试《行测》第99题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shandong-2007-未标注-100",
@@ -1291,7 +1405,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2007年山东公务员考试《行测》第100题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shandong-2007-未标注-101",
@@ -1307,7 +1423,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2007年山东公务员考试《行测》第101题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shandong-2007-未标注-102",
@@ -1323,7 +1441,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2007年山东公务员考试《行测》第102题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shandong-2007-未标注-103",
@@ -1339,7 +1459,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2007年山东公务员考试《行测》第103题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shandong-2007-未标注-104",
@@ -1355,7 +1477,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2007年山东公务员考试《行测》第104题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shandong-2007-未标注-105",
@@ -1371,7 +1495,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2007年山东公务员考试《行测》第105题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shandong-2007-未标注-106",
@@ -1387,7 +1513,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2007年山东公务员考试《行测》第106题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shandong-2007-未标注-107",
@@ -1403,7 +1531,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2007年山东公务员考试《行测》第107题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shandong-2007-未标注-108",
@@ -1419,7 +1549,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2007年山东公务员考试《行测》第108题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shandong-2007-未标注-109",
@@ -1435,7 +1567,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2007年山东公务员考试《行测》第109题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shandong-2007-未标注-110",
@@ -1451,7 +1585,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2007年山东公务员考试《行测》第110题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shandong-2007-未标注-111",
@@ -1467,7 +1603,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2007年山东公务员考试《行测》第111题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shandong-2007-未标注-112",
@@ -1483,7 +1621,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2007年山东公务员考试《行测》第112题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shandong-2007-未标注-113",
@@ -1499,7 +1639,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2007年山东公务员考试《行测》第113题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shandong-2007-未标注-114",
@@ -1515,7 +1657,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2007年山东公务员考试《行测》第114题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shandong-2007-未标注-115",
@@ -1531,7 +1675,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2007年山东公务员考试《行测》第115题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shandong-2007-未标注-116",
@@ -1547,7 +1693,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2007年山东公务员考试《行测》第116题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shandong-2007-未标注-117",
@@ -1563,7 +1711,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2007年山东公务员考试《行测》第117题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shandong-2007-未标注-118",
@@ -1579,7 +1729,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2007年山东公务员考试《行测》第118题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shandong-2007-未标注-119",
@@ -1595,7 +1747,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2007年山东公务员考试《行测》第119题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shandong-2007-未标注-120",
@@ -1611,7 +1765,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2007年山东公务员考试《行测》第120题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shandong-2007-未标注-121",
@@ -1627,7 +1783,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2007年山东公务员考试《行测》第121题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shandong-2007-未标注-122",
@@ -1643,7 +1801,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2007年山东公务员考试《行测》第122题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shandong-2007-未标注-123",
@@ -1659,7 +1819,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2007年山东公务员考试《行测》第123题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shandong-2007-未标注-124",
@@ -1675,7 +1837,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2007年山东公务员考试《行测》第124题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shandong-2007-未标注-125",
@@ -1691,7 +1855,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2007年山东公务员考试《行测》第125题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shandong-2007-未标注-126",
@@ -1707,7 +1873,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2007年山东公务员考试《行测》第126题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shandong-2007-未标注-127",
@@ -1723,7 +1891,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2007年山东公务员考试《行测》第127题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shandong-2007-未标注-128",
@@ -1739,7 +1909,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2007年山东公务员考试《行测》第128题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shandong-2007-未标注-129",
@@ -1755,7 +1927,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2007年山东公务员考试《行测》第129题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shandong-2007-未标注-130",
@@ -1771,7 +1945,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2007年山东公务员考试《行测》第130题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shandong-2007-未标注-131",
@@ -1787,7 +1963,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2007年山东公务员考试《行测》第131题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shandong-2007-未标注-132",
@@ -1803,7 +1981,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2007年山东公务员考试《行测》第132题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shandong-2007-未标注-133",
@@ -1819,7 +1999,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2007年山东公务员考试《行测》第133题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shandong-2007-未标注-134",
@@ -1835,7 +2017,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2007年山东公务员考试《行测》第134题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shandong-2007-未标注-135",
@@ -1851,7 +2035,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2007年山东公务员考试《行测》第135题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shandong-2007-未标注-136",
@@ -1867,7 +2053,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2007年山东公务员考试《行测》第136题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shandong-2007-未标注-137",
@@ -1883,7 +2071,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2007年山东公务员考试《行测》第137题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shandong-2007-未标注-138",
@@ -1899,7 +2089,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2007年山东公务员考试《行测》第138题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shandong-2007-未标注-139",
@@ -1915,7 +2107,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2007年山东公务员考试《行测》第139题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shandong-2007-未标注-140",
@@ -1931,7 +2125,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2007年山东公务员考试《行测》第140题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shandong-2007-未标注-141",
@@ -1947,7 +2143,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2007年山东公务员考试《行测》第141题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shandong-2007-未标注-142",
@@ -1963,7 +2161,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2007年山东公务员考试《行测》第142题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shandong-2007-未标注-143",
@@ -1979,7 +2179,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2007年山东公务员考试《行测》第143题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shandong-2007-未标注-144",
@@ -1995,7 +2197,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2007年山东公务员考试《行测》第144题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shandong-2007-未标注-145",
@@ -2011,7 +2215,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2007年山东公务员考试《行测》第145题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shandong-2007-未标注-146",
@@ -2027,7 +2233,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2007年山东公务员考试《行测》第146题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shandong-2007-未标注-147",
@@ -2043,7 +2251,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2007年山东公务员考试《行测》第147题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shandong-2007-未标注-148",
@@ -2059,7 +2269,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2007年山东公务员考试《行测》第148题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shandong-2007-未标注-149",
@@ -2075,7 +2287,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2007年山东公务员考试《行测》第149题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shandong-2007-未标注-150",
@@ -2091,7 +2305,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2007年山东公务员考试《行测》第150题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shandong-2007-未标注-151",
@@ -2107,7 +2323,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2007年山东公务员考试《行测》第151题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shandong-2007-未标注-152",
@@ -2123,7 +2341,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2007年山东公务员考试《行测》第152题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shandong-2007-未标注-153",
@@ -2139,7 +2359,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2007年山东公务员考试《行测》第153题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shandong-2007-未标注-154",
@@ -2155,7 +2377,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2007年山东公务员考试《行测》第154题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shandong-2007-未标注-155",
@@ -2171,7 +2395,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2007年山东公务员考试《行测》第155题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shandong-2007-未标注-156",
@@ -2187,7 +2413,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2007年山东公务员考试《行测》第156题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shandong-2007-未标注-157",
@@ -2203,7 +2431,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2007年山东公务员考试《行测》第157题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shandong-2007-未标注-158",
@@ -2219,7 +2449,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2007年山东公务员考试《行测》第158题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shandong-2007-未标注-159",
@@ -2235,7 +2467,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2007年山东公务员考试《行测》第159题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shandong-2007-未标注-160",
@@ -2251,7 +2485,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2007年山东公务员考试《行测》第160题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shandong-2007-未标注-161",
@@ -2267,7 +2503,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2007年山东公务员考试《行测》第161题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shandong-2007-未标注-162",
@@ -2283,7 +2521,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2007年山东公务员考试《行测》第162题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shandong-2007-未标注-163",
@@ -2299,7 +2539,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2007年山东公务员考试《行测》第163题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shandong-2007-未标注-164",
@@ -2315,7 +2557,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2007年山东公务员考试《行测》第164题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shandong-2007-未标注-165",
@@ -2331,7 +2575,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2007年山东公务员考试《行测》第165题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shandong-2007-未标注-166",
@@ -2347,7 +2593,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2007年山东公务员考试《行测》第166题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shandong-2007-未标注-167",
@@ -2363,7 +2611,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2007年山东公务员考试《行测》第167题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shandong-2007-未标注-168",
@@ -2379,7 +2629,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2007年山东公务员考试《行测》第168题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shandong-2007-未标注-169",
@@ -2395,7 +2647,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2007年山东公务员考试《行测》第169题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shandong-2007-未标注-170",
@@ -2411,7 +2665,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2007年山东公务员考试《行测》第170题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shandong-2007-未标注-171",
@@ -2427,7 +2683,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2007年山东公务员考试《行测》第171题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shandong-2007-未标注-172",
@@ -2443,7 +2701,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2007年山东公务员考试《行测》第172题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shandong-2007-未标注-173",
@@ -2459,7 +2719,9 @@
     "thinkingTip": "原卷文本层缺失，需人工从 PDF/图片补录。",
     "difficulty": "中等",
     "source": "2007年山东公务员考试《行测》第173题",
-    "isPlaceholder": true
+    "isPlaceholder": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-shandong-2007-未标注-174",
@@ -2491,7 +2753,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2007年山东公务员考试《行测》第174题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2008-未标注-51",
@@ -2511,7 +2775,9 @@
     "difficulty": "中等",
     "source": "2008年山东公务员考试《行测》第51题",
     "isImageQuestion": true,
-    "province": "山东"
+    "province": "山东",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2008-未标注-52",
@@ -2531,7 +2797,9 @@
     "difficulty": "中等",
     "source": "2008年山东公务员考试《行测》第52题",
     "isImageQuestion": true,
-    "province": "山东"
+    "province": "山东",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2008-未标注-53",
@@ -2550,7 +2818,9 @@
     "difficulty": "中等",
     "source": "2008年山东公务员考试《行测》第53题",
     "isImageQuestion": true,
-    "province": "山东"
+    "province": "山东",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2008-未标注-54",
@@ -2568,7 +2838,9 @@
     "difficulty": "中等",
     "source": "2008年山东公务员考试《行测》第54题",
     "isImageQuestion": true,
-    "province": "山东"
+    "province": "山东",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2008-未标注-55",
@@ -2587,7 +2859,9 @@
     "difficulty": "中等",
     "source": "2008年山东公务员考试《行测》第55题",
     "isImageQuestion": true,
-    "province": "山东"
+    "province": "山东",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2008-未标注-56",
@@ -2623,7 +2897,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2008年山东公务员考试《行测》第56题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2008-未标注-57",
@@ -2659,7 +2935,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2008年山东公务员考试《行测》第57题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2008-未标注-58",
@@ -2695,7 +2973,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2008年山东公务员考试《行测》第58题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2008-未标注-59",
@@ -2731,7 +3011,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2008年山东公务员考试《行测》第59题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2008-未标注-60",
@@ -2767,7 +3049,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2008年山东公务员考试《行测》第60题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2008-未标注-61",
@@ -2803,7 +3087,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2008年山东公务员考试《行测》第61题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2008-未标注-62",
@@ -2839,7 +3125,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2008年山东公务员考试《行测》第62题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2008-未标注-63",
@@ -2875,7 +3163,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2008年山东公务员考试《行测》第63题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2008-未标注-64",
@@ -2911,7 +3201,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2008年山东公务员考试《行测》第64题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2008-未标注-65",
@@ -2946,7 +3238,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2008年山东公务员考试《行测》第65题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2008-未标注-66",
@@ -2981,7 +3275,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2008年山东公务员考试《行测》第66题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2008-未标注-67",
@@ -3017,7 +3313,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2008年山东公务员考试《行测》第67题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2008-未标注-68",
@@ -3052,7 +3350,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2008年山东公务员考试《行测》第68题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2008-未标注-69",
@@ -3088,7 +3388,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2008年山东公务员考试《行测》第69题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2008-未标注-70",
@@ -3123,7 +3425,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2008年山东公务员考试《行测》第70题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2008-未标注-71",
@@ -3158,7 +3462,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2008年山东公务员考试《行测》第71题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2008-未标注-72",
@@ -3194,7 +3500,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2008年山东公务员考试《行测》第72题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2008-未标注-73",
@@ -3230,7 +3538,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2008年山东公务员考试《行测》第73题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2008-未标注-74",
@@ -3266,7 +3576,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2008年山东公务员考试《行测》第74题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2008-未标注-75",
@@ -3301,7 +3613,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2008年山东公务员考试《行测》第75题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2008-未标注-76",
@@ -3337,7 +3651,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2008年山东公务员考试《行测》第76题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2008-未标注-77",
@@ -3373,7 +3689,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2008年山东公务员考试《行测》第77题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2008-未标注-78",
@@ -3409,7 +3727,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2008年山东公务员考试《行测》第78题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2008-未标注-79",
@@ -3445,7 +3765,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2008年山东公务员考试《行测》第79题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2008-未标注-80",
@@ -3481,7 +3803,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2008年山东公务员考试《行测》第80题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2008-未标注-81",
@@ -3517,7 +3841,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2008年山东公务员考试《行测》第81题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2008-未标注-82",
@@ -3553,7 +3879,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2008年山东公务员考试《行测》第82题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2008-未标注-83",
@@ -3589,7 +3917,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2008年山东公务员考试《行测》第83题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2008-未标注-84",
@@ -3625,7 +3955,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2008年山东公务员考试《行测》第84题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2008-未标注-85",
@@ -3660,7 +3992,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2008年山东公务员考试《行测》第85题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2008-未标注-86",
@@ -3696,7 +4030,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2008年山东公务员考试《行测》第86题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2008-未标注-87",
@@ -3732,7 +4068,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2008年山东公务员考试《行测》第87题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2008-未标注-88",
@@ -3768,7 +4106,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2008年山东公务员考试《行测》第88题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2008-未标注-89",
@@ -3803,7 +4143,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2008年山东公务员考试《行测》第89题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2008-未标注-90",
@@ -3839,7 +4181,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2008年山东公务员考试《行测》第90题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2009-未标注-36",
@@ -3857,7 +4201,9 @@
     "difficulty": "中等",
     "source": "2009年山东公务员考试《行测》第36题",
     "isImageQuestion": true,
-    "province": "山东"
+    "province": "山东",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2009-未标注-37",
@@ -3876,7 +4222,9 @@
     "difficulty": "中等",
     "source": "2009年山东公务员考试《行测》第37题",
     "isImageQuestion": true,
-    "province": "山东"
+    "province": "山东",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2009-未标注-38",
@@ -3895,7 +4243,9 @@
     "difficulty": "中等",
     "source": "2009年山东公务员考试《行测》第38题",
     "isImageQuestion": true,
-    "province": "山东"
+    "province": "山东",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2009-未标注-39",
@@ -3914,7 +4264,9 @@
     "difficulty": "中等",
     "source": "2009年山东公务员考试《行测》第39题",
     "isImageQuestion": true,
-    "province": "山东"
+    "province": "山东",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2009-未标注-40",
@@ -3932,7 +4284,9 @@
     "difficulty": "中等",
     "source": "2009年山东公务员考试《行测》第40题",
     "isImageQuestion": true,
-    "province": "山东"
+    "province": "山东",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2009-未标注-41",
@@ -3968,7 +4322,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年山东公务员考试《行测》第41题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2009-未标注-42",
@@ -4004,7 +4360,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年山东公务员考试《行测》第42题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2009-未标注-43",
@@ -4039,7 +4397,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年山东公务员考试《行测》第43题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2009-未标注-44",
@@ -4074,7 +4434,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年山东公务员考试《行测》第44题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2009-未标注-45",
@@ -4110,7 +4472,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年山东公务员考试《行测》第45题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2009-未标注-46",
@@ -4145,7 +4509,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年山东公务员考试《行测》第46题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2009-未标注-47",
@@ -4181,7 +4547,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年山东公务员考试《行测》第47题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2009-未标注-48",
@@ -4217,7 +4585,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年山东公务员考试《行测》第48题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2009-未标注-49",
@@ -4252,7 +4622,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年山东公务员考试《行测》第49题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2009-未标注-50",
@@ -4288,7 +4660,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年山东公务员考试《行测》第50题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2009-未标注-51",
@@ -4322,7 +4696,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年山东公务员考试《行测》第51题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2009-未标注-52",
@@ -4358,7 +4734,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年山东公务员考试《行测》第52题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2009-未标注-53",
@@ -4394,7 +4772,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年山东公务员考试《行测》第53题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2009-未标注-54",
@@ -4430,7 +4810,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年山东公务员考试《行测》第54题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2009-未标注-55",
@@ -4466,7 +4848,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年山东公务员考试《行测》第55题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2009-未标注-56",
@@ -4502,7 +4886,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年山东公务员考试《行测》第56题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2009-未标注-57",
@@ -4538,7 +4924,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年山东公务员考试《行测》第57题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2009-未标注-58",
@@ -4572,7 +4960,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年山东公务员考试《行测》第58题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2009-未标注-59",
@@ -4608,7 +4998,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年山东公务员考试《行测》第59题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2009-未标注-60",
@@ -4644,7 +5036,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年山东公务员考试《行测》第60题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2009-未标注-61",
@@ -4680,7 +5074,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年山东公务员考试《行测》第61题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2009-未标注-62",
@@ -4716,7 +5112,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年山东公务员考试《行测》第62题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-shandong-2009-未标注-63",
@@ -4752,6 +5150,8 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年山东公务员考试《行测》第63题",
-    "province": "山东"
+    "province": "山东",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   }
 ]

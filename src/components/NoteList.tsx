@@ -132,10 +132,10 @@ export const NoteList: React.FC<NoteListProps> = ({ questionId, onRequireLogin }
   const displayNotes = expanded ? notes : notes.slice(0, 3);
 
   return (
-    <div className="mt-4 pt-4 border-t border-slate-200/70">
+    <div className="mt-4 pt-4 border-t border-slate-200/70 dark:border-slate-700/70">
       <div className="flex items-center gap-1.5 mb-3">
-        <MessageSquare className="w-4 h-4 text-emerald-600" />
-        <span className="text-xs font-bold text-slate-800">考友笔记</span>
+        <MessageSquare className="w-4 h-4 text-emerald-600 dark:text-emerald-400" />
+        <span className="text-xs font-bold text-slate-800 dark:text-slate-200">考友笔记</span>
         <span className="text-xs text-slate-400">({notes.length})</span>
       </div>
 
@@ -148,7 +148,7 @@ export const NoteList: React.FC<NoteListProps> = ({ questionId, onRequireLogin }
           placeholder={user ? '写下你的解题思路或踩坑经验（200字内）...' : '登录后发布考友笔记'}
           maxLength={200}
           rows={2}
-          className="w-full px-3 py-2 text-xs border border-slate-200 rounded-lg resize-none focus:outline-none focus:ring-2 focus:ring-emerald-500/30"
+          className="w-full px-3 py-2 text-xs border border-slate-200 dark:border-slate-700 rounded-lg resize-none focus:outline-none focus:ring-2 focus:ring-emerald-500/30"
         />
         <div className="flex items-center justify-between">
           <span className="text-[11px] text-slate-400">{newContent.length}/200</span>
@@ -161,7 +161,7 @@ export const NoteList: React.FC<NoteListProps> = ({ questionId, onRequireLogin }
             发布
           </button>
         </div>
-        {error && <p className="text-[11px] text-rose-600">{error}</p>}
+        {error && <p className="text-[11px] text-rose-600 dark:text-rose-400">{error}</p>}
       </div>
 
       {/* 笔记列表 */}
@@ -173,13 +173,13 @@ export const NoteList: React.FC<NoteListProps> = ({ questionId, onRequireLogin }
             const isMine = user?.id === note.user_id;
             const liked = !!likedMap[note.id];
             return (
-              <div key={note.id} className="p-3 bg-slate-50/80 rounded-lg border border-slate-100">
+              <div key={note.id} className="p-3 bg-slate-50/80 dark:bg-slate-800/80 rounded-lg border border-slate-100 dark:border-slate-800">
                 <div className="flex items-start justify-between gap-2">
-                  <p className="text-xs text-slate-700 leading-relaxed flex-1">{note.content}</p>
+                  <p className="text-xs text-slate-700 dark:text-slate-200 leading-relaxed flex-1">{note.content}</p>
                   {isMine && (
                     <button
                       onClick={() => handleDelete(note.id)}
-                      className="text-slate-300 hover:text-rose-500 cursor-pointer shrink-0"
+                      className="text-slate-300 hover:text-rose-500 dark:hover:text-rose-400 cursor-pointer shrink-0"
                       title="删除笔记"
                     >
                       <Trash2 className="w-3.5 h-3.5" />
@@ -190,9 +190,9 @@ export const NoteList: React.FC<NoteListProps> = ({ questionId, onRequireLogin }
                   <span>{new Date(note.created_at).toLocaleDateString()}</span>
                   <button
                     onClick={() => handleLike(note.id)}
-                    className={`flex items-center gap-1 cursor-pointer transition-colors ${liked ? 'text-rose-500' : 'hover:text-rose-400'}`}
+                    className={`flex items-center gap-1 cursor-pointer transition-colors ${liked ? 'text-rose-500 dark:text-rose-400' : 'hover:text-rose-400'}`}
                   >
-                    <Heart className={`w-3.5 h-3.5 ${liked ? 'fill-rose-500' : ''}`} />
+                    <Heart className={`w-3.5 h-3.5 ${liked ? 'fill-rose-500 dark:fill-rose-400' : ''}`} />
                     <span>{note.likes_count}</span>
                   </button>
                 </div>
@@ -205,7 +205,7 @@ export const NoteList: React.FC<NoteListProps> = ({ questionId, onRequireLogin }
       {notes.length > 3 && (
         <button
           onClick={() => setExpanded(prev => !prev)}
-          className="mt-2 text-xs text-emerald-600 font-medium cursor-pointer hover:underline"
+          className="mt-2 text-xs text-emerald-600 dark:text-emerald-400 font-medium cursor-pointer hover:underline"
         >
           {expanded ? '收起' : `查看全部 ${notes.length} 条`}
         </button>

@@ -30,7 +30,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2004年国家公务员考试《行测》A卷第80题"
+    "source": "2004年国家公务员考试《行测》A卷第80题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2004-A卷-81",
@@ -63,7 +65,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2004年国家公务员考试《行测》A卷第81题"
+    "source": "2004年国家公务员考试《行测》A卷第81题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2004-A卷-82",
@@ -97,7 +101,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2004年国家公务员考试《行测》A卷第82题"
+    "source": "2004年国家公务员考试《行测》A卷第82题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2004-A卷-83",
@@ -132,7 +138,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2004年国家公务员考试《行测》A卷第83题"
+    "source": "2004年国家公务员考试《行测》A卷第83题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2004-A卷-84",
@@ -166,7 +174,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2004年国家公务员考试《行测》A卷第84题"
+    "source": "2004年国家公务员考试《行测》A卷第84题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2004-A卷-85",
@@ -200,7 +210,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2004年国家公务员考试《行测》A卷第85题"
+    "source": "2004年国家公务员考试《行测》A卷第85题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2004-A卷-86",
@@ -234,7 +246,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2004年国家公务员考试《行测》A卷第86题"
+    "source": "2004年国家公务员考试《行测》A卷第86题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2004-B卷-50",
@@ -252,7 +266,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2004年国家公务员考试《行测》B卷第50题",
-    "isImageQuestion": true
+    "isImageQuestion": true,
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2004-B卷-51",
@@ -270,7 +286,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2004年国家公务员考试《行测》B卷第51题",
-    "isImageQuestion": true
+    "isImageQuestion": true,
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2004-B卷-52",
@@ -288,7 +306,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2004年国家公务员考试《行测》B卷第52题",
-    "isImageQuestion": true
+    "isImageQuestion": true,
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2004-B卷-53",
@@ -306,7 +326,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2004年国家公务员考试《行测》B卷第53题",
-    "isImageQuestion": true
+    "isImageQuestion": true,
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2004-B卷-54",
@@ -324,7 +346,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2004年国家公务员考试《行测》B卷第54题",
-    "isImageQuestion": true
+    "isImageQuestion": true,
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2004-B卷-55",
@@ -341,7 +365,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2004年国家公务员考试《行测》B卷第55题",
-    "isImageQuestion": true
+    "isImageQuestion": true,
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2004-B卷-56",
@@ -358,7 +384,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2004年国家公务员考试《行测》B卷第56题",
-    "isImageQuestion": true
+    "isImageQuestion": true,
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2004-B卷-57",
@@ -375,7 +403,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2004年国家公务员考试《行测》B卷第57题",
-    "isImageQuestion": true
+    "isImageQuestion": true,
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2004-B卷-58",
@@ -393,7 +423,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2004年国家公务员考试《行测》B卷第58题",
-    "isImageQuestion": true
+    "isImageQuestion": true,
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2004-B卷-59",
@@ -411,7 +443,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2004年国家公务员考试《行测》B卷第59题",
-    "isImageQuestion": true
+    "isImageQuestion": true,
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2004-B卷-60",
@@ -444,7 +478,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2004年国家公务员考试《行测》B卷第60题"
+    "source": "2004年国家公务员考试《行测》B卷第60题",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2004-B卷-61",
@@ -477,7 +513,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2004年国家公务员考试《行测》B卷第61题"
+    "source": "2004年国家公务员考试《行测》B卷第61题",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2004-B卷-62",
@@ -510,7 +548,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2004年国家公务员考试《行测》B卷第62题"
+    "source": "2004年国家公务员考试《行测》B卷第62题",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2004-B卷-63",
@@ -544,7 +584,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2004年国家公务员考试《行测》B卷第63题"
+    "source": "2004年国家公务员考试《行测》B卷第63题",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2004-B卷-64",
@@ -577,7 +619,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2004年国家公务员考试《行测》B卷第64题"
+    "source": "2004年国家公务员考试《行测》B卷第64题",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2004-B卷-65",
@@ -610,7 +654,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2004年国家公务员考试《行测》B卷第65题"
+    "source": "2004年国家公务员考试《行测》B卷第65题",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2004-B卷-66",
@@ -641,7 +687,9 @@
     "keyPoints": [],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2004年国家公务员考试《行测》B卷第66题"
+    "source": "2004年国家公务员考试《行测》B卷第66题",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2004-B卷-67",
@@ -674,7 +722,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2004年国家公务员考试《行测》B卷第67题"
+    "source": "2004年国家公务员考试《行测》B卷第67题",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2004-B卷-68",
@@ -708,7 +758,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2004年国家公务员考试《行测》B卷第68题"
+    "source": "2004年国家公务员考试《行测》B卷第68题",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2004-B卷-69",
@@ -741,7 +793,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2004年国家公务员考试《行测》B卷第69题"
+    "source": "2004年国家公务员考试《行测》B卷第69题",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2004-B卷-70",
@@ -774,7 +828,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2004年国家公务员考试《行测》B卷第70题"
+    "source": "2004年国家公务员考试《行测》B卷第70题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2004-B卷-71",
@@ -807,7 +863,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2004年国家公务员考试《行测》B卷第71题"
+    "source": "2004年国家公务员考试《行测》B卷第71题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2004-B卷-72",
@@ -840,7 +898,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2004年国家公务员考试《行测》B卷第72题"
+    "source": "2004年国家公务员考试《行测》B卷第72题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2004-B卷-73",
@@ -873,7 +933,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2004年国家公务员考试《行测》B卷第73题"
+    "source": "2004年国家公务员考试《行测》B卷第73题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2004-B卷-74",
@@ -906,7 +968,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2004年国家公务员考试《行测》B卷第74题"
+    "source": "2004年国家公务员考试《行测》B卷第74题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2004-B卷-75",
@@ -940,7 +1004,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2004年国家公务员考试《行测》B卷第75题"
+    "source": "2004年国家公务员考试《行测》B卷第75题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2004-B卷-76",
@@ -974,7 +1040,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2004年国家公务员考试《行测》B卷第76题"
+    "source": "2004年国家公务员考试《行测》B卷第76题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2004-B卷-77",
@@ -1007,7 +1075,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2004年国家公务员考试《行测》B卷第77题"
+    "source": "2004年国家公务员考试《行测》B卷第77题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2004-B卷-78",
@@ -1041,7 +1111,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2004年国家公务员考试《行测》B卷第78题"
+    "source": "2004年国家公务员考试《行测》B卷第78题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2004-B卷-79",
@@ -1074,7 +1146,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2004年国家公务员考试《行测》B卷第79题"
+    "source": "2004年国家公务员考试《行测》B卷第79题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2004-B卷-80",
@@ -1107,7 +1181,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2004年国家公务员考试《行测》B卷第80题"
+    "source": "2004年国家公务员考试《行测》B卷第80题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2004-B卷-81",
@@ -1140,7 +1216,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2004年国家公务员考试《行测》B卷第81题"
+    "source": "2004年国家公务员考试《行测》B卷第81题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2004-B卷-82",
@@ -1171,7 +1249,9 @@
     "keyPoints": [],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2004年国家公务员考试《行测》B卷第82题"
+    "source": "2004年国家公务员考试《行测》B卷第82题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2004-B卷-83",
@@ -1205,7 +1285,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2004年国家公务员考试《行测》B卷第83题"
+    "source": "2004年国家公务员考试《行测》B卷第83题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2004-B卷-84",
@@ -1238,7 +1320,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2004年国家公务员考试《行测》B卷第84题"
+    "source": "2004年国家公务员考试《行测》B卷第84题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2005-一卷-51",
@@ -1253,7 +1337,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2005年国家公务员考试《行测》一卷第51题",
-    "isImageQuestion": true
+    "isImageQuestion": true,
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2005-一卷-52",
@@ -1270,7 +1356,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2005年国家公务员考试《行测》一卷第52题",
-    "isImageQuestion": true
+    "isImageQuestion": true,
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2005-一卷-53",
@@ -1285,7 +1373,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2005年国家公务员考试《行测》一卷第53题",
-    "isImageQuestion": true
+    "isImageQuestion": true,
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2005-一卷-54",
@@ -1319,7 +1409,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2005年国家公务员考试《行测》一卷第54题",
-    "isImageQuestion": true
+    "isImageQuestion": true,
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2005-一卷-55",
@@ -1337,7 +1429,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2005年国家公务员考试《行测》一卷第55题",
-    "isImageQuestion": true
+    "isImageQuestion": true,
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2005-一卷-56",
@@ -1354,7 +1448,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2005年国家公务员考试《行测》一卷第56题",
-    "isImageQuestion": true
+    "isImageQuestion": true,
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2005-一卷-57",
@@ -1369,7 +1465,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2005年国家公务员考试《行测》一卷第57题",
-    "isImageQuestion": true
+    "isImageQuestion": true,
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2005-一卷-58",
@@ -1384,7 +1482,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2005年国家公务员考试《行测》一卷第58题",
-    "isImageQuestion": true
+    "isImageQuestion": true,
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2005-一卷-59",
@@ -1399,7 +1499,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2005年国家公务员考试《行测》一卷第59题",
-    "isImageQuestion": true
+    "isImageQuestion": true,
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2005-一卷-60",
@@ -1414,7 +1516,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2005年国家公务员考试《行测》一卷第60题",
-    "isImageQuestion": true
+    "isImageQuestion": true,
+    "subModule": "图形推理",
+    "subModule_confidence": "low"
   },
   {
     "id": "gk-2005-一卷-61",
@@ -1448,7 +1552,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2005年国家公务员考试《行测》一卷第61题"
+    "source": "2005年国家公务员考试《行测》一卷第61题",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2005-一卷-62",
@@ -1482,7 +1588,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2005年国家公务员考试《行测》一卷第62题"
+    "source": "2005年国家公务员考试《行测》一卷第62题",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2005-一卷-63",
@@ -1517,7 +1625,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2005年国家公务员考试《行测》一卷第63题"
+    "source": "2005年国家公务员考试《行测》一卷第63题",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2005-一卷-64",
@@ -1552,7 +1662,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2005年国家公务员考试《行测》一卷第64题"
+    "source": "2005年国家公务员考试《行测》一卷第64题",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2005-一卷-65",
@@ -1587,7 +1699,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2005年国家公务员考试《行测》一卷第65题"
+    "source": "2005年国家公务员考试《行测》一卷第65题",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2005-一卷-66",
@@ -1618,7 +1732,9 @@
     "keyPoints": [],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2005年国家公务员考试《行测》一卷第66题"
+    "source": "2005年国家公务员考试《行测》一卷第66题",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2005-一卷-67",
@@ -1649,7 +1765,9 @@
     "keyPoints": [],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2005年国家公务员考试《行测》一卷第67题"
+    "source": "2005年国家公务员考试《行测》一卷第67题",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2005-一卷-68",
@@ -1682,7 +1800,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2005年国家公务员考试《行测》一卷第68题"
+    "source": "2005年国家公务员考试《行测》一卷第68题",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2005-一卷-69",
@@ -1717,7 +1837,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2005年国家公务员考试《行测》一卷第69题"
+    "source": "2005年国家公务员考试《行测》一卷第69题",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2005-一卷-70",
@@ -1752,7 +1874,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2005年国家公务员考试《行测》一卷第70题"
+    "source": "2005年国家公务员考试《行测》一卷第70题",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2005-一卷-71",
@@ -1783,7 +1907,9 @@
     "keyPoints": [],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2005年国家公务员考试《行测》一卷第71题"
+    "source": "2005年国家公务员考试《行测》一卷第71题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2005-一卷-72",
@@ -1814,7 +1940,9 @@
     "keyPoints": [],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2005年国家公务员考试《行测》一卷第72题"
+    "source": "2005年国家公务员考试《行测》一卷第72题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2005-一卷-73",
@@ -1847,7 +1975,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2005年国家公务员考试《行测》一卷第73题"
+    "source": "2005年国家公务员考试《行测》一卷第73题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2005-一卷-74",
@@ -1878,7 +2008,9 @@
     "keyPoints": [],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2005年国家公务员考试《行测》一卷第74题"
+    "source": "2005年国家公务员考试《行测》一卷第74题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2005-一卷-75",
@@ -1909,7 +2041,9 @@
     "keyPoints": [],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2005年国家公务员考试《行测》一卷第75题"
+    "source": "2005年国家公务员考试《行测》一卷第75题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2005-一卷-76",
@@ -1940,7 +2074,9 @@
     "keyPoints": [],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2005年国家公务员考试《行测》一卷第76题"
+    "source": "2005年国家公务员考试《行测》一卷第76题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2005-一卷-77",
@@ -1971,7 +2107,9 @@
     "keyPoints": [],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2005年国家公务员考试《行测》一卷第77题"
+    "source": "2005年国家公务员考试《行测》一卷第77题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "gk-2005-一卷-78",
@@ -2002,7 +2140,9 @@
     "keyPoints": [],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2005年国家公务员考试《行测》一卷第78题"
+    "source": "2005年国家公务员考试《行测》一卷第78题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2005-一卷-79",
@@ -2036,7 +2176,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2005年国家公务员考试《行测》一卷第79题"
+    "source": "2005年国家公务员考试《行测》一卷第79题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2005-一卷-80",
@@ -2067,7 +2209,9 @@
     "keyPoints": [],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2005年国家公务员考试《行测》一卷第80题"
+    "source": "2005年国家公务员考试《行测》一卷第80题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2005-一卷-81",
@@ -2102,7 +2246,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2005年国家公务员考试《行测》一卷第81题"
+    "source": "2005年国家公务员考试《行测》一卷第81题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2005-一卷-82",
@@ -2135,7 +2281,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2005年国家公务员考试《行测》一卷第82题"
+    "source": "2005年国家公务员考试《行测》一卷第82题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2005-一卷-83",
@@ -2166,7 +2314,9 @@
     "keyPoints": [],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2005年国家公务员考试《行测》一卷第83题"
+    "source": "2005年国家公务员考试《行测》一卷第83题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2005-一卷-84",
@@ -2197,7 +2347,9 @@
     "keyPoints": [],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2005年国家公务员考试《行测》一卷第84题"
+    "source": "2005年国家公务员考试《行测》一卷第84题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2005-一卷-85",
@@ -2230,7 +2382,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2005年国家公务员考试《行测》一卷第85题"
+    "source": "2005年国家公务员考试《行测》一卷第85题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2005-一卷-86",
@@ -2264,7 +2418,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2005年国家公务员考试《行测》一卷第86题"
+    "source": "2005年国家公务员考试《行测》一卷第86题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2005-一卷-87",
@@ -2295,7 +2451,9 @@
     "keyPoints": [],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2005年国家公务员考试《行测》一卷第87题"
+    "source": "2005年国家公务员考试《行测》一卷第87题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2005-一卷-88",
@@ -2326,7 +2484,9 @@
     "keyPoints": [],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2005年国家公务员考试《行测》一卷第88题"
+    "source": "2005年国家公务员考试《行测》一卷第88题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2005-一卷-89",
@@ -2359,7 +2519,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2005年国家公务员考试《行测》一卷第89题"
+    "source": "2005年国家公务员考试《行测》一卷第89题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2005-一卷-90",
@@ -2390,7 +2552,9 @@
     "keyPoints": [],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2005年国家公务员考试《行测》一卷第90题"
+    "source": "2005年国家公务员考试《行测》一卷第90题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2005-一卷-91",
@@ -2423,7 +2587,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2005年国家公务员考试《行测》一卷第91题"
+    "source": "2005年国家公务员考试《行测》一卷第91题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2005-一卷-92",
@@ -2454,7 +2620,9 @@
     "keyPoints": [],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2005年国家公务员考试《行测》一卷第92题"
+    "source": "2005年国家公务员考试《行测》一卷第92题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2005-一卷-93",
@@ -2485,7 +2653,9 @@
     "keyPoints": [],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2005年国家公务员考试《行测》一卷第93题"
+    "source": "2005年国家公务员考试《行测》一卷第93题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2005-一卷-94",
@@ -2516,7 +2686,9 @@
     "keyPoints": [],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2005年国家公务员考试《行测》一卷第94题"
+    "source": "2005年国家公务员考试《行测》一卷第94题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2005-一卷-95",
@@ -2547,7 +2719,9 @@
     "keyPoints": [],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2005年国家公务员考试《行测》一卷第95题"
+    "source": "2005年国家公务员考试《行测》一卷第95题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2005-二卷-51",
@@ -2562,7 +2736,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2005年国家公务员考试《行测》二卷第51题",
-    "isImageQuestion": true
+    "isImageQuestion": true,
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2005-二卷-52",
@@ -2577,7 +2753,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2005年国家公务员考试《行测》二卷第52题",
-    "isImageQuestion": true
+    "isImageQuestion": true,
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2005-二卷-53",
@@ -2592,7 +2770,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2005年国家公务员考试《行测》二卷第53题",
-    "isImageQuestion": true
+    "isImageQuestion": true,
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2005-二卷-54",
@@ -2624,7 +2804,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2005年国家公务员考试《行测》二卷第54题",
-    "isImageQuestion": true
+    "isImageQuestion": true,
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2005-二卷-55",
@@ -2639,7 +2821,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2005年国家公务员考试《行测》二卷第55题",
-    "isImageQuestion": true
+    "isImageQuestion": true,
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2005-二卷-56",
@@ -2654,7 +2838,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2005年国家公务员考试《行测》二卷第56题",
-    "isImageQuestion": true
+    "isImageQuestion": true,
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2005-二卷-57",
@@ -2671,7 +2857,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2005年国家公务员考试《行测》二卷第57题",
-    "isImageQuestion": true
+    "isImageQuestion": true,
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2005-二卷-58",
@@ -2688,7 +2876,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2005年国家公务员考试《行测》二卷第58题",
-    "isImageQuestion": true
+    "isImageQuestion": true,
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2005-二卷-59",
@@ -2705,7 +2895,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2005年国家公务员考试《行测》二卷第59题",
-    "isImageQuestion": true
+    "isImageQuestion": true,
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2005-二卷-60",
@@ -2722,7 +2914,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2005年国家公务员考试《行测》二卷第60题",
-    "isImageQuestion": true
+    "isImageQuestion": true,
+    "subModule": "图形推理",
+    "subModule_confidence": "low"
   },
   {
     "id": "gk-2005-二卷-61",
@@ -2755,7 +2949,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2005年国家公务员考试《行测》二卷第61题"
+    "source": "2005年国家公务员考试《行测》二卷第61题",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2005-二卷-62",
@@ -2789,7 +2985,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2005年国家公务员考试《行测》二卷第62题"
+    "source": "2005年国家公务员考试《行测》二卷第62题",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2005-二卷-63",
@@ -2822,7 +3020,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2005年国家公务员考试《行测》二卷第63题"
+    "source": "2005年国家公务员考试《行测》二卷第63题",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2005-二卷-64",
@@ -2857,7 +3057,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2005年国家公务员考试《行测》二卷第64题"
+    "source": "2005年国家公务员考试《行测》二卷第64题",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2005-二卷-65",
@@ -2891,7 +3093,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2005年国家公务员考试《行测》二卷第65题"
+    "source": "2005年国家公务员考试《行测》二卷第65题",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2005-二卷-66",
@@ -2924,7 +3128,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2005年国家公务员考试《行测》二卷第66题"
+    "source": "2005年国家公务员考试《行测》二卷第66题",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2005-二卷-67",
@@ -2955,7 +3161,9 @@
     "keyPoints": [],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2005年国家公务员考试《行测》二卷第67题"
+    "source": "2005年国家公务员考试《行测》二卷第67题",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2005-二卷-68",
@@ -2988,7 +3196,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2005年国家公务员考试《行测》二卷第68题"
+    "source": "2005年国家公务员考试《行测》二卷第68题",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2005-二卷-69",
@@ -3019,7 +3229,9 @@
     "keyPoints": [],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2005年国家公务员考试《行测》二卷第69题"
+    "source": "2005年国家公务员考试《行测》二卷第69题",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2005-二卷-70",
@@ -3054,7 +3266,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2005年国家公务员考试《行测》二卷第70题"
+    "source": "2005年国家公务员考试《行测》二卷第70题",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2005-二卷-71",
@@ -3087,7 +3301,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2005年国家公务员考试《行测》二卷第71题"
+    "source": "2005年国家公务员考试《行测》二卷第71题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2005-二卷-72",
@@ -3118,7 +3334,9 @@
     "keyPoints": [],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2005年国家公务员考试《行测》二卷第72题"
+    "source": "2005年国家公务员考试《行测》二卷第72题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2005-二卷-73",
@@ -3149,7 +3367,9 @@
     "keyPoints": [],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2005年国家公务员考试《行测》二卷第73题"
+    "source": "2005年国家公务员考试《行测》二卷第73题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2005-二卷-74",
@@ -3180,7 +3400,9 @@
     "keyPoints": [],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2005年国家公务员考试《行测》二卷第74题"
+    "source": "2005年国家公务员考试《行测》二卷第74题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2005-二卷-75",
@@ -3214,7 +3436,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2005年国家公务员考试《行测》二卷第75题"
+    "source": "2005年国家公务员考试《行测》二卷第75题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2005-二卷-76",
@@ -3245,7 +3469,9 @@
     "keyPoints": [],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2005年国家公务员考试《行测》二卷第76题"
+    "source": "2005年国家公务员考试《行测》二卷第76题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2005-二卷-77",
@@ -3279,7 +3505,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2005年国家公务员考试《行测》二卷第77题"
+    "source": "2005年国家公务员考试《行测》二卷第77题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2005-二卷-78",
@@ -3310,7 +3538,9 @@
     "keyPoints": [],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2005年国家公务员考试《行测》二卷第78题"
+    "source": "2005年国家公务员考试《行测》二卷第78题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2005-二卷-79",
@@ -3343,7 +3573,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2005年国家公务员考试《行测》二卷第79题"
+    "source": "2005年国家公务员考试《行测》二卷第79题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "gk-2005-二卷-80",
@@ -3377,7 +3609,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2005年国家公务员考试《行测》二卷第80题"
+    "source": "2005年国家公务员考试《行测》二卷第80题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2005-二卷-81",
@@ -3410,7 +3644,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2005年国家公务员考试《行测》二卷第81题"
+    "source": "2005年国家公务员考试《行测》二卷第81题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2005-二卷-82",
@@ -3443,7 +3679,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2005年国家公务员考试《行测》二卷第82题"
+    "source": "2005年国家公务员考试《行测》二卷第82题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2005-二卷-83",
@@ -3474,7 +3712,9 @@
     "keyPoints": [],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2005年国家公务员考试《行测》二卷第83题"
+    "source": "2005年国家公务员考试《行测》二卷第83题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2005-二卷-84",
@@ -3505,7 +3745,9 @@
     "keyPoints": [],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2005年国家公务员考试《行测》二卷第84题"
+    "source": "2005年国家公务员考试《行测》二卷第84题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2005-二卷-85",
@@ -3538,7 +3780,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2005年国家公务员考试《行测》二卷第85题"
+    "source": "2005年国家公务员考试《行测》二卷第85题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2005-二卷-86",
@@ -3569,7 +3813,9 @@
     "keyPoints": [],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2005年国家公务员考试《行测》二卷第86题"
+    "source": "2005年国家公务员考试《行测》二卷第86题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2005-二卷-87",
@@ -3603,7 +3849,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2005年国家公务员考试《行测》二卷第87题"
+    "source": "2005年国家公务员考试《行测》二卷第87题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2005-二卷-88",
@@ -3636,7 +3884,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2005年国家公务员考试《行测》二卷第88题"
+    "source": "2005年国家公务员考试《行测》二卷第88题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2005-二卷-89",
@@ -3667,7 +3917,9 @@
     "keyPoints": [],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2005年国家公务员考试《行测》二卷第89题"
+    "source": "2005年国家公务员考试《行测》二卷第89题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2005-二卷-90",
@@ -3701,7 +3953,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2005年国家公务员考试《行测》二卷第90题"
+    "source": "2005年国家公务员考试《行测》二卷第90题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2005-二卷-91",
@@ -3732,7 +3986,9 @@
     "keyPoints": [],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2005年国家公务员考试《行测》二卷第91题"
+    "source": "2005年国家公务员考试《行测》二卷第91题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2005-二卷-92",
@@ -3766,7 +4022,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2005年国家公务员考试《行测》二卷第92题"
+    "source": "2005年国家公务员考试《行测》二卷第92题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2005-二卷-93",
@@ -3797,7 +4055,9 @@
     "keyPoints": [],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2005年国家公务员考试《行测》二卷第93题"
+    "source": "2005年国家公务员考试《行测》二卷第93题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2005-二卷-94",
@@ -3830,7 +4090,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2005年国家公务员考试《行测》二卷第94题"
+    "source": "2005年国家公务员考试《行测》二卷第94题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2005-二卷-95",
@@ -3863,7 +4125,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2005年国家公务员考试《行测》二卷第95题"
+    "source": "2005年国家公务员考试《行测》二卷第95题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2006-一卷-51",
@@ -3878,7 +4142,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2006年国家公务员考试《行测》一卷第51题",
-    "isImageQuestion": true
+    "isImageQuestion": true,
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2006-一卷-52",
@@ -3893,7 +4159,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2006年国家公务员考试《行测》一卷第52题",
-    "isImageQuestion": true
+    "isImageQuestion": true,
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2006-一卷-53",
@@ -3908,7 +4176,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2006年国家公务员考试《行测》一卷第53题",
-    "isImageQuestion": true
+    "isImageQuestion": true,
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2006-一卷-54",
@@ -3923,7 +4193,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2006年国家公务员考试《行测》一卷第54题",
-    "isImageQuestion": true
+    "isImageQuestion": true,
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2006-一卷-55",
@@ -3957,7 +4229,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2006年国家公务员考试《行测》一卷第55题",
-    "isImageQuestion": true
+    "isImageQuestion": true,
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2006-一卷-56",
@@ -3974,7 +4248,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2006年国家公务员考试《行测》一卷第56题",
-    "isImageQuestion": true
+    "isImageQuestion": true,
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2006-一卷-57",
@@ -3991,7 +4267,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2006年国家公务员考试《行测》一卷第57题",
-    "isImageQuestion": true
+    "isImageQuestion": true,
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2006-一卷-58",
@@ -4006,7 +4284,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2006年国家公务员考试《行测》一卷第58题",
-    "isImageQuestion": true
+    "isImageQuestion": true,
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2006-一卷-59",
@@ -4023,7 +4303,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2006年国家公务员考试《行测》一卷第59题",
-    "isImageQuestion": true
+    "isImageQuestion": true,
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2006-一卷-60",
@@ -4041,7 +4323,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2006年国家公务员考试《行测》一卷第60题",
-    "isImageQuestion": true
+    "isImageQuestion": true,
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2006-一卷-61",
@@ -4076,7 +4360,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2006年国家公务员考试《行测》一卷第61题"
+    "source": "2006年国家公务员考试《行测》一卷第61题",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2006-一卷-62",
@@ -4110,7 +4396,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2006年国家公务员考试《行测》一卷第62题"
+    "source": "2006年国家公务员考试《行测》一卷第62题",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2006-一卷-63",
@@ -4141,7 +4429,9 @@
     "keyPoints": [],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2006年国家公务员考试《行测》一卷第63题"
+    "source": "2006年国家公务员考试《行测》一卷第63题",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2006-一卷-64",
@@ -4174,7 +4464,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2006年国家公务员考试《行测》一卷第64题"
+    "source": "2006年国家公务员考试《行测》一卷第64题",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2006-一卷-65",
@@ -4209,7 +4501,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2006年国家公务员考试《行测》一卷第65题"
+    "source": "2006年国家公务员考试《行测》一卷第65题",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2006-一卷-66",
@@ -4242,7 +4536,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2006年国家公务员考试《行测》一卷第66题"
+    "source": "2006年国家公务员考试《行测》一卷第66题",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2006-一卷-67",
@@ -4273,7 +4569,9 @@
     "keyPoints": [],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2006年国家公务员考试《行测》一卷第67题"
+    "source": "2006年国家公务员考试《行测》一卷第67题",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2006-一卷-68",
@@ -4308,7 +4606,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2006年国家公务员考试《行测》一卷第68题"
+    "source": "2006年国家公务员考试《行测》一卷第68题",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2006-一卷-69",
@@ -4339,7 +4639,9 @@
     "keyPoints": [],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2006年国家公务员考试《行测》一卷第69题"
+    "source": "2006年国家公务员考试《行测》一卷第69题",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2006-一卷-70",
@@ -4372,7 +4674,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2006年国家公务员考试《行测》一卷第70题"
+    "source": "2006年国家公务员考试《行测》一卷第70题",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2006-一卷-71",
@@ -4403,7 +4707,9 @@
     "keyPoints": [],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2006年国家公务员考试《行测》一卷第71题"
+    "source": "2006年国家公务员考试《行测》一卷第71题",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2006-一卷-72",
@@ -4436,7 +4742,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2006年国家公务员考试《行测》一卷第72题"
+    "source": "2006年国家公务员考试《行测》一卷第72题",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2006-一卷-73",
@@ -4469,7 +4777,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2006年国家公务员考试《行测》一卷第73题"
+    "source": "2006年国家公务员考试《行测》一卷第73题",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2006-一卷-74",
@@ -4502,7 +4812,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2006年国家公务员考试《行测》一卷第74题"
+    "source": "2006年国家公务员考试《行测》一卷第74题",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2006-一卷-75",
@@ -4533,7 +4845,9 @@
     "keyPoints": [],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2006年国家公务员考试《行测》一卷第75题"
+    "source": "2006年国家公务员考试《行测》一卷第75题",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2006-一卷-76",
@@ -4567,7 +4881,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2006年国家公务员考试《行测》一卷第76题"
+    "source": "2006年国家公务员考试《行测》一卷第76题",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2006-一卷-77",
@@ -4601,7 +4917,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2006年国家公务员考试《行测》一卷第77题"
+    "source": "2006年国家公务员考试《行测》一卷第77题",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2006-一卷-78",
@@ -4636,7 +4954,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2006年国家公务员考试《行测》一卷第78题"
+    "source": "2006年国家公务员考试《行测》一卷第78题",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2006-一卷-79",
@@ -4669,7 +4989,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2006年国家公务员考试《行测》一卷第79题"
+    "source": "2006年国家公务员考试《行测》一卷第79题",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2006-一卷-80",
@@ -4703,7 +5025,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2006年国家公务员考试《行测》一卷第80题"
+    "source": "2006年国家公务员考试《行测》一卷第80题",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2006-一卷-81",
@@ -4736,7 +5060,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2006年国家公务员考试《行测》一卷第81题"
+    "source": "2006年国家公务员考试《行测》一卷第81题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2006-一卷-82",
@@ -4769,7 +5095,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2006年国家公务员考试《行测》一卷第82题"
+    "source": "2006年国家公务员考试《行测》一卷第82题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2006-一卷-83",
@@ -4802,7 +5130,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2006年国家公务员考试《行测》一卷第83题"
+    "source": "2006年国家公务员考试《行测》一卷第83题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2006-一卷-84",
@@ -4836,7 +5166,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2006年国家公务员考试《行测》一卷第84题"
+    "source": "2006年国家公务员考试《行测》一卷第84题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2006-一卷-85",
@@ -4870,7 +5202,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2006年国家公务员考试《行测》一卷第85题"
+    "source": "2006年国家公务员考试《行测》一卷第85题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2006-一卷-86",
@@ -4904,7 +5238,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2006年国家公务员考试《行测》一卷第86题"
+    "source": "2006年国家公务员考试《行测》一卷第86题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2006-一卷-87",
@@ -4935,7 +5271,9 @@
     "keyPoints": [],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2006年国家公务员考试《行测》一卷第87题"
+    "source": "2006年国家公务员考试《行测》一卷第87题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2006-一卷-88",
@@ -4966,7 +5304,9 @@
     "keyPoints": [],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2006年国家公务员考试《行测》一卷第88题"
+    "source": "2006年国家公务员考试《行测》一卷第88题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2006-一卷-89",
@@ -4999,7 +5339,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2006年国家公务员考试《行测》一卷第89题"
+    "source": "2006年国家公务员考试《行测》一卷第89题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2006-一卷-90",
@@ -5030,7 +5372,9 @@
     "keyPoints": [],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2006年国家公务员考试《行测》一卷第90题"
+    "source": "2006年国家公务员考试《行测》一卷第90题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2006-一卷-91",
@@ -5061,7 +5405,9 @@
     "keyPoints": [],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2006年国家公务员考试《行测》一卷第91题"
+    "source": "2006年国家公务员考试《行测》一卷第91题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2006-一卷-92",
@@ -5092,7 +5438,9 @@
     "keyPoints": [],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2006年国家公务员考试《行测》一卷第92题"
+    "source": "2006年国家公务员考试《行测》一卷第92题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2006-一卷-93",
@@ -5123,7 +5471,9 @@
     "keyPoints": [],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2006年国家公务员考试《行测》一卷第93题"
+    "source": "2006年国家公务员考试《行测》一卷第93题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2006-一卷-94",
@@ -5156,7 +5506,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2006年国家公务员考试《行测》一卷第94题"
+    "source": "2006年国家公务员考试《行测》一卷第94题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2006-一卷-95",
@@ -5189,7 +5541,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2006年国家公务员考试《行测》一卷第95题"
+    "source": "2006年国家公务员考试《行测》一卷第95题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2006-一卷-96",
@@ -5222,7 +5576,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2006年国家公务员考试《行测》一卷第96题"
+    "source": "2006年国家公务员考试《行测》一卷第96题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "gk-2006-一卷-97",
@@ -5256,7 +5612,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2006年国家公务员考试《行测》一卷第97题"
+    "source": "2006年国家公务员考试《行测》一卷第97题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "gk-2006-一卷-98",
@@ -5290,7 +5648,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2006年国家公务员考试《行测》一卷第98题"
+    "source": "2006年国家公务员考试《行测》一卷第98题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "gk-2006-一卷-99",
@@ -5323,7 +5683,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2006年国家公务员考试《行测》一卷第99题"
+    "source": "2006年国家公务员考试《行测》一卷第99题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "gk-2006-一卷-100",
@@ -5357,7 +5719,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2006年国家公务员考试《行测》一卷第100题"
+    "source": "2006年国家公务员考试《行测》一卷第100题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "gk-2006-一卷-101",
@@ -5390,7 +5754,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2006年国家公务员考试《行测》一卷第101题"
+    "source": "2006年国家公务员考试《行测》一卷第101题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "gk-2006-一卷-102",
@@ -5424,7 +5790,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2006年国家公务员考试《行测》一卷第102题"
+    "source": "2006年国家公务员考试《行测》一卷第102题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2006-一卷-103",
@@ -5458,7 +5826,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2006年国家公务员考试《行测》一卷第103题"
+    "source": "2006年国家公务员考试《行测》一卷第103题",
+    "subModule": "定义判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "gk-2006-一卷-104",
@@ -5492,7 +5862,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2006年国家公务员考试《行测》一卷第104题"
+    "source": "2006年国家公务员考试《行测》一卷第104题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "gk-2006-一卷-105",
@@ -5525,7 +5897,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2006年国家公务员考试《行测》一卷第105题"
+    "source": "2006年国家公务员考试《行测》一卷第105题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "gk-2006-一卷-106",
@@ -5558,7 +5932,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2006年国家公务员考试《行测》一卷第106题"
+    "source": "2006年国家公务员考试《行测》一卷第106题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "gk-2006-一卷-107",
@@ -5591,7 +5967,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2006年国家公务员考试《行测》一卷第107题"
+    "source": "2006年国家公务员考试《行测》一卷第107题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "gk-2006-一卷-108",
@@ -5625,7 +6003,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2006年国家公务员考试《行测》一卷第108题"
+    "source": "2006年国家公务员考试《行测》一卷第108题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "gk-2006-一卷-109",
@@ -5659,7 +6039,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2006年国家公务员考试《行测》一卷第109题"
+    "source": "2006年国家公务员考试《行测》一卷第109题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "gk-2006-一卷-110",
@@ -5692,7 +6074,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2006年国家公务员考试《行测》一卷第110题"
+    "source": "2006年国家公务员考试《行测》一卷第110题",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2006-一卷-111",
@@ -5726,7 +6110,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2006年国家公务员考试《行测》一卷第111题"
+    "source": "2006年国家公务员考试《行测》一卷第111题",
+    "subModule": "定义判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "gk-2006-一卷-112",
@@ -5760,7 +6146,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2006年国家公务员考试《行测》一卷第112题"
+    "source": "2006年国家公务员考试《行测》一卷第112题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "gk-2006-一卷-113",
@@ -5791,7 +6179,9 @@
     "keyPoints": [],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2006年国家公务员考试《行测》一卷第113题"
+    "source": "2006年国家公务员考试《行测》一卷第113题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "gk-2006-一卷-114",
@@ -5825,7 +6215,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2006年国家公务员考试《行测》一卷第114题"
+    "source": "2006年国家公务员考试《行测》一卷第114题",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2006-一卷-115",
@@ -5860,7 +6252,9 @@
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
-    "source": "2006年国家公务员考试《行测》一卷第115题"
+    "source": "2006年国家公务员考试《行测》一卷第115题",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "low"
   },
   {
     "id": "gk-2007-未标注-61",
@@ -5879,7 +6273,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2007年国家公务员考试《行测》未标注第61题",
-    "isImageQuestion": true
+    "isImageQuestion": true,
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2007-未标注-62",
@@ -5897,7 +6293,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2007年国家公务员考试《行测》未标注第62题",
-    "isImageQuestion": true
+    "isImageQuestion": true,
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "gk-2007-未标注-63",
@@ -5915,6 +6313,8 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2007年国家公务员考试《行测》未标注第63题",
-    "isImageQuestion": true
+    "isImageQuestion": true,
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   }
 ]

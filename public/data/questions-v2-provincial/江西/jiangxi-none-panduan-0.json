@@ -16,7 +16,9 @@
     "difficulty": "中等",
     "source": "2006年江西公务员考试《行测》第55题",
     "isImageQuestion": true,
-    "province": "江西"
+    "province": "江西",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2006-未标注-56",
@@ -32,7 +34,9 @@
     "difficulty": "中等",
     "source": "2006年江西公务员考试《行测》第56题",
     "isImageQuestion": true,
-    "province": "江西"
+    "province": "江西",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2006-未标注-57",
@@ -48,7 +52,9 @@
     "difficulty": "中等",
     "source": "2006年江西公务员考试《行测》第57题",
     "isImageQuestion": true,
-    "province": "江西"
+    "province": "江西",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2006-未标注-58",
@@ -83,7 +89,9 @@
     "difficulty": "中等",
     "source": "2006年江西公务员考试《行测》第58题",
     "isImageQuestion": true,
-    "province": "江西"
+    "province": "江西",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2006-未标注-59",
@@ -99,7 +107,9 @@
     "difficulty": "中等",
     "source": "2006年江西公务员考试《行测》第59题",
     "isImageQuestion": true,
-    "province": "江西"
+    "province": "江西",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2006-未标注-60",
@@ -117,7 +127,9 @@
     "difficulty": "中等",
     "source": "2006年江西公务员考试《行测》第60题",
     "isImageQuestion": true,
-    "province": "江西"
+    "province": "江西",
+    "subModule": "图形推理",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-jiangxi-2006-未标注-61",
@@ -149,7 +161,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2006年江西公务员考试《行测》第61题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2006-未标注-62",
@@ -183,7 +197,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2006年江西公务员考试《行测》第62题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2006-未标注-63",
@@ -218,7 +234,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2006年江西公务员考试《行测》第63题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2006-未标注-64",
@@ -252,7 +270,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2006年江西公务员考试《行测》第64题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2006-未标注-65",
@@ -284,7 +304,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2006年江西公务员考试《行测》第65题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2006-未标注-66",
@@ -316,7 +338,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2006年江西公务员考试《行测》第66题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2006-未标注-67",
@@ -351,7 +375,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2006年江西公务员考试《行测》第67题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2006-未标注-68",
@@ -383,7 +409,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2006年江西公务员考试《行测》第68题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2006-未标注-69",
@@ -415,7 +443,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2006年江西公务员考试《行测》第69题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2006-未标注-70",
@@ -447,7 +477,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2006年江西公务员考试《行测》第70题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2006-未标注-71",
@@ -481,7 +513,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2006年江西公务员考试《行测》第71题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2006-未标注-72",
@@ -515,7 +549,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2006年江西公务员考试《行测》第72题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2006-未标注-73",
@@ -547,7 +583,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2006年江西公务员考试《行测》第73题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2006-未标注-74",
@@ -582,7 +620,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2006年江西公务员考试《行测》第74题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2006-未标注-75",
@@ -614,7 +654,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2006年江西公务员考试《行测》第75题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2006-未标注-76",
@@ -648,7 +690,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2006年江西公务员考试《行测》第76题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2006-未标注-77",
@@ -680,7 +724,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2006年江西公务员考试《行测》第77题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2006-未标注-78",
@@ -714,7 +760,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2006年江西公务员考试《行测》第78题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2006-未标注-79",
@@ -750,7 +798,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2006年江西公务员考试《行测》第79题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2006-未标注-80",
@@ -784,7 +834,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2006年江西公务员考试《行测》第80题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2006-未标注-81",
@@ -818,7 +870,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2006年江西公务员考试《行测》第81题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2006-未标注-82",
@@ -853,7 +907,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2006年江西公务员考试《行测》第82题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2006-未标注-83",
@@ -885,7 +941,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2006年江西公务员考试《行测》第83题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2006-未标注-84",
@@ -917,7 +975,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2006年江西公务员考试《行测》第84题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2006-未标注-85",
@@ -951,7 +1011,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2006年江西公务员考试《行测》第85题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2006-未标注-86",
@@ -986,7 +1048,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2006年江西公务员考试《行测》第86题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2006-未标注-87",
@@ -1021,7 +1085,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2006年江西公务员考试《行测》第87题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2006-未标注-88",
@@ -1055,7 +1121,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2006年江西公务员考试《行测》第88题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2006-未标注-89",
@@ -1087,7 +1155,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2006年江西公务员考试《行测》第89题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2006-未标注-90",
@@ -1119,7 +1189,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2006年江西公务员考试《行测》第90题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2006-未标注-91",
@@ -1151,7 +1223,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2006年江西公务员考试《行测》第91题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2006-未标注-92",
@@ -1183,7 +1257,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2006年江西公务员考试《行测》第92题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2006-未标注-93",
@@ -1215,7 +1291,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2006年江西公务员考试《行测》第93题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2006-未标注-94",
@@ -1249,7 +1327,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2006年江西公务员考试《行测》第94题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2006-未标注-95",
@@ -1281,7 +1361,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2006年江西公务员考试《行测》第95题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2008-未标注-46",
@@ -1299,7 +1381,9 @@
     "difficulty": "中等",
     "source": "2008年江西公务员考试《行测》第46题",
     "isImageQuestion": true,
-    "province": "江西"
+    "province": "江西",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2008-未标注-47",
@@ -1317,7 +1401,9 @@
     "difficulty": "中等",
     "source": "2008年江西公务员考试《行测》第47题",
     "isImageQuestion": true,
-    "province": "江西"
+    "province": "江西",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2008-未标注-48",
@@ -1336,7 +1422,9 @@
     "difficulty": "中等",
     "source": "2008年江西公务员考试《行测》第48题",
     "isImageQuestion": true,
-    "province": "江西"
+    "province": "江西",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2008-未标注-49",
@@ -1356,7 +1444,9 @@
     "difficulty": "中等",
     "source": "2008年江西公务员考试《行测》第49题",
     "isImageQuestion": true,
-    "province": "江西"
+    "province": "江西",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2008-未标注-50",
@@ -1389,7 +1479,9 @@
     "difficulty": "中等",
     "source": "2008年江西公务员考试《行测》第50题",
     "isImageQuestion": true,
-    "province": "江西"
+    "province": "江西",
+    "subModule": "图形推理",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-jiangxi-2008-未标注-51",
@@ -1408,7 +1500,9 @@
     "difficulty": "中等",
     "source": "2008年江西公务员考试《行测》第51题",
     "isImageQuestion": true,
-    "province": "江西"
+    "province": "江西",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2008-未标注-52",
@@ -1423,7 +1517,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2008年江西公务员考试《行测》第52题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "图形推理",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-jiangxi-2008-未标注-53",
@@ -1439,7 +1535,9 @@
     "difficulty": "中等",
     "source": "2008年江西公务员考试《行测》第53题",
     "isImageQuestion": true,
-    "province": "江西"
+    "province": "江西",
+    "subModule": "图形推理",
+    "subModule_confidence": "low"
   },
   {
     "id": "prov-jiangxi-2008-未标注-54",
@@ -1458,7 +1556,9 @@
     "difficulty": "中等",
     "source": "2008年江西公务员考试《行测》第54题",
     "isImageQuestion": true,
-    "province": "江西"
+    "province": "江西",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2008-未标注-55",
@@ -1477,7 +1577,9 @@
     "difficulty": "中等",
     "source": "2008年江西公务员考试《行测》第55题",
     "isImageQuestion": true,
-    "province": "江西"
+    "province": "江西",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2008-未标注-56",
@@ -1513,7 +1615,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2008年江西公务员考试《行测》第56题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2008-未标注-57",
@@ -1545,7 +1649,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2008年江西公务员考试《行测》第57题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2008-未标注-58",
@@ -1580,7 +1686,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2008年江西公务员考试《行测》第58题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2008-未标注-59",
@@ -1615,7 +1723,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2008年江西公务员考试《行测》第59题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2008-未标注-60",
@@ -1647,7 +1757,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2008年江西公务员考试《行测》第60题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2008-未标注-61",
@@ -1682,7 +1794,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2008年江西公务员考试《行测》第61题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2008-未标注-62",
@@ -1718,7 +1832,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2008年江西公务员考试《行测》第62题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2008-未标注-63",
@@ -1754,7 +1870,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2008年江西公务员考试《行测》第63题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2008-未标注-64",
@@ -1786,7 +1904,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2008年江西公务员考试《行测》第64题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2008-未标注-65",
@@ -1822,7 +1942,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2008年江西公务员考试《行测》第65题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2008-未标注-66",
@@ -1854,7 +1976,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2008年江西公务员考试《行测》第66题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2008-未标注-67",
@@ -1890,7 +2014,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2008年江西公务员考试《行测》第67题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2008-未标注-68",
@@ -1925,7 +2051,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2008年江西公务员考试《行测》第68题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2008-未标注-69",
@@ -1961,7 +2089,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2008年江西公务员考试《行测》第69题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2008-未标注-70",
@@ -1996,7 +2126,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2008年江西公务员考试《行测》第70题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2008-未标注-71",
@@ -2030,7 +2162,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2008年江西公务员考试《行测》第71题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2008-未标注-72",
@@ -2065,7 +2199,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2008年江西公务员考试《行测》第72题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2008-未标注-73",
@@ -2100,7 +2236,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2008年江西公务员考试《行测》第73题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2008-未标注-74",
@@ -2135,7 +2273,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2008年江西公务员考试《行测》第74题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2008-未标注-75",
@@ -2167,7 +2307,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2008年江西公务员考试《行测》第75题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2008-未标注-76",
@@ -2201,7 +2343,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2008年江西公务员考试《行测》第76题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2008-未标注-77",
@@ -2237,7 +2381,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2008年江西公务员考试《行测》第77题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2008-未标注-78",
@@ -2272,7 +2418,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2008年江西公务员考试《行测》第78题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2008-未标注-79",
@@ -2304,7 +2452,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2008年江西公务员考试《行测》第79题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2008-未标注-80",
@@ -2338,7 +2488,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2008年江西公务员考试《行测》第80题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2009-未标注-46",
@@ -2356,7 +2508,9 @@
     "difficulty": "中等",
     "source": "2009年江西公务员考试《行测》第46题",
     "isImageQuestion": true,
-    "province": "江西"
+    "province": "江西",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2009-未标注-47",
@@ -2375,7 +2529,9 @@
     "difficulty": "中等",
     "source": "2009年江西公务员考试《行测》第47题",
     "isImageQuestion": true,
-    "province": "江西"
+    "province": "江西",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2009-未标注-48",
@@ -2393,7 +2549,9 @@
     "difficulty": "中等",
     "source": "2009年江西公务员考试《行测》第48题",
     "isImageQuestion": true,
-    "province": "江西"
+    "province": "江西",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2009-未标注-49",
@@ -2411,7 +2569,9 @@
     "difficulty": "中等",
     "source": "2009年江西公务员考试《行测》第49题",
     "isImageQuestion": true,
-    "province": "江西"
+    "province": "江西",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2009-未标注-50",
@@ -2429,7 +2589,9 @@
     "difficulty": "中等",
     "source": "2009年江西公务员考试《行测》第50题",
     "isImageQuestion": true,
-    "province": "江西"
+    "province": "江西",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2009-未标注-51",
@@ -2463,7 +2625,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年江西公务员考试《行测》第51题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2009-未标注-52",
@@ -2497,7 +2661,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年江西公务员考试《行测》第52题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2009-未标注-53",
@@ -2531,7 +2697,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年江西公务员考试《行测》第53题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2009-未标注-54",
@@ -2563,7 +2731,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年江西公务员考试《行测》第54题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2009-未标注-55",
@@ -2597,7 +2767,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年江西公务员考试《行测》第55题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2009-未标注-56",
@@ -2629,7 +2801,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年江西公务员考试《行测》第56题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2009-未标注-57",
@@ -2661,7 +2835,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年江西公务员考试《行测》第57题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2009-未标注-58",
@@ -2696,7 +2872,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年江西公务员考试《行测》第58题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2009-未标注-59",
@@ -2728,7 +2906,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年江西公务员考试《行测》第59题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2009-未标注-60",
@@ -2760,7 +2940,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年江西公务员考试《行测》第60题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2009-未标注-61",
@@ -2794,7 +2976,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年江西公务员考试《行测》第61题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2009-未标注-62",
@@ -2828,7 +3012,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年江西公务员考试《行测》第62题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2009-未标注-63",
@@ -2862,7 +3048,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年江西公务员考试《行测》第63题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2009-未标注-64",
@@ -2896,7 +3084,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年江西公务员考试《行测》第64题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2009-未标注-65",
@@ -2930,7 +3120,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年江西公务员考试《行测》第65题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2009-未标注-66",
@@ -2964,7 +3156,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年江西公务员考试《行测》第66题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2009-未标注-67",
@@ -2998,7 +3192,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年江西公务员考试《行测》第67题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2009-未标注-68",
@@ -3030,7 +3226,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年江西公务员考试《行测》第68题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2009-未标注-69",
@@ -3064,7 +3262,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年江西公务员考试《行测》第69题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2009-未标注-70",
@@ -3098,7 +3298,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年江西公务员考试《行测》第70题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2009-未标注-71",
@@ -3132,7 +3334,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年江西公务员考试《行测》第71题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2009-未标注-72",
@@ -3166,7 +3370,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年江西公务员考试《行测》第72题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2009-未标注-73",
@@ -3200,7 +3406,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年江西公务员考试《行测》第73题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2009-未标注-74",
@@ -3234,7 +3442,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年江西公务员考试《行测》第74题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2009-未标注-75",
@@ -3268,7 +3478,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年江西公务员考试《行测》第75题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2009-未标注-76",
@@ -3302,7 +3514,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年江西公务员考试《行测》第76题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2009-未标注-77",
@@ -3336,7 +3550,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年江西公务员考试《行测》第77题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2009-未标注-78",
@@ -3370,7 +3586,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年江西公务员考试《行测》第78题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2009-未标注-79",
@@ -3404,7 +3622,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年江西公务员考试《行测》第79题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2009-未标注-80",
@@ -3436,7 +3656,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2009年江西公务员考试《行测》第80题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2010-未标注-56",
@@ -3455,7 +3677,9 @@
     "difficulty": "中等",
     "source": "2010年江西公务员考试《行测》第56题",
     "isImageQuestion": true,
-    "province": "江西"
+    "province": "江西",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2010-未标注-57",
@@ -3474,7 +3698,9 @@
     "difficulty": "中等",
     "source": "2010年江西公务员考试《行测》第57题",
     "isImageQuestion": true,
-    "province": "江西"
+    "province": "江西",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2010-未标注-58",
@@ -3492,7 +3718,9 @@
     "difficulty": "中等",
     "source": "2010年江西公务员考试《行测》第58题",
     "isImageQuestion": true,
-    "province": "江西"
+    "province": "江西",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2010-未标注-59",
@@ -3511,7 +3739,9 @@
     "difficulty": "中等",
     "source": "2010年江西公务员考试《行测》第59题",
     "isImageQuestion": true,
-    "province": "江西"
+    "province": "江西",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2010-未标注-60",
@@ -3530,7 +3760,9 @@
     "difficulty": "中等",
     "source": "2010年江西公务员考试《行测》第60题",
     "isImageQuestion": true,
-    "province": "江西"
+    "province": "江西",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2010-未标注-61",
@@ -3566,7 +3798,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年江西公务员考试《行测》第61题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2010-未标注-62",
@@ -3602,7 +3836,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年江西公务员考试《行测》第62题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2010-未标注-63",
@@ -3637,7 +3873,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年江西公务员考试《行测》第63题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2010-未标注-64",
@@ -3672,7 +3910,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年江西公务员考试《行测》第64题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2010-未标注-65",
@@ -3708,7 +3948,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年江西公务员考试《行测》第65题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2010-未标注-66",
@@ -3744,7 +3986,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年江西公务员考试《行测》第66题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2010-未标注-67",
@@ -3780,7 +4024,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年江西公务员考试《行测》第67题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2010-未标注-68",
@@ -3815,7 +4061,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年江西公务员考试《行测》第68题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2010-未标注-69",
@@ -3851,7 +4099,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年江西公务员考试《行测》第69题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2010-未标注-70",
@@ -3887,7 +4137,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年江西公务员考试《行测》第70题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2010-未标注-71",
@@ -3923,7 +4175,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年江西公务员考试《行测》第71题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2010-未标注-72",
@@ -3959,7 +4213,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年江西公务员考试《行测》第72题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2010-未标注-73",
@@ -3995,7 +4251,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年江西公务员考试《行测》第73题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2010-未标注-74",
@@ -4030,7 +4288,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年江西公务员考试《行测》第74题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2010-未标注-75",
@@ -4066,7 +4326,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年江西公务员考试《行测》第75题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2010-未标注-76",
@@ -4102,7 +4364,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年江西公务员考试《行测》第76题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2010-未标注-77",
@@ -4138,7 +4402,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年江西公务员考试《行测》第77题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2010-未标注-78",
@@ -4173,7 +4439,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年江西公务员考试《行测》第78题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2010-未标注-79",
@@ -4209,7 +4477,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年江西公务员考试《行测》第79题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2010-未标注-80",
@@ -4245,7 +4515,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年江西公务员考试《行测》第80题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2010-未标注-81",
@@ -4280,7 +4552,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年江西公务员考试《行测》第81题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2010-未标注-82",
@@ -4316,7 +4590,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年江西公务员考试《行测》第82题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2010-未标注-83",
@@ -4352,7 +4628,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年江西公务员考试《行测》第83题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2010-未标注-84",
@@ -4388,7 +4666,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年江西公务员考试《行测》第84题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2010-未标注-85",
@@ -4424,7 +4704,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年江西公务员考试《行测》第85题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2010-未标注-86",
@@ -4460,7 +4742,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年江西公务员考试《行测》第86题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2010-未标注-87",
@@ -4496,7 +4780,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年江西公务员考试《行测》第87题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2010-未标注-88",
@@ -4531,7 +4817,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年江西公务员考试《行测》第88题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2010-未标注-89",
@@ -4566,7 +4854,10 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年江西公务员考试《行测》第89题",
-    "province": "江西"
+    "province": "江西",
+    "isAbnormal": true,
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2010-未标注-90",
@@ -4601,7 +4892,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2010年江西公务员考试《行测》第90题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2011-424联考-51",
@@ -4619,7 +4912,9 @@
     "difficulty": "中等",
     "source": "2011年江西公务员考试《行测》（424联考）第51题",
     "isImageQuestion": true,
-    "province": "江西"
+    "province": "江西",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2011-424联考-52",
@@ -4639,7 +4934,9 @@
     "difficulty": "中等",
     "source": "2011年江西公务员考试《行测》（424联考）第52题",
     "isImageQuestion": true,
-    "province": "江西"
+    "province": "江西",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2011-424联考-53",
@@ -4658,7 +4955,9 @@
     "difficulty": "中等",
     "source": "2011年江西公务员考试《行测》（424联考）第53题",
     "isImageQuestion": true,
-    "province": "江西"
+    "province": "江西",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2011-424联考-54",
@@ -4678,7 +4977,9 @@
     "difficulty": "中等",
     "source": "2011年江西公务员考试《行测》（424联考）第54题",
     "isImageQuestion": true,
-    "province": "江西"
+    "province": "江西",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2011-424联考-55",
@@ -4698,7 +4999,9 @@
     "difficulty": "中等",
     "source": "2011年江西公务员考试《行测》（424联考）第55题",
     "isImageQuestion": true,
-    "province": "江西"
+    "province": "江西",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2011-424联考-56",
@@ -4717,7 +5020,9 @@
     "difficulty": "中等",
     "source": "2011年江西公务员考试《行测》（424联考）第56题",
     "isImageQuestion": true,
-    "province": "江西"
+    "province": "江西",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2011-424联考-57",
@@ -4736,7 +5041,9 @@
     "difficulty": "中等",
     "source": "2011年江西公务员考试《行测》（424联考）第57题",
     "isImageQuestion": true,
-    "province": "江西"
+    "province": "江西",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2011-424联考-58",
@@ -4755,7 +5062,9 @@
     "difficulty": "中等",
     "source": "2011年江西公务员考试《行测》（424联考）第58题",
     "isImageQuestion": true,
-    "province": "江西"
+    "province": "江西",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2011-424联考-59",
@@ -4774,7 +5083,9 @@
     "difficulty": "中等",
     "source": "2011年江西公务员考试《行测》（424联考）第59题",
     "isImageQuestion": true,
-    "province": "江西"
+    "province": "江西",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2011-424联考-60",
@@ -4792,7 +5103,9 @@
     "difficulty": "中等",
     "source": "2011年江西公务员考试《行测》（424联考）第60题",
     "isImageQuestion": true,
-    "province": "江西"
+    "province": "江西",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2011-424联考-61",
@@ -4828,7 +5141,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年江西公务员考试《行测》（424联考）第61题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2011-424联考-62",
@@ -4864,7 +5179,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年江西公务员考试《行测》（424联考）第62题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2011-424联考-63",
@@ -4900,7 +5217,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年江西公务员考试《行测》（424联考）第63题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2011-424联考-64",
@@ -4936,7 +5255,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年江西公务员考试《行测》（424联考）第64题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2011-424联考-65",
@@ -4972,7 +5293,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年江西公务员考试《行测》（424联考）第65题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2011-424联考-66",
@@ -5008,7 +5331,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年江西公务员考试《行测》（424联考）第66题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2011-424联考-67",
@@ -5044,7 +5369,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年江西公务员考试《行测》（424联考）第67题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2011-424联考-68",
@@ -5080,7 +5407,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年江西公务员考试《行测》（424联考）第68题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2011-424联考-69",
@@ -5116,7 +5445,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年江西公务员考试《行测》（424联考）第69题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2011-424联考-70",
@@ -5152,7 +5483,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年江西公务员考试《行测》（424联考）第70题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2011-424联考-71",
@@ -5187,7 +5520,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年江西公务员考试《行测》（424联考）第71题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2011-424联考-72",
@@ -5223,7 +5558,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年江西公务员考试《行测》（424联考）第72题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2011-424联考-73",
@@ -5259,7 +5596,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年江西公务员考试《行测》（424联考）第73题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2011-424联考-74",
@@ -5293,7 +5632,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年江西公务员考试《行测》（424联考）第74题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2011-424联考-75",
@@ -5328,7 +5669,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年江西公务员考试《行测》（424联考）第75题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2011-424联考-76",
@@ -5363,7 +5706,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年江西公务员考试《行测》（424联考）第76题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2011-424联考-77",
@@ -5398,7 +5743,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年江西公务员考试《行测》（424联考）第77题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2011-424联考-78",
@@ -5434,7 +5781,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年江西公务员考试《行测》（424联考）第78题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2011-424联考-79",
@@ -5468,7 +5817,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年江西公务员考试《行测》（424联考）第79题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2011-424联考-80",
@@ -5503,7 +5854,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2011年江西公务员考试《行测》（424联考）第80题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "逻辑判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2012-未标注-1",
@@ -5522,7 +5875,9 @@
     "difficulty": "中等",
     "source": "2012年江西公务员考试《行测》第1题",
     "isImageQuestion": true,
-    "province": "江西"
+    "province": "江西",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2012-未标注-2",
@@ -5541,7 +5896,9 @@
     "difficulty": "中等",
     "source": "2012年江西公务员考试《行测》第2题",
     "isImageQuestion": true,
-    "province": "江西"
+    "province": "江西",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2012-未标注-3",
@@ -5560,7 +5917,9 @@
     "difficulty": "中等",
     "source": "2012年江西公务员考试《行测》第3题",
     "isImageQuestion": true,
-    "province": "江西"
+    "province": "江西",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2012-未标注-4",
@@ -5578,7 +5937,9 @@
     "difficulty": "中等",
     "source": "2012年江西公务员考试《行测》第4题",
     "isImageQuestion": true,
-    "province": "江西"
+    "province": "江西",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2012-未标注-5",
@@ -5596,7 +5957,9 @@
     "difficulty": "中等",
     "source": "2012年江西公务员考试《行测》第5题",
     "isImageQuestion": true,
-    "province": "江西"
+    "province": "江西",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2012-未标注-6",
@@ -5616,7 +5979,9 @@
     "difficulty": "中等",
     "source": "2012年江西公务员考试《行测》第6题",
     "isImageQuestion": true,
-    "province": "江西"
+    "province": "江西",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2012-未标注-7",
@@ -5634,7 +5999,9 @@
     "difficulty": "中等",
     "source": "2012年江西公务员考试《行测》第7题",
     "isImageQuestion": true,
-    "province": "江西"
+    "province": "江西",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2012-未标注-8",
@@ -5652,7 +6019,9 @@
     "difficulty": "中等",
     "source": "2012年江西公务员考试《行测》第8题",
     "isImageQuestion": true,
-    "province": "江西"
+    "province": "江西",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2012-未标注-9",
@@ -5687,7 +6056,9 @@
     "difficulty": "中等",
     "source": "2012年江西公务员考试《行测》第9题",
     "isImageQuestion": true,
-    "province": "江西"
+    "province": "江西",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2012-未标注-10",
@@ -5723,7 +6094,9 @@
     "difficulty": "中等",
     "source": "2012年江西公务员考试《行测》第10题",
     "isImageQuestion": true,
-    "province": "江西"
+    "province": "江西",
+    "subModule": "图形推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2012-未标注-11",
@@ -5759,7 +6132,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年江西公务员考试《行测》第11题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2012-未标注-12",
@@ -5795,7 +6170,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年江西公务员考试《行测》第12题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2012-未标注-13",
@@ -5831,7 +6208,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年江西公务员考试《行测》第13题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2012-未标注-14",
@@ -5867,7 +6246,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年江西公务员考试《行测》第14题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2012-未标注-15",
@@ -5903,7 +6284,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年江西公务员考试《行测》第15题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2012-未标注-16",
@@ -5938,7 +6321,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年江西公务员考试《行测》第16题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2012-未标注-17",
@@ -5973,7 +6358,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年江西公务员考试《行测》第17题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2012-未标注-18",
@@ -6009,7 +6396,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年江西公务员考试《行测》第18题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2012-未标注-19",
@@ -6045,7 +6434,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年江西公务员考试《行测》第19题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2012-未标注-20",
@@ -6081,7 +6472,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年江西公务员考试《行测》第20题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "定义判断",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2012-未标注-21",
@@ -6117,7 +6510,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年江西公务员考试《行测》第21题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2012-未标注-22",
@@ -6153,7 +6548,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年江西公务员考试《行测》第22题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2012-未标注-23",
@@ -6189,7 +6586,9 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年江西公务员考试《行测》第23题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   },
   {
     "id": "prov-jiangxi-2012-未标注-24",
@@ -6225,6 +6624,8 @@
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2012年江西公务员考试《行测》第24题",
-    "province": "江西"
+    "province": "江西",
+    "subModule": "类比推理",
+    "subModule_confidence": "high"
   }
 ]
