@@ -40,3 +40,5 @@ guokao-reports/submodule-backups/
 # 注意：历史提交 2cbef2d 里仍有该密钥，必须到 Supabase 控制台轮换（Legacy JWT signing keys / API keys）。
 create-user.cjs
 
+
+bideti-release-*.tar.gz

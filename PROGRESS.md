@@ -1,6 +1,6 @@
 # 项目进度总结
 
-> 更新时间：2026-11-01
+> 更新时间：2026-11-08
 
 ## 0. 题库数据治理（2026-10-17）
 
@@ -1372,4 +1372,70 @@ sudo -u bideti -H bash -lc 'pm2 start /var/www/bideti/current/ecosystem.config.c
 3. 本次新增服务端接口 ⇒ 不能只发前端资产，需全量发布：`deploy/pack.ps1` → `deploy/upload.ps1` → 服务器 `bash /root/bideti-deploy/02-release.sh <pack>`。
 4. 回滚前端：计划页改回 `DailyPlanGenerator`（旧组件与旧接口均未删除）；社区恢复：`COMMUNITY_ENABLED = true` 即整体回来。
 
+
+
+## 12. 知识点体系通关 ① 资料分析知识卡（2026-11-08）
+
+### 12.1 目标与范围
+
+「知识点体系通关」的第一块拼图：把资料分析 62 张知识卡做成**可读 + 可听**的最小可用页。只做资料分析一个模块，验证「素材 md → JSON → 页面 → 语音」这条链路，暂不做题目联动与进度记录。
+
+- 数据：62 张卡，9 个层级（〇认知层 / 一材料阅读 / 二速算 / 三 ABRX 四量关系 / 四比重 / 五混合 / 六比较 / 七平均数与倍数 / 八特殊考点）。
+- 语音：浏览器原生 `SpeechSynthesis`，无第三方依赖、无网络请求、无音频文件。
+- 开关：`KNOWLEDGE_MODULE_ENABLED`（`VITE_KNOWLEDGE_MODULE_ENABLED`），**默认 false**，入口与页面都不渲染。
+
+### 12.2 数据与校验
+
+| 文件 | 作用 |
+|---|---|
+| `scripts/lib/knowledge-cards-rules.cjs` | 共享规则：字段白名单 `CARD_FIELDS`、E01–E09 / W01–W03、禁用词表、id 正则 `zlfx-0[0-8]-\d{3}` |
+| `scripts/import-knowledge-cards.cjs` | 素材 md 里抽 ```json 块 → 白名单取字段 → 校验 → 落盘 `public/data/knowledge/ziliaofenxi.json`；`--dry-run / --source / --out / --expect-count` |
+| `scripts/validate-knowledge-cards.cjs` | 对已落盘 JSON 复检，`--file / --json`，有 ERROR 退出非 0 |
+| `public/data/knowledge/ziliaofenxi.json` | 62 张卡纯数组，随 `public/` 静态发布，前端 `fetch('/data/knowledge/ziliaofenxi.json')` |
+
+落盘纪律：
+
+1. 只按白名单取字段，markdown 头部的修订记录 / 施工说明**不落盘**；出现未知字段直接 ERROR。
+2. 禁用词全字段递归扫描，大小写不敏感（`小P` → `小p` 同样命中）。
+3. `questions` 目前只允许 `["待配题"]`，`audio` 只允许空串；等题库回填真题后再放开。
+4. 层级中文序号（〇一二三四五六七八）映射写在规则里，导入时校验 cards 的 `node_path` 首段合法。
+
+### 12.3 前端
+
+- `src/hooks/useKnowledgeSpeech.ts`：`playCard / playGroup / pause / resume / stop`。优先选 zh-CN 音色（等 `voiceschanged`）；`generation` 计数防止停止后继续念下一张；Chrome `cancel()` 后立刻 `speak()` 会吞首句，故起播延迟 60ms；`onerror` 忽略 `interrupted / canceled`；组件卸载时 `cancel()`。
+- `src/components/KnowledgeCards.tsx`：层级导航（窄屏横向滑动 / 宽屏左侧粘性列表）→ 卡片列表（单列）。卡片展示 title / definition / content / hooks（标签）/ traps（警示列表）；`questions` 为「待配题」时**整块隐藏**，不留空占位。顶部「连续播放本组」按钮调 `playGroup`，若本组某张卡正在单卡朗读则从该张接着连播；切换层级会 `stop()`，避免「看着 A 组、耳朵听 B 组」。
+- 状态：loading（Loader2）/ error（含「重新加载」，`reloadKey` 重发请求）/ 空组提示；`speech.supported` 为 false 时给出「换 Chrome / Edge / Safari」提示，文字阅读不受影响。
+- 入口：`App.tsx` 知识点子视图新增「知识点体系通关」，`Navbar.tsx` 笔试专区二级导航新增「知识卡通关 · 资料分析 62 卡语音磨耳」，两处都受 `KNOWLEDGE_MODULE_ENABLED` 控制。
+
+### 12.4 开关与上线
+
+- 打开：`.env.local` 写 `VITE_KNOWLEDGE_MODULE_ENABLED=1` 后重启 `npm run dev`（构建期注入，改完必须重启/重构建）。
+- 发布：JSON 在 `public/` 下，随前端资产一起走 `deploy/pack.ps1`；只更新卡片数据时用 `npm run release:data`。
+- 回滚：把 flag 去掉或置 0 重新构建即可，代码与数据都保留。
+
+### 12.5 验证记录
+
+- `node scripts/validate-knowledge-cards.cjs`：**卡片 62 / 唯一 id 62 / 覆盖层级 9 / 禁用词 0 → 校验通过**（exit 0）。
+- `tsc --noEmit`（`npm run lint`）通过。
+- `vite build` 通过：`KnowledgeCards` chunk 15.86 kB（gzip 4.77 kB），`dist/data/knowledge/ziliaofenxi.json` 已带 62 张卡。
+- `node scripts/check-dark-contrast.cjs`：全部达标（深色正文 ≥12:1、说明文字 ≥5.7:1）。新页面配色只用既有色阶：dark 下 `slate-900` 卡片 + `slate-100/200/300/400` 文字、`emerald-900/40 + emerald-300`、`amber-900/25 + amber-100`、`rose-900/30 + rose-200`。
+- 新增 `package.json` 脚本：`knowledge:import` / `knowledge:validate`。
+- **未做**：浏览器真机验证（62 张卡实际渲染、TTS 出声、窄屏 320px 无穿帮），需在 dev 打开 flag 后人工过一遍。
+
+### 12.6 新增 / 修改文件
+
+**新增**
+
+- `scripts/lib/knowledge-cards-rules.cjs`、`scripts/import-knowledge-cards.cjs`、`scripts/validate-knowledge-cards.cjs`
+- `public/data/knowledge/ziliaofenxi.json`（62 张卡）
+- `src/hooks/useKnowledgeSpeech.ts`、`src/components/KnowledgeCards.tsx`
+
+**修改**
+
+- `src/types/index.ts`：新增 `KnowledgeCard`（module / node_path / definition / hooks / traps / questions / audio）；原知识图谱用的卡片类型改名 `KnowledgeGraphCard`，避免同名 interface 声明合并
+- `src/lib/featureFlags.ts`：新增 `KNOWLEDGE_MODULE_ENABLED`
+- `src/App.tsx`：`knowledgeView` 增加 `'cards'`、懒加载 `KnowledgeCards`、子视图切换按钮、Navbar 传参
+- `src/components/Navbar.tsx`：可选 props `onOpenKnowledgeSprint / knowledgeSprintActive / onOpenKnowledgeHub`，笔试专区二级导航入口
+- `src/components/KnowledgeGraph.tsx`：改用 `KnowledgeGraphCard`
+- `package.json`：`knowledge:import` / `knowledge:validate`
 

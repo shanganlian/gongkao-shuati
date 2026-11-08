@@ -11,7 +11,7 @@ import {
   ListChecks,
   FileQuestion
 } from 'lucide-react';
-import { KnowledgeChapter, KnowledgeCard, KnowledgeStatus } from '../types';
+import { KnowledgeChapter, KnowledgeGraphCard, KnowledgeStatus } from '../types';
 import { KNOWLEDGE_TREE, EXAM_MODULE_NAMES } from '../data/mockData';
 import { supabase } from '../lib/supabase';
 import { useAuth } from '../context/AuthContext';
@@ -103,7 +103,7 @@ export const KnowledgeGraph: React.FC<KnowledgeGraphProps> = ({ onRequireLogin, 
     }
   };
 
-  const handleJumpToPractice = (card: KnowledgeCard) => {
+  const handleJumpToPractice = (card: KnowledgeGraphCard) => {
     const module = findModuleByCardId(card.id);
     onJumpToPractice(module, card.exampleQuestionIds, [card.title]);
   };

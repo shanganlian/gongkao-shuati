@@ -7,6 +7,7 @@ import { AudioPlayerFloating } from './components/AudioPlayerFloating';
 import { SiteFooter } from './components/SiteFooter';
 import { ExamCategory } from './types';
 import { COMMUNITY_ENABLED } from './data/mockData';
+import { KNOWLEDGE_MODULE_ENABLED } from './lib/featureFlags';
 import { useAuthUI } from './context/AuthUIContext';
 import { useActivityStats } from './hooks/useActivityStats';
 import type { MindsetCompletionInput, RecordedQuestionInput } from './lib/activityStats';
@@ -25,6 +26,8 @@ import {
 const AnalyticsOverview = React.lazy(() => import('./components/AnalyticsOverview').then(module => ({ default: module.AnalyticsOverview })));
 const KnowledgeBase = React.lazy(() => import('./components/KnowledgeBase').then(module => ({ default: module.KnowledgeBase })));
 const KnowledgeGraph = React.lazy(() => import('./components/KnowledgeGraph').then(module => ({ default: module.KnowledgeGraph })));
+// 知识点体系通关（资料分析卡片）：入口与组件都受 KNOWLEDGE_MODULE_ENABLED 控制
+const KnowledgeCards = React.lazy(() => import('./components/KnowledgeCards').then(module => ({ default: module.KnowledgeCards })));
 const InterviewHall = React.lazy(() => import('./components/interview/InterviewHall').then(module => ({ default: module.InterviewHall })));
 const CommunityCheckIn = React.lazy(() => import('./components/CommunityCheckIn').then(module => ({ default: module.CommunityCheckIn })));
 const GrowthSystem = React.lazy(() => import('./components/GrowthSystem').then(module => ({ default: module.GrowthSystem })));
@@ -62,7 +65,7 @@ export default function App() {
   const [activeTab, setActiveTab] = useState<string>(getInitialTab);
   const [selectedCategory, setSelectedCategory] = useState<TargetCategory>(getInitialCategory);
   const [reviewTrigger, setReviewTrigger] = useState<number>(0);
-  const [knowledgeView, setKnowledgeView] = useState<'base' | 'graph'>('graph');
+  const [knowledgeView, setKnowledgeView] = useState<'base' | 'graph' | 'cards'>('graph');
   const [knowledgeFilter, setKnowledgeFilter] = useState<{ module: string; cardIds: string[]; keywords: string[] } | null>(null);
   // 定制计划「去练」：锁定题库模块并进入刷题模式（nonce 保证重复点击同一模块也能触发）
   const [practiceLaunch, setPracticeLaunch] = useState<{ module: string; nonce: number } | null>(null);
@@ -169,6 +172,9 @@ export default function App() {
         level={level}
         levelTitle={levelTitle}
         onOpenCheckIn={() => setActiveTab('plan')}
+        onOpenKnowledgeSprint={KNOWLEDGE_MODULE_ENABLED ? () => setKnowledgeView('cards') : undefined}
+        knowledgeSprintActive={KNOWLEDGE_MODULE_ENABLED && knowledgeView === 'cards'}
+        onOpenKnowledgeHub={() => setKnowledgeView('graph')}
       />
 
       {/* Main Viewport Container */}
@@ -208,7 +214,7 @@ export default function App() {
         {activeTab === 'knowledge' && (
           <div className="space-y-4">
             {/* 子视图切换 */}
-            <div className="flex items-center gap-2">
+            <div className="flex flex-wrap items-center gap-2">
               <button
                 onClick={() => setKnowledgeView('graph')}
                 className={`px-4 py-2 rounded-lg text-sm font-semibold transition-colors cursor-pointer ${
@@ -225,8 +231,23 @@ export default function App() {
               >
                 通关秘籍
               </button>
+              {/* 知识点体系通关：KNOWLEDGE_MODULE_ENABLED 为 false 时整块不渲染 */}
+              {KNOWLEDGE_MODULE_ENABLED && (
+                <button
+                  onClick={() => setKnowledgeView('cards')}
+                  className={`px-4 py-2 rounded-lg text-sm font-semibold transition-colors cursor-pointer ${
+                    knowledgeView === 'cards' ? 'bg-slate-900 dark:bg-slate-700 text-white shadow-xs' : 'bg-white dark:bg-slate-900 text-slate-600 dark:text-slate-300 hover:bg-slate-100 dark:hover:bg-slate-800 border border-slate-200 dark:border-slate-700'
+                  }`}
+                >
+                  知识点体系通关
+                </button>
+              )}
             </div>
-            {knowledgeView === 'graph' ? (
+            {knowledgeView === 'cards' && KNOWLEDGE_MODULE_ENABLED ? (
+              <KnowledgeCards />
+            ) : knowledgeView === 'base' ? (
+              <KnowledgeBase onPlayAudio={handlePlayAudio} />
+            ) : (
               <KnowledgeGraph
                 onRequireLogin={() => openAuth('need_login')}
                 onJumpToPractice={(module, questionIds, keywords) => {
@@ -234,8 +255,6 @@ export default function App() {
                   setActiveTab('practice');
                 }}
               />
-            ) : (
-              <KnowledgeBase onPlayAudio={handlePlayAudio} />
             )}
           </div>
         )}

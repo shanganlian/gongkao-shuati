@@ -87,8 +87,8 @@ export interface KnowledgePoint {
   coreConcepts: string[];
 }
 
-// 知识点卡片
-export interface KnowledgeCard {
+// 知识点卡片（知识图谱模块用的树形数据；与知识卡通关的 KnowledgeCard 不是同一份结构）
+export interface KnowledgeGraphCard {
   id: string;
   title: string;
   content: string;        // 讲解内容
@@ -101,7 +101,7 @@ export interface KnowledgeCard {
 export interface KnowledgeSubPoint {
   id: string;
   title: string;
-  cards: KnowledgeCard[];
+  cards: KnowledgeGraphCard[];
 }
 
 // 章节
@@ -443,5 +443,24 @@ export interface InterviewSessionRecord {
   metrics: ExpressionMetrics;
   review: InterviewReview;
   provider: InterviewReviewProvider;
+}
+
+/**
+ * 知识点体系通关卡（public/data/knowledge/*.json）
+ *
+ * questions 目前一律为 ["待配题"]（真题由题库回填），前端遇到「待配题」不渲染配套真题区块；
+ * audio 预留字段，当前为空串，语音由浏览器 SpeechSynthesis 本地合成。
+ */
+export interface KnowledgeCard {
+  id: string;
+  module: string;
+  node_path: string;
+  title: string;
+  definition: string;
+  content: string;
+  hooks: string[];
+  traps: string[];
+  questions: string[];
+  audio: string;
 }
 

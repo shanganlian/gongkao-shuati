@@ -36,6 +36,8 @@
     "plan:smoke": "node --import tsx scripts/smoke-study-plan.ts",
     "index:check": "node scripts/rebuild-question-index.cjs",
     "index:rebuild": "node scripts/rebuild-question-index.cjs --apply",
+    "knowledge:import": "node scripts/import-knowledge-cards.cjs",
+    "knowledge:validate": "node scripts/validate-knowledge-cards.cjs",
     "submodule:pilot": "node scripts/classify-submodules.cjs --province 北京 --module changshi --apply --sync-source --review-sample 50",
     "submodule:all": "node scripts/classify-submodules.cjs --province all --module all --apply --sync-source --review-sample 50 --concurrency 16",
     "submodule:sync": "node scripts/classify-submodules.cjs --province all --module all --sync-only",
