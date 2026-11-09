@@ -247,6 +247,11 @@ export const KnowledgeCards: React.FC = () => {
     ? (speech.status === 'paused' ? '继续连播' : '停止连播')
     : `连续播放${currentGroup ? '本组' : '全部'}（${visibleCards.length} 张）`;
 
+  // 展示实际选中的普通话音色，避免用户怀疑系统偷偷用了粤语
+  const voiceLabel = speech.voiceInfo
+    ? `${speech.voiceInfo.name.split(' - ')[0].replace(/^Microsoft\s+/i, '')}（${speech.voiceInfo.lang}）`
+    : null;
+
   const handleGroupToggle = () => {
     if (speech.groupPlaying) {
       if (speech.status === 'paused') speech.resume();
@@ -316,14 +321,21 @@ export const KnowledgeCards: React.FC = () => {
               {loading ? '加载中…' : `${cards.length} 张卡 · ${groups.length} 个层级`}
             </span>
             <span
+              title={speech.voiceInfo ? `朗读音色：${speech.voiceInfo.name}（${speech.voiceInfo.lang}）` : undefined}
               className={`inline-flex items-center gap-1 px-2.5 py-1 rounded-lg text-xs font-semibold ${
-                speech.supported
+                speech.supported && !speech.voiceUnavailable
                   ? 'bg-emerald-50 dark:bg-emerald-900/40 text-emerald-800 dark:text-emerald-300'
                   : 'bg-amber-50 dark:bg-amber-900/30 text-amber-900 dark:text-amber-200'
               }`}
             >
               <Volume2 className="w-3.5 h-3.5" />
-              {speech.supported ? '本机语音已就绪' : '当前浏览器不支持语音'}
+              {speech.supported
+                ? speech.voiceUnavailable
+                  ? '未找到普通话语音'
+                  : voiceLabel
+                    ? `普通话就绪 · ${voiceLabel}`
+                    : '本机语音已就绪'
+                : '当前浏览器不支持语音'}
             </span>
           </div>
         </div>
@@ -367,19 +379,26 @@ export const KnowledgeCards: React.FC = () => {
                 </span>
               )}
             </div>
-            <button
-              type="button"
-              onClick={handleGroupToggle}
-              disabled={!speech.supported || visibleCards.length === 0}
-              className={`inline-flex items-center gap-1.5 px-3 py-1.5 rounded-lg border text-xs font-semibold transition-colors cursor-pointer disabled:cursor-not-allowed disabled:opacity-50 ${
-                speech.groupPlaying
-                  ? 'bg-emerald-700 border-emerald-700 text-white hover:bg-emerald-800 dark:bg-emerald-500 dark:border-emerald-500 dark:text-slate-950 dark:hover:bg-emerald-400'
-                  : 'bg-emerald-50 dark:bg-emerald-900/40 border-emerald-200 dark:border-emerald-700 text-emerald-700 dark:text-emerald-300 hover:bg-emerald-100 dark:hover:bg-emerald-900/60'
-              }`}
-            >
-              <ListMusic className="w-3.5 h-3.5" />
-              {groupButtonLabel}
-            </button>
+            <div className="flex flex-wrap items-center justify-end gap-2">
+              {speech.voiceUnavailable && (
+                <span className="text-[11px] font-semibold text-amber-700 dark:text-amber-300">
+                  未找到普通话语音
+                </span>
+              )}
+              <button
+                type="button"
+                onClick={handleGroupToggle}
+                disabled={!speech.supported || visibleCards.length === 0}
+                className={`inline-flex items-center gap-1.5 px-3 py-1.5 rounded-lg border text-xs font-semibold transition-colors cursor-pointer disabled:cursor-not-allowed disabled:opacity-50 ${
+                  speech.groupPlaying
+                    ? 'bg-emerald-700 border-emerald-700 text-white hover:bg-emerald-800 dark:bg-emerald-500 dark:border-emerald-500 dark:text-slate-950 dark:hover:bg-emerald-400'
+                    : 'bg-emerald-50 dark:bg-emerald-900/40 border-emerald-200 dark:border-emerald-700 text-emerald-700 dark:text-emerald-300 hover:bg-emerald-100 dark:hover:bg-emerald-900/60'
+                }`}
+              >
+                <ListMusic className="w-3.5 h-3.5" />
+                {groupButtonLabel}
+              </button>
+            </div>
           </div>
 
           {loading && (

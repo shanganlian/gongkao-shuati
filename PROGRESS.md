@@ -1420,7 +1420,8 @@ sudo -u bideti -H bash -lc 'pm2 start /var/www/bideti/current/ecosystem.config.c
 - `vite build` 通过：`KnowledgeCards` chunk 15.86 kB（gzip 4.77 kB），`dist/data/knowledge/ziliaofenxi.json` 已带 62 张卡。
 - `node scripts/check-dark-contrast.cjs`：全部达标（深色正文 ≥12:1、说明文字 ≥5.7:1）。新页面配色只用既有色阶：dark 下 `slate-900` 卡片 + `slate-100/200/300/400` 文字、`emerald-900/40 + emerald-300`、`amber-900/25 + amber-100`、`rose-900/30 + rose-200`。
 - 新增 `package.json` 脚本：`knowledge:import` / `knowledge:validate`。
-- **未做**：浏览器真机验证（62 张卡实际渲染、TTS 出声、窄屏 320px 无穿帮），需在 dev 打开 flag 后人工过一遍。
+- 浏览器实测（本机 Chrome headless + CDP）：`vite preview`（flag=on 构建产物）与 `npm run dev`（`VITE_KNOWLEDGE_MODULE_ENABLED=1`）两轮结果一致 —— 390×844 浅色 / 深色下 **62 张卡全部渲染**，`document.documentElement.scrollWidth = 390`，**无页面级横向溢出**；层级导航为横向滚动区（clientWidth 332 / scrollWidth 1359），符合窄屏预期；1280×900 深色下左侧层级列表 + 单列卡片正常；`data-theme="dark"` 后页面底色切到 slate-950（`oklch(0.129 0.042 264.695)`），浅色仍为 `rgb(243, 244, 246)`（一次性 CDP 脚本，未入库）。
+- **未做**：TTS 实际出声（headless 无音频输出，需人工点一次「连续播放本组」确认音色与断句）；320px 极端窄屏未单独截图（390px 已覆盖主流机型）。
 
 ### 12.6 新增 / 修改文件
 

@@ -9,7 +9,6 @@ import {
   CheckCircle2, 
   Award,
   Calendar,
-  Layers,
   ChevronDown,
   Info,
   X,
@@ -43,10 +42,7 @@ interface NavbarProps {
   level: number;
   levelTitle: string;
   onOpenCheckIn: () => void;
-  /** 知识点体系通关（资料分析知识卡）入口：flag 关闭时传 undefined，整块按钮不渲染 */
-  onOpenKnowledgeSprint?: () => void;
-  knowledgeSprintActive?: boolean;
-  /** 点「板块 2」时回到知识点体系默认子视图（图谱），避免停在知识卡页但按钮不高亮 */
+  /** 点「板块 2」统一进入知识点体系页，并回到默认子视图（知识图谱），不再有独立的知识卡入口 */
   onOpenKnowledgeHub?: () => void;
 }
 
@@ -59,8 +55,6 @@ export const Navbar: React.FC<NavbarProps> = ({
   level,
   levelTitle,
   onOpenCheckIn,
-  onOpenKnowledgeSprint,
-  knowledgeSprintActive = false,
   onOpenKnowledgeHub
 }) => {
   const [showModuleGuide, setShowModuleGuide] = useState<boolean>(false);
@@ -533,29 +527,14 @@ export const Navbar: React.FC<NavbarProps> = ({
               <button
                 onClick={() => { setActiveTab('knowledge'); onOpenKnowledgeHub?.(); }}
                 className={`flex items-center gap-1.5 px-3 py-1 rounded-lg transition-all cursor-pointer ${
-                  activeTab === 'knowledge' && !knowledgeSprintActive
+                  activeTab === 'knowledge'
                     ? 'bg-white dark:bg-slate-900 text-brand-ink font-black shadow-xs ring-1 ring-brand-gold'
                     : 'bg-transparent text-emerald-50 ring-1 ring-brand-gold/60 hover:bg-brand-ink-soft hover:ring-brand-gold'
                 }`}
               >
-                <Headphones className={`w-3.5 h-3.5 ${activeTab === 'knowledge' && !knowledgeSprintActive ? 'text-brand-ink' : 'text-emerald-200'}`} />
+                <Headphones className={`w-3.5 h-3.5 ${activeTab === 'knowledge' ? 'text-brand-ink' : 'text-emerald-200'}`} />
                 <span>板块 2：知识点体系 · 通关秘籍与语音随身听</span>
               </button>
-
-              {/* 知识卡通关：与「通关秘籍」并列的第四入口，受 KNOWLEDGE_MODULE_ENABLED 控制 */}
-              {onOpenKnowledgeSprint && (
-                <button
-                  onClick={() => { setActiveTab('knowledge'); onOpenKnowledgeSprint(); }}
-                  className={`flex items-center gap-1.5 px-3 py-1 rounded-lg transition-all cursor-pointer ${
-                    activeTab === 'knowledge' && knowledgeSprintActive
-                      ? 'bg-white dark:bg-slate-900 text-brand-ink font-black shadow-xs ring-1 ring-brand-gold'
-                      : 'bg-transparent text-emerald-50 ring-1 ring-brand-gold/60 hover:bg-brand-ink-soft hover:ring-brand-gold'
-                  }`}
-                >
-                  <Layers className={`w-3.5 h-3.5 ${activeTab === 'knowledge' && knowledgeSprintActive ? 'text-brand-ink' : 'text-emerald-200'}`} />
-                  <span>知识卡通关 · 资料分析 62 卡语音磨耳</span>
-                </button>
-              )}
 
               <button
                 onClick={() => setActiveTab('daily')}

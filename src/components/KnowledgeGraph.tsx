@@ -1,17 +1,18 @@
 import React, { useState, useEffect } from 'react';
-import { 
-  ChevronRight, 
-  ChevronDown, 
-  Lightbulb, 
-  AlertTriangle, 
-  BookOpen, 
-  CheckCircle2, 
-  RefreshCw, 
+import {
+  ChevronRight,
+  ChevronDown,
+  Lightbulb,
+  AlertTriangle,
+  BookOpen,
+  CheckCircle2,
+  RefreshCw,
   Circle,
   ListChecks,
-  FileQuestion
+  FileQuestion,
+  Layers
 } from 'lucide-react';
-import { KnowledgeChapter, KnowledgeGraphCard, KnowledgeStatus } from '../types';
+import { KnowledgeCard, KnowledgeChapter, KnowledgeGraphCard, KnowledgeStatus } from '../types';
 import { KNOWLEDGE_TREE, EXAM_MODULE_NAMES } from '../data/mockData';
 import { supabase } from '../lib/supabase';
 import { useAuth } from '../context/AuthContext';
@@ -27,12 +28,55 @@ const STATUS_CONFIG: Record<KnowledgeStatus, { label: string; color: string; ico
   mastered: { label: '已掌握', color: 'text-emerald-600 dark:text-emerald-400 bg-emerald-50 dark:bg-emerald-900/40', icon: <CheckCircle2 className="w-3 h-3" /> }
 };
 
+/** 资料分析 62 张知识卡：与卡片页共用同一份静态数据 */
+const KNOWLEDGE_CARDS_URL = '/data/knowledge/ziliaofenxi.json';
+/** 层级顺序：〇认知层 → 一材料阅读 → … → 八特殊考点 */
+const LAYER_NUMERALS = ['〇', '一', '二', '三', '四', '五', '六', '七', '八'];
+
+interface KnowledgeLayerGroup {
+  /** node_path 第一段，如「二 速算基础层」 */
+  label: string;
+  /** 层序号（〇/一/…），用于排序与徽标 */
+  numeral: string;
+  /** 去掉序号后的层名，如「速算基础层」 */
+  name: string;
+  cards: KnowledgeCard[];
+}
+
+/** 按 node_path 第一层聚合卡片；顺序固定为〇→八，层内按卡片 id 排序 */
+function buildKnowledgeLayers(cards: KnowledgeCard[]): KnowledgeLayerGroup[] {
+  const map = new Map<string, KnowledgeCard[]>();
+  cards.forEach((card) => {
+    const layer = card.node_path.split('>')[0].trim() || '未分层';
+    if (!map.has(layer)) map.set(layer, []);
+    map.get(layer)!.push(card);
+  });
+
+  return Array.from(map.entries())
+    .map(([label, groupCards]) => ({
+      label,
+      numeral: label.charAt(0),
+      name: label.slice(1).trim() || label,
+      cards: [...groupCards].sort((a, b) => a.id.localeCompare(b.id))
+    }))
+    .sort((a, b) => {
+      const ai = LAYER_NUMERALS.indexOf(a.numeral);
+      const bi = LAYER_NUMERALS.indexOf(b.numeral);
+      return (ai < 0 ? 99 : ai) - (bi < 0 ? 99 : bi);
+    });
+}
+
 export const KnowledgeGraph: React.FC<KnowledgeGraphProps> = ({ onRequireLogin, onJumpToPractice }) => {
   const { user } = useAuth();
   const [expandedChapters, setExpandedChapters] = useState<Set<string>>(new Set([KNOWLEDGE_TREE[0]?.id]));
   const [expandedSubPoints, setExpandedSubPoints] = useState<Set<string>>(new Set());
   const [statusMap, setStatusMap] = useState<Record<string, KnowledgeStatus>>({});
   const [loading, setLoading] = useState(true);
+  /** 资料分析 62 卡按 node_path 聚合出的层级框架 */
+  const [layerGroups, setLayerGroups] = useState<KnowledgeLayerGroup[]>([]);
+  const [frameworkLoading, setFrameworkLoading] = useState(true);
+  const [frameworkError, setFrameworkError] = useState<string | null>(null);
+  const [expandedLayers, setExpandedLayers] = useState<Set<string>>(new Set());
 
   // 加载用户的知识点掌握状态
   useEffect(() => {
@@ -54,6 +98,39 @@ export const KnowledgeGraph: React.FC<KnowledgeGraphProps> = ({ onRequireLogin, 
     loadStatus();
     return () => { cancelled = true; };
   }, [user]);
+
+  // 加载资料分析知识卡，按 node_path 第一层聚合成 9 个层的框架
+  useEffect(() => {
+    let cancelled = false;
+    const loadFramework = async () => {
+      try {
+        const res = await fetch(KNOWLEDGE_CARDS_URL);
+        if (!res.ok) throw new Error(`HTTP ${res.status}`);
+        const data = await res.json();
+        if (!Array.isArray(data)) throw new Error('数据格式不是数组');
+        if (!cancelled) {
+          const groups = buildKnowledgeLayers(data as KnowledgeCard[]);
+          setLayerGroups(groups);
+          // 默认展开第一层：进入页面立刻能看到「层级 → 卡片标题」的框架，而不是 9 行折叠条
+          if (groups.length > 0) setExpandedLayers(new Set([groups[0].label]));
+        }
+      } catch (err) {
+        if (!cancelled) setFrameworkError((err as Error).message);
+      } finally {
+        if (!cancelled) setFrameworkLoading(false);
+      }
+    };
+    loadFramework();
+    return () => { cancelled = true; };
+  }, []);
+
+  const toggleLayer = (label: string) => {
+    setExpandedLayers(prev => {
+      const next = new Set(prev);
+      next.has(label) ? next.delete(label) : next.add(label);
+      return next;
+    });
+  };
 
   const toggleChapter = (id: string) => {
     setExpandedChapters(prev => {
@@ -155,6 +232,76 @@ export const KnowledgeGraph: React.FC<KnowledgeGraphProps> = ({ onRequireLogin, 
               <div className="text-slate-600 dark:text-slate-300">复习中 {reviewingCount}</div>
             </div>
           </div>
+        </div>
+      </div>
+
+      {/* 资料分析知识点框架：按 node_path 第一层聚合（〇～八） */}
+      <div className="bg-white dark:bg-slate-900 rounded-2xl border border-slate-200/80 dark:border-slate-700/80 shadow-xs overflow-hidden">
+        <div className="px-4 sm:px-6 py-4 border-b border-slate-100 dark:border-slate-800">
+          <div className="flex flex-wrap items-center gap-2">
+            <Layers className="w-4 h-4 shrink-0 text-emerald-600 dark:text-emerald-400" />
+            <h3 className="text-base sm:text-lg font-bold tracking-tight text-slate-900 dark:text-slate-100">
+              资料分析 · 知识点体系框架
+            </h3>
+            {!frameworkLoading && !frameworkError && (
+              <span className="px-2 py-0.5 rounded-md bg-slate-100 dark:bg-slate-800 text-slate-600 dark:text-slate-300 text-[11px] font-semibold">
+                {layerGroups.length} 个层级 · {layerGroups.reduce((sum, group) => sum + group.cards.length, 0)} 张卡
+              </span>
+            )}
+          </div>
+          <p className="mt-1 text-xs text-slate-500 dark:text-slate-400 leading-relaxed">
+            按每张卡 node_path 的第一层聚合。点击层级展开该层全部卡片标题，再点收起。
+          </p>
+        </div>
+
+        <div className="p-3 sm:p-4 space-y-1.5">
+          {frameworkLoading && (
+            <p className="text-xs text-slate-500 dark:text-slate-400 px-1 py-3">正在加载知识框架…</p>
+          )}
+          {!frameworkLoading && frameworkError && (
+            <p className="text-xs text-amber-800 dark:text-amber-200 bg-amber-50 dark:bg-amber-900/25 border border-amber-200 dark:border-amber-700/70 rounded-lg px-3 py-2 break-words">
+              知识框架加载失败：{frameworkError}
+            </p>
+          )}
+          {!frameworkLoading && !frameworkError && layerGroups.map((group) => {
+            const isOpen = expandedLayers.has(group.label);
+            return (
+              <div key={group.label} className="rounded-xl border border-slate-200/80 dark:border-slate-700/80 overflow-hidden">
+                <button
+                  type="button"
+                  onClick={() => toggleLayer(group.label)}
+                  aria-expanded={isOpen}
+                  className="w-full flex items-center gap-2 px-3 py-2.5 text-left bg-slate-50 dark:bg-slate-800/60 hover:bg-slate-100 dark:hover:bg-slate-800 transition-colors cursor-pointer"
+                >
+                  <span className="w-6 h-6 shrink-0 inline-flex items-center justify-center rounded-md bg-emerald-100 dark:bg-emerald-900/40 text-emerald-700 dark:text-emerald-300 text-xs font-bold">
+                    {group.numeral}
+                  </span>
+                  <span className="flex-1 min-w-0 text-sm font-semibold text-slate-800 dark:text-slate-100 break-words">
+                    {group.name}
+                  </span>
+                  <span className="shrink-0 text-[11px] font-medium text-slate-500 dark:text-slate-400">
+                    {group.cards.length} 张
+                  </span>
+                  {isOpen
+                    ? <ChevronDown className="w-4 h-4 shrink-0 text-slate-400" />
+                    : <ChevronRight className="w-4 h-4 shrink-0 text-slate-400" />}
+                </button>
+
+                {isOpen && (
+                  <ul className="ml-3 sm:ml-4 my-1 pl-4 sm:pl-5 pr-3 sm:pr-4 border-l-2 border-emerald-300 dark:border-emerald-800">
+                    {group.cards.map((card) => (
+                      <li key={card.id} className="flex items-start gap-2 py-1.5">
+                        <span className="mt-[7px] w-1.5 h-1.5 shrink-0 rounded-full bg-emerald-400 dark:bg-emerald-500" aria-hidden="true" />
+                        <p className="min-w-0 text-xs sm:text-sm text-slate-700 dark:text-slate-200 break-words leading-relaxed">
+                          {card.title}
+                        </p>
+                      </li>
+                    ))}
+                  </ul>
+                )}
+              </div>
+            );
+          })}
         </div>
       </div>
 

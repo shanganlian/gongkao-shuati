@@ -172,8 +172,6 @@ export default function App() {
         level={level}
         levelTitle={levelTitle}
         onOpenCheckIn={() => setActiveTab('plan')}
-        onOpenKnowledgeSprint={KNOWLEDGE_MODULE_ENABLED ? () => setKnowledgeView('cards') : undefined}
-        knowledgeSprintActive={KNOWLEDGE_MODULE_ENABLED && knowledgeView === 'cards'}
         onOpenKnowledgeHub={() => setKnowledgeView('graph')}
       />
 

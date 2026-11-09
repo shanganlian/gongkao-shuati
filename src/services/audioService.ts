@@ -196,16 +196,20 @@ function fallbackWebSpeech(
     utterance.pitch = 1.0;
   }
 
-  // Choose the best natural Chinese voice available on this device
+  // Choose a Mandarin (zh-CN) voice only. Never fall back to zh-HK / zh-TW:
+  // a loose `lang.includes('zh')` match is what made Cantonese voices take over.
   const voices = window.speechSynthesis.getVoices();
-  const bestVoice = voices.find(v => 
-    (v.lang.includes('zh') || v.lang.includes('cmn')) && 
-    (v.name.includes('Natural') || v.name.includes('Online') || v.name.includes('Xiaoxiao') || v.name.includes('Yunxi'))
-  ) || voices.find(v => v.lang.includes('zh') || v.lang.includes('cmn'));
+  const mandarinVoices = voices.filter(v => /^zh[-_]CN/i.test(v.lang || ''));
+  const bestVoice = mandarinVoices.find(v =>
+    /xiaoxiao|xiaoyi|yunjian|yunyang/i.test(v.name)
+  ) ?? mandarinVoices[0];
 
-  if (bestVoice) {
-    utterance.voice = bestVoice;
+  if (!bestVoice) {
+    onError?.('未找到普通话语音');
+    return () => {};
   }
+
+  utterance.voice = bestVoice;
 
   utterance.onstart = () => {
     onStart?.();
