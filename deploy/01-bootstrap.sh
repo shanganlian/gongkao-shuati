@@ -247,12 +247,32 @@ DEEPSEEK_API_KEY=
 # QQ_APP_ID=
 # QQ_APP_KEY=
 # QQ_REDIRECT_URI=https://igoiget.com/api/auth/qq/callback
+
+# 邮箱验证码（QQ SMTP）：SMTP_PASS 是 QQ 邮箱授权码，不是 QQ 登录密码。
+SMTP_HOST=smtp.qq.com
+SMTP_PORT=465
+SMTP_SECURE=1
+SMTP_USER=775830833@qq.com
+SMTP_PASS=
+SMTP_FROM_NAME=必得题库
+SMTP_FROM_EMAIL=775830833@qq.com
+SITE_URL=https://igoiget.com
+# Supabase Dashboard → Project Settings → API → service_role（仅服务端）
+SUPABASE_SERVICE_ROLE_KEY=
+# 可选：验证码哈希固定盐
+EMAIL_CODE_SECRET=
 EOF
 fi
 chown root:"$SERVICE_USER" "$ENV_FILE"
 chmod 640 "$ENV_FILE"
 if ! grep -Eq '^DEEPSEEK_API_KEY=.+' "$ENV_FILE"; then
   log "注意：$ENV_FILE 里的 DEEPSEEK_API_KEY 还是空的，发布前必须填写"
+fi
+if ! grep -Eq '^SMTP_PASS=.+' "$ENV_FILE"; then
+  log "注意：$ENV_FILE 里的 SMTP_PASS（QQ 邮箱授权码）还是空的，验证码邮件发不出去"
+fi
+if ! grep -Eq '^SUPABASE_SERVICE_ROLE_KEY=.+' "$ENV_FILE"; then
+  log "注意：$ENV_FILE 里的 SUPABASE_SERVICE_ROLE_KEY 还是空的，验证码校验无法兑换登录态"
 fi
 
 log "检查 swap"

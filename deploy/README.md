@@ -126,6 +126,7 @@ DEEPSEEK_API_KEY=sk-你的真实密钥
 - 文件权限保持 `root:bideti 640`，不要 `chmod 644`。
 - 不要用 `echo` 写密钥，避免留在 shell history。
 - QQ 登录默认关闭：`QQ_LOGIN_ENABLED` 不设或为 0 时 `/api/auth/qq/*` 一律 404；`deploy/ecosystem.config.cjs` 的透传白名单已包含 `QQ_LOGIN_ENABLED` / `QQ_APP_ID` / `QQ_APP_KEY` / `QQ_REDIRECT_URI`。前端按钮还需要构建期 `VITE_QQ_LOGIN_ENABLED=1` 才会渲染。
+- 邮箱验证码已改为后端发码：必须填 `SMTP_HOST` / `SMTP_PORT` / `SMTP_SECURE` / `SMTP_USER` / `SMTP_PASS` / `SMTP_FROM_NAME` / `SMTP_FROM_EMAIL`，以及 `SUPABASE_SERVICE_ROLE_KEY`（仅服务端，用于把验证码换成 Supabase session）。`SITE_URL` 填 `https://igoiget.com`。完整说明见 `docs/登录体验/05-QQ-SMTP-后端发码.md`。
 
 ---
 

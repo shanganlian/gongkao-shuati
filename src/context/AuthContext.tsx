@@ -11,8 +11,8 @@ interface AuthContextValue {
   mergeVersion: number;
   signUp: (email: string, password: string) => Promise<{ error?: string }>;
   signIn: (email: string, password: string) => Promise<{ error?: string }>;
-  /** 发送邮箱验证码（新邮箱自动注册） */
-  sendEmailOtp: (email: string) => Promise<{ error?: string }>;
+  /** 发送邮箱验证码（新邮箱自动注册；linkIncluded 表示邮件里是否带一键登录链接） */
+  sendEmailOtp: (email: string) => Promise<{ error?: string; linkIncluded?: boolean }>;
   /** 校验邮箱验证码并登录 */
   verifyEmailOtp: (email: string, token: string) => Promise<{ error?: string }>;
   signOut: () => Promise<void>;
@@ -57,20 +57,56 @@ function AuthProvider({ children }: { children: ReactNode }) {
   };
 
   const sendEmailOtp = async (email: string) => {
-    const { error } = await supabase.auth.signInWithOtp({
-      email: email.trim(),
-      options: { shouldCreateUser: true },
-    });
-    return { error: translateAuthError(error?.message) };
+    try {
+      const response = await fetch('/api/auth/email-code', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ email: email.trim() }),
+      });
+      const payload = await response.json().catch(() => ({}));
+      if (!response.ok) {
+        return {
+          error: translateAuthError(
+            payload?.message || payload?.error || '发送验证码失败，请稍后重试。'
+          ),
+        };
+      }
+      return { linkIncluded: Boolean(payload?.linkIncluded) };
+    } catch (e) {
+      return { error: '网络请求失败，请检查网络连接后重试。' };
+    }
   };
 
   const verifyEmailOtp = async (email: string, token: string) => {
-    const { error } = await supabase.auth.verifyOtp({
-      email: email.trim(),
-      token: token.trim(),
-      type: 'email',
-    });
-    return { error: translateAuthError(error?.message) };
+    try {
+      const response = await fetch('/api/auth/verify-email-code', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ email: email.trim(), code: token.trim() }),
+      });
+      const payload = await response.json().catch(() => ({}));
+      if (!response.ok) {
+        return {
+          error: translateAuthError(
+            payload?.message || payload?.error || '验证码错误或已过期，请重新获取。'
+          ),
+        };
+      }
+
+      const session = payload?.session;
+      if (!session?.access_token || !session?.refresh_token) {
+        return { error: '登录失败：服务端未返回有效登录态，请稍后重试。' };
+      }
+
+      // 后端已用 Supabase Admin 校验并签发 session，这里只负责写入浏览器会话
+      const { error } = await supabase.auth.setSession({
+        access_token: session.access_token,
+        refresh_token: session.refresh_token,
+      });
+      return { error: translateAuthError(error?.message) };
+    } catch (e) {
+      return { error: '网络请求失败，请检查网络连接后重试。' };
+    }
   };
 
   const signOut = async () => {

@@ -1,9 +1,9 @@
+import 'dotenv/config';
 import express, { type NextFunction, type Request, type Response } from 'express';
 import { createServer as createViteServer } from 'vite';
 import { GoogleGenAI } from '@google/genai';
 import path from 'path';
 import { fileURLToPath } from 'url';
-import dotenv from 'dotenv';
 import {
   ANSWER_MIN_CHARS,
   buildDegradedReview,
@@ -27,8 +27,7 @@ import {
   sanitizeStudyPlanRequest,
 } from './shared/study-plan';
 import { isQqLoginEnabled } from './shared/feature-flags';
-
-dotenv.config();
+import { registerEmailAuthRoutes } from './shared/email-auth';
 
 const app = express();
 const PORT = process.env.PORT ? parseInt(process.env.PORT, 10) : 3002;
@@ -38,6 +37,15 @@ const HOST = process.env.HOST || (process.env.NODE_ENV === 'production' ? '127.0
 const appRoot = path.dirname(fileURLToPath(import.meta.url));
 
 app.use(express.json());
+
+/**
+ * 邮箱验证码登录（后端发码）：
+ * - POST /api/auth/email-code          生成 6 位码并通过 QQ SMTP 发送
+ * - POST /api/auth/verify-email-code   校验验证码并返回 Supabase session
+ * - GET  /api/auth/email-code/link     邮件内「一键登录」入口
+ * - GET  /api/auth/email-code/status   配置体检（不返回任何密钥）
+ */
+registerEmailAuthRoutes(app);
 
 /**
  * QQ 登录开关（默认关闭）。

@@ -69,7 +69,7 @@ export const AuthModal: React.FC<AuthModalProps> = ({ open, onClose, reason = 'd
     setSending(true);
     setError('');
     setNotice('');
-    const { error: sendError } = await sendEmailOtp(email);
+    const { error: sendError, linkIncluded } = await sendEmailOtp(email);
     setSending(false);
     if (sendError) {
       setError(sendError);
@@ -77,7 +77,11 @@ export const AuthModal: React.FC<AuthModalProps> = ({ open, onClose, reason = 'd
     }
     setOtpSent(true);
     setCooldown(60);
-    setNotice('验证码已发送，请查收邮箱（含垃圾箱），10 分钟内有效。');
+    setNotice(
+      linkIncluded
+        ? '验证码已发送，请查收邮箱（含垃圾箱），10 分钟内有效；也可直接点邮件里的「一键登录」。'
+        : '验证码已发送，请查收邮箱（含垃圾箱），10 分钟内有效；请回到本页输入验证码完成登录。'
+    );
   };
 
   const handleVerifyOtp = async () => {
@@ -90,7 +94,7 @@ export const AuthModal: React.FC<AuthModalProps> = ({ open, onClose, reason = 'd
     const { error: verifyError } = await verifyEmailOtp(email, token);
     setLoading(false);
     if (verifyError) {
-      setError(`${verifyError}（若邮件内只有登录链接，请在 Supabase 邮件模板中加入 {{ .Token }}）`);
+      setError(verifyError);
       return;
     }
     finish();

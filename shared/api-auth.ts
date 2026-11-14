@@ -13,6 +13,21 @@ const DEFAULT_SUPABASE_ANON_KEY =
 export const SUPABASE_URL = process.env.SUPABASE_URL || DEFAULT_SUPABASE_URL;
 export const SUPABASE_ANON_KEY = process.env.SUPABASE_ANON_KEY || DEFAULT_SUPABASE_ANON_KEY;
 
+/**
+ * 请求时读取 Supabase 配置。
+ *
+ * server.ts 的 dotenv.config() 写在 import 之后，模块顶层常量可能在 .env 加载前求值；
+ * 发码接口需要稳定拿到 /etc/bideti/bideti.env 或本地 .env 的覆盖值，所以这里提供
+ * 延迟读取函数（旧常量保留给已有调用方，避免破坏兼容性）。
+ */
+export function getSupabaseUrl(): string {
+  return process.env.SUPABASE_URL || DEFAULT_SUPABASE_URL;
+}
+
+export function getSupabaseAnonKey(): string {
+  return process.env.SUPABASE_ANON_KEY || DEFAULT_SUPABASE_ANON_KEY;
+}
+
 export interface AuthContext {
   user: User;
   /** 带请求者 JWT 的客户端，所有查询都受 RLS 约束 */
@@ -31,7 +46,7 @@ export async function authenticateRequest(req: Request): Promise<AuthContext | n
   const token = readBearerToken(req);
   if (!token) return null;
 
-  const client = createClient(SUPABASE_URL, SUPABASE_ANON_KEY, {
+  const client = createClient(getSupabaseUrl(), getSupabaseAnonKey(), {
     auth: { persistSession: false, autoRefreshToken: false },
     global: { headers: { Authorization: `Bearer ${token}` } },
   });

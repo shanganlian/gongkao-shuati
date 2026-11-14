@@ -1,14 +1,16 @@
 # 登录体验改造（分阶段）索引
 
-> 更新：2026-11-01　适用站点：`https://igoiget.com`（必得题库）
+> 更新：2026-11-09　适用站点：`https://igoiget.com`（必得题库）
 
-当前登录实现：**Supabase Auth 邮箱验证码**（`signInWithOtp` + `verifyOtp`，见 `src/context/AuthContext.tsx`），
-邮件由 Supabase 代发。仓库内**没有**任何 SMTP / 邮件发送代码，模板与控制都在 Supabase 控制台。
+当前主登录实现：**后端发 6 位验证码 + QQ SMTP 发信 + 后端校验换 Supabase session**
+（`shared/email-auth.ts`，前端见 `src/context/AuthContext.tsx`）。
+Supabase 后台的 SMTP / Magic Link 模板保留为密码重置、邮件链接的备用通道。
 
 | 文档 | 用途 | 谁来做 | 状态 |
 | --- | --- | --- | --- |
-| [04-Supabase-后台核对清单.md](./04-Supabase-后台核对清单.md) | **排障首选**：发件人仍是 Supabase / 收到英文确认链接 → 逐项开关 + 直达 URL + 模板全文 | 用户配置 | **照着改即可** |
-| [01-163-SMTP-与-中文邮件模板.md](./01-163-SMTP-与-中文邮件模板.md) | 163 授权码 → Supabase SMTP → 5 套中文邮件模板 | 用户配置 + 已备好模板 | 待粘贴 |
+| [05-QQ-SMTP-后端发码.md](./05-QQ-SMTP-后端发码.md) | **当前主链路**：QQ SMTP 授权码、`SMTP_*` / `SUPABASE_SERVICE_ROLE_KEY` 环境变量、接口与自测 | 用户配置 | **已实现，待填授权码** |
+| [04-Supabase-后台核对清单.md](./04-Supabase-后台核对清单.md) | 备用通道排障：发件人仍是 Supabase / 收到英文确认链接 → 逐项开关 + 直达 URL + 模板全文 | 用户配置 | **照着改即可** |
+| [01-163-SMTP-与-中文邮件模板.md](./01-163-SMTP-与-中文邮件模板.md) | 历史：163 授权码 → Supabase SMTP → 5 套中文邮件模板（Host/账号需按 05 改 QQ） | 用户配置 + 已备好模板 | 历史/备用 |
 | [02-QQ互联-个人开发者申请指南.md](./02-QQ互联-个人开发者申请指南.md) | QQ 登录：注册 → 实名 → 创建网站应用 → 材料清单 | 用户提交申请 | 待提交 |
 | [03-阿里云短信-个人主体申请指南.md](./03-阿里云短信-个人主体申请指南.md) | 手机验证码：先看清「个人主体」的现实限制，再决定走哪条路 | 用户提交申请 | **需先读结论** |
 | [email-templates/](./email-templates/README.md) | 5 个可直接粘贴的中文 HTML 邮件模板 | 已备好 | 可直接用 |

@@ -29,6 +29,17 @@ for (const key of [
   'QQ_APP_ID',
   'QQ_APP_KEY',
   'QQ_REDIRECT_URI',
+  // 邮箱验证码（后端发码）：QQ SMTP + Supabase Admin
+  'SMTP_HOST',
+  'SMTP_PORT',
+  'SMTP_SECURE',
+  'SMTP_USER',
+  'SMTP_PASS',
+  'SMTP_FROM_NAME',
+  'SMTP_FROM_EMAIL',
+  'SITE_URL',
+  'SUPABASE_SERVICE_ROLE_KEY',
+  'EMAIL_CODE_SECRET',
 ]) {
   if (process.env[key]) {
     env[key] = process.env[key];

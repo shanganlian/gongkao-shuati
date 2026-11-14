@@ -24,10 +24,14 @@ import {
   sanitizeStudyPlanRequest,
 } from '../../shared/study-plan';
 import { isQqLoginEnabled } from '../../shared/feature-flags';
+import { registerEmailAuthRoutes } from '../../shared/email-auth';
 
 const app = express();
 
 app.use(express.json());
+
+/** 邮箱验证码登录（后端发码，QQ SMTP） */
+registerEmailAuthRoutes(app);
 
 /** QQ 登录开关（默认关闭）：未开启时 /api/auth/qq/* 一律 404，和 server.ts 保持一致 */
 app.use('/api/auth/qq', (_req, res, next) => (isQqLoginEnabled() ? next() : res.status(404).json({ error: 'not_found' })));
