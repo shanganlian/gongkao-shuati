@@ -69,6 +69,8 @@ export default function App() {
   const [knowledgeFilter, setKnowledgeFilter] = useState<{ module: string; cardIds: string[]; keywords: string[] } | null>(null);
   // 定制计划「去练」：锁定题库模块并进入刷题模式（nonce 保证重复点击同一模块也能触发）
   const [practiceLaunch, setPracticeLaunch] = useState<{ module: string; nonce: number } | null>(null);
+  // 手机端学情总览折叠：默认收起，只保留 Navbar 中的「当前模块」标题行
+  const [isOverviewPanelExpanded, setIsOverviewPanelExpanded] = useState(false);
   const { openAuth } = useAuthUI();
 
   // 离开面试模块时清掉面试子路由，避免 URL 仍停在 #/interview/report/... 导致刷新又跳回面试
@@ -82,6 +84,13 @@ export default function App() {
   useEffect(() => {
     if (!COMMUNITY_ENABLED && activeTab === 'community') {
       setActiveTab('overview');
+    }
+  }, [activeTab]);
+
+  // 离开学情总览时复位折叠状态，再次进入时保持默认收起
+  useEffect(() => {
+    if (activeTab !== 'overview') {
+      setIsOverviewPanelExpanded(false);
     }
   }, [activeTab]);
 
@@ -173,6 +182,8 @@ export default function App() {
         levelTitle={levelTitle}
         onOpenCheckIn={() => setActiveTab('plan')}
         onOpenKnowledgeHub={() => setKnowledgeView('graph')}
+        overviewPanelExpanded={isOverviewPanelExpanded}
+        onToggleOverviewPanel={() => setIsOverviewPanelExpanded((expanded) => !expanded)}
       />
 
       {/* Main Viewport Container
@@ -181,12 +192,17 @@ export default function App() {
       <main className="flex-1 max-w-7xl w-full mx-auto px-3 sm:px-5 lg:px-8 pt-4 sm:pt-6 pb-4 sm:pb-6">
         <Suspense fallback={<div className="flex justify-center items-center h-64"><div className="animate-spin rounded-full h-8 w-8 border-b-2 border-slate-900"></div></div>}>
         {activeTab === 'overview' && (
-          <AnalyticsOverview
-            onNavigate={(tab) => setActiveTab(tab)}
-            selectedCategory={selectedCategory}
-            activityStats={activityStats}
-            onStartReview={() => { setReviewTrigger(prev => prev + 1); setActiveTab('practice'); }}
-          />
+          <div
+            id="overview-module-panel"
+            className={isOverviewPanelExpanded ? 'block' : 'hidden md:block'}
+          >
+            <AnalyticsOverview
+              onNavigate={(tab) => setActiveTab(tab)}
+              selectedCategory={selectedCategory}
+              activityStats={activityStats}
+              onStartReview={() => { setReviewTrigger(prev => prev + 1); setActiveTab('practice'); }}
+            />
+          </div>
         )}
 
         {/* 笔试专区: 每日两题长线思维晨练 */}

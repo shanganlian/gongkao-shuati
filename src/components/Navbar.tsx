@@ -44,6 +44,9 @@ interface NavbarProps {
   onOpenCheckIn: () => void;
   /** 点「板块 2」统一进入知识点体系页，并回到默认子视图（知识图谱），不再有独立的知识卡入口 */
   onOpenKnowledgeHub?: () => void;
+  /** 手机端学情总览折叠状态（<md 生效，md 及以上始终展开） */
+  overviewPanelExpanded?: boolean;
+  onToggleOverviewPanel?: () => void;
 }
 
 export const Navbar: React.FC<NavbarProps> = ({
@@ -55,7 +58,9 @@ export const Navbar: React.FC<NavbarProps> = ({
   level,
   levelTitle,
   onOpenCheckIn,
-  onOpenKnowledgeHub
+  onOpenKnowledgeHub,
+  overviewPanelExpanded = false,
+  onToggleOverviewPanel
 }) => {
   const [showModuleGuide, setShowModuleGuide] = useState<boolean>(false);
   const [showMobileMenu, setShowMobileMenu] = useState<boolean>(false);
@@ -591,20 +596,45 @@ export const Navbar: React.FC<NavbarProps> = ({
         </div>
       )}
 
-      {/* CURRENT ACTIVE MODULE CONTEXT BANNER */}
+      {/* CURRENT ACTIVE MODULE CONTEXT BANNER
+          手机端「学情总览」：整行作为折叠开关，默认只显示当前模块标题 + CSS 箭头；
+          md 及以上仍显示完整说明，内容始终展开。 */}
       <div className="app-header__context bg-slate-50 dark:bg-slate-800 border-t border-slate-200/80 dark:border-slate-700/80 px-3 sm:px-4 text-[11px] sm:text-xs text-slate-600 dark:text-slate-300">
         <div className="max-w-7xl mx-auto flex flex-col sm:flex-row sm:items-center justify-between gap-0.5 sm:gap-1">
-          <div className="flex items-center gap-2">
-            <span className="font-extrabold text-slate-900 dark:text-slate-100">
-              {currentSummary.tag}
-            </span>
-            <span className="text-slate-700 dark:text-slate-200 font-medium hidden sm:inline">
-              — {currentSummary.title}
+          {activeTab === 'overview' && (
+            <button
+              type="button"
+              onClick={onToggleOverviewPanel}
+              aria-expanded={overviewPanelExpanded}
+              aria-controls="overview-module-panel"
+              title={overviewPanelExpanded ? '收起学情总览内容' : '展开学情总览内容'}
+              className="md:hidden w-full flex items-center justify-between gap-2 text-left cursor-pointer"
+            >
+              <span className="font-extrabold text-slate-900 dark:text-slate-100">
+                {currentSummary.tag}
+              </span>
+              {/* CSS 折叠箭头：默认向下展开，展开后向上收起 */}
+              <span
+                aria-hidden="true"
+                className={`w-2.5 h-2.5 shrink-0 border-r-2 border-b-2 border-slate-500 dark:border-slate-400 transition-transform duration-200 ${
+                  overviewPanelExpanded ? 'rotate-[225deg]' : 'rotate-45'
+                }`}
+              />
+            </button>
+          )}
+          <div className={`${activeTab === 'overview' ? 'hidden md:flex' : 'flex'} flex-col sm:flex-row sm:items-center justify-between gap-0.5 sm:gap-1 w-full`}>
+            <div className="flex items-center gap-2">
+              <span className="font-extrabold text-slate-900 dark:text-slate-100">
+                {currentSummary.tag}
+              </span>
+              <span className="text-slate-700 dark:text-slate-200 font-medium hidden sm:inline">
+                — {currentSummary.title}
+              </span>
+            </div>
+            <span className="hidden sm:inline text-[11px] text-slate-500 dark:text-slate-400 italic">
+              {currentSummary.hint}
             </span>
           </div>
-          <span className="hidden sm:inline text-[11px] text-slate-500 dark:text-slate-400 italic">
-            {currentSummary.hint}
-          </span>
         </div>
       </div>
 
