@@ -44,9 +44,11 @@ interface NavbarProps {
   onOpenCheckIn: () => void;
   /** 点「板块 2」统一进入知识点体系页，并回到默认子视图（知识图谱），不再有独立的知识卡入口 */
   onOpenKnowledgeHub?: () => void;
-  /** 手机端学情总览折叠状态（<md 生效，md 及以上始终展开） */
+  /** 手机端学情总览折叠状态（≤768px 生效，≥769px 始终展开） */
   overviewPanelExpanded?: boolean;
   onToggleOverviewPanel?: () => void;
+  /** 点击「学情总览」Tab 时强制展开，确保手动收起后再选 Tab 仍能看到雷达图 */
+  onExpandOverviewPanel?: () => void;
 }
 
 export const Navbar: React.FC<NavbarProps> = ({
@@ -59,14 +61,22 @@ export const Navbar: React.FC<NavbarProps> = ({
   levelTitle,
   onOpenCheckIn,
   onOpenKnowledgeHub,
-  overviewPanelExpanded = false,
-  onToggleOverviewPanel
+  overviewPanelExpanded = true,
+  onToggleOverviewPanel,
+  onExpandOverviewPanel
 }) => {
   const [showModuleGuide, setShowModuleGuide] = useState<boolean>(false);
   const [showMobileMenu, setShowMobileMenu] = useState<boolean>(false);
   const { user, signOut } = useAuth();
   const { openAuth } = useAuthUI();
   const isWrittenTab = ['practice', 'knowledge', 'daily'].includes(activeTab);
+
+  // 主模块切换：保留原选中逻辑；进入「学情总览」时顺带展开内容
+  const handleSelectMainNav = (tabId: string) => {
+    setActiveTab(tabId);
+    setShowMobileMenu(false);
+    if (tabId === 'overview') onExpandOverviewPanel?.();
+  };
 
   // 窄屏汉堡菜单与模块导览互斥，避免两个面板同时展开
   const toggleMobileMenu = () => {
@@ -448,8 +458,37 @@ export const Navbar: React.FC<NavbarProps> = ({
           </div>
         )}
 
-        {/* ROW 2: PRIMARY HIGH-VISIBILITY NAVIGATION CARDS（<lg 单行横向滑动，避免手机/平板把吸顶栏撑成多行） */}
-        <div className="app-header__nav">
+        {/* ROW 2 (MOBILE ≤768px): 5 等分文字 Tab，一行展示，整行约 48px */}
+        <div className="min-[769px]:hidden py-1">
+          <nav
+            aria-label="手机端模块导航"
+            className="flex h-10 items-center gap-1 rounded-xl border border-slate-200/90 bg-slate-100/80 p-1 dark:border-slate-700/80 dark:bg-slate-800/80"
+          >
+            {mainNavItems.map((item) => {
+              const isActive = (item.id === 'practice' && isWrittenTab) || activeTab === item.id;
+
+              return (
+                <button
+                  key={`mobile-${item.id}`}
+                  type="button"
+                  onClick={() => handleSelectMainNav(item.id)}
+                  aria-current={isActive ? 'page' : undefined}
+                  title={item.label}
+                  className={`flex-1 min-w-0 h-full rounded-lg px-0.5 text-[11px] sm:text-xs font-bold whitespace-nowrap transition-colors cursor-pointer ${
+                    isActive
+                      ? 'bg-slate-900 dark:bg-slate-700 text-white shadow-sm'
+                      : 'text-slate-600 dark:text-slate-300 hover:bg-white/80 dark:hover:bg-slate-700/70'
+                  }`}
+                >
+                  {item.label}
+                </button>
+              );
+            })}
+          </nav>
+        </div>
+
+        {/* ROW 2 (TABLET/DESKTOP ≥769px): PRIMARY HIGH-VISIBILITY NAVIGATION CARDS（保持原布局） */}
+        <div className="app-header__nav hidden min-[769px]:block">
           <nav className="app-header__nav-grid flex gap-1.5 overflow-x-auto pb-0.5 sm:gap-2 lg:grid lg:grid-cols-5 lg:overflow-visible lg:pb-0">
             {mainNavItems.map((item) => {
               const Icon = item.icon;
@@ -458,7 +497,7 @@ export const Navbar: React.FC<NavbarProps> = ({
               return (
                 <button
                   key={item.id}
-                  onClick={() => { setActiveTab(item.id); setShowMobileMenu(false); }}
+                  onClick={() => handleSelectMainNav(item.id)}
                   className={`app-header__nav-card group relative text-left w-[7rem] sm:w-[9.5rem] lg:w-auto shrink-0 rounded-xl border-2 transition-all cursor-pointer flex flex-col justify-between ${
                     isActive
                       ? 'bg-slate-900 dark:bg-slate-700 border-slate-900 text-white shadow-md ring-2 ring-slate-900/10'
@@ -597,8 +636,8 @@ export const Navbar: React.FC<NavbarProps> = ({
       )}
 
       {/* CURRENT ACTIVE MODULE CONTEXT BANNER
-          手机端「学情总览」：整行作为折叠开关，默认只显示当前模块标题 + CSS 箭头；
-          md 及以上仍显示完整说明，内容始终展开。 */}
+          手机端「学情总览」：整行作为折叠开关，默认展开并显示模块内容，可手动收起；
+          ≥769px（平板/桌面）仍显示完整说明，内容始终展开。 */}
       <div className="app-header__context bg-slate-50 dark:bg-slate-800 border-t border-slate-200/80 dark:border-slate-700/80 px-3 sm:px-4 text-[11px] sm:text-xs text-slate-600 dark:text-slate-300">
         <div className="max-w-7xl mx-auto flex flex-col sm:flex-row sm:items-center justify-between gap-0.5 sm:gap-1">
           {activeTab === 'overview' && (
@@ -608,7 +647,7 @@ export const Navbar: React.FC<NavbarProps> = ({
               aria-expanded={overviewPanelExpanded}
               aria-controls="overview-module-panel"
               title={overviewPanelExpanded ? '收起学情总览内容' : '展开学情总览内容'}
-              className="md:hidden w-full flex items-center justify-between gap-2 text-left cursor-pointer"
+              className="min-[769px]:hidden w-full flex items-center justify-between gap-2 text-left cursor-pointer"
             >
               <span className="font-extrabold text-slate-900 dark:text-slate-100">
                 {currentSummary.tag}
@@ -622,7 +661,7 @@ export const Navbar: React.FC<NavbarProps> = ({
               />
             </button>
           )}
-          <div className={`${activeTab === 'overview' ? 'hidden md:flex' : 'flex'} flex-col sm:flex-row sm:items-center justify-between gap-0.5 sm:gap-1 w-full`}>
+          <div className={`${activeTab === 'overview' ? 'hidden min-[769px]:flex' : 'flex'} flex-col sm:flex-row sm:items-center justify-between gap-0.5 sm:gap-1 w-full`}>
             <div className="flex items-center gap-2">
               <span className="font-extrabold text-slate-900 dark:text-slate-100">
                 {currentSummary.tag}

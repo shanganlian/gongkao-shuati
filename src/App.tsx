@@ -69,8 +69,8 @@ export default function App() {
   const [knowledgeFilter, setKnowledgeFilter] = useState<{ module: string; cardIds: string[]; keywords: string[] } | null>(null);
   // 定制计划「去练」：锁定题库模块并进入刷题模式（nonce 保证重复点击同一模块也能触发）
   const [practiceLaunch, setPracticeLaunch] = useState<{ module: string; nonce: number } | null>(null);
-  // 手机端学情总览折叠：默认收起，只保留 Navbar 中的「当前模块」标题行
-  const [isOverviewPanelExpanded, setIsOverviewPanelExpanded] = useState(false);
+  // 手机端学情总览折叠：默认展开，保证模块 Tab 下方能直接看到雷达图等内容
+  const [isOverviewPanelExpanded, setIsOverviewPanelExpanded] = useState(true);
   const { openAuth } = useAuthUI();
 
   // 离开面试模块时清掉面试子路由，避免 URL 仍停在 #/interview/report/... 导致刷新又跳回面试
@@ -87,10 +87,10 @@ export default function App() {
     }
   }, [activeTab]);
 
-  // 离开学情总览时复位折叠状态，再次进入时保持默认收起
+  // 离开学情总览时复位为展开，再次进入时仍能完整展示雷达图等内容
   useEffect(() => {
     if (activeTab !== 'overview') {
-      setIsOverviewPanelExpanded(false);
+      setIsOverviewPanelExpanded(true);
     }
   }, [activeTab]);
 
@@ -184,6 +184,7 @@ export default function App() {
         onOpenKnowledgeHub={() => setKnowledgeView('graph')}
         overviewPanelExpanded={isOverviewPanelExpanded}
         onToggleOverviewPanel={() => setIsOverviewPanelExpanded((expanded) => !expanded)}
+        onExpandOverviewPanel={() => setIsOverviewPanelExpanded(true)}
       />
 
       {/* Main Viewport Container
@@ -194,7 +195,7 @@ export default function App() {
         {activeTab === 'overview' && (
           <div
             id="overview-module-panel"
-            className={isOverviewPanelExpanded ? 'block' : 'hidden md:block'}
+            className={isOverviewPanelExpanded ? 'block' : 'hidden min-[769px]:block'}
           >
             <AnalyticsOverview
               onNavigate={(tab) => setActiveTab(tab)}
