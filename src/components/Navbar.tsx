@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useLayoutEffect, useRef, useState } from 'react';
 import { 
   Compass, 
   BookOpen, 
@@ -44,12 +44,79 @@ interface NavbarProps {
   onOpenCheckIn: () => void;
   /** 点「板块 2」统一进入知识点体系页，并回到默认子视图（知识图谱），不再有独立的知识卡入口 */
   onOpenKnowledgeHub?: () => void;
-  /** 手机端学情总览折叠状态（≤768px 生效，≥769px 始终展开） */
+  /** 手机端学情总览折叠状态（≤768px 生效，≥769px 始终展开；开关位于汉堡菜单） */
   overviewPanelExpanded?: boolean;
   onToggleOverviewPanel?: () => void;
   /** 点击「学情总览」Tab 时强制展开，确保手动收起后再选 Tab 仍能看到雷达图 */
   onExpandOverviewPanel?: () => void;
 }
+
+interface MobileCollapsePanelProps {
+  id: string;
+  open: boolean;
+  className?: string;
+  innerClassName?: string;
+  ariaLabel?: string;
+  children: React.ReactNode;
+}
+
+/**
+ * 手机端卷帘面板：
+ * - 面板本身始终 absolute，不参与文档流，展开/收起不会让 header、main 或页面滚动位置发生位移；
+ * - 用 ResizeObserver 实测内容高度，再让 max-height 在 0 与真实高度之间过渡，
+ *   避免 grid-template-rows 在部分移动端 WebView 中不生效导致的“瞬间弹开”；
+ * - 内容层额外做一次轻微上滑 + 淡入，收起时反向播放，观感更接近手风琴。
+ */
+const MobileCollapsePanel: React.FC<MobileCollapsePanelProps> = ({
+  id,
+  open,
+  className = '',
+  innerClassName = '',
+  ariaLabel,
+  children
+}) => {
+  const innerRef = useRef<HTMLDivElement>(null);
+  const [contentHeight, setContentHeight] = useState(0);
+
+  useLayoutEffect(() => {
+    const inner = innerRef.current;
+    if (!inner) return;
+
+    const measure = () => {
+      const next = Math.ceil(inner.scrollHeight);
+      setContentHeight((prev) => (prev === next ? prev : next));
+    };
+
+    measure();
+    const observer = typeof ResizeObserver !== 'undefined' ? new ResizeObserver(measure) : null;
+    observer?.observe(inner);
+    window.addEventListener('resize', measure);
+
+    return () => {
+      observer?.disconnect();
+      window.removeEventListener('resize', measure);
+    };
+  }, [open]);
+
+  const panelStyle = {
+    '--app-collapse-h': `${contentHeight}px`
+  } as React.CSSProperties;
+
+  return (
+    <div
+      id={id}
+      role={ariaLabel ? 'navigation' : undefined}
+      aria-label={ariaLabel}
+      data-state={open ? 'open' : 'closed'}
+      style={panelStyle}
+      className={`app-header__collapse-panel ${open ? 'is-open' : ''} ${className}`}
+    >
+      <div ref={innerRef} className={`app-header__collapse-panel-inner ${innerClassName}`}>
+        {children}
+      </div>
+    </div>
+  );
+};
 
 export const Navbar: React.FC<NavbarProps> = ({
   activeTab,
@@ -78,7 +145,33 @@ export const Navbar: React.FC<NavbarProps> = ({
   const handleSelectMainNav = (tabId: string) => {
     setActiveTab(tabId);
     setShowMobileMenu(false);
+    setShowMobileMainNav(false);
+    setShowMobileWrittenSubnav(false);
     if (tabId === 'overview') onExpandOverviewPanel?.();
+  };
+
+  // 手机端两个悬浮折叠面板互斥，避免同时展开时互相遮挡
+  const toggleMobileMainNav = () => {
+    setShowMobileMainNav((prev) => {
+      const next = !prev;
+      if (next) setShowMobileWrittenSubnav(false);
+      return next;
+    });
+  };
+
+  const toggleMobileWrittenSubnav = () => {
+    setShowMobileWrittenSubnav((prev) => {
+      const next = !prev;
+      if (next) setShowMobileMainNav(false);
+      return next;
+    });
+  };
+
+  // 选择核心板块后收起悬浮面板，桌面端不受影响（桌面始终常显）
+  const handleSelectWrittenSection = (tabId: string) => {
+    setActiveTab(tabId);
+    if (tabId === 'knowledge') onOpenKnowledgeHub?.();
+    setShowMobileWrittenSubnav(false);
   };
 
   // 窄屏汉堡菜单与模块导览互斥，避免两个面板同时展开
@@ -389,6 +482,39 @@ export const Navbar: React.FC<NavbarProps> = ({
             id="mobile-header-menu"
             className="app-header__mobile-menu lg:hidden border-b border-slate-200 dark:border-slate-700 bg-slate-50 dark:bg-slate-800 px-1 pt-1.5 pb-2.5 space-y-1.5 sm:pt-2 sm:pb-3 sm:space-y-2 animate-in fade-in slide-in-from-top-1 duration-150"
           >
+            {/* 当前模块摘要：≤768px 从主页面迁移到这里，只在打开菜单时显示 */}
+            <div
+              data-testid="mobile-current-module"
+              className="min-[769px]:hidden rounded-xl border border-emerald-200/90 bg-emerald-50/80 px-2.5 py-2 dark:border-emerald-800/60 dark:bg-emerald-950/20"
+            >
+              <p className="text-[11px] sm:text-xs font-black text-emerald-950 dark:text-emerald-100">
+                {currentSummary.tag}
+              </p>
+              <p className="mt-0.5 text-[10px] sm:text-[11px] leading-relaxed text-slate-500 dark:text-slate-400">
+                {currentSummary.hint}
+              </p>
+              {activeTab === 'overview' && onToggleOverviewPanel && (
+                <button
+                  type="button"
+                  data-testid="mobile-overview-toggle"
+                  onClick={() => {
+                    onToggleOverviewPanel();
+                    setShowMobileMenu(false);
+                  }}
+                  aria-expanded={overviewPanelExpanded}
+                  aria-controls="overview-module-panel"
+                  title={overviewPanelExpanded ? '收起学情总览内容' : '展开学情总览内容'}
+                  className="mt-1.5 flex w-full items-center justify-between gap-2 rounded-lg border border-emerald-200/80 bg-white/70 px-2 py-1 text-[10px] font-bold text-emerald-800 transition-colors hover:bg-white dark:border-emerald-800/60 dark:bg-slate-900/50 dark:text-emerald-200 dark:hover:bg-slate-900"
+                >
+                  <span>{overviewPanelExpanded ? '收起学情总览内容' : '展开学情总览内容'}</span>
+                  <ChevronDown
+                    aria-hidden="true"
+                    className={`h-3.5 w-3.5 transition-transform ${overviewPanelExpanded ? 'rotate-180' : ''}`}
+                  />
+                </button>
+              )}
+            </div>
+
             <div className="rounded-xl border border-slate-200 dark:border-slate-700 bg-white dark:bg-slate-900 p-2.5 sm:p-3">
               <label htmlFor="mobile-target-category" className="block text-[10px] sm:text-[11px] font-bold text-slate-500 dark:text-slate-400 mb-1 sm:mb-1.5">
                 当前目标
@@ -461,47 +587,51 @@ export const Navbar: React.FC<NavbarProps> = ({
           </div>
         )}
 
-        {/* ROW 2 (MOBILE ≤768px): 纯文本折叠标题，默认只占 35px 一行 */}
-        <div className="min-[769px]:hidden">
+        {/* ROW 2 (MOBILE ≤768px): 标题随 sticky header 固定可见，展开面板 absolute 悬浮 */}
+        <div className="app-header__collapse-group app-header__collapse-group--main min-[769px]:hidden">
           <button
             type="button"
-            onClick={() => setShowMobileMainNav((prev) => !prev)}
+            onClick={toggleMobileMainNav}
             aria-expanded={showMobileMainNav}
             aria-controls="mobile-main-nav-panel"
             title={showMobileMainNav ? '收起备考模块' : '展开备考模块'}
             className="app-header__collapse-title text-[12px] font-extrabold text-slate-700 dark:text-slate-200 hover:text-emerald-600 dark:hover:text-emerald-400 transition-colors"
           >
-            📌 展开备考模块
+            <span>📌 展开备考模块</span>
+            <ChevronDown
+              aria-hidden="true"
+              className={`app-header__collapse-arrow ${showMobileMainNav ? 'is-open' : ''}`}
+            />
           </button>
 
-          <nav
+          <MobileCollapsePanel
             id="mobile-main-nav-panel"
-            aria-label="手机端模块导航"
-            className={`app-header__collapse-panel ${
-              showMobileMainNav ? 'flex app-header__collapse-panel--open' : 'hidden'
-            } h-10 items-center gap-1 rounded-xl border border-slate-200/90 bg-slate-100/80 p-1 dark:border-slate-700/80 dark:bg-slate-800/80`}
+            open={showMobileMainNav}
+            ariaLabel="手机端模块导航"
           >
-            {mainNavItems.map((item) => {
-              const isActive = (item.id === 'practice' && isWrittenTab) || activeTab === item.id;
+            <div className="h-10 flex items-center gap-1 rounded-xl border border-slate-200/90 bg-slate-100/95 p-1 shadow-xl dark:border-slate-700/80 dark:bg-slate-800/95">
+              {mainNavItems.map((item) => {
+                const isActive = (item.id === 'practice' && isWrittenTab) || activeTab === item.id;
 
-              return (
-                <button
-                  key={`mobile-${item.id}`}
-                  type="button"
-                  onClick={() => handleSelectMainNav(item.id)}
-                  aria-current={isActive ? 'page' : undefined}
-                  title={item.label}
-                  className={`flex-1 min-w-0 h-full rounded-lg px-0.5 text-[11px] sm:text-xs font-bold whitespace-nowrap transition-colors cursor-pointer ${
-                    isActive
-                      ? 'bg-slate-900 dark:bg-slate-700 text-white shadow-sm'
-                      : 'text-slate-600 dark:text-slate-300 hover:bg-white/80 dark:hover:bg-slate-700/70'
-                  }`}
-                >
-                  {item.label}
-                </button>
-              );
-            })}
-          </nav>
+                return (
+                  <button
+                    key={`mobile-${item.id}`}
+                    type="button"
+                    onClick={() => handleSelectMainNav(item.id)}
+                    aria-current={isActive ? 'page' : undefined}
+                    title={item.label}
+                    className={`flex-1 min-w-0 h-full rounded-lg px-0.5 text-[11px] sm:text-xs font-bold whitespace-nowrap transition-colors cursor-pointer ${
+                      isActive
+                        ? 'bg-slate-900 dark:bg-slate-700 text-white shadow-sm'
+                        : 'text-slate-600 dark:text-slate-300 hover:bg-white/80 dark:hover:bg-slate-700/70'
+                    }`}
+                  >
+                    {item.label}
+                  </button>
+                );
+              })}
+            </div>
+          </MobileCollapsePanel>
         </div>
 
         {/* ROW 2 (TABLET/DESKTOP ≥769px): PRIMARY HIGH-VISIBILITY NAVIGATION CARDS（保持原布局） */}
@@ -569,65 +699,73 @@ export const Navbar: React.FC<NavbarProps> = ({
       {isWrittenTab && (
         <div className="app-header__subnav app-header__subnav--collapsible bg-brand-ink text-white border-t border-white/10 px-3 sm:px-4">
           <div className="max-w-7xl mx-auto flex flex-col min-[769px]:flex-row min-[769px]:items-center justify-between gap-1.5 sm:gap-2 text-[11px] sm:text-xs">
-            {/* MOBILE ≤768px：纯文本折叠标题，默认收起 */}
-            <button
-              type="button"
-              onClick={() => setShowMobileWrittenSubnav((prev) => !prev)}
-              aria-expanded={showMobileWrittenSubnav}
-              aria-controls="mobile-written-subnav-panel"
-              title={showMobileWrittenSubnav ? '收起三大核心板块' : '展开三大核心板块'}
-              className="app-header__collapse-title text-[12px] font-extrabold text-white hover:text-emerald-200 transition-colors"
-            >
-              📚 展开三大核心板块
-            </button>
-
-            {/* ≥769px 保留原布局；≤768px 由上方标题控制展开/收起 */}
-            <div
-              id="mobile-written-subnav-panel"
-              className={`app-header__collapse-panel ${
-                showMobileWrittenSubnav ? 'flex app-header__collapse-panel--open' : 'hidden'
-              } min-[769px]:flex w-full min-[769px]:w-auto flex-col min-[769px]:flex-row min-[769px]:items-center gap-1.5 sm:gap-2 min-[769px]:overflow-x-auto pb-0.5 lg:flex-wrap lg:overflow-visible lg:pb-0`}
-            >
-              <span className="hidden min-[769px]:flex font-extrabold text-white items-center gap-1.5 mr-1 text-[11px] sm:text-xs shrink-0 whitespace-nowrap">
-                <BookOpen className="w-3.5 h-3.5 text-emerald-200" />
-                笔试专区三大核心板块：
-              </span>
-
+            <div className="app-header__collapse-group app-header__collapse-group--subnav">
+              {/* MOBILE ≤768px：标题固定在绿色栏内，右侧箭头随展开状态旋转 */}
               <button
-                onClick={() => setActiveTab('practice')}
-                className={`app-header__subnav-item flex items-center gap-1.5 rounded-lg transition-all cursor-pointer w-full min-[769px]:w-auto shrink-0 justify-start text-left whitespace-normal min-[769px]:whitespace-nowrap ${
-                  activeTab === 'practice'
-                    ? 'bg-white dark:bg-slate-900 text-brand-ink font-black shadow-xs ring-1 ring-brand-gold'
-                    : 'bg-transparent text-emerald-50 ring-1 ring-brand-gold/60 hover:bg-brand-ink-soft hover:ring-brand-gold'
-                }`}
+                type="button"
+                onClick={toggleMobileWrittenSubnav}
+                aria-expanded={showMobileWrittenSubnav}
+                aria-controls="mobile-written-subnav-panel"
+                title={showMobileWrittenSubnav ? '收起核心板块' : '展开核心板块'}
+                className="app-header__collapse-title text-[12px] font-extrabold text-white hover:text-emerald-200 transition-colors"
               >
-                <FileText className={activeTab === 'practice' ? 'text-brand-ink' : 'text-emerald-200'} />
-                <span>板块 1：题库刷题与全真试卷 (专项/真题/错题本)</span>
+                <span>📚 展开核心板块</span>
+                <ChevronDown
+                  aria-hidden="true"
+                  className={`app-header__collapse-arrow ${showMobileWrittenSubnav ? 'is-open' : ''}`}
+                />
               </button>
 
-              <button
-                onClick={() => { setActiveTab('knowledge'); onOpenKnowledgeHub?.(); }}
-                className={`app-header__subnav-item flex items-center gap-1.5 rounded-lg transition-all cursor-pointer w-full min-[769px]:w-auto shrink-0 justify-start text-left whitespace-normal min-[769px]:whitespace-nowrap ${
-                  activeTab === 'knowledge'
-                    ? 'bg-white dark:bg-slate-900 text-brand-ink font-black shadow-xs ring-1 ring-brand-gold'
-                    : 'bg-transparent text-emerald-50 ring-1 ring-brand-gold/60 hover:bg-brand-ink-soft hover:ring-brand-gold'
-                }`}
+              {/* ≥769px 保留原布局；≤768px 面板 absolute 悬浮，不占文档流 */}
+              <MobileCollapsePanel
+                id="mobile-written-subnav-panel"
+                open={showMobileWrittenSubnav}
+                className="min-[769px]:flex w-full min-[769px]:w-auto flex-col min-[769px]:flex-row min-[769px]:items-center gap-1.5 sm:gap-2 min-[769px]:overflow-x-auto pb-0.5 lg:flex-wrap lg:overflow-visible lg:pb-0"
+                innerClassName="min-[769px]:contents"
               >
-                <Headphones className={activeTab === 'knowledge' ? 'text-brand-ink' : 'text-emerald-200'} />
-                <span>板块 2：知识点体系 · 通关秘籍与语音随身听</span>
-              </button>
+                <div className="min-[769px]:contents flex flex-col gap-1.5 rounded-xl bg-brand-ink p-2 shadow-2xl ring-1 ring-white/10">
+                    <span className="hidden min-[769px]:flex font-extrabold text-white items-center gap-1.5 mr-1 text-[11px] sm:text-xs shrink-0 whitespace-nowrap">
+                      <BookOpen className="w-3.5 h-3.5 text-emerald-200" />
+                      笔试专区三大核心板块：
+                    </span>
 
-              <button
-                onClick={() => setActiveTab('daily')}
-                className={`app-header__subnav-item flex items-center gap-1.5 rounded-lg transition-all cursor-pointer w-full min-[769px]:w-auto shrink-0 justify-start text-left whitespace-normal min-[769px]:whitespace-nowrap ${
-                  activeTab === 'daily'
-                    ? 'bg-white dark:bg-slate-900 text-brand-ink font-black shadow-xs ring-1 ring-brand-gold'
-                    : 'bg-transparent text-emerald-50 ring-1 ring-brand-gold/60 hover:bg-brand-ink-soft hover:ring-brand-gold'
-                }`}
-              >
-                <Sparkles className={activeTab === 'daily' ? 'text-brand-ink' : 'text-emerald-200'} />
-                <span>板块 3：申论初试 · 每日思维两题晨练</span>
-              </button>
+                    <button
+                      onClick={() => handleSelectWrittenSection('practice')}
+                      className={`app-header__subnav-item flex items-center gap-1.5 rounded-lg transition-all cursor-pointer w-full min-[769px]:w-auto shrink-0 justify-start text-left whitespace-normal min-[769px]:whitespace-nowrap ${
+                        activeTab === 'practice'
+                          ? 'bg-white dark:bg-slate-900 text-brand-ink font-black shadow-xs ring-1 ring-brand-gold'
+                          : 'bg-transparent text-emerald-50 ring-1 ring-brand-gold/60 hover:bg-brand-ink-soft hover:ring-brand-gold'
+                      }`}
+                    >
+                      <FileText className={activeTab === 'practice' ? 'text-brand-ink' : 'text-emerald-200'} />
+                      <span>板块 1：题库刷题与全真试卷 (专项/真题/错题本)</span>
+                    </button>
+
+                    <button
+                      onClick={() => handleSelectWrittenSection('knowledge')}
+                      className={`app-header__subnav-item flex items-center gap-1.5 rounded-lg transition-all cursor-pointer w-full min-[769px]:w-auto shrink-0 justify-start text-left whitespace-normal min-[769px]:whitespace-nowrap ${
+                        activeTab === 'knowledge'
+                          ? 'bg-white dark:bg-slate-900 text-brand-ink font-black shadow-xs ring-1 ring-brand-gold'
+                          : 'bg-transparent text-emerald-50 ring-1 ring-brand-gold/60 hover:bg-brand-ink-soft hover:ring-brand-gold'
+                      }`}
+                    >
+                      <Headphones className={activeTab === 'knowledge' ? 'text-brand-ink' : 'text-emerald-200'} />
+                      <span>板块 2：知识点体系 · 通关秘籍与语音随身听</span>
+                    </button>
+
+                    <button
+                      onClick={() => handleSelectWrittenSection('daily')}
+                      className={`app-header__subnav-item flex items-center gap-1.5 rounded-lg transition-all cursor-pointer w-full min-[769px]:w-auto shrink-0 justify-start text-left whitespace-normal min-[769px]:whitespace-nowrap ${
+                        activeTab === 'daily'
+                          ? 'bg-white dark:bg-slate-900 text-brand-ink font-black shadow-xs ring-1 ring-brand-gold'
+                          : 'bg-transparent text-emerald-50 ring-1 ring-brand-gold/60 hover:bg-brand-ink-soft hover:ring-brand-gold'
+                      }`}
+                    >
+                      <Sparkles className={activeTab === 'daily' ? 'text-brand-ink' : 'text-emerald-200'} />
+                      <span>板块 3：申论初试 · 每日思维两题晨练</span>
+                    </button>
+                </div>
+              </MobileCollapsePanel>
             </div>
 
             <span className="text-[11px] text-emerald-100/80 font-medium hidden lg:inline-block">
@@ -670,44 +808,21 @@ export const Navbar: React.FC<NavbarProps> = ({
       )}
 
       {/* CURRENT ACTIVE MODULE CONTEXT BANNER
-          手机端「学情总览」：整行作为折叠开关，默认展开并显示模块内容，可手动收起；
-          ≥769px（平板/桌面）仍显示完整说明，内容始终展开。 */}
-      <div className="app-header__context bg-slate-50 dark:bg-slate-800 border-t border-slate-200/80 dark:border-slate-700/80 px-3 sm:px-4 text-[11px] sm:text-xs text-slate-600 dark:text-slate-300">
+          手机端（≤768px）整行隐藏，当前模块摘要与学情总览折叠操作移入右上角汉堡菜单；
+          ≥769px 继续显示完整说明，不占用手机首屏高度。 */}
+      <div className="app-header__context hidden min-[769px]:block bg-slate-50 dark:bg-slate-800 border-t border-slate-200/80 dark:border-slate-700/80 px-3 sm:px-4 text-[11px] sm:text-xs text-slate-600 dark:text-slate-300">
         <div className="max-w-7xl mx-auto flex flex-col sm:flex-row sm:items-center justify-between gap-0.5 sm:gap-1">
-          {activeTab === 'overview' && (
-            <button
-              type="button"
-              onClick={onToggleOverviewPanel}
-              aria-expanded={overviewPanelExpanded}
-              aria-controls="overview-module-panel"
-              title={overviewPanelExpanded ? '收起学情总览内容' : '展开学情总览内容'}
-              className="min-[769px]:hidden w-full flex items-center justify-between gap-2 text-left cursor-pointer"
-            >
-              <span className="font-extrabold text-slate-900 dark:text-slate-100">
-                {currentSummary.tag}
-              </span>
-              {/* CSS 折叠箭头：默认向下展开，展开后向上收起 */}
-              <span
-                aria-hidden="true"
-                className={`w-2.5 h-2.5 shrink-0 border-r-2 border-b-2 border-slate-500 dark:border-slate-400 transition-transform duration-200 ${
-                  overviewPanelExpanded ? 'rotate-[225deg]' : 'rotate-45'
-                }`}
-              />
-            </button>
-          )}
-          <div className={`${activeTab === 'overview' ? 'hidden min-[769px]:flex' : 'flex'} flex-col sm:flex-row sm:items-center justify-between gap-0.5 sm:gap-1 w-full`}>
-            <div className="flex items-center gap-2">
-              <span className="font-extrabold text-slate-900 dark:text-slate-100">
-                {currentSummary.tag}
-              </span>
-              <span className="text-slate-700 dark:text-slate-200 font-medium hidden sm:inline">
-                — {currentSummary.title}
-              </span>
-            </div>
-            <span className="hidden sm:inline text-[11px] text-slate-500 dark:text-slate-400 italic">
-              {currentSummary.hint}
+          <div className="flex items-center gap-2">
+            <span className="font-extrabold text-slate-900 dark:text-slate-100">
+              {currentSummary.tag}
+            </span>
+            <span className="text-slate-700 dark:text-slate-200 font-medium hidden sm:inline">
+              — {currentSummary.title}
             </span>
           </div>
+          <span className="hidden sm:inline text-[11px] text-slate-500 dark:text-slate-400 italic">
+            {currentSummary.hint}
+          </span>
         </div>
       </div>
 

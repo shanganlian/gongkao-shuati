@@ -133,7 +133,7 @@
   --app-header-subnav-item-px: 12px;   /* 二级子导航按钮 px-3 */
   --app-header-subnav-font: 12px;      /* 二级子导航按钮 text-xs */
   --app-header-subnav-icon: 14px;      /* 二级子导航图标 w-3.5 */
-  --app-header-context-py: 6px;        /* 当前模块提示条 py-1.5 */
+  --app-header-context-py: 6px;        /* ≥769px 当前模块提示条 py-1.5（手机端已移入汉堡菜单） */
 }
 
 /* 吸顶栏会盖住锚点目标，滚动定位时预留一行主行高度（桌面 64 + 8） */
@@ -226,20 +226,25 @@ html {
   height: var(--app-header-subnav-icon);
 }
 
-/* 手机端顶部纯文本折叠标题：仅 ≤768px 显示，固定 35px，左对齐 */
+/* 手机端折叠标题：仅 ≤768px 显示；桌面端保持隐藏 */
 .app-header__collapse-title {
   display: none;
 }
 
-@keyframes app-header-collapse-in {
-  from {
-    opacity: 0;
-    transform: translateY(-4px);
-  }
-  to {
-    opacity: 1;
-    transform: translateY(0);
-  }
+/* 桌面端让包裹层“透明”，子元素仍作为原 flex 布局的直接项目，排版零变化 */
+.app-header__collapse-group--subnav {
+  display: contents;
+}
+
+.app-header__collapse-arrow {
+  width: 14px;
+  height: 14px;
+  flex-shrink: 0;
+  transition: transform 220ms cubic-bezier(0.22, 1, 0.36, 1);
+}
+
+.app-header__collapse-arrow.is-open {
+  transform: rotate(180deg);
 }
 
 .app-header__context {
@@ -317,13 +322,17 @@ html {
     --app-header-context-py: 4px;
   }
 
-  /* 顶部折叠标题：纯文本、35px、左对齐；桌面端由基础规则保持 display:none */
+  /* 标题仍位于 sticky header 内，滚动时始终吸附在顶部；高度固定 35px */
   .app-header__collapse-title {
+    position: relative;
+    z-index: 70;
     display: flex;
     align-items: center;
-    justify-content: flex-start;
+    justify-content: space-between;
+    gap: 8px;
     width: 100%;
     height: 35px;
+    flex: 0 0 35px;
     margin: 0;
     padding: 0;
     border: 0;
@@ -333,15 +342,83 @@ html {
     user-select: none;
   }
 
+  /*
+   * 关键：手机端折叠组的定位父级是 sticky header，而不是标题本身。
+   * 两个面板都从 header 底部展开，因此标题行不会被盖住；
+   * 当前模块说明行已在手机端移入汉堡菜单，主页面不再为它预留高度。
+   */
+  .app-header__collapse-group {
+    position: static;
+    width: 100%;
+  }
+
+  .app-header__collapse-group--subnav {
+    display: block;
+  }
+
   /* 绿色子导航在手机端取消上下内边距，让收起态严格保持 35px */
   .app-header__subnav--collapsible {
     padding-top: 0;
     padding-bottom: 0;
   }
 
-  /* 展开时从上向下滑出；收起时直接 display:none，避免占位 */
-  .app-header__collapse-panel--open {
-    animation: app-header-collapse-in 160ms ease-out both;
+  /*
+   * 卷帘式折叠：
+   * - 外层 absolute 悬浮在页面之上，永不占据文档流，展开不会顶起页面；
+   * - max-height 由 ResizeObserver 实测的 --app-collapse-h 驱动，0 ↔ 真实高度双向过渡；
+   * - 内容层再做一次轻微上滑 + 淡入，避免“整块突然出现”的硬切观感；
+   * - visibility 延迟到收起动画结束后再隐藏，避免键盘焦点落入不可见面板。
+   */
+  .app-header__collapse-panel {
+    position: absolute;
+    top: calc(100% + 4px);
+    left: 12px;
+    right: 12px;
+    z-index: 60;
+    max-height: 0;
+    overflow: hidden;
+    padding: 0;
+    opacity: 0;
+    transform: translateY(-6px);
+    transform-origin: top center;
+    visibility: hidden;
+    pointer-events: none;
+    will-change: opacity, transform;
+    transition:
+      max-height 300ms cubic-bezier(0.22, 1, 0.36, 1),
+      opacity 180ms ease,
+      transform 300ms cubic-bezier(0.22, 1, 0.36, 1),
+      visibility 0s linear 300ms;
+  }
+
+  .app-header__collapse-panel.is-open {
+    max-height: var(--app-collapse-h, 0px);
+    opacity: 1;
+    transform: translateY(0);
+    visibility: visible;
+    pointer-events: auto;
+    transition:
+      max-height 300ms cubic-bezier(0.22, 1, 0.36, 1),
+      opacity 160ms ease 20ms,
+      transform 300ms cubic-bezier(0.22, 1, 0.36, 1),
+      visibility 0s linear 0s;
+  }
+
+  .app-header__collapse-panel-inner {
+    min-height: 0;
+    opacity: 0;
+    transform: translateY(-4px);
+    transition:
+      opacity 140ms ease,
+      transform 180ms ease;
+  }
+
+  .app-header__collapse-panel.is-open .app-header__collapse-panel-inner {
+    opacity: 1;
+    transform: translateY(0);
+    transition:
+      opacity 200ms ease 60ms,
+      transform 300ms cubic-bezier(0.22, 1, 0.36, 1);
   }
 
   /* 汉堡下拉菜单内的整行按钮同步收紧 */
@@ -354,6 +431,14 @@ html {
   .app-header__mobile-menu > button svg {
     width: 14px;
     height: 14px;
+  }
+}
+
+/* 640–768px 头部左右留白为 20px（sm:px-5），悬浮面板同步对齐 */
+@media (min-width: 640px) and (max-width: 768px) {
+  .app-header__collapse-panel {
+    left: 20px;
+    right: 20px;
   }
 }
 
