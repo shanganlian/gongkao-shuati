@@ -240,25 +240,27 @@ export const Navbar: React.FC<NavbarProps> = ({
   const currentSummary = getActiveModuleSummary();
 
   return (
-    <header className="sticky top-0 z-40 bg-white dark:bg-slate-900 border-b border-brand-line transition-colors">
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+    <header className="app-header sticky top-0 z-40 bg-white dark:bg-slate-900 border-b border-brand-line transition-colors">
+      {/* 手机/平板横向留白收紧，lg 起恢复桌面 32px */}
+      <div className="max-w-7xl mx-auto px-3 sm:px-5 lg:px-8">
         
         {/* ROW 1: Brand Wordmark, Exam Selector & Quick Actions */}
-        <div className="flex items-center justify-between h-16 border-b border-slate-100 dark:border-slate-800">
+        <div className="app-header__row app-header__row--main flex items-center justify-between border-b border-slate-100 dark:border-slate-800">
           
           {/* Brand Logo：窄屏单行化，logo + 名称禁止换行；徽标降级为 PRO */}
-          <div className="flex items-center gap-2 sm:gap-3 min-w-0">
+          <div className="flex items-center gap-1.5 sm:gap-3 min-w-0">
             <button
               onClick={() => { setActiveTab('overview'); setShowMobileMenu(false); }}
-              className="flex items-center gap-2 sm:gap-2.5 text-left cursor-pointer group focus:outline-none min-w-0"
+              className="flex items-center gap-1.5 sm:gap-2.5 text-left cursor-pointer group focus:outline-none min-w-0"
               title="点击返回学情总览"
             >
-              <div className="w-8 h-8 sm:w-9 sm:h-9 shrink-0 rounded-xl bg-slate-900 dark:bg-slate-700 group-hover:bg-emerald-600 flex items-center justify-center text-white font-black text-base sm:text-lg shadow-sm transition-colors">
+              {/* 尺寸/字号由 .app-header__logo 按断点控制，桌面仍为 36px / 18px */}
+              <div className="app-header__logo shrink-0 rounded-xl bg-slate-900 dark:bg-slate-700 group-hover:bg-emerald-600 flex items-center justify-center text-white font-black shadow-sm transition-colors">
                 必
               </div>
               <div className="min-w-0">
                 <div className="flex items-center gap-1.5 whitespace-nowrap">
-                  <span className="text-base sm:text-lg font-black tracking-tight text-slate-900 dark:text-slate-100 font-sans whitespace-nowrap">
+                  <span className="app-header__brand-name font-black tracking-tight text-slate-900 dark:text-slate-100 font-sans whitespace-nowrap">
                     必得题库
                   </span>
                   <span className="hidden sm:inline-block text-[10px] px-1.5 py-0.5 rounded-full bg-slate-900 dark:bg-slate-700 text-white font-bold tracking-wide whitespace-nowrap">
@@ -268,7 +270,7 @@ export const Navbar: React.FC<NavbarProps> = ({
                     PRO
                   </span>
                 </div>
-                <p className="text-[10px] text-slate-500 dark:text-slate-400 font-medium leading-none mt-0.5 hidden sm:block whitespace-nowrap">
+                <p className="app-header__tagline text-slate-500 dark:text-slate-400 font-medium leading-none mt-0.5 hidden sm:block whitespace-nowrap">
                   I go, I get · 踏上征程，势在必得
                 </p>
               </div>
@@ -294,7 +296,7 @@ export const Navbar: React.FC<NavbarProps> = ({
           </div>
 
           {/* Top Right Quick CTAs：lg 及以上常驻；窄屏收进汉堡菜单 */}
-          <div className="hidden lg:flex items-center gap-2 shrink-0">
+          <div className="app-header__actions hidden lg:flex items-center gap-2 shrink-0">
             {/* Explainer Button */}
             <button
               onClick={() => setShowModuleGuide(!showModuleGuide)}
@@ -326,9 +328,9 @@ export const Navbar: React.FC<NavbarProps> = ({
             {/* 用户认证 */}
             {user ? (
               <div className="flex items-center gap-2">
-                <div className="flex items-center gap-1.5 px-2.5 py-1.5 bg-slate-100 dark:bg-slate-800 rounded-xl">
+                <div className="app-header__user-chip flex items-center gap-1.5 px-2.5 py-1.5 bg-slate-100 dark:bg-slate-800 rounded-xl">
                   <User className="w-3.5 h-3.5 text-emerald-600 dark:text-emerald-400" />
-                  <span className="text-xs font-bold text-slate-700 dark:text-slate-200 max-w-[100px] truncate">{user.email}</span>
+                  <span className="app-header__user-email text-xs font-bold text-slate-700 dark:text-slate-200 max-w-[100px] truncate">{user.email}</span>
                 </div>
                 <button
                   onClick={signOut}
@@ -357,9 +359,9 @@ export const Navbar: React.FC<NavbarProps> = ({
             aria-expanded={showMobileMenu}
             aria-controls="mobile-header-menu"
             onClick={toggleMobileMenu}
-            className="lg:hidden shrink-0 w-9 h-9 flex items-center justify-center rounded-xl border border-slate-300 dark:border-slate-600 bg-white dark:bg-slate-900 text-slate-700 dark:text-slate-200 hover:bg-slate-100 dark:hover:bg-slate-800 active:bg-slate-200 dark:active:bg-slate-700 transition-colors cursor-pointer"
+            className="app-header__menu-btn lg:hidden shrink-0 flex items-center justify-center rounded-xl border border-slate-300 dark:border-slate-600 bg-white dark:bg-slate-900 text-slate-700 dark:text-slate-200 hover:bg-slate-100 dark:hover:bg-slate-800 active:bg-slate-200 dark:active:bg-slate-700 transition-colors cursor-pointer"
           >
-            {showMobileMenu ? <X className="w-5 h-5" /> : <Menu className="w-5 h-5" />}
+            {showMobileMenu ? <X /> : <Menu />}
           </button>
         </div>
 
@@ -367,17 +369,17 @@ export const Navbar: React.FC<NavbarProps> = ({
         {showMobileMenu && (
           <div
             id="mobile-header-menu"
-            className="lg:hidden border-b border-slate-200 dark:border-slate-700 bg-slate-50 dark:bg-slate-800 px-1 pt-2 pb-3 space-y-2 animate-in fade-in slide-in-from-top-1 duration-150"
+            className="app-header__mobile-menu lg:hidden border-b border-slate-200 dark:border-slate-700 bg-slate-50 dark:bg-slate-800 px-1 pt-1.5 pb-2.5 space-y-1.5 sm:pt-2 sm:pb-3 sm:space-y-2 animate-in fade-in slide-in-from-top-1 duration-150"
           >
-            <div className="rounded-xl border border-slate-200 dark:border-slate-700 bg-white dark:bg-slate-900 p-3">
-              <label htmlFor="mobile-target-category" className="block text-[11px] font-bold text-slate-500 dark:text-slate-400 mb-1.5">
+            <div className="rounded-xl border border-slate-200 dark:border-slate-700 bg-white dark:bg-slate-900 p-2.5 sm:p-3">
+              <label htmlFor="mobile-target-category" className="block text-[10px] sm:text-[11px] font-bold text-slate-500 dark:text-slate-400 mb-1 sm:mb-1.5">
                 当前目标
               </label>
               <select
                 id="mobile-target-category"
                 value={selectedCategory}
                 onChange={(e) => setSelectedCategory(e.target.value as TargetCategory)}
-                className="w-full text-sm font-bold text-slate-800 dark:text-slate-200 bg-slate-100 dark:bg-slate-800 border border-slate-300 dark:border-slate-600 rounded-lg px-3 py-2 focus:outline-none focus:ring-2 focus:ring-emerald-500 cursor-pointer"
+                className="w-full text-xs sm:text-sm font-bold text-slate-800 dark:text-slate-200 bg-slate-100 dark:bg-slate-800 border border-slate-300 dark:border-slate-600 rounded-lg px-2.5 py-1.5 sm:px-3 sm:py-2 focus:outline-none focus:ring-2 focus:ring-emerald-500 cursor-pointer"
               >
                 <option value="all">🌐 全部考试</option>
                 <option value="national">🎯 国家公务员考试 (国考)</option>
@@ -392,7 +394,7 @@ export const Navbar: React.FC<NavbarProps> = ({
             <button
               type="button"
               onClick={() => { setShowMobileMenu(false); setShowModuleGuide(true); }}
-              className="w-full flex items-center justify-between px-3 py-2.5 bg-white dark:bg-slate-900 border border-slate-300 dark:border-slate-600 rounded-xl text-xs font-bold text-slate-800 dark:text-slate-200 hover:bg-slate-100 dark:hover:bg-slate-800 cursor-pointer"
+              className="w-full flex items-center justify-between px-3 py-2 sm:py-2.5 bg-white dark:bg-slate-900 border border-slate-300 dark:border-slate-600 rounded-xl text-[11px] sm:text-xs font-bold text-slate-800 dark:text-slate-200 hover:bg-slate-100 dark:hover:bg-slate-800 cursor-pointer"
             >
               <span className="flex items-center gap-2">
                 <Info className="w-4 h-4 text-emerald-500 dark:text-emerald-400" />
@@ -407,17 +409,17 @@ export const Navbar: React.FC<NavbarProps> = ({
             <button
               type="button"
               onClick={() => { setShowMobileMenu(false); onOpenCheckIn(); }}
-              className="w-full flex items-center justify-center gap-2 px-3 py-2.5 bg-emerald-600 hover:bg-emerald-700 active:bg-emerald-800 text-white text-xs font-bold rounded-xl cursor-pointer"
+              className="w-full flex items-center justify-center gap-2 px-3 py-2 sm:py-2.5 bg-emerald-600 hover:bg-emerald-700 active:bg-emerald-800 text-white text-[11px] sm:text-xs font-bold rounded-xl cursor-pointer"
             >
               <Calendar className="w-4 h-4" />
               今日计划 ({streakBadgeDays(streakDays)}天)
             </button>
 
             {user ? (
-              <div className="flex items-center justify-between gap-2 rounded-xl border border-slate-200 dark:border-slate-700 bg-white dark:bg-slate-900 px-3 py-2">
+              <div className="flex items-center justify-between gap-2 rounded-xl border border-slate-200 dark:border-slate-700 bg-white dark:bg-slate-900 px-2.5 py-1.5 sm:px-3 sm:py-2">
                 <div className="flex items-center gap-2 min-w-0">
                   <User className="w-4 h-4 text-emerald-600 dark:text-emerald-400 shrink-0" />
-                  <span className="text-xs font-bold text-slate-700 dark:text-slate-200 truncate">{user.email}</span>
+                  <span className="text-[11px] sm:text-xs font-bold text-slate-700 dark:text-slate-200 truncate">{user.email}</span>
                 </div>
                 <button
                   type="button"
@@ -432,7 +434,7 @@ export const Navbar: React.FC<NavbarProps> = ({
               <button
                 type="button"
                 onClick={() => { setShowMobileMenu(false); openAuth('default'); }}
-                className="w-full flex items-center justify-center gap-2 px-3 py-2.5 bg-slate-900 dark:bg-slate-700 hover:bg-slate-800 dark:hover:bg-slate-600 text-white text-xs font-bold rounded-xl cursor-pointer"
+                className="w-full flex items-center justify-center gap-2 px-3 py-2 sm:py-2.5 bg-slate-900 dark:bg-slate-700 hover:bg-slate-800 dark:hover:bg-slate-600 text-white text-[11px] sm:text-xs font-bold rounded-xl cursor-pointer"
               >
                 <User className="w-4 h-4" />
                 登录 / 注册
@@ -441,9 +443,9 @@ export const Navbar: React.FC<NavbarProps> = ({
           </div>
         )}
 
-        {/* ROW 2: PRIMARY HIGH-VISIBILITY NAVIGATION CARDS */}
-        <div className="py-2.5">
-          <nav className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-5 gap-1.5 sm:gap-2">
+        {/* ROW 2: PRIMARY HIGH-VISIBILITY NAVIGATION CARDS（<lg 单行横向滑动，避免手机/平板把吸顶栏撑成多行） */}
+        <div className="app-header__nav">
+          <nav className="app-header__nav-grid flex gap-1.5 overflow-x-auto pb-0.5 sm:gap-2 lg:grid lg:grid-cols-5 lg:overflow-visible lg:pb-0">
             {mainNavItems.map((item) => {
               const Icon = item.icon;
               const isActive = (item.id === 'practice' && isWrittenTab) || activeTab === item.id;
@@ -452,7 +454,7 @@ export const Navbar: React.FC<NavbarProps> = ({
                 <button
                   key={item.id}
                   onClick={() => { setActiveTab(item.id); setShowMobileMenu(false); }}
-                  className={`group relative text-left p-2 sm:p-2.5 rounded-xl border-2 transition-all cursor-pointer flex flex-col justify-between ${
+                  className={`app-header__nav-card group relative text-left w-[7rem] sm:w-[9.5rem] lg:w-auto shrink-0 rounded-xl border-2 transition-all cursor-pointer flex flex-col justify-between ${
                     isActive
                       ? 'bg-slate-900 dark:bg-slate-700 border-slate-900 text-white shadow-md ring-2 ring-slate-900/10'
                       : 'bg-white dark:bg-slate-900 border-slate-200/90 dark:border-slate-700/90 text-slate-700 dark:text-slate-200 hover:border-slate-400 dark:hover:border-slate-500 hover:bg-slate-50 dark:hover:bg-slate-800 shadow-2xs'
@@ -461,21 +463,21 @@ export const Navbar: React.FC<NavbarProps> = ({
                   {/* Top Bar: Icon + Title + Tag */}
                   <div className="flex items-center justify-between w-full gap-1">
                     <div className="flex items-center gap-1.5 min-w-0">
-                      <div className={`w-5 h-5 sm:w-6 sm:h-6 rounded-lg flex items-center justify-center shrink-0 transition-colors ${
+                      <div className={`app-header__nav-icon rounded-lg flex items-center justify-center shrink-0 transition-colors ${
                         isActive 
                           ? 'bg-emerald-500 text-white' 
                           : 'bg-slate-100 dark:bg-slate-800 text-slate-700 dark:text-slate-200 group-hover:bg-slate-200 dark:group-hover:bg-slate-700'
                       }`}>
-                        <Icon className="w-3 h-3 sm:w-3.5 sm:h-3.5" />
+                        <Icon />
                       </div>
-                      <span className={`text-[10px] sm:text-sm font-black tracking-tight whitespace-nowrap ${
+                      <span className={`app-header__nav-label font-black tracking-tight whitespace-nowrap ${
                         isActive ? 'text-white' : 'text-slate-900 dark:text-slate-100'
                       }`}>
                         {item.label}
                       </span>
                     </div>
 
-                    <span className={`hidden sm:inline-block text-[9px] px-1.5 py-0.5 rounded font-bold uppercase tracking-wider shrink-0 ${
+                    <span className={`app-header__nav-tag hidden sm:inline-block px-1.5 py-0.5 rounded font-bold uppercase tracking-wider shrink-0 ${
                       isActive 
                         ? 'bg-emerald-400/20 dark:bg-emerald-700/20 text-emerald-300 border border-emerald-400/30 dark:border-emerald-600/30' 
                         : 'bg-slate-100 dark:bg-slate-800 text-slate-600 dark:text-slate-300 border border-slate-200 dark:border-slate-700'
@@ -485,7 +487,7 @@ export const Navbar: React.FC<NavbarProps> = ({
                   </div>
 
                   {/* Subtitle / Explanatory text */}
-                  <p className={`hidden sm:block text-[10px] mt-1.5 leading-snug line-clamp-1 font-medium ${
+                  <p className={`app-header__nav-desc hidden sm:block mt-1.5 leading-snug line-clamp-1 font-medium ${
                     isActive ? 'text-slate-300' : 'text-slate-500 dark:text-slate-400'
                   }`}>
                     {item.desc}
@@ -504,47 +506,48 @@ export const Navbar: React.FC<NavbarProps> = ({
 
       {/* SECONDARY SUB-NAV: When inside 笔试专区 */}
       {isWrittenTab && (
-        <div className="bg-brand-ink text-white border-t border-white/10 px-4 py-2">
-          <div className="max-w-7xl mx-auto flex flex-col md:flex-row md:items-center justify-between gap-2 text-xs">
-            <div className="flex items-center gap-2 flex-wrap">
-              <span className="font-extrabold text-white flex items-center gap-1.5 mr-1 text-xs">
+        <div className="app-header__subnav bg-brand-ink text-white border-t border-white/10 px-3 sm:px-4">
+          <div className="max-w-7xl mx-auto flex flex-col md:flex-row md:items-center justify-between gap-1.5 sm:gap-2 text-[11px] sm:text-xs">
+            {/* <lg 保持单行横向滑动，lg 起恢复原有换行布局 */}
+            <div className="flex items-center gap-1.5 sm:gap-2 overflow-x-auto pb-0.5 lg:flex-wrap lg:overflow-visible lg:pb-0">
+              <span className="font-extrabold text-white flex items-center gap-1.5 mr-1 text-[11px] sm:text-xs shrink-0 whitespace-nowrap">
                 <BookOpen className="w-3.5 h-3.5 text-emerald-200" />
                 笔试专区三大核心板块：
               </span>
 
               <button
                 onClick={() => setActiveTab('practice')}
-                className={`flex items-center gap-1.5 px-3 py-1 rounded-lg transition-all cursor-pointer ${
+                className={`app-header__subnav-item flex items-center gap-1.5 rounded-lg transition-all cursor-pointer shrink-0 whitespace-nowrap ${
                   activeTab === 'practice'
                     ? 'bg-white dark:bg-slate-900 text-brand-ink font-black shadow-xs ring-1 ring-brand-gold'
                     : 'bg-transparent text-emerald-50 ring-1 ring-brand-gold/60 hover:bg-brand-ink-soft hover:ring-brand-gold'
                 }`}
               >
-                <FileText className={`w-3.5 h-3.5 ${activeTab === 'practice' ? 'text-brand-ink' : 'text-emerald-200'}`} />
+                <FileText className={activeTab === 'practice' ? 'text-brand-ink' : 'text-emerald-200'} />
                 <span>板块 1：题库刷题与全真试卷 (专项/真题/错题本)</span>
               </button>
 
               <button
                 onClick={() => { setActiveTab('knowledge'); onOpenKnowledgeHub?.(); }}
-                className={`flex items-center gap-1.5 px-3 py-1 rounded-lg transition-all cursor-pointer ${
+                className={`app-header__subnav-item flex items-center gap-1.5 rounded-lg transition-all cursor-pointer shrink-0 whitespace-nowrap ${
                   activeTab === 'knowledge'
                     ? 'bg-white dark:bg-slate-900 text-brand-ink font-black shadow-xs ring-1 ring-brand-gold'
                     : 'bg-transparent text-emerald-50 ring-1 ring-brand-gold/60 hover:bg-brand-ink-soft hover:ring-brand-gold'
                 }`}
               >
-                <Headphones className={`w-3.5 h-3.5 ${activeTab === 'knowledge' ? 'text-brand-ink' : 'text-emerald-200'}`} />
+                <Headphones className={activeTab === 'knowledge' ? 'text-brand-ink' : 'text-emerald-200'} />
                 <span>板块 2：知识点体系 · 通关秘籍与语音随身听</span>
               </button>
 
               <button
                 onClick={() => setActiveTab('daily')}
-                className={`flex items-center gap-1.5 px-3 py-1 rounded-lg transition-all cursor-pointer ${
+                className={`app-header__subnav-item flex items-center gap-1.5 rounded-lg transition-all cursor-pointer shrink-0 whitespace-nowrap ${
                   activeTab === 'daily'
                     ? 'bg-white dark:bg-slate-900 text-brand-ink font-black shadow-xs ring-1 ring-brand-gold'
                     : 'bg-transparent text-emerald-50 ring-1 ring-brand-gold/60 hover:bg-brand-ink-soft hover:ring-brand-gold'
                 }`}
               >
-                <Sparkles className={`w-3.5 h-3.5 ${activeTab === 'daily' ? 'text-brand-ink' : 'text-emerald-200'}`} />
+                <Sparkles className={activeTab === 'daily' ? 'text-brand-ink' : 'text-emerald-200'} />
                 <span>板块 3：申论初试 · 每日思维两题晨练</span>
               </button>
             </div>
@@ -558,26 +561,26 @@ export const Navbar: React.FC<NavbarProps> = ({
 
       {/* SECONDARY SUB-NAV: When inside 面试专区 */}
       {activeTab === 'interview' && (
-        <div className="bg-brand-ink text-white border-t border-white/10 px-4 py-2">
-          <div className="max-w-7xl mx-auto flex flex-col md:flex-row md:items-center justify-between gap-2 text-xs">
-            <div className="flex items-center gap-2 flex-wrap">
-              <span className="font-extrabold text-white flex items-center gap-1.5 mr-1 text-xs">
+        <div className="app-header__subnav bg-brand-ink text-white border-t border-white/10 px-3 sm:px-4">
+          <div className="max-w-7xl mx-auto flex flex-col md:flex-row md:items-center justify-between gap-1.5 sm:gap-2 text-[11px] sm:text-xs">
+            <div className="flex items-center gap-1.5 sm:gap-2 overflow-x-auto pb-0.5 lg:flex-wrap lg:overflow-visible lg:pb-0">
+              <span className="font-extrabold text-white flex items-center gap-1.5 mr-1 text-[11px] sm:text-xs shrink-0 whitespace-nowrap">
                 <Mic className="w-3.5 h-3.5 text-emerald-200" />
                 面试训练流程：
               </span>
-              <span className="px-2.5 py-0.5 rounded bg-brand-ink-soft text-emerald-50 border border-white/15 font-bold">
+              <span className="px-2.5 py-0.5 rounded bg-brand-ink-soft text-emerald-50 border border-white/15 font-bold shrink-0 whitespace-nowrap">
                 📚 100题结构化真题库
               </span>
-              <span className="px-2.5 py-0.5 rounded bg-brand-ink-soft text-emerald-50 border border-white/15 font-medium">
+              <span className="px-2.5 py-0.5 rounded bg-brand-ink-soft text-emerald-50 border border-white/15 font-medium shrink-0 whitespace-nowrap">
                 🎙️ 语音/打字双模式作答
               </span>
-              <span className="px-2.5 py-0.5 rounded bg-brand-ink-soft text-emerald-50 border border-white/15 font-medium">
+              <span className="px-2.5 py-0.5 rounded bg-brand-ink-soft text-emerald-50 border border-white/15 font-medium shrink-0 whitespace-nowrap">
                 📊 AI采分点逐条核对
               </span>
-              <span className="px-2.5 py-0.5 rounded bg-brand-ink-soft text-emerald-50 border border-white/15 font-medium">
+              <span className="px-2.5 py-0.5 rounded bg-brand-ink-soft text-emerald-50 border border-white/15 font-medium shrink-0 whitespace-nowrap">
                 📁 本机练习记录复盘
               </span>
-              <span className="px-2.5 py-0.5 rounded bg-brand-ink text-emerald-200 border border-emerald-400/40 dark:border-emerald-600/40 font-bold">
+              <span className="px-2.5 py-0.5 rounded bg-brand-ink text-emerald-200 border border-emerald-400/40 dark:border-emerald-600/40 font-bold shrink-0 whitespace-nowrap">
                 🛡️ 拒绝焦虑：不显对手高分
               </span>
             </div>
@@ -589,8 +592,8 @@ export const Navbar: React.FC<NavbarProps> = ({
       )}
 
       {/* CURRENT ACTIVE MODULE CONTEXT BANNER */}
-      <div className="bg-slate-50 dark:bg-slate-800 border-t border-slate-200/80 dark:border-slate-700/80 px-4 py-1.5 text-xs text-slate-600 dark:text-slate-300">
-        <div className="max-w-7xl mx-auto flex flex-col sm:flex-row sm:items-center justify-between gap-1">
+      <div className="app-header__context bg-slate-50 dark:bg-slate-800 border-t border-slate-200/80 dark:border-slate-700/80 px-3 sm:px-4 text-[11px] sm:text-xs text-slate-600 dark:text-slate-300">
+        <div className="max-w-7xl mx-auto flex flex-col sm:flex-row sm:items-center justify-between gap-0.5 sm:gap-1">
           <div className="flex items-center gap-2">
             <span className="font-extrabold text-slate-900 dark:text-slate-100">
               {currentSummary.tag}
@@ -599,7 +602,7 @@ export const Navbar: React.FC<NavbarProps> = ({
               — {currentSummary.title}
             </span>
           </div>
-          <span className="text-[11px] text-slate-500 dark:text-slate-400 italic">
+          <span className="hidden sm:inline text-[11px] text-slate-500 dark:text-slate-400 italic">
             {currentSummary.hint}
           </span>
         </div>

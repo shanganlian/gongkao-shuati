@@ -175,8 +175,10 @@ export default function App() {
         onOpenKnowledgeHub={() => setKnowledgeView('graph')}
       />
 
-      {/* Main Viewport Container */}
-      <main className="flex-1 max-w-7xl w-full mx-auto px-4 sm:px-6 lg:px-8 py-4 sm:py-6">
+      {/* Main Viewport Container
+          Navbar 为 sticky，仍在文档流内占位，因此无需再叠加 header 高度；
+          这里只保留正常上留白，避免出现一块空白。 */}
+      <main className="flex-1 max-w-7xl w-full mx-auto px-3 sm:px-5 lg:px-8 pt-4 sm:pt-6 pb-4 sm:pb-6">
         <Suspense fallback={<div className="flex justify-center items-center h-64"><div className="animate-spin rounded-full h-8 w-8 border-b-2 border-slate-900"></div></div>}>
         {activeTab === 'overview' && (
           <AnalyticsOverview
