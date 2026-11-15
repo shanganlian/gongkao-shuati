@@ -67,6 +67,9 @@ export const Navbar: React.FC<NavbarProps> = ({
 }) => {
   const [showModuleGuide, setShowModuleGuide] = useState<boolean>(false);
   const [showMobileMenu, setShowMobileMenu] = useState<boolean>(false);
+  // 手机端折叠面板：默认全部收起，只保留一行标题，尽量节省首屏空间
+  const [showMobileMainNav, setShowMobileMainNav] = useState<boolean>(false);
+  const [showMobileWrittenSubnav, setShowMobileWrittenSubnav] = useState<boolean>(false);
   const { user, signOut } = useAuth();
   const { openAuth } = useAuthUI();
   const isWrittenTab = ['practice', 'knowledge', 'daily'].includes(activeTab);
@@ -458,11 +461,36 @@ export const Navbar: React.FC<NavbarProps> = ({
           </div>
         )}
 
-        {/* ROW 2 (MOBILE ≤768px): 5 等分文字 Tab，一行展示，整行约 48px */}
-        <div className="min-[769px]:hidden py-1">
+        {/* ROW 2 (MOBILE ≤768px): 折叠式模块切换，默认只显示一行标题 */}
+        <div className="min-[769px]:hidden pt-1">
+          <button
+            type="button"
+            onClick={() => setShowMobileMainNav((prev) => !prev)}
+            aria-expanded={showMobileMainNav}
+            aria-controls="mobile-main-nav-panel"
+            title={showMobileMainNav ? '收起备考模块' : '展开备考模块'}
+            className="w-full h-9 flex items-center justify-between gap-2 rounded-xl border border-slate-200/90 bg-slate-100/80 px-3 text-[11px] font-extrabold text-slate-700 dark:border-slate-700/80 dark:bg-slate-800/80 dark:text-slate-200 cursor-pointer"
+          >
+            <span className="flex items-center gap-1.5">
+              <span aria-hidden="true">📌</span>
+              切换备考模块
+            </span>
+            <span
+              aria-hidden="true"
+              className={`text-[9px] text-slate-500 dark:text-slate-400 transition-transform duration-200 ${
+                showMobileMainNav ? 'rotate-180' : ''
+              }`}
+            >
+              ▼
+            </span>
+          </button>
+
           <nav
+            id="mobile-main-nav-panel"
             aria-label="手机端模块导航"
-            className="flex h-10 items-center gap-1 rounded-xl border border-slate-200/90 bg-slate-100/80 p-1 dark:border-slate-700/80 dark:bg-slate-800/80"
+            className={`mt-1 h-10 items-center gap-1 rounded-xl border border-slate-200/90 bg-slate-100/80 p-1 dark:border-slate-700/80 dark:bg-slate-800/80 ${
+              showMobileMainNav ? 'flex' : 'hidden'
+            }`}
           >
             {mainNavItems.map((item) => {
               const isActive = (item.id === 'practice' && isWrittenTab) || activeTab === item.id;
@@ -551,17 +579,42 @@ export const Navbar: React.FC<NavbarProps> = ({
       {/* SECONDARY SUB-NAV: When inside 笔试专区 */}
       {isWrittenTab && (
         <div className="app-header__subnav bg-brand-ink text-white border-t border-white/10 px-3 sm:px-4">
-          <div className="max-w-7xl mx-auto flex flex-col md:flex-row md:items-center justify-between gap-1.5 sm:gap-2 text-[11px] sm:text-xs">
-            {/* <lg 保持单行横向滑动，lg 起恢复原有换行布局 */}
-            <div className="flex items-center gap-1.5 sm:gap-2 overflow-x-auto pb-0.5 lg:flex-wrap lg:overflow-visible lg:pb-0">
-              <span className="font-extrabold text-white flex items-center gap-1.5 mr-1 text-[11px] sm:text-xs shrink-0 whitespace-nowrap">
+          <div className="max-w-7xl mx-auto flex flex-col min-[769px]:flex-row min-[769px]:items-center justify-between gap-1.5 sm:gap-2 text-[11px] sm:text-xs">
+            {/* MOBILE ≤768px：三大核心板块折叠标题，默认收起 */}
+            <button
+              type="button"
+              onClick={() => setShowMobileWrittenSubnav((prev) => !prev)}
+              aria-expanded={showMobileWrittenSubnav}
+              aria-controls="mobile-written-subnav-panel"
+              title={showMobileWrittenSubnav ? '收起笔试核心板块' : '展开笔试核心板块'}
+              className="min-[769px]:hidden w-full h-8 flex items-center justify-between gap-2 py-1 text-left cursor-pointer"
+            >
+              <span className="font-extrabold text-white text-[11px] sm:text-xs">
+                📚 笔试三大核心板块
+              </span>
+              <span
+                aria-hidden="true"
+                className={`text-[9px] text-emerald-100/80 transition-transform duration-200 ${
+                  showMobileWrittenSubnav ? 'rotate-180' : ''
+                }`}
+              >
+                ▼
+              </span>
+            </button>
+
+            {/* ≥769px 保留原布局；≤768px 由上方标题控制展开/收起 */}
+            <div
+              id="mobile-written-subnav-panel"
+              className={`${showMobileWrittenSubnav ? 'flex' : 'hidden'} min-[769px]:flex w-full min-[769px]:w-auto flex-col min-[769px]:flex-row min-[769px]:items-center gap-1.5 sm:gap-2 min-[769px]:overflow-x-auto pb-0.5 lg:flex-wrap lg:overflow-visible lg:pb-0`}
+            >
+              <span className="hidden min-[769px]:flex font-extrabold text-white items-center gap-1.5 mr-1 text-[11px] sm:text-xs shrink-0 whitespace-nowrap">
                 <BookOpen className="w-3.5 h-3.5 text-emerald-200" />
                 笔试专区三大核心板块：
               </span>
 
               <button
                 onClick={() => setActiveTab('practice')}
-                className={`app-header__subnav-item flex items-center gap-1.5 rounded-lg transition-all cursor-pointer shrink-0 whitespace-nowrap ${
+                className={`app-header__subnav-item flex items-center gap-1.5 rounded-lg transition-all cursor-pointer w-full min-[769px]:w-auto shrink-0 justify-start text-left whitespace-normal min-[769px]:whitespace-nowrap ${
                   activeTab === 'practice'
                     ? 'bg-white dark:bg-slate-900 text-brand-ink font-black shadow-xs ring-1 ring-brand-gold'
                     : 'bg-transparent text-emerald-50 ring-1 ring-brand-gold/60 hover:bg-brand-ink-soft hover:ring-brand-gold'
@@ -573,7 +626,7 @@ export const Navbar: React.FC<NavbarProps> = ({
 
               <button
                 onClick={() => { setActiveTab('knowledge'); onOpenKnowledgeHub?.(); }}
-                className={`app-header__subnav-item flex items-center gap-1.5 rounded-lg transition-all cursor-pointer shrink-0 whitespace-nowrap ${
+                className={`app-header__subnav-item flex items-center gap-1.5 rounded-lg transition-all cursor-pointer w-full min-[769px]:w-auto shrink-0 justify-start text-left whitespace-normal min-[769px]:whitespace-nowrap ${
                   activeTab === 'knowledge'
                     ? 'bg-white dark:bg-slate-900 text-brand-ink font-black shadow-xs ring-1 ring-brand-gold'
                     : 'bg-transparent text-emerald-50 ring-1 ring-brand-gold/60 hover:bg-brand-ink-soft hover:ring-brand-gold'
@@ -585,7 +638,7 @@ export const Navbar: React.FC<NavbarProps> = ({
 
               <button
                 onClick={() => setActiveTab('daily')}
-                className={`app-header__subnav-item flex items-center gap-1.5 rounded-lg transition-all cursor-pointer shrink-0 whitespace-nowrap ${
+                className={`app-header__subnav-item flex items-center gap-1.5 rounded-lg transition-all cursor-pointer w-full min-[769px]:w-auto shrink-0 justify-start text-left whitespace-normal min-[769px]:whitespace-nowrap ${
                   activeTab === 'daily'
                     ? 'bg-white dark:bg-slate-900 text-brand-ink font-black shadow-xs ring-1 ring-brand-gold'
                     : 'bg-transparent text-emerald-50 ring-1 ring-brand-gold/60 hover:bg-brand-ink-soft hover:ring-brand-gold'

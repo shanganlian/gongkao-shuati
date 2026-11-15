@@ -294,8 +294,8 @@ html {
     --app-header-tag-font: 8px;
     --app-header-menu-btn: 30px;
     --app-header-subnav-py: 4px;
-    --app-header-subnav-item-py: 2px;
-    --app-header-subnav-item-px: 8px;
+    --app-header-subnav-item-py: 7px;
+    --app-header-subnav-item-px: 10px;
     --app-header-subnav-font: 11px;
     --app-header-subnav-icon: 11px;
     --app-header-context-py: 4px;
@@ -332,8 +332,8 @@ html {
     --app-header-tag-font: 8px;
     --app-header-menu-btn: 28px;
     --app-header-subnav-py: 3px;
-    --app-header-subnav-item-py: 2px;
-    --app-header-subnav-item-px: 6px;
+    --app-header-subnav-item-py: 7px;
+    --app-header-subnav-item-px: 8px;
     --app-header-subnav-font: 10px;
     --app-header-subnav-icon: 10px;
     --app-header-context-py: 4px;
