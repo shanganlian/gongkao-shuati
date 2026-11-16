@@ -14,6 +14,7 @@
     "release:data": "powershell -ExecutionPolicy Bypass -File deploy/release-data.ps1",
     "deploy": "powershell -ExecutionPolicy Bypass -File deploy/deploy.ps1",
     "lint": "tsc --noEmit",
+    "practice:smoke": "node --import tsx scripts/smoke-practice-filters.tsx",
     "test:e07": "node scripts/test-e07-rule.cjs",
     "test:e09": "node scripts/test-e09-rule.cjs",
     "test:e10": "node scripts/test-e10-rule.cjs",
@@ -21,6 +22,12 @@
     "scan:module": "node scripts/scan-module-mislabel.cjs",
     "module:move": "node scripts/move-mislabeled-questions.cjs",
     "restore:gk2000": "node scripts/restore-gk2000-chart.cjs",
+    "figures:extract": "node scripts/extract-figure-images.cjs",
+    "figures:extract:apply": "node scripts/extract-figure-images.cjs --apply",
+    "figures:batch": "node scripts/figure-extract-batch.cjs",
+    "figures:batch:apply": "node scripts/figure-extract-batch.cjs --apply",
+    "figures:urls": "node scripts/apply-figure-image-urls.cjs",
+    "figures:urls:apply": "node scripts/apply-figure-image-urls.cjs --apply",
     "audit:all": "node scripts/audit-all-library.cjs",
     "audit:all:apply": "node scripts/audit-all-library.cjs --apply",
     "interview:sample": "node scripts/export-interview-samples.cjs",
@@ -88,6 +95,7 @@
     "@types/react-dom": "^19.3.0",
     "autoprefixer": "^10.4.21",
     "esbuild": "^0.25.0",
+    "sharp": "^0.35.5",
     "tailwindcss": "^4.3.3",
     "typescript": "^7.0.2"
   }

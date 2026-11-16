@@ -896,7 +896,8 @@
     "source": "2000年国家公务员考试《行测》未标注第61题",
     "isImageQuestion": true,
     "subModule": "图形推理",
-    "subModule_confidence": "high"
+    "subModule_confidence": "high",
+    "imageUrl": "/data/questions/images/gk-2000-61.jpg"
   },
   {
     "id": "gk-2000-未标注-62",
@@ -916,7 +917,8 @@
     "source": "2000年国家公务员考试《行测》未标注第62题",
     "isImageQuestion": true,
     "subModule": "图形推理",
-    "subModule_confidence": "high"
+    "subModule_confidence": "high",
+    "imageUrl": "/data/questions/images/gk-2000-62.jpg"
   },
   {
     "id": "gk-2000-未标注-63",
@@ -936,7 +938,8 @@
     "source": "2000年国家公务员考试《行测》未标注第63题",
     "isImageQuestion": true,
     "subModule": "图形推理",
-    "subModule_confidence": "high"
+    "subModule_confidence": "high",
+    "imageUrl": "/data/questions/images/gk-2000-63.jpg"
   },
   {
     "id": "gk-2000-未标注-64",
@@ -953,7 +956,8 @@
     "source": "2000年国家公务员考试《行测》未标注第64题",
     "isImageQuestion": true,
     "subModule": "图形推理",
-    "subModule_confidence": "high"
+    "subModule_confidence": "high",
+    "imageUrl": "/data/questions/images/gk-2000-64.jpg"
   },
   {
     "id": "gk-2000-未标注-65",
@@ -970,7 +974,8 @@
     "source": "2000年国家公务员考试《行测》未标注第65题",
     "isImageQuestion": true,
     "subModule": "图形推理",
-    "subModule_confidence": "high"
+    "subModule_confidence": "high",
+    "imageUrl": "/data/questions/images/gk-2000-65.jpg"
   },
   {
     "id": "gk-2000-未标注-66",
@@ -989,7 +994,8 @@
     "source": "2000年国家公务员考试《行测》未标注第66题",
     "isImageQuestion": true,
     "subModule": "图形推理",
-    "subModule_confidence": "high"
+    "subModule_confidence": "high",
+    "imageUrl": "/data/questions/images/gk-2000-66.png"
   },
   {
     "id": "gk-2000-未标注-67",
@@ -1006,7 +1012,8 @@
     "source": "2000年国家公务员考试《行测》未标注第67题",
     "isImageQuestion": true,
     "subModule": "图形推理",
-    "subModule_confidence": "high"
+    "subModule_confidence": "high",
+    "imageUrl": "/data/questions/images/gk-2000-67.jpg"
   },
   {
     "id": "gk-2000-未标注-68",
@@ -1025,7 +1032,8 @@
     "source": "2000年国家公务员考试《行测》未标注第68题",
     "isImageQuestion": true,
     "subModule": "图形推理",
-    "subModule_confidence": "high"
+    "subModule_confidence": "high",
+    "imageUrl": "/data/questions/images/gk-2000-68.jpg"
   },
   {
     "id": "gk-2000-未标注-69",
@@ -1042,32 +1050,16 @@
     "source": "2000年国家公务员考试《行测》未标注第69题",
     "isImageQuestion": true,
     "subModule": "图形推理",
-    "subModule_confidence": "high"
+    "subModule_confidence": "high",
+    "imageUrl": "/data/questions/images/gk-2000-69.jpg"
   },
   {
     "id": "gk-2000-未标注-70",
     "category": "national",
     "module": "panduan",
-    "title": "判断·A B C D 四、演绎推理：共 10 题，每题给出一段…",
-    "stem": "A B C D\n四、演绎推理：共 10 题，每题给出一段陈述，这段陈述被假设是正确的、不容置疑的。要求你根据这段陈述选 择一个答案。注意：正确的答案应与所给的陈述相符合，不需要任何附加说明即可以从陈述中直接推出。\n【例题】对于穿鞋来说，正合脚的鞋子比大一些的鞋子好。不过，在寒冷的天气，尺寸稍大点的毛衣与一件正合\n身的毛衣差别并不大。这意味着（ ）。",
-    "options": [
-      {
-        "key": "A",
-        "text": "不合脚的鞋不能在冷天穿"
-      },
-      {
-        "key": "B",
-        "text": "毛衣的大小只不过是式样的问题，与其功能无关"
-      },
-      {
-        "key": "C",
-        "text": "不合身的衣物有时仍然有使用价值"
-      },
-      {
-        "key": "D",
-        "text": "在买礼物时，尺寸不如用途那样重要 解答：只有 C 是可以从陈述中直接推出的，应选 C。"
-      }
-    ],
+    "title": "判断·A B C D",
+    "stem": "A B C D",
+    "options": [],
     "answer": "C",
     "explanation": "C【解析】这是一道图形叠加题。观察第一套图发现，三个图形的箭头方向一致，且总数为 15。 依此规律，第二套第三个图形的箭头方向应和前两个一致，并与前两个图形的箭头总和为 15。故 正确答案为 C。\n\n四、演绎推理",
     "keyPoints": [
@@ -1078,8 +1070,9 @@
     "difficulty": "中等",
     "source": "2000年国家公务员考试《行测》未标注第70题",
     "isImageQuestion": true,
-    "subModule": "逻辑判断",
-    "subModule_confidence": "high"
+    "subModule": "图形推理",
+    "subModule_confidence": "high",
+    "imageUrl": "/data/questions/images/gk-2000-70.jpg"
   },
   {
     "id": "gk-2000-未标注-71",
@@ -1981,7 +1974,8 @@
     "source": "2001年国家公务员考试《行测》未标注第71题",
     "isImageQuestion": true,
     "subModule": "图形推理",
-    "subModule_confidence": "high"
+    "subModule_confidence": "high",
+    "imageUrl": "/data/questions/images/gk-2001-71.jpg"
   },
   {
     "id": "gk-2001-未标注-72",
@@ -2000,7 +1994,8 @@
     "source": "2001年国家公务员考试《行测》未标注第72题",
     "isImageQuestion": true,
     "subModule": "图形推理",
-    "subModule_confidence": "high"
+    "subModule_confidence": "high",
+    "imageUrl": "/data/questions/images/gk-2001-72.jpg"
   },
   {
     "id": "gk-2001-未标注-73",
@@ -2021,7 +2016,8 @@
     "source": "2001年国家公务员考试《行测》未标注第73题",
     "isImageQuestion": true,
     "subModule": "图形推理",
-    "subModule_confidence": "high"
+    "subModule_confidence": "high",
+    "imageUrl": "/data/questions/images/gk-2001-73.jpg"
   },
   {
     "id": "gk-2001-未标注-74",
@@ -2040,7 +2036,8 @@
     "source": "2001年国家公务员考试《行测》未标注第74题",
     "isImageQuestion": true,
     "subModule": "图形推理",
-    "subModule_confidence": "high"
+    "subModule_confidence": "high",
+    "imageUrl": "/data/questions/images/gk-2001-74.jpg"
   },
   {
     "id": "gk-2001-未标注-75",
@@ -2059,7 +2056,8 @@
     "source": "2001年国家公务员考试《行测》未标注第75题",
     "isImageQuestion": true,
     "subModule": "图形推理",
-    "subModule_confidence": "high"
+    "subModule_confidence": "high",
+    "imageUrl": "/data/questions/images/gk-2001-75.jpg"
   },
   {
     "id": "gk-2001-未标注-76",
@@ -2080,7 +2078,8 @@
     "source": "2001年国家公务员考试《行测》未标注第76题",
     "isImageQuestion": true,
     "subModule": "图形推理",
-    "subModule_confidence": "high"
+    "subModule_confidence": "high",
+    "imageUrl": "/data/questions/images/gk-2001-76.jpg"
   },
   {
     "id": "gk-2001-未标注-77",
@@ -2100,7 +2099,8 @@
     "source": "2001年国家公务员考试《行测》未标注第77题",
     "isImageQuestion": true,
     "subModule": "图形推理",
-    "subModule_confidence": "high"
+    "subModule_confidence": "high",
+    "imageUrl": "/data/questions/images/gk-2001-77.jpg"
   },
   {
     "id": "gk-2001-未标注-78",
@@ -2121,7 +2121,8 @@
     "source": "2001年国家公务员考试《行测》未标注第78题",
     "isImageQuestion": true,
     "subModule": "图形推理",
-    "subModule_confidence": "high"
+    "subModule_confidence": "high",
+    "imageUrl": "/data/questions/images/gk-2001-78.jpg"
   },
   {
     "id": "gk-2001-未标注-79",
@@ -2141,7 +2142,8 @@
     "source": "2001年国家公务员考试《行测》未标注第79题",
     "isImageQuestion": true,
     "subModule": "图形推理",
-    "subModule_confidence": "high"
+    "subModule_confidence": "high",
+    "imageUrl": "/data/questions/images/gk-2001-79.jpg"
   },
   {
     "id": "gk-2001-未标注-80",
@@ -2552,7 +2554,8 @@
     "source": "2002年国家公务员考试《行测》A卷第86题",
     "isImageQuestion": true,
     "subModule": "图形推理",
-    "subModule_confidence": "high"
+    "subModule_confidence": "high",
+    "imageUrl": "/data/questions/images/gk-2002-A-86.jpg"
   },
   {
     "id": "gk-2002-A卷-87",
@@ -2572,7 +2575,8 @@
     "source": "2002年国家公务员考试《行测》A卷第87题",
     "isImageQuestion": true,
     "subModule": "图形推理",
-    "subModule_confidence": "high"
+    "subModule_confidence": "high",
+    "imageUrl": "/data/questions/images/gk-2002-A-87.jpg"
   },
   {
     "id": "gk-2002-A卷-88",
@@ -2591,7 +2595,8 @@
     "source": "2002年国家公务员考试《行测》A卷第88题",
     "isImageQuestion": true,
     "subModule": "图形推理",
-    "subModule_confidence": "high"
+    "subModule_confidence": "high",
+    "imageUrl": "/data/questions/images/gk-2002-A-88.jpg"
   },
   {
     "id": "gk-2002-A卷-89",
@@ -2610,7 +2615,8 @@
     "source": "2002年国家公务员考试《行测》A卷第89题",
     "isImageQuestion": true,
     "subModule": "图形推理",
-    "subModule_confidence": "high"
+    "subModule_confidence": "high",
+    "imageUrl": "/data/questions/images/gk-2002-A-89.jpg"
   },
   {
     "id": "gk-2002-A卷-90",
@@ -2630,7 +2636,8 @@
     "source": "2002年国家公务员考试《行测》A卷第90题",
     "isImageQuestion": true,
     "subModule": "图形推理",
-    "subModule_confidence": "high"
+    "subModule_confidence": "high",
+    "imageUrl": "/data/questions/images/gk-2002-A-90.jpg"
   },
   {
     "id": "gk-2002-A卷-91",
@@ -2649,7 +2656,8 @@
     "source": "2002年国家公务员考试《行测》A卷第91题",
     "isImageQuestion": true,
     "subModule": "图形推理",
-    "subModule_confidence": "high"
+    "subModule_confidence": "high",
+    "imageUrl": "/data/questions/images/gk-2002-A-91.jpg"
   },
   {
     "id": "gk-2002-A卷-92",
@@ -2668,7 +2676,8 @@
     "source": "2002年国家公务员考试《行测》A卷第92题",
     "isImageQuestion": true,
     "subModule": "图形推理",
-    "subModule_confidence": "high"
+    "subModule_confidence": "high",
+    "imageUrl": "/data/questions/images/gk-2002-A-92.jpg"
   },
   {
     "id": "gk-2002-A卷-93",
@@ -2689,7 +2698,8 @@
     "source": "2002年国家公务员考试《行测》A卷第93题",
     "isImageQuestion": true,
     "subModule": "图形推理",
-    "subModule_confidence": "high"
+    "subModule_confidence": "high",
+    "imageUrl": "/data/questions/images/gk-2002-A-93.jpg"
   },
   {
     "id": "gk-2002-A卷-94",
@@ -2708,7 +2718,8 @@
     "source": "2002年国家公务员考试《行测》A卷第94题",
     "isImageQuestion": true,
     "subModule": "图形推理",
-    "subModule_confidence": "high"
+    "subModule_confidence": "high",
+    "imageUrl": "/data/questions/images/gk-2002-A-94.jpg"
   },
   {
     "id": "gk-2002-A卷-95",
@@ -2729,7 +2740,8 @@
     "source": "2002年国家公务员考试《行测》A卷第95题",
     "isImageQuestion": true,
     "subModule": "图形推理",
-    "subModule_confidence": "high"
+    "subModule_confidence": "high",
+    "imageUrl": "/data/questions/images/gk-2002-A-95.jpg"
   },
   {
     "id": "gk-2002-A卷-96",
@@ -3458,7 +3470,8 @@
     "source": "2002年国家公务员考试《行测》B卷第96题",
     "isImageQuestion": true,
     "subModule": "图形推理",
-    "subModule_confidence": "high"
+    "subModule_confidence": "high",
+    "imageUrl": "/data/questions/images/gk-2002-B-96.jpg"
   },
   {
     "id": "gk-2002-B卷-97",
@@ -3479,7 +3492,8 @@
     "source": "2002年国家公务员考试《行测》B卷第97题",
     "isImageQuestion": true,
     "subModule": "图形推理",
-    "subModule_confidence": "high"
+    "subModule_confidence": "high",
+    "imageUrl": "/data/questions/images/gk-2002-B-97.jpg"
   },
   {
     "id": "gk-2002-B卷-98",
@@ -3498,7 +3512,8 @@
     "source": "2002年国家公务员考试《行测》B卷第98题",
     "isImageQuestion": true,
     "subModule": "图形推理",
-    "subModule_confidence": "high"
+    "subModule_confidence": "high",
+    "imageUrl": "/data/questions/images/gk-2002-B-98.jpg"
   },
   {
     "id": "gk-2002-B卷-99",
@@ -3517,7 +3532,8 @@
     "source": "2002年国家公务员考试《行测》B卷第99题",
     "isImageQuestion": true,
     "subModule": "图形推理",
-    "subModule_confidence": "high"
+    "subModule_confidence": "high",
+    "imageUrl": "/data/questions/images/gk-2002-B-99.webp"
   },
   {
     "id": "gk-2002-B卷-100",
@@ -3612,7 +3628,8 @@
     "source": "2002年国家公务员考试《行测》B卷第104题",
     "isImageQuestion": true,
     "subModule": "图形推理",
-    "subModule_confidence": "high"
+    "subModule_confidence": "high",
+    "imageUrl": "/data/questions/images/gk-2002-B-104.jpg"
   },
   {
     "id": "gk-2002-B卷-105",
@@ -3631,7 +3648,8 @@
     "source": "2002年国家公务员考试《行测》B卷第105题",
     "isImageQuestion": true,
     "subModule": "图形推理",
-    "subModule_confidence": "high"
+    "subModule_confidence": "high",
+    "imageUrl": "/data/questions/images/gk-2002-B-105.jpg"
   },
   {
     "id": "gk-2002-B卷-106",
@@ -4258,7 +4276,8 @@
     "source": "2003年国家公务员考试《行测》A卷第16题",
     "isImageQuestion": true,
     "subModule": "图形推理",
-    "subModule_confidence": "high"
+    "subModule_confidence": "high",
+    "imageUrl": "/data/questions/images/gk-2003-A-16.jpg"
   },
   {
     "id": "gk-2003-A卷-17",
@@ -4277,7 +4296,8 @@
     "source": "2003年国家公务员考试《行测》A卷第17题",
     "isImageQuestion": true,
     "subModule": "图形推理",
-    "subModule_confidence": "high"
+    "subModule_confidence": "high",
+    "imageUrl": "/data/questions/images/gk-2003-A-17.jpg"
   },
   {
     "id": "gk-2003-A卷-18",
@@ -4297,7 +4317,8 @@
     "source": "2003年国家公务员考试《行测》A卷第18题",
     "isImageQuestion": true,
     "subModule": "图形推理",
-    "subModule_confidence": "high"
+    "subModule_confidence": "high",
+    "imageUrl": "/data/questions/images/gk-2003-A-18.jpg"
   },
   {
     "id": "gk-2003-A卷-19",
@@ -4314,7 +4335,8 @@
     "source": "2003年国家公务员考试《行测》A卷第19题",
     "isImageQuestion": true,
     "subModule": "图形推理",
-    "subModule_confidence": "high"
+    "subModule_confidence": "high",
+    "imageUrl": "/data/questions/images/gk-2003-A-19.jpg"
   },
   {
     "id": "gk-2003-A卷-20",
@@ -4334,7 +4356,8 @@
     "source": "2003年国家公务员考试《行测》A卷第20题",
     "isImageQuestion": true,
     "subModule": "图形推理",
-    "subModule_confidence": "high"
+    "subModule_confidence": "high",
+    "imageUrl": "/data/questions/images/gk-2003-A-20.jpg"
   },
   {
     "id": "gk-2003-A卷-21",
@@ -4353,7 +4376,8 @@
     "source": "2003年国家公务员考试《行测》A卷第21题",
     "isImageQuestion": true,
     "subModule": "图形推理",
-    "subModule_confidence": "high"
+    "subModule_confidence": "high",
+    "imageUrl": "/data/questions/images/gk-2003-A-21.jpg"
   },
   {
     "id": "gk-2003-A卷-22",
@@ -4391,7 +4415,8 @@
     "source": "2003年国家公务员考试《行测》A卷第22题",
     "isImageQuestion": true,
     "subModule": "图形推理",
-    "subModule_confidence": "high"
+    "subModule_confidence": "high",
+    "imageUrl": "/data/questions/images/gk-2003-A-22.jpg"
   },
   {
     "id": "gk-2003-A卷-23",
@@ -4410,7 +4435,8 @@
     "source": "2003年国家公务员考试《行测》A卷第23题",
     "isImageQuestion": true,
     "subModule": "图形推理",
-    "subModule_confidence": "high"
+    "subModule_confidence": "high",
+    "imageUrl": "/data/questions/images/gk-2003-A-23.jpg"
   },
   {
     "id": "gk-2003-A卷-24",
@@ -4431,44 +4457,28 @@
     "source": "2003年国家公务员考试《行测》A卷第24题",
     "isImageQuestion": true,
     "subModule": "图形推理",
-    "subModule_confidence": "high"
+    "subModule_confidence": "high",
+    "imageUrl": "/data/questions/images/gk-2003-A-24.jpg"
   },
   {
     "id": "gk-2003-A卷-25",
     "category": "national",
     "module": "panduan",
-    "title": "判断·A B C D 二、演绎推理：共 15 题，每题给出一段…",
-    "stem": "A B C D\n二、演绎推理：共 15 题，每题给出一段陈述，这段陈述假设是正确的，不容置疑的。要求你根据这段陈述， 选择一个答案。注意：正确的答案应与所给的陈述相符合，不需要任何附加说明即可以从陈述中直接推出。\n【例题】对于穿鞋来说，正合脚的鞋子比大一些的鞋子好。不过，在寒冷的天气，尺寸稍大点的毛衣与一件正\n合身的毛衣差别并不大。这意味着（ ）。",
-    "options": [
-      {
-        "key": "A",
-        "text": "不合脚的鞋不能在冷天穿"
-      },
-      {
-        "key": "B",
-        "text": "毛衣的大小只不过是式样的问题，与其功能无关"
-      },
-      {
-        "key": "C",
-        "text": "不合身的衣物有时仍然有使用价值"
-      },
-      {
-        "key": "D",
-        "text": "在买礼物时，尺寸不如用途那样重要"
-      }
-    ],
+    "title": "判断·A B C D",
+    "stem": "A B C D",
+    "options": [],
     "answer": "B",
-    "explanation": "B    【解析】第一套图中图三由图一旋转 180 度后的上部分与图二下半部分组合而成。第二\n\n套图也遵循此规律，可知答案为 B。\n\n二、演绎推理",
+    "explanation": "B    【解析】第一套图中图三由图一旋转 180 度后的上部分与图二下半部分组合而成。第二\n\n套图也遵循此规律，可知答案为 B。",
     "keyPoints": [
-      "套图也遵循此规律，可知答案为 B",
-      "二、演绎推理"
+      "套图也遵循此规律，可知答案为 B"
     ],
     "thinkingTip": "【判断】先定位题干关键条件，再结合选项逐一排除。",
     "difficulty": "中等",
     "source": "2003年国家公务员考试《行测》A卷第25题",
     "isImageQuestion": true,
-    "subModule": "逻辑判断",
-    "subModule_confidence": "low"
+    "subModule": "图形推理",
+    "subModule_confidence": "high",
+    "imageUrl": "/data/questions/images/gk-2003-A-25.jpg"
   },
   {
     "id": "gk-2003-A卷-26",
@@ -5377,7 +5387,8 @@
     "source": "2004年国家公务员考试《行测》A卷第52题",
     "isImageQuestion": true,
     "subModule": "图形推理",
-    "subModule_confidence": "high"
+    "subModule_confidence": "high",
+    "imageUrl": "/data/questions/images/gk-2004-A-52.jpg"
   },
   {
     "id": "gk-2004-A卷-53",
@@ -5397,7 +5408,8 @@
     "source": "2004年国家公务员考试《行测》A卷第53题",
     "isImageQuestion": true,
     "subModule": "图形推理",
-    "subModule_confidence": "high"
+    "subModule_confidence": "high",
+    "imageUrl": "/data/questions/images/gk-2004-A-53.jpg"
   },
   {
     "id": "gk-2004-A卷-54",
@@ -5417,7 +5429,8 @@
     "source": "2004年国家公务员考试《行测》A卷第54题",
     "isImageQuestion": true,
     "subModule": "图形推理",
-    "subModule_confidence": "high"
+    "subModule_confidence": "high",
+    "imageUrl": "/data/questions/images/gk-2004-A-54.jpg"
   },
   {
     "id": "gk-2004-A卷-55",
@@ -5437,7 +5450,8 @@
     "source": "2004年国家公务员考试《行测》A卷第55题",
     "isImageQuestion": true,
     "subModule": "图形推理",
-    "subModule_confidence": "high"
+    "subModule_confidence": "high",
+    "imageUrl": "/data/questions/images/gk-2004-A-55.jpg"
   },
   {
     "id": "gk-2004-A卷-56",
@@ -5457,7 +5471,8 @@
     "source": "2004年国家公务员考试《行测》A卷第56题",
     "isImageQuestion": true,
     "subModule": "图形推理",
-    "subModule_confidence": "high"
+    "subModule_confidence": "high",
+    "imageUrl": "/data/questions/images/gk-2004-A-56.jpg"
   },
   {
     "id": "gk-2004-A卷-57",
@@ -5477,7 +5492,8 @@
     "source": "2004年国家公务员考试《行测》A卷第57题",
     "isImageQuestion": true,
     "subModule": "图形推理",
-    "subModule_confidence": "high"
+    "subModule_confidence": "high",
+    "imageUrl": "/data/questions/images/gk-2004-A-57.jpg"
   },
   {
     "id": "gk-2004-A卷-58",
@@ -5497,7 +5513,8 @@
     "source": "2004年国家公务员考试《行测》A卷第58题",
     "isImageQuestion": true,
     "subModule": "图形推理",
-    "subModule_confidence": "high"
+    "subModule_confidence": "high",
+    "imageUrl": "/data/questions/images/gk-2004-A-58.jpg"
   },
   {
     "id": "gk-2004-A卷-59",
@@ -5517,7 +5534,8 @@
     "source": "2004年国家公务员考试《行测》A卷第59题",
     "isImageQuestion": true,
     "subModule": "图形推理",
-    "subModule_confidence": "high"
+    "subModule_confidence": "high",
+    "imageUrl": "/data/questions/images/gk-2004-A-59.jpg"
   },
   {
     "id": "gk-2004-A卷-60",
@@ -5538,7 +5556,8 @@
     "source": "2004年国家公务员考试《行测》A卷第60题",
     "isImageQuestion": true,
     "subModule": "图形推理",
-    "subModule_confidence": "high"
+    "subModule_confidence": "high",
+    "imageUrl": "/data/questions/images/gk-2004-A-60.jpg"
   },
   {
     "id": "gk-2004-A卷-61",
@@ -5558,7 +5577,8 @@
     "source": "2004年国家公务员考试《行测》A卷第61题",
     "isImageQuestion": true,
     "subModule": "图形推理",
-    "subModule_confidence": "high"
+    "subModule_confidence": "high",
+    "imageUrl": "/data/questions/images/gk-2004-A-61.jpg"
   },
   {
     "id": "gk-2004-A卷-62",

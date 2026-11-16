@@ -268,7 +268,8 @@
     "source": "2004年国家公务员考试《行测》B卷第50题",
     "isImageQuestion": true,
     "subModule": "图形推理",
-    "subModule_confidence": "high"
+    "subModule_confidence": "high",
+    "imageUrl": "/data/questions/images/gk-2004-B-50.webp"
   },
   {
     "id": "gk-2004-B卷-51",
@@ -1339,7 +1340,8 @@
     "source": "2005年国家公务员考试《行测》一卷第51题",
     "isImageQuestion": true,
     "subModule": "图形推理",
-    "subModule_confidence": "high"
+    "subModule_confidence": "high",
+    "imageUrl": "/data/questions/images/gk-2005-1-51.jpg"
   },
   {
     "id": "gk-2005-一卷-52",
@@ -1358,7 +1360,8 @@
     "source": "2005年国家公务员考试《行测》一卷第52题",
     "isImageQuestion": true,
     "subModule": "图形推理",
-    "subModule_confidence": "high"
+    "subModule_confidence": "high",
+    "imageUrl": "/data/questions/images/gk-2005-1-52.jpg"
   },
   {
     "id": "gk-2005-一卷-53",
@@ -1375,7 +1378,8 @@
     "source": "2005年国家公务员考试《行测》一卷第53题",
     "isImageQuestion": true,
     "subModule": "图形推理",
-    "subModule_confidence": "high"
+    "subModule_confidence": "high",
+    "imageUrl": "/data/questions/images/gk-2005-1-53.jpg"
   },
   {
     "id": "gk-2005-一卷-54",
@@ -1411,7 +1415,8 @@
     "source": "2005年国家公务员考试《行测》一卷第54题",
     "isImageQuestion": true,
     "subModule": "图形推理",
-    "subModule_confidence": "high"
+    "subModule_confidence": "high",
+    "imageUrl": "/data/questions/images/gk-2005-1-54.jpg"
   },
   {
     "id": "gk-2005-一卷-55",
@@ -1431,7 +1436,8 @@
     "source": "2005年国家公务员考试《行测》一卷第55题",
     "isImageQuestion": true,
     "subModule": "图形推理",
-    "subModule_confidence": "high"
+    "subModule_confidence": "high",
+    "imageUrl": "/data/questions/images/gk-2005-1-55.jpg"
   },
   {
     "id": "gk-2005-一卷-56",
@@ -1450,7 +1456,8 @@
     "source": "2005年国家公务员考试《行测》一卷第56题",
     "isImageQuestion": true,
     "subModule": "图形推理",
-    "subModule_confidence": "high"
+    "subModule_confidence": "high",
+    "imageUrl": "/data/questions/images/gk-2005-1-56.jpg"
   },
   {
     "id": "gk-2005-一卷-57",
@@ -1467,7 +1474,8 @@
     "source": "2005年国家公务员考试《行测》一卷第57题",
     "isImageQuestion": true,
     "subModule": "图形推理",
-    "subModule_confidence": "high"
+    "subModule_confidence": "high",
+    "imageUrl": "/data/questions/images/gk-2005-1-57.jpg"
   },
   {
     "id": "gk-2005-一卷-58",
@@ -1484,7 +1492,8 @@
     "source": "2005年国家公务员考试《行测》一卷第58题",
     "isImageQuestion": true,
     "subModule": "图形推理",
-    "subModule_confidence": "high"
+    "subModule_confidence": "high",
+    "imageUrl": "/data/questions/images/gk-2005-1-58.jpg"
   },
   {
     "id": "gk-2005-一卷-59",
@@ -1501,7 +1510,8 @@
     "source": "2005年国家公务员考试《行测》一卷第59题",
     "isImageQuestion": true,
     "subModule": "图形推理",
-    "subModule_confidence": "high"
+    "subModule_confidence": "high",
+    "imageUrl": "/data/questions/images/gk-2005-1-59.jpg"
   },
   {
     "id": "gk-2005-一卷-60",
@@ -1518,7 +1528,8 @@
     "source": "2005年国家公务员考试《行测》一卷第60题",
     "isImageQuestion": true,
     "subModule": "图形推理",
-    "subModule_confidence": "low"
+    "subModule_confidence": "low",
+    "imageUrl": "/data/questions/images/gk-2005-1-60.jpg"
   },
   {
     "id": "gk-2005-一卷-61",
@@ -2738,7 +2749,8 @@
     "source": "2005年国家公务员考试《行测》二卷第51题",
     "isImageQuestion": true,
     "subModule": "图形推理",
-    "subModule_confidence": "high"
+    "subModule_confidence": "high",
+    "imageUrl": "/data/questions/images/gk-2005-2-51.jpg"
   },
   {
     "id": "gk-2005-二卷-52",
@@ -2755,7 +2767,8 @@
     "source": "2005年国家公务员考试《行测》二卷第52题",
     "isImageQuestion": true,
     "subModule": "图形推理",
-    "subModule_confidence": "high"
+    "subModule_confidence": "high",
+    "imageUrl": "/data/questions/images/gk-2005-2-52.jpg"
   },
   {
     "id": "gk-2005-二卷-53",
@@ -2772,7 +2785,8 @@
     "source": "2005年国家公务员考试《行测》二卷第53题",
     "isImageQuestion": true,
     "subModule": "图形推理",
-    "subModule_confidence": "high"
+    "subModule_confidence": "high",
+    "imageUrl": "/data/questions/images/gk-2005-2-53.jpg"
   },
   {
     "id": "gk-2005-二卷-54",
@@ -2806,7 +2820,8 @@
     "source": "2005年国家公务员考试《行测》二卷第54题",
     "isImageQuestion": true,
     "subModule": "图形推理",
-    "subModule_confidence": "high"
+    "subModule_confidence": "high",
+    "imageUrl": "/data/questions/images/gk-2005-2-54.jpg"
   },
   {
     "id": "gk-2005-二卷-55",
@@ -2823,7 +2838,8 @@
     "source": "2005年国家公务员考试《行测》二卷第55题",
     "isImageQuestion": true,
     "subModule": "图形推理",
-    "subModule_confidence": "high"
+    "subModule_confidence": "high",
+    "imageUrl": "/data/questions/images/gk-2005-2-55.jpg"
   },
   {
     "id": "gk-2005-二卷-56",
@@ -2840,7 +2856,8 @@
     "source": "2005年国家公务员考试《行测》二卷第56题",
     "isImageQuestion": true,
     "subModule": "图形推理",
-    "subModule_confidence": "high"
+    "subModule_confidence": "high",
+    "imageUrl": "/data/questions/images/gk-2005-2-56.jpg"
   },
   {
     "id": "gk-2005-二卷-57",
@@ -2859,7 +2876,8 @@
     "source": "2005年国家公务员考试《行测》二卷第57题",
     "isImageQuestion": true,
     "subModule": "图形推理",
-    "subModule_confidence": "high"
+    "subModule_confidence": "high",
+    "imageUrl": "/data/questions/images/gk-2005-2-57.jpg"
   },
   {
     "id": "gk-2005-二卷-58",
@@ -2878,7 +2896,8 @@
     "source": "2005年国家公务员考试《行测》二卷第58题",
     "isImageQuestion": true,
     "subModule": "图形推理",
-    "subModule_confidence": "high"
+    "subModule_confidence": "high",
+    "imageUrl": "/data/questions/images/gk-2005-2-58.jpg"
   },
   {
     "id": "gk-2005-二卷-59",
@@ -2897,7 +2916,8 @@
     "source": "2005年国家公务员考试《行测》二卷第59题",
     "isImageQuestion": true,
     "subModule": "图形推理",
-    "subModule_confidence": "high"
+    "subModule_confidence": "high",
+    "imageUrl": "/data/questions/images/gk-2005-2-59.jpg"
   },
   {
     "id": "gk-2005-二卷-60",
@@ -2916,7 +2936,8 @@
     "source": "2005年国家公务员考试《行测》二卷第60题",
     "isImageQuestion": true,
     "subModule": "图形推理",
-    "subModule_confidence": "low"
+    "subModule_confidence": "low",
+    "imageUrl": "/data/questions/images/gk-2005-2-60.jpg"
   },
   {
     "id": "gk-2005-二卷-61",
@@ -4144,7 +4165,8 @@
     "source": "2006年国家公务员考试《行测》一卷第51题",
     "isImageQuestion": true,
     "subModule": "图形推理",
-    "subModule_confidence": "high"
+    "subModule_confidence": "high",
+    "imageUrl": "/data/questions/images/gk-2006-1-51.jpg"
   },
   {
     "id": "gk-2006-一卷-52",
@@ -4161,7 +4183,8 @@
     "source": "2006年国家公务员考试《行测》一卷第52题",
     "isImageQuestion": true,
     "subModule": "图形推理",
-    "subModule_confidence": "high"
+    "subModule_confidence": "high",
+    "imageUrl": "/data/questions/images/gk-2006-1-52.jpg"
   },
   {
     "id": "gk-2006-一卷-53",
@@ -4178,7 +4201,8 @@
     "source": "2006年国家公务员考试《行测》一卷第53题",
     "isImageQuestion": true,
     "subModule": "图形推理",
-    "subModule_confidence": "high"
+    "subModule_confidence": "high",
+    "imageUrl": "/data/questions/images/gk-2006-1-53.jpg"
   },
   {
     "id": "gk-2006-一卷-54",
@@ -4195,7 +4219,8 @@
     "source": "2006年国家公务员考试《行测》一卷第54题",
     "isImageQuestion": true,
     "subModule": "图形推理",
-    "subModule_confidence": "high"
+    "subModule_confidence": "high",
+    "imageUrl": "/data/questions/images/gk-2006-1-54.jpg"
   },
   {
     "id": "gk-2006-一卷-55",
@@ -4231,7 +4256,8 @@
     "source": "2006年国家公务员考试《行测》一卷第55题",
     "isImageQuestion": true,
     "subModule": "图形推理",
-    "subModule_confidence": "high"
+    "subModule_confidence": "high",
+    "imageUrl": "/data/questions/images/gk-2006-1-55.jpg"
   },
   {
     "id": "gk-2006-一卷-56",
@@ -4250,7 +4276,8 @@
     "source": "2006年国家公务员考试《行测》一卷第56题",
     "isImageQuestion": true,
     "subModule": "图形推理",
-    "subModule_confidence": "high"
+    "subModule_confidence": "high",
+    "imageUrl": "/data/questions/images/gk-2006-1-56.jpg"
   },
   {
     "id": "gk-2006-一卷-57",
@@ -4269,7 +4296,8 @@
     "source": "2006年国家公务员考试《行测》一卷第57题",
     "isImageQuestion": true,
     "subModule": "图形推理",
-    "subModule_confidence": "high"
+    "subModule_confidence": "high",
+    "imageUrl": "/data/questions/images/gk-2006-1-57.jpg"
   },
   {
     "id": "gk-2006-一卷-58",
@@ -4286,7 +4314,8 @@
     "source": "2006年国家公务员考试《行测》一卷第58题",
     "isImageQuestion": true,
     "subModule": "图形推理",
-    "subModule_confidence": "high"
+    "subModule_confidence": "high",
+    "imageUrl": "/data/questions/images/gk-2006-1-58.jpg"
   },
   {
     "id": "gk-2006-一卷-59",
@@ -4305,7 +4334,8 @@
     "source": "2006年国家公务员考试《行测》一卷第59题",
     "isImageQuestion": true,
     "subModule": "图形推理",
-    "subModule_confidence": "high"
+    "subModule_confidence": "high",
+    "imageUrl": "/data/questions/images/gk-2006-1-59.jpg"
   },
   {
     "id": "gk-2006-一卷-60",
@@ -4325,7 +4355,8 @@
     "source": "2006年国家公务员考试《行测》一卷第60题",
     "isImageQuestion": true,
     "subModule": "图形推理",
-    "subModule_confidence": "high"
+    "subModule_confidence": "high",
+    "imageUrl": "/data/questions/images/gk-2006-1-60.jpg"
   },
   {
     "id": "gk-2006-一卷-61",
@@ -6275,7 +6306,8 @@
     "source": "2007年国家公务员考试《行测》未标注第61题",
     "isImageQuestion": true,
     "subModule": "图形推理",
-    "subModule_confidence": "high"
+    "subModule_confidence": "high",
+    "imageUrl": "/data/questions/images/gk-2007-61.jpg"
   },
   {
     "id": "gk-2007-未标注-62",
@@ -6295,7 +6327,8 @@
     "source": "2007年国家公务员考试《行测》未标注第62题",
     "isImageQuestion": true,
     "subModule": "图形推理",
-    "subModule_confidence": "high"
+    "subModule_confidence": "high",
+    "imageUrl": "/data/questions/images/gk-2007-62.jpg"
   },
   {
     "id": "gk-2007-未标注-63",
@@ -6315,6 +6348,7 @@
     "source": "2007年国家公务员考试《行测》未标注第63题",
     "isImageQuestion": true,
     "subModule": "图形推理",
-    "subModule_confidence": "high"
+    "subModule_confidence": "high",
+    "imageUrl": "/data/questions/images/gk-2007-63.jpg"
   }
 ]

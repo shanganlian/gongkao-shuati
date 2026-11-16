@@ -107,9 +107,9 @@
    --------------------------------------------------------------------------
    桌面端（> 1024px）完全沿用原有尺寸：主行 64px、导航卡 p-2.5 / 图标 24px 等。
    下面把同一组数值抽成 CSS 变量，默认值与桌面端一致，因此桌面端零变化；
-   平板 ≤1024px / 手机 ≤768px / 小屏手机 ≤480px 逐级压缩，
-   避免吸顶栏占满首屏，同时让 logo、标题、按钮、图标等比缩小。
-   lg 以下 5 个导航卡改为单行横向滑动，不再折成 2–3 行把吸顶栏撑高。
+   ≤1024px（平板与手机）顶部合并为「主行 + 32px 折叠条」：
+   5 个导航卡与「笔试专区三大核心板块」绿栏一起收进同一个折叠面板，收起态只有主行 + 32px；
+   手机 ≤768px / 小屏手机 ≤480px 再逐级压缩主行、logo、按钮与图标尺寸。
    注意：Header 使用 position: sticky（仍在文档流内占位），<main> 不会被吸顶栏遮挡，
    所以无需给内容区补 padding-top；这里只用 scroll-padding-top 兜住锚点跳转。
    ========================================================================== */
@@ -133,7 +133,7 @@
   --app-header-subnav-item-px: 12px;   /* 二级子导航按钮 px-3 */
   --app-header-subnav-font: 12px;      /* 二级子导航按钮 text-xs */
   --app-header-subnav-icon: 14px;      /* 二级子导航图标 w-3.5 */
-  --app-header-context-py: 6px;        /* ≥769px 当前模块提示条 py-1.5（手机端已移入汉堡菜单） */
+  --app-header-context-py: 6px;        /* ≥1025px 当前模块提示条 py-1.5（≤1024px 已移入汉堡菜单） */
 }
 
 /* 吸顶栏会盖住锚点目标，滚动定位时预留一行主行高度（桌面 64 + 8） */
@@ -226,14 +226,9 @@ html {
   height: var(--app-header-subnav-icon);
 }
 
-/* 手机端折叠标题：仅 ≤768px 显示；桌面端保持隐藏 */
+/* 折叠条标题：仅 ≤1024px 显示（平板与手机）；桌面端隐藏 */
 .app-header__collapse-title {
   display: none;
-}
-
-/* 桌面端让包裹层“透明”，子元素仍作为原 flex 布局的直接项目，排版零变化 */
-.app-header__collapse-group--subnav {
-  display: contents;
 }
 
 .app-header__collapse-arrow {
@@ -295,34 +290,12 @@ html {
   .app-header__user-email {
     font-size: 11px;
   }
-}
 
-/* ---- 手机：max-width 768px，顶部主行约 48px ---- */
-@media (max-width: 768px) {
-  :root {
-    --app-header-row-h: 48px;
-    --app-header-nav-py: 4px;
-    --app-header-card-py: 4px;
-    --app-header-card-px: 6px;
-    --app-header-logo: 26px;
-    --app-header-logo-font: 13px;
-    --app-header-brand-font: 14px;
-    --app-header-tagline-font: 9px;
-    --app-header-icon-box: 18px;
-    --app-header-icon: 11px;
-    --app-header-label-font: 11px;
-    --app-header-desc-font: 9px;
-    --app-header-tag-font: 8px;
-    --app-header-menu-btn: 30px;
-    --app-header-subnav-py: 4px;
-    --app-header-subnav-item-py: 7px;
-    --app-header-subnav-item-px: 10px;
-    --app-header-subnav-font: 11px;
-    --app-header-subnav-icon: 11px;
-    --app-header-context-py: 4px;
-  }
-
-  /* 标题仍位于 sticky header 内，滚动时始终吸附在顶部；高度固定 35px */
+  /*
+   * ---- 折叠条（≤1024px）：整块顶部 = 主行 + 一条 32px 折叠条 ----
+   * 标题行固定 32px；「备考模块 pills」与「笔试专区三大核心板块」共用一条悬浮面板，
+   * 面板 absolute 展开、不占文档流，点开不会把页面顶下去。
+   */
   .app-header__collapse-title {
     position: relative;
     z-index: 70;
@@ -331,10 +304,10 @@ html {
     justify-content: space-between;
     gap: 8px;
     width: 100%;
-    height: 35px;
-    flex: 0 0 35px;
+    height: 32px;
+    flex: 0 0 32px;
     margin: 0;
-    padding: 0;
+    padding: 0 2px;
     border: 0;
     background: transparent;
     text-align: left;
@@ -342,24 +315,10 @@ html {
     user-select: none;
   }
 
-  /*
-   * 关键：手机端折叠组的定位父级是 sticky header，而不是标题本身。
-   * 两个面板都从 header 底部展开，因此标题行不会被盖住；
-   * 当前模块说明行已在手机端移入汉堡菜单，主页面不再为它预留高度。
-   */
+  /* 折叠组的定位父级是 sticky header，面板从 header 底部展开，标题行不会被盖住 */
   .app-header__collapse-group {
     position: static;
     width: 100%;
-  }
-
-  .app-header__collapse-group--subnav {
-    display: block;
-  }
-
-  /* 绿色子导航在手机端取消上下内边距，让收起态严格保持 35px */
-  .app-header__subnav--collapsible {
-    padding-top: 0;
-    padding-bottom: 0;
   }
 
   /*
@@ -420,6 +379,32 @@ html {
       opacity 200ms ease 60ms,
       transform 300ms cubic-bezier(0.22, 1, 0.36, 1);
   }
+}
+
+/* ---- 手机：max-width 768px，顶部主行约 48px ---- */
+@media (max-width: 768px) {
+  :root {
+    --app-header-row-h: 48px;
+    --app-header-nav-py: 4px;
+    --app-header-card-py: 4px;
+    --app-header-card-px: 6px;
+    --app-header-logo: 26px;
+    --app-header-logo-font: 13px;
+    --app-header-brand-font: 14px;
+    --app-header-tagline-font: 9px;
+    --app-header-icon-box: 18px;
+    --app-header-icon: 11px;
+    --app-header-label-font: 11px;
+    --app-header-desc-font: 9px;
+    --app-header-tag-font: 8px;
+    --app-header-menu-btn: 30px;
+    --app-header-subnav-py: 4px;
+    --app-header-subnav-item-py: 7px;
+    --app-header-subnav-item-px: 10px;
+    --app-header-subnav-font: 11px;
+    --app-header-subnav-icon: 11px;
+    --app-header-context-py: 4px;
+  }
 
   /* 汉堡下拉菜单内的整行按钮同步收紧 */
   .app-header__mobile-menu > button {
@@ -434,8 +419,8 @@ html {
   }
 }
 
-/* 640–768px 头部左右留白为 20px（sm:px-5），悬浮面板同步对齐 */
-@media (min-width: 640px) and (max-width: 768px) {
+/* 640–1024px：头部左右留白为 20px（sm:px-5），悬浮面板同步对齐 */
+@media (min-width: 640px) and (max-width: 1024px) {
   .app-header__collapse-panel {
     left: 20px;
     right: 20px;

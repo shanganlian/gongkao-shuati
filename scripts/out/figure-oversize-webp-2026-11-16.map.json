@@ -1,0 +1,25 @@
+{
+  "generatedAt": "2026-11-16T12:33:03.377Z",
+  "tool": "sharp@0.35.5",
+  "note": "超限配图转 webp 的 imageUrl 清单（供 apply-figure-image-urls.cjs --map 使用）",
+  "items": [
+    {
+      "id": "gk-2002-B卷-99",
+      "number": 99,
+      "imageUrl": "/data/questions/images/gk-2002-B-99.webp",
+      "confidence": "high"
+    },
+    {
+      "id": "gk-2004-B卷-50",
+      "number": 50,
+      "imageUrl": "/data/questions/images/gk-2004-B-50.webp",
+      "confidence": "high"
+    },
+    {
+      "id": "gk-2006-二卷-79",
+      "number": 79,
+      "imageUrl": "/data/questions/images/gk-2006-2-79.webp",
+      "confidence": "high"
+    }
+  ]
+}

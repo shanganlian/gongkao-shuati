@@ -1,0 +1,216 @@
+{
+  "generatedAt": "2026-11-16T12:28:46.771Z",
+  "year": "2007",
+  "mode": "dry-run",
+  "source": {
+    "docx": "source-data/国考真题（2000--2026)/4-行测/1-行测-真题/word/2007年国家公务员考试《行测》真题卷.docx",
+    "docxBytes": 259196,
+    "paragraphs": 461,
+    "markerParagraphs": 132,
+    "imageParagraphs": 8,
+    "mediaFiles": 8,
+    "sectionHeader": "三、判断推理，共 35 题，参考时限 35 分钟，本部分包括图形推理、定义判断、",
+    "exampleBoundaryParagraph": -1,
+    "mediaReferencedByBody": 8,
+    "unreferencedMedia": 0
+  },
+  "dataSide": {
+    "paper": "2007年国家公务员考试《行测》未标注",
+    "paperCount": 1,
+    "shardFiles": 568,
+    "figureQuestions": 5,
+    "numbers": [
+      61,
+      62,
+      63,
+      64,
+      65
+    ],
+    "questions": [
+      {
+        "id": "gk-2007-未标注-61",
+        "number": 61,
+        "file": "public/data/questions/national-none-panduan-1.json"
+      },
+      {
+        "id": "gk-2007-未标注-62",
+        "number": 62,
+        "file": "public/data/questions/national-none-panduan-1.json"
+      },
+      {
+        "id": "gk-2007-未标注-63",
+        "number": 63,
+        "file": "public/data/questions/national-none-panduan-1.json"
+      },
+      {
+        "id": "gk-2007-未标注-64",
+        "number": 64,
+        "file": "public/data/questions/national-none-panduan-2.json"
+      },
+      {
+        "id": "gk-2007-未标注-65",
+        "number": 65,
+        "file": "public/data/questions/national-none-panduan-2.json"
+      }
+    ]
+  },
+  "statistics": {
+    "mediaFiles": 8,
+    "bodyImageReferences": 8,
+    "filtered": 3,
+    "filteredTinyFragments": 0,
+    "produced": 5,
+    "landed": 0,
+    "notSelected": 0
+  },
+  "filters": {
+    "not-figure-question": {
+      "count": 3,
+      "items": [
+        {
+          "rid": "rId19",
+          "media": "word/media/image6.jpeg",
+          "number": 124,
+          "paragraph": 409,
+          "detail": " | 570x609px",
+          "legacyColon": false
+        },
+        {
+          "rid": "rId21",
+          "media": "word/media/image7.jpeg",
+          "number": 135,
+          "paragraph": 443,
+          "detail": " | 500x303px",
+          "legacyColon": false
+        },
+        {
+          "rid": "rId24",
+          "media": "word/media/image8.jpeg",
+          "number": 135,
+          "paragraph": 446,
+          "detail": " | 568x344px",
+          "legacyColon": false
+        }
+      ]
+    }
+  },
+  "produced": [
+    {
+      "number": 61,
+      "id": "gk-2007-未标注-61",
+      "imageUrl": "/data/questions/images/gk-2007-61.jpg",
+      "file": "gk-2007-61.jpg",
+      "sourcePart": "word/media/image1.jpeg",
+      "sourceParagraph": 190,
+      "format": "jpg",
+      "width": 190,
+      "height": 223,
+      "bytes": 11731,
+      "flatCheck": {
+        "method": "heuristic",
+        "flat": false,
+        "detail": "11731B / 42370px = 0.277B/px（阈值 0.05）"
+      },
+      "confidence": "high",
+      "note": "图片位于第 61 题题干段之后 3 段，段间无其他题号插入",
+      "wrote": false,
+      "landing": "dry-run"
+    },
+    {
+      "number": 62,
+      "id": "gk-2007-未标注-62",
+      "imageUrl": "/data/questions/images/gk-2007-62.jpg",
+      "file": "gk-2007-62.jpg",
+      "sourcePart": "word/media/image2.jpeg",
+      "sourceParagraph": 192,
+      "format": "jpg",
+      "width": 198,
+      "height": 232,
+      "bytes": 13409,
+      "flatCheck": {
+        "method": "heuristic",
+        "flat": false,
+        "detail": "13409B / 45936px = 0.292B/px（阈值 0.05）"
+      },
+      "confidence": "high",
+      "note": "图片位于第 62 题题干段之后 1 段，段间无其他题号插入",
+      "wrote": false,
+      "landing": "dry-run"
+    },
+    {
+      "number": 63,
+      "id": "gk-2007-未标注-63",
+      "imageUrl": "/data/questions/images/gk-2007-63.jpg",
+      "file": "gk-2007-63.jpg",
+      "sourcePart": "word/media/image3.jpeg",
+      "sourceParagraph": 194,
+      "format": "jpg",
+      "width": 186,
+      "height": 219,
+      "bytes": 7967,
+      "flatCheck": {
+        "method": "heuristic",
+        "flat": false,
+        "detail": "7967B / 40734px = 0.196B/px（阈值 0.05）"
+      },
+      "confidence": "high",
+      "note": "图片位于第 63 题题干段之后 1 段，段间无其他题号插入",
+      "wrote": false,
+      "landing": "dry-run"
+    },
+    {
+      "number": 64,
+      "id": "gk-2007-未标注-64",
+      "imageUrl": "/data/questions/images/gk-2007-64.jpg",
+      "file": "gk-2007-64.jpg",
+      "sourcePart": "word/media/image4.jpeg",
+      "sourceParagraph": 196,
+      "format": "jpg",
+      "width": 201,
+      "height": 236,
+      "bytes": 10799,
+      "flatCheck": {
+        "method": "heuristic",
+        "flat": false,
+        "detail": "10799B / 47436px = 0.228B/px（阈值 0.05）"
+      },
+      "confidence": "high",
+      "note": "图片位于第 64 题题干段之后 1 段，段间无其他题号插入",
+      "wrote": false,
+      "landing": "dry-run"
+    },
+    {
+      "number": 65,
+      "id": "gk-2007-未标注-65",
+      "imageUrl": "/data/questions/images/gk-2007-65.jpg",
+      "file": "gk-2007-65.jpg",
+      "sourcePart": "word/media/image5.jpeg",
+      "sourceParagraph": 200,
+      "format": "jpg",
+      "width": 228,
+      "height": 268,
+      "bytes": 11974,
+      "flatCheck": {
+        "method": "heuristic",
+        "flat": false,
+        "detail": "11974B / 61104px = 0.196B/px（阈值 0.05）"
+      },
+      "confidence": "high",
+      "note": "图片位于第 65 题题干段之后 3 段，段间无其他题号插入",
+      "wrote": false,
+      "landing": "dry-run"
+    }
+  ],
+  "verification": {
+    "expectedFigures": 5,
+    "producedImages": 5,
+    "countMatched": true,
+    "allHighConfidence": true,
+    "allSizeAboveMin": true,
+    "allNonFlat": true,
+    "allUnderByteLimit": true
+  },
+  "errors": [],
+  "warnings": [],
+  "tag": null
+}

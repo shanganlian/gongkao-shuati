@@ -1,0 +1,344 @@
+{
+  "generatedAt": "2026-11-16T12:28:48.372Z",
+  "year": "2008",
+  "mode": "dry-run",
+  "source": {
+    "docx": "source-data/国考真题（2000--2026)/4-行测/1-行测-真题/word/2008年国家公务员考试《行测》真题卷.docx",
+    "docxBytes": 396693,
+    "paragraphs": 829,
+    "markerParagraphs": 311,
+    "imageParagraphs": 14,
+    "mediaFiles": 24,
+    "sectionHeader": "三、判断推理，共 35 题，参考时限 35 分钟，本部分包括图形推理、定义判断、",
+    "exampleBoundaryParagraph": -1,
+    "mediaReferencedByBody": 24,
+    "unreferencedMedia": 0
+  },
+  "dataSide": {
+    "paper": "2008年国家公务员考试《行测》未标注",
+    "paperCount": 1,
+    "shardFiles": 568,
+    "figureQuestions": 5,
+    "numbers": [
+      61,
+      62,
+      63,
+      64,
+      65
+    ],
+    "questions": [
+      {
+        "id": "gk-2008-未标注-61",
+        "number": 61,
+        "file": "public/data/questions/national-none-panduan-2.json"
+      },
+      {
+        "id": "gk-2008-未标注-62",
+        "number": 62,
+        "file": "public/data/questions/national-none-panduan-2.json"
+      },
+      {
+        "id": "gk-2008-未标注-63",
+        "number": 63,
+        "file": "public/data/questions/national-none-panduan-2.json"
+      },
+      {
+        "id": "gk-2008-未标注-64",
+        "number": 64,
+        "file": "public/data/questions/national-none-panduan-2.json"
+      },
+      {
+        "id": "gk-2008-未标注-65",
+        "number": 65,
+        "file": "public/data/questions/national-none-panduan-2.json"
+      }
+    ]
+  },
+  "statistics": {
+    "mediaFiles": 24,
+    "bodyImageReferences": 24,
+    "filtered": 19,
+    "filteredTinyFragments": 14,
+    "produced": 5,
+    "landed": 0,
+    "notSelected": 0
+  },
+  "filters": {
+    "not-figure-question": {
+      "count": 19,
+      "items": [
+        {
+          "rid": "rId25",
+          "media": "word/media/image1.jpeg",
+          "number": 41,
+          "paragraph": 157,
+          "detail": " | 488x90px",
+          "legacyColon": false
+        },
+        {
+          "rid": "rId26",
+          "media": "word/media/image2.png",
+          "number": 47,
+          "paragraph": 171,
+          "detail": "47、已知 ，那么的值是多少： A、    B、    C、    D、 | 88x38px（碎片尺寸）",
+          "legacyColon": false
+        },
+        {
+          "rid": "rId27",
+          "media": "word/media/image3.png",
+          "number": 47,
+          "paragraph": 171,
+          "detail": "47、已知 ，那么的值是多少： A、    B、    C、    D、 | 9x9px（碎片尺寸）",
+          "legacyColon": false
+        },
+        {
+          "rid": "rId28",
+          "media": "word/media/image4.png",
+          "number": 47,
+          "paragraph": 171,
+          "detail": "47、已知 ，那么的值是多少： A、    B、    C、    D、 | 21x29px（碎片尺寸）",
+          "legacyColon": false
+        },
+        {
+          "rid": "rId29",
+          "media": "word/media/image5.png",
+          "number": 47,
+          "paragraph": 171,
+          "detail": "47、已知 ，那么的值是多少： A、    B、    C、    D、 | 11x29px（碎片尺寸）",
+          "legacyColon": false
+        },
+        {
+          "rid": "rId30",
+          "media": "word/media/image6.png",
+          "number": 47,
+          "paragraph": 171,
+          "detail": "47、已知 ，那么的值是多少： A、    B、    C、    D、 | 21x29px（碎片尺寸）",
+          "legacyColon": false
+        },
+        {
+          "rid": "rId31",
+          "media": "word/media/image7.png",
+          "number": 47,
+          "paragraph": 171,
+          "detail": "47、已知 ，那么的值是多少： A、    B、    C、    D、 | 11x29px（碎片尺寸）",
+          "legacyColon": false
+        },
+        {
+          "rid": "rId32",
+          "media": "word/media/image8.png",
+          "number": 50,
+          "paragraph": 174,
+          "detail": "50、一个面积为 2 平方米的长方形纸张，对折 3 次后得到的小长方形的面积是： | 29x29px（碎片尺寸）",
+          "legacyColon": false
+        },
+        {
+          "rid": "rId33",
+          "media": "word/media/image9.png",
+          "number": 50,
+          "paragraph": 174,
+          "detail": "50、一个面积为 2 平方米的长方形纸张，对折 3 次后得到的小长方形的面积是： | 29x29px（碎片尺寸）",
+          "legacyColon": false
+        },
+        {
+          "rid": "rId34",
+          "media": "word/media/image10.png",
+          "number": 50,
+          "paragraph": 174,
+          "detail": "50、一个面积为 2 平方米的长方形纸张，对折 3 次后得到的小长方形的面积是： | 29x29px（碎片尺寸）",
+          "legacyColon": false
+        },
+        {
+          "rid": "rId35",
+          "media": "word/media/image11.png",
+          "number": 50,
+          "paragraph": 174,
+          "detail": "50、一个面积为 2 平方米的长方形纸张，对折 3 次后得到的小长方形的面积是： | 28x29px（碎片尺寸）",
+          "legacyColon": false
+        },
+        {
+          "rid": "rId36",
+          "media": "word/media/image12.png",
+          "number": 52,
+          "paragraph": 177,
+          "detail": "52、5 年前甲的年龄是乙的三倍，10 年前甲的年龄是丙的一半，若用表示丙当前的 | 8x12px（碎片尺寸）",
+          "legacyColon": false
+        },
+        {
+          "rid": "rId37",
+          "media": "word/media/image13.png",
+          "number": 52,
+          "paragraph": 178,
+          "detail": "A、    B、    C、    D、3Y一5 | 36x26px（碎片尺寸）",
+          "legacyColon": false
+        },
+        {
+          "rid": "rId38",
+          "media": "word/media/image14.png",
+          "number": 52,
+          "paragraph": 178,
+          "detail": "A、    B、    C、    D、3Y一5 | 48x29px（碎片尺寸）",
+          "legacyColon": false
+        },
+        {
+          "rid": "rId39",
+          "media": "word/media/image15.png",
+          "number": 52,
+          "paragraph": 178,
+          "detail": "A、    B、    C、    D、3Y一5 | 41x29px（碎片尺寸）",
+          "legacyColon": false
+        },
+        {
+          "rid": "rId45",
+          "media": "word/media/image21.jpeg",
+          "number": 90,
+          "paragraph": 308,
+          "detail": " | 500x128px",
+          "legacyColon": false
+        },
+        {
+          "rid": "rId46",
+          "media": "word/media/image22.png",
+          "number": 120,
+          "paragraph": 432,
+          "detail": " | 530x731px",
+          "legacyColon": false
+        },
+        {
+          "rid": "rId47",
+          "media": "word/media/image23.jpeg",
+          "number": 126,
+          "paragraph": 464,
+          "detail": " | 396x526px",
+          "legacyColon": false
+        },
+        {
+          "rid": "rId48",
+          "media": "word/media/image24.jpeg",
+          "number": 137,
+          "paragraph": 813,
+          "detail": " | 232x142px",
+          "legacyColon": false
+        }
+      ]
+    }
+  },
+  "produced": [
+    {
+      "number": 61,
+      "id": "gk-2008-未标注-61",
+      "imageUrl": "/data/questions/images/gk-2008-61.jpg",
+      "file": "gk-2008-61.jpg",
+      "sourcePart": "word/media/image16.jpeg",
+      "sourceParagraph": 200,
+      "format": "jpg",
+      "width": 228,
+      "height": 267,
+      "bytes": 12453,
+      "flatCheck": {
+        "method": "heuristic",
+        "flat": false,
+        "detail": "12453B / 60876px = 0.205B/px（阈值 0.05）"
+      },
+      "confidence": "high",
+      "note": "图片位于第 61 题题干段之后 1 段，段间无其他题号插入",
+      "wrote": false,
+      "landing": "dry-run"
+    },
+    {
+      "number": 62,
+      "id": "gk-2008-未标注-62",
+      "imageUrl": "/data/questions/images/gk-2008-62.jpg",
+      "file": "gk-2008-62.jpg",
+      "sourcePart": "word/media/image17.jpeg",
+      "sourceParagraph": 202,
+      "format": "jpg",
+      "width": 372,
+      "height": 125,
+      "bytes": 7837,
+      "flatCheck": {
+        "method": "heuristic",
+        "flat": false,
+        "detail": "7837B / 46500px = 0.169B/px（阈值 0.05）"
+      },
+      "confidence": "high",
+      "note": "图片位于第 62 题题干段之后 1 段，段间无其他题号插入",
+      "wrote": false,
+      "landing": "dry-run"
+    },
+    {
+      "number": 63,
+      "id": "gk-2008-未标注-63",
+      "imageUrl": "/data/questions/images/gk-2008-63.jpg",
+      "file": "gk-2008-63.jpg",
+      "sourcePart": "word/media/image18.jpeg",
+      "sourceParagraph": 204,
+      "format": "jpg",
+      "width": 303,
+      "height": 163,
+      "bytes": 11140,
+      "flatCheck": {
+        "method": "heuristic",
+        "flat": false,
+        "detail": "11140B / 49389px = 0.226B/px（阈值 0.05）"
+      },
+      "confidence": "high",
+      "note": "图片位于第 63 题题干段之后 1 段，段间无其他题号插入",
+      "wrote": false,
+      "landing": "dry-run"
+    },
+    {
+      "number": 64,
+      "id": "gk-2008-未标注-64",
+      "imageUrl": "/data/questions/images/gk-2008-64.jpg",
+      "file": "gk-2008-64.jpg",
+      "sourcePart": "word/media/image19.jpeg",
+      "sourceParagraph": 206,
+      "format": "jpg",
+      "width": 303,
+      "height": 163,
+      "bytes": 9183,
+      "flatCheck": {
+        "method": "heuristic",
+        "flat": false,
+        "detail": "9183B / 49389px = 0.186B/px（阈值 0.05）"
+      },
+      "confidence": "high",
+      "note": "图片位于第 64 题题干段之后 1 段，段间无其他题号插入",
+      "wrote": false,
+      "landing": "dry-run"
+    },
+    {
+      "number": 65,
+      "id": "gk-2008-未标注-65",
+      "imageUrl": "/data/questions/images/gk-2008-65.jpg",
+      "file": "gk-2008-65.jpg",
+      "sourcePart": "word/media/image20.jpeg",
+      "sourceParagraph": 208,
+      "format": "jpg",
+      "width": 348,
+      "height": 103,
+      "bytes": 6833,
+      "flatCheck": {
+        "method": "heuristic",
+        "flat": false,
+        "detail": "6833B / 35844px = 0.191B/px（阈值 0.05）"
+      },
+      "confidence": "high",
+      "note": "图片位于第 65 题题干段之后 1 段，段间无其他题号插入",
+      "wrote": false,
+      "landing": "dry-run"
+    }
+  ],
+  "verification": {
+    "expectedFigures": 5,
+    "producedImages": 5,
+    "countMatched": true,
+    "allHighConfidence": true,
+    "allSizeAboveMin": true,
+    "allNonFlat": true,
+    "allUnderByteLimit": true
+  },
+  "errors": [],
+  "warnings": [],
+  "tag": null
+}

@@ -1,0 +1,130 @@
+{
+  "generatedAt": "2026-11-16T06:12:00.334Z",
+  "year": "2010",
+  "paper": "2010年国家公务员考试《行测》未标注",
+  "sourceDocx": "source-data/国考真题（2000--2026)/4-行测/1-行测-真题/word/2010年国家公务员考试《行测》真题卷.docx",
+  "imageUrlBase": "/data/questions/images/",
+  "policy": {
+    "oneImagePerQuestion": true,
+    "naming": "gk-2010-<题号>.<真实格式后缀>",
+    "byteLimit": 102400,
+    "minPixels": 100,
+    "filters": {
+      "not-figure-question": 15
+    },
+    "filteredTinyFragments": 10
+  },
+  "count": 10,
+  "items": [
+    {
+      "id": "gk-2010-未标注-56",
+      "number": 56,
+      "imageUrl": "/data/questions/images/gk-2010-56.jpg",
+      "file": "gk-2010-56.jpg",
+      "width": 266,
+      "height": 127,
+      "bytes": 7974,
+      "confidence": "high",
+      "note": "图片位于第 56 题题干段之后 1 段，段间无其他题号插入"
+    },
+    {
+      "id": "gk-2010-未标注-57",
+      "number": 57,
+      "imageUrl": "/data/questions/images/gk-2010-57.jpg",
+      "file": "gk-2010-57.jpg",
+      "width": 303,
+      "height": 145,
+      "bytes": 9007,
+      "confidence": "high",
+      "note": "图片位于第 57 题题干段之后 1 段，段间无其他题号插入"
+    },
+    {
+      "id": "gk-2010-未标注-58",
+      "number": 58,
+      "imageUrl": "/data/questions/images/gk-2010-58.jpg",
+      "file": "gk-2010-58.jpg",
+      "width": 277,
+      "height": 132,
+      "bytes": 7987,
+      "confidence": "high",
+      "note": "图片位于第 58 题题干段之后 1 段，段间无其他题号插入"
+    },
+    {
+      "id": "gk-2010-未标注-59",
+      "number": 59,
+      "imageUrl": "/data/questions/images/gk-2010-59.jpg",
+      "file": "gk-2010-59.jpg",
+      "width": 273,
+      "height": 130,
+      "bytes": 8072,
+      "confidence": "high",
+      "note": "图片位于第 59 题题干段之后 3 段，段间无其他题号插入"
+    },
+    {
+      "id": "gk-2010-未标注-60",
+      "number": 60,
+      "imageUrl": "/data/questions/images/gk-2010-60.png",
+      "file": "gk-2010-60.png",
+      "width": 205,
+      "height": 241,
+      "bytes": 44585,
+      "confidence": "high",
+      "note": "图片位于第 60 题题干段之后 1 段，段间无其他题号插入"
+    },
+    {
+      "id": "gk-2010-未标注-61",
+      "number": 61,
+      "imageUrl": "/data/questions/images/gk-2010-61.png",
+      "file": "gk-2010-61.png",
+      "width": 205,
+      "height": 241,
+      "bytes": 28507,
+      "confidence": "high",
+      "note": "图片位于第 61 题题干段之后 1 段，段间无其他题号插入"
+    },
+    {
+      "id": "gk-2010-未标注-62",
+      "number": 62,
+      "imageUrl": "/data/questions/images/gk-2010-62.png",
+      "file": "gk-2010-62.png",
+      "width": 186,
+      "height": 219,
+      "bytes": 28042,
+      "confidence": "high",
+      "note": "图片位于第 62 题题干段之后 1 段，段间无其他题号插入"
+    },
+    {
+      "id": "gk-2010-未标注-63",
+      "number": 63,
+      "imageUrl": "/data/questions/images/gk-2010-63.jpg",
+      "file": "gk-2010-63.jpg",
+      "width": 270,
+      "height": 120,
+      "bytes": 6628,
+      "confidence": "high",
+      "note": "图片位于第 63 题题干段之后 1 段，段间无其他题号插入"
+    },
+    {
+      "id": "gk-2010-未标注-64",
+      "number": 64,
+      "imageUrl": "/data/questions/images/gk-2010-64.jpg",
+      "file": "gk-2010-64.jpg",
+      "width": 342,
+      "height": 100,
+      "bytes": 7207,
+      "confidence": "high",
+      "note": "图片位于第 64 题题干段之后 1 段，段间无其他题号插入"
+    },
+    {
+      "id": "gk-2010-未标注-65",
+      "number": 65,
+      "imageUrl": "/data/questions/images/gk-2010-65.jpg",
+      "file": "gk-2010-65.jpg",
+      "width": 342,
+      "height": 100,
+      "bytes": 7005,
+      "confidence": "high",
+      "note": "图片位于第 65 题题干段之后 1 段，段间无其他题号插入"
+    }
+  ]
+}

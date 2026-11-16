@@ -1,0 +1,312 @@
+{
+  "generatedAt": "2026-11-16T12:28:49.987Z",
+  "year": "2009",
+  "mode": "dry-run",
+  "source": {
+    "docx": "source-data/国考真题（2000--2026)/4-行测/1-行测-真题/word/2009年国家公务员考试《行测》真题卷.docx",
+    "docxBytes": 244257,
+    "paragraphs": 593,
+    "markerParagraphs": 202,
+    "imageParagraphs": 14,
+    "mediaFiles": 20,
+    "sectionHeader": "三、判断推理，共 35 题，参考时限 35 分钟，本部分包括图形推理、定义判断、",
+    "exampleBoundaryParagraph": -1,
+    "mediaReferencedByBody": 20,
+    "unreferencedMedia": 0
+  },
+  "dataSide": {
+    "paper": "2009年国家公务员考试《行测》未标注",
+    "paperCount": 1,
+    "shardFiles": 568,
+    "figureQuestions": 5,
+    "numbers": [
+      66,
+      67,
+      68,
+      69,
+      70
+    ],
+    "questions": [
+      {
+        "id": "gk-2009-未标注-66",
+        "number": 66,
+        "file": "public/data/questions/national-none-panduan-2.json"
+      },
+      {
+        "id": "gk-2009-未标注-67",
+        "number": 67,
+        "file": "public/data/questions/national-none-panduan-2.json"
+      },
+      {
+        "id": "gk-2009-未标注-68",
+        "number": 68,
+        "file": "public/data/questions/national-none-panduan-2.json"
+      },
+      {
+        "id": "gk-2009-未标注-69",
+        "number": 69,
+        "file": "public/data/questions/national-none-panduan-2.json"
+      },
+      {
+        "id": "gk-2009-未标注-70",
+        "number": 70,
+        "file": "public/data/questions/national-none-panduan-2.json"
+      }
+    ]
+  },
+  "statistics": {
+    "mediaFiles": 20,
+    "bodyImageReferences": 20,
+    "filtered": 15,
+    "filteredTinyFragments": 9,
+    "produced": 5,
+    "landed": 0,
+    "notSelected": 0
+  },
+  "filters": {
+    "not-figure-question": {
+      "count": 15,
+      "items": [
+        {
+          "rid": "rId17",
+          "media": "word/media/image6.png",
+          "number": 101,
+          "paragraph": 356,
+          "detail": "A、361    B、341    C、321    D、301 104、0，  | 11x29px（碎片尺寸）",
+          "legacyColon": false
+        },
+        {
+          "rid": "rId18",
+          "media": "word/media/image7.png",
+          "number": 101,
+          "paragraph": 356,
+          "detail": "A、361    B、341    C、321    D、301 104、0，  | 11x29px（碎片尺寸）",
+          "legacyColon": false
+        },
+        {
+          "rid": "rId19",
+          "media": "word/media/image8.png",
+          "number": 101,
+          "paragraph": 356,
+          "detail": "A、361    B、341    C、321    D、301 104、0，  | 11x29px（碎片尺寸）",
+          "legacyColon": false
+        },
+        {
+          "rid": "rId20",
+          "media": "word/media/image9.png",
+          "number": 101,
+          "paragraph": 356,
+          "detail": "A、361    B、341    C、321    D、301 104、0，  | 11x29px（碎片尺寸）",
+          "legacyColon": false
+        },
+        {
+          "rid": "rId21",
+          "media": "word/media/image10.png",
+          "number": 101,
+          "paragraph": 357,
+          "detail": "A、    B、    C、    D、 | 17x29px（碎片尺寸）",
+          "legacyColon": false
+        },
+        {
+          "rid": "rId22",
+          "media": "word/media/image11.png",
+          "number": 101,
+          "paragraph": 357,
+          "detail": "A、    B、    C、    D、 | 17x29px（碎片尺寸）",
+          "legacyColon": false
+        },
+        {
+          "rid": "rId23",
+          "media": "word/media/image12.png",
+          "number": 101,
+          "paragraph": 357,
+          "detail": "A、    B、    C、    D、 | 17x29px（碎片尺寸）",
+          "legacyColon": false
+        },
+        {
+          "rid": "rId24",
+          "media": "word/media/image13.png",
+          "number": 101,
+          "paragraph": 357,
+          "detail": "A、    B、    C、    D、 | 16x29px（碎片尺寸）",
+          "legacyColon": false
+        },
+        {
+          "rid": "rId26",
+          "media": "word/media/image14.jpeg",
+          "number": 116,
+          "paragraph": 384,
+          "detail": " | 135x122px",
+          "legacyColon": false
+        },
+        {
+          "rid": "rId27",
+          "media": "word/media/image15.png",
+          "number": 117,
+          "paragraph": 387,
+          "detail": "是另外三个队造林总亩数的 ，丙队造林的亩数是另外三个队造林总亩数的一半，已知丁队 | 11x29px（碎片尺寸）",
+          "legacyColon": false
+        },
+        {
+          "rid": "rId28",
+          "media": "word/media/image16.jpeg",
+          "number": 120,
+          "paragraph": 399,
+          "detail": " | 439x301px",
+          "legacyColon": false
+        },
+        {
+          "rid": "rId30",
+          "media": "word/media/image17.jpeg",
+          "number": 125,
+          "paragraph": 410,
+          "detail": " | 526x252px",
+          "legacyColon": false
+        },
+        {
+          "rid": "rId32",
+          "media": "word/media/image18.jpeg",
+          "number": 135,
+          "paragraph": 569,
+          "detail": " | 413x278px",
+          "legacyColon": false
+        },
+        {
+          "rid": "rId33",
+          "media": "word/media/image19.jpeg",
+          "number": 135,
+          "paragraph": 571,
+          "detail": " | 348x208px",
+          "legacyColon": false
+        },
+        {
+          "rid": "rId35",
+          "media": "word/media/image20.jpeg",
+          "number": 138,
+          "paragraph": 582,
+          "detail": " | 402x303px",
+          "legacyColon": false
+        }
+      ]
+    }
+  },
+  "produced": [
+    {
+      "number": 66,
+      "id": "gk-2009-未标注-66",
+      "imageUrl": "/data/questions/images/gk-2009-66.jpg",
+      "file": "gk-2009-66.jpg",
+      "sourcePart": "word/media/image1.jpeg",
+      "sourceParagraph": 222,
+      "format": "jpg",
+      "width": 303,
+      "height": 145,
+      "bytes": 8716,
+      "flatCheck": {
+        "method": "heuristic",
+        "flat": false,
+        "detail": "8716B / 43935px = 0.198B/px（阈值 0.05）"
+      },
+      "confidence": "high",
+      "note": "图片位于第 66 题题干段之后 1 段，段间无其他题号插入",
+      "wrote": false,
+      "landing": "dry-run"
+    },
+    {
+      "number": 67,
+      "id": "gk-2009-未标注-67",
+      "imageUrl": "/data/questions/images/gk-2009-67.jpg",
+      "file": "gk-2009-67.jpg",
+      "sourcePart": "word/media/image2.jpeg",
+      "sourceParagraph": 224,
+      "format": "jpg",
+      "width": 277,
+      "height": 132,
+      "bytes": 8499,
+      "flatCheck": {
+        "method": "heuristic",
+        "flat": false,
+        "detail": "8499B / 36564px = 0.232B/px（阈值 0.05）"
+      },
+      "confidence": "high",
+      "note": "图片位于第 67 题题干段之后 1 段，段间无其他题号插入",
+      "wrote": false,
+      "landing": "dry-run"
+    },
+    {
+      "number": 68,
+      "id": "gk-2009-未标注-68",
+      "imageUrl": "/data/questions/images/gk-2009-68.jpg",
+      "file": "gk-2009-68.jpg",
+      "sourcePart": "word/media/image3.jpeg",
+      "sourceParagraph": 226,
+      "format": "jpg",
+      "width": 270,
+      "height": 129,
+      "bytes": 7682,
+      "flatCheck": {
+        "method": "heuristic",
+        "flat": false,
+        "detail": "7682B / 34830px = 0.221B/px（阈值 0.05）"
+      },
+      "confidence": "high",
+      "note": "图片位于第 68 题题干段之后 1 段，段间无其他题号插入",
+      "wrote": false,
+      "landing": "dry-run"
+    },
+    {
+      "number": 69,
+      "id": "gk-2009-未标注-69",
+      "imageUrl": "/data/questions/images/gk-2009-69.jpg",
+      "file": "gk-2009-69.jpg",
+      "sourcePart": "word/media/image4.jpeg",
+      "sourceParagraph": 230,
+      "format": "jpg",
+      "width": 228,
+      "height": 270,
+      "bytes": 14475,
+      "flatCheck": {
+        "method": "heuristic",
+        "flat": false,
+        "detail": "14475B / 61560px = 0.235B/px（阈值 0.05）"
+      },
+      "confidence": "high",
+      "note": "图片位于第 69 题题干段之后 1 段，段间无其他题号插入",
+      "wrote": false,
+      "landing": "dry-run"
+    },
+    {
+      "number": 70,
+      "id": "gk-2009-未标注-70",
+      "imageUrl": "/data/questions/images/gk-2009-70.jpg",
+      "file": "gk-2009-70.jpg",
+      "sourcePart": "word/media/image5.jpeg",
+      "sourceParagraph": 232,
+      "format": "jpg",
+      "width": 417,
+      "height": 122,
+      "bytes": 8725,
+      "flatCheck": {
+        "method": "heuristic",
+        "flat": false,
+        "detail": "8725B / 50874px = 0.172B/px（阈值 0.05）"
+      },
+      "confidence": "high",
+      "note": "图片位于第 70 题题干段之后 1 段，段间无其他题号插入",
+      "wrote": false,
+      "landing": "dry-run"
+    }
+  ],
+  "verification": {
+    "expectedFigures": 5,
+    "producedImages": 5,
+    "countMatched": true,
+    "allHighConfidence": true,
+    "allSizeAboveMin": true,
+    "allNonFlat": true,
+    "allUnderByteLimit": true
+  },
+  "errors": [],
+  "warnings": [],
+  "tag": null
+}

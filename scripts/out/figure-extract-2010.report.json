@@ -1,0 +1,447 @@
+{
+  "generatedAt": "2026-11-16T12:28:51.774Z",
+  "year": "2010",
+  "mode": "dry-run",
+  "source": {
+    "docx": "source-data/国考真题（2000--2026)/4-行测/1-行测-真题/word/2010年国家公务员考试《行测》真题卷.docx",
+    "docxBytes": 389807,
+    "paragraphs": 508,
+    "markerParagraphs": 139,
+    "imageParagraphs": 20,
+    "mediaFiles": 25,
+    "sectionHeader": "三、判断推理，共 40 题，参考时限 35 分钟，本部分包括图形推理、定义判断、",
+    "exampleBoundaryParagraph": -1,
+    "mediaReferencedByBody": 25,
+    "unreferencedMedia": 0
+  },
+  "dataSide": {
+    "paper": "2010年国家公务员考试《行测》未标注",
+    "paperCount": 1,
+    "shardFiles": 568,
+    "figureQuestions": 10,
+    "numbers": [
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      64,
+      65
+    ],
+    "questions": [
+      {
+        "id": "gk-2010-未标注-56",
+        "number": 56,
+        "file": "public/data/questions/national-none-panduan-2.json"
+      },
+      {
+        "id": "gk-2010-未标注-57",
+        "number": 57,
+        "file": "public/data/questions/national-none-panduan-2.json"
+      },
+      {
+        "id": "gk-2010-未标注-58",
+        "number": 58,
+        "file": "public/data/questions/national-none-panduan-2.json"
+      },
+      {
+        "id": "gk-2010-未标注-59",
+        "number": 59,
+        "file": "public/data/questions/national-none-panduan-2.json"
+      },
+      {
+        "id": "gk-2010-未标注-60",
+        "number": 60,
+        "file": "public/data/questions/national-none-panduan-2.json"
+      },
+      {
+        "id": "gk-2010-未标注-61",
+        "number": 61,
+        "file": "public/data/questions/national-none-panduan-2.json"
+      },
+      {
+        "id": "gk-2010-未标注-62",
+        "number": 62,
+        "file": "public/data/questions/national-none-panduan-2.json"
+      },
+      {
+        "id": "gk-2010-未标注-63",
+        "number": 63,
+        "file": "public/data/questions/national-none-panduan-2.json"
+      },
+      {
+        "id": "gk-2010-未标注-64",
+        "number": 64,
+        "file": "public/data/questions/national-none-panduan-2.json"
+      },
+      {
+        "id": "gk-2010-未标注-65",
+        "number": 65,
+        "file": "public/data/questions/national-none-panduan-2.json"
+      }
+    ]
+  },
+  "statistics": {
+    "mediaFiles": 25,
+    "bodyImageReferences": 25,
+    "filtered": 15,
+    "filteredTinyFragments": 10,
+    "produced": 10,
+    "landed": 0,
+    "notSelected": 0
+  },
+  "filters": {
+    "not-figure-question": {
+      "count": 15,
+      "items": [
+        {
+          "rid": "rId7",
+          "media": "word/media/image1.png",
+          "number": 44,
+          "paragraph": 170,
+          "detail": "A、4542    B、4544    C、4546    D、4548 45、 | 12x29px（碎片尺寸）",
+          "legacyColon": false
+        },
+        {
+          "rid": "rId8",
+          "media": "word/media/image2.png",
+          "number": 44,
+          "paragraph": 170,
+          "detail": "A、4542    B、4544    C、4546    D、4548 45、 | 17x29px（碎片尺寸）",
+          "legacyColon": false
+        },
+        {
+          "rid": "rId9",
+          "media": "word/media/image3.png",
+          "number": 44,
+          "paragraph": 170,
+          "detail": "A、4542    B、4544    C、4546    D、4548 45、 | 17x29px（碎片尺寸）",
+          "legacyColon": false
+        },
+        {
+          "rid": "rId10",
+          "media": "word/media/image4.png",
+          "number": 44,
+          "paragraph": 170,
+          "detail": "A、4542    B、4544    C、4546    D、4548 45、 | 17x29px（碎片尺寸）",
+          "legacyColon": false
+        },
+        {
+          "rid": "rId12",
+          "media": "word/media/image5.png",
+          "number": 54,
+          "paragraph": 193,
+          "detail": "需小时，则满足的方程为： | 9x10px（碎片尺寸）",
+          "legacyColon": false
+        },
+        {
+          "rid": "rId13",
+          "media": "word/media/image6.png",
+          "number": 54,
+          "paragraph": 193,
+          "detail": "需小时，则满足的方程为： | 9x10px（碎片尺寸）",
+          "legacyColon": false
+        },
+        {
+          "rid": "rId14",
+          "media": "word/media/image7.png",
+          "number": 54,
+          "paragraph": 194,
+          "detail": "A、    B、 | 92x29px（碎片尺寸）",
+          "legacyColon": false
+        },
+        {
+          "rid": "rId15",
+          "media": "word/media/image8.png",
+          "number": 54,
+          "paragraph": 194,
+          "detail": "A、    B、 | 91x30px（碎片尺寸）",
+          "legacyColon": false
+        },
+        {
+          "rid": "rId16",
+          "media": "word/media/image9.png",
+          "number": 54,
+          "paragraph": 201,
+          "detail": " | 94x29px（碎片尺寸）",
+          "legacyColon": false
+        },
+        {
+          "rid": "rId17",
+          "media": "word/media/image10.png",
+          "number": 54,
+          "paragraph": 208,
+          "detail": " | 94x29px（碎片尺寸）",
+          "legacyColon": false
+        },
+        {
+          "rid": "rId34",
+          "media": "word/media/image21.jpeg",
+          "number": 94,
+          "paragraph": 366,
+          "detail": " | 564x291px",
+          "legacyColon": false
+        },
+        {
+          "rid": "rId35",
+          "media": "word/media/image22.jpeg",
+          "number": 100,
+          "paragraph": 376,
+          "detail": " | 481x312px",
+          "legacyColon": false
+        },
+        {
+          "rid": "rId38",
+          "media": "word/media/image23.jpeg",
+          "number": 100,
+          "paragraph": 379,
+          "detail": " | 474x313px",
+          "legacyColon": false
+        },
+        {
+          "rid": "rId39",
+          "media": "word/media/image24.jpeg",
+          "number": 4,
+          "paragraph": 392,
+          "detail": " | 530x293px",
+          "legacyColon": false
+        },
+        {
+          "rid": "rId41",
+          "media": "word/media/image25.jpeg",
+          "number": 110,
+          "paragraph": 410,
+          "detail": " | 530x227px",
+          "legacyColon": false
+        }
+      ]
+    }
+  },
+  "produced": [
+    {
+      "number": 56,
+      "id": "gk-2010-未标注-56",
+      "imageUrl": "/data/questions/images/gk-2010-56.jpg",
+      "file": "gk-2010-56.jpg",
+      "sourcePart": "word/media/image11.jpeg",
+      "sourceParagraph": 214,
+      "format": "jpg",
+      "width": 266,
+      "height": 127,
+      "bytes": 7974,
+      "flatCheck": {
+        "method": "heuristic",
+        "flat": false,
+        "detail": "7974B / 33782px = 0.236B/px（阈值 0.05）"
+      },
+      "confidence": "high",
+      "note": "图片位于第 56 题题干段之后 1 段，段间无其他题号插入",
+      "wrote": false,
+      "landing": "dry-run"
+    },
+    {
+      "number": 57,
+      "id": "gk-2010-未标注-57",
+      "imageUrl": "/data/questions/images/gk-2010-57.jpg",
+      "file": "gk-2010-57.jpg",
+      "sourcePart": "word/media/image12.jpeg",
+      "sourceParagraph": 216,
+      "format": "jpg",
+      "width": 303,
+      "height": 145,
+      "bytes": 9007,
+      "flatCheck": {
+        "method": "heuristic",
+        "flat": false,
+        "detail": "9007B / 43935px = 0.205B/px（阈值 0.05）"
+      },
+      "confidence": "high",
+      "note": "图片位于第 57 题题干段之后 1 段，段间无其他题号插入",
+      "wrote": false,
+      "landing": "dry-run"
+    },
+    {
+      "number": 58,
+      "id": "gk-2010-未标注-58",
+      "imageUrl": "/data/questions/images/gk-2010-58.jpg",
+      "file": "gk-2010-58.jpg",
+      "sourcePart": "word/media/image13.jpeg",
+      "sourceParagraph": 218,
+      "format": "jpg",
+      "width": 277,
+      "height": 132,
+      "bytes": 7987,
+      "flatCheck": {
+        "method": "heuristic",
+        "flat": false,
+        "detail": "7987B / 36564px = 0.218B/px（阈值 0.05）"
+      },
+      "confidence": "high",
+      "note": "图片位于第 58 题题干段之后 1 段，段间无其他题号插入",
+      "wrote": false,
+      "landing": "dry-run"
+    },
+    {
+      "number": 59,
+      "id": "gk-2010-未标注-59",
+      "imageUrl": "/data/questions/images/gk-2010-59.jpg",
+      "file": "gk-2010-59.jpg",
+      "sourcePart": "word/media/image14.jpeg",
+      "sourceParagraph": 222,
+      "format": "jpg",
+      "width": 273,
+      "height": 130,
+      "bytes": 8072,
+      "flatCheck": {
+        "method": "heuristic",
+        "flat": false,
+        "detail": "8072B / 35490px = 0.227B/px（阈值 0.05）"
+      },
+      "confidence": "high",
+      "note": "图片位于第 59 题题干段之后 3 段，段间无其他题号插入",
+      "wrote": false,
+      "landing": "dry-run"
+    },
+    {
+      "number": 60,
+      "id": "gk-2010-未标注-60",
+      "imageUrl": "/data/questions/images/gk-2010-60.png",
+      "file": "gk-2010-60.png",
+      "sourcePart": "word/media/image15.png",
+      "sourceParagraph": 224,
+      "format": "png",
+      "width": 205,
+      "height": 241,
+      "bytes": 44585,
+      "flatCheck": {
+        "method": "pixel",
+        "flat": false,
+        "detail": "解码 205x241，非首像素点 2+"
+      },
+      "confidence": "high",
+      "note": "图片位于第 60 题题干段之后 1 段，段间无其他题号插入",
+      "wrote": false,
+      "landing": "dry-run"
+    },
+    {
+      "number": 61,
+      "id": "gk-2010-未标注-61",
+      "imageUrl": "/data/questions/images/gk-2010-61.png",
+      "file": "gk-2010-61.png",
+      "sourcePart": "word/media/image16.png",
+      "sourceParagraph": 226,
+      "format": "png",
+      "width": 205,
+      "height": 241,
+      "bytes": 28507,
+      "flatCheck": {
+        "method": "pixel",
+        "flat": false,
+        "detail": "解码 205x241，非首像素点 2+"
+      },
+      "confidence": "high",
+      "note": "图片位于第 61 题题干段之后 1 段，段间无其他题号插入",
+      "wrote": false,
+      "landing": "dry-run"
+    },
+    {
+      "number": 62,
+      "id": "gk-2010-未标注-62",
+      "imageUrl": "/data/questions/images/gk-2010-62.png",
+      "file": "gk-2010-62.png",
+      "sourcePart": "word/media/image17.png",
+      "sourceParagraph": 228,
+      "format": "png",
+      "width": 186,
+      "height": 219,
+      "bytes": 28042,
+      "flatCheck": {
+        "method": "pixel",
+        "flat": false,
+        "detail": "解码 186x219，非首像素点 2+"
+      },
+      "confidence": "high",
+      "note": "图片位于第 62 题题干段之后 1 段，段间无其他题号插入",
+      "wrote": false,
+      "landing": "dry-run"
+    },
+    {
+      "number": 63,
+      "id": "gk-2010-未标注-63",
+      "imageUrl": "/data/questions/images/gk-2010-63.jpg",
+      "file": "gk-2010-63.jpg",
+      "sourcePart": "word/media/image18.jpeg",
+      "sourceParagraph": 230,
+      "format": "jpg",
+      "width": 270,
+      "height": 120,
+      "bytes": 6628,
+      "flatCheck": {
+        "method": "heuristic",
+        "flat": false,
+        "detail": "6628B / 32400px = 0.205B/px（阈值 0.05）"
+      },
+      "confidence": "high",
+      "note": "图片位于第 63 题题干段之后 1 段，段间无其他题号插入",
+      "wrote": false,
+      "landing": "dry-run"
+    },
+    {
+      "number": 64,
+      "id": "gk-2010-未标注-64",
+      "imageUrl": "/data/questions/images/gk-2010-64.jpg",
+      "file": "gk-2010-64.jpg",
+      "sourcePart": "word/media/image19.jpeg",
+      "sourceParagraph": 235,
+      "format": "jpg",
+      "width": 342,
+      "height": 100,
+      "bytes": 7207,
+      "flatCheck": {
+        "method": "heuristic",
+        "flat": false,
+        "detail": "7207B / 34200px = 0.211B/px（阈值 0.05）"
+      },
+      "confidence": "high",
+      "note": "图片位于第 64 题题干段之后 1 段，段间无其他题号插入",
+      "wrote": false,
+      "landing": "dry-run"
+    },
+    {
+      "number": 65,
+      "id": "gk-2010-未标注-65",
+      "imageUrl": "/data/questions/images/gk-2010-65.jpg",
+      "file": "gk-2010-65.jpg",
+      "sourcePart": "word/media/image20.jpeg",
+      "sourceParagraph": 237,
+      "format": "jpg",
+      "width": 342,
+      "height": 100,
+      "bytes": 7005,
+      "flatCheck": {
+        "method": "heuristic",
+        "flat": false,
+        "detail": "7005B / 34200px = 0.205B/px（阈值 0.05）"
+      },
+      "confidence": "high",
+      "note": "图片位于第 65 题题干段之后 1 段，段间无其他题号插入",
+      "wrote": false,
+      "landing": "dry-run"
+    }
+  ],
+  "verification": {
+    "expectedFigures": 10,
+    "producedImages": 10,
+    "countMatched": true,
+    "allHighConfidence": true,
+    "allSizeAboveMin": true,
+    "allNonFlat": true,
+    "allUnderByteLimit": true
+  },
+  "errors": [],
+  "warnings": [],
+  "tag": null
+}

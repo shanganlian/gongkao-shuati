@@ -2,12 +2,15 @@ import { useState, useEffect, useMemo } from 'react';
 import { Question, ExamCategory } from '../types';
 import { filterValidQuestions } from '../lib/questionValidation';
 import { getScopeModuleStats } from '../data/subModuleCounts';
+import { matchesQuestionYear } from '../lib/questionYear';
 
 export function useQuestions(
   selectedCategory: ExamCategory | 'all',
   activeProvince: string,
   activeModule: string,
   activeSubModule: string,
+  /** 年份筛选：'all' 表示不限；具体年份从 source 文本解析后比对 */
+  activeYear: string,
   practiceMode: string,
   mistakeList: string[],
   currentKnowledgeFilter: { module: string; cardIds: string[]; keywords: string[] } | null
@@ -128,7 +131,8 @@ export function useQuestions(
     return Object.keys(subs).filter(sub => subs[sub] > 0);
   }, [subModuleStats, activeModule, currentKnowledgeFilter]);
 
-  const filteredQuestions = useMemo(() => {
+  // 除年份外的全部筛选结果：既用于最终过滤，也用于年份空结果的题量标注（「不限年份共 N 题」）
+  const scopeQuestions = useMemo(() => {
     const isKnowledgeFilterActive = !!currentKnowledgeFilter;
     // 统一数据校验：题干为空 / 选项为空（含选项文本为空）的题目直接跳过
     const validPool = filterValidQuestions(questionsPool);
@@ -142,7 +146,7 @@ export function useQuestions(
         }
         return true;
       }
-      
+
       const catMatch = selectedCategory === 'all' || q.category === selectedCategory;
       let provMatch = true;
       if (selectedCategory !== 'national' && activeProvince !== 'all') {
@@ -157,9 +161,21 @@ export function useQuestions(
     });
   }, [questionsPool, currentKnowledgeFilter, selectedCategory, activeProvince, activeModule, activeSubModule]);
 
+  // 知识图谱跳转时按卡片/关键词取题，年份筛选不参与（与原口径一致）
+  const filteredQuestions = useMemo(
+    () => (currentKnowledgeFilter
+      ? scopeQuestions
+      : scopeQuestions.filter(q => matchesQuestionYear(q.source, activeYear))),
+    [scopeQuestions, currentKnowledgeFilter, activeYear]
+  );
+
+  // 忽略年份的题量：年份选中却 0 题时，用它标注「当前范围不限年份共 N 题」
+  const yearScopeTotal = scopeQuestions.length;
+
   return {
     questionsPool,
     filteredQuestions,
+    yearScopeTotal,
     availableSubModules,
     subModuleStats,
     isLoading,

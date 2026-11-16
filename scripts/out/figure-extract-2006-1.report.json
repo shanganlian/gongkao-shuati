@@ -1,0 +1,356 @@
+{
+  "generatedAt": "2026-11-16T12:29:17.028Z",
+  "year": "2006",
+  "mode": "apply",
+  "source": {
+    "docx": "source-data/国考真题（2000--2026)/4-行测/1-行测-真题/word/2006年国家公务员考试《行测》真题卷（一）.docx",
+    "docxBytes": 249717,
+    "paragraphs": 727,
+    "markerParagraphs": 148,
+    "imageParagraphs": 11,
+    "mediaFiles": 13,
+    "sectionHeader": "一、图形推理。共 10 题。包括三种类型的题目：",
+    "exampleBoundaryParagraph": 218,
+    "mediaReferencedByBody": 13,
+    "unreferencedMedia": 0
+  },
+  "dataSide": {
+    "paper": "2006年国家公务员考试《行测》一卷",
+    "paperCount": 2,
+    "shardFiles": 568,
+    "figureQuestions": 10,
+    "numbers": [
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60
+    ],
+    "questions": [
+      {
+        "id": "gk-2006-一卷-51",
+        "number": 51,
+        "file": "public/data/questions/national-none-panduan-1.json"
+      },
+      {
+        "id": "gk-2006-一卷-52",
+        "number": 52,
+        "file": "public/data/questions/national-none-panduan-1.json"
+      },
+      {
+        "id": "gk-2006-一卷-53",
+        "number": 53,
+        "file": "public/data/questions/national-none-panduan-1.json"
+      },
+      {
+        "id": "gk-2006-一卷-54",
+        "number": 54,
+        "file": "public/data/questions/national-none-panduan-1.json"
+      },
+      {
+        "id": "gk-2006-一卷-55",
+        "number": 55,
+        "file": "public/data/questions/national-none-panduan-1.json"
+      },
+      {
+        "id": "gk-2006-一卷-56",
+        "number": 56,
+        "file": "public/data/questions/national-none-panduan-1.json"
+      },
+      {
+        "id": "gk-2006-一卷-57",
+        "number": 57,
+        "file": "public/data/questions/national-none-panduan-1.json"
+      },
+      {
+        "id": "gk-2006-一卷-58",
+        "number": 58,
+        "file": "public/data/questions/national-none-panduan-1.json"
+      },
+      {
+        "id": "gk-2006-一卷-59",
+        "number": 59,
+        "file": "public/data/questions/national-none-panduan-1.json"
+      },
+      {
+        "id": "gk-2006-一卷-60",
+        "number": 60,
+        "file": "public/data/questions/national-none-panduan-1.json"
+      }
+    ]
+  },
+  "statistics": {
+    "mediaFiles": 13,
+    "bodyImageReferences": 13,
+    "filtered": 3,
+    "filteredTinyFragments": 0,
+    "produced": 10,
+    "landed": 10,
+    "notSelected": 0
+  },
+  "filters": {
+    "not-figure-question": {
+      "count": 2,
+      "items": [
+        {
+          "rid": "rId9",
+          "media": "word/media/image1.jpeg",
+          "number": 1,
+          "paragraph": 216,
+          "detail": " | 213x220px",
+          "legacyColon": false
+        },
+        {
+          "rid": "rId31",
+          "media": "word/media/image13.jpeg",
+          "number": 120,
+          "paragraph": 576,
+          "detail": " | 367x243px",
+          "legacyColon": false
+        }
+      ]
+    },
+    "duplicate-candidate": {
+      "count": 1,
+      "items": [
+        {
+          "rid": "rId16",
+          "media": "word/media/image7.jpeg",
+          "number": 55,
+          "paragraph": 232,
+          "detail": "第 55 题已保留更大候选 204x208",
+          "legacyColon": false
+        }
+      ]
+    }
+  },
+  "produced": [
+    {
+      "number": 51,
+      "id": "gk-2006-一卷-51",
+      "imageUrl": "/data/questions/images/gk-2006-1-51.jpg",
+      "file": "gk-2006-1-51.jpg",
+      "sourcePart": "word/media/image3.jpeg",
+      "sourceParagraph": 220,
+      "format": "jpg",
+      "width": 206,
+      "height": 214,
+      "bytes": 11571,
+      "flatCheck": {
+        "method": "heuristic",
+        "flat": false,
+        "detail": "11571B / 44084px = 0.262B/px（阈值 0.05）"
+      },
+      "confidence": "high",
+      "note": "题号段「51. 52」并排多题，本图内联图（最左），按版面从左到右第 1/2 位归第 51 题",
+      "wrote": true,
+      "landing": "written"
+    },
+    {
+      "number": 52,
+      "id": "gk-2006-一卷-52",
+      "imageUrl": "/data/questions/images/gk-2006-1-52.jpg",
+      "file": "gk-2006-1-52.jpg",
+      "sourcePart": "word/media/image2.jpeg",
+      "sourceParagraph": 220,
+      "format": "jpg",
+      "width": 179,
+      "height": 212,
+      "bytes": 9225,
+      "flatCheck": {
+        "method": "heuristic",
+        "flat": false,
+        "detail": "9225B / 37948px = 0.243B/px（阈值 0.05）"
+      },
+      "confidence": "high",
+      "note": "题号段「51. 52」并排多题，本图浮动图 x=8.59cm，按版面从左到右第 2/2 位归第 52 题",
+      "wrote": true,
+      "landing": "written"
+    },
+    {
+      "number": 53,
+      "id": "gk-2006-一卷-53",
+      "imageUrl": "/data/questions/images/gk-2006-1-53.jpg",
+      "file": "gk-2006-1-53.jpg",
+      "sourcePart": "word/media/image5.jpeg",
+      "sourceParagraph": 223,
+      "format": "jpg",
+      "width": 202,
+      "height": 213,
+      "bytes": 11070,
+      "flatCheck": {
+        "method": "heuristic",
+        "flat": false,
+        "detail": "11070B / 43026px = 0.257B/px（阈值 0.05）"
+      },
+      "confidence": "high",
+      "note": "题号段「53. 54」并排多题，本图内联图（最左），按版面从左到右第 1/2 位归第 53 题",
+      "wrote": true,
+      "landing": "written"
+    },
+    {
+      "number": 54,
+      "id": "gk-2006-一卷-54",
+      "imageUrl": "/data/questions/images/gk-2006-1-54.jpg",
+      "file": "gk-2006-1-54.jpg",
+      "sourcePart": "word/media/image4.jpeg",
+      "sourceParagraph": 223,
+      "format": "jpg",
+      "width": 202,
+      "height": 213,
+      "bytes": 13200,
+      "flatCheck": {
+        "method": "heuristic",
+        "flat": false,
+        "detail": "13200B / 43026px = 0.307B/px（阈值 0.05）"
+      },
+      "confidence": "high",
+      "note": "题号段「53. 54」并排多题，本图浮动图 x=8.67cm，按版面从左到右第 2/2 位归第 54 题",
+      "wrote": true,
+      "landing": "written"
+    },
+    {
+      "number": 55,
+      "id": "gk-2006-一卷-55",
+      "imageUrl": "/data/questions/images/gk-2006-1-55.jpg",
+      "file": "gk-2006-1-55.jpg",
+      "sourcePart": "word/media/image6.jpeg",
+      "sourceParagraph": 228,
+      "format": "jpg",
+      "width": 204,
+      "height": 208,
+      "bytes": 11950,
+      "flatCheck": {
+        "method": "heuristic",
+        "flat": false,
+        "detail": "11950B / 42432px = 0.282B/px（阈值 0.05）"
+      },
+      "confidence": "high",
+      "note": "图片位于第 55 题题干段之后 1 段，段间无其他题号插入",
+      "wrote": true,
+      "landing": "written"
+    },
+    {
+      "number": 56,
+      "id": "gk-2006-一卷-56",
+      "imageUrl": "/data/questions/images/gk-2006-1-56.jpg",
+      "file": "gk-2006-1-56.jpg",
+      "sourcePart": "word/media/image8.jpeg",
+      "sourceParagraph": 236,
+      "format": "jpg",
+      "width": 434,
+      "height": 107,
+      "bytes": 10977,
+      "flatCheck": {
+        "method": "heuristic",
+        "flat": false,
+        "detail": "10977B / 46438px = 0.236B/px（阈值 0.05）"
+      },
+      "confidence": "high",
+      "note": "图片位于第 56 题题干段之后 1 段，段间无其他题号插入",
+      "wrote": true,
+      "landing": "written"
+    },
+    {
+      "number": 57,
+      "id": "gk-2006-一卷-57",
+      "imageUrl": "/data/questions/images/gk-2006-1-57.jpg",
+      "file": "gk-2006-1-57.jpg",
+      "sourcePart": "word/media/image9.jpeg",
+      "sourceParagraph": 238,
+      "format": "jpg",
+      "width": 436,
+      "height": 107,
+      "bytes": 11388,
+      "flatCheck": {
+        "method": "heuristic",
+        "flat": false,
+        "detail": "11388B / 46652px = 0.244B/px（阈值 0.05）"
+      },
+      "confidence": "high",
+      "note": "图片位于第 57 题题干段之后 1 段，段间无其他题号插入",
+      "wrote": true,
+      "landing": "written"
+    },
+    {
+      "number": 58,
+      "id": "gk-2006-一卷-58",
+      "imageUrl": "/data/questions/images/gk-2006-1-58.jpg",
+      "file": "gk-2006-1-58.jpg",
+      "sourcePart": "word/media/image10.jpeg",
+      "sourceParagraph": 242,
+      "format": "jpg",
+      "width": 438,
+      "height": 106,
+      "bytes": 10142,
+      "flatCheck": {
+        "method": "heuristic",
+        "flat": false,
+        "detail": "10142B / 46428px = 0.218B/px（阈值 0.05）"
+      },
+      "confidence": "high",
+      "note": "图片位于第 58 题题干段之后 2 段，段间无其他题号插入",
+      "wrote": true,
+      "landing": "written"
+    },
+    {
+      "number": 59,
+      "id": "gk-2006-一卷-59",
+      "imageUrl": "/data/questions/images/gk-2006-1-59.jpg",
+      "file": "gk-2006-1-59.jpg",
+      "sourcePart": "word/media/image11.jpeg",
+      "sourceParagraph": 250,
+      "format": "jpg",
+      "width": 433,
+      "height": 103,
+      "bytes": 12208,
+      "flatCheck": {
+        "method": "heuristic",
+        "flat": false,
+        "detail": "12208B / 44599px = 0.274B/px（阈值 0.05）"
+      },
+      "confidence": "high",
+      "note": "图片位于第 59 题题干段之后 1 段，段间无其他题号插入",
+      "wrote": true,
+      "landing": "written"
+    },
+    {
+      "number": 60,
+      "id": "gk-2006-一卷-60",
+      "imageUrl": "/data/questions/images/gk-2006-1-60.jpg",
+      "file": "gk-2006-1-60.jpg",
+      "sourcePart": "word/media/image12.jpeg",
+      "sourceParagraph": 253,
+      "format": "jpg",
+      "width": 457,
+      "height": 117,
+      "bytes": 13661,
+      "flatCheck": {
+        "method": "heuristic",
+        "flat": false,
+        "detail": "13661B / 53469px = 0.255B/px（阈值 0.05）"
+      },
+      "confidence": "high",
+      "note": "图片位于第 60 题题干段之后 1 段，段间无其他题号插入",
+      "wrote": true,
+      "landing": "written"
+    }
+  ],
+  "verification": {
+    "expectedFigures": 10,
+    "producedImages": 10,
+    "countMatched": true,
+    "allHighConfidence": true,
+    "allSizeAboveMin": true,
+    "allNonFlat": true,
+    "allUnderByteLimit": true
+  },
+  "errors": [],
+  "warnings": [],
+  "tag": "1"
+}

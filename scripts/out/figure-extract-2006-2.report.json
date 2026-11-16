@@ -1,0 +1,253 @@
+{
+  "generatedAt": "2026-11-16T12:29:20.419Z",
+  "year": "2006",
+  "mode": "apply",
+  "source": {
+    "docx": "source-data/国考真题（2000--2026)/4-行测/1-行测-真题/word/2006年国家公务员考试《行测》真题卷（二）.docx",
+    "docxBytes": 274596,
+    "paragraphs": 557,
+    "markerParagraphs": 133,
+    "imageParagraphs": 6,
+    "mediaFiles": 6,
+    "sectionHeader": null,
+    "exampleBoundaryParagraph": -1,
+    "mediaReferencedByBody": 6,
+    "unreferencedMedia": 0
+  },
+  "dataSide": {
+    "paper": "2006年国家公务员考试《行测》二卷",
+    "paperCount": 2,
+    "shardFiles": 568,
+    "figureQuestions": 10,
+    "numbers": [
+      76,
+      77,
+      78,
+      79,
+      80,
+      81,
+      82,
+      83,
+      84,
+      85
+    ],
+    "questions": [
+      {
+        "id": "gk-2006-二卷-76",
+        "number": 76,
+        "file": "public/data/questions/national-none-panduan-8.json"
+      },
+      {
+        "id": "gk-2006-二卷-77",
+        "number": 77,
+        "file": "public/data/questions/national-none-panduan-8.json"
+      },
+      {
+        "id": "gk-2006-二卷-78",
+        "number": 78,
+        "file": "public/data/questions/national-none-panduan-8.json"
+      },
+      {
+        "id": "gk-2006-二卷-79",
+        "number": 79,
+        "file": "public/data/questions/national-none-panduan-8.json"
+      },
+      {
+        "id": "gk-2006-二卷-80",
+        "number": 80,
+        "file": "public/data/questions/national-none-panduan-8.json"
+      },
+      {
+        "id": "gk-2006-二卷-81",
+        "number": 81,
+        "file": "public/data/questions/national-none-panduan-8.json"
+      },
+      {
+        "id": "gk-2006-二卷-82",
+        "number": 82,
+        "file": "public/data/questions/national-none-panduan-8.json"
+      },
+      {
+        "id": "gk-2006-二卷-83",
+        "number": 83,
+        "file": "public/data/questions/national-none-panduan-8.json"
+      },
+      {
+        "id": "gk-2006-二卷-84",
+        "number": 84,
+        "file": "public/data/questions/national-none-panduan-8.json"
+      },
+      {
+        "id": "gk-2006-二卷-85",
+        "number": 85,
+        "file": "public/data/questions/national-none-panduan-8.json"
+      }
+    ]
+  },
+  "statistics": {
+    "mediaFiles": 6,
+    "bodyImageReferences": 6,
+    "filtered": 1,
+    "filteredTinyFragments": 0,
+    "produced": 4,
+    "landed": 4,
+    "notSelected": 0
+  },
+  "filters": {
+    "not-figure-question": {
+      "count": 1,
+      "items": [
+        {
+          "rid": "rId10",
+          "media": "word/media/image1.jpeg",
+          "number": 75,
+          "paragraph": 277,
+          "detail": " | 224x254px",
+          "legacyColon": false
+        }
+      ]
+    }
+  },
+  "produced": [
+    {
+      "number": 76,
+      "id": "gk-2006-二卷-76",
+      "imageUrl": "/data/questions/images/gk-2006-2-76.jpg",
+      "file": "gk-2006-2-76.jpg",
+      "sourcePart": "word/media/image2.jpeg",
+      "sourceParagraph": 293,
+      "format": "jpg",
+      "width": 185,
+      "height": 250,
+      "bytes": 10066,
+      "flatCheck": {
+        "method": "heuristic",
+        "flat": false,
+        "detail": "10066B / 46250px = 0.218B/px（阈值 0.05）"
+      },
+      "confidence": "high",
+      "note": "图片位于第 76 题题干段之后 1 段，段间无其他题号插入",
+      "wrote": true,
+      "landing": "written"
+    },
+    {
+      "number": 77,
+      "id": "gk-2006-二卷-77",
+      "imageUrl": "/data/questions/images/gk-2006-2-77.jpg",
+      "file": "gk-2006-2-77.jpg",
+      "sourcePart": "word/media/image3.jpeg",
+      "sourceParagraph": 309,
+      "format": "jpg",
+      "width": 220,
+      "height": 250,
+      "bytes": 10845,
+      "flatCheck": {
+        "method": "heuristic",
+        "flat": false,
+        "detail": "10845B / 55000px = 0.197B/px（阈值 0.05）"
+      },
+      "confidence": "high",
+      "note": "图片位于第 77 题题干段之后 1 段，段间无其他题号插入",
+      "wrote": true,
+      "landing": "written"
+    },
+    {
+      "number": 78,
+      "id": "gk-2006-二卷-78",
+      "imageUrl": "/data/questions/images/gk-2006-2-78.jpg",
+      "file": "gk-2006-2-78.jpg",
+      "sourcePart": "word/media/image4.jpeg",
+      "sourceParagraph": 326,
+      "format": "jpg",
+      "width": 220,
+      "height": 254,
+      "bytes": 13612,
+      "flatCheck": {
+        "method": "heuristic",
+        "flat": false,
+        "detail": "13612B / 55880px = 0.244B/px（阈值 0.05）"
+      },
+      "confidence": "high",
+      "note": "图片位于第 78 题题干段之后 2 段，段间无其他题号插入",
+      "wrote": true,
+      "landing": "written"
+    },
+    {
+      "number": 79,
+      "id": "gk-2006-二卷-79",
+      "imageUrl": "/data/questions/images/gk-2006-2-79.webp",
+      "file": "gk-2006-2-79.webp",
+      "sourcePart": "word/media/image5.png",
+      "sourceParagraph": 342,
+      "format": "webp",
+      "width": 344,
+      "height": 784,
+      "bytes": 23368,
+      "flatCheck": {
+        "method": "sharp-webp",
+        "flat": false,
+        "detail": "原 PNG 143.8KB → webp 22.8KB"
+      },
+      "confidence": "high",
+      "note": "原图 143.8KB 超过 100KB 上限；2026-11-16 用 sharp 转 webp（quality 82）",
+      "wrote": true
+    },
+    {
+      "number": 84,
+      "id": "gk-2006-二卷-84",
+      "imageUrl": "/data/questions/images/gk-2006-2-84.jpg",
+      "file": "gk-2006-2-84.jpg",
+      "sourcePart": "word/media/image6.jpeg",
+      "sourceParagraph": 391,
+      "format": "jpg",
+      "width": 337,
+      "height": 137,
+      "bytes": 12390,
+      "flatCheck": {
+        "method": "heuristic",
+        "flat": false,
+        "detail": "12390B / 46169px = 0.268B/px（阈值 0.05）"
+      },
+      "confidence": "high",
+      "note": "图片位于第 84 题题干段之后 3 段，段间无其他题号插入",
+      "wrote": true,
+      "landing": "written"
+    }
+  ],
+  "verification": {
+    "expectedFigures": 10,
+    "producedImages": 5,
+    "countMatched": false,
+    "allHighConfidence": true,
+    "allSizeAboveMin": true,
+    "allNonFlat": true,
+    "allUnderByteLimit": true
+  },
+  "errors": [
+    "第 80 题（图形推理）在 docx 中找不到配图",
+    "第 81 题（图形推理）在 docx 中找不到配图",
+    "第 82 题（图形推理）在 docx 中找不到配图",
+    "第 83 题（图形推理）在 docx 中找不到配图",
+    "第 85 题（图形推理）在 docx 中找不到配图",
+    "数量对账失败：该卷图形推理 10 题，实际产出 4 张"
+  ],
+  "warnings": [],
+  "tag": "2",
+  "postProcess": {
+    "tool": "sharp@0.35.5",
+    "at": "2026-11-16T12:29:32.836Z",
+    "note": "超限配图转 webp（scripts/convert-oversize-figure-images.cjs）",
+    "items": [
+      {
+        "id": "gk-2006-二卷-79",
+        "sourcePart": "word/media/image5.png",
+        "sourceBytes": 147276,
+        "bytes": 23368,
+        "quality": 82,
+        "width": 344,
+        "height": 784,
+        "resized": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,289 @@
+{
+  "generatedAt": "2026-11-16T12:29:18.731Z",
+  "year": "2002",
+  "mode": "apply",
+  "source": {
+    "docx": "source-data/国考真题（2000--2026)/4-行测/1-行测-真题/word/2002年国家公务员录用考试《行测》真题（B卷）.docx",
+    "docxBytes": 232239,
+    "paragraphs": 506,
+    "markerParagraphs": 118,
+    "imageParagraphs": 8,
+    "mediaFiles": 9,
+    "sectionHeader": null,
+    "exampleBoundaryParagraph": -1,
+    "mediaReferencedByBody": 9,
+    "unreferencedMedia": 0
+  },
+  "dataSide": {
+    "paper": "2002年国家公务员考试《行测》B卷",
+    "paperCount": 2,
+    "shardFiles": 568,
+    "figureQuestions": 10,
+    "numbers": [
+      96,
+      97,
+      98,
+      99,
+      100,
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "questions": [
+      {
+        "id": "gk-2002-B卷-96",
+        "number": 96,
+        "file": "public/data/questions/national-none-panduan-0.json"
+      },
+      {
+        "id": "gk-2002-B卷-97",
+        "number": 97,
+        "file": "public/data/questions/national-none-panduan-0.json"
+      },
+      {
+        "id": "gk-2002-B卷-98",
+        "number": 98,
+        "file": "public/data/questions/national-none-panduan-0.json"
+      },
+      {
+        "id": "gk-2002-B卷-99",
+        "number": 99,
+        "file": "public/data/questions/national-none-panduan-0.json"
+      },
+      {
+        "id": "gk-2002-B卷-100",
+        "number": 100,
+        "file": "public/data/questions/national-none-panduan-0.json"
+      },
+      {
+        "id": "gk-2002-B卷-101",
+        "number": 101,
+        "file": "public/data/questions/national-none-panduan-0.json"
+      },
+      {
+        "id": "gk-2002-B卷-102",
+        "number": 102,
+        "file": "public/data/questions/national-none-panduan-0.json"
+      },
+      {
+        "id": "gk-2002-B卷-103",
+        "number": 103,
+        "file": "public/data/questions/national-none-panduan-0.json"
+      },
+      {
+        "id": "gk-2002-B卷-104",
+        "number": 104,
+        "file": "public/data/questions/national-none-panduan-0.json"
+      },
+      {
+        "id": "gk-2002-B卷-105",
+        "number": 105,
+        "file": "public/data/questions/national-none-panduan-0.json"
+      }
+    ]
+  },
+  "statistics": {
+    "mediaFiles": 9,
+    "bodyImageReferences": 9,
+    "filtered": 3,
+    "filteredTinyFragments": 2,
+    "produced": 5,
+    "landed": 5,
+    "notSelected": 0
+  },
+  "filters": {
+    "not-figure-question": {
+      "count": 3,
+      "items": [
+        {
+          "rid": "rId16",
+          "media": "word/media/image1.jpeg",
+          "number": 82,
+          "paragraph": 307,
+          "detail": "A、16 π    B、8 π    C、    D、 | 19x42px（碎片尺寸）",
+          "legacyColon": true
+        },
+        {
+          "rid": "rId17",
+          "media": "word/media/image2.jpeg",
+          "number": 82,
+          "paragraph": 307,
+          "detail": "A、16 π    B、8 π    C、    D、 | 22x42px（碎片尺寸）",
+          "legacyColon": true
+        },
+        {
+          "rid": "rId19",
+          "media": "word/media/image3.jpeg",
+          "number": 94,
+          "paragraph": 341,
+          "detail": " | 106x106px",
+          "legacyColon": false
+        }
+      ]
+    }
+  },
+  "produced": [
+    {
+      "number": 96,
+      "id": "gk-2002-B卷-96",
+      "imageUrl": "/data/questions/images/gk-2002-B-96.jpg",
+      "file": "gk-2002-B-96.jpg",
+      "sourcePart": "word/media/image4.jpeg",
+      "sourceParagraph": 345,
+      "format": "jpg",
+      "width": 390,
+      "height": 160,
+      "bytes": 11246,
+      "flatCheck": {
+        "method": "heuristic",
+        "flat": false,
+        "detail": "11246B / 62400px = 0.180B/px（阈值 0.05）"
+      },
+      "confidence": "high",
+      "note": "图片位于第 96 题题干段之后 1 段，段间无其他题号插入",
+      "wrote": true,
+      "landing": "written"
+    },
+    {
+      "number": 97,
+      "id": "gk-2002-B卷-97",
+      "imageUrl": "/data/questions/images/gk-2002-B-97.jpg",
+      "file": "gk-2002-B-97.jpg",
+      "sourcePart": "word/media/image5.jpeg",
+      "sourceParagraph": 347,
+      "format": "jpg",
+      "width": 384,
+      "height": 149,
+      "bytes": 9904,
+      "flatCheck": {
+        "method": "heuristic",
+        "flat": false,
+        "detail": "9904B / 57216px = 0.173B/px（阈值 0.05）"
+      },
+      "confidence": "high",
+      "note": "图片位于第 97 题题干段之后 1 段，段间无其他题号插入",
+      "wrote": true,
+      "landing": "written"
+    },
+    {
+      "number": 98,
+      "id": "gk-2002-B卷-98",
+      "imageUrl": "/data/questions/images/gk-2002-B-98.jpg",
+      "file": "gk-2002-B-98.jpg",
+      "sourcePart": "word/media/image6.jpeg",
+      "sourceParagraph": 351,
+      "format": "jpg",
+      "width": 342,
+      "height": 134,
+      "bytes": 8886,
+      "flatCheck": {
+        "method": "heuristic",
+        "flat": false,
+        "detail": "8886B / 45828px = 0.194B/px（阈值 0.05）"
+      },
+      "confidence": "high",
+      "note": "图片位于第 98 题题干段之后 3 段，段间无其他题号插入",
+      "wrote": true,
+      "landing": "written"
+    },
+    {
+      "number": 99,
+      "id": "gk-2002-B卷-99",
+      "imageUrl": "/data/questions/images/gk-2002-B-99.webp",
+      "file": "gk-2002-B-99.webp",
+      "sourcePart": "word/media/image7.png",
+      "sourceParagraph": 361,
+      "format": "webp",
+      "width": 396,
+      "height": 846,
+      "bytes": 17726,
+      "flatCheck": {
+        "method": "sharp-webp",
+        "flat": false,
+        "detail": "原 PNG 114.6KB → webp 17.3KB"
+      },
+      "confidence": "high",
+      "note": "原图 114.6KB 超过 100KB 上限；2026-11-16 用 sharp 转 webp（quality 82）",
+      "wrote": true
+    },
+    {
+      "number": 104,
+      "id": "gk-2002-B卷-104",
+      "imageUrl": "/data/questions/images/gk-2002-B-104.jpg",
+      "file": "gk-2002-B-104.jpg",
+      "sourcePart": "word/media/image8.jpeg",
+      "sourceParagraph": 412,
+      "format": "jpg",
+      "width": 390,
+      "height": 159,
+      "bytes": 9381,
+      "flatCheck": {
+        "method": "heuristic",
+        "flat": false,
+        "detail": "9381B / 62010px = 0.151B/px（阈值 0.05）"
+      },
+      "confidence": "high",
+      "note": "图片位于第 104 题题干段之后 3 段，段间无其他题号插入",
+      "wrote": true,
+      "landing": "written"
+    },
+    {
+      "number": 105,
+      "id": "gk-2002-B卷-105",
+      "imageUrl": "/data/questions/images/gk-2002-B-105.jpg",
+      "file": "gk-2002-B-105.jpg",
+      "sourcePart": "word/media/image9.jpeg",
+      "sourceParagraph": 414,
+      "format": "jpg",
+      "width": 390,
+      "height": 147,
+      "bytes": 7910,
+      "flatCheck": {
+        "method": "heuristic",
+        "flat": false,
+        "detail": "7910B / 57330px = 0.138B/px（阈值 0.05）"
+      },
+      "confidence": "high",
+      "note": "图片位于第 105 题题干段之后 1 段，段间无其他题号插入",
+      "wrote": true,
+      "landing": "written"
+    }
+  ],
+  "verification": {
+    "expectedFigures": 10,
+    "producedImages": 6,
+    "countMatched": false,
+    "allHighConfidence": true,
+    "allSizeAboveMin": true,
+    "allNonFlat": true,
+    "allUnderByteLimit": true
+  },
+  "errors": [
+    "第 100 题（图形推理）在 docx 中找不到配图",
+    "第 101 题（图形推理）在 docx 中找不到配图",
+    "第 102 题（图形推理）在 docx 中找不到配图",
+    "第 103 题（图形推理）在 docx 中找不到配图",
+    "数量对账失败：该卷图形推理 10 题，实际产出 5 张"
+  ],
+  "warnings": [],
+  "tag": "B",
+  "postProcess": {
+    "tool": "sharp@0.35.5",
+    "at": "2026-11-16T12:29:32.075Z",
+    "note": "超限配图转 webp（scripts/convert-oversize-figure-images.cjs）",
+    "items": [
+      {
+        "id": "gk-2002-B卷-99",
+        "sourcePart": "word/media/image7.png",
+        "sourceBytes": 117370,
+        "bytes": 17726,
+        "quality": 82,
+        "width": 396,
+        "height": 846,
+        "resized": false
+      }
+    ]
+  }
+}

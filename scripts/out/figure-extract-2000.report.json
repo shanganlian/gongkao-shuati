@@ -1,0 +1,343 @@
+{
+  "generatedAt": "2026-11-16T12:28:25.051Z",
+  "year": "2000",
+  "mode": "dry-run",
+  "source": {
+    "docx": "source-data/国考真题（2000--2026)/4-行测/1-行测-真题/word/2000年国家公务员考试《行测》真题.docx",
+    "docxBytes": 169729,
+    "paragraphs": 600,
+    "markerParagraphs": 123,
+    "imageParagraphs": 12,
+    "mediaFiles": 12,
+    "sectionHeader": "三、图形推理：共 10 题，每道题包含两套图形和可供选择的 4 个图形。这两套图",
+    "exampleBoundaryParagraph": 291,
+    "mediaReferencedByBody": 12,
+    "unreferencedMedia": 0
+  },
+  "dataSide": {
+    "paper": "2000年国家公务员考试《行测》未标注",
+    "paperCount": 1,
+    "shardFiles": 568,
+    "figureQuestions": 10,
+    "numbers": [
+      61,
+      62,
+      63,
+      64,
+      65,
+      66,
+      67,
+      68,
+      69,
+      70
+    ],
+    "questions": [
+      {
+        "id": "gk-2000-未标注-61",
+        "number": 61,
+        "file": "public/data/questions/national-none-panduan-0.json"
+      },
+      {
+        "id": "gk-2000-未标注-62",
+        "number": 62,
+        "file": "public/data/questions/national-none-panduan-0.json"
+      },
+      {
+        "id": "gk-2000-未标注-63",
+        "number": 63,
+        "file": "public/data/questions/national-none-panduan-0.json"
+      },
+      {
+        "id": "gk-2000-未标注-64",
+        "number": 64,
+        "file": "public/data/questions/national-none-panduan-0.json"
+      },
+      {
+        "id": "gk-2000-未标注-65",
+        "number": 65,
+        "file": "public/data/questions/national-none-panduan-0.json"
+      },
+      {
+        "id": "gk-2000-未标注-66",
+        "number": 66,
+        "file": "public/data/questions/national-none-panduan-0.json"
+      },
+      {
+        "id": "gk-2000-未标注-67",
+        "number": 67,
+        "file": "public/data/questions/national-none-panduan-0.json"
+      },
+      {
+        "id": "gk-2000-未标注-68",
+        "number": 68,
+        "file": "public/data/questions/national-none-panduan-0.json"
+      },
+      {
+        "id": "gk-2000-未标注-69",
+        "number": 69,
+        "file": "public/data/questions/national-none-panduan-0.json"
+      },
+      {
+        "id": "gk-2000-未标注-70",
+        "number": 70,
+        "file": "public/data/questions/national-none-panduan-0.json"
+      }
+    ]
+  },
+  "statistics": {
+    "mediaFiles": 12,
+    "bodyImageReferences": 12,
+    "filtered": 2,
+    "filteredTinyFragments": 0,
+    "produced": 10,
+    "landed": 0,
+    "notSelected": 0
+  },
+  "filters": {
+    "not-figure-question": {
+      "count": 2,
+      "items": [
+        {
+          "rid": "rId9",
+          "media": "word/media/image1.jpeg",
+          "number": 60,
+          "paragraph": 288,
+          "detail": " | 348x110px",
+          "legacyColon": false
+        },
+        {
+          "rid": "rId23",
+          "media": "word/media/image12.jpeg",
+          "number": 80,
+          "paragraph": 389,
+          "detail": " | 332x185px",
+          "legacyColon": false
+        }
+      ]
+    }
+  },
+  "produced": [
+    {
+      "number": 61,
+      "id": "gk-2000-未标注-61",
+      "imageUrl": "/data/questions/images/gk-2000-61.jpg",
+      "file": "gk-2000-61.jpg",
+      "sourcePart": "word/media/image2.jpeg",
+      "sourceParagraph": 293,
+      "format": "jpg",
+      "width": 348,
+      "height": 111,
+      "bytes": 6977,
+      "flatCheck": {
+        "method": "heuristic",
+        "flat": false,
+        "detail": "6977B / 38628px = 0.181B/px（阈值 0.05）"
+      },
+      "confidence": "high",
+      "note": "图片位于第 61 题题干段之后 1 段，段间无其他题号插入",
+      "wrote": false,
+      "landing": "dry-run"
+    },
+    {
+      "number": 62,
+      "id": "gk-2000-未标注-62",
+      "imageUrl": "/data/questions/images/gk-2000-62.jpg",
+      "file": "gk-2000-62.jpg",
+      "sourcePart": "word/media/image3.jpeg",
+      "sourceParagraph": 296,
+      "format": "jpg",
+      "width": 348,
+      "height": 110,
+      "bytes": 9083,
+      "flatCheck": {
+        "method": "heuristic",
+        "flat": false,
+        "detail": "9083B / 38280px = 0.237B/px（阈值 0.05）"
+      },
+      "confidence": "high",
+      "note": "图片位于第 62 题题干段之后 1 段，段间无其他题号插入",
+      "wrote": false,
+      "landing": "dry-run"
+    },
+    {
+      "number": 63,
+      "id": "gk-2000-未标注-63",
+      "imageUrl": "/data/questions/images/gk-2000-63.jpg",
+      "file": "gk-2000-63.jpg",
+      "sourcePart": "word/media/image4.jpeg",
+      "sourceParagraph": 301,
+      "format": "jpg",
+      "width": 348,
+      "height": 110,
+      "bytes": 7868,
+      "flatCheck": {
+        "method": "heuristic",
+        "flat": false,
+        "detail": "7868B / 38280px = 0.206B/px（阈值 0.05）"
+      },
+      "confidence": "high",
+      "note": "图片位于第 63 题题干段之后 1 段，段间无其他题号插入",
+      "wrote": false,
+      "landing": "dry-run"
+    },
+    {
+      "number": 64,
+      "id": "gk-2000-未标注-64",
+      "imageUrl": "/data/questions/images/gk-2000-64.jpg",
+      "file": "gk-2000-64.jpg",
+      "sourcePart": "word/media/image5.jpeg",
+      "sourceParagraph": 304,
+      "format": "jpg",
+      "width": 348,
+      "height": 111,
+      "bytes": 9739,
+      "flatCheck": {
+        "method": "heuristic",
+        "flat": false,
+        "detail": "9739B / 38628px = 0.252B/px（阈值 0.05）"
+      },
+      "confidence": "high",
+      "note": "图片位于第 64 题题干段之后 1 段，段间无其他题号插入",
+      "wrote": false,
+      "landing": "dry-run"
+    },
+    {
+      "number": 65,
+      "id": "gk-2000-未标注-65",
+      "imageUrl": "/data/questions/images/gk-2000-65.jpg",
+      "file": "gk-2000-65.jpg",
+      "sourcePart": "word/media/image6.jpeg",
+      "sourceParagraph": 307,
+      "format": "jpg",
+      "width": 382,
+      "height": 121,
+      "bytes": 10509,
+      "flatCheck": {
+        "method": "heuristic",
+        "flat": false,
+        "detail": "10509B / 46222px = 0.227B/px（阈值 0.05）"
+      },
+      "confidence": "high",
+      "note": "图片位于第 65 题题干段之后 1 段，段间无其他题号插入",
+      "wrote": false,
+      "landing": "dry-run"
+    },
+    {
+      "number": 66,
+      "id": "gk-2000-未标注-66",
+      "imageUrl": "/data/questions/images/gk-2000-66.png",
+      "file": "gk-2000-66.png",
+      "sourcePart": "word/media/image7.png",
+      "sourceParagraph": 310,
+      "format": "png",
+      "width": 399,
+      "height": 127,
+      "bytes": 14150,
+      "flatCheck": {
+        "method": "pixel",
+        "flat": false,
+        "detail": "解码 399x127，非首像素点 2+"
+      },
+      "confidence": "high",
+      "note": "图片位于第 66 题题干段之后 1 段，段间无其他题号插入",
+      "wrote": false,
+      "landing": "dry-run"
+    },
+    {
+      "number": 67,
+      "id": "gk-2000-未标注-67",
+      "imageUrl": "/data/questions/images/gk-2000-67.jpg",
+      "file": "gk-2000-67.jpg",
+      "sourcePart": "word/media/image8.jpeg",
+      "sourceParagraph": 313,
+      "format": "jpg",
+      "width": 348,
+      "height": 111,
+      "bytes": 8374,
+      "flatCheck": {
+        "method": "heuristic",
+        "flat": false,
+        "detail": "8374B / 38628px = 0.217B/px（阈值 0.05）"
+      },
+      "confidence": "high",
+      "note": "图片位于第 67 题题干段之后 1 段，段间无其他题号插入",
+      "wrote": false,
+      "landing": "dry-run"
+    },
+    {
+      "number": 68,
+      "id": "gk-2000-未标注-68",
+      "imageUrl": "/data/questions/images/gk-2000-68.jpg",
+      "file": "gk-2000-68.jpg",
+      "sourcePart": "word/media/image9.jpeg",
+      "sourceParagraph": 316,
+      "format": "jpg",
+      "width": 348,
+      "height": 110,
+      "bytes": 7687,
+      "flatCheck": {
+        "method": "heuristic",
+        "flat": false,
+        "detail": "7687B / 38280px = 0.201B/px（阈值 0.05）"
+      },
+      "confidence": "high",
+      "note": "图片位于第 68 题题干段之后 1 段，段间无其他题号插入",
+      "wrote": false,
+      "landing": "dry-run"
+    },
+    {
+      "number": 69,
+      "id": "gk-2000-未标注-69",
+      "imageUrl": "/data/questions/images/gk-2000-69.jpg",
+      "file": "gk-2000-69.jpg",
+      "sourcePart": "word/media/image10.jpeg",
+      "sourceParagraph": 322,
+      "format": "jpg",
+      "width": 348,
+      "height": 111,
+      "bytes": 8751,
+      "flatCheck": {
+        "method": "heuristic",
+        "flat": false,
+        "detail": "8751B / 38628px = 0.227B/px（阈值 0.05）"
+      },
+      "confidence": "high",
+      "note": "图片位于第 69 题题干段之后 1 段，段间无其他题号插入",
+      "wrote": false,
+      "landing": "dry-run"
+    },
+    {
+      "number": 70,
+      "id": "gk-2000-未标注-70",
+      "imageUrl": "/data/questions/images/gk-2000-70.jpg",
+      "file": "gk-2000-70.jpg",
+      "sourcePart": "word/media/image11.jpeg",
+      "sourceParagraph": 325,
+      "format": "jpg",
+      "width": 348,
+      "height": 110,
+      "bytes": 7819,
+      "flatCheck": {
+        "method": "heuristic",
+        "flat": false,
+        "detail": "7819B / 38280px = 0.204B/px（阈值 0.05）"
+      },
+      "confidence": "high",
+      "note": "图片位于第 70 题题干段之后 1 段，段间无其他题号插入",
+      "wrote": false,
+      "landing": "dry-run"
+    }
+  ],
+  "verification": {
+    "expectedFigures": 10,
+    "producedImages": 10,
+    "countMatched": true,
+    "allHighConfidence": true,
+    "allSizeAboveMin": true,
+    "allNonFlat": true,
+    "allUnderByteLimit": true
+  },
+  "errors": [],
+  "warnings": [],
+  "tag": null
+}

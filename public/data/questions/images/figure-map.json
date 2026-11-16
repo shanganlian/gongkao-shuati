@@ -1,0 +1,133 @@
+{
+  "generatedAt": "2026-11-16T12:29:17.028Z",
+  "year": "2006",
+  "tag": "1",
+  "paper": "2006年国家公务员考试《行测》一卷",
+  "sourceDocx": "source-data/国考真题（2000--2026)/4-行测/1-行测-真题/word/2006年国家公务员考试《行测》真题卷（一）.docx",
+  "imageUrlBase": "/data/questions/images/",
+  "policy": {
+    "oneImagePerQuestion": true,
+    "naming": "gk-2006-1-<题号>.<真实格式后缀>",
+    "byteLimit": 102400,
+    "minPixels": 100,
+    "minLongSidePixels": 200,
+    "filters": {
+      "not-figure-question": 2,
+      "duplicate-candidate": 1
+    },
+    "filteredTinyFragments": 0
+  },
+  "count": 10,
+  "items": [
+    {
+      "id": "gk-2006-一卷-51",
+      "number": 51,
+      "imageUrl": "/data/questions/images/gk-2006-1-51.jpg",
+      "file": "gk-2006-1-51.jpg",
+      "width": 206,
+      "height": 214,
+      "bytes": 11571,
+      "confidence": "high",
+      "note": "题号段「51. 52」并排多题，本图内联图（最左），按版面从左到右第 1/2 位归第 51 题"
+    },
+    {
+      "id": "gk-2006-一卷-52",
+      "number": 52,
+      "imageUrl": "/data/questions/images/gk-2006-1-52.jpg",
+      "file": "gk-2006-1-52.jpg",
+      "width": 179,
+      "height": 212,
+      "bytes": 9225,
+      "confidence": "high",
+      "note": "题号段「51. 52」并排多题，本图浮动图 x=8.59cm，按版面从左到右第 2/2 位归第 52 题"
+    },
+    {
+      "id": "gk-2006-一卷-53",
+      "number": 53,
+      "imageUrl": "/data/questions/images/gk-2006-1-53.jpg",
+      "file": "gk-2006-1-53.jpg",
+      "width": 202,
+      "height": 213,
+      "bytes": 11070,
+      "confidence": "high",
+      "note": "题号段「53. 54」并排多题，本图内联图（最左），按版面从左到右第 1/2 位归第 53 题"
+    },
+    {
+      "id": "gk-2006-一卷-54",
+      "number": 54,
+      "imageUrl": "/data/questions/images/gk-2006-1-54.jpg",
+      "file": "gk-2006-1-54.jpg",
+      "width": 202,
+      "height": 213,
+      "bytes": 13200,
+      "confidence": "high",
+      "note": "题号段「53. 54」并排多题，本图浮动图 x=8.67cm，按版面从左到右第 2/2 位归第 54 题"
+    },
+    {
+      "id": "gk-2006-一卷-55",
+      "number": 55,
+      "imageUrl": "/data/questions/images/gk-2006-1-55.jpg",
+      "file": "gk-2006-1-55.jpg",
+      "width": 204,
+      "height": 208,
+      "bytes": 11950,
+      "confidence": "high",
+      "note": "图片位于第 55 题题干段之后 1 段，段间无其他题号插入"
+    },
+    {
+      "id": "gk-2006-一卷-56",
+      "number": 56,
+      "imageUrl": "/data/questions/images/gk-2006-1-56.jpg",
+      "file": "gk-2006-1-56.jpg",
+      "width": 434,
+      "height": 107,
+      "bytes": 10977,
+      "confidence": "high",
+      "note": "图片位于第 56 题题干段之后 1 段，段间无其他题号插入"
+    },
+    {
+      "id": "gk-2006-一卷-57",
+      "number": 57,
+      "imageUrl": "/data/questions/images/gk-2006-1-57.jpg",
+      "file": "gk-2006-1-57.jpg",
+      "width": 436,
+      "height": 107,
+      "bytes": 11388,
+      "confidence": "high",
+      "note": "图片位于第 57 题题干段之后 1 段，段间无其他题号插入"
+    },
+    {
+      "id": "gk-2006-一卷-58",
+      "number": 58,
+      "imageUrl": "/data/questions/images/gk-2006-1-58.jpg",
+      "file": "gk-2006-1-58.jpg",
+      "width": 438,
+      "height": 106,
+      "bytes": 10142,
+      "confidence": "high",
+      "note": "图片位于第 58 题题干段之后 2 段，段间无其他题号插入"
+    },
+    {
+      "id": "gk-2006-一卷-59",
+      "number": 59,
+      "imageUrl": "/data/questions/images/gk-2006-1-59.jpg",
+      "file": "gk-2006-1-59.jpg",
+      "width": 433,
+      "height": 103,
+      "bytes": 12208,
+      "confidence": "high",
+      "note": "图片位于第 59 题题干段之后 1 段，段间无其他题号插入"
+    },
+    {
+      "id": "gk-2006-一卷-60",
+      "number": 60,
+      "imageUrl": "/data/questions/images/gk-2006-1-60.jpg",
+      "file": "gk-2006-1-60.jpg",
+      "width": 457,
+      "height": 117,
+      "bytes": 13661,
+      "confidence": "high",
+      "note": "图片位于第 60 题题干段之后 1 段，段间无其他题号插入"
+    }
+  ]
+}

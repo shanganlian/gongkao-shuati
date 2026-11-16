@@ -1,0 +1,234 @@
+{
+  "generatedAt": "2026-11-16T12:28:36.969Z",
+  "year": "2004",
+  "mode": "dry-run",
+  "source": {
+    "docx": "source-data/国考真题（2000--2026)/4-行测/1-行测-真题/word/2004年国家公务员录用考试《行测》真题（B卷）.docx",
+    "docxBytes": 330586,
+    "paragraphs": 385,
+    "markerParagraphs": 106,
+    "imageParagraphs": 9,
+    "mediaFiles": 9,
+    "sectionHeader": null,
+    "exampleBoundaryParagraph": -1,
+    "mediaReferencedByBody": 9,
+    "unreferencedMedia": 0
+  },
+  "dataSide": {
+    "paper": "2004年国家公务员考试《行测》B卷",
+    "paperCount": 2,
+    "shardFiles": 568,
+    "figureQuestions": 10,
+    "numbers": [
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59
+    ],
+    "questions": [
+      {
+        "id": "gk-2004-B卷-50",
+        "number": 50,
+        "file": "public/data/questions/national-none-panduan-1.json"
+      },
+      {
+        "id": "gk-2004-B卷-51",
+        "number": 51,
+        "file": "public/data/questions/national-none-panduan-1.json"
+      },
+      {
+        "id": "gk-2004-B卷-52",
+        "number": 52,
+        "file": "public/data/questions/national-none-panduan-1.json"
+      },
+      {
+        "id": "gk-2004-B卷-53",
+        "number": 53,
+        "file": "public/data/questions/national-none-panduan-1.json"
+      },
+      {
+        "id": "gk-2004-B卷-54",
+        "number": 54,
+        "file": "public/data/questions/national-none-panduan-1.json"
+      },
+      {
+        "id": "gk-2004-B卷-55",
+        "number": 55,
+        "file": "public/data/questions/national-none-panduan-1.json"
+      },
+      {
+        "id": "gk-2004-B卷-56",
+        "number": 56,
+        "file": "public/data/questions/national-none-panduan-1.json"
+      },
+      {
+        "id": "gk-2004-B卷-57",
+        "number": 57,
+        "file": "public/data/questions/national-none-panduan-1.json"
+      },
+      {
+        "id": "gk-2004-B卷-58",
+        "number": 58,
+        "file": "public/data/questions/national-none-panduan-1.json"
+      },
+      {
+        "id": "gk-2004-B卷-59",
+        "number": 59,
+        "file": "public/data/questions/national-none-panduan-1.json"
+      }
+    ]
+  },
+  "statistics": {
+    "mediaFiles": 9,
+    "bodyImageReferences": 9,
+    "filtered": 8,
+    "filteredTinyFragments": 0,
+    "produced": 0,
+    "landed": 0,
+    "notSelected": 0
+  },
+  "filters": {
+    "before-first-question": {
+      "count": 2,
+      "items": [
+        {
+          "rid": "rId3",
+          "media": "word/media/image1.png",
+          "number": null,
+          "paragraph": 3,
+          "detail": "",
+          "legacyColon": false
+        },
+        {
+          "rid": "rId4",
+          "media": "word/media/image2.png",
+          "number": null,
+          "paragraph": 4,
+          "detail": "注：此套题原题有听力 20 道，题型已淘汰，故略去。",
+          "legacyColon": false
+        }
+      ]
+    },
+    "not-figure-question": {
+      "count": 6,
+      "items": [
+        {
+          "rid": "rId8",
+          "media": "word/media/image3.jpeg",
+          "number": 40,
+          "paragraph": 113,
+          "detail": " | 168x166px",
+          "legacyColon": false
+        },
+        {
+          "rid": "rId9",
+          "media": "word/media/image4.jpeg",
+          "number": 44,
+          "paragraph": 122,
+          "detail": " | 140x133px",
+          "legacyColon": false
+        },
+        {
+          "rid": "rId10",
+          "media": "word/media/image5.jpeg",
+          "number": 49,
+          "paragraph": 136,
+          "detail": " | 401x96px",
+          "legacyColon": false
+        },
+        {
+          "rid": "rId17",
+          "media": "word/media/image7.jpeg",
+          "number": 84,
+          "paragraph": 323,
+          "detail": " | 515x211px",
+          "legacyColon": false
+        },
+        {
+          "rid": "rId18",
+          "media": "word/media/image8.jpeg",
+          "number": 89,
+          "paragraph": 334,
+          "detail": " | 448x202px",
+          "legacyColon": false
+        },
+        {
+          "rid": "rId20",
+          "media": "word/media/image9.jpeg",
+          "number": 94,
+          "paragraph": 347,
+          "detail": " | 448x202px",
+          "legacyColon": false
+        }
+      ]
+    }
+  },
+  "produced": [
+    {
+      "number": 50,
+      "id": "gk-2004-B卷-50",
+      "imageUrl": "/data/questions/images/gk-2004-B-50.webp",
+      "file": "gk-2004-B-50.webp",
+      "sourcePart": "word/media/image6.png",
+      "sourceParagraph": 144,
+      "format": "webp",
+      "width": 405,
+      "height": 1030,
+      "bytes": 28854,
+      "flatCheck": {
+        "method": "sharp-webp",
+        "flat": false,
+        "detail": "原 PNG 194.2KB → webp 28.2KB"
+      },
+      "confidence": "high",
+      "note": "原图 194.2KB 超过 100KB 上限；2026-11-16 用 sharp 转 webp（quality 82）",
+      "wrote": true
+    }
+  ],
+  "verification": {
+    "expectedFigures": 10,
+    "producedImages": 1,
+    "countMatched": false,
+    "allHighConfidence": true,
+    "allSizeAboveMin": true,
+    "allNonFlat": true,
+    "allUnderByteLimit": true
+  },
+  "errors": [
+    "第 51 题（图形推理）在 docx 中找不到配图",
+    "第 52 题（图形推理）在 docx 中找不到配图",
+    "第 53 题（图形推理）在 docx 中找不到配图",
+    "第 54 题（图形推理）在 docx 中找不到配图",
+    "第 55 题（图形推理）在 docx 中找不到配图",
+    "第 56 题（图形推理）在 docx 中找不到配图",
+    "第 57 题（图形推理）在 docx 中找不到配图",
+    "第 58 题（图形推理）在 docx 中找不到配图",
+    "第 59 题（图形推理）在 docx 中找不到配图",
+    "数量对账失败：该卷图形推理 10 题，实际产出 0 张"
+  ],
+  "warnings": [],
+  "tag": "B",
+  "postProcess": {
+    "tool": "sharp@0.35.5",
+    "at": "2026-11-16T12:29:32.538Z",
+    "note": "超限配图转 webp（scripts/convert-oversize-figure-images.cjs）",
+    "items": [
+      {
+        "id": "gk-2004-B卷-50",
+        "sourcePart": "word/media/image6.png",
+        "sourceBytes": 198865,
+        "bytes": 28854,
+        "quality": 82,
+        "width": 405,
+        "height": 1030,
+        "resized": false
+      }
+    ]
+  }
+}

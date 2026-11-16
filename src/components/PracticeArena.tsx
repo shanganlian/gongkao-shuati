@@ -31,8 +31,10 @@ import { QuotaLimitDialog } from './QuotaLimitDialog';
 import { AnswerHistory } from './AnswerHistory';
 import { QuestionErrorBoundary } from './QuestionErrorBoundary';
 import { filterValidQuestions, isValidQuestion, isAbnormalQuestion } from '../lib/questionValidation';
+import { QUESTION_YEAR_OPTIONS, describeYearEmptyState, formatYearCountLabel } from '../lib/questionYear';
 import type { RecordedQuestionInput } from '../lib/activityStats';
 import { AbnormalQuestionPlaceholder } from './AbnormalQuestionPlaceholder';
+import { MissingFigurePlaceholder } from './MissingFigurePlaceholder';
 
 type TargetCategory = ExamCategory | 'all';
 
@@ -73,6 +75,8 @@ const QuestionFigure: React.FC<{ src?: string; alt?: string }> = ({ src, alt }) 
 
 interface PracticeArenaProps {
   selectedCategory: TargetCategory;
+  /** 切换目标考试（年份空结果时给「切换到国考卷」出口用） */
+  onChangeCategory?: (category: TargetCategory) => void;
   onRecordQuestionAnswered: (records: RecordedQuestionInput[]) => void;
   reviewTrigger?: number; // 外部触发进入复习模式（点击首页卡片时递增）
   knowledgeFilter?: { module: string; cardIds: string[]; keywords: string[] } | null; // 从知识图谱跳转的筛选条件
@@ -82,6 +86,7 @@ interface PracticeArenaProps {
 
 export const PracticeArena: React.FC<PracticeArenaProps> = ({
   selectedCategory,
+  onChangeCategory,
   onRecordQuestionAnswered,
   reviewTrigger,
   knowledgeFilter,
@@ -93,6 +98,8 @@ export const PracticeArena: React.FC<PracticeArenaProps> = ({
   const [practiceMode, setPracticeMode] = useState<'drill' | 'papers' | 'mistakes' | 'review' | 'history'>('drill');
   const [activeModule, setActiveModule] = useState<string>('all');
   const [activeSubModule, setActiveSubModule] = useState<string>('all');
+  // 年份筛选：'all' 表示不限；下拉选项固定 2000–2025，题目年份运行时从 source 解析，见 lib/questionYear.ts
+  const [activeYear, setActiveYear] = useState<string>('all');
   const [activeProvince, setActiveProvince] = useState<string>(() => {
     const saved = readStoredProvince();
     if (selectedCategory === 'provincial') {
@@ -142,11 +149,12 @@ export const PracticeArena: React.FC<PracticeArenaProps> = ({
   // 知识图谱跳转筛选
   const [currentKnowledgeFilter, setCurrentKnowledgeFilter] = useState<{ module: string; cardIds: string[]; keywords: string[] } | null>(null);
 
-  const { questionsPool, filteredQuestions, subModuleStats, isLoading, indexData } = useQuestions(
+  const { questionsPool, filteredQuestions, yearScopeTotal, subModuleStats, isLoading, indexData } = useQuestions(
     selectedCategory,
     activeProvince,
     activeModule,
     activeSubModule,
+    activeYear,
     practiceMode,
     mistakeList,
     currentKnowledgeFilter
@@ -270,6 +278,19 @@ export const PracticeArena: React.FC<PracticeArenaProps> = ({
   const formatCount = (n: number) => n.toLocaleString('en-US');
 
   const currentQ = filteredQuestions[currentQuestionIndex] || filteredQuestions[0];
+
+  // 年份筛选：选中某年时的题量标注；该年 0 题时给出空结果文案与「切换到国考卷」出口
+  const yearCountLabel = formatYearCountLabel(activeYear, filteredQuestions.length);
+  const yearEmptyCopy = describeYearEmptyState(activeYear, yearScopeTotal, filteredQuestions.length);
+  const canSwitchToNational = selectedCategory !== 'national' && !!onChangeCategory;
+
+  /** 缺图题跳过：前进到下一题；已是最后一题时回到第一题（避免按钮点了没反应） */
+  const handleSkipMissingFigure = () => {
+    if (filteredQuestions.length <= 1) return;
+    setCurrentQuestionIndex(prev =>
+      prev < filteredQuestions.length - 1 ? prev + 1 : 0
+    );
+  };
 
   const handleSelectOption = (qId: string, optKey: string) => {
     if (submittedQuestions[qId]) return;
@@ -728,6 +749,9 @@ export const PracticeArena: React.FC<PracticeArenaProps> = ({
                   {q.stem}
                 </p>
                 <QuestionFigure src={q.imageUrl} />
+                {q.isImageQuestion && !q.imageUrl && (
+                  <MissingFigurePlaceholder compact answer={q.answer} />
+                )}
 
                 {/* Options */}
                 <div className="grid grid-cols-1 sm:grid-cols-2 gap-2">
@@ -937,6 +961,9 @@ export const PracticeArena: React.FC<PracticeArenaProps> = ({
                   <>
                   <p className="text-xs sm:text-sm text-slate-800 dark:text-slate-200 font-medium">{q.stem}</p>
                   <QuestionFigure src={q.imageUrl} />
+                  {q.isImageQuestion && !q.imageUrl && (
+                    <MissingFigurePlaceholder compact answer={q.answer} />
+                  )}
                   <div className="p-3 bg-slate-50 dark:bg-slate-800 rounded-xl border border-slate-200 dark:border-slate-700 text-xs text-slate-700 dark:text-slate-200">
                     <strong className="text-slate-900 dark:text-slate-100">正确答案：{q.answer}</strong>
                     <p className="mt-1">{q.explanation}</p>
@@ -1013,6 +1040,9 @@ export const PracticeArena: React.FC<PracticeArenaProps> = ({
                 {currentReviewQ.stem}
               </p>
               <QuestionFigure src={currentReviewQ.imageUrl} />
+              {currentReviewQ.isImageQuestion && !currentReviewQ.imageUrl && (
+                <MissingFigurePlaceholder compact answer={currentReviewQ.answer} />
+              )}
 
               {/* Options */}
               <div className="grid grid-cols-1 sm:grid-cols-2 gap-2">
@@ -1174,34 +1204,79 @@ export const PracticeArena: React.FC<PracticeArenaProps> = ({
             </div>
           )}
 
-          {/* Province Filter — 国考时隐藏；省考固定选具体省份，无「全部省份」 */}
-          {selectedCategory !== 'national' && (
-            <div className="flex items-center gap-2 text-xs">
-              <span className="text-slate-500 dark:text-slate-400 font-medium shrink-0">省份筛选：</span>
+          {/* 省份筛选 + 年份筛选：合并到同一行，手机端自动换行，避免再多占一行固定高度 */}
+          <div className="flex flex-wrap items-center gap-x-4 gap-y-2 text-xs">
+            {/* Province Filter — 国考时隐藏；省考固定选具体省份，无「全部省份」 */}
+            {selectedCategory !== 'national' && (
+              <div className="flex items-center gap-2">
+                <span className="text-slate-500 dark:text-slate-400 font-medium shrink-0">省份筛选：</span>
+                <select
+                  value={activeProvince}
+                  aria-label="省份筛选"
+                  onChange={(e) => { setActiveProvince(e.target.value); setCurrentQuestionIndex(0); }}
+                  className="px-3 py-1.5 rounded-lg bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-700 text-slate-700 dark:text-slate-200 text-xs focus:outline-none focus:ring-2 focus:ring-emerald-500/30 cursor-pointer"
+                >
+                  {selectedCategory === 'provincial' ? (
+                    PROVINCE_LIST_BY_FREQUENCY.map(prov => (
+                      <option key={prov} value={prov}>{prov}</option>
+                    ))
+                  ) : (
+                    <>
+                      <option value="all">全部省份</option>
+                      {PROVINCE_LIST.map(prov => (
+                        <option key={prov} value={prov}>{prov}</option>
+                      ))}
+                    </>
+                  )}
+                </select>
+                {selectedCategory === 'provincial' && (
+                  <span className="text-slate-400 hidden sm:inline">按报考热度排序</span>
+                )}
+              </div>
+            )}
+
+            {/* Year Filter — 年份对应题目 source 文本（2000–2025） */}
+            <div className="flex items-center gap-2">
+              <span className="text-slate-500 dark:text-slate-400 font-medium shrink-0">年份筛选：</span>
               <select
-                value={activeProvince}
-                aria-label="省份筛选"
-                onChange={(e) => { setActiveProvince(e.target.value); setCurrentQuestionIndex(0); }}
+                value={activeYear}
+                aria-label="年份筛选"
+                onChange={(e) => { setActiveYear(e.target.value); setCurrentQuestionIndex(0); }}
                 className="px-3 py-1.5 rounded-lg bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-700 text-slate-700 dark:text-slate-200 text-xs focus:outline-none focus:ring-2 focus:ring-emerald-500/30 cursor-pointer"
               >
-                {selectedCategory === 'provincial' ? (
-                  PROVINCE_LIST_BY_FREQUENCY.map(prov => (
-                    <option key={prov} value={prov}>{prov}</option>
-                  ))
-                ) : (
-                  <>
-                    <option value="all">全部省份</option>
-                    {PROVINCE_LIST.map(prov => (
-                      <option key={prov} value={prov}>{prov}</option>
-                    ))}
-                  </>
-                )}
+                <option value="all">全部年份</option>
+                {QUESTION_YEAR_OPTIONS.map(year => (
+                  <option key={year} value={String(year)}>{year} 年</option>
+                ))}
               </select>
-              {selectedCategory === 'provincial' && (
-                <span className="text-slate-400 hidden sm:inline">按报考热度排序</span>
+              {activeYear !== 'all' ? (
+                <>
+                  {yearCountLabel && (
+                    <span
+                      className={`font-mono text-[11px] ${
+                        filteredQuestions.length > 0
+                          ? 'text-slate-500 dark:text-slate-400'
+                          : 'text-amber-600 dark:text-amber-400 font-semibold'
+                      }`}
+                    >
+                      {yearCountLabel}
+                    </span>
+                  )}
+                  <button
+                    onClick={() => { setActiveYear('all'); setCurrentQuestionIndex(0); }}
+                    className="text-emerald-700 dark:text-emerald-300 hover:text-emerald-900 dark:hover:text-emerald-200 font-medium cursor-pointer"
+                  >
+                    清除年份
+                  </button>
+                </>
+              ) : (
+                <span className="text-slate-400 hidden sm:inline">
+                  {QUESTION_YEAR_OPTIONS[QUESTION_YEAR_OPTIONS.length - 1]}–
+                  {QUESTION_YEAR_OPTIONS[0]} 年真题
+                </span>
               )}
             </div>
-          )}
+          </div>
 
           {/* 知识图谱跳转筛选提示 */}
           {currentKnowledgeFilter && (
@@ -1221,10 +1296,37 @@ export const PracticeArena: React.FC<PracticeArenaProps> = ({
           {!currentQ && !isLoading && (
             <div className="bg-white dark:bg-slate-900 rounded-2xl p-12 text-center border border-slate-200/80 dark:border-slate-700/80">
               <HelpCircle className="w-10 h-10 text-slate-300 mx-auto mb-2" />
-              <h4 className="text-sm font-bold text-slate-800 dark:text-slate-200">当前筛选条件下暂无可用题目</h4>
+              {yearCountLabel && (
+                <span className="inline-flex items-center mb-2 px-2 py-0.5 rounded-full bg-slate-100 dark:bg-slate-800 font-mono text-[11px] text-slate-500 dark:text-slate-400">
+                  {yearCountLabel}
+                </span>
+              )}
+              <h4 className="text-sm font-bold text-slate-800 dark:text-slate-200">
+                {yearEmptyCopy ? yearEmptyCopy.title : '当前筛选条件下暂无可用题目'}
+              </h4>
               <p className="text-xs text-slate-500 dark:text-slate-400 mt-1">
-                请切换模块或省份筛选，或稍候等待题库分片加载完成。
+                {yearEmptyCopy
+                  ? yearEmptyCopy.detail
+                  : '请切换模块、省份或年份筛选，或稍候等待题库分片加载完成。'}
               </p>
+              {yearEmptyCopy && (
+                <div className="mt-4 flex flex-wrap items-center justify-center gap-2">
+                  {canSwitchToNational && (
+                    <button
+                      onClick={() => { onChangeCategory!('national'); setCurrentQuestionIndex(0); }}
+                      className="px-3 py-1.5 rounded-lg bg-emerald-600 text-white text-xs font-semibold hover:bg-emerald-700 transition-colors cursor-pointer"
+                    >
+                      切换到国考卷
+                    </button>
+                  )}
+                  <button
+                    onClick={() => { setActiveYear('all'); setCurrentQuestionIndex(0); }}
+                    className="px-3 py-1.5 rounded-lg border border-slate-200 dark:border-slate-700 text-slate-600 dark:text-slate-300 text-xs font-medium hover:bg-slate-50 dark:hover:bg-slate-800 transition-colors cursor-pointer"
+                  >
+                    清除年份筛选
+                  </button>
+                </div>
+              )}
             </div>
           )}
 
@@ -1271,6 +1373,13 @@ export const PracticeArena: React.FC<PracticeArenaProps> = ({
                 {currentQ.stem}
               </h3>
               <QuestionFigure src={currentQ.imageUrl} />
+              {/* 图形推理 / 图表题：图片资源缺失时给统一占位 + 跳过入口 */}
+              {currentQ.isImageQuestion && !currentQ.imageUrl && (
+                <MissingFigurePlaceholder
+                  answer={currentQ.answer}
+                  onSkip={filteredQuestions.length > 1 ? handleSkipMissingFigure : undefined}
+                />
+              )}
 
               {/* Options */}
               <div className="space-y-2.5 pt-2">
@@ -1312,13 +1421,8 @@ export const PracticeArena: React.FC<PracticeArenaProps> = ({
                     </button>
                   );
                 }) : currentQ.isImageQuestion ? (
-                  <div className="bg-slate-50 dark:bg-slate-800 border border-slate-200 dark:border-slate-700 rounded-xl p-4 text-xs sm:text-sm text-slate-800 dark:text-slate-200 space-y-1">
-                    <p className="font-semibold">本题为图片题（图形推理 / 图表类）</p>
-                    <p className="text-slate-600 dark:text-slate-300">
-                      原题选项为图片，文本化时未能保留。可先查看下方解析与标准答案
-                      {currentQ.answer ? `（正确答案：${currentQ.answer}）` : ''}，或跳过本题继续练习。
-                    </p>
-                  </div>
+                  // 缺图提示已渲染在题干下方（MissingFigurePlaceholder），此处不再重复
+                  null
                 ) : (
                   <div className="bg-slate-50 dark:bg-slate-800 border border-slate-200 dark:border-slate-700 rounded-xl p-4 text-xs sm:text-sm text-slate-700 dark:text-slate-200">
                     本题为主观题（申论/综应），无固定选项。请在下方查看参考答案要点后自行对照评分。

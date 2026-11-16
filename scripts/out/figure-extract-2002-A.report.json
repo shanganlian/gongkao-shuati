@@ -1,0 +1,391 @@
+{
+  "generatedAt": "2026-11-16T12:28:28.448Z",
+  "year": "2002",
+  "mode": "dry-run",
+  "source": {
+    "docx": "source-data/国考真题（2000--2026)/4-行测/1-行测-真题/word/2002年国家公务员录用考试《行测》真题（A卷）.docx",
+    "docxBytes": 416044,
+    "paragraphs": 502,
+    "markerParagraphs": 124,
+    "imageParagraphs": 18,
+    "mediaFiles": 18,
+    "sectionHeader": null,
+    "exampleBoundaryParagraph": -1,
+    "mediaReferencedByBody": 18,
+    "unreferencedMedia": 0
+  },
+  "dataSide": {
+    "paper": "2002年国家公务员考试《行测》A卷",
+    "paperCount": 2,
+    "shardFiles": 568,
+    "figureQuestions": 10,
+    "numbers": [
+      86,
+      87,
+      88,
+      89,
+      90,
+      91,
+      92,
+      93,
+      94,
+      95
+    ],
+    "questions": [
+      {
+        "id": "gk-2002-A卷-86",
+        "number": 86,
+        "file": "public/data/questions/national-none-panduan-0.json"
+      },
+      {
+        "id": "gk-2002-A卷-87",
+        "number": 87,
+        "file": "public/data/questions/national-none-panduan-0.json"
+      },
+      {
+        "id": "gk-2002-A卷-88",
+        "number": 88,
+        "file": "public/data/questions/national-none-panduan-0.json"
+      },
+      {
+        "id": "gk-2002-A卷-89",
+        "number": 89,
+        "file": "public/data/questions/national-none-panduan-0.json"
+      },
+      {
+        "id": "gk-2002-A卷-90",
+        "number": 90,
+        "file": "public/data/questions/national-none-panduan-0.json"
+      },
+      {
+        "id": "gk-2002-A卷-91",
+        "number": 91,
+        "file": "public/data/questions/national-none-panduan-0.json"
+      },
+      {
+        "id": "gk-2002-A卷-92",
+        "number": 92,
+        "file": "public/data/questions/national-none-panduan-0.json"
+      },
+      {
+        "id": "gk-2002-A卷-93",
+        "number": 93,
+        "file": "public/data/questions/national-none-panduan-0.json"
+      },
+      {
+        "id": "gk-2002-A卷-94",
+        "number": 94,
+        "file": "public/data/questions/national-none-panduan-0.json"
+      },
+      {
+        "id": "gk-2002-A卷-95",
+        "number": 95,
+        "file": "public/data/questions/national-none-panduan-0.json"
+      }
+    ]
+  },
+  "statistics": {
+    "mediaFiles": 18,
+    "bodyImageReferences": 18,
+    "filtered": 8,
+    "filteredTinyFragments": 3,
+    "produced": 10,
+    "landed": 0,
+    "notSelected": 0
+  },
+  "filters": {
+    "not-figure-question": {
+      "count": 8,
+      "items": [
+        {
+          "rid": "rId2",
+          "media": "word/media/image1.jpeg",
+          "number": 10,
+          "paragraph": 41,
+          "detail": " | 67x118px（碎片尺寸）",
+          "legacyColon": false
+        },
+        {
+          "rid": "rId7",
+          "media": "word/media/image2.jpeg",
+          "number": 34,
+          "paragraph": 141,
+          "detail": " | 340x199px",
+          "legacyColon": false
+        },
+        {
+          "rid": "rId12",
+          "media": "word/media/image3.jpeg",
+          "number": 78,
+          "paragraph": 313,
+          "detail": "的值是： | 97x40px（碎片尺寸）",
+          "legacyColon": false
+        },
+        {
+          "rid": "rId14",
+          "media": "word/media/image4.jpeg",
+          "number": 85,
+          "paragraph": 334,
+          "detail": " | 100x93px（碎片尺寸）",
+          "legacyColon": false
+        },
+        {
+          "rid": "rId29",
+          "media": "word/media/image15.jpeg",
+          "number": 115,
+          "paragraph": 450,
+          "detail": " | 478x274px",
+          "legacyColon": false
+        },
+        {
+          "rid": "rId31",
+          "media": "word/media/image16.png",
+          "number": 120,
+          "paragraph": 463,
+          "detail": " | 438x724px",
+          "legacyColon": false
+        },
+        {
+          "rid": "rId33",
+          "media": "word/media/image17.jpeg",
+          "number": 125,
+          "paragraph": 481,
+          "detail": " | 251x182px",
+          "legacyColon": false
+        },
+        {
+          "rid": "rId35",
+          "media": "word/media/image18.jpeg",
+          "number": 130,
+          "paragraph": 500,
+          "detail": " | 433x123px",
+          "legacyColon": false
+        }
+      ]
+    }
+  },
+  "produced": [
+    {
+      "number": 86,
+      "id": "gk-2002-A卷-86",
+      "imageUrl": "/data/questions/images/gk-2002-A-86.jpg",
+      "file": "gk-2002-A-86.jpg",
+      "sourcePart": "word/media/image5.jpeg",
+      "sourceParagraph": 342,
+      "format": "jpg",
+      "width": 384,
+      "height": 146,
+      "bytes": 8988,
+      "flatCheck": {
+        "method": "heuristic",
+        "flat": false,
+        "detail": "8988B / 56064px = 0.160B/px（阈值 0.05）"
+      },
+      "confidence": "high",
+      "note": "图片位于第 86 题题干段之后 1 段，段间无其他题号插入",
+      "wrote": false,
+      "landing": "dry-run"
+    },
+    {
+      "number": 87,
+      "id": "gk-2002-A卷-87",
+      "imageUrl": "/data/questions/images/gk-2002-A-87.jpg",
+      "file": "gk-2002-A-87.jpg",
+      "sourcePart": "word/media/image6.jpeg",
+      "sourceParagraph": 344,
+      "format": "jpg",
+      "width": 360,
+      "height": 162,
+      "bytes": 8423,
+      "flatCheck": {
+        "method": "heuristic",
+        "flat": false,
+        "detail": "8423B / 58320px = 0.144B/px（阈值 0.05）"
+      },
+      "confidence": "high",
+      "note": "图片位于第 87 题题干段之后 1 段，段间无其他题号插入",
+      "wrote": false,
+      "landing": "dry-run"
+    },
+    {
+      "number": 88,
+      "id": "gk-2002-A卷-88",
+      "imageUrl": "/data/questions/images/gk-2002-A-88.jpg",
+      "file": "gk-2002-A-88.jpg",
+      "sourcePart": "word/media/image7.jpeg",
+      "sourceParagraph": 346,
+      "format": "jpg",
+      "width": 389,
+      "height": 153,
+      "bytes": 11958,
+      "flatCheck": {
+        "method": "heuristic",
+        "flat": false,
+        "detail": "11958B / 59517px = 0.201B/px（阈值 0.05）"
+      },
+      "confidence": "high",
+      "note": "图片位于第 88 题题干段之后 1 段，段间无其他题号插入",
+      "wrote": false,
+      "landing": "dry-run"
+    },
+    {
+      "number": 89,
+      "id": "gk-2002-A卷-89",
+      "imageUrl": "/data/questions/images/gk-2002-A-89.jpg",
+      "file": "gk-2002-A-89.jpg",
+      "sourcePart": "word/media/image8.jpeg",
+      "sourceParagraph": 350,
+      "format": "jpg",
+      "width": 400,
+      "height": 158,
+      "bytes": 7099,
+      "flatCheck": {
+        "method": "heuristic",
+        "flat": false,
+        "detail": "7099B / 63200px = 0.112B/px（阈值 0.05）"
+      },
+      "confidence": "high",
+      "note": "图片位于第 89 题题干段之后 3 段，段间无其他题号插入",
+      "wrote": false,
+      "landing": "dry-run"
+    },
+    {
+      "number": 90,
+      "id": "gk-2002-A卷-90",
+      "imageUrl": "/data/questions/images/gk-2002-A-90.jpg",
+      "file": "gk-2002-A-90.jpg",
+      "sourcePart": "word/media/image9.jpeg",
+      "sourceParagraph": 352,
+      "format": "jpg",
+      "width": 380,
+      "height": 153,
+      "bytes": 10053,
+      "flatCheck": {
+        "method": "heuristic",
+        "flat": false,
+        "detail": "10053B / 58140px = 0.173B/px（阈值 0.05）"
+      },
+      "confidence": "high",
+      "note": "图片位于第 90 题题干段之后 1 段，段间无其他题号插入",
+      "wrote": false,
+      "landing": "dry-run"
+    },
+    {
+      "number": 91,
+      "id": "gk-2002-A卷-91",
+      "imageUrl": "/data/questions/images/gk-2002-A-91.jpg",
+      "file": "gk-2002-A-91.jpg",
+      "sourcePart": "word/media/image10.jpeg",
+      "sourceParagraph": 354,
+      "format": "jpg",
+      "width": 387,
+      "height": 166,
+      "bytes": 10093,
+      "flatCheck": {
+        "method": "heuristic",
+        "flat": false,
+        "detail": "10093B / 64242px = 0.157B/px（阈值 0.05）"
+      },
+      "confidence": "high",
+      "note": "图片位于第 91 题题干段之后 1 段，段间无其他题号插入",
+      "wrote": false,
+      "landing": "dry-run"
+    },
+    {
+      "number": 92,
+      "id": "gk-2002-A卷-92",
+      "imageUrl": "/data/questions/images/gk-2002-A-92.jpg",
+      "file": "gk-2002-A-92.jpg",
+      "sourcePart": "word/media/image11.jpeg",
+      "sourceParagraph": 356,
+      "format": "jpg",
+      "width": 379,
+      "height": 135,
+      "bytes": 9462,
+      "flatCheck": {
+        "method": "heuristic",
+        "flat": false,
+        "detail": "9462B / 51165px = 0.185B/px（阈值 0.05）"
+      },
+      "confidence": "high",
+      "note": "图片位于第 92 题题干段之后 1 段，段间无其他题号插入",
+      "wrote": false,
+      "landing": "dry-run"
+    },
+    {
+      "number": 93,
+      "id": "gk-2002-A卷-93",
+      "imageUrl": "/data/questions/images/gk-2002-A-93.jpg",
+      "file": "gk-2002-A-93.jpg",
+      "sourcePart": "word/media/image12.jpeg",
+      "sourceParagraph": 358,
+      "format": "jpg",
+      "width": 375,
+      "height": 142,
+      "bytes": 11069,
+      "flatCheck": {
+        "method": "heuristic",
+        "flat": false,
+        "detail": "11069B / 53250px = 0.208B/px（阈值 0.05）"
+      },
+      "confidence": "high",
+      "note": "图片位于第 93 题题干段之后 1 段，段间无其他题号插入",
+      "wrote": false,
+      "landing": "dry-run"
+    },
+    {
+      "number": 94,
+      "id": "gk-2002-A卷-94",
+      "imageUrl": "/data/questions/images/gk-2002-A-94.jpg",
+      "file": "gk-2002-A-94.jpg",
+      "sourcePart": "word/media/image13.jpeg",
+      "sourceParagraph": 360,
+      "format": "jpg",
+      "width": 375,
+      "height": 145,
+      "bytes": 10219,
+      "flatCheck": {
+        "method": "heuristic",
+        "flat": false,
+        "detail": "10219B / 54375px = 0.188B/px（阈值 0.05）"
+      },
+      "confidence": "high",
+      "note": "图片位于第 94 题题干段之后 1 段，段间无其他题号插入",
+      "wrote": false,
+      "landing": "dry-run"
+    },
+    {
+      "number": 95,
+      "id": "gk-2002-A卷-95",
+      "imageUrl": "/data/questions/images/gk-2002-A-95.jpg",
+      "file": "gk-2002-A-95.jpg",
+      "sourcePart": "word/media/image14.jpeg",
+      "sourceParagraph": 364,
+      "format": "jpg",
+      "width": 300,
+      "height": 111,
+      "bytes": 6989,
+      "flatCheck": {
+        "method": "heuristic",
+        "flat": false,
+        "detail": "6989B / 33300px = 0.210B/px（阈值 0.05）"
+      },
+      "confidence": "high",
+      "note": "图片位于第 95 题题干段之后 1 段，段间无其他题号插入",
+      "wrote": false,
+      "landing": "dry-run"
+    }
+  ],
+  "verification": {
+    "expectedFigures": 10,
+    "producedImages": 10,
+    "countMatched": true,
+    "allHighConfidence": true,
+    "allSizeAboveMin": true,
+    "allNonFlat": true,
+    "allUnderByteLimit": true
+  },
+  "errors": [],
+  "warnings": [],
+  "tag": "A"
+}

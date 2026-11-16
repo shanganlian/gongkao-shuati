@@ -195,7 +195,7 @@ export default function App() {
         {activeTab === 'overview' && (
           <div
             id="overview-module-panel"
-            className={isOverviewPanelExpanded ? 'block' : 'hidden min-[769px]:block'}
+            className={isOverviewPanelExpanded ? 'block' : 'hidden'}
           >
             <AnalyticsOverview
               onNavigate={(tab) => setActiveTab(tab)}
@@ -219,6 +219,7 @@ export default function App() {
           <ErrorBoundary>
             <PracticeArena
               selectedCategory={selectedCategory}
+              onChangeCategory={handleSetCategory}
               onRecordQuestionAnswered={handleRecordQuestionAnswered}
               reviewTrigger={reviewTrigger}
               knowledgeFilter={knowledgeFilter}

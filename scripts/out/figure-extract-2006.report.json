@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-11-16T10:29:52.842Z",
+  "year": "2006",
+  "mode": "dry-run",
+  "source": null,
+  "dataSide": null,
+  "statistics": {},
+  "filters": {},
+  "produced": [],
+  "verification": {},
+  "errors": [
+    "没有匹配 --paper （一） 的卷；候选：2006年国家公务员考试《行测》二卷 | 2006年国家公务员考试《行测》一卷"
+  ],
+  "warnings": []
+}

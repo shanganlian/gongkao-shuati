@@ -134,9 +134,8 @@ export const Navbar: React.FC<NavbarProps> = ({
 }) => {
   const [showModuleGuide, setShowModuleGuide] = useState<boolean>(false);
   const [showMobileMenu, setShowMobileMenu] = useState<boolean>(false);
-  // 手机端折叠面板：默认全部收起，只保留一行标题，尽量节省首屏空间
-  const [showMobileMainNav, setShowMobileMainNav] = useState<boolean>(false);
-  const [showMobileWrittenSubnav, setShowMobileWrittenSubnav] = useState<boolean>(false);
+  // ≤1024px 折叠条：备考模块 pills 与笔试专区三大核心板块合并进同一个 32px 面板，默认收起
+  const [showCompactNav, setShowCompactNav] = useState<boolean>(false);
   const { user, signOut } = useAuth();
   const { openAuth } = useAuthUI();
   const isWrittenTab = ['practice', 'knowledge', 'daily'].includes(activeTab);
@@ -145,33 +144,19 @@ export const Navbar: React.FC<NavbarProps> = ({
   const handleSelectMainNav = (tabId: string) => {
     setActiveTab(tabId);
     setShowMobileMenu(false);
-    setShowMobileMainNav(false);
-    setShowMobileWrittenSubnav(false);
+    setShowCompactNav(false);
     if (tabId === 'overview') onExpandOverviewPanel?.();
   };
 
-  // 手机端两个悬浮折叠面板互斥，避免同时展开时互相遮挡
-  const toggleMobileMainNav = () => {
-    setShowMobileMainNav((prev) => {
-      const next = !prev;
-      if (next) setShowMobileWrittenSubnav(false);
-      return next;
-    });
-  };
-
-  const toggleMobileWrittenSubnav = () => {
-    setShowMobileWrittenSubnav((prev) => {
-      const next = !prev;
-      if (next) setShowMobileMainNav(false);
-      return next;
-    });
+  const toggleCompactNav = () => {
+    setShowCompactNav((prev) => !prev);
   };
 
   // 选择核心板块后收起悬浮面板，桌面端不受影响（桌面始终常显）
   const handleSelectWrittenSection = (tabId: string) => {
     setActiveTab(tabId);
     if (tabId === 'knowledge') onOpenKnowledgeHub?.();
-    setShowMobileWrittenSubnav(false);
+    setShowCompactNav(false);
   };
 
   // 窄屏汉堡菜单与模块导览互斥，避免两个面板同时展开
@@ -231,6 +216,37 @@ export const Navbar: React.FC<NavbarProps> = ({
       tag: '同舟共济',
       keyFeatures: ['备考轨迹热力图', '每日心得体会', '互勉花束打卡']
     }] : [])
+  ];
+
+  // 笔试专区三大核心板块：桌面绿色子导航与 ≤1024px 折叠面板共用同一份配置
+  const writtenSections = [
+    {
+      id: 'practice',
+      label: '板块 1：题库刷题与全真试卷',
+      fullLabel: '板块 1：题库刷题与全真试卷 (专项/真题/错题本)',
+      icon: FileText
+    },
+    {
+      id: 'knowledge',
+      label: '板块 2：通关秘籍与语音听学',
+      fullLabel: '板块 2：知识点体系 · 通关秘籍与语音随身听',
+      icon: Headphones
+    },
+    {
+      id: 'daily',
+      label: '板块 3：申论每日两题晨练',
+      fullLabel: '板块 3：申论初试 · 每日思维两题晨练',
+      icon: Sparkles
+    }
+  ];
+
+  // 面试专区训练流程：桌面绿色子导航与 ≤1024px 折叠面板共用同一份配置
+  const interviewFlowChips = [
+    { text: '📚 100题结构化真题库', emphasis: false },
+    { text: '🎙️ 语音/打字双模式作答', emphasis: false },
+    { text: '📊 AI采分点逐条核对', emphasis: false },
+    { text: '📁 本机练习记录复盘', emphasis: false },
+    { text: '🛡️ 拒绝焦虑：不显对手高分', emphasis: true }
   ];
 
   // Detailed definitions of each module for users
@@ -482,10 +498,10 @@ export const Navbar: React.FC<NavbarProps> = ({
             id="mobile-header-menu"
             className="app-header__mobile-menu lg:hidden border-b border-slate-200 dark:border-slate-700 bg-slate-50 dark:bg-slate-800 px-1 pt-1.5 pb-2.5 space-y-1.5 sm:pt-2 sm:pb-3 sm:space-y-2 animate-in fade-in slide-in-from-top-1 duration-150"
           >
-            {/* 当前模块摘要：≤768px 从主页面迁移到这里，只在打开菜单时显示 */}
+            {/* 当前模块摘要：≤1024px 从主页面迁移到这里，只在打开菜单时显示 */}
             <div
               data-testid="mobile-current-module"
-              className="min-[769px]:hidden rounded-xl border border-emerald-200/90 bg-emerald-50/80 px-2.5 py-2 dark:border-emerald-800/60 dark:bg-emerald-950/20"
+              className="rounded-xl border border-emerald-200/90 bg-emerald-50/80 px-2.5 py-2 dark:border-emerald-800/60 dark:bg-emerald-950/20"
             >
               <p className="text-[11px] sm:text-xs font-black text-emerald-950 dark:text-emerald-100">
                 {currentSummary.tag}
@@ -587,55 +603,111 @@ export const Navbar: React.FC<NavbarProps> = ({
           </div>
         )}
 
-        {/* ROW 2 (MOBILE ≤768px): 标题随 sticky header 固定可见，展开面板 absolute 悬浮 */}
-        <div className="app-header__collapse-group app-header__collapse-group--main min-[769px]:hidden">
+        {/* ROW 2 (≤1024px 手机 / 平板): 合并为一条 32px 折叠条
+            ① 备考模块切换 pills（横向滚动）
+            ② 笔试专区三大核心板块（仅笔试专区显示）
+            面板 absolute 悬浮、不占文档流，展开不会顶起页面 */}
+        <div className="app-header__collapse-group app-header__collapse-group--main lg:hidden">
           <button
             type="button"
-            onClick={toggleMobileMainNav}
-            aria-expanded={showMobileMainNav}
-            aria-controls="mobile-main-nav-panel"
-            title={showMobileMainNav ? '收起备考模块' : '展开备考模块'}
+            onClick={toggleCompactNav}
+            aria-expanded={showCompactNav}
+            aria-controls="compact-nav-panel"
+            title={showCompactNav ? '收起模块导航' : '展开模块导航'}
             className="app-header__collapse-title text-[12px] font-extrabold text-slate-700 dark:text-slate-200 hover:text-emerald-600 dark:hover:text-emerald-400 transition-colors"
           >
-            <span>📌 展开备考模块</span>
+            <span className="truncate">
+              {isWrittenTab
+                ? '📚 笔试专区 · 模块与核心板块'
+                : activeTab === 'interview'
+                  ? '🎤 面试专区 · 模块与训练流程'
+                  : '📌 展开备考模块'}
+            </span>
             <ChevronDown
               aria-hidden="true"
-              className={`app-header__collapse-arrow ${showMobileMainNav ? 'is-open' : ''}`}
+              className={`app-header__collapse-arrow ${showCompactNav ? 'is-open' : ''}`}
             />
           </button>
 
           <MobileCollapsePanel
-            id="mobile-main-nav-panel"
-            open={showMobileMainNav}
-            ariaLabel="手机端模块导航"
+            id="compact-nav-panel"
+            open={showCompactNav}
+            ariaLabel="手机与平板模块导航"
           >
-            <div className="h-10 flex items-center gap-1 rounded-xl border border-slate-200/90 bg-slate-100/95 p-1 shadow-xl dark:border-slate-700/80 dark:bg-slate-800/95">
-              {mainNavItems.map((item) => {
-                const isActive = (item.id === 'practice' && isWrittenTab) || activeTab === item.id;
+            <div className="rounded-xl border border-slate-200/90 bg-white/95 p-2 shadow-xl space-y-2 dark:border-slate-700/80 dark:bg-slate-900/95">
+              {/* ① 模块切换 pills：横向滚动，避免 5 个模块挤成等分小方块 */}
+              <div className="flex items-center gap-1.5 overflow-x-auto pb-0.5">
+                {mainNavItems.map((item) => {
+                  const isActive = (item.id === 'practice' && isWrittenTab) || activeTab === item.id;
 
-                return (
-                  <button
-                    key={`mobile-${item.id}`}
-                    type="button"
-                    onClick={() => handleSelectMainNav(item.id)}
-                    aria-current={isActive ? 'page' : undefined}
-                    title={item.label}
-                    className={`flex-1 min-w-0 h-full rounded-lg px-0.5 text-[11px] sm:text-xs font-bold whitespace-nowrap transition-colors cursor-pointer ${
-                      isActive
-                        ? 'bg-slate-900 dark:bg-slate-700 text-white shadow-sm'
-                        : 'text-slate-600 dark:text-slate-300 hover:bg-white/80 dark:hover:bg-slate-700/70'
-                    }`}
-                  >
-                    {item.label}
-                  </button>
-                );
-              })}
+                  return (
+                    <button
+                      key={`compact-${item.id}`}
+                      type="button"
+                      onClick={() => handleSelectMainNav(item.id)}
+                      aria-current={isActive ? 'page' : undefined}
+                      className={`shrink-0 px-3 py-1.5 rounded-lg text-[11px] sm:text-xs font-bold whitespace-nowrap transition-colors cursor-pointer ${
+                        isActive
+                          ? 'bg-slate-900 dark:bg-slate-700 text-white shadow-sm'
+                          : 'bg-slate-100 dark:bg-slate-800 text-slate-600 dark:text-slate-300 hover:bg-slate-200 dark:hover:bg-slate-700'
+                      }`}
+                    >
+                      {item.label}
+                    </button>
+                  );
+                })}
+              </div>
+
+              {/* ② 笔试专区三大核心板块：与模块 pills 同一个面板，不再单独占一条固定栏 */}
+              {isWrittenTab && (
+                <div className="flex items-center gap-1.5 overflow-x-auto border-t border-slate-100 dark:border-slate-800 pt-2 pb-0.5">
+                  {writtenSections.map((section) => {
+                    const Icon = section.icon;
+                    const isActive = activeTab === section.id;
+
+                    return (
+                      <button
+                        key={`compact-section-${section.id}`}
+                        type="button"
+                        onClick={() => handleSelectWrittenSection(section.id)}
+                        aria-current={isActive ? 'page' : undefined}
+                        className={`flex shrink-0 items-center gap-1.5 px-2.5 py-1.5 rounded-lg text-[11px] sm:text-xs font-bold whitespace-nowrap transition-colors cursor-pointer ${
+                          isActive
+                            ? 'bg-brand-ink text-white shadow-xs ring-1 ring-brand-gold'
+                            : 'bg-slate-100 dark:bg-slate-800 text-slate-600 dark:text-slate-300 hover:bg-slate-200 dark:hover:bg-slate-700'
+                        }`}
+                      >
+                        <Icon className="w-3.5 h-3.5" />
+                        {section.label}
+                      </button>
+                    );
+                  })}
+                </div>
+              )}
+
+              {/* ③ 面试专区训练流程：原来那条绿色子导航在 ≤1024px 收进本面板，省掉一整条固定栏 */}
+              {activeTab === 'interview' && (
+                <div className="flex items-center gap-1.5 overflow-x-auto border-t border-slate-100 dark:border-slate-800 pt-2 pb-0.5">
+                  {interviewFlowChips.map((chip) => (
+                    <span
+                      key={`compact-interview-${chip.text}`}
+                      className={`shrink-0 px-2.5 py-1.5 rounded-lg text-[11px] sm:text-xs whitespace-nowrap ${
+                        chip.emphasis
+                          ? 'bg-emerald-600 text-white font-bold'
+                          : 'bg-slate-100 dark:bg-slate-800 text-slate-600 dark:text-slate-300 font-semibold'
+                      }`}
+                    >
+                      {chip.text}
+                    </span>
+                  ))}
+                </div>
+              )}
             </div>
           </MobileCollapsePanel>
         </div>
 
-        {/* ROW 2 (TABLET/DESKTOP ≥769px): PRIMARY HIGH-VISIBILITY NAVIGATION CARDS（保持原布局） */}
-        <div className="app-header__nav hidden min-[769px]:block">
+        {/* ROW 3 (DESKTOP ≥1025px): PRIMARY HIGH-VISIBILITY NAVIGATION CARDS（保持原布局） */}
+        <div className="app-header__nav hidden lg:block">
           <nav className="app-header__nav-grid flex gap-1.5 overflow-x-auto pb-0.5 sm:gap-2 lg:grid lg:grid-cols-5 lg:overflow-visible lg:pb-0">
             {mainNavItems.map((item) => {
               const Icon = item.icon;
@@ -695,110 +767,66 @@ export const Navbar: React.FC<NavbarProps> = ({
         </div>
       </div>
 
-      {/* SECONDARY SUB-NAV: When inside 笔试专区 */}
+      {/* SECONDARY SUB-NAV (仅桌面 ≥1025px)：≤1024px 已并入顶部 32px 折叠条，不再单独占一条绿栏 */}
       {isWrittenTab && (
-        <div className="app-header__subnav app-header__subnav--collapsible bg-brand-ink text-white border-t border-white/10 px-3 sm:px-4">
-          <div className="max-w-7xl mx-auto flex flex-col min-[769px]:flex-row min-[769px]:items-center justify-between gap-1.5 sm:gap-2 text-[11px] sm:text-xs">
-            <div className="app-header__collapse-group app-header__collapse-group--subnav">
-              {/* MOBILE ≤768px：标题固定在绿色栏内，右侧箭头随展开状态旋转 */}
-              <button
-                type="button"
-                onClick={toggleMobileWrittenSubnav}
-                aria-expanded={showMobileWrittenSubnav}
-                aria-controls="mobile-written-subnav-panel"
-                title={showMobileWrittenSubnav ? '收起核心板块' : '展开核心板块'}
-                className="app-header__collapse-title text-[12px] font-extrabold text-white hover:text-emerald-200 transition-colors"
-              >
-                <span>📚 展开核心板块</span>
-                <ChevronDown
-                  aria-hidden="true"
-                  className={`app-header__collapse-arrow ${showMobileWrittenSubnav ? 'is-open' : ''}`}
-                />
-              </button>
+        <div className="app-header__subnav bg-brand-ink text-white border-t border-white/10 px-3 sm:px-4 hidden lg:block">
+          <div className="max-w-7xl mx-auto flex flex-row items-center justify-between gap-2 text-xs">
+            <div className="flex items-center gap-2 overflow-x-auto pb-0.5 lg:flex-wrap lg:overflow-visible lg:pb-0">
+              <span className="font-extrabold text-white flex items-center gap-1.5 mr-1 text-xs shrink-0 whitespace-nowrap">
+                <BookOpen className="w-3.5 h-3.5 text-emerald-200" />
+                笔试专区三大核心板块：
+              </span>
 
-              {/* ≥769px 保留原布局；≤768px 面板 absolute 悬浮，不占文档流 */}
-              <MobileCollapsePanel
-                id="mobile-written-subnav-panel"
-                open={showMobileWrittenSubnav}
-                className="min-[769px]:flex w-full min-[769px]:w-auto flex-col min-[769px]:flex-row min-[769px]:items-center gap-1.5 sm:gap-2 min-[769px]:overflow-x-auto pb-0.5 lg:flex-wrap lg:overflow-visible lg:pb-0"
-                innerClassName="min-[769px]:contents"
-              >
-                <div className="min-[769px]:contents flex flex-col gap-1.5 rounded-xl bg-brand-ink p-2 shadow-2xl ring-1 ring-white/10">
-                    <span className="hidden min-[769px]:flex font-extrabold text-white items-center gap-1.5 mr-1 text-[11px] sm:text-xs shrink-0 whitespace-nowrap">
-                      <BookOpen className="w-3.5 h-3.5 text-emerald-200" />
-                      笔试专区三大核心板块：
-                    </span>
+              {writtenSections.map((section) => {
+                const Icon = section.icon;
+                const isActive = activeTab === section.id;
 
-                    <button
-                      onClick={() => handleSelectWrittenSection('practice')}
-                      className={`app-header__subnav-item flex items-center gap-1.5 rounded-lg transition-all cursor-pointer w-full min-[769px]:w-auto shrink-0 justify-start text-left whitespace-normal min-[769px]:whitespace-nowrap ${
-                        activeTab === 'practice'
-                          ? 'bg-white dark:bg-slate-900 text-brand-ink font-black shadow-xs ring-1 ring-brand-gold'
-                          : 'bg-transparent text-emerald-50 ring-1 ring-brand-gold/60 hover:bg-brand-ink-soft hover:ring-brand-gold'
-                      }`}
-                    >
-                      <FileText className={activeTab === 'practice' ? 'text-brand-ink' : 'text-emerald-200'} />
-                      <span>板块 1：题库刷题与全真试卷 (专项/真题/错题本)</span>
-                    </button>
-
-                    <button
-                      onClick={() => handleSelectWrittenSection('knowledge')}
-                      className={`app-header__subnav-item flex items-center gap-1.5 rounded-lg transition-all cursor-pointer w-full min-[769px]:w-auto shrink-0 justify-start text-left whitespace-normal min-[769px]:whitespace-nowrap ${
-                        activeTab === 'knowledge'
-                          ? 'bg-white dark:bg-slate-900 text-brand-ink font-black shadow-xs ring-1 ring-brand-gold'
-                          : 'bg-transparent text-emerald-50 ring-1 ring-brand-gold/60 hover:bg-brand-ink-soft hover:ring-brand-gold'
-                      }`}
-                    >
-                      <Headphones className={activeTab === 'knowledge' ? 'text-brand-ink' : 'text-emerald-200'} />
-                      <span>板块 2：知识点体系 · 通关秘籍与语音随身听</span>
-                    </button>
-
-                    <button
-                      onClick={() => handleSelectWrittenSection('daily')}
-                      className={`app-header__subnav-item flex items-center gap-1.5 rounded-lg transition-all cursor-pointer w-full min-[769px]:w-auto shrink-0 justify-start text-left whitespace-normal min-[769px]:whitespace-nowrap ${
-                        activeTab === 'daily'
-                          ? 'bg-white dark:bg-slate-900 text-brand-ink font-black shadow-xs ring-1 ring-brand-gold'
-                          : 'bg-transparent text-emerald-50 ring-1 ring-brand-gold/60 hover:bg-brand-ink-soft hover:ring-brand-gold'
-                      }`}
-                    >
-                      <Sparkles className={activeTab === 'daily' ? 'text-brand-ink' : 'text-emerald-200'} />
-                      <span>板块 3：申论初试 · 每日思维两题晨练</span>
-                    </button>
-                </div>
-              </MobileCollapsePanel>
+                return (
+                  <button
+                    key={`subnav-${section.id}`}
+                    onClick={() => handleSelectWrittenSection(section.id)}
+                    aria-current={isActive ? 'page' : undefined}
+                    className={`app-header__subnav-item flex items-center gap-1.5 rounded-lg transition-all cursor-pointer shrink-0 whitespace-nowrap ${
+                      isActive
+                        ? 'bg-white dark:bg-slate-900 text-brand-ink font-black shadow-xs ring-1 ring-brand-gold'
+                        : 'bg-transparent text-emerald-50 ring-1 ring-brand-gold/60 hover:bg-brand-ink-soft hover:ring-brand-gold'
+                    }`}
+                  >
+                    <Icon className={isActive ? 'text-brand-ink' : 'text-emerald-200'} />
+                    <span>{section.fullLabel}</span>
+                  </button>
+                );
+              })}
             </div>
 
-            <span className="text-[11px] text-emerald-100/80 font-medium hidden lg:inline-block">
+            <span className="text-[11px] text-emerald-100/80 font-medium hidden xl:inline-block shrink-0">
               💡 战线拉长 · 每日浸润公职逻辑与行测解题模型
             </span>
           </div>
         </div>
       )}
 
-      {/* SECONDARY SUB-NAV: When inside 面试专区 */}
+      {/* SECONDARY SUB-NAV: When inside 面试专区（仅桌面 ≥1025px；≤1024px 已并入顶部 32px 折叠条） */}
       {activeTab === 'interview' && (
-        <div className="app-header__subnav bg-brand-ink text-white border-t border-white/10 px-3 sm:px-4">
+        <div className="app-header__subnav bg-brand-ink text-white border-t border-white/10 px-3 sm:px-4 hidden lg:block">
           <div className="max-w-7xl mx-auto flex flex-col md:flex-row md:items-center justify-between gap-1.5 sm:gap-2 text-[11px] sm:text-xs">
             <div className="flex items-center gap-1.5 sm:gap-2 overflow-x-auto pb-0.5 lg:flex-wrap lg:overflow-visible lg:pb-0">
               <span className="font-extrabold text-white flex items-center gap-1.5 mr-1 text-[11px] sm:text-xs shrink-0 whitespace-nowrap">
                 <Mic className="w-3.5 h-3.5 text-emerald-200" />
                 面试训练流程：
               </span>
-              <span className="px-2.5 py-0.5 rounded bg-brand-ink-soft text-emerald-50 border border-white/15 font-bold shrink-0 whitespace-nowrap">
-                📚 100题结构化真题库
-              </span>
-              <span className="px-2.5 py-0.5 rounded bg-brand-ink-soft text-emerald-50 border border-white/15 font-medium shrink-0 whitespace-nowrap">
-                🎙️ 语音/打字双模式作答
-              </span>
-              <span className="px-2.5 py-0.5 rounded bg-brand-ink-soft text-emerald-50 border border-white/15 font-medium shrink-0 whitespace-nowrap">
-                📊 AI采分点逐条核对
-              </span>
-              <span className="px-2.5 py-0.5 rounded bg-brand-ink-soft text-emerald-50 border border-white/15 font-medium shrink-0 whitespace-nowrap">
-                📁 本机练习记录复盘
-              </span>
-              <span className="px-2.5 py-0.5 rounded bg-brand-ink text-emerald-200 border border-emerald-400/40 dark:border-emerald-600/40 font-bold shrink-0 whitespace-nowrap">
-                🛡️ 拒绝焦虑：不显对手高分
-              </span>
+              {interviewFlowChips.map((chip) => (
+                <span
+                  key={`subnav-interview-${chip.text}`}
+                  className={`px-2.5 py-0.5 rounded border shrink-0 whitespace-nowrap ${
+                    chip.emphasis
+                      ? 'bg-brand-ink text-emerald-200 border-emerald-400/40 dark:border-emerald-600/40 font-bold'
+                      : 'bg-brand-ink-soft text-emerald-50 border-white/15 font-medium'
+                  }`}
+                >
+                  {chip.text}
+                </span>
+              ))}
             </div>
             <span className="text-[11px] text-emerald-100/75 font-medium hidden lg:inline-block">
               ⚡ 早点开始开口模拟，消弭怯场，练成肌肉记忆！
@@ -808,9 +836,9 @@ export const Navbar: React.FC<NavbarProps> = ({
       )}
 
       {/* CURRENT ACTIVE MODULE CONTEXT BANNER
-          手机端（≤768px）整行隐藏，当前模块摘要与学情总览折叠操作移入右上角汉堡菜单；
-          ≥769px 继续显示完整说明，不占用手机首屏高度。 */}
-      <div className="app-header__context hidden min-[769px]:block bg-slate-50 dark:bg-slate-800 border-t border-slate-200/80 dark:border-slate-700/80 px-3 sm:px-4 text-[11px] sm:text-xs text-slate-600 dark:text-slate-300">
+          ≤1024px 整行隐藏（当前模块摘要与学情总览折叠操作在右上角汉堡菜单里）；
+          ≥1025px 继续显示完整说明，进一步压缩手机/平板的固定高度。 */}
+      <div className="app-header__context hidden lg:block bg-slate-50 dark:bg-slate-800 border-t border-slate-200/80 dark:border-slate-700/80 px-3 sm:px-4 text-[11px] sm:text-xs text-slate-600 dark:text-slate-300">
         <div className="max-w-7xl mx-auto flex flex-col sm:flex-row sm:items-center justify-between gap-0.5 sm:gap-1">
           <div className="flex items-center gap-2">
             <span className="font-extrabold text-slate-900 dark:text-slate-100">
