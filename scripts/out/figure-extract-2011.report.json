@@ -1,0 +1,463 @@
+{
+  "generatedAt": "2026-11-21T11:27:43.507Z",
+  "year": "2011",
+  "mode": "apply",
+  "source": {
+    "docx": "source-data/国考真题（2000--2026)/4-行测/1-行测-真题/word/2011年国家公务员考试《行测》真题卷.docx",
+    "docxBytes": 488776,
+    "paragraphs": 484,
+    "markerParagraphs": 134,
+    "imageParagraphs": 19,
+    "mediaFiles": 27,
+    "sectionHeader": "四、判断推理，共 40 题，参考时限 35 分钟，本部分包括图形推理、定义判断、",
+    "exampleBoundaryParagraph": -1,
+    "mediaReferencedByBody": 27,
+    "unreferencedMedia": 0
+  },
+  "dataSide": {
+    "paper": "2011年国家公务员考试《行测》未标注",
+    "paperCount": 1,
+    "shardFiles": 568,
+    "figureQuestions": 10,
+    "numbers": [
+      81,
+      82,
+      83,
+      84,
+      85,
+      86,
+      87,
+      88,
+      89,
+      90
+    ],
+    "questions": [
+      {
+        "id": "gk-2011-未标注-81",
+        "number": 81,
+        "file": "public/data/questions/national-none-panduan-2.json"
+      },
+      {
+        "id": "gk-2011-未标注-82",
+        "number": 82,
+        "file": "public/data/questions/national-none-panduan-2.json"
+      },
+      {
+        "id": "gk-2011-未标注-83",
+        "number": 83,
+        "file": "public/data/questions/national-none-panduan-2.json"
+      },
+      {
+        "id": "gk-2011-未标注-84",
+        "number": 84,
+        "file": "public/data/questions/national-none-panduan-2.json"
+      },
+      {
+        "id": "gk-2011-未标注-85",
+        "number": 85,
+        "file": "public/data/questions/national-none-panduan-2.json"
+      },
+      {
+        "id": "gk-2011-未标注-86",
+        "number": 86,
+        "file": "public/data/questions/national-none-panduan-2.json"
+      },
+      {
+        "id": "gk-2011-未标注-87",
+        "number": 87,
+        "file": "public/data/questions/national-none-panduan-2.json"
+      },
+      {
+        "id": "gk-2011-未标注-88",
+        "number": 88,
+        "file": "public/data/questions/national-none-panduan-2.json"
+      },
+      {
+        "id": "gk-2011-未标注-89",
+        "number": 89,
+        "file": "public/data/questions/national-none-panduan-2.json"
+      },
+      {
+        "id": "gk-2011-未标注-90",
+        "number": 90,
+        "file": "public/data/questions/national-none-panduan-2.json"
+      }
+    ]
+  },
+  "statistics": {
+    "mediaFiles": 27,
+    "bodyImageReferences": 27,
+    "filtered": 17,
+    "filteredTinyFragments": 12,
+    "produced": 10,
+    "landed": 10,
+    "notSelected": 0
+  },
+  "filters": {
+    "not-figure-question": {
+      "count": 17,
+      "items": [
+        {
+          "rid": "rId5",
+          "media": "word/media/image1.png",
+          "number": 25,
+          "paragraph": 85,
+          "detail": " | 734x29px",
+          "legacyColon": false
+        },
+        {
+          "rid": "rId8",
+          "media": "word/media/image2.png",
+          "number": 48,
+          "paragraph": 164,
+          "detail": " | 733x33px",
+          "legacyColon": false
+        },
+        {
+          "rid": "rId11",
+          "media": "word/media/image3.png",
+          "number": 70,
+          "paragraph": 256,
+          "detail": "70、受原材料涨价影响，某产品的总成本比之前上涨了，而原材料成本在总成本中的比重 | 17x29px（碎片尺寸）",
+          "legacyColon": false
+        },
+        {
+          "rid": "rId12",
+          "media": "word/media/image4.png",
+          "number": 70,
+          "paragraph": 258,
+          "detail": "A、    B、    C、    D、 | 12x29px（碎片尺寸）",
+          "legacyColon": false
+        },
+        {
+          "rid": "rId13",
+          "media": "word/media/image5.png",
+          "number": 70,
+          "paragraph": 258,
+          "detail": "A、    B、    C、    D、 | 16x29px（碎片尺寸）",
+          "legacyColon": false
+        },
+        {
+          "rid": "rId14",
+          "media": "word/media/image6.png",
+          "number": 70,
+          "paragraph": 258,
+          "detail": "A、    B、    C、    D、 | 17x29px（碎片尺寸）",
+          "legacyColon": false
+        },
+        {
+          "rid": "rId15",
+          "media": "word/media/image7.png",
+          "number": 70,
+          "paragraph": 258,
+          "detail": "A、    B、    C、    D、 | 17x29px（碎片尺寸）",
+          "legacyColon": false
+        },
+        {
+          "rid": "rId16",
+          "media": "word/media/image8.png",
+          "number": 75,
+          "paragraph": 269,
+          "detail": "75、用一个平面将一个边长为 1 的正四面体切分为两个完全相同的部分，则切面的最 | 12x29px（碎片尺寸）",
+          "legacyColon": false
+        },
+        {
+          "rid": "rId17",
+          "media": "word/media/image9.png",
+          "number": 75,
+          "paragraph": 269,
+          "detail": "75、用一个平面将一个边长为 1 的正四面体切分为两个完全相同的部分，则切面的最 | 21x32px（碎片尺寸）",
+          "legacyColon": false
+        },
+        {
+          "rid": "rId18",
+          "media": "word/media/image10.png",
+          "number": 75,
+          "paragraph": 269,
+          "detail": "75、用一个平面将一个边长为 1 的正四面体切分为两个完全相同的部分，则切面的最 | 22x32px（碎片尺寸）",
+          "legacyColon": false
+        },
+        {
+          "rid": "rId19",
+          "media": "word/media/image11.png",
+          "number": 75,
+          "paragraph": 269,
+          "detail": "75、用一个平面将一个边长为 1 的正四面体切分为两个完全相同的部分，则切面的最 | 11x29px（碎片尺寸）",
+          "legacyColon": false
+        },
+        {
+          "rid": "rId21",
+          "media": "word/media/image12.png",
+          "number": 78,
+          "paragraph": 276,
+          "detail": "78、某城市共有 A、B、C、D、E 五个区，A 区人口是全市人口的 ，B 区人 | 17x29px（碎片尺寸）",
+          "legacyColon": false
+        },
+        {
+          "rid": "rId22",
+          "media": "word/media/image13.png",
+          "number": 78,
+          "paragraph": 276,
+          "detail": "78、某城市共有 A、B、C、D、E 五个区，A 区人口是全市人口的 ，B 区人 | 11x29px（碎片尺寸）",
+          "legacyColon": false
+        },
+        {
+          "rid": "rId23",
+          "media": "word/media/image14.png",
+          "number": 78,
+          "paragraph": 276,
+          "detail": "78、某城市共有 A、B、C、D、E 五个区，A 区人口是全市人口的 ，B 区人 | 11x29px（碎片尺寸）",
+          "legacyColon": false
+        },
+        {
+          "rid": "rId39",
+          "media": "word/media/image25.jpeg",
+          "number": 119,
+          "paragraph": 427,
+          "detail": " | 388x239px",
+          "legacyColon": false
+        },
+        {
+          "rid": "rId41",
+          "media": "word/media/image26.png",
+          "number": 17,
+          "paragraph": 441,
+          "detail": " | 530x578px",
+          "legacyColon": false
+        },
+        {
+          "rid": "rId43",
+          "media": "word/media/image27.png",
+          "number": 130,
+          "paragraph": 469,
+          "detail": " | 477x390px",
+          "legacyColon": false
+        }
+      ]
+    }
+  },
+  "produced": [
+    {
+      "number": 81,
+      "id": "gk-2011-未标注-81",
+      "imageUrl": "/data/questions/images/gk-2011-81.jpg",
+      "file": "gk-2011-81.jpg",
+      "sourcePart": "word/media/image15.jpeg",
+      "sourceParagraph": 285,
+      "format": "jpg",
+      "width": 205,
+      "height": 241,
+      "bytes": 13277,
+      "flatCheck": {
+        "method": "heuristic",
+        "flat": false,
+        "detail": "13277B / 49405px = 0.269B/px（阈值 0.05）"
+      },
+      "confidence": "high",
+      "note": "图片位于第 81 题题干段之后 1 段，段间无其他题号插入",
+      "wrote": true,
+      "landing": "written"
+    },
+    {
+      "number": 82,
+      "id": "gk-2011-未标注-82",
+      "imageUrl": "/data/questions/images/gk-2011-82.jpg",
+      "file": "gk-2011-82.jpg",
+      "sourcePart": "word/media/image16.jpeg",
+      "sourceParagraph": 287,
+      "format": "jpg",
+      "width": 364,
+      "height": 108,
+      "bytes": 6838,
+      "flatCheck": {
+        "method": "heuristic",
+        "flat": false,
+        "detail": "6838B / 39312px = 0.174B/px（阈值 0.05）"
+      },
+      "confidence": "high",
+      "note": "图片位于第 82 题题干段之后 1 段，段间无其他题号插入",
+      "wrote": true,
+      "landing": "written"
+    },
+    {
+      "number": 83,
+      "id": "gk-2011-未标注-83",
+      "imageUrl": "/data/questions/images/gk-2011-83.jpg",
+      "file": "gk-2011-83.jpg",
+      "sourcePart": "word/media/image17.jpeg",
+      "sourceParagraph": 289,
+      "format": "jpg",
+      "width": 303,
+      "height": 146,
+      "bytes": 9189,
+      "flatCheck": {
+        "method": "heuristic",
+        "flat": false,
+        "detail": "9189B / 44238px = 0.208B/px（阈值 0.05）"
+      },
+      "confidence": "high",
+      "note": "图片位于第 83 题题干段之后 1 段，段间无其他题号插入",
+      "wrote": true,
+      "landing": "written"
+    },
+    {
+      "number": 84,
+      "id": "gk-2011-未标注-84",
+      "imageUrl": "/data/questions/images/gk-2011-84.jpg",
+      "file": "gk-2011-84.jpg",
+      "sourcePart": "word/media/image18.jpeg",
+      "sourceParagraph": 291,
+      "format": "jpg",
+      "width": 379,
+      "height": 169,
+      "bytes": 9431,
+      "flatCheck": {
+        "method": "heuristic",
+        "flat": false,
+        "detail": "9431B / 64051px = 0.147B/px（阈值 0.05）"
+      },
+      "confidence": "high",
+      "note": "图片位于第 84 题题干段之后 1 段，段间无其他题号插入",
+      "wrote": true,
+      "landing": "written"
+    },
+    {
+      "number": 85,
+      "id": "gk-2011-未标注-85",
+      "imageUrl": "/data/questions/images/gk-2011-85.jpg",
+      "file": "gk-2011-85.jpg",
+      "sourcePart": "word/media/image19.jpeg",
+      "sourceParagraph": 295,
+      "format": "jpg",
+      "width": 379,
+      "height": 169,
+      "bytes": 11076,
+      "flatCheck": {
+        "method": "heuristic",
+        "flat": false,
+        "detail": "11076B / 64051px = 0.173B/px（阈值 0.05）"
+      },
+      "confidence": "high",
+      "note": "图片位于第 85 题题干段之后 1 段，段间无其他题号插入",
+      "wrote": true,
+      "landing": "written"
+    },
+    {
+      "number": 86,
+      "id": "gk-2011-未标注-86",
+      "imageUrl": "/data/questions/images/gk-2011-86.jpg",
+      "file": "gk-2011-86.jpg",
+      "sourcePart": "word/media/image20.jpeg",
+      "sourceParagraph": 297,
+      "format": "jpg",
+      "width": 303,
+      "height": 261,
+      "bytes": 14839,
+      "flatCheck": {
+        "method": "heuristic",
+        "flat": false,
+        "detail": "14839B / 79083px = 0.188B/px（阈值 0.05）"
+      },
+      "confidence": "high",
+      "note": "图片位于第 86 题题干段之后 1 段，段间无其他题号插入",
+      "wrote": true,
+      "landing": "written"
+    },
+    {
+      "number": 87,
+      "id": "gk-2011-未标注-87",
+      "imageUrl": "/data/questions/images/gk-2011-87.jpg",
+      "file": "gk-2011-87.jpg",
+      "sourcePart": "word/media/image21.jpeg",
+      "sourceParagraph": 300,
+      "format": "jpg",
+      "width": 303,
+      "height": 261,
+      "bytes": 13477,
+      "flatCheck": {
+        "method": "heuristic",
+        "flat": false,
+        "detail": "13477B / 79083px = 0.170B/px（阈值 0.05）"
+      },
+      "confidence": "high",
+      "note": "图片位于第 87 题题干段之后 1 段，段间无其他题号插入",
+      "wrote": true,
+      "landing": "written"
+    },
+    {
+      "number": 88,
+      "id": "gk-2011-未标注-88",
+      "imageUrl": "/data/questions/images/gk-2011-88.jpg",
+      "file": "gk-2011-88.jpg",
+      "sourcePart": "word/media/image22.jpeg",
+      "sourceParagraph": 303,
+      "format": "jpg",
+      "width": 266,
+      "height": 229,
+      "bytes": 12174,
+      "flatCheck": {
+        "method": "heuristic",
+        "flat": false,
+        "detail": "12174B / 60914px = 0.200B/px（阈值 0.05）"
+      },
+      "confidence": "high",
+      "note": "图片位于第 88 题题干段之后 1 段，段间无其他题号插入",
+      "wrote": true,
+      "landing": "written"
+    },
+    {
+      "number": 89,
+      "id": "gk-2011-未标注-89",
+      "imageUrl": "/data/questions/images/gk-2011-89.jpg",
+      "file": "gk-2011-89.jpg",
+      "sourcePart": "word/media/image23.jpeg",
+      "sourceParagraph": 307,
+      "format": "jpg",
+      "width": 303,
+      "height": 261,
+      "bytes": 13580,
+      "flatCheck": {
+        "method": "heuristic",
+        "flat": false,
+        "detail": "13580B / 79083px = 0.172B/px（阈值 0.05）"
+      },
+      "confidence": "high",
+      "note": "图片位于第 89 题题干段之后 1 段，段间无其他题号插入",
+      "wrote": true,
+      "landing": "written"
+    },
+    {
+      "number": 90,
+      "id": "gk-2011-未标注-90",
+      "imageUrl": "/data/questions/images/gk-2011-90.jpg",
+      "file": "gk-2011-90.jpg",
+      "sourcePart": "word/media/image24.jpeg",
+      "sourceParagraph": 310,
+      "format": "jpg",
+      "width": 303,
+      "height": 263,
+      "bytes": 15739,
+      "flatCheck": {
+        "method": "heuristic",
+        "flat": false,
+        "detail": "15739B / 79689px = 0.198B/px（阈值 0.05）"
+      },
+      "confidence": "high",
+      "note": "图片位于第 90 题题干段之后 1 段，段间无其他题号插入",
+      "wrote": true,
+      "landing": "written"
+    }
+  ],
+  "verification": {
+    "expectedFigures": 10,
+    "producedImages": 10,
+    "countMatched": true,
+    "allHighConfidence": true,
+    "allSizeAboveMin": true,
+    "allNonFlat": true,
+    "allUnderByteLimit": true
+  },
+  "errors": [],
+  "warnings": [],
+  "tag": null
+}

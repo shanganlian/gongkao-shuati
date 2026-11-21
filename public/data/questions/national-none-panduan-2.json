@@ -5050,7 +5050,24 @@
     "module": "panduan",
     "title": "判断·从所给的四个选项中，选择最合适的一个填入问号处，使之呈现…",
     "stem": "从所给的四个选项中，选择最合适的一个填入问号处，使之呈现一定的规律性：",
-    "options": [],
+    "options": [
+      {
+        "key": "A",
+        "text": ""
+      },
+      {
+        "key": "B",
+        "text": ""
+      },
+      {
+        "key": "C",
+        "text": ""
+      },
+      {
+        "key": "D",
+        "text": ""
+      }
+    ],
     "answer": "C",
     "explanation": "元素组成相同，看位置规律。第一行图形中，第一个图形逆时针旋转 90 度，翻转两个眼睛，嘴巴不变，得 到第二个图形，第二个图形逆时针旋转 90 度，翻转嘴巴，眼睛不变，得到第三个图形。观察可知，第二行图形 同样符合此规律，同理第三行也应满足此规律。根据第三行前两个图可知，第三个图形应该根据第二幅图推出， C 项可以由第二个图形得到。\n\n故正确答案为 C。",
     "keyPoints": [
@@ -5062,7 +5079,8 @@
     "source": "2011年国家公务员考试《行测》未标注第81题",
     "isImageQuestion": true,
     "subModule": "图形推理",
-    "subModule_confidence": "high"
+    "subModule_confidence": "high",
+    "imageUrl": "/data/questions/images/gk-2011-81.jpg"
   },
   {
     "id": "gk-2011-未标注-82",
@@ -5070,7 +5088,24 @@
     "module": "panduan",
     "title": "判断·左边给定的是纸盒外表面的展开图，右边哪一项能由它折叠而成…",
     "stem": "左边给定的是纸盒外表面的展开图，右边哪一项能由它折叠而成？请把它找出来：",
-    "options": [],
+    "options": [
+      {
+        "key": "A",
+        "text": ""
+      },
+      {
+        "key": "B",
+        "text": ""
+      },
+      {
+        "key": "C",
+        "text": ""
+      },
+      {
+        "key": "D",
+        "text": ""
+      }
+    ],
     "answer": "D",
     "explanation": "纸盒外表面可知，  和相对，和相对，     和相对。\n\nA 项， 由可知，顶面和正面不会相交，错误；\n\nB 项，根据相邻位置和相对关系，右侧面和顶面、正面均不对应，错误；\n\nC 项， 由可知，顶面不是空白面，错误。\n\n故正确答案为 D。",
     "keyPoints": [
@@ -5083,7 +5118,8 @@
     "source": "2011年国家公务员考试《行测》未标注第82题",
     "isImageQuestion": true,
     "subModule": "图形推理",
-    "subModule_confidence": "high"
+    "subModule_confidence": "high",
+    "imageUrl": "/data/questions/images/gk-2011-82.jpg"
   },
   {
     "id": "gk-2011-未标注-83",
@@ -5091,7 +5127,24 @@
     "module": "panduan",
     "title": "判断·从所给的四个选项中，选择最合适的一个填入问号处，使之呈现…",
     "stem": "从所给的四个选项中，选择最合适的一个填入问号处，使之呈现一定的规律性：",
-    "options": [],
+    "options": [
+      {
+        "key": "A",
+        "text": ""
+      },
+      {
+        "key": "B",
+        "text": ""
+      },
+      {
+        "key": "C",
+        "text": ""
+      },
+      {
+        "key": "D",
+        "text": ""
+      }
+    ],
     "answer": "A",
     "explanation": "元素组成凌乱，数相同元素的个数。观察下图中红线标记部分可知，特殊每幅图中相同元素的个数递增，分 别为 1、2、3、4、5、6。那么符合 6 个相同元素个数的是 A 项。\n\n故正确答案为 A。",
     "keyPoints": [
@@ -5103,7 +5156,8 @@
     "source": "2011年国家公务员考试《行测》未标注第83题",
     "isImageQuestion": true,
     "subModule": "图形推理",
-    "subModule_confidence": "high"
+    "subModule_confidence": "high",
+    "imageUrl": "/data/questions/images/gk-2011-83.jpg"
   },
   {
     "id": "gk-2011-未标注-84",
@@ -5111,7 +5165,24 @@
     "module": "panduan",
     "title": "判断·从所给的四个选项中，选择最合适的一个填入问号处，使之呈现…",
     "stem": "从所给的四个选项中，选择最合适的一个填入问号处，使之呈现一定的规律性：",
-    "options": [],
+    "options": [
+      {
+        "key": "A",
+        "text": ""
+      },
+      {
+        "key": "B",
+        "text": ""
+      },
+      {
+        "key": "C",
+        "text": ""
+      },
+      {
+        "key": "D",
+        "text": ""
+      }
+    ],
     "answer": "B",
     "explanation": "元素组成相似，样式规律。观察发现，第一组图形中第三个图“运 ”是由第一个图形中的“辶 ”和第二个图 形中的“云 ”组成，即第一个图中元素和第二个图中元素去同存异组成第三个图中元素。同理，第二组图形中均\n\n有元素“二 ”，未知图形应该含有“ 口 ”和“人 ”，B 项符合题意。 故正确答案为 B。",
     "keyPoints": [
@@ -5123,7 +5194,8 @@
     "source": "2011年国家公务员考试《行测》未标注第84题",
     "isImageQuestion": true,
     "subModule": "图形推理",
-    "subModule_confidence": "high"
+    "subModule_confidence": "high",
+    "imageUrl": "/data/questions/images/gk-2011-84.jpg"
   },
   {
     "id": "gk-2011-未标注-85",
@@ -5131,7 +5203,24 @@
     "module": "panduan",
     "title": "判断·从所给的四个选项中，选择最合适的一个填入问号处，使之呈现…",
     "stem": "从所给的四个选项中，选择最合适的一个填入问号处，使之呈现一定的规律性：",
-    "options": [],
+    "options": [
+      {
+        "key": "A",
+        "text": ""
+      },
+      {
+        "key": "B",
+        "text": ""
+      },
+      {
+        "key": "C",
+        "text": ""
+      },
+      {
+        "key": "D",
+        "text": ""
+      }
+    ],
     "answer": "C",
     "explanation": "观察第一组图形中外部图形和内部图形的关系可知，外部图形和内部图形的相接的数量分别是 0、1、2，那 么依此规律，第二组图形外部图形和内部图形的相接的数量应该是 0、1、（2），排除 A、D 项。又知道第一组  图形的外部图形的边数分别是 6、4、5，则第二组图形的外部图形的边数可能会是 5、3、（4）。C 项符合题意。 故正确答案为 C。",
     "keyPoints": [
@@ -5142,7 +5231,8 @@
     "source": "2011年国家公务员考试《行测》未标注第85题",
     "isImageQuestion": true,
     "subModule": "图形推理",
-    "subModule_confidence": "high"
+    "subModule_confidence": "high",
+    "imageUrl": "/data/questions/images/gk-2011-85.jpg"
   },
   {
     "id": "gk-2011-未标注-86",
@@ -5179,7 +5269,8 @@
     "source": "2011年国家公务员考试《行测》未标注第86题",
     "isImageQuestion": true,
     "subModule": "图形推理",
-    "subModule_confidence": "high"
+    "subModule_confidence": "high",
+    "imageUrl": "/data/questions/images/gk-2011-86.jpg"
   },
   {
     "id": "gk-2011-未标注-87",
@@ -5217,7 +5308,8 @@
     "source": "2011年国家公务员考试《行测》未标注第87题",
     "isImageQuestion": true,
     "subModule": "图形推理",
-    "subModule_confidence": "high"
+    "subModule_confidence": "high",
+    "imageUrl": "/data/questions/images/gk-2011-87.jpg"
   },
   {
     "id": "gk-2011-未标注-88",
@@ -5254,7 +5346,8 @@
     "source": "2011年国家公务员考试《行测》未标注第88题",
     "isImageQuestion": true,
     "subModule": "图形推理",
-    "subModule_confidence": "high"
+    "subModule_confidence": "high",
+    "imageUrl": "/data/questions/images/gk-2011-88.jpg"
   },
   {
     "id": "gk-2011-未标注-89",
@@ -5291,7 +5384,8 @@
     "source": "2011年国家公务员考试《行测》未标注第89题",
     "isImageQuestion": true,
     "subModule": "图形推理",
-    "subModule_confidence": "high"
+    "subModule_confidence": "high",
+    "imageUrl": "/data/questions/images/gk-2011-89.jpg"
   },
   {
     "id": "gk-2011-未标注-90",
@@ -5328,7 +5422,8 @@
     "source": "2011年国家公务员考试《行测》未标注第90题",
     "isImageQuestion": true,
     "subModule": "图形推理",
-    "subModule_confidence": "high"
+    "subModule_confidence": "high",
+    "imageUrl": "/data/questions/images/gk-2011-90.jpg"
   },
   {
     "id": "gk-2011-未标注-91",
