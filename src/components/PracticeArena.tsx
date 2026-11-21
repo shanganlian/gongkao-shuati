@@ -73,6 +73,25 @@ const QuestionFigure: React.FC<{ src?: string; alt?: string }> = ({ src, alt }) 
   );
 };
 
+/**
+ * 「选项即图形」判定：题干配了图，但选项只有字母、没有文字。
+ *
+ * 这类图形推理题把 A/B/C/D 四个候选图形并排画在题干图里（从左到右），
+ * 选项区只剩字母按钮，用户容易不知道每个字母对应哪个图，故在选项上方补一行顺序提示。
+ * 有文字选项的普通题、无图题、缺图占位题都不受影响。
+ */
+const hasFigureOnlyOptions = (q?: Question | null): boolean => {
+  if (!q || !q.imageUrl) return false;
+  const options = q.options;
+  // 提示文案固定写「A、B、C、D」，所以只认标准四项且 key 顺序为 ABCD 的题
+  if (!Array.isArray(options) || options.length !== 4) return false;
+  if (options.map(opt => String(opt?.key ?? '').trim().toUpperCase()).join('') !== 'ABCD') return false;
+  return options.every(opt => !opt || typeof opt.text !== 'string' || opt.text.trim() === '');
+};
+
+/** 图推题选项顺序提示：题干图中的四个候选图形按 左 → 右 依次对应 A、B、C、D */
+const FIGURE_OPTIONS_HINT = '选项图形从左至右依次为 A、B、C、D';
+
 interface PracticeArenaProps {
   selectedCategory: TargetCategory;
   /** 切换目标考试（年份空结果时给「切换到国考卷」出口用） */
@@ -753,6 +772,13 @@ export const PracticeArena: React.FC<PracticeArenaProps> = ({
                   <MissingFigurePlaceholder compact answer={q.answer} />
                 )}
 
+                {/* 图推题：选项即图形，补一行「左→右 对应 A/B/C/D」提示 */}
+                {hasFigureOnlyOptions(q) && (
+                  <p className="text-[11px] sm:text-xs leading-relaxed text-slate-500 dark:text-slate-400">
+                    {FIGURE_OPTIONS_HINT}
+                  </p>
+                )}
+
                 {/* Options */}
                 <div className="grid grid-cols-1 sm:grid-cols-2 gap-2">
                   {q.options?.map((opt) => {
@@ -1042,6 +1068,13 @@ export const PracticeArena: React.FC<PracticeArenaProps> = ({
               <QuestionFigure src={currentReviewQ.imageUrl} />
               {currentReviewQ.isImageQuestion && !currentReviewQ.imageUrl && (
                 <MissingFigurePlaceholder compact answer={currentReviewQ.answer} />
+              )}
+
+              {/* 图推题：选项即图形，补一行「左→右 对应 A/B/C/D」提示 */}
+              {hasFigureOnlyOptions(currentReviewQ) && (
+                <p className="text-[11px] sm:text-xs leading-relaxed text-slate-500 dark:text-slate-400">
+                  {FIGURE_OPTIONS_HINT}
+                </p>
               )}
 
               {/* Options */}
@@ -1383,6 +1416,12 @@ export const PracticeArena: React.FC<PracticeArenaProps> = ({
 
               {/* Options */}
               <div className="space-y-2.5 pt-2">
+                {/* 图推题：选项即图形，补一行「左→右 对应 A/B/C/D」提示 */}
+                {hasFigureOnlyOptions(currentQ) && (
+                  <p className="text-[11px] sm:text-xs leading-relaxed text-slate-500 dark:text-slate-400">
+                    {FIGURE_OPTIONS_HINT}
+                  </p>
+                )}
                 {currentQ.options && currentQ.options.length > 0 ? currentQ.options.map((opt) => {
                   const isSelected = selectedAnswers[currentQ.id] === opt.key;
                   const isSubmitted = submittedQuestions[currentQ.id];
