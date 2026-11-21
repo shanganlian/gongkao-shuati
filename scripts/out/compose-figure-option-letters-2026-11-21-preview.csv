@@ -1,0 +1,30 @@
+﻿id,分片,imageUrl,原图尺寸,版式,选项区y,四格中心x,字高px,基线y,放置方式,画布下延px,原图区差异像素,输出文件,状态,原因
+gk-2000-未标注-61,national-none-panduan-0.json,/data/questions/images/gk-2000-61.jpg,348x111,有框→四等分,59-106,88.0 / 141.5 / 202.0 / 257.5,17,132.0,框外（画布下延 25px）,25,0,scripts/out/_letter-preview/gk-2000-未标注-61.png,ok,
+gk-2000-未标注-62,national-none-panduan-0.json,/data/questions/images/gk-2000-62.jpg,348x110,有框→四等分,58-105,83.5 / 142.0 / 200.0 / 261.0,17,131.0,框外（画布下延 25px）,25,0,scripts/out/_letter-preview/gk-2000-未标注-62.png,ok,
+gk-2000-未标注-63,national-none-panduan-0.json,/data/questions/images/gk-2000-63.jpg,348x110,有框→四等分,58-105,80.0 / 136.0 / 200.0 / 260.0,17,131.0,框外（画布下延 25px）,25,0,scripts/out/_letter-preview/gk-2000-未标注-63.png,ok,
+gk-2000-未标注-64,national-none-panduan-0.json,/data/questions/images/gk-2000-64.jpg,348x111,有框→四等分,59-106,81.5 / 139.0 / 200.0 / 257.0,17,132.0,框外（画布下延 25px）,25,0,scripts/out/_letter-preview/gk-2000-未标注-64.png,ok,
+gk-2000-未标注-65,national-none-panduan-0.json,/data/questions/images/gk-2000-65.jpg,382x121,有框→四等分,64-115,90.0 / 157.0 / 222.5 / 289.5,18,142.0,框外（画布下延 25px）,25,0,scripts/out/_letter-preview/gk-2000-未标注-65.png,ok,
+gk-2000-未标注-66,national-none-panduan-0.json,/data/questions/images/gk-2000-66.png,399x127,有框→四等分,67-120,87.5 / 159.0 / 230.5 / 299.0,18,149.0,框外（画布下延 26px）,26,0,scripts/out/_letter-preview/gk-2000-未标注-66.png,ok,
+gk-2000-未标注-67,national-none-panduan-0.json,/data/questions/images/gk-2000-67.jpg,348x111,有框→四等分,59-106,78.0 / 139.5 / 203.0 / 260.0,17,132.0,框外（画布下延 25px）,25,0,scripts/out/_letter-preview/gk-2000-未标注-67.png,ok,
+gk-2000-未标注-68,national-none-panduan-0.json,/data/questions/images/gk-2000-68.jpg,348x110,有框→四等分,58-105,80.5 / 144.0 / 205.5 / 259.0,17,131.0,框外（画布下延 25px）,25,0,scripts/out/_letter-preview/gk-2000-未标注-68.png,ok,
+gk-2000-未标注-69,national-none-panduan-0.json,/data/questions/images/gk-2000-69.jpg,348x111,有框→四等分,59-106,83.5 / 140.0 / 202.5 / 263.0,17,132.0,框外（画布下延 25px）,25,0,scripts/out/_letter-preview/gk-2000-未标注-69.png,ok,
+gk-2000-未标注-70,national-none-panduan-0.json,/data/questions/images/gk-2000-70.jpg,348x110,有框→四等分,58-105,81.0 / 138.5 / 200.5 / 257.0,17,131.0,框外（画布下延 25px）,25,0,scripts/out/_letter-preview/gk-2000-未标注-70.png,ok,
+gk-2001-未标注-71,national-none-panduan-0.json,/data/questions/images/gk-2001-71.jpg,348x111,有框→四等分,59-106,82.0 / 138.5 / 198.0 / 254.0,17,132.0,框外（画布下延 25px）,25,0,scripts/out/_letter-preview/gk-2001-未标注-71.png,ok,
+gk-2001-未标注-72,national-none-panduan-0.json,/data/questions/images/gk-2001-72.jpg,347x112,有框→四等分,59-107,80.0 / 136.0 / 201.0 / 262.0,17,133.0,框外（画布下延 25px）,25,0,scripts/out/_letter-preview/gk-2001-未标注-72.png,ok,
+gk-2001-未标注-73,national-none-panduan-0.json,/data/questions/images/gk-2001-73.jpg,348x111,有框→四等分,59-106,78.0 / 136.5 / 204.0 / 261.0,17,132.0,框外（画布下延 25px）,25,0,scripts/out/_letter-preview/gk-2001-未标注-73.png,ok,
+gk-2001-未标注-74,national-none-panduan-0.json,/data/questions/images/gk-2001-74.jpg,348x111,有框→四等分,59-106,82.0 / 137.0 / 201.0 / 258.0,17,132.0,框外（画布下延 25px）,25,0,scripts/out/_letter-preview/gk-2001-未标注-74.png,ok,
+gk-2001-未标注-75,national-none-panduan-0.json,/data/questions/images/gk-2001-75.jpg,348x112,有框→四等分,59-107,78.5 / 137.5 / 204.5 / 262.5,17,133.0,框外（画布下延 25px）,25,0,scripts/out/_letter-preview/gk-2001-未标注-75.png,ok,
+gk-2001-未标注-76,national-none-panduan-0.json,/data/questions/images/gk-2001-76.jpg,348x111,有框→四等分,59-106,76.5 / 141.5 / 205.5 / 259.5,17,132.0,框外（画布下延 25px）,25,0,scripts/out/_letter-preview/gk-2001-未标注-76.png,ok,
+gk-2001-未标注-77,national-none-panduan-0.json,/data/questions/images/gk-2001-77.jpg,348x111,有框→四等分,59-106,82.5 / 136.5 / 200.5 / 256.5,17,132.0,框外（画布下延 25px）,25,0,scripts/out/_letter-preview/gk-2001-未标注-77.png,ok,
+gk-2001-未标注-78,national-none-panduan-0.json,/data/questions/images/gk-2001-78.jpg,348x112,有框→四等分,59-107,78.0 / 137.0 / 200.0 / 258.0,17,133.0,框外（画布下延 25px）,25,0,scripts/out/_letter-preview/gk-2001-未标注-78.png,ok,
+gk-2001-未标注-79,national-none-panduan-0.json,/data/questions/images/gk-2001-79.jpg,348x111,有框→四等分,59-106,80.5 / 138.0 / 201.5 / 258.5,17,132.0,框外（画布下延 25px）,25,0,scripts/out/_letter-preview/gk-2001-未标注-79.png,ok,
+gk-2003-A卷-23,national-none-panduan-0.json,/data/questions/images/gk-2003-A-23.jpg,348x111,有框→四等分,59-106,75.5 / 146.0 / 207.5 / 275.0,17,132.0,框外（画布下延 25px）,25,0,scripts/out/_letter-preview/gk-2003-A卷-23.png,ok,
+gk-2003-A卷-24,national-none-panduan-0.json,/data/questions/images/gk-2003-A-24.jpg,348x112,有框→四等分,59-107,72.5 / 135.0 / 204.0 / 269.0,17,133.0,框外（画布下延 25px）,25,0,scripts/out/_letter-preview/gk-2003-A卷-24.png,ok,
+gk-2003-A卷-25,national-none-panduan-0.json,/data/questions/images/gk-2003-A-25.jpg,348x111,有框→四等分,59-106,70.5 / 136.5 / 210.5 / 271.5,17,132.0,框外（画布下延 25px）,25,0,scripts/out/_letter-preview/gk-2003-A卷-25.png,ok,
+gk-2006-一卷-52,national-none-panduan-1.json,/data/questions/images/gk-2006-1-52.jpg,179x212,无框→列簇四格,162-211,9.5 / 62.5 / 115.5 / 168.5,11,226.0,框外（画布下延 17px）,17,0,scripts/out/_letter-preview/gk-2006-一卷-52.png,ok,
+gk-2003-A卷-16,national-none-panduan-0.json,/data/questions/images/gk-2003-A-16.jpg,,,,,,,,,,,failed,选项区高 49px = 全图 89%，不是底部独立一条（疑似整图为题干两套图形，图内没有独立选项行）
+gk-2003-A卷-17,national-none-panduan-0.json,/data/questions/images/gk-2003-A-17.jpg,,,,,,,,,,,failed,选项区高 49px = 全图 89%，不是底部独立一条（疑似整图为题干两套图形，图内没有独立选项行）
+gk-2003-A卷-18,national-none-panduan-0.json,/data/questions/images/gk-2003-A-18.jpg,,,,,,,,,,,failed,第 1/2 格分界 x=89 处压着图形墨迹（非格线），四等分不成立
+gk-2003-A卷-19,national-none-panduan-0.json,/data/questions/images/gk-2003-A-19.jpg,,,,,,,,,,,failed,选项区高 48px = 全图 89%，不是底部独立一条（疑似整图为题干两套图形，图内没有独立选项行）
+gk-2003-A卷-20,national-none-panduan-0.json,/data/questions/images/gk-2003-A-20.jpg,,,,,,,,,,,failed,选项区高 48px = 全图 89%，不是底部独立一条（疑似整图为题干两套图形，图内没有独立选项行）
+gk-2003-A卷-21,national-none-panduan-0.json,/data/questions/images/gk-2003-A-21.jpg,,,,,,,,,,,failed,选项区高 48px = 全图 89%，不是底部独立一条（疑似整图为题干两套图形，图内没有独立选项行）

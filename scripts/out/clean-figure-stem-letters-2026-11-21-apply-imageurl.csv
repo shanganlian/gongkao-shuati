@@ -1,0 +1,7 @@
+﻿id,分片,数组序号,imageUrl_前,imageUrl_后,状态,说明
+"gk-2003-A卷-16","national-none-panduan-0.json","137","/data/questions/images/gk-2003-A-16.jpg","","null","置空 → 前端走 MissingFigurePlaceholder 缺图占位卡"
+"gk-2003-A卷-17","national-none-panduan-0.json","138","/data/questions/images/gk-2003-A-17.jpg","","null","置空 → 前端走 MissingFigurePlaceholder 缺图占位卡"
+"gk-2003-A卷-18","national-none-panduan-0.json","139","/data/questions/images/gk-2003-A-18.jpg","","null","置空 → 前端走 MissingFigurePlaceholder 缺图占位卡"
+"gk-2003-A卷-19","national-none-panduan-0.json","140","/data/questions/images/gk-2003-A-19.jpg","","null","置空 → 前端走 MissingFigurePlaceholder 缺图占位卡"
+"gk-2003-A卷-20","national-none-panduan-0.json","141","/data/questions/images/gk-2003-A-20.jpg","","null","置空 → 前端走 MissingFigurePlaceholder 缺图占位卡"
+"gk-2003-A卷-21","national-none-panduan-0.json","142","/data/questions/images/gk-2003-A-21.jpg","","null","置空 → 前端走 MissingFigurePlaceholder 缺图占位卡"

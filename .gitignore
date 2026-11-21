@@ -16,6 +16,12 @@ backup-*/
 _*.txt
 _*.mjs
 *.bak.docx
+# 图推选项字母合成预览产物（可随时重跑，不入库）
+scripts/out/_letter-preview/
+scripts/out/_inspect/
+# 落库前的本地回滚备份（原图 / 分片），可用 --restore 回滚或从 git 取回，不入库
+scripts/out/_backup*/
+
 
 # 注意：scripts/*.cjs 是题库治理与校验脚本，需要纳入版本管理，不要忽略
 

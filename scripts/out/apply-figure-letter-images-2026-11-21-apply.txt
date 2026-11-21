@@ -1,0 +1,159 @@
+===== 图推选项字母图落库（原路径覆盖）=====
+模式      : apply（备份 + 覆盖原图）
+日期      : 2026-11-21
+预览报告  : scripts/out/compose-figure-option-letters-2026-11-21-preview.csv
+原图目录  : public/data/questions/images
+备份目录  : scripts/out/_backup-letters-2026-11-21
+
+-- 一、总览 --
+  计划张数      : 23 张
+  待写 / 已写   : 23 张
+  本来就是新图  : 0 张（幂等跳过）
+  失败 / 拦截   : 0 张
+  imageUrl 改动 : 0 处（原路径覆盖，字段不动）
+
+-- 二、逐图明细（23 张）--
+[ 1] gk-2000-未标注-61  → written
+      imageUrl: /data/questions/images/gk-2000-61.jpg
+      合成图  : scripts/out/_letter-preview/gk-2000-未标注-61.png
+      哈希    : 838b9a0487c4 → 126caa44ed03
+      现行尺寸: 348x136 png
+      说明    : 已备份原图；已覆盖原路径
+[ 2] gk-2000-未标注-62  → written
+      imageUrl: /data/questions/images/gk-2000-62.jpg
+      合成图  : scripts/out/_letter-preview/gk-2000-未标注-62.png
+      哈希    : bf1662ae7e6b → 9a1597dc59b4
+      现行尺寸: 348x135 png
+      说明    : 已备份原图；已覆盖原路径
+[ 3] gk-2000-未标注-63  → written
+      imageUrl: /data/questions/images/gk-2000-63.jpg
+      合成图  : scripts/out/_letter-preview/gk-2000-未标注-63.png
+      哈希    : 9950d7af1426 → cdd671b8b17b
+      现行尺寸: 348x135 png
+      说明    : 已备份原图；已覆盖原路径
+[ 4] gk-2000-未标注-64  → written
+      imageUrl: /data/questions/images/gk-2000-64.jpg
+      合成图  : scripts/out/_letter-preview/gk-2000-未标注-64.png
+      哈希    : 2566571176d6 → eec99ab1c6fa
+      现行尺寸: 348x136 png
+      说明    : 已备份原图；已覆盖原路径
+[ 5] gk-2000-未标注-65  → written
+      imageUrl: /data/questions/images/gk-2000-65.jpg
+      合成图  : scripts/out/_letter-preview/gk-2000-未标注-65.png
+      哈希    : fd3a58df57d0 → 78bef419566d
+      现行尺寸: 382x146 png
+      说明    : 已备份原图；已覆盖原路径
+[ 6] gk-2000-未标注-66  → written
+      imageUrl: /data/questions/images/gk-2000-66.png
+      合成图  : scripts/out/_letter-preview/gk-2000-未标注-66.png
+      哈希    : 2debceca2934 → 7a4e2fbc75c8
+      现行尺寸: 399x153 png
+      说明    : 已备份原图；已覆盖原路径
+[ 7] gk-2000-未标注-67  → written
+      imageUrl: /data/questions/images/gk-2000-67.jpg
+      合成图  : scripts/out/_letter-preview/gk-2000-未标注-67.png
+      哈希    : e07302851600 → 7b5c295a1700
+      现行尺寸: 348x136 png
+      说明    : 已备份原图；已覆盖原路径
+[ 8] gk-2000-未标注-68  → written
+      imageUrl: /data/questions/images/gk-2000-68.jpg
+      合成图  : scripts/out/_letter-preview/gk-2000-未标注-68.png
+      哈希    : 6f247ce8fb87 → 7f5dae949b04
+      现行尺寸: 348x135 png
+      说明    : 已备份原图；已覆盖原路径
+[ 9] gk-2000-未标注-69  → written
+      imageUrl: /data/questions/images/gk-2000-69.jpg
+      合成图  : scripts/out/_letter-preview/gk-2000-未标注-69.png
+      哈希    : 22f9a911c49f → 2bc91374f797
+      现行尺寸: 348x136 png
+      说明    : 已备份原图；已覆盖原路径
+[10] gk-2000-未标注-70  → written
+      imageUrl: /data/questions/images/gk-2000-70.jpg
+      合成图  : scripts/out/_letter-preview/gk-2000-未标注-70.png
+      哈希    : 39820ea4c4dd → 3bd19751b58c
+      现行尺寸: 348x135 png
+      说明    : 已备份原图；已覆盖原路径
+[11] gk-2001-未标注-71  → written
+      imageUrl: /data/questions/images/gk-2001-71.jpg
+      合成图  : scripts/out/_letter-preview/gk-2001-未标注-71.png
+      哈希    : 76c59bec9d2f → c1aefa15336f
+      现行尺寸: 348x136 png
+      说明    : 已备份原图；已覆盖原路径
+[12] gk-2001-未标注-72  → written
+      imageUrl: /data/questions/images/gk-2001-72.jpg
+      合成图  : scripts/out/_letter-preview/gk-2001-未标注-72.png
+      哈希    : ae7e6a05a15a → 8eb082ec4446
+      现行尺寸: 347x137 png
+      说明    : 已备份原图；已覆盖原路径
+[13] gk-2001-未标注-73  → written
+      imageUrl: /data/questions/images/gk-2001-73.jpg
+      合成图  : scripts/out/_letter-preview/gk-2001-未标注-73.png
+      哈希    : c9041010cae0 → 3218fac455d4
+      现行尺寸: 348x136 png
+      说明    : 已备份原图；已覆盖原路径
+[14] gk-2001-未标注-74  → written
+      imageUrl: /data/questions/images/gk-2001-74.jpg
+      合成图  : scripts/out/_letter-preview/gk-2001-未标注-74.png
+      哈希    : 80043e329ec8 → d3fd6e71a9cf
+      现行尺寸: 348x136 png
+      说明    : 已备份原图；已覆盖原路径
+[15] gk-2001-未标注-75  → written
+      imageUrl: /data/questions/images/gk-2001-75.jpg
+      合成图  : scripts/out/_letter-preview/gk-2001-未标注-75.png
+      哈希    : 255566011a06 → 251e2484bcec
+      现行尺寸: 348x137 png
+      说明    : 已备份原图；已覆盖原路径
+[16] gk-2001-未标注-76  → written
+      imageUrl: /data/questions/images/gk-2001-76.jpg
+      合成图  : scripts/out/_letter-preview/gk-2001-未标注-76.png
+      哈希    : 6afd118f8269 → e0dc8fe374da
+      现行尺寸: 348x136 png
+      说明    : 已备份原图；已覆盖原路径
+[17] gk-2001-未标注-77  → written
+      imageUrl: /data/questions/images/gk-2001-77.jpg
+      合成图  : scripts/out/_letter-preview/gk-2001-未标注-77.png
+      哈希    : f759444627f6 → ce846a8fcaba
+      现行尺寸: 348x136 png
+      说明    : 已备份原图；已覆盖原路径
+[18] gk-2001-未标注-78  → written
+      imageUrl: /data/questions/images/gk-2001-78.jpg
+      合成图  : scripts/out/_letter-preview/gk-2001-未标注-78.png
+      哈希    : 1a48fa118e17 → 57624aa6262b
+      现行尺寸: 348x137 png
+      说明    : 已备份原图；已覆盖原路径
+[19] gk-2001-未标注-79  → written
+      imageUrl: /data/questions/images/gk-2001-79.jpg
+      合成图  : scripts/out/_letter-preview/gk-2001-未标注-79.png
+      哈希    : d1948d664d6d → f177c92a45bf
+      现行尺寸: 348x136 png
+      说明    : 已备份原图；已覆盖原路径
+[20] gk-2003-A卷-23  → written
+      imageUrl: /data/questions/images/gk-2003-A-23.jpg
+      合成图  : scripts/out/_letter-preview/gk-2003-A卷-23.png
+      哈希    : 1c45e310f6bb → 29d9f1af7381
+      现行尺寸: 348x136 png
+      说明    : 已备份原图；已覆盖原路径
+[21] gk-2003-A卷-24  → written
+      imageUrl: /data/questions/images/gk-2003-A-24.jpg
+      合成图  : scripts/out/_letter-preview/gk-2003-A卷-24.png
+      哈希    : 7b913579e77e → c377e2afada8
+      现行尺寸: 348x137 png
+      说明    : 已备份原图；已覆盖原路径
+[22] gk-2003-A卷-25  → written
+      imageUrl: /data/questions/images/gk-2003-A-25.jpg
+      合成图  : scripts/out/_letter-preview/gk-2003-A卷-25.png
+      哈希    : c66930096f2d → 7e05103e7430
+      现行尺寸: 348x136 png
+      说明    : 已备份原图；已覆盖原路径
+[23] gk-2006-一卷-52  → written
+      imageUrl: /data/questions/images/gk-2006-1-52.jpg
+      合成图  : scripts/out/_letter-preview/gk-2006-一卷-52.png
+      哈希    : 02fbe33bef5e → 37b6a02b0f23
+      现行尺寸: 179x229 png
+      说明    : 已备份原图；已覆盖原路径
+
+报告文件     : scripts/out/apply-figure-letter-images-2026-11-21-apply.txt
+逐图明细 CSV : scripts/out/apply-figure-letter-images-2026-11-21-apply.csv
+备份清单     : scripts/out/_backup-letters-2026-11-21/_manifest.csv
+
+结论：已覆盖 23 张原图（备份在 scripts/out/_backup-letters-2026-11-21），幂等跳过 0 张。
